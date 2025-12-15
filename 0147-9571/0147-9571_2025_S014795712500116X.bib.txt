@@ -1,0 +1,13 @@
+@article{BOUKHALFA2025102408,
+title = {Prevalence and risk factors of Chlamydia abortus infection in small ruminants from North-Central Algeria},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {124},
+pages = {102408},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102408},
+url = {https://www.sciencedirect.com/science/article/pii/S014795712500116X},
+author = {Nabila Boukhalfa and Mohamed Douifi},
+keywords = {, Small ruminants, Prevalence, Risk factors, Algeria},
+abstract = {Chlamydia abortus is a zoonotic pathogen responsible for enzootic abortion in sheep and goats, posing a significant threat to both livestock productivity and public health. In order to assess the prevalence of Chlamydia abortus and associated risk factors in the small ruminant population, a cross-sectional study was conducted between January 2023 and December 2024 across four provinces in north-central Algeria (Medea, Blida, Aïn Defla, and Djelfa). A total of 896 sheep and goats from 96 herds were tested using an indirect ELISA targeting anti-C. abortus IgG antibodies. The prevalence at the herd level and the individual level was 84.4 % and 30.4 %, respectively. Mixed-species herds showed the highest herd-level prevalence (87.8 %), followed by sheep (82.8 %) and goat herds (77.8 %). Transhumant herds (91.4 %) and those with reproductive losses (90.5 %) exhibited elevated prevalence rates, although the differences were not statistically significant. In contrast, large herds (>100 head) had significantly higher infection rates (95.2 %). At the individual level, females had a higher, though non-significant, prevalence than males (31.8 % vs. 25.3 %). Animals older than four years and females with reproductive disorders exhibited the highest seroprevalence rates (38.2 % and 60.0 %, respectively), both associations being statistically significant. The province of Djelfa emerged as the most affected province, with the highest herd-level (91.4 %) and individual-level (36.5 %) prevalence. These findings confirm the endemicity of Chlamydia abortus in north-central Algeria and call for improved surveillance and prevention.}
+}

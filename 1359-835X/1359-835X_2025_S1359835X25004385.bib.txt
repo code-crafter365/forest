@@ -1,0 +1,13 @@
+@article{ISHIDA2025109144,
+title = {Thermoplastic impregnation of recycled carbon fiber nonwoven fabric under velocity-controlled compression},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109144},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109144},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004385},
+author = {Osuke Ishida and Junichi Kitada and Katsuhiko Nunotani and Kiyoshi Uzawa},
+keywords = {Carbon fiber, Thermoplastic resin, Process monitoring, Compression molding, Recycling},
+abstract = {Thermoplastic impregnation behavior is an important factor in the fabrication of organosheets using recycled carbon fiber (rCF) nonwoven fabric. This study investigates the thermoplastic impregnation mechanism under velocity-controlled compression. A stack of rCF nonwoven fabric and viscous fluid is compressed using a testing machine, and the resulting impregnation behavior is evaluated. The process reveals substantial deformation of the nonwoven fabric and a significant pressure rise, leading to variations in the fiber volume fraction (Vf) and permeability. A simplified impregnation model incorporating these factors is developed, demonstrating good agreement with experimental results. Parametric analysis using the model highlights the influence of processing parameters on the pressure rise and the critical role of the target Vf in determining impregnation behavior. Finally, the model is applied to a multiple-roller impregnation process with a double-belt press, enabling optimized selection of belt gaps based on pressure rise to efficiently distribute loads across the rollers.}
+}

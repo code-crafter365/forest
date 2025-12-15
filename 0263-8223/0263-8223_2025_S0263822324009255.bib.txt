@@ -1,0 +1,13 @@
+@article{BURHAN2025118797,
+title = {A finite fracture mechanics approach to assess the fatigue life of laminates exhibiting free edge effects},
+journal = {Composite Structures},
+volume = {354},
+pages = {118797},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118797},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009255},
+author = {Mohammad Burhan and Zahur Ullah and Zafer Kazancı and Giuseppe Catalanotti},
+keywords = {Fatigue life assessment, Finite Fracture Mechanics (FFM), Interlaminar stresses, Energy release rate (ERR), Free edge effect},
+abstract = {This study presents the application of a 3D Finite Fracture Mechanics (FFM) criterion for predicting fatigue life estimation of laminates exhibiting free edge effects. The proposed 3D FFM fatigue criterion incorporates interface properties such as the critical interlaminar stress and the incremental energy release rate as functions of the number of cycles. Material constants calibration involves computing critical interlaminar stress using effective stress distribution over an average delamination onset width while assuming a quadratic relation between critical incremental energy release rate and nominal remote maximum stress cycle. The 3D FFM fatigue criterion system of equations consists of two inequalities solved for a unique solution by assuming homothetic crack extension and utilising a non-linear constraint optimisation. The proposed methodology predicts that lower angles of ply orientation in angle-ply laminates exhibit greater finite fatigue life for a given remote cyclic load. Predictions of fatigue life estimation align well with the experimental results from the literature.}
+}

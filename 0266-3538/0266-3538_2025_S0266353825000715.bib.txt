@@ -1,0 +1,13 @@
+@article{SU2025111103,
+title = {Combining oriented ceramic skeleton and porous PDMS towards high performance flexible piezoelectric energy harvester},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111103},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111103},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000715},
+author = {Xiaosen Su and Weilin Liao and Fei Fang},
+keywords = {Flexible piezoelectric energy harvester, Freeze casting, Piezoelectric composite, Ceramic skeletons, Finite element simulation},
+abstract = {Flexible piezoelectric energy harvesters (FPEHs) made of polymer-based piezoelectric composites are urgently needed for powering wearable electronics. Employing water-based freeze casting and emulsion-template method, a porous structured Barium titanate(BaTiO3)/PDMS composite is obtained, which combines the piezoelectric ceramics with piezoelectric electret. For the BaTiO3 ceramic skeletons, three different pore arrangements are obtained by utilizing flat-bottomed mold, wedge-shaped mold and round-table mold. The ceramic skeletons are then encapsulated with the PDMS matrix with and without porous forming ingredient. Finite element simulation is carried out to reveal the influence of the alignment of BaTiO3 skeleton and porous PDMS on the piezoelectric behavior. The output performance is investigated for the BaTiO3/PDMS composite upon a vibration exciter, as well as human motion. It is found that the BaTiO3 skeleton with a scattered porous structure aligned in the horizontal direction, encapsulated with a porous PDMS possesses the most prominent output voltage and power, reaching 6.63 V and 26.46 μW, respectively upon a compressive load of 21 N at 8 Hz. Moreover, a smart insole based on the porous structured BaTiO3/PDMS piezocomposites with both energy harvesting and posture recognition functions is constructed. The open-circuit voltage of the smart insole reachs 40 V in jumping states, and can successfully power an alarm clock. The study offers a new approach for designing of the flexible piezoelectric composites for applications in energy harvesting and posture recognition.}
+}

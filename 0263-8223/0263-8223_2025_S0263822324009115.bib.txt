@@ -1,0 +1,13 @@
+@article{HU2025118783,
+title = {Theoretical model combined finite element approach for studying mechanical behavior of shape memory hydrogel ribbed sheet with stretch-trigged bend effect},
+journal = {Composite Structures},
+volume = {354},
+pages = {118783},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118783},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009115},
+author = {Yunqiang Hu and Chengjun Zeng and Jian Sun and Fei Jia and Jinsong Leng and Yanju Liu},
+keywords = {Shape memory hydrogel, Ribbed sheet, Stretch-trigged bend, Curvature-strain relationship},
+abstract = {Shape memory hydrogels(SMHs) are a kind of novel shape memory soft materials. Although SMHs constitutive models have been developed, explorations about deformation laws of SMH structures are inadequate. As a kind of representative structure, a SMH ribbed sheet can deform to a circle due to stretch-trigged bend effect and its deformed configuration can be fixed due to shape memory effect. To date, deformation laws of SMH ribbed sheet are still unclear, which is not conducive to SMHs application. In this work, the mechanical behavior of SMH ribbed sheet is investigated through theoretical analysis and finite element simulation. The curvature-strain relationship is deduced for multi-materials and trapezium rib ribbed sheets. Then we demonstrated constraint swelling, uniaxial tension, and shape memory cycle of SMH ribbed sheet through finite element simulation based on our previously established constitutive model. Theoretical predictions and simulation outputs are compared and they are in agreement with each other. This work clarifies the deformation laws of the SMH ribbed sheet and could give guidance for SMHs structure design.}
+}

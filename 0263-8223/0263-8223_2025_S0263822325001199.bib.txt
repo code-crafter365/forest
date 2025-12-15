@@ -1,0 +1,13 @@
+@article{WANG2025118954,
+title = {High-performance W-Cu composite with a layered hierarchical structure},
+journal = {Composite Structures},
+volume = {357},
+pages = {118954},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118954},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001199},
+author = {Yijing Wang and Yaochuan Sun and Tielong Han and Zhi Zhao and Chao Hou and Yurong Li and Xiaoyan Song},
+keywords = {Metal matrix composites, Heterostructure, Nanocomposite, Wear, Finite element simulation},
+abstract = {Conventional tungsten-copper (W-Cu) composites typically exhibit a homogeneous distribution of tungsten phase. However, there usually exists an trade-off between their mechanical properties and conductivity, thereby significantly limiting their potential applications. In this study, a novel approach was proposed to concurrently enhance the compressive strength, wear resistance, and electrical conductivity by constructing a layered hierarchical structure consisting of alternating copper layers and nano W-Cu layers. Compared with the uniform-structured W-Cu, it was found that the layered hierarchical W-Cu had an enhanced stress partitioning of the tungsten phase and a more concentrated distribution of current density in the copper layer. This resulted in improvements in both strength and conductivity. Furthermore, the development of a homogeneous oxide mixture layer on the wear scar surface contributes to a reduction in friction coefficient. When combined with the exceptional strength of the nanostructured W-Cu layer, the wear resistance of the layered hierarchical W-Cu was enhanced. This study highlights the pivotal role of multilevel structural design in development of high-performance bimetallic composites.}
+}

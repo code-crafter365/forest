@@ -1,0 +1,13 @@
+@article{NOURELDEIN2025108769,
+title = {Multiscale structural analysis of plant fibre-reinforced thermoplastic biocomposites: Towards realistic 2D and 3D descriptors for advanced modelling},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108769},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108769},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000636},
+author = {Ali {Nour El Dein} and Nicolas {Le Moigne} and Monica Francesca Pucci and Arnaud Regazzi and Antoine Barbulée and Olivier Gamond and Anne-Sophie Caro},
+keywords = {Biocomposites, Plant fibres, Microstructure, X-ray tomography},
+abstract = {This study presents an in-depth microstructural analysis of injection-moulded polypropylene composites reinforced with flax shives (FS) of different sizes and compounded by twin-screw extrusion. A multi-scale approach, using laser diffraction, 2D scanning, scanning electron microscopy (SEM) and X-ray tomography, is developed to investigate the influence of initial FS size distribution on composite microstructure, including FS size and shape distribution, orientation, and dispersion. The 2D scanner proves to be the most practical and user-friendly tool for measuring FS size and shape distribution. Fibre size reduction during extrusion was successfully modelled, particularly for aspect ratio estimation, with medium-sized particles yielding the highest aspect ratios in injection moulded specimens. SEM observations reveals that fine particles give the best dispersion. FS orientation analysis using X-ray tomography shows that medium-sized particles align more along the injection flow compared to coarser particles. Such 2D and 3D microstructural analyses are required for advanced modelling of biocomposite properties.}
+}

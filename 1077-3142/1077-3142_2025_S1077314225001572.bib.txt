@@ -1,0 +1,13 @@
+@article{WU2025104434,
+title = {SPKDB-Net: A Salient-Part Pose Keypoints-Based Dual-Branch Network for repetitive action counting},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104434},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104434},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001572},
+author = {Jinying Wu and Jun Li and Qiming Li},
+keywords = {Repetitive action counting, Salient-part pose keypoints, Dual-branch network},
+abstract = {With the continuous development of deep learning, the field of repetitive action counting is gradually gaining notice from many researchers. Extraction of pose keypoints using human pose estimation networks is proven to be an effective pose-level method. However, the existing pose-level methods have some drawbacks, for example, ignoring the fact that occlusion and unfavourable viewing angles in videos lead to affect the accuracy of pose keypoints extraction. To overcome these problems, we propose a simple but efficient Salient-Part Pose Keypoints-Based Dual-Branch Network (SPKDB-Net). Specifically, we design a dual-branch input channel consisting of a global-based and a salient-part input branch. The global-based input branch is used to input the pose keypoints of the whole body extracted by the human pose estimation network, and the salient-part input branch is used to input the salient-part pose keypoints (i.e., head, shoulders, and hands). The second branch acts as an auxiliary to the first branch, thus effectively addressing the influence of external factors. In addition, we propose a DFEPM-Module that obtains long-distance dependency between pose keypoints through the attention mechanism, and obtains salient local features fused by the attention mechanism through convolution. Eventually, extensive experiments on the challenging RepCount-pose, UCFRep-pose and Countix-Fitness-pose benchmarks show that our proposed SPKDB-Net achieves state-of-the-art performance.}
+}

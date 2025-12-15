@@ -1,0 +1,13 @@
+@article{CHEN2025114388,
+title = {Surface-modified electrospun poly-ε-caprolactone incorporating ZnO NPs and QK peptide to repair bone defect via osteogenesis, angiogenesis and antibacterial},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114388},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114388},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006477},
+author = {Yu Chen and Junyan Liu and Zhongyu Dai and Hongkun Hu and Zhichen Liu and Wenbin Liu},
+keywords = {Electrospinning, Poly-ε-caprolactone, ZnO, QK peptide, Antibacterial},
+abstract = {Revealing excellent materials for bone defect repair or bionic periosteum fabrication, as well as addressing infection post orthopedic implantation, continue to pose challenges in bone tissue engineering. Reaping the benefits of electrospinning technology, poly-ε-caprolactone (PCL) nanoﬁbers have been fabricated, exhibiting excellent biocompatibility and plasticity. In this study, electrospun PCL nanoﬁber was employed as a substrate to generate an alternative with promising clinical potential. The incorporation of zinc oxide nanoparticles (ZnO NPs) enhances the antibacterial properties of PCL nanoﬁber, thereby addressing infection-related concerns through releasing Zn2+. Moreover, dual surface modifications of polydopamine (PDA) and vascular endothelial growth factor mimics peptide (QK) were utilized, in combination with Zn2+, to promote osteogenesis and angiogenesis. After a comprehensive characterization process, the successful synthesis of composite nanofibers with ZnO NPs and dual surface modifications was confirmed. The in vitro studies have shown that the composite nanofibers have excellent biocompatibility and antibacterial activity. The composite nanofibers also demonstrate the capacity to enhance osteogenesis and angiogenesis. The results of subcutaneous infection experiment confirm the composite nanofibers can still play a role in vivo. These findings suggest that the composite nanofibers possess significant potential as an orthopedic implant for addressing clinical challenges.}
+}

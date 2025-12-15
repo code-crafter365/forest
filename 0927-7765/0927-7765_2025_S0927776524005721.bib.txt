@@ -1,0 +1,13 @@
+@article{DOBRUCKA2025114313,
+title = {Innovative active bio-based food packaging material with Cannabis sativa L. seeds extract as an agent to reduce food waste},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114313},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114313},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005721},
+author = {Renata Dobrucka and Jolanta Dlugaszewska and Mikołaj Pawlik and Marcin Szymański},
+keywords = {Antibacterial packaging, Food packaging,  L. seeds, Pectin},
+abstract = {In the present study, ethanolic extracts from the extract of unshelled seeds of Cannabis sativa L. were used to produce films in order not to generate additional waste, taking into view a circular economy. Combinations of apple pectin and citrus pectin in a ratio of 80:20 were used. Film samples containing 0.5, 1.0 and 2.5 [wt%] of the extract were extruded. Antimicrobial, mechanical and barrier properties of the obtained films were tested. Samples with 0.5 [wt%] showed a WVTR of 16.98 [g/m2d]. The water vapour barrier properties of the films decreased with an increase in the amount of extract used. As the amount of extract increased, the transparency of the films decreased linearly to 12.84 [%] (0.5 [wt%]), 4.90 [%] (1.0 [wt%]) and 4.99 [%] (2.5 [wt%]). It was observed that the brightness of the samples decreased with increasing concentration, due to the presence of higher levels of phenolic compounds. Tests carried out showed that the prepared films exhibited inhibitory activity against all micrograms tested. All prepared films had antibacterial activity against the Salmonella typhimurium strain. Similarly, in the case of L. monocytogenes.}
+}

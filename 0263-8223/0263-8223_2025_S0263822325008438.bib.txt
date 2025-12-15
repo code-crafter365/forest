@@ -1,0 +1,13 @@
+@article{PROTZ2025119678,
+title = {Manufacture, process simulation, modelling and testing of thick-walled thermoset fibre-polymer composite laminates — A review},
+journal = {Composite Structures},
+volume = {373},
+pages = {119678},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119678},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008438},
+author = {Richard Protz and Eckart Kunze and Tim Luplow and Linus Littner and Jonas Drummer and Sebastian Heimbs and Marc Kreutzbruck and Bodo Fiedler and Maik Gude},
+keywords = {Thick-walled composites, Modelling, Process simulation, Manufacturing, Testing, Non-destructive testing},
+abstract = {Thick-walled thermoset fibre-reinforced polymer (FRP) composites present unique challenges across their manufacturing, simulation, modelling, and testing processes. This paper provides a comprehensive overview of the current challenges and research needs associated with thick-walled FRP, particularly in light of their growing relevance in demanding application domains, such as wind energy. It is important to emphasise that the designation of a laminate as thick-walled is determined not solely by its nominal thickness, but also by the direction of the applied load. In particular, laminates subjected to compressive loading are typically considered thick-walled from a wall thickness of 4 mm or greater. While conventional manufacturing techniques remain applicable to thick-walled FRPs, process adaptations, such as adjusted curing cycles or alternative curing methods, are necessary to mitigate manufacturing defects, e.g. residual stresses induced by inhomogeneous curing due to local temperature overshoot. Modelling of the curing process and accurate prediction of residual stress development remain key areas of ongoing research with significant gaps in understanding. The influence of the wall thickness can also be seen in quasi-static and impact tests. Self-heating must be taken into account in fatigue tests and must be incorporated into future guidelines for the design of thick-walled FRP structures. While well-established non-destructive testing (NDT) techniques are generally applicable, their effectiveness is reduced with increasing laminate thickness due to limitations in resolution. The findings underscore the need for continued interdisciplinary efforts to refine processing and evaluation methods for thick-walled FRP composites.}
+}

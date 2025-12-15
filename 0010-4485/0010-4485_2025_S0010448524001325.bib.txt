@@ -1,0 +1,13 @@
+@article{VERGEZ2025103805,
+title = {Multi-part kinematic constraint prediction for automatic generation of CAD model assemblies using graph convolutional networks},
+journal = {Computer-Aided Design},
+volume = {178},
+pages = {103805},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103805},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001325},
+author = {Lucas Vergez and Arnaud Polette and Jean-Philippe Pernot},
+keywords = {Kinematic constraint prediction, CAD assemblies, State-by-state assembly, Graph convolutional network, Decision-making},
+abstract = {This paper presents a machine learning-based approach to predict kinematic constraints between CAD models that have potentially never been assembled together before. During the learning phase, the algorithm is trained to predict the next-possible-constraints between a set of parts candidate to the assembly. Assemblies are represented in a new graph-based formalism that is capable of capturing features associated with parts, interfaces between parts and constraints between them. Using such a multi-level feature extraction strategy coupled to a state-by-state graph decomposition, the approach does not need to be trained on a large database. This formalism is used to model both the network input and output where the next-possible-constraints appear after evaluation. The core of the approach relies on a series of networks based on a link-prediction encoder–decoder architecture, integrating the capabilities of several convolutional networks trained in an end-to-end manner. A decision-making algorithm is added to post-process the output and drive the prediction process in finding one among the set of next-possible-constraints. This process is repeated until no more constraints can be added. The experimental results show that the proposed approach outperforms state-of-the-art methods on such assembly tasks. Although the state-by-state assembly algorithm is iterative, it still takes into account the whole set of parts as well as the whole set of constraints already predicted, and this makes it possible to handle constraint cycles, which is generally not possible when not considering multiple parts as input.}
+}

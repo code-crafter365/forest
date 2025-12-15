@@ -1,0 +1,13 @@
+@article{CHEN2025110989,
+title = {Polyvinyl alcohol/sodium alginate hybrid materials with high conductivity and transparency performance for woven electrode fibers},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {110989},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110989},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005591},
+author = {Weichun Chen and Simu Zhu and Yifan Gu and Feng Xiong and Hao Lu and Xinzao Wu and Zong Qin and Shaozhi Deng and Bo-Ru Yang},
+keywords = {Hydrogel fiber, Deep eutectic solvents, Sodium alginate, All-around performances, Woven},
+abstract = {Transparent conductive fibers play a pivotal role in developing advanced smart textiles for the future. Due to high flexibility and transparency, ionic hydrogel fibers have attracted great attention. Among them, the physically cross-linked hydrogel possesses non-volatility and low cost, which makes it an attractive transparent conductive material. However, the current physical cross-linked hydrogel suffers from low conductivity, transparency, and weak mechanical strength. A novel hybrid cross-linking strategy for ionic hydrogel through wet spinning has been proposed to address these issues. In this study, polyvinyl alcohol (PVA) crystallizes to form a homogeneous and robust polymer network with deep eutectic solvents (DESs) that substitute for water. Simultaneously, sodium alginate (SA) also interacts with metal ions in DESs to further form a crosslinked network, which enhances both the mechanical and conductivity. The as-prepared hydrogel fiber exhibited great all-around performances, including remarkable conductivity (2.28 S/m), transparency (92 %), high strength (3.01 MPa), and toughness (5.65 MJ/m3). Furthermore, we demonstrated a 3 × 3 electroluminescent textile display matrix woven with luminescent fibers as warp and the prepared hydrogel fibers as weft yarns, which exhibited the potential value of the hydrogel fibers in textiles.}
+}

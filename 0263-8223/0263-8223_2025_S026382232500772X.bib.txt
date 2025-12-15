@@ -1,0 +1,13 @@
+@article{GU2025119607,
+title = {A novel biomimetic arc support enhanced re-entrant honeycomb with enhanced strength: Experiments and simulations of mechanical performance},
+journal = {Composite Structures},
+volume = {373},
+pages = {119607},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119607},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500772X},
+author = {Ran Gu and Yonghui An and Wanhai Han and Jinping Ou},
+keywords = {Biomimetic arc support enhanced re-entrant honeycomb, Theoretical model, Energy absorption, Negative Poisson’s ratio, Crushing performance, Specific energy absorption},
+abstract = {Re-entrant honeycomb (RH) structures are known for their excellent mechanical properties, particularly their negative Poisson’s ratio (NPR). However, high porosity leads to low strength, and enhancing strength often compromises NPR, limiting RH’s applications. To overcome this, a novel biomimetic arc support enhanced RH (BASERH) is proposed, which markedly improves strength, stiffness, stability, and energy absorption without significantly reducing NPR. Main innovations are listed as follows: First, embedding biomimetic arc supports in RH unit cells to increase plastic hinge coupling deformation, enhancing strength and energy absorption. Second, A theoretical model for plateau stress is developed, enabling preliminary mechanical predictions and reducing the need for extensive simulations or experiments. Third, an optimization method for BASERH parameters is proposed, revealing that arc wall thickness has the most significant influence on strength and energy absorption, followed by the height-to-length ratio, with the width-to-height ratio having the least effect. The plateau stress of BASERH is 10.4 times that of conventional RH. Under axial and radial compression, BASERH tubes exhibit 19.7% and 32.9% higher peak compressive strength, and 32.6% and 38.5% greater specific energy absorption, respectively, compared to conventional RH tubes. BASERH offers a promising design strategy for enhancing RH performance in engineering applications. BASERH can be applied in automotive crash beams, aircraft wings, explosion-proof tires, and canal gate impact panels to provide excellent strength, stiffness, cushioning, and energy absorption performance.}
+}

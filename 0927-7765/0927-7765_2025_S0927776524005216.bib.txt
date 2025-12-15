@@ -1,0 +1,13 @@
+@article{OUYANG2025114262,
+title = {A novel m-xylylene-diamine/glucose based-supramolecular eutectogels with tissue clearing for three dimensional histological imaging},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114262},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114262},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005216},
+author = {Qianqian Ouyang and Ruixiu Qin and Qian Li and Peixin Huang and Changmei Lin and Qingbao Xu and Weiyan Quan and Fang Fang and Yuzhen Zhu and Jing Liao and Kefeng Wu},
+keywords = {Supramolecular eutectogels, Hydrogel, Tissue clearing},
+abstract = {Hydrogel-based tissue clearing technologies have shown significant promise for deep-tissue imaging and subcellular-level optical 3D reconstruction of whole organs. This study proposes a novel approach utilizing a deep eutectic solvent (DES) formulated with glucose and m-xylylene-diamine (MXDA) to create a highly efficient tissue-clearing hydrogel system named the passive hydrogel clearing system (PHCS). PHCS achieved efficient tissue clearing through a single-step tissue gelation process. The resulting hydrogel-tissue complex exhibited thermoreversible properties, transitioning into a sol state upon heating and vice versa upon cooling. Notably, PHCS enabled media embedding, facilitating immunofluorescence histopathology. Additionally, the system demonstrated compatibility with various fluorescent probes, particularly lipophilic dyes. Our study successfully employed PHCS for the reconstruction of vascular structures within the intestine, enabling the generation of a 3D pathology model. These findings suggest that PHCS is a promising novel method for fabricating hydrogels for tissue clearing and holds great potential for application as a mounting medium for morphological imaging.}
+}

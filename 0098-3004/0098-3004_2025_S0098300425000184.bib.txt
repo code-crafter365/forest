@@ -1,0 +1,13 @@
+@article{CAO2025105868,
+title = {Automatic seismic event detection in low signal-to-noise ratio seismic signal based on a deep residual shrinkage network},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105868},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105868},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000184},
+author = {Huan Cao and Bin Xu and Congyu Wang and Jun Hu and Quanfeng Wang and Jun Feng},
+keywords = {Seismic event detection, Seismic signal, Deep learning, Residual shrinkage network, Soft thresholding},
+abstract = {Seismic event detection is a basic and crucial task in seismic data processing. With the gradual increase in seismic observation data, how to detect seismic events from seismic records automatically and accurately has become an urgent problem. However, due to the complexity and variability of the seismic observation environment, acquired seismic records are always accompanied by various noises, compromising detection accuracy. Considering the different noises contained in seismic records acquired by different seismic sensors, herein, a deep residual shrinkage network (DRSN) was constructed to detect seismic events in low signal-to-noise ratio (SNR) seismic records. To test the performance of our model, two types of experiments were conducted. Results demonstrated that the DRSN uses a soft thresholding function to eliminate noise interference while retaining effective signal features; it also introduces an attention mechanism to enhance the focus on significant features and adaptively adjusts the denoising threshold. Consequently, the DRSN effectively eliminates the effect of different noises on seismic event recognition according to the characteristics of different signals, thereby resulting in good overall performance. In detecting the Stanford earthquake dataset and microseismic signals, the DRSN achieved accuracies of 99.08% and 95.43%, respectively, outperforming the short-term average over long-term average, convolutional neural network, earthquake transformer, and sequential attention network. The DRSN can be applied to the automatic and accurate detection of seismic events, especially under low SNR conditions, such as for microseismic signals. Moreover, the DRSN requires no manual setting of the optimal denoising threshold, making the model operable and universal.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025119608,
+title = {An automatic differentiation-based meshfree Lagrange interpolation method for bending and free vibration analysis of FGM plates},
+journal = {Composite Structures},
+volume = {372},
+pages = {119608},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119608},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007731},
+author = {Zhong-Min Huang and Lin-Xin Peng},
+keywords = {Functionally graded materials, Computational modeling, Automatic differentiation, Plate, Lagrange interpolation},
+abstract = {This paper presents a mesh-free Lagrangian interpolation method for analyzing the bending and free vibration of functionally graded material (FGM) plates. The method leverages automatic differentiation within the PyTorch deep learning framework in conjunction with higher-order shear deformation theory (HSDT). Initially, the method employs Lagrangian interpolation theory alongside nodal function values to construct a mesh-free numerical model, utilizing Gaussian discrete node coordinates as input parameters. By incorporating automatic differentiation, the approach efficiently computes the derivatives of the model outputs to calculate the system’s potential energy. Subsequently, the stiffness, mass matrix, and load vector for FGM plates under HSDT are derived through automatic differentiation, with internal model parameters determined via linear algebra operations. The proposed method’s accuracy is confirmed through comparisons with literature solutions, demonstrating its capability to avoid manual assembly of the stiffness matrix and support more flexible boundary condition implementations. Meanwhile, compared with other numerical methods based on deep learning algorithms (such as DEM, PINNs), the proposed model exhibits stronger interpretability.}
+}

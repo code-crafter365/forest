@@ -1,0 +1,13 @@
+@article{XING2025118296,
+title = {Sequence-aware capacity-demand surrogate framework for seismic response and fragility assessment of RC frames},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118296},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118296},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005687},
+author = {Lili Xing and Paolo Gardoni and Juanya Yu},
+keywords = {Capacity-demand surrogate models, Transformer, LSTM, Sequence-to-sequence models, Fragility estimates, Grid IDA},
+abstract = {This study introduces a sequence-aware surrogate modeling framework for predicting the dynamic seismic response and fragility of reinforced concrete frame (RCF) structures. Leveraging advanced deep learning architectures—namely deep neural networks (DNNs), Long Short-Term Memory (LSTM) networks, and Transformer models—the framework captures nonlinear, multi-output, and time-dependent behavior of structures subjected to seismic loads. A large-scale input–output dataset is constructed through nonlinear time-history analyses using Latin hypercube sampling to account for uncertainty in geometric, material, and seismic characteristics. Three types of surrogate demand models are developed: point models, vectorial models, and sequence-to-sequence models, each trained to predict key response signals such as top displacement, inter-story drift, acceleration, and base shear. A grid-based Incremental Dynamic Analysis (grid IDA) procedure is implemented, enabling fragility estimation across a statistically diverse set of structural configurations. The sequence-based models outperform traditional approaches by preserving temporal dependencies and accurately simulating the evolving response signals. The proposed framework significantly reduces computational demand while maintaining high fidelity, offering a scalable solution for seismic risk assessment and dynamic response prediction in large structural inventories.}
+}

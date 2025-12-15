@@ -1,0 +1,13 @@
+@article{TANG2025109013,
+title = {Laser powder bed fusion of high-performance carbon fiber reinforced PEEK composites: Process design and orthotropic behavior analysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109013},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109013},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003070},
+author = {Haibin Tang and Yingjie Yang and Shuxiang Zhang and Zhangxing Chen and Tingting Liu},
+keywords = {Laser powder bed fusion (LPBF), Carbon fiber reinforced poly-ether-ether-ketone (PEEK) composites, High performance, Orthotropy},
+abstract = {Poly-ether-ether-ketone (PEEK) and PEEK-based composites are emerging as key materials in laser powder bed fusion (LPBF) techniques fabricated via selective laser sintering (SLS). In the current work, the process parameters and scanning strategies for LPBF of carbon fiber reinforced PEEK composites (LPBF-CF/PEEK) with a fiber weight fraction of 20 % are studied. The effect of nano-scale SiO2 flow agent content on the powder flowability and the mechanical property of LPBF-CF/PEEK composites is analyzed. Using optimal process parameters, LPBF-CF/PEEK composites with the ultimate tensile strength of 142 MPa and modulus of 11.3 GPa are successfully 3D printed. Further, the orthotropic behaviors of LPBF-CF/PEEK composites are evaluated. Uniaxial tension, compression, and pure shear tests are conducted along three principal directions, i.e., the powder spreading direction, transverse direction, and building direction for LPBF-CF/PEEK composites. Excellent mechanical performance is observed along all loading conditions, except for the tension in the building direction. A macro-scale constitutive model, combining the Liu-Huang-Stout yield criterion and the associated flow rule, is developed to characterize the elastoplastic behaviors of LPBF-CF/PEEK composites. The model is calibrated using the uniaxial loading data of LPBF-CF/PEEK composites, and validated with the LPBF-CF/PEEK structures featuring triply periodic minimal surface (TPMS).}
+}

@@ -1,0 +1,13 @@
+@article{ZHU2025111079,
+title = {Synergistic interlaminar strengthening of high-content continuous fiber reinforced composites via ultrasound and plasma-assisted 3D printing},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111079},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111079},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000478},
+author = {Weijun Zhu and Long Fu and Quan Zhi and Zhikun Zhang and Ning Wang and Yingying Zhang and Dongsheng Li},
+keywords = {Polymer-matrix composites, Delamination, 3D printing, Continuous fiber reinforced thermoplastic composites, Interlaminar shear strength},
+abstract = {Poor interlaminar performance is still the major problem for 3D printing of continuous fiber-reinforced thermoplastic composites, especially when the fiber content is over 50 %. In this work, an ultrasound and plasma-assisted 3D printing method was proposed towards the synergistic interlaminar strengthening. Fiber-matrix interface defects at the interlaminar zone were identified by a comparison study, which are the causes behind the poor interlaminar properties for high fiber content composites. Experimental and modeling approaches were used to study the effects of printing and strengthening parameters on interlaminar properties. The physical and chemical effects of ultrasound and plasma on material microstructure was investigated and a synergistic effect model was presented. The proposed synergistic strengthening method can greatly reduce the porosity, from 14 % to 3 %, enhance interlayer bonding strength, and result in a 54.17 % increase in interlaminar shear strength. Better interlaminar properties have positive implications for other mechanical properties, e.g. the tensile strength and modulus can reach approximately 1254 MPa and 89 GPa, respectively.}
+}

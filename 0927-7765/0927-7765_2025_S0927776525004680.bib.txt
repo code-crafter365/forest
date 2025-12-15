@@ -1,0 +1,13 @@
+@article{BAYOUDH2025114961,
+title = {Modeling bacterial adhesion onto nanostructured silicon carbide using a new physicochemical approach: Statistical physics analysis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114961},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114961},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004680},
+author = {Sonia Bayoudh and Oumaima Kouira and Mohamed Bouzid and Abdelmottaleb {Ben Lamine}},
+keywords = {Bacterial adhesion, Statistical physics, Adsorption, Nanostructured materials, Silicon carbide},
+abstract = {Bacterial adhesion on ceramic materials is a crucial phenomenon worldwide, particularly in water nanofiltration. The extended DLVO theory is currently the physicochemical approach that can be used to investigate on the adhesion process. However, this study proposes the statistical physics formalism as an alternative theoretical approach to describe, qualitatively and quantitatively, the adhesion of Pseudomonas putida (P.putida) onto the micrometric silicon carbide (μmSiC) and its nanostructures: nanofibers (NFSiC) and nanorods (NRSiC). The modelling of experimental adsorption isotherms of this bacteria onto the investigated materials at different pH (3, 6.8 and 9) allowed both the stereographic and energetic characterization of the bacterial adsorption process. According to Hill model, P.putida adsorption onto NFSiC and NRSiC is found to be multicellular, perpendicular orientation to the surface and it depends on pH medium. However, this bacteria adhere onto µmSiC surface in parallel way for all pH values. Also, the adsorption capacity of P.putida onto NRSiC and NFSiC is higher and strongly affected by the pH solution, than on µmSiC surface. The quantification of adhesion energy of one bacterium (> −31 x10−23 kJ) and of molar adsorption energy (> −187 kJ/mol) indicates that P.putida adhesion on all nanomaterials and for all pH values is a strong chemical adsorption. At macroscopic scale, the thermodynamic analysis has shown that adhesion process is exothermic and its spontaneity is significantly affected by pH medium. Finally the calculation of the internal energy confirmed that P.putida adhesion was stronger on SiC nanostructures (∼95 kT) than on µmSiC (∼80 kT).}
+}

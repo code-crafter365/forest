@@ -1,0 +1,13 @@
+@article{ZHONG2025106809,
+title = {A TVD-MRWENO limiter applied in the discontinuous Galerkin method for hyperbolic conservation laws},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106809},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106809},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002695},
+author = {Yi Zhong and Pengcheng Du and Fangfei Ning},
+keywords = {Computational fluid dynamics, Discontinuous Galerkin method, Hyperbolic conservation laws, Limiter, Accuracy, Robustness},
+abstract = {The discontinuous Galerkin (DG) method is a widely used high-order numerical technique in Computational Fluid Dynamics (CFD). However, dealing with strong discontinuities within the framework of the DG method is still an important and open question. Recently, an attractive and promising limiter known as multi-resolution weighted essentially non-oscillatory (MRWENO) was proposed. It has the potential for widespread application due to its compactness, simplicity, and effectiveness for arbitrary orders. Nevertheless, it suffers from the drawback of generating excessive spurious oscillations and lacking sufficient robustness. This paper presents an improved limiter, TVD-MRWENO, which provides enhanced efficiency and robustness. The over-identification of troubled cells is avoided, and spurious oscillations in the post-shock region are also decreased. The procedure of the TVD-MRWENO limiter involves identifying troubled cells, applying first-order Total Variation Diminishing (TVD) limitations, and implementing high-order multi-resolution WENO reconstruction. For the first-order approximated DG method (denoted as P1), the TVD-MRWENO limiter reduces to the classic TVD-minmod limiter with a troubled cell indicator. For higher-order DG methods, multi-resolution WENO reconstruction is employed based on the first-order TVD-limited results to preserve the essentially non-oscillatory property and high resolution. A number of test cases are presented to demonstrate the improved accuracy, efficiency, and robustness of the TVD-MRWENO limiter compared to the MRWENO limiter.}
+}

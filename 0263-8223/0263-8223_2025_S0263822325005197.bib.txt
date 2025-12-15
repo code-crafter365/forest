@@ -1,0 +1,13 @@
+@article{GUO2025119354,
+title = {Investigation of damage mechanisms in CFRP composites with fastener under coupled arc heat flux and current effects},
+journal = {Composite Structures},
+volume = {370},
+pages = {119354},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119354},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005197},
+author = {Yongqiang Guo and Jinru Sun and Shu Li and Pengfei Lan and Kui Du and Xueling Yao},
+keywords = {Carbon fibre, Analytical modelling, Finite element analysis (FEA), Thermal analysis},
+abstract = {Carbon fiber-reinforced polymer (CFRP) composites with fastener are particularly vulnerable to lightning strikes, with the arc effect playing a critical role. This study proposed a coupling simulation method based on discrete interpolation of electro-thermal loads at the arc-composite interface. The distribution characteristics of the electro-thermal load on the surface of CFRP structures and the damage evolution mechanisms were studied by integrating the simulated lightning strike test with the numerical simulation methods. The results reveal that the fastener carries a larger proportion of the injected current and becomes the main path for the current conduction into the CFRP composites. Simulated damage parameters are consistent with experimental results, with a deviation of less than 5 %. The damage of CFRP composites is regulated by the combined effects of Joule heating and arc heat, characterized by central surface damage, internal area damage, and edge diffusion damage from different mechanisms. Under 100 kA, the additional damage caused by arc heat contributes to 33.66 %, with more than 59.79 % of the damaged elements located in the middle plies.}
+}

@@ -1,0 +1,13 @@
+@article{ALBERTI2025106730,
+title = {Continued development of an entropy-aware high-order modal Discontinuous Galerkin solver for the Navier–Stokes equations},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106730},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106730},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001902},
+author = {Luca Alberti and Emanuele Carnevali and Alessandro Colombo and Andrea Crivellini},
+keywords = {Entropy conservation/stability, Modal DG, High-order, DEEB, Bassi–Rebay schemes},
+abstract = {This paper outlines the development of a fully entropy-aware high-order modal discontinuous Galerkin solver for the Navier–Stokes equations. The entropy conservation/stability of the convective discrete operator is obtained by implementing several variants of the direct enforcement of entropy balance, i.e. DEEB, originally proposed by Abgrall. The tests performed demonstrate that all DEEB variants may be effectively exploited to obtain a considerable boost in robustness over the baseline scheme, enabling the solver to simulate flow configurations that would otherwise be impossible to tackle. On top of this, we derive an entropy stable formulation for the Bassi–Rebay viscous discretizations through a L2-projection of the viscous fluxes. By coupling the correction introduced for the convective terms with the aforementioned viscous flux projection we are able to construct a fully entropy stable numerical framework. The latter proves to be sufficiently robust to simulate highly challenging flow problems, characterized by abrupt gradients in the thermodynamic variables, in conditions of strong spatial under-resolution.}
+}

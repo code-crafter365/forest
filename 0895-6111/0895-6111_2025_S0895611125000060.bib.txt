@@ -1,0 +1,13 @@
+@article{JIANG2025102497,
+title = {Multimodal Cross Global Learnable Attention Network for MR images denoising with arbitrary modal missing},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102497},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102497},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000060},
+author = {Mingfu Jiang and Shuai Wang and Ka-Hou Chan and Yue Sun and Yi Xu and Zhuoneng Zhang and Qinquan Gao and Zhifan Gao and Tong Tong and Hing-Chiu Chang and Tao Tan},
+keywords = {Multimodal MR image denoising, Multimodal fusion, Arbitrary modal missing, Cross global attention, Controllable},
+abstract = {Magnetic Resonance Imaging (MRI) generates medical images of multiple sequences, i.e., multimodal, from different contrasts. However, noise will reduce the quality of MR images, and then affect the doctor’s diagnosis of diseases. Existing filtering methods, transform-domain methods, statistical methods and Convolutional Neural Network (CNN) methods main aim to denoise individual sequences of images without considering the relationships between multiple different sequences. They cannot balance the extraction of high-dimensional and low-dimensional features in MR images, and hard to maintain a good balance between preserving image texture details and denoising strength. To overcome these challenges, this work proposes a controllable Multimodal Cross-Global Learnable Attention Network (MMCGLANet) for MR image denoising with Arbitrary Modal Missing. Specifically, Encoder is employed to extract the shallow features of the image which share weight module, and Convolutional Long Short-Term Memory(ConvLSTM) is employed to extract the associated features between different frames within the same modal. Cross Global Learnable Attention Network(CGLANet) is employed to extract and fuse image features between multimodal and within the same modality. In addition, sequence code is employed to label missing modalities, which allows for Arbitrary Modal Missing during model training, validation, and testing. Experimental results demonstrate that our method has achieved good denoising results on different public and real MR image dataset.}
+}

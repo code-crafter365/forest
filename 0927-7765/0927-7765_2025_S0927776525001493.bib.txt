@@ -1,0 +1,13 @@
+@article{HU2025114642,
+title = {The de novo strategy for bifunctional peptides coating to enhance osteointegration capacity of the implant},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114642},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114642},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001493},
+author = {Siwang Hu and Zeyu Shou and Chengwei Xu and Hongxiang Wang and Zhongyun Li and Xingjie Zan and Na Li and Shihao Xu},
+keywords = {Multifunctionalities, Osteointegration, Polyphenol, Implant coating, Dual peptides},
+abstract = {Bone implants represent a significant global market; however, they are plagued by a high long-term failure rate, with approximately 19.2 % of implants failing within 10 years. This leads to considerable physical pain, mental distress for patients, and a substantial financial burden on public healthcare systems. Herein, we propose a novel strategy that using the interactions between positively charged hexa-arginine (R6) and polyphenols in EGC/Fe MPN to present the bifunctional peptides, cellular adhesive peptide (RGD) and osteogenic growth peptide (OGP), onto implant coatings. To thoroughly investigate the preparation process and the physical and chemical properties of the dual-peptide functionalized coatings, several techniques were employed, including dissipation-quartz crystal microbalance (DQCM), ellipsometry, photoelectron spectroscopy (XPS), and atomic force microscopy (AFM). These methods provided insights into the coating's composition, stability, mechanical properties, and surface roughness. In comparison to single-peptide functionalized coatings, the dual-peptide coatings demonstrated significantly improved performance in cellular adhesion at early stages, long-term cell proliferation, migration, antioxidant activity, osteogenic differentiation, inhibition of osteoclastogenesis, and enhanced in vivo osteointegration. This study contributes to the development of multifunctional coatings tailored to the complex biological processes involved in osteointegration.}
+}

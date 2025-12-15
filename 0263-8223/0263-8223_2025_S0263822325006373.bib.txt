@@ -1,0 +1,13 @@
+@article{SHEN2025119472,
+title = {Enlarged cell size induces ultra-high specific strength in octahedral lattice structure},
+journal = {Composite Structures},
+volume = {371},
+pages = {119472},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119472},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006373},
+author = {Guoxiang Shen and Jiazheng Sun and Nanqi Kong and Zhengchen Han and Hongwei Zhao and Luquan Ren and Zhichao Ma},
+keywords = {Octahedral lattice structures, Ti6Al4V, Specific strength, Strain rate, Selective laser melting},
+abstract = {Ti6Al4V lattice structure shows a broad application prospect in the biomedical field owing to superior biocompatibility, excellent shock resistance and energy absorption ability. However, attempts on structural design and cell configuration are urgent to make since the lattice structure exhibits a trade-off between lightweight and high strength. Here, Ti6Al4V octahedral structures with different cell sizes were manufactured by selective laser melting, and their mechanical responses at different strain rates were evaluated. The octahedral structures exhibit an inverse size effect, i.e., the enlarged cell size performed higher strength. Particularly, the compressive strength of the large octahedral lattice structure reached 198.91 MPa (an enhancement of 203.17 %) with a porosity of 95.23 %, which made it the highest specific strength (941.81 KN·m/Kg) Ti6Al4V lattice structure prepared by the SLM process reported to date. Furthermore, the capacity of lattice structure to resist cyclic failure during densification stages was defined as destabilization resistance, and it was found that the destabilization resistance decreased with increasing strain rate. Eventually, the fracture morphology of the octahedral structure indicated that the fracture at the nodes was typically brittle, while the intermediate fracture in the strut was a mixed fracture of brittle and ductile.}
+}

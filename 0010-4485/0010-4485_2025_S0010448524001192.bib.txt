@@ -1,0 +1,13 @@
+@article{CAPLAN2025103792,
+title = {Tessellation and interactive visualization of four-dimensional spacetime geometries},
+journal = {Computer-Aided Design},
+volume = {178},
+pages = {103792},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103792},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001192},
+author = {Philip Claude Caplan},
+keywords = {Spacetime meshing, Moving geometry, Tetrahedra, Visualization},
+abstract = {This paper addresses two problems needed to support four-dimensional (3d+t) spacetime numerical simulations. The first contribution is a general algorithm for producing conforming spacetime meshes of moving geometries. Here, the surface points of the geometry are embedded in a four-dimensional space as the geometry moves in time. The geometry is first tessellated at prescribed time steps and then these tessellations are connected in the parameter space of each geometry entity to form tetrahedra. In contrast to previous work, this approach allows the resolution of the geometry to be controlled at each time step. The only restriction on the algorithm is the requirement that no topological changes to the geometry are made (i.e. the hierarchical relations between all geometry entities are maintained) as the geometry moves in time. The validity of the final mesh topology is verified by ensuring the tetrahedralizations represent a closed 3-manifold. For some analytic problems, the 4d volume of the tetrahedralization is also verified. The second problem addressed in this paper is the design of a system to interactively visualize four-dimensional meshes when the 4d view changes, including tetrahedra (embedded in 4d) and pentatopes. Algorithms that either include or exclude a geometry shader are described, and the efficiency of each approach is then compared. Overall, the results suggest that visualizing tetrahedra (either those bounding the domain, or extracted from a pentatopal mesh) using a geometry shader achieves the highest frame rate, realizing interactive frame rates of at least 15 frames per second for meshes with about 50 million tetrahedra.}
+}

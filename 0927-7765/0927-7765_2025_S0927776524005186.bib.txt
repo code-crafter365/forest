@@ -1,0 +1,13 @@
+@article{CHEN2025114259,
+title = {Facile fabrication of cedrol nanoemulsions with deep transdermal delivery ability and high safety for effective androgenic alopecia treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114259},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114259},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005186},
+author = {Bin Chen and Liang Guo and Shaojun Wang and Jian Xu and Honghong Han and Ruiyao Cui and Xiaofeng Ding and Guoqiang Cai and Yibo He and Dawei Li and Jing Chen and Peng Cao},
+keywords = {Androgenic alopecia, Cedrol, Nanoemulsion, 5α reductase, Penetration mechanism},
+abstract = {The successful treatment of androgenic alopecia (AGA) hinges on an effective transdermal drug delivery strategy, a challenge that requires urgent attention. In this study, we introduce a novel approach utilizing cedrol nanoemulsions (CD-NEs) for AGA treatment. Our findings demonstrate that cedrol (CD) effectively inhibits the expression of 5α-reductase 2 (5αR2), akin to the FDA-approved drug finasteride, while also surpassing it in terms of promoting cell proliferation. Through formulation optimization, we have developed stable CD-NEs suitable for large-scale production. Experimental and molecular dynamics simulations further reveal that CD-NEs enhance transdermal penetration by altering lipid organization, facilitating CD delivery to deeper skin layers via a trans-epidermal pathway. In vivo studies conducted on AGA model C57BL/6 mice demonstrate that CD-NEs significantly promote hair follicle regeneration, accelerating the transition of hair follicles from the telogen phase to the anagen phase. Moreover, CD-NEs treatment leads to a significant reduction in dihydrotestosterone (DHT) levels in the skin while maintaining stasis levels in serum, underscoring its efficacy in targeting androgenetic pathways with high safety. This comprehensive analysis sheds light on the efficacy and mechanism of action of CD-NEs in hair regeneration, offering valuable insights for future clinical applications in AGA treatment.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025119719,
+title = {Controlled morphing of structures using smart piezoelectric patches subject to thermo-electro-mechanical loading},
+journal = {Composite Structures},
+volume = {374},
+pages = {119719},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119719},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008840},
+author = {Tongyu Wu and S.A. Meguid},
+keywords = {Smart composite laminate, Shape morphing, Thermo-electro-mechanical load, Finite element method, Geometric nonlinearity, Temperature dependent material property},
+abstract = {Smart composite laminates (SCLs) integrated with distributed piezoelectric patches have attracted considerable interest due to their ability to actively change shape in response to external stimuli. However, the multi-physics nature and nonlinear mechanical behavior of SCLs in practical applications pose engineering challenges, particularly due to the lack of performance assessment and treatment of this highly coupled system. To address these challenges, we develop a fully coupled nonlinear finite element (FE) model that incorporates temperature-dependent constitutive relations, third-order shear deformation hypothesis, and von Kármán geometric nonlinearity to study the shape control of SCLs under thermo-mechanical loading. The FE model is rigorously validated against existing numerical and experimental results. We also proposed a gradient descent algorithm specially designed for this coupled nonlinear problem to compute control voltages efficiently. Using the developed framework, we investigate the thermal effect and the influence of number, size and location of piezoelectric patches on shape morphing performance. The results indicate that higher temperatures offer improved shape morphing capability due to the decreased plate stiffness and the increased piezoelectric coefficient. Additionally, this study offers practical insights into the design of piezoelectric patch configurations and control strategies to achieve efficient, adaptive morphing of structures under different working environments.}
+}

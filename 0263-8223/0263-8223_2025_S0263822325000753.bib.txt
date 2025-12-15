@@ -1,0 +1,13 @@
+@article{DU2025118910,
+title = {Rationalized equivalence method for high-velocity impacts of composite and metal panels},
+journal = {Composite Structures},
+volume = {357},
+pages = {118910},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118910},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000753},
+author = {Chunlin Du and Junchao Cao and Yejie Qiao and Zhenqiang Zhao and Jun Xing and Chao Zhang},
+keywords = {Composite panels, Residual energy equivalent, High-velocity impact, Thickness-equivalent model},
+abstract = {Carbon fibre-reinforced polymer (CFRP) composites and metals materials are widely used for impact protection of aerospace structures. This study aims to compare the energy absorption characteristics of metal panels and composite panels and to establish a method to compare the equivalence of impacts. A novel method for assessing the equivalence of impact energies of metallic and composite materials was developed and validated. This method demonstrates high accuracy in predicting the energy absorption equivalence of Al2024 and Ti64 panels of varying thicknesses to composite panels under different impact velocities. The experimental and numerical results confirm the predictive accuracy of the theoretical model. By combining experimental data with validated numerical model calculations for heterogeneous materials, the method efficiently determines the unknown parameters in the formulation, enabling equivalent thickness values for metal target panels to be derived across a broad range of impact velocities. The dimensionless area density ratio ΠAD and velocity ratio ΠV are introduced to describe the relationship between normalized thickness and velocity. This comparison reveals that Ti64 exhibits greater impact resistance compared to Al2024, and CFRP woven laminate panels outperform both Ti64 and Al2024 panels in energy absorption when area density ratio ΠAD > 1.}
+}

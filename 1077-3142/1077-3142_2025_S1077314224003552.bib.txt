@@ -1,0 +1,13 @@
+@article{YU2025104274,
+title = {Cleanness-navigated-contamination network: A unified framework for recovering regional degradation},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104274},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104274},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003552},
+author = {Qianhao Yu and Naishan Zheng and Jie Huang and Feng Zhao},
+keywords = {Image restoration, Regional degradation, Contamination removal, Attention mechanism},
+abstract = {Image restoration from regional degradation has long been an important and challenging task. The key to contamination removal is recovering the contents of the corrupted regions with the guidance of the non-corrupted regions. Due to the inadequate long-range modeling, the CNN-based approaches cannot thoroughly investigate the information from non-corrupted regions, resulting in distorted visuals with artificial traces between different regions. To address this issue, we propose a novel Cleanness-Navigated-Contamination Network (CNCNet), which is a unified framework for recovering regional image contamination, such as shadow, flare, and other regional degradation. Our method mainly consists of two components: a contamination-oriented adaptive normalization (COAN) module and a contamination-aware aggregation with transformer (CAAT) module based on the contamination region mask. Under the guidance of the contamination mask, the COAN module formulates the statistics from the non-corrupted region and adaptively applies them to the corrupted region for region-wise restoration. The CAAT module utilizes the region mask to precisely guide the restoration of each contaminated pixel by considering the highly relevant pixels from the contamination-free regions for global pixel-wise restoration. Extensive experiments in both shadow removal tasks and flare removal tasks show that our network framework achieves superior restoration performance.}
+}

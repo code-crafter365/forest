@@ -1,0 +1,13 @@
+@article{MARCINNO2025118153,
+title = {A spline-based hexahedral mesh generator for patient-specific coronary arteries},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118153},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118153},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004256},
+author = {Fabio Marcinnò and Jochen Hinz and Annalisa Buffa and Simone Deparis},
+keywords = {Mesh generation, Splines, Structured grid, Hæmodynamics, Coronary arteries},
+abstract = {This paper presents a spline-based hexahedral mesh generator for tubular geometries commonly encountered in hæmodynamics studies, in particular coronary arteries. We focus on techniques for accurately meshing vessels with stenoses and aneurysms, as well as non-planar bifurcations. Our approach incorporates several innovations, including a spline-based description of the vessel geometry in both the radial and the longitudinal directions, the use of Hermite curves for modeling non-planar bifurcations, and a generalization to non-planar n intersecting branches. This method eliminates the need for a concrete vessel surface, grid smoothing, and other post-processing. A technique to generate grids with boundary layers is also presented. We validate the generated meshes using commonly employed quality indices, compare them against state-of-the-art mesh generators and apply our method to complex coronary trees. Finally, we present finite element fluid flow simulations with physiological boundary conditions. To validate the proposed framework, a wall-shear-stress-based convergence test and computations of hæmodynamic indices are also presented.}
+}

@@ -1,0 +1,13 @@
+@article{LUO2025111302,
+title = {Physics-informed ensemble learning for robustly extrapolating and revealing fatigue life of composites},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111302},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111302},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002702},
+author = {Xue-Ling Luo and Cheng-Cheng Lyu and Lu-Wen Zhang},
+keywords = {Fatigue life prediction, Fiber-reinforced composites, Physics-informed machine learning, Ensemble learning},
+abstract = {Machine learning is pivotal in material property prediction but struggles with predicting the complex fatigue life of composites in high-dimensional design spaces. In the context of scarce data, embedding case-specific fatigue knowledge into basic machine learning models is insufficient to improve generalization, has yet to cover critical fatigue-related features, and leads to biased relationships with fatigue life. On our compiled composite fatigue dataset with 6,770 data points—previously unstudied at this scale, we propose a heterogeneous ensemble learning framework, SNEnsemble, balancing fatigue prior knowledge with extensible pre-trained models. The key lies in training a classifier on latent representations and extracting epistemic uncertainty from it, enabling the dynamic adjustment of the weight of empirical models, adaptively combined by an outlier-sensitive clustering algorithm, to compensate for less reliable machine learning predictions. SNEnsemble reduces testing error by 5% to 32% across 25 baseline models, achieving exceptional performance in extrapolating unseen fatigue life. It robustly predicts stress-fatigue life relationships, aligning with physical principles—monotonicity and zero stress asymptote. We reveal novel fatigue-related features and clarify the logarithmic relationship between loading frequency and fatigue life. A platform built upon this framework can be adapted to other engineering challenges involving intertwined feature correlations and relying on phenomenological analysis.}
+}

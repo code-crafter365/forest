@@ -1,0 +1,13 @@
+@article{SUN2025109108,
+title = {Effect of Benzophenone imine on strain softening behavior of natural Rubber/Carbon black nanocomposites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109108},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109108},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004026},
+author = {Shihao Sun and Yaobin Lu and Zheng Xu and Xuanyu Shi and Zhenghong Guo and Miao Du and Yihu Song and Min Zuo and Qiang Zheng},
+keywords = {Benzophenone imine, Nanocomposites, Strain softening behavior},
+abstract = {Benzophenone imine (BPI), a simple imine compound and common chemical material, is used to enhance the overall performance of natural rubber (NR)/carbon black (CB) nanocomposites. The influence on the strain softening behavior of NR/CB nanocomposites is investigated. The incorporation of BPI regulates the crosslinking network structure of NR matrix, accelerates the vulcanization and significantly increases the crosslinking density. Furthermore, BPI can facilitate the dispersion of CB and improve the interfacial interaction between CB and NR. Consequently, it can improve the mechanical properties, mitigate the damping and softening percentages of highly-filled nanocomposites and further reduce their hysteresis loss and heat generation. These findings may offer some valuable insights into the design and optimization of high-performance NR/CB nanocomposites for industrial applications.}
+}

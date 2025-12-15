@@ -1,0 +1,13 @@
+@article{DASNEVES2025102398,
+title = {Zoonotic variants of Bartonella henselae in domesticated cats, including blood donors, in central-western Brazil},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {123},
+pages = {102398},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102398},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001067},
+author = {Lorena Freitas {das Neves} and Clara Morato Dias and Anna Claudia Baumel Mongruel and Gabrielly de Oliveira Lopes and Liliane Maria do Rosario Batista and Francisco Anilton Alves Araujo and Gener Tadeu Pereira and Rosangela Zacarias Machado and Marcos Rogério André},
+keywords = {Bartonellosis, Cat Scratch Disease, MLST, Sequence Type, IFAT},
+abstract = {Bartonella henselae is a significant zoonotic agent, with domestic cats serving as primary reservoirs. This study investigated the occurrence and genetic diversity of B. henselae in domestic cats from central-western Brazil, including both animals from veterinary clinics and cat blood donors. Serological, microbiological, and molecular techniques were employed. Serum samples were tested using the Indirect Fluorescence Antibody Test (IFAT) to detect anti-B. henselae IgG antibodies. Molecular detection of Bartonella spp. was performed using quantitative real-time PCR (qPCR) targeting the 16–23S rRNA intergenic spacer region, both directly from blood and after enrichment in Bartonella Alpha Proteobacteria Growth Medium (BAPGM). Antibodies were detected in 60.75 % of cats, while qPCR identified Bartonella spp. DNA in 32 % and 46 % of cats from veterinary clinics and blood donors, respectively. Following BAPGM enrichment, 78.2 % of previously negative samples were tested positive by qPCR. Co-positivity in serology and qPCR was observed in 25.3 % of cats. No sample tested positive in all diagnostic methods. Three B. henselae strains were isolated—two from clinic cats and one from a blood donor. Multi-locus sequence typing (MLST) revealed the presence of sequence types ST1, ST2, and ST5. This study is the first to report Bartonella in cat blood donors in South America and the first identification of ST5 in this population. Additionally, ST2 was reported for the first time in cats from the Americas. These findings highlight the potential risk of zoonotic B. henselae transmission via blood transfusion and the limited reliability of serology alone for screening blood donor cats.}
+}

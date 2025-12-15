@@ -1,0 +1,13 @@
+@article{WANG2025109259,
+title = {An in-situ impregnation model for additive manufacturing via co-extrusion of continuous fiber bundles: A rigorous methodology for determining optimal manufacturing parameters},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109259},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109259},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005536},
+author = {Xiaochong Wang and Guixing Li and Ali Akmal Zia and Xiaoyong Tian and Yuan Chen and Quanzhou Yao and Lin Ye},
+keywords = {Co-extrusion 3D printing, Impregnation, Thermoplastic composite, Permeability},
+abstract = {This study presents the development of an in-situ impregnation model for fiber bundles in a typical co-extrusion process employed in three-dimensional (3D) additive manufacturing of continuous fiber composites, aiming to elucidate the underlying mechanisms involved in the process and, consequently, to predict optimal manufacturing parameters. The model meticulously considers the interplay among various manufacturing parameters, including nozzle pressure and temperature, viscosity of molten polymer, transverse permeability and size of fiber bundles, as well as printing speed, and their collective influence on the impregnation degree of fiber bundles. To validate the impregnation model, microscopy is utilized to examine the impregnation status of specimens additively manufactured through co-extrusion of polylactic acid and carbon fiber bundles. This investigation delves deeply into the effects of applied pressure on the fiber bundle and the configuration of bundle on the impregnation process. Leveraging the impregnation model, optimal manufacturing parameters, particularly the printing speed, can be delineated for achieving complete impregnation of fiber bundles. Fundamentally, this model can serve as a valuable tool for analyzing additive manufacturing process of continuous fiber composites using a co-extrusion technique. The finding of this study indicates that while the co-extrusion process presents a relatively straightforward methodology for producing continuous fiber thermoplastic composites in additive manufacturing, there exists an inherent balance between manufacturing efficiency and the degree of impregnation of fiber bundles. Therefore, the broader adoption of this process necessitates the development of further innovative solutions.}
+}

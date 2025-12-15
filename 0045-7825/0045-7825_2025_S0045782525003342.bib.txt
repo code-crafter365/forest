@@ -1,0 +1,13 @@
+@article{BIAN2025118062,
+title = {Adaptive phase-field cohesive-zone model for simulation of mixed-mode interfacial and bulk fracture in heterogeneous materials with directional energy decomposition},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118062},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118062},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003342},
+author = {Pei-Liang Bian and Qinghui Liu and Heng Zhang and Hai Qing and Siegfried Schmauder and Tiantang Yu},
+keywords = {Phase-field method, Interfacial debonding, Mixed-mode fracture, Cohesive-zone model, Finite element method, Adaptive mesh refinement},
+abstract = {Interfacial debonding, a critical failure mechanism in heterogeneous materials, is often characterized by mixed-mode fracture. This study develops a numerical framework to simulate bulk and interfacial fractures in composite materials. A phase-field cohesive zone model, incorporating a directional energy decomposition scheme and a modified toughness method, is employed to capture complex fracture behaviors. A level-set method explicitly defines interface positions, while an adaptive mesh refinement strategy enhances computational efficiency. Numerical examples validate the model’s accuracy and efficiency in predicting mixed-mode crack propagation and interfacial debonding. This work provides a robust and efficient approach to simulate complex fracture phenomena in heterogeneous materials, especially for the mixed-mode fracture.}
+}

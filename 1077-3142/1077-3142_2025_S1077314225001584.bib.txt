@@ -1,0 +1,13 @@
+@article{EMPORIO2025104435,
+title = {Continuous hand gesture recognition: Benchmarks and methods},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104435},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104435},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001584},
+author = {Marco Emporio and Amirpouya Ghasemaghaei and Joseph J. Laviola and Andrea Giachetti},
+keywords = {Hand gestures, detection, classification, interaction},
+abstract = {In this paper, we review the existing benchmarks for continuous gesture recognition, e.g., the online analysis of hand movements over time to detect and recognize meaningful gestures from a specific dictionary. Focusing on human–computer interaction scenarios, we classify these benchmarks based on input data types, gesture dictionaries, and evaluation metrics. Specific metrics for the continuous recognition task are crucial for understanding how effectively gestures are spotted in real time within input streams. We also discuss the most effective detection and classification methods proposed for these benchmarks. Our findings indicate that the number and quality of publicly available datasets remain limited, and evaluation methodologies for continuous recognition are not yet standardized. These issues highlight the need for new benchmarks that reflect real-world usage conditions and can support the development of best practices in gesture-based interface design.}
+}

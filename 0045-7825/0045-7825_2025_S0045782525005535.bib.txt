@@ -1,0 +1,13 @@
+@article{MENG2025118281,
+title = {Meso-scale phase-field modelling framework for predicting fracture propagation in concrete},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118281},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118281},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005535},
+author = {Songsong Meng and Maurizio Guadagnini and Giacomo Torelli and Iman Hajirasouliha and Kypros Pilakoutas},
+keywords = {Concrete, Elasto-plastic phase-field model, Mesoscale model, Compressive test, Three-point bending test},
+abstract = {Capturing crack development in cementitious materials at the mesoscopic level is crucial for analysing crack patterns and failure mechanisms. This paper introduces a meso‑scale model for concrete that utilizes random packing to generate the geometry and spatial distribution of aggregate, interfacial transition zone (ITZ) and mortar. The Drucker-Prager yield criterion is introduced in this phase-field model to account for the elasto-plastic behaviour of the mortar and the ITZ. The spectral decomposition of the strain tensor is employed to model the asymmetric tension and compression damage behaviour of porous materials. The parameters of the proposed model are calibrated on experimental data obtained from compressive and flexural tests of concrete and mortar specimens, including detailed information on crack initiation and propagation. Finally, the model is validated against data from the literature including complex loading scenarios and stress fields, such as triaxial compression and compression-shear. The predictions show strong agreement with the experimental results, confirming that the proposed methodology effectively captures crack propagation in concrete. This work will lead to more accurate predictions of concrete cracking mechanisms and long-term behaviour.}
+}

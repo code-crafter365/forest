@@ -1,0 +1,13 @@
+@article{ZHAO2025118894,
+title = {Enhanced mechanical properties and energy absorption of lattice metamaterials inspired by crystal imperfections},
+journal = {Composite Structures},
+volume = {356},
+pages = {118894},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118894},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000595},
+author = {Miao Zhao and Jiangmei Cui and Long Chen and Kaiyue Jin and Zhi Zeng},
+keywords = {Lattice metamaterials, Crystal imperfections, Additive manufacturing, Energy absorption, Strengthening mechanisms},
+abstract = {The inspiration of crystal lattice provides a straightforward but efficient tool to generate lightweight lattice metamaterials. However, crystals in nature are imperfect. Here, inspired by the point defects of crystal microstructure, we propose a class of modified body-centered cubic lattice metamaterials featuring adjustable central nodes with enhanced mechanical properties and energy absorption. The effects of node offset on the compressive behaviors of lattice metamaterials are evaluated using compression tests and finite element methods. The modified lattice metamaterials exhibit a distinct two-step deformation, gradually enhancing the load-bearing capability during the compression process. A novel auxetic behavior is achieved by increasing the distance of node offset. Notably, the elastic modulus, yield strength, and specific energy absorption of the lattice metamaterials are improved by 41.5–154.1 %, 40.2–110.8 %, and 96.2–245.2 %, respectively. The strengthening mechanisms of the point defect on the mesoscale lattice metamaterials are derived from the combination of negative Poisson’s ratio and mixed bending- and stretching-dominated deformation behaviors. Additionally, the modified lattice metamaterials demonstrate an efficient energy dissipation capability with a high energy dissipation rate of approximately 0.7 up to five cycles. Overall, this work demonstrates the potential of mimicking crystal defects to simultaneously enhance mechanical properties and energy absorption of mesoscale lattice metamaterials.}
+}

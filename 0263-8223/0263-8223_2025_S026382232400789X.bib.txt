@@ -1,0 +1,13 @@
+@article{YU2025118661,
+title = {Experimental investigation of the behavior of UHPCFST under repeated eccentric compression},
+journal = {Composite Structures},
+volume = {352},
+pages = {118661},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118661},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400789X},
+author = {Chunlei Yu and Min Yu and Lihua Xu and Sumei Liu and Zewen Sun and Jianqiao Ye},
+keywords = {UHPCFST, Mechanical behavior, Repeat eccentric compression},
+abstract = {This paper investigates the mechanical behavior of ultra-high-performance concrete-filled steel tubes (UHPCFST) under repeated eccentric compression. A total of 30 UHPCFST specimens are designed, fabricated, and tested. The design variables include steel tube thickness, UHPC type, loading eccentricity and load pattern. Failure modes, force-axial shortening curves, section strain distributions, lateral deflection distributions, bearing capacity and stiffness are studied. Three failure modes, i.e., steel tube bulge, compressive crush and tensile crack of the UHPC infill are observed. Specimens with larger loading eccentricity and thinner steel tube are more likely to exhibit all the three modes. Subjected to eccentric loading, the compressive strength and stiffness of the UHPCFST increase significantly with the increase of steel tube thickness and UHPC strength. In the case of repeated loading, stiffness degradation is observed. Existing formulas for the N-M curve and the eccentric compressive capacity are evaluated against the test results. A formula for eccentric compressive stiffness is derived based on the parabolic function assumption. Additionally, an empirical model is introduced to describe the force-axial shortening relationship of the UHPCFST under repeated eccentric compression, which may be applied in practical design and analysis.}
+}

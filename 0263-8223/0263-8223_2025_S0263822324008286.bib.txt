@@ -1,0 +1,13 @@
+@article{SOUSAMARTINS2025118700,
+title = {Electrical energy and overpressure characterization of aeronautical fasteners submitted to a lightning current waveform},
+journal = {Composite Structures},
+volume = {352},
+pages = {118700},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118700},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008286},
+author = {Rafael {Sousa Martins} and Amélie Jarnac and Clément Zaepffel and Philippe Lalande},
+keywords = {CFRP, Lightning damage, High-current, Fasteners, Overpressure, Outgassing},
+abstract = {Understanding and controlling sparking in fasteners and jointed structures is crucial for flight safety, particularly in fuel tanks. This study investigates the relationship between dissipated electrical energy and pressure buildup within fastener cavities during lightning strikes. Experiments were performed on fasteners installed in aluminum and Carbon Fiber Reinforced Polymer (CFRP) samples, with lightning current waveforms ranging from 1 kA to 10 kA. A sensitivity analysis evaluated the influence of key parameters, such as current peak, clearance fit, sample material, polarity, and fastener coating on pressure rise and energy dissipation. Electrical energy up to 80 J and pressure levels reaching 600 bar– unprecedented compared to prior studies– were observed. The pressure-energy relationship showed an approximately linear trend, while pressure exhibited a non-linear dependence on clearance fit. Fastener coating and sample material were found to significantly influence the results, with pressure variations reaching up to a factor of 10 in some cases}
+}

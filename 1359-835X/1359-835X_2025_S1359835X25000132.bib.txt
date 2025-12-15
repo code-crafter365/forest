@@ -1,0 +1,13 @@
+@article{PENG2025108719,
+title = {Improving microwave absorption performance of carbonyl iron powder by regulating geometric dimensions and electromagnetic-dielectric synergism},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108719},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108719},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000132},
+author = {Jian Peng and Da-Wei Wang and Zheng-You Cheng and Ming-Feng Yang and Jiang-Tao Liu and Ming Wang},
+keywords = {A. Ceramic-matrix composites (CMCs), B. Interface/interphase, B. Microstructures},
+abstract = {In this study, the microwave absorption performance of carbonyl iron powder (CIP) was enhanced by tuning the geometric dimensions and electromagnetic-dielectric synergism. The ball-shaped CIP was firstly milled into different flattened CIP (FCIP) via a ball milling process with different milling time. The electromagnetic-dielectric synergism of CIP can be regulated by surface coating with silicon dioxide (SiO2) and mixing with multi-walled carbon nanotubes (MWCNT). The minimum reflection loss (RLmin) and effective absorption bandwidth (EAB) values has been greatly improved. Specifically, the maximum EAB and RLmin of the FCIP with thick SiO2 nanoparticle layer are 7.9 GHz at a thickness of 1.9 mm and −40.6 dB at a thickness of 1.7 mm, respectively. For the SiO2@FCIP + MWCNT samples, the effective absorption frequency range covers from 3.0 to 18.0 GHz via changing the sample thickness from 1.5 to 5.0 mm. Therefore, this study provide effective strategies to regulate microwave absorption performance of CIP.}
+}

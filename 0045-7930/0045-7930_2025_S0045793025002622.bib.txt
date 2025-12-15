@@ -1,0 +1,13 @@
+@article{WANG2025106802,
+title = {High-accuracy pseudo arc-length method based on Toro–Vázquez splitting},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106802},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106802},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002622},
+author = {Chentao Wang and Kun Li and Peng Li and Ming Li},
+keywords = {High accuracy, Toro–Vázquez (TV) splitting, Pseudo arc-length method (PALM), Discontinuities},
+abstract = {Solving hyperbolic conservation law equations accurately remains a challenging task. The notable feature of this system of equations is that, regardless of whether the initial conditions are smooth, solutions containing both strong and weak discontinuities will eventually emerge as time evolves, and these discontinuous solutions will further propagate over time. To address this type of singularly strong discontinuities, a high-accuracy pseudo arc-length method (PALM) based on the Toro–Vázquez (TV) splitting is proposed in this paper. The method realizes the adaptive adjustment of the mesh by introducing the arc-length constraint equations, which reduces the domain of influence of the singularities and indirectly eliminates and attenuates the singularity of the equations. In the high order reconstruction stage, it is mapped to the computational arc-length space and combined with the optimized weighted essentially non-oscillatory-z (WENO-Z) scheme, so that the subtle changes and complex structures in the flow can be captured and resolved to the greatest extent. Meanwhile, the high-accuracy pseudo arc-length method is combined with the positivity-preserving Harten–Lax–van Leer (HLL) scheme to form a composite format that is both stable and robust. This combination allows the algorithm to maintain excellent computational stability and accuracy when dealing with complex flows and extreme conditions. Numerical example results show that the pseudo arc-length method based on Toro–Vázquez splitting not only maintains the high accuracy property, but also performs well in dealing with shock waves and high-frequency wave flow problems.}
+}

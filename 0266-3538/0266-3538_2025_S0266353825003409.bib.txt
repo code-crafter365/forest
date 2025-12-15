@@ -1,0 +1,13 @@
+@article{WANG2025111372,
+title = {Elevating the performance of bio-based epoxidized natural rubber/natural rubber/silica nanocomposites via strategic manipulation of silica phase-selective distribution},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111372},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111372},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003409},
+author = {Zixuan Wang and Ruoyu Wang and Yanguo Li and Yanjin Zhu and Weixiao Song and Xiaohui Wu and Guo-Hua Hu and Liqun Zhang},
+keywords = {Epoxidized natural rubber, Natural rubber, Silica, Phase-select distribution, Dispersion mechanism, Dynamic and static mechanical properties},
+abstract = {Epoxidized natural rubber (ENR) combines the excellent elasticity and mechanical strength of natural rubber (NR) with the polarity, oil resistance, and wet skid resistance imparted by the introduction of epoxy groups. In particular, ENR show strong affinity with silica, endowing it great development potential in the field of green tires. However, in the silica-based composite system, ENR and NR is incompatible and forms a phase-separated structure, hindering the performance improvement of the composite. In this work, silane coupling agent bis(γ-triethoxysilylpropyl) tetrasulfide (TESPT) was pre-incorporated into NR to prepare NR-TESPT masterbatch to improve the affinity between the NR and silica. NR-TESPT masterbatch with different TESPT content were prepared and mixed with ENR and silica to fabricate ENR/NR/silica (ENR/NR-xT) composites. The phase-selective dispersion mechanism of silica in the ENR and NR matrix was observed by AFM-Nano-FTIR and TEM. The results shows that both the ENR phase and the NR-TESPT phase can form strong coupling interactions with silica. And a double-coupling structure of epoxy-silanol and silanol-TESPT-double bond is formed to enhance the uniform silica dispersion and the comprehensive properties of composites. The ENR/NR-4T composite exhibits significant performance improvements compared to the NR-6T composite, with a 115 % increase in anti-wet skid performance, a 30.9 % increase in tensile strength, and a 61.9 % increase in tear strength.}
+}

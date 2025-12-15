@@ -1,0 +1,13 @@
+@article{DENG2025109113,
+title = {High-efficient toughening and strengthening of epoxy resin with organic–inorganic core–shell nanoparticles},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109113},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109113},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004075},
+author = {Enting Deng and Xiao Dai and Lili Zhang and Ting Zheng and Xiaogang Liu and Jun Shen},
+keywords = {Epoxy resin, Core-shell nanoparticle, Good toughness and strength, Wide-temperature applications},
+abstract = {Two novel core–shell nanoparticles (PBA@SiO2 and PBA@E-SiO2), featuring a core of poly(butyl acrylate) (PBA) and a shell of SiO2 or epoxy-functionalized SiO2, were prepared via the emulsion polymerization followed by the modified Stöber method. A series of epoxy resin composites (PBA@SiO2/EP and PBA@E-SiO2/EP) with different ratio of nanoparticles were then constructed through the solution blending method. The influence of the nanoparticles on mechanical properties of the obtained EP composites at different temperatures was explored in detail. All the PBA@E-SiO2/EP composites exhibited much higher mechanical properties than pure EP and PBA@SiO2/EP at different temperatures. Especially, the 3 % PBA@E-SiO2/EP possessed the highest impact strength and tensile strength at room temperature, achieving an increase of 85.6 % and 24.5 % compared to those of pure EP. Even at high and low temperature (150 °C and −140 °C), the improvement of impact strength and other mechanical performance could be still realized on the PBA@E-SiO2/EP. Furthermore, the 3 % PBA@E-SiO2/EP possessed a glass transition temperature (Tg) as high as 240.3 °C, implying a good thermal stability of the EP composites after toughened. This work provides a new path for the construction of epoxy-based composites with good toughness and strength, especially potential in the wide-temperature applications.}
+}

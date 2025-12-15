@@ -1,0 +1,13 @@
+@article{ZHAO2025118919,
+title = {Multi-scale finite element modeling of cross-ply UHMWPE fiber composites under ballistic impact},
+journal = {Composite Structures},
+volume = {357},
+pages = {118919},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118919},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000844},
+author = {Chun-Zheng Zhao and Chang-Ye Ni and Feng Jin and Qian-Cheng Zhang and Lu-Sheng Qiang and Jian-Hong Zhang and Zeng-Shen Yue and Xin Wang and Rui Zhang and Tian Jian Lu},
+keywords = {UHMWPE fiber composite, Ballistic performance, Multi-scale modeling, Finite element simulation},
+abstract = {While cross-ply ultra-high molecular weight polyethylene (UHMWPE) fiber composites have proven to be effective against ballistic impact, it remains challenging to explore the underlying mechanisms at the fiber-scale. Current homogenized finite element (FE) models for cross-ply composite have limitations in capturing the intricate deformation and failure of individual fibers. To squarely address this deficiency, this study proposes a novel micro–macro concurrent multi-scale numerical methodology. This FE model includes a macroscopic region and a microscopic region within the impact zone, the embedded element method (EEM) is employed to describe the interaction between fiber and resin. The simulation results accurately capture both the macro and micro characteristics. It is demonstrated that the micro-scale penetration mechanisms predominantly involve fiber lateral displacement and fiber fracture, the latter induced by shear or tension depending on the layer depth and projectile nose shape. The proposed methodology is helpful for the design and development of cross-ply composites.}
+}

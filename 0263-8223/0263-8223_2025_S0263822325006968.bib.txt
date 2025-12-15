@@ -1,0 +1,13 @@
+@article{LOU2025119531,
+title = {Suppression and mode conversion of Rayleigh-type surface acoustic waves by piezoelectric metamaterials},
+journal = {Composite Structures},
+volume = {372},
+pages = {119531},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119531},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006968},
+author = {Jia Lou and Zhongmin Xiao and Hui Fan and Xiang Fang and Tao Shen and Jianke Du},
+keywords = {Metamaterials, Piezoelectricity, Wave suppression, Rayleigh-type surface acoustic waves (SAWs), Mode conversion},
+abstract = {The demand for bulk acoustic wave (BAW) devices is growing rapidly. However, surface acoustic waves (SAWs) and the resulting energy dispersion decrease their energy conversion efficiency and quality factor. This study addresses this issue by attaching piezoelectric rods to the surface of a piezoelectric substrate. The eigenfrequencies of the piezoelectric rods under both open-circuit and short-circuit electrical boundary conditions, along with the dispersion relations of the Rayleigh-type SAWs in the piezoelectric substrate, are obtained within a theoretical framework. Then, finite element (FE) models are established to validate the analytical results, illustrating the elastic wave modes, transmission characteristics, and displacement fields at specified frequencies. Our findings reveal that the first eigenfrequency of the piezoelectric rods is highly sensitive to their electrical boundary conditions. Around the eigenfrequencies, the dispersion curves discontinue and the SAW transmission attenuates, as the energy of the Rayleigh-type SAWs is converted into the BAWs. This conversion can enhance the energy of the BAWs, thereby improving the quality factor of the BAW devices. Moreover, by replacing uniform piezoelectric rods with those of varying lengths, the frequency range for effective SAW suppression can be significantly broadened. This work offers a viable method for suppressing spurious modes in acoustic wave devices.}
+}

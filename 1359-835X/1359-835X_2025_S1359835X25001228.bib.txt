@@ -1,0 +1,13 @@
+@article{WANG2025108828,
+title = {Mechanical and electrical conductivity of Cu-10Ti3SiC2/Cu-3GFs@Cu composites by heterogeneous laminated micro-nanostructure design},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108828},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108828},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001228},
+author = {Mu Wang and Xiaosong Jiang and Hongliang Sun and Rui Shu and Min Zou and Yu Jiao and Zixuan Wu and Liu Yang},
+keywords = {Heterogeneous laminated structure, Interlayer ordered structure, Mechanical properties, Electrical conductivity},
+abstract = {A heterogeneous laminated structure (HLS) design, complemented with an interlayer ordered structure (IOS), combined with heterogeneous powder gradient stacking (HPGS) and flake powder metallurgy (FPM) processes, results in the construction of a heterogeneous laminated micro-nanostructure (HLMS) with HLS and IOS of Cu/Ti3SiC2/C composites. Systematic investigation was conducted to explore the sources and contributions to improve the strength and resistance of the composites. Under applied loads, the HLS and IOS work synergistically. The refined grain orientation within the HLS reinforces the non-uniform deformation at interfaces, facilitating the interaction between strain gradients and geometrically necessary dislocations (GND), thereby enhancing energy absorption or dissipation during fracture. Meanwhile, the highly aligned reinforcement particles (RP) in the IOS help coordinate plastic deformations, reduce local stress concentrations, and optimize electron transport pathways to improve their performance. Results corroborate the assertion that this innovative HLMS structure design strategy is a highly valuable approach for the development of hetero-structured materials.}
+}

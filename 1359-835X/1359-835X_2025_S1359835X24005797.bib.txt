@@ -1,0 +1,13 @@
+@article{WANG2025108581,
+title = {A highly thermally conductive yet electrically insulating boron nitride nanosheets/polyetherimide composite with oriented structure},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108581},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108581},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005797},
+author = {Tianze Wang and Hui Chi and Danying Zhao and Junguo Dong and Ming Li and Zhenhua Jiang and Yunhe Zhang},
+keywords = {Boron nitride nanosheets, Polyetherimide, Composites, Oriented structure, Heat conduction},
+abstract = {Due to the continuous development of semiconductor technology and the rapid increase in power density of modern electronic devices, there is an urgent need for a thermal interface material (TIM) with ultra-high heat dissipation capacity and excellent electrical insulation. Here, we report a new embedded series strategy for preparing thermal interface materials. Firstly, ultra-thin boron nitride nanosheets (BNNS) are continuously and neatly embedded into oriented fibers by electrospinning to form an ordered series structure. These composite fibers are then stacked into multiple layers and simply compacted to form a dense structure. Finally, by controlling the hot pressing temperature to confine the movement of oriented fibers, the activated molecular chain segments move in confined space to prepare a composite with oriented structure. The composite provides a reliable conduction path for phonons by embedding neatly arranged BNNS in oriented structure. The composites prepared by this strategy have higher thermal anisotropy (λ=/λ⊥ = 7.16) and in-plane thermal conductivity (3.08 W/(m·K), BNNS Loading: 30 wt%), and also exhibit better electrical insulation (8.16 × 1015 Ω·cm) than those prepared by solution coating and hot pressing.}
+}

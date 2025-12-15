@@ -1,0 +1,11 @@
+@article{ZHANG2025114463,
+title = {Corrigendum to “Preparation of antibacterial hydrogel from poly(aspartic hydrazide) and quaternized N-[3-(dimethylamino) propyl] methylacrylamide copolymer with antioxidant and hemostatic effects for wound repairing” [Colloids Surf. B Biointerfaces 238 (2024) 113881]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114463},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114463},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007227},
+author = {Yu Zhang and Junling Wang and Zhe Cui and Shuai Guo and Yong Wang and Wenjuan Li and Chengyan Zhou and Mingtao Run and Jianglei Qin}
+}

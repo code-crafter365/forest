@@ -1,0 +1,13 @@
+@article{CAI2025119502,
+title = {Design and validation of quasi-zero stiffness metamaterial core in composite sandwich structures},
+journal = {Composite Structures},
+volume = {371},
+pages = {119502},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119502},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006671},
+author = {Deng’an Cai and Hang Zhang and Xinwei Wang},
+keywords = {Quasi-zero stiffness, Sandwich structure, Carbon fiber laminates, Quasi-static compression, Low-frequency vibration damping},
+abstract = {Rapid advancements in aerospace, high-speed rail, and precision instrumentation have driven the evolution of multifunctional structures. Quasi-zero stiffness sandwich structures integrate load-bearing capacity and vibration isolation by combining elastic supports with core materials that exhibit a nonlinear response under stress. This paper presents the design of a new quasi-zero stiffness composite sandwich panel, combining the lightweight and high-strength properties of carbon fiber laminates with the quasi-zero stiffness characteristics of the core structure. The design integrates lightweight, load-bearing, and vibration damping functions. The test specimens were fabricated using 3D printing and prepreg curing molding techniques. The quasi-zero stiffness behaviour of the structure was verified through simulation analyses and quasi-static compression tests. Additionally, dynamic tests were performed to assess the elastic wave transmission characteristics of the specimens under varying preload conditions (3.6 kg, 4.3 kg, 5.2 kg, and 6.5 kg). The results revealed that the sandwich structure exhibited optimal vibration damping performance under a preload of 5.2 kg, with an average acceleration transfer rate of –22 dB over the frequency range of 0 – 100 Hz, demonstrating excellent low-frequency vibration damping performance. Leveraging the superior mechanical properties of carbon fiber panels, this material is highly adaptable to a range of application scenarios and holds significant potential for engineering applications.}
+}

@@ -1,0 +1,13 @@
+@article{ALI2025102473,
+title = {A review of the Segment Anything Model (SAM) for medical image analysis: Accomplishments and perspectives},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {119},
+pages = {102473},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102473},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001502},
+author = {Mudassar Ali and Tong Wu and Haoji Hu and Qiong Luo and Dong Xu and Weizeng Zheng and Neng Jin and Chen Yang and Jincao Yao},
+keywords = {Segmentation Anything Model, Medical image segmentation, Prompt engineering, Semi-supervised learning, Interactive segmentation, Multi-modal image analysis, Medical data annotation, Large-scale dataset development, Uncertainty estimation in segmentation and clinical application of AI},
+abstract = {The purpose of this paper is to provide an overview of the developments that have occurred in the Segment Anything Model (SAM) within the medical image segmentation category over the course of the past year. However, SAM has demonstrated notable achievements in adapting to medical image segmentation tasks through fine-tuning on medical datasets, transitioning from 2D to 3D datasets, and optimizing prompting engineering. This is despite the fact that direct application on medical datasets has shown mixed results. Despite the difficulties, the paper emphasizes the significant potential that SAM possesses in the field of medical segmentation. One of the suggested directions for the future is to investigate the construction of large-scale datasets, to address multi-modal and multi-scale information, to integrate with semi-supervised learning structures, and to extend the application methods of SAM in clinical settings. In addition to making a significant contribution to the field of medical segmentation.}
+}

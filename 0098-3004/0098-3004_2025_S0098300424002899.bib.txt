@@ -1,0 +1,13 @@
+@article{GONDYUL2025105806,
+title = {Numerical dispersion mitigation neural network with velocity model correction},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105806},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105806},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002899},
+author = {Elena Gondyul and Vadim Lisitsa and Kirill Gadylshin and Dmitry Vishnevsky},
+keywords = {Seismic modeling, U-net, NDM-net, Numerical dispersion, Deep learning, Digital earth model},
+abstract = {The paper presents the Numerical Dispersion Mitigation neural network (NDM-net) to speed up seismic modeling. The idea of the NDM-net is to simulate the common-shot gathers for the entire set of source positions using a coarse grid. This solution can be computed fast but inaccurately. In addition, a small number of seismograms are generated using a fine enough grid to get an accurate solution. After that, the NDM-net is trained to map numerically polluted solutions to the accurate one and applied to correct the entire dataset. Previously, it was shown that NDM-net allows to speed up seismic modeling up to six times without noticeable loss of accuracy if the velocity model is fixed. In this paper, we focus on the applicability of NDM-net to the case where both the velocity model discretization and computational grid are corrected. We apply the NDM-net to suppress two types of numerical error: the numerical dispersion and the interface error.}
+}

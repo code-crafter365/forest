@@ -1,0 +1,12 @@
+@article{WANG2025109495,
+title = {Application of vitrimer-based sizing agent onto carbon fibres through thiol-ene photo-polymerisation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109495},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109495},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007900},
+author = {Yi Wang and Qixing Jiang and Dominik Vorlaufer and Alexander Bismarck and Jonny Blaker and Matthieu Gresil},
+keywords = {Vitrimer, Carbon fibre sizing, Thiol-ene photopolymerization, Interfacial shear strength (IFSS)},
+abstract = {This work introduces photocuring as a method to apply a vitrimer-based sizing agent onto carbon fibres (CFs) via a thiol–ene reaction. The vitrimer molecule, bisphenol A glycerolate di(norbornenyl ester) (BPAGDN), was synthesised as the sizing agent. Surface treatments including oxidation and silanisation were performed on unsized AS4 CFs to graft thiol groups onto the surface. Upon UV irradiation, norbornene groups on BPAGDN reacted with surface thiol groups through a photo-initiated thiol–ene reaction, coating the CFs with BPAGDN. IR spectroscopy confirmed the epoxy–acid reaction mechanism, with full conversion achieved after 14 h. The molecular structure of BPAGDN was verified by NMR. Surface treatments led to an oxygen content increase of 5.09 %, the appearance of sulphur (1.83 %), and an increase in O’-C=O bonding by 21.42 %, as determined by XPS. The vitrimer coating increased fibre diameter from 7.04 ± 0.06 µm to 7.72 ± 0.15 µm. Mechanical properties of sized CFs remained similar to unsized CFs, though with a 26.35 % decrease in Weibull modulus. The interfacial shear strength (IFSS) of 5-min vitrimer-sized CFs increased by 24.37 % (from 66.75 MPa to 83.01 MPa), due to enhanced fibre–matrix bonding. This work demonstrates a non-destructive vitrimer sizing method using BPAGDN and UV irradiation, yielding stronger fibre–matrix interfaces.}
+}

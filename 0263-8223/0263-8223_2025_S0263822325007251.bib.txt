@@ -1,0 +1,13 @@
+@article{LI2025119560,
+title = {Metamaterial structures incorporating configuration-dependent surface and nonlocal effects},
+journal = {Composite Structures},
+volume = {372},
+pages = {119560},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119560},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007251},
+author = {Shuo Li and Linghua Xiao and Yu Zhang and Daming Nie and Li Li},
+keywords = {Metamaterial structure, Homogenization method, Nonlocal effect, Surface effect, Vibration response},
+abstract = {Due to their complex microscopic configurations, metamaterial structures exhibit both configuration-dependent surface and nonlocal effects, making the high-fidelity finite element analysis of their dynamic responses computationally prohibitive. This study investigates the fundamental mechanisms of surface effects induced by macroscale boundaries and nonlocal effects resulting from wave scattering in metamaterials. Building on these insights, a data-driven homogenization method integrating configuration-dependent surface and nonlocal effects is developed. Through high-throughput computational simulations, an offline database is constructed to capture the effective properties of diverse lattice configurations. Leveraging this database, a surface-enabled nonlocal homogenized model is established, enabling real-time prediction of the dynamic response of metamaterial structures. The effectiveness of the proposed method is validated by accurately predicting the vibration responses of diverse metamaterial structures. The results highlight its superior accuracy and efficiency compared to both conventional homogenization techniques and computationally intensive high-fidelity simulations. This study provides a valuable multiscale dynamic computation framework for metamaterial structures.}
+}

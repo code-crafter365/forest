@@ -1,0 +1,13 @@
+@article{LI2025114496,
+title = {Research progress on surface modification and coating technologies of biomedical NiTi alloys},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114496},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114496},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000037},
+author = {Xiang Li and Ying Yang and Hui Shen and Meng Zhou and Bingmin Huang and Lishan Cui and Shijie Hao},
+keywords = {NiTi alloys, Surface modification, Biomaterials, Biomedical application, Biocompatibility},
+abstract = {NiTi alloys are an important class of biomaterials with extensive clinical applications such as cardiovascular stents, orthodontic arch-wires, esophageal stents, orthopedic implants and more. However, the long-term implantation of NiTi alloys presents significant challenges due to their susceptibility to wear, corrosion and the excessive release of harmful nickel ions. These factors can severely compromise both the biocompatibility and the overall service life of the implants. To better meet the demands for safety, durability and superior biological performance after implantation, surface modification of NiTi alloys has become a focal point of current research. Based on the fundamental properties of the NiTi alloys and the challenges encountered in their practical applications, this article provides a focused review of recent advances in improving their corrosion resistance, wear resistance, antibacterial properties and biological performance through surface modification and coating techniques. In addition, the paper outlines current research challenges and proposes recommendations for future development directions.}
+}

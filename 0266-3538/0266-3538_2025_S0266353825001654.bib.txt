@@ -1,0 +1,13 @@
+@article{EGELMEERS2025111197,
+title = {Direct numerical simulation of fiber orientation kinetics and rheology of fiber-filled polymers in shear flow},
+journal = {Composites Science and Technology},
+volume = {268},
+pages = {111197},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111197},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001654},
+author = {Thijs R.N. Egelmeers and Ruth Cardinaels and Patrick D. Anderson and Nick O. Jaensson},
+keywords = {Folgar–Tucker, Orientation kinetics, Shear flow, Viscoelastic matrix},
+abstract = {This study investigates fiber orientation kinetics and the corresponding rheology in fiber composites via direct numerical simulations in shear flow on triperiodic representative volume elements. The resulting orientation kinetics are compared to those predicted by the Folgar–Tucker model to explain the underlying mechanisms of its phenomenological parameters. Two effects are investigated in detail: (1) tangential slip on the surface of the fibers and (2) viscoelasticity of the matrix fluid. The orientation kinetics for different slip lengths are well described by the Jeffery’s equation with different effective particle aspect ratios. The orientation kinetics slow down with increasing fluid elasticity and are well described with a strain reduction factor in the Folgar–Tucker model. For these viscoelastic simulations, at high volume fractions, the rheological parameters are underpredicted by a modified Hinch and Leal model. Furthermore, distinct Folgar–Tucker parameters are required to either optimally describe the rheology or the orientation kinetics of the simulations.}
+}

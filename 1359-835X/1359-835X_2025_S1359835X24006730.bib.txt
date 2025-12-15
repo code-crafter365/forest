@@ -1,0 +1,13 @@
+@article{LIU2025108675,
+title = {A comparative study of 3D woven variable-thickness composite structures with reduced yarns and varied weft sizes under cantilever loading},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108675},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108675},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006730},
+author = {Zengfei Liu and Jingran Ge and Yang Sun and Binbin Zhang and Xiaodong Liu and Jun Liang},
+keywords = {A. Polymer-matrix composites (PMCs), D. Mechanical testing, B. Mechanical properties, D. Failure},
+abstract = {In this paper, two types of 3D woven variable-thickness composite structures are designed by reducing yarns and varying weft sizes with the same weave patterns. The mesoscale geometric morphology of two kinds of variable-thickness composite structures is observed by the optical microscope. The cantilever loading tests of the variable-thickness composite structures combined with DIC and strain gauges were carried out, and the strain distribution was determined using finite element analysis. The differences in the mechanical properties and failure mechanisms of woven variable-thickness composite structures with different preform manufacturing processes are comparatively investigated through the surface strain field evolution process and fracture morphology analysis of the specimens. The results show that the varied weft yarn size variable-thickness structures maintain the yarn continuity compared to the reduced yarn structures, but the stiffness and strength are weaker. This study provides mechanical property data support for process design optimization of aero-engine fan blades.}
+}

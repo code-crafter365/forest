@@ -1,0 +1,13 @@
+@article{CHENG2025119145,
+title = {Fail-safe topology optimization for fiber-reinforced composite structures},
+journal = {Composite Structures},
+volume = {364},
+pages = {119145},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119145},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003101},
+author = {Fei Cheng and Huanfei Jia and Wei Ding and Wenjie Zuo and Yuqiang Fang},
+keywords = {Topology optimization, Fail-safe topology optimization, Fiber-reinforced composite structures, Structural safety},
+abstract = {In this paper, we address the critical issue of fiber-reinforced composite structures (FRCS) losing functionality under local damage, which is a common safety deficiency in traditional FRCS designs. We propose a fail-safe topology optimization method for fiber-reinforced composite structures, which enables concurrent optimization of fiber orientations and structural topology while enhancing safety of FRCS. The method simulates local damage by removing the stiffness of composite materials in predefined patches, aiming to minimize structural compliance under critical damage scenarios. The fiber orientations optimization employs a discrete–continuous parameterization method to reduce the risk of falling into local optima. To address the non-differentiability of max-operator, the Kreisselmeier-Steinhauser function is employed as a substitute. Sensitivities are derived using the adjoint method. The effectiveness of this method is verified through several numerical examples.}
+}

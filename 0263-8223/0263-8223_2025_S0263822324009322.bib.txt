@@ -1,0 +1,13 @@
+@article{AYAKDAS2025118804,
+title = {Vibration analysis and optimal design of multiscale hybrid flax fiber/graphene nanoplatelets reinforced laminates using modified differential evolution algorithm},
+journal = {Composite Structures},
+volume = {354},
+pages = {118804},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118804},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009322},
+author = {Ozan Ayakdas and H. {Seçil Artem} and Melih Savran and Levent Aydin and Sarp Adali},
+keywords = {Vibration, First- order shear deformation theory, Graphene Nanoplatelets (GPLs), Hybrid Laminated Nanocomposite, Stochastic Optimization, Natural Flax Fiber},
+abstract = {One of the relatively recent developments in composites is using different material combinations and nano-scale reinforcements such as Graphene Nanoplatelets (GPLs) to develop hybrid fiber composites. A further development is the use of natural flax fiber in composites in response to a growing demand over the past few decades for affordable, lightweight, and environmentally-friendly materials. In order to meet this growing demand, in the present study composites based on graphene nanoplatelets and flax fibers are investigated considering their weight, cost, and natural frequency implications. Furthermore, the Modified Differential Evolution (MDE) algorithm is implemented for the optimum design problems involving the stacking sequences and weight fractions of GPLs in each layer. For the optimal design problems, natural frequency is defined as the objective function with the design variables specified as the orientations of flax fibers and the weight contents of GPLs in each layer. The effective material properties are computed based on Halpin-Tsai and the rule of mixture formulations. Navier solution approach is implemented to solve the eigenvalue problems with the stiffness matrix based on the First-order Shear Deformation Theory (FSDT). Optimal designs based on flax fibers, optimal GPL contents, and stacking sequences lead to efficient and environmentally-friendly composite plates. Optimum multiscale hybrid nanocomposite designs include high natural frequency, light weight, and cost-effectiveness compared to conventional carbon and glass fibers reinforced equivalents.}
+}

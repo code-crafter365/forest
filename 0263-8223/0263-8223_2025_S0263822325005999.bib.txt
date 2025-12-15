@@ -1,0 +1,13 @@
+@article{AMMENDOLEA2025119434,
+title = {An adaptive two-scale model for phase-field fracture simulation in microstructured materials},
+journal = {Composite Structures},
+volume = {370},
+pages = {119434},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119434},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005999},
+author = {Domenico Ammendolea and Fabrizio Greco and Lorenzo Leonetti and Paolo Lonetti and Arturo Pascuzzo},
+keywords = {Phase-field fracture models, Adaptive mesh techniques, Multiscale models, Crack propagation, Heterogeneous materials},
+abstract = {The aim of this work is to present an efficient two-scale adaptive model for phase-field fracture in heterogeneous structures, which accurately reproduce cracking processes while ensuring good computational efficiency. The proposed model combines a cohesive phase-field fracture approach, known for its ability to capture complex crack patterns, with an adaptive model refinement technique implemented within a Finite Element (FE) framework. The key feature of this strategy is its capability to dynamically refine the model in critical regions, where microscopic damage evolution is expected, through the adaptive insertion of damageable microscale domains once a certain damage-driven activation criterion is met. This feature reduces the typically high computational costs of purely microscopic phase-field fracture models without compromising accuracy. Outside the critical regions, the proposed model adopts a classical numerical homogenization approach to derive the effective elastic properties of the underlying undamaged microstructure. The efficacy of the proposed methodology has been assessed through comparisons with experimental data and numerical outcomes available in technical literature. The present results underscore the effectiveness of the proposed adaptive two-scale model for phase-field fracture as a robust tool for simulating damage and failure phenomena in a wide range of materials and structures used in common engineering applications.}
+}

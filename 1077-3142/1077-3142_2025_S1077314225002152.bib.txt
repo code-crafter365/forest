@@ -1,0 +1,13 @@
+@article{WU2025104492,
+title = {Comprehensive regional guidance for attention map semantics in text-to-image diffusion models},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104492},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104492},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002152},
+author = {Haoxuan Wu and Lai-Man Po and Xuyuan Xu and Kun Li and Yuyang Liu and Zeyu Jiang},
+keywords = {Diffusion models, Text-to-image generation},
+abstract = {Diffusion models have shown remarkable success in image generation tasks. However, accurately interpreting and translating the semantic meaning of input text into coherent visuals remains a significant challenge. We observe that existing approaches often rely on enhancing attention maps in a pixel-based or patch-based manner, which can lead to issues such as non-contiguous regions, unintended region leakage, eventually causing attention maps with limited semantic richness, degrade output quality. To address these limitations, we propose CoRe Diffusion, a novel method that provides comprehensive regional guidance throughout the generation process. Our approach introduces a region-assignment mechanism coupled with a tailored optimization strategy, enabling attention maps to better capture and express semantic information of concepts. Additionally, we incorporate mask guidance during the denoising steps to mitigate region leakage. Through extensive comparisons with state-of-the-art methods and detailed visual analyses, we demonstrate that our approach achieves superior performance, offering a more faithful image generation framework with semantically accurate procedure. Furthermore, our framework offers flexibility by supporting both automatic region assignment and user-defined spatial inputs as conditional guidance, enhancing its adaptability for diverse applications.}
+}

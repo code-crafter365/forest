@@ -1,0 +1,13 @@
+@article{TANG2025114272,
+title = {How big nanoparticles carry small ones into cells: Actions captured by transmission electron microscopy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114272},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114272},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005319},
+author = {Xue-Rui Tang and Shou-Yang Lei and Qiangqiang Zhang and Yuan-Yuan Liu and Hao Wu and Aoneng Cao and Haifang Wang},
+keywords = {Silica nanoparticle, Size effect, Cellular uptake, Co-exposure, Clathrin-mediated endocytosis},
+abstract = {The mechanism of cellular uptake of nanoparticles (NPs) is critical for both bio-application and risk evaluation of NPs, but is still not fully understood due to many influencing factors, among which particle size is a major one. Recent studies show that there is an unusual interplay among differently-sized NPs when they simultaneously interact with cells, e.g., 100 nm silica NPs (SNP100) can promote the cellular uptake of 50 nm silica NPs (SNP50). However, the underlying mechanism is still unclear. Herein, we manage to capture individual endocytosis events in HeLa and A549 cells after co-exposure to SNP50 and SNP100 for 2 hours, using transmission electron microscopy (TEM). TEM images clearly show that there is a size threshold for SNPs to trigger clathrin-mediated endocytosis: One single SNP100 can efficiently trigger it, while it needs about 6 SNP50 to do so. Remarkably, TEM also captures how SNP100 triggers the endocytosis and carries nearby SNP50 into cells, and statistical data show that the average number of SNP50 carried by one SNP100 could be up to about 6. In addition, the mechanism was further verified by using mixed 60 nm SNPs (SNP60) and SNP100. This mechanism has an immediate implication for the design of drug-deliver nanocarriers, and as a proof-of-concept, more catalase functionalized SNP50 (CAT@SNP50) was delivered into HeLa cells by adding some SNP100, resulting in a more severe cell damage compared to CAT@SNP50 alone under same conditions. The findings have general impact on the nanotoxicity study of NP products that commonly have certain distributions in size, and provide new insights on designing efficient drug delivery systems by deliberately control the combinations of NPs of different sizes.}
+}

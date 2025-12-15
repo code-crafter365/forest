@@ -1,0 +1,13 @@
+@article{LI2025119749,
+title = {Coarse-grained molecular dynamics study of modulus transition and effects of debonding condition on debonding behavior at fiber-resin interfaces},
+journal = {Composite Structures},
+volume = {374},
+pages = {119749},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119749},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009146},
+author = {Jialiang Li and Zeyu Li and Haiyang Gong and Yujun Li and Jianjun Jiang},
+keywords = {Fiber-resin interface, Interfacial performance, Coarse-grained molecular dynamics, Modulus transition},
+abstract = {Mechanical performance of fiber-reinforced composites is dictated by stress transfer and energy dissipation within the fiber-resin interphase, governed by its modulus gradient and rate-dependent behavior. However, the coupled influence of interphase thickness and strain rate on these properties, particularly the governing physics of the modulus transition, remains insufficiently characterized. This study employs coarse-grained molecular dynamics simulations to systematically investigate the debonding of a carbon fiber/epoxy interphase across a range of thicknesses (8–20 nm) and velocities (0.00001–0.001 Å/fs). The simulations reveal strong rate dependency: higher velocities suppress polymer chain relaxation, promoting more pronounced irreversible deformation that enhances interfacial strength and toughness. Notably, thinner interphases exhibit heightened sensitivity to loading rate. Their strength increases by 41.7 % over the velocity range, compared to 28.8 % for thicker counterparts, highlighting the pivotal role of chain dynamics. A distinct modulus gradient, originating from nanoconfinement-induced non-uniformities in chain mobility and stress distribution, is observed extending from the fiber surface into the matrix. Based on these findings, an exponential decay model is proposed that accurately captures this modulus profile, providing an essential constitutive input for multiscale modeling. These findings elucidate fundamental failure mechanisms and offer a theoretical framework for the rational design of tailored interphases for high-performance composites.}
+}

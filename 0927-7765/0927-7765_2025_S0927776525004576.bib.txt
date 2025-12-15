@@ -1,0 +1,13 @@
+@article{HUANG2025114950,
+title = {Entrapping imipenem into poly(methyl methacrylate) assemblies by microfluidic process retains the activity against prosthetic joint infections following thermal treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114950},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114950},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004576},
+author = {Ming-Hsi Huang and Yu-Hsu Chen and Chih-Chun Pu and Yi-Jiun Ding and Yu-Pao Hsu and Nan-Ping Yang and L. Kristopher Siu},
+keywords = {Acrylic bone cement, Antibiotic, Imipenem, Microfluidic device, Prosthetic joint infections},
+abstract = {To prevent prosthetic joint infections (PJIs) in patients, bone cement powder is often pre-filled with antibiotics. However, most broad-spectrum antibiotics are heat-unstable, complicating their incorporation into bone cement. In this study, we entrapped a heat-labile antibiotic imipenem (IMP) into the bone cement basal material poly(methyl methacrylate) (PMMA) to combat broad-spectrum PJI. First, the IMP-PMMA matrix was fabricated via self-assembly using microfluidic devices. Then, the IMP-PMMA assemblies were characterized by examining their structural features, thermal behavior, and the in vitro release profile of IMP from the PMMA matrix. Finally, we investigated the relationship between the thermal treatment and antibacterial activity of IMP-loaded PMMA. Our results demonstrated that preloading IMP into PMMA could potentially protect IMP from heat damage during acrylic bone cement preparation, thereby retaining its antibacterial activity against bacterial infections. The insights gained from this study suggest that IMP-loaded acrylic bone cement is a promising strategy for preventing PJIs in orthopedic surgery.}
+}

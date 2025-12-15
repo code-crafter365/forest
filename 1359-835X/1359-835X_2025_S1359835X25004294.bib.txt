@@ -1,0 +1,13 @@
+@article{TOLDY2025109135,
+title = {Synergistic flame retardancy of carbon fibre-reinforced polyimine vitrimer composites via vitrimer-based intumescent coating},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109135},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109135},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004294},
+author = {Andrea Toldy and Dániel István Poór and Beáta Szolnoki and Norbert Geier and Ákos Pomázi},
+keywords = {Vitrimer, Polyimine, Carbon fibre-reinforced composite, Flame retardancy},
+abstract = {We developed sustainable, recyclable carbon fibre-reinforced polyimine vitrimer composites with enhanced flame retardancy via a combination of resorcinol bis(diphenyl phosphate) (RDP) in the matrix and a 10 %P ammonium polyphosphate (APP) intumescent coating, offering a promising alternative to conventional epoxy systems for advanced applications. Fire performance was evaluated using Limiting Oxygen Index (LOI), UL94, and mass loss calorimetry (MLC) tests. The APP coating acted via a condensed‐phase mechanism, forming a dense, phosphorus oxide‐rich char that reduced the peak heat release rate (pHRR) from 289 kW/m2 to 126 kW/m2—the lowest observed among the tested formulations. Scanning electron microscopy and energy-dispersive X-ray spectroscopy (SEM‑EDS) analysis revealed significant phosphorus enrichment in the outer char layer and, notably, an increased phosphorus content in the inner char when RDP was incorporated into the matrix. This synergistic effect indicates that RDP’s gas‐phase action effectively complemented APP’s condensed‐phase mechanism, further enhancing LOI, extending time to ignition (TTI), and reducing total heat release (THR), significantly improving overall fire resistance. Although benchmark epoxy composites exhibited higher tensile strengths, the vitrimer systems maintained competitive mechanical properties alongside superior recyclability, the ability to apply the intumescent coating via hot pressing, and intrinsic repairability. Overall, the dual-action flame retardant strategy achieved by combining RDP and APP significantly improved fire performance, demonstrating the potential of these advanced composites for multifunctional material applications.}
+}

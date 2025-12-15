@@ -1,0 +1,13 @@
+@article{YANG2025108920,
+title = {Low-temperature curing epoxy self-lubricating anticorrosion coatings synergistically enhanced by hyperbranched polysiloxanes and MoS2/h-BN heterojunction particles},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108920},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108920},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002143},
+author = {Kaiming Yang and Feifei Wang and Bingrui Shi and Zhenlong Zhang and Weixu Feng and Guoquan Qi and Hongxia Yan},
+keywords = {Multifunctional composites, Layered structures, Wear, Corrosion},
+abstract = {Developing low-temperature curing and high-performance self-lubricating anticorrosion coatings is a challenge for solving energy waste and environmental problems caused by wear and corrosion. Herein, molybdenum disulfide/hexagonal boron nitride (MoS2/h-BN) heterojunction particles, prepared by an inexpensive, efficient and solvent-free ultrasonic-assisted ball milling method, are used as solid lubricants and corrosive media barrier. Meanwhile, hyperbranched polysiloxane with terminal epoxy groups (HSiEp) is utilized to improve both the dispersion of the particles and the interfacial bonding strength between the particles and the epoxy binder. Compared with neat epoxy coating, the average friction coefficient of 45.0 wt% MoS2/h-BN/6.0 wt% HSiEp/EP coating decreases from 0.38 to 0.19, while the coating resistance (R1) increases from 9.98 × 105 Ω·cm2 to 3.33 × 106 Ω·cm2. This is mainly attributed to the “soft-hard” particle synergy and the high barrier synergy of HSiEp and MoS2/h-BN heterojunction particles. This study provides a theoretical foundation for the development of low-energy-consumption and high-performance epoxy self-lubricating anticorrosion coatings.}
+}

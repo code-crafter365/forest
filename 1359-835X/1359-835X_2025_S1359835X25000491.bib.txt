@@ -1,0 +1,13 @@
+@article{DING2025108755,
+title = {Highly compressible composite aerogel elastomers aided by FeCoNi alloys and carbon nanotubes for electromagnetic wave absorption and piezoresistive sensing},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108755},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108755},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000491},
+author = {Luyao Ding and Quanxin Liu and Tianyi Hang and Youqiang Yao and Shaohua Jiang and Yiming Chen and Jiajia Zheng},
+keywords = {A-Aerogel, A-Elastomer, B-Electrical properties, D-Mechanical testing},
+abstract = {To eliminate the increasing threats to human health and environmental safety posed by electromagnetic radiation, it is necessary to develop high performance and functionally integrated absorbers with superior mechanical performances. Herein, a 3D porous biomass cellulose nanofibril-based composite aerogel elastomer was first fabricated and encapsulated by Ecoflex, which was assisted by highly conductive carbon nanotubes and electromagnetic-functional carbon-shell iron-cobalt–nickel alloys with N-doped carbon. The resulting composite elastomer demonstrated excellent flexibility, high resilience, and fatigue-resistant compression. Additionally, the inclusion of Ecoflex provided tunable dielectric properties and abundant heterogeneous interfaces, enabling effective electromagnetic wave attenuation. It achieved a minimum reflection loss of −57 dB, corresponding to a super-wide effective absorption bandwidth of 7.41 GHz. Also, the enhanced elasticity endowed the aerogel elastomer with an effective piezoresistive sensing capability for sensitive and stable human motion monitoring. This unique strategy will provide new opportunities for broadening the application scenarios of functionally integrated composite elastomers.}
+}

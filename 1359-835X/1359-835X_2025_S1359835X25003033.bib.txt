@@ -1,0 +1,13 @@
+@article{ZHANG2025109009,
+title = {Wire-based friction stir additive manufacturing of TiC reinforced Al-Cu-Mg composite: Particle refinement and dispersion},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109009},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109009},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003033},
+author = {Zeyu Zhang and Long Wan and Qi Wen and Youlong Shi and Zhanwen Feng},
+keywords = {Aluminum matrix composite, Friction stir additive manufacturing, Severe plastic deformation, Microstructure},
+abstract = {A dense aluminum matrix composite with uniformly dispersed nanoscale TiC particles was achieved using wire-based friction stir additive manufacturing (W-FSAM). Dual-step severe plastic deformation, featured with pre-plasticization in the screw tool and thermo-plasticized deposition by stirring pins, was proposed to drive the broken, fragmentation, and re-dispersion of the TiC particles. As a result, the TiC particles were refined from aggregation with 10 μ m in the feedstock to nanoparticles with an average size of 58 nm, achieving uniform dispersion in the matrix. Homogeneous equiaxed grains with an average size of 0.75 μm were also achieved due to the low thermal cycle, dynamic recrystallization, and Zener pinning of TiC nanoparticles. Sub-microscale equiaxed grains and TiC nanoparticles allowed for strong grain refinement and Orowan strengthening, significantly enhancing the mechanical performance. Consequently, the as-built state composite exhibited an average yield strength of 203 MPa, an ultimate tensile strength of 291 MPa, and a uniform elongation of 13.2 %. This work provides a promising insight into aluminum matrix composite with homogeneous dispersed and nanoscale reinforcement, which is critical for advanced structural applications.}
+}

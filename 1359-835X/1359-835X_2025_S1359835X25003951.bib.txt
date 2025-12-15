@@ -1,0 +1,13 @@
+@article{LI2025109101,
+title = {Green multifunctional ionic liquid for enhancing processing flowability, toughness, and flame retardancy of highly filled MH/LLDPE composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109101},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109101},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003951},
+author = {Rujie Li and Shiai Xu and Beibei Sun and Jiajun Xu and Jie Xu and Xue Xu and Qianqian Zhang and Jiaxu Cheng},
+keywords = {Ionic liquid, Highly filled composites, Compatibility, Lubrication},
+abstract = {This study proposes a facile and cost-effective strategy to improve the processing flowability and mechanical properties of highly filled (HF) polymer composites while retaining their flame retardancy. Ionic liquids (IL), specifically 1-alkyl-3-methylimidazolium phosphate ([AMIM]PA), were synthesized and incorporated into HF magnesium hydroxide (MH)/linear low-density polyethylene (LLDPE) (60/40 by weight) composites. The MH/LLDPE composite containing 5 wt% of 1-hexadecyl-3-methylimidazole phosphate ([HDMIM]PA) exhibited significant improvements in processing characteristics, demonstrating a 50.7% reduction in equilibrium torque values, a maximum 13 times enhancement in melt flow index, and a 133% increase in impact strength. Morphological and rheological analyses demonstrated that [HDMIM]PA effectively promoted interfacial lubrication and compatibility between MH particles and LLDPE matrix, and consequently enhanced the overall properties. The flame retardancy assessments revealed that [AMIM]PA functioned as an intumescent flame retardant to make the material safer. This study thus provides a comprehensive understanding of the role of IL in enhancing the performance of HF polymer composites, offering a promising strategy for the development of advanced composites.}
+}

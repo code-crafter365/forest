@@ -1,0 +1,13 @@
+@article{LIU2025108692,
+title = {Structure and performance evolutions with temperature, stress, and thermal-force coupling of the silica aerogel composite for suppressing thermal runaway propagation of LIBs},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108692},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108692},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006900},
+author = {Ming Liu and Yong Kong and Jin Tang and Bangqin Zhang and Xiaodong Shen},
+keywords = {A Ceramic fibres, A Nanocomposites, B High-temperature properties, B Thermal properties},
+abstract = {Silica aerogel composite (SAC) with high thermal stability up to 1200 °C for suppressing thermal runaway (TR) propagation of Li-ion batteries (LIBs) was developed via a facile base-catalyzed single-step sol–gel-impregnation process. Structure and thermal performance evolutions of the silica aerogel composite with temperature, stress, and thermal-force coupling condition were investigated firstly. Thermal conductivity of the SAC with SiC as opacifier (SAC-SiC) is 0.021–0.045 W/(m·K) at 600–1200 °C, which are lower than those of its state-of-art counterparts at 600–1200 °C or even lower temperatures. The structure and thermal insulation performance of the SAC-SiC are hardly affected by stress (0.01–0.9 MPa) under thermal-force coupling conditions. The use of SAC with a thickness of 2.35 mm suppressed the TR propagation of a commercial cell (NCM 811) in a module successfully. The resulting SAC is exceptional in thermal insulation under high temperature and thermal-force coupling conditions.}
+}

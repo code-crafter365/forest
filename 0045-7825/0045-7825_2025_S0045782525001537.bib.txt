@@ -1,0 +1,13 @@
+@article{LIU2025117881,
+title = {A clustering-based multiscale topology optimization framework for efficient design of porous composite structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117881},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117881},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001537},
+author = {Jinlong Liu and Zhiqiang Zou and Zeyang Li and Min Zhang and Jie Yang and Kang Gao and Zhangming Wu},
+keywords = {Porous composite structures, Microstructure design, K-means++ clustering, Representative unit cell (RUC), Additive manufacturing, Topology optimization},
+abstract = {The optimization design of the microstructures and their macro distribution in porous composite structures (PCS) offers significant potential for achieving both lightweight and functional performance. This paper proposes a novel optimization design framework for PCS with varying densities and multiple microstructures. Initially, components topology optimization (TO-Components) using ordered SIMP interpolation is applied to determine the type and density distribution of void, solid and porous materials. Following this, element stress state analysis calculates the stress-to-density ratio (se) for each porous material element. A two-level k-means++ clustering method, based on se and density, then replaces the widely used manual partitioning, enabling optimal subregion division for the specified number of microstructure types. This approach identifies representative unit cells (RUCs) for the subsequent topology optimization of RUCs (TO-RUCs). The TO-RUCs process designs the microstructures of each RUC using homogenization theory to minimize strain energy. Three benchmark numerical examples take only 1 to 2 min to complete the full-scale design. Additionally, the scalability of the design for both uniform and variable density PCS is explored. The comparison examples demonstrate that the proposed method reduces optimization time by an order of magnitude while maintaining consistent full-scale compliance, using the same material quantity, compared to existing methods. Finally, additive manufacturing and mechanical testing of the optimized structures confirm the performance benefits.}
+}

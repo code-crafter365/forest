@@ -1,0 +1,13 @@
+@article{WAN2025104471,
+title = {EGLC: Enhancing Global Localization Capability for medical image segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104471},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104471},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001948},
+author = {Yulong Wan and Dongming Zhou and Ran Yan},
+keywords = {Deep learning, Medical image segmentation, Wavelet transform, Transformer},
+abstract = {Medical image segmentation plays a vital role in computer-aided diagnosis and treatment planning. Traditional convolutional networks excel at capturing local patterns, while Transformer-based models are effective at modeling global context. We observe that this advantage arises from the global model’s sensitivity to boundary information, whereas local modeling tends to focus on regional consistency. Based on this insight, we propose EGLC, a novel global-local collaborative segmentation framework. During global modeling, we progressively discard inattentive patches and apply wavelet transform to extract multi-frequency boundary features. These boundary features are then used as guidance to enhance local representations. To implement this strategy, we introduce a new encoder, Boundary PVT, which incorporates both global semantics and boundary cues. In the decoding phase, we design a Reverse Progressive Locality Decoder to redirect attention to the peripheral edges of the lesion, thereby improving boundary delineation. Extensive experiments on multiple public medical image datasets demonstrate that our EGLC framework consistently outperforms existing state-of-the-art methods, especially in preserving fine-grained boundary details. The proposed approach offers a promising direction for precise and robust medical image segmentation.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025114314,
+title = {Reactive oxygen species-responsive coating based on Ebselen: Antioxidation, pro-endothelialization and anti-hyperplasia for surface modification of cardiovascular stent},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114314},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114314},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005733},
+author = {Xinyi Chen and Rui Wang and Yuhua Du and Yonghong Mou and Yan Gong and Xueyu Zhao and Wenzhong Li and Xin Li and Jin Wang and Yuancong Zhao},
+keywords = {Ebselen, Antioxidation, ROS response, Pro-endothelialization, Anti-proliferative},
+abstract = {Atherosclerosis is often accompanied by inflammation and oxidative stress. Excessive reactive oxygen species (ROS) can damage the vascular endothelium, leading to endothelial dysfunction and reduced nitric oxide (NO) bioavailability. Further accumulation of ROS contributes to vascular cell damage, lipid peroxidation, and extracellular matrix deposition. Thus, clearing excess ROS and reshaping the oxidative microenvironment is essential for treating atherosclerosis (AS). In this study, Ebselen, which mimics glutathione peroxidase and possesses redox capabilities, was successfully synthesized. Subsequently, a multifunctional coating was designed using a combination of Ebselen and poly (trimethylene carbonate) (PTMC), capable of protecting cells from ROS-induced damage, promoting vascular endothelialization, and exhibiting anti-proliferative properties. The Ebselen-loaded coating effectively scavenges free radicals (with an elimination rate of 89 %), catalytically releases NO (0.96 × 10⁻¹⁰ to 1.26 × 10⁻¹⁰ mol/cm²/min), and sustainably delivers Ebselen to the lesion site through a redox cycle. Notably, this coating shows excellent hemocompatibility and cytocompatibility. Subcutaneous implantation results indicated that the fibrous capsule thickness of PTMC10 was the lowest, at just 47.7 % of that of PTMC. Therefore, the Ebselen-loaded coating presents promising applications in cardiovascular stents.}
+}

@@ -1,0 +1,13 @@
+@article{CAO2025119034,
+title = {On flexural behavior of 3D-printed continuous hybrid fiber reinforced composites: Experimental and multiscale modeling study},
+journal = {Composite Structures},
+volume = {359},
+pages = {119034},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119034},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001990},
+author = {Xi-Ao Cao and Guohua Zhu and Zhen Wang and Xuan Zhao},
+keywords = {Continuous fiber 3D printing, Multiscale modeling, Flexural behavior},
+abstract = {3D-printed continuous hybrid fiber reinforced composites (cHFRC) present great advantages in terms of balanced design between material cost, weight reduction, and mechanical properties. Nevertheless, the lack of an effective design methodology has so far limited its large-scale application. This paper aims to provide a high-fidelity multiscale modeling strategy for 3D-printed cHFRC and achieved a micro-meso-macro matched optimization design. Specifically, several carbon fiber/glass fiber hybrid 3D-printed laminates were prepared for bending tests to explore the effects of hybrid ratio and stacking sequences on the bending performance. Subsequently, a novel multiscale model based on the micromechanical failure (MMF) theory was developed to investigate the deformation modes and energy absorption mechanisms of 3D-printed cHFRCs. Based on the validated multiscale model, the effects of microscopic design variables on the macroscopic structural performance were further investigated. Finally, a discrete optimization design was carried out to improve the bending performance of 3D-printed cHFRC laminates. The results indicated that increasing the proportion of carbon fibers could improve the flexural strength and modulus of the 3D-printed cHFRC specimens. It was also found that the specimens were more likely to exhibit better flexural properties when the carbon fiber layer was located at the topside. This study not only reveals the flexural mechanical response and energy absorption mechanism of 3D-printed cHFRC laminates, but also realizes their multiscale collaborative optimization.}
+}

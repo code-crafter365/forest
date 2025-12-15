@@ -1,0 +1,13 @@
+@article{ZHAO2025114948,
+title = {Nucleic acid-based nanogels for drug delivery：From construction strategies to intelligent applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114948},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114948},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004552},
+author = {Zijian Zhao and Fei Sun and Hongli Yu and Bing Li and Xianwen Wang and Yong Sun and Jianqin Yan},
+keywords = {Nucleic acid, Hydrogel nanoparticles, Drug delivery, Biological application},
+abstract = {Nanogels are nanoscale hydrogel particles, formed through intramolecular or intermolecular cross-linking. They serve as versatile carriers in drug delivery due to their high stability, excellent biocompatibility, and intelligent responsiveness to environmental stimuli. Nucleic acid-based nanogels are of particular interest due to the unique characteristics of nucleic acids. Nucleic acid-based nanogels not only possess the properties and functionalities of nanomaterials and hydrogels, but also its excellent flexibility, stability, precise programmability and adjustability makes them shine in the biomedical field. In addition, functional nucleic acids, such as microRNA, small interfering RNA, i-motif nanostructures, etc., provide assistance for the construction of nucleic acid-based nanogels to provide additional stimulus response, molecular recognition, disease treatment potential, making them key participants in biomedical applications. Therefore, it is crucial to summarize the existing preparation strategies, biological properties and recent applications of nucleic acid-based nanogels, which can help to seek new directions for the development of nanocarriers. This review summarizes various synthesis strategies and drug delivery mechanisms of nucleic acid-based nanogels. It also discusses protective and functional modifications for intelligent nanogels, outlines their biomedical applications, and explores future development directions. It is anticipated that this review will facilitate the development of novel nucleic acid-based nanogels and bring new vitality to therapeutic interventions for a range of diseases.}
+}

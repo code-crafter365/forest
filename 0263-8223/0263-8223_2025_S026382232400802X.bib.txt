@@ -1,0 +1,13 @@
+@article{MIRANDA2025118674,
+title = {Crashworthiness assessment of a composite fuselage stanchion employing a strain rate dependent damage model},
+journal = {Composite Structures},
+volume = {352},
+pages = {118674},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118674},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400802X},
+author = {Mário Miranda and Andrea Cini and Antonio Raimondo and Volnei Tita},
+keywords = {Crashworthiness, Composites, Fuselage, Damage modelling},
+abstract = {Numerical testing is crucial for the design of composite fuselages, which have strict crashworthiness regulations. However, the majority of studies on numerical fuselage impacts do not account for the effects of strain rate in simulations. A damage model considering strain rate dependence has been implemented to accurately predict the impact behaviour of a composite fuselage structure. This model enhances the existing three-dimensional Hashin criterion by incorporating strain rate effects and its implemented numerically using a VUMAT subroutine in ABAQUS/explicit. Validation of the model is done through a low-velocity impact problem, showing a better correlation with experimental data compared to previous numerical analyses available in the literature. The study focuses on high-energy impact on a composite stanchion in the lower lobe of an aircraft fuselage. Results demonstrate that the newly proposed model effectively predicts failure zones and modes, indicating its potential in addressing dynamic composite problems typical of impact scenarios.}
+}

@@ -1,0 +1,13 @@
+@article{ZHAN2025109103,
+title = {Enhancing polypropylene/high-density polyethylene blend performance through the incorporation of microcrystalline cellulose-based core-shell particles at the interface},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109103},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109103},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003975},
+author = {Ke Zhan and Yucheng Peng and Thomas Elder},
+keywords = {Polypropylene, High-density polyethylene, Microcrystalline cellulose, Compatibilization},
+abstract = {Enhancing the performance of polypropylene (PP)/high-density polyethylene (HDPE) blends is crucial for valorizing mixed plastic waste. This study incorporated microcrystalline cellulose (MCC), combined with maleic anhydride grafted polyethylene (MAPE), into a PP/HDPE blend to enhance its performance. Mechanical results showed that the addition of MCC increased strength, stiffness, and toughness of the PP/HDPE blend, with further enhancement achieved through adding MAPE. Morphological observations and thermal analyses revealed that the enhanced mechanical properties were attributed to the formation of core–shell structured particles, with MCC as the core and MAPE, miscible with HDPE, acting as the shell at the interface. Rheological behaviors provided insights into processability and MCC-polymer matrix interactions of the composites, highlighting percolation effects at high MCC content. These MCC-based core–shell particles demonstrated great potential for improving the PP/HDPE blend performance.}
+}

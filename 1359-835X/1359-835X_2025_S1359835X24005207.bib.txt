@@ -1,0 +1,13 @@
+@article{ZHANG2025108522,
+title = {Achieving ultra-high strength in TiB/metastable-β composites via short-process technology},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108522},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108522},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005207},
+author = {Jiaming Zhang and Jianwen Le and Fu Chen and Yongqiang Ye and Chunyu Shen and Yimin Zhuo and Guangfa Huang and Yuanfei Han and Weijie Lu},
+keywords = {Short-process, Titanium matrix composites (TMCs), Ultra-high strength, Dynamic recrystallization},
+abstract = {Lightweight titanium alloys with ultra-high strength and reasonable ductility are desirable for aerospace applications. However, titanium alloys typically require cumbersome heat treatment to achieve excellent mechanical properties. Here, ultra-high strength Ti-55531-based composites were fabricated by introducing TiB whiskers using a short process, i.e. melting and isothermal forging. The microstructure evolution during isothermal forging was investigated, TiB whiskers would promote the discontinuous dynamic recrystallization and impede abnormal grain growth, resulting in significant β grain refinement, equiaxialization, and crystal orientation randomization. In addition, uniformly distributed nano-scaled αs lamellae were formed. 2.5 vol% TiB/Ti-55531 achieved a superior strength-plasticity synergy with the ultra-high strength of 1525 ± 4 MPa and elongation of 6.4 %±0.2 %, which were 9.2 % and 12.3 % higher than that of Ti-55531, respectively. The strengthening mechanisms were thoroughly analyzed, providing further insight to simplify the preparation and advance the application of ultra-high strength TMCs via short-process technology.}
+}

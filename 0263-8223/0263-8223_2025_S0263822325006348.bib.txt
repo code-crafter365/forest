@@ -1,0 +1,13 @@
+@article{MUKHTAR2025119469,
+title = {A unified FRP-concrete bond model and new experimental insights on size effect},
+journal = {Composite Structures},
+volume = {371},
+pages = {119469},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119469},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006348},
+author = {Faisal Mukhtar},
+keywords = {FRP-concrete bond strength model, Unified framework, Physics-driven semi-analytical model, Scale behavior, Types 1, 2 and 3 size behavior/effect, Experimental investigation},
+abstract = {This study presents a novel discovery regarding the size behavior of fiber-reinforced polymer (FRP) bond to concrete, with three types of size behavior (Types 1, 2, and 3) discovered and their design charts developed. Type 1 has constant substrate width with variable FRP width, Type 2 features proportional increases in both substrate and FRP widths (the so called size effect) maintaining a constant width ratio, and Type 3 has constant FRP width with variable substrate width. With Type 3 being a previously unrecognized width effect—that existing bond models need to capture—the paper introduces its experimental investigation. Another contribution of this work is the development of a consistent FRP-concrete bond strength model using physics-driven semi-analytical approach, yielding multi-output, expressions for the capacity Pmax, effective bond length Le, maximum interfacial shear stress τmax, fracture energy Gf, and ultimate slip sf, all in one framework. Apart from the physics-driven approach used to develop Pmax, the model is unified for the key bond parameters—Le, τmax, Gf, sf, and surface preparation effect—to self-evolve without fitting their individually respective values, except that of Pmax. Accuracy is validated using 710 experimental data showing remarkable performance of the unified model compared with top-ranked existing models and codes. In addition, the new size type tests are used to serve as further validation of the proposed model’s consistency.}
+}

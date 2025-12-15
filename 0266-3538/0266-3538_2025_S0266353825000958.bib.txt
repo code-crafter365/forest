@@ -1,0 +1,13 @@
+@article{KLEBERT2025111127,
+title = {Machine learning-driven property predictions of polypropylene composites using IR spectroscopy},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111127},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111127},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000958},
+author = {Szilvia Klébert and Róbert Várdai and Anita Rácz},
+keywords = {Regression, PLS, Neural network, Mechanical properties},
+abstract = {There is a growing need for environmentally friendly alternatives to the determination of the mechanical properties, thermal stability and other functional characteristics of polymer composites, which led to the use of machine learning modeling combined with fast, non-destructive measurements like Fourier-transform infrared spectroscopy (FTIR). In this study, we have successfully classified almost 200 in-house polypropylene composites according to the applied reinforcements with the above-mentioned combination of methods. The balanced accuracy of test validation was over 0.9 for the extreme gradient boosting (XGBoost)-based model. With the same IR spectra, we have developed consensus machine learning models for predicting the modulus, tensile strength and elongation at break – which are important mechanical properties from the application point of view. The three-step validation protocol has verified that the models were appropriate for the prediction of the mechanical features of the polymer composites and their classification based on the applied reinforcements.}
+}

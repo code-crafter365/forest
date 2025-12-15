@@ -1,0 +1,13 @@
+@article{DING2025104338,
+title = {Spatial and temporal beliefs for mistake detection in assembly tasks},
+journal = {Computer Vision and Image Understanding},
+volume = {254},
+pages = {104338},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104338},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500061X},
+author = {Guodong Ding and Fadime Sener and Shugao Ma and Angela Yao},
+keywords = {Mistake detection, Assembly tasks, Knowledge-grounded beliefs},
+abstract = {Assembly tasks, as an integral part of daily routines and activities, involve a series of sequential steps that are prone to error. This paper proposes a novel method for identifying ordering mistakes in assembly tasks based on knowledge-grounded beliefs. The beliefs comprise spatial and temporal aspects, each serving a unique role. Spatial beliefs capture the structural relationships among assembly components and indicate their topological feasibility. Temporal beliefs model the action preconditions and enforce sequencing constraints. Furthermore, we introduce a learning algorithm that dynamically updates and augments the belief sets online. To evaluate, we first test our approach in deducing predefined rules on synthetic data based on industry assembly. We also verify our approach on the real-world Assembly101 dataset, enhanced with annotations of component information. Our framework achieves superior performance in detecting ordering mistakes under both synthetic and real-world settings, highlighting the effectiveness of our approach.}
+}

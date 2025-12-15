@@ -1,0 +1,13 @@
+@article{LI2025118778,
+title = {A hierarchical multi-scaling method for modeling the mesoscale geometry of 3D woven composite preform with twisted structure},
+journal = {Composite Structures},
+volume = {354},
+pages = {118778},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118778},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009061},
+author = {Mengran Li and Hao Li and Jingran Ge and Zengfei Liu and Bing Wang and Jun Liang},
+keywords = {3-dimensional(3D) reinforcement, Mesoscopic geometry, Computationally modeling method, Twisted structure},
+abstract = {Mesoscopic geometry of the yarn is considered as one of the critical factors for regulating the permeability of preforms and affecting the mechanical properties of composites. For the twisted structure, such as aero-engine composite blade, it takes high computational cost for predicting the whole mesoscopic structures of its 3-dimensional(3D) reinforcement using the draping simulation at the mesoscale. This paper proposesa viable hierarchical multi-scaling computationally modeling methodfor digital representing the mesoscale geometry of 3D woven composite preform after forming process. Firstly, an anisotropic hyper-elastic constitutive theory was used to simulate the forming process of fabric at the macroscale. Then, the unit cell(UC) model was estalished the digital element approach. Its displacement boundary condition was obtaintd by embedded element method. Furthermore, a hyper-elastic constitutive model of mesoscale yarn was employed to simulate the deformation of each mesoscopic UC model. Finally, the mesoscale geometry of twisted structure fabric was obtained by assembling the deformed UC models. It has a good correlation by comparing the yarn paths and cross-section geometries of established model with the Micro-CT results. This modeling method provides a pathway to predict the mesoscale morphology of complex fabric structures and evaluate the mechanical properties of complex composite structures.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025109157,
+title = {Modeling and optimization of thermal interface materials featuring horizontally oriented fillers by flow-field driven strategy},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109157},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109157},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004518},
+author = {Xuan Yang and Xinfeng Zhang and Tianxu Zhang and Linyi Xiang and Bin Xie and Xiaobing Luo},
+keywords = {Thermal materials, Filler orientation, Heat dissipation, Flow-field driven},
+abstract = {Thermal interface materials (TIMs) are essential for electronic thermal management due to their flexibility and high thermal conductivity. Among them, filler-matrix composites are widely used, with filler orientation playing a key role in thermal performance. Shear forces in a fluid flow field effectively align anisotropic, thermally conductive fillers. Here, we developed a numerical model to simulate particle orientation, revealing its dependence on shear rate. A spin-coating strategy, optimized through an analytical model, was employed to fabricate TIMs with horizontally oriented hexagonal boron nitride (hBN). Theoretical analyses of Euler angles, considering spin-coating duration and initial orientation, identified 5 s as the optimal duration for horizontal alignment. Experimental validation using orientation algorithms confirmed the model’s accuracy. Thermal conductivity measurements showed that composites produced via this optimized approach achieved 0.92 W m−1 K−1 at 20 wt% hBN, significantly outperforming randomly oriented composites (0.41 W m−1 K−1). This novel orientation strategy and optimization model enhance TIMs’ thermal performance, offering a new approach to regulating filler orientation and improving heat-flux control in composite materials.}
+}

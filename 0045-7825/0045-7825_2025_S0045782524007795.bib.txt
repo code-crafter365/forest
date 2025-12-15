@@ -1,0 +1,13 @@
+@article{PRUME2025117525,
+title = {Direct data-driven algorithms for multiscale mechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117525},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117525},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007795},
+author = {E. Prume and C. Gierden and M. Ortiz and S. Reese},
+keywords = {Data-Driven, Computational mechanics, Multiscale mechanics, Algorithms},
+abstract = {We propose a randomized data-driven solver for multiscale mechanics problems which improves accuracy by escaping local minima and reducing dependency on metric parameters, while requiring minimal changes relative to non-randomized solvers. We additionally develop an adaptive data-generation scheme to enrich data sets in an effective manner. This enrichment is achieved by utilizing material tangent information and an error-weighted k-means clustering algorithm. The proposed algorithms are assessed by means of three-dimensional test cases with data from a representative volume element model.}
+}

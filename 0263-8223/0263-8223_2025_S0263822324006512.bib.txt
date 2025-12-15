@@ -1,0 +1,13 @@
+@article{XU2025118523,
+title = {A comprehensive review on mechanical properties and damage mechanisms of 3DWCs under various influencing factors},
+journal = {Composite Structures},
+volume = {351},
+pages = {118523},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118523},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006512},
+author = {Yonghao Xu and Wensuo Ma and Xiaoqiang Wang and Zhenyu Ma and Zhaohua Huang and Ruidong Man},
+keywords = {3D woven composites, Mechanical properties, Damage mechanisms, Numerical analysis, Manufacturing defects},
+abstract = {Three-dimensional woven composites (3DWCs) have received widespread attention due to their advantages, such as integral near-net molding of complex components and high damage tolerance. However, 3DWCs exhibit significant variations in mechanical behavior under various influencing factors, which poses challenges in selecting appropriate application scenarios. In recent years, there has been rapid development in the performance analysis and modeling strategies for 3DWCs, leading to substantial results. This paper provides a comprehensive overview of the mechanical properties and damage mechanisms of 3DWCs under various influencing factors, aiming to facilitate the selection of 3DWCs for different engineering applications and to complement the existing database of mechanical properties.}
+}

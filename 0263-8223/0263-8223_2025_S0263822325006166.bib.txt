@@ -1,0 +1,13 @@
+@article{ZHANG2025119451,
+title = {The optimization and mechanical performance of threaded joints in CFRP/AL laminated composites},
+journal = {Composite Structures},
+volume = {370},
+pages = {119451},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119451},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006166},
+author = {Pengchao Zhang and Tao Yang and Renyu He and Sinan Liu and Yu Du and Chang Liu},
+keywords = {Threaded joints, Laminated materials, Digital image correlation, Tensile properties, Inclination angle},
+abstract = {To enhance the strength of screwed connections, three types of threaded joints—internal threaded joints, insert threaded joints, and adhesively bonded insert threaded joints—were fabricated on the surface of carbon fiber metal laminate (CFM) composites. The study investigates the influence of laminate stacking sequence and joint type on the tensile properties and failure behavior of the composites. Tensile tests were conducted on CFM specimens with different laminate stacking sequences and threaded joint types. Additionally, the digital image correlation (DIC) technique was employed to capture the tensile deformation process in real time. The results indicate that when the laminate stacking sequence of the joint is Al-CFRP, the load-bearing capacity of the same type of threaded joint is significantly higher compared to the CFRP-Al sequence, with improvements of 9.5 %, 9.0 %, and 12.1 %. In addition, under the Al-CFRP stacking sequence, the ultimate load-bearing capacity of the improved adhesively bonded insert threaded joint was 11.05 kN, which represents an increase of 38.3 % and 18.8 % compared to the internal threaded joint and the insert threaded joint. Additionally, as the screw inclination angle increases, the failure mode of the specimen transitions from extrusion failure to a combination of extrusion and shear-out failure, with the surface of the specimen progressively exhibiting more severe damage. The strain distribution and out-of-plane displacement at the ultimate load confirmed the aforementioned failure modes. This study provides important insights for the optimization design of CFM threaded joints.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025103946,
+title = {MCCMS: Achieve fine-grained phase distribution design in cement microstructure using diffusion models},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103946},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103946},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001071},
+author = {Jiahao Li and Xin Zhao and Lin Wang and Shuangrong Liu and Haozhong Gao and Zeming Cheng and Chaoran Pang and Bo Yang},
+keywords = {Microstructure design, Cement materials, Diffusion models},
+abstract = {The design of phase distribution in cement microstructure has significant research and educational value. It aids in correlation studies, expands knowledge boundaries, and guides production processes. However, current methods for controllable microstructure synthesis cannot customize the location, size, and shape of phases in the synthesized microstructure, limiting research on cement-based materials. To address this limitation, this paper proposes a diffusion-based synthesis framework, MCCMS, which introduces multi-scale constraints at different diffusion steps to achieve fine-grained customization of phases. The MCCMS framework divides the cement microstructure into super-voxels of varying sizes at each diffusion step, imposing constraint rules to regulate their variation. Users can modify these super-voxels at different steps to customize the phases under varying constraint strengths. Experimental results demonstrate that the MCCMS framework can precise control over the position, size, and shape of phases within the microstructure, showcasing the high fidelity of the synthetic results.}
+}

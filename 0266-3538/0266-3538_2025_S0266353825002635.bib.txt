@@ -1,0 +1,13 @@
+@article{TORTORICI2025111295,
+title = {Development of a sustainable chemical recycling process of carbon fibers from epoxy-based composites},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111295},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111295},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002635},
+author = {Daniele Tortorici and Arianna Adriani and Susanna Laurenzi},
+keywords = {Recycling, Solvolysis, Composite materials, Carbon fibers, Degradation},
+abstract = {Recycling composite materials is crucial to addressing the environmental and social challenges posed by managing end-of-life components. Despite extensive research and industrial efforts, an effective solution remains elusive. This study presents the development of a chemical treatment process to recover carbon fibers from epoxy resin composites through low-temperature solvolysis. The process, employing sulphuric acid and demineralized water at varying concentrations (15.5–18.3 mol L−1), operates under mild conditions (p = 1 atm, T < 100 °C) to produce high-quality recycled fibers. Comprehensive optimization was conducted for parameters such as temperature, solvent volume, and fluid stirring. The recycled fibers were analyzed using scanning electron microscopy, and their mechanical properties were evaluated. Composites fabricated with recycled fibers retained 65–90 % of the mechanical properties of those made with virgin fibers. The greatest reduction was observed in tensile modulus, whereas flexural properties were largely preserved. A life cycle assessment was performed to evaluate the environmental impact of the proposed recycling method across different scenarios, considering acid concentrations and composite compositions. Results indicate significant improvements in multiple environmental impact indicators compared to the production of virgin carbon fibers: a tenfold reduction was observed in key categories, such as global warming potential, eutrophication potential, and human toxicity potential. Notable decreases were also recorded in abiotic depletion potential and acidification potential, although these were less pronounced. This study highlights the potential of the developed process as a sustainable and effective approach to composite material recycling, contributing to the circular economy and reducing environmental burdens.}
+}

@@ -1,0 +1,13 @@
+@article{PAN2025118640,
+title = {Multi-scale impact of geometric uncertainty on the interface bonding reliability of metal/polymer-based composites hybrid (MPH) structures},
+journal = {Composite Structures},
+volume = {351},
+pages = {118640},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118640},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007682},
+author = {Wenfeng Pan and Lingyu Sun and Xudong Yang and Yiben Zhang and Jiaxing Sun and Jiachen Shang and Zhengqing Yang and ChengDong Xu},
+keywords = {Metal/polymer-based Composites Hybrid, Multiscale finite element analysis, Uncertainty propagation, Reliability analysis, Artificial neural networks},
+abstract = {Metal/polymer-based composites hybrid (MPH) structures combine the high strength of metals with the low density of polymer-based composites, making them widely used in automotive applications. However, the random characteristics of the microgeometry at the pretreated MPH interface have made it challenging to predict its interface bonding failure probability accurately and quickly. This paper presents an advanced FE2 prediction method for bonding performance of MPH interface based on multi-fidelity regression and artificial neural networks (ANNs). When compared to experimental fracture mechanics results for failure mode I and II, the prediction errors for peak loads are 3.9 % and 5.6 %, respectively. At same time, the computational efficiency is over 6 times higher than that of traditional FE2 methods. Additionally, how interface microstructure parameters affect the tensile/shear performance, crack initiation, and propagation directions are investigated at the micro-scale. Under combined tensile/shear loads, the propagation mechanisms of interface microgeometry uncertainties in MPH are revealed theoretically. An interface design method with a high adhesion probability is proposed, identifying high load-bearing areas within the feasible design domain under bending loads for MPH structures. This provides a quickly accessible parameter matching scheme during conceptual design, offering a theoretical foundation for the application of MPH structures in engineering fields.}
+}

@@ -1,0 +1,13 @@
+@article{GONG2025111054,
+title = {Multi-task learning for predicting residual mechanical properties of CFRP laminates after impact},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111054},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111054},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000223},
+author = {Yi Gong and Rui Zhou and Xiangli Li and Shizhao Wang and Miao Li and Sheng Liu},
+keywords = {Carbon fiber reinforced polymer, Residual compressive properties, Multi-modal damage features, Attention mechanism},
+abstract = {Carbon fiber reinforced polymer (CFRP) plays an increasingly important role in aerospace industry. However, CFRP is susceptible to external impacts damage during service. The evaluation of residual mechanical properties is essential to ensure the safety of damaged components. Existing studies usually focus on qualitative analyses, which is difficult to accurately predict the mechanical properties. In this study, we develop a multi-task prediction model based on multi-modal damage features for evaluating both absorbed energy and residual compressive properties of post-impact CFRP laminates. Specifically, the multi-modal features, obtained by adaptive fusion of surface morphology and dent features, are used to improve the learning ability of global and local damage. The regression module is optimized by an attention mechanism (the squeeze-and-excitation networks) to enhance the weight of key feature channels. Additionally, independent regression modules are designed to reduce interference between prediction tasks. The results show that the improved model achieves high fitting accuracy (R2 = 96.62 %) and low prediction error (less than 5.76 %), which realizes precise prediction of the residual compressive properties. This study provides a novel approach for properties assessment of damaged CFRP structures.}
+}

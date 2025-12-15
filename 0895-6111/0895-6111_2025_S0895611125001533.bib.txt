@@ -1,0 +1,13 @@
+@article{WANG2025102644,
+title = {SGRRG: Leveraging radiology scene graphs for improved and abnormality-aware radiology report generation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102644},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102644},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001533},
+author = {Jun Wang and Lixing Zhu and Abhir Bhalerao and Yulan He},
+keywords = {Radiology report generation, Transformer, Radiology scene graph},
+abstract = {Radiology report generation (RRG) methods often lack sufficient medical knowledge to produce clinically accurate reports. A scene graph provides comprehensive information for describing objects within an image. However, automatically generated radiology scene graphs (RSG) may contain noise annotations and highly overlapping regions, posing challenges in utilizing RSG to enhance RRG. To this end, we propose Scene Graph aided RRG (SGRRG), a framework that leverages an automatically generated RSG and copes with noisy supervision problems in the RSG with a transformer-based module, effectively distilling medical knowledge in an end-to-end manner. SGRRG is composed of a dedicated scene graph encoder responsible for translating the radiography into a RSG, and a scene graph-aided decoder that takes advantage of both patch-level and region-level visual information and mitigates the noisy annotation problem in the RSG. The incorporation of both patch-level and region-level features, alongside the integration of the essential RSG construction modules, enhances our framework’s flexibility and robustness, enabling it to readily exploit prior advanced RRG techniques. A fine-grained, sentence-level attention method is designed to better distill the RSG information. Additionally, we introduce two proxy tasks to enhance the model’s ability to produce clinically accurate reports. Extensive experiments demonstrate that SGRRG outperforms previous state-of-the-art methods in report generation and can better capture abnormal findings. Code is available at https://github.com/Markin-Wang/SGRRG.}
+}

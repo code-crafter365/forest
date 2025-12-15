@@ -1,0 +1,13 @@
+@article{CHEN2025114954,
+title = {Bimetallic nanozyme-mediated dual ferroptosis/cuproptosis synergy potentiates immunotherapy in bladder cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114954},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114954},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004618},
+author = {Tao Chen and Chengran Huang and Yang Liu and Dongzi Nie and Jun Chen},
+keywords = {Bladder cancer, Ferroptosis, Cuproptosis, Bimetallic nanozymes, Immunotherapy},
+abstract = {Immunotherapy for bladder cancer remains limited by immunosuppressive tumor microenvironment (TME) and low immunogenicity. Here, we developed a TME-responsive bimetallic porous nanozyme, Fe/Cu-HPC@GOx/PEG, to synergistically induce dual ferroptosis/cuproptosis and amplify antitumor immunity. The nanozyme integrates Fe-Cu bimetal catalytic centers within a hierarchical porous carbon framework, enabling glucose oxidase (GOx)-triggered H₂O₂ generation and subsequent Fenton/Fenton-like reactions. In vitro studies demonstrated that the nanozyme effectively depleted glutathione, inactivated GPX4, and accumulated lipid peroxides to drive ferroptosis. Concurrently, hypoxia alleviation via O₂ generation suppressed HIF-1α-mediated glycolysis, blocked ATP7B-dependent Cu⁺ efflux, and triggered DLAT lipoylation, leading to cuproptosis. Mitochondrial dysfunction from dual cell death pathways synergistically enhanced oxidative stress and immunogenic cell death (ICD), evidenced by calreticulin exposure, HMGB1/ATP release, and dendritic cells maturation. In vivo, Fe/Cu-HPC@GOx/PEG significantly suppressed tumor growth and remodeled the TME, with increased CD8⁺ T cell infiltration and elevated pro-inflammatory cytokines. Systemic toxicity evaluation confirmed biocompatibility, showing no organ damage or biochemical abnormalities. This work presents a paradigm-shifting strategy that leverages metal ion-mediated dual death pathways to overcome immunotherapy resistance, offering a clinically translatable nanoplatform for precision oncology.}
+}

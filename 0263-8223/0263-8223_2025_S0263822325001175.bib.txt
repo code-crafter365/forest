@@ -1,0 +1,13 @@
+@article{JIANG2025118952,
+title = {Theoretical and experimental study on natural vibration and Snap-Through of piezoelectric bistable asymmetric laminated composite cantilever plates under hygroscopic influence},
+journal = {Composite Structures},
+volume = {358},
+pages = {118952},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118952},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001175},
+author = {Y.D. Jiang and W. Zhang and Y.F. Zhang and X.T. Guo and A. Amer},
+keywords = {Piezoelectric BALC cantilever plate, Hygroscopic effect, Third-order shear deformation theory, Natural vibration, Stability analysis},
+abstract = {This paper investigates the influence of the hygroscopic stress field on the natural vibration and snap-through dynamics of the piezoelectric bistable asymmetric laminated composite (BALC) cantilever plates. A theoretical model considering the hygroscopic effects is established and validated through the finite element (FE) method and experiments. The impacts of the moisture absorption and geometric parameters on the vibration responses of the piezoelectric BALC cantilever plates are analyzed. The third-order shear deformation theory and von Kármán nonlinear strain–displacement relationships are utilized for the modeling, and the energy equation is established. The multi-parameter polynomial, Chebyshev polynomial and Rayleigh-Ritz method are employed to determine the static configurations and modes of the piezoelectric BALC cantilever plates. The force–displacement relationship is derived by using the principle of the virtual work for the static snap-through analysis. The results indicate that the moisture ingress affects the natural characteristics, bistable characteristics, reducing curvature and altering critical load thresholds. Notably, at high humidity levels, piezoelectric BALC cantilever plates exhibit a configuration inversion phenomenon. This paper provides a theoretical foundation and practical guidance for designing and applying the piezoelectric BALC cantilever plates in variable moisture environments.}
+}

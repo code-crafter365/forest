@@ -1,0 +1,13 @@
+@article{LIU2025118575,
+title = {Improved creep resistance of short carbon fiber reinforced polyetherimide composite by solution mixing method},
+journal = {Composite Structures},
+volume = {351},
+pages = {118575},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118575},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007037},
+author = {Quan-Xiu Liu and Yuan-Yuan Zhang and Tao Guan and Bo-Wen Guan and Xiao-Long Mo and Yuan-Qing Li and Ya-Qin Fu and Shao-Yun Fu},
+keywords = {Short carbon fiber, Polyetherimide, Injection molding, Creep resistance},
+abstract = {Creep resistance is critical for ensuring the dimensional stability and safe operation of composite components. However, the creep resistance of short fiber reinforced thermoplastic composites has been rarely reported and that of the composites manufactured by conventional extrusion compounding combined with injection molding is kind of low. In this work, in order to address this issue, two short carbon fiber-reinforced polyetherimide (SCF/PEI) composites named respectively as SCF/PEIE and SCF/PEIS are prepared by both conventional extrusion compounding and our newly developed solution mixing method combined with injection molding. The solution mixing method involves the dispersion and mixing of carbon fibers within a PEI solution and allows for the retention of longer fiber lengths. Experimentally, the creep behaviors of the SCF/PEI composites were examined through tensile and flexural creep testing at various stress levels in a wide temperature range. Theoretically, the creep behaviors were characterized by employing the Schapery model and the time–temperature superposition principle (TTSP), and the impact of fiber length retention on creep resistance was quantitatively analyzed using the Fu-Lauke model. The results demonstrate that compared to the SCF/PEIE composite, the SCF/PEIS composite exhibits a higher creep fracture stress level (175 MPa) and a more extensive linear viscoelastic region (0–85 MPa) at room temperature. Furthermore, the SCF/PEIS composite was observed to have a significantly longer secondary creep stage at an elevated temperature of 210 °C. Overall, the creep resistance of the newly manufactured SCF/PEIS is significantly superior to that of the SCF/PEIE, which effectively extends the service life and operational capacity of injection-molded SCF/PEI composites.}
+}

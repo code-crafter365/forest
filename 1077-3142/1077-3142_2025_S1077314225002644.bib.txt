@@ -1,0 +1,13 @@
+@article{WISOTZKY2025104541,
+title = {Real-time fusion of stereo vision and hyperspectral imaging for objective decision support during surgery},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104541},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104541},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002644},
+author = {Eric L. Wisotzky and Jost Triller and Michael Knoke and Brigitta Globke and Anna Hilsmann and Peter Eisert},
+keywords = {Demosaicing, Snaphot imaging, Multispectral imaging, Intraoperative analysis, Assistive computer vision},
+abstract = {We present a real-time stereo hyperspectral imaging (stereo-HSI) system for intraoperative tissue and organ analysis that integrates multispectral snapshot imaging with stereo vision to support clinical decision-making. The system visualize both RGB and high-dimensional spectral data while simultaneously reconstructing 3D surfaces, offering a compact, non-contact solution for seamless integration into surgical workflows. A modular processing pipeline enables robust demosaicing, spectral and spatial fusion, and pixel-wise medical assessment, including perfusion and tissue classification. Our spectral warping algorithm leverages a custom learned mapping, our white-balance network method is the first for snapshot MSI cameras, and our fusion CNN employs spectral-attention modules to exploit the rich hyperspectral domain. Clinical feasibility was demonstrated in 57 surgical procedures, including kidney transplantation, parotidectomy, and neck dissection, achieving high spatial and spectral resolution under standard surgical lighting conditions. The system enables visualization of oxygenation and tissue composition in real-time, offering surgeons a novel tool for image-guided interventions. This study establishes the stereo-HSI platform as a clinically viable and effective method for enhancing intraoperative insight and surgical precision.}
+}

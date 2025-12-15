@@ -1,0 +1,13 @@
+@article{ZHANG2025119122,
+title = {Metallic plate-lattice and epoxy interpenetrating phase composites for superior behavioral characteristics},
+journal = {Composite Structures},
+volume = {363},
+pages = {119122},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119122},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002879},
+author = {Tianpeng Zhang and Xiaofei Cao and Hu Niu and Xiao Du and Yiting Guan and Chunwang He and Haoming Yang and Ruoman Zhu and Ying Li},
+keywords = {Metallic plate-lattice, Interpenetrating phase composite, Mechanical properties, Quasi-static and dynamic loads},
+abstract = {Metallic plate lattices are prone to localized buckling under external compressive loads, leading to a progressive instability of the entire structure, which remarkably limits the mechanical performance and promising application of plate lattices. To address this, we propose a novel design strategy that combines 3D printing and resin infiltration methods to construct the plate lattice-epoxy resin interpenetrating phase composite (FCC-IPCs). Quasi-static and dynamic mechanical properties and deformation modes of FCC-IPCs are investigated through simulations and experimental methods. By implementing this design strategy, deformation mode has successfully transformed from progressive instability to overall shear failure, where significant improvement in mechanical properties can be harvested. Under quasi-static loading, 36.1 %, 70.6 %, and 75.7 % increases can be seen in specific peak stress, specific plateau stress and specific energy absorption of the FCC1-IPCs specimen, respectively. Under dynamic loading, specific plateau stress and specific energy absorption can increase by 100.7 % and 101 %, respectively. Furthermore, this design strategy is not sensitive to manufacturing defects or holes, exhibiting good robustness and applicability in aerospace and automotive engineering.}
+}

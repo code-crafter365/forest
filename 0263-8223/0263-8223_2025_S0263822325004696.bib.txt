@@ -1,0 +1,13 @@
+@article{ZHANG2025119304,
+title = {Programmable multilayer metasheets: 3D shape-morphing through differential Poisson’s ratio mechanism},
+journal = {Composite Structures},
+volume = {370},
+pages = {119304},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119304},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004696},
+author = {Xiaotian Zhang and Chengyang Lu and Ruizhi Li and Fei Pan and Yuli Chen},
+keywords = {2D to 3D shape-morphing, Multilayer metasheets, Programmable metamaterials, Quasi-static tensile experiment, Inverse design approach},
+abstract = {This paper introduces an innovative multilayer metasheets deformation strategy that enables the deployment of two-dimensional (2D) flat materials into complex three-dimensional (3D) curved surfaces, leveraging the differential Poisson’s ratio mechanism. Based on the design principles, we initially designed and established an analytical model for multilayer metasheets concept. Finite element simulations are then utilized to investigate the impact of varying Poisson’s ratio characteristics among different layers at the unit cell level on the curvature and mechanical characteristics of the metasheets. Building on this unit cell characteristic research, we further explored the potential of metasheets in deploying general curved surfaces through in-plane combinatorial design methods, and developed a more precise shape inverse design approach for deformable metasurfaces constructed from multilayer metasheets. We verify the 3D curved surface deployment mechanism of metasheets concept through a series of quasi-static tensile experiments, which present a good agreement with our simulation results. Finally, this paper further discusses the potential applications of the multilayer metasheets concept. The multilayer metasheets concept offers a fresh perspective for introducing mechanical metamaterial into the 3D shape-shifting techniques, broadening the path for the application of curved surface deployment in more general engineering scenarios.}
+}

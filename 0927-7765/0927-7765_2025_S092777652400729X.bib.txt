@@ -1,0 +1,13 @@
+@article{HAN2025114470,
+title = {3D-printed Ti3C2/polycaprolactone composite scaffold with a DOPA-SDF1 surface modified for bone repair},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114470},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114470},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400729X},
+author = {Yu Han and Li-Hui Sun and Bo Cai and Ming Xia and Chun-Quan Zhu and Dong-Song Li},
+keywords = {TiC, 3D-printed scaffold, Electrical stimulation, SDF1, Bone defect},
+abstract = {Large bone defects are a major clinical challenge in bone reconstructive surgery. 3D printing is a powerful technology that enables the manufacture of custom tissue-engineered scaffolds for bone regeneration. Electrical stimulation (ES) is a treatment method for external bone defects that compensates for damaged internal electrical signals and stimulates cell proliferation and differentiation. In this study, we propose a simple, reliable, and versatile strategy to prepare multifunctional 3D printed scaffold combined with ES for bone defect therapy. Firstly, scaffolds composed of polycaprolactone (PCL) and Ti3C2 were prepared by 3D printing technology, and then a stromal cell derived factor 1 (SDF1) containing DOPA tag was loaded onto the scaffold surface. Ti3C2 was selected as the electrode component because of its excellent electrical conductivity. The selection of DOPA-modified SDF-1(DOPA-SDF1) can improve the material binding ability and exert long-term stem cell recruitment function. The results show that prepared 3D printed scaffold (DOPA-SDF1@PCL#Ti3C2) has good hydrophilicity, electrical conductivity, antibacterial property, biocompatibility and stem cell recruitment ability. Furthermore, the expression of osteogenic specific genes in scaffold surface cells was significantly increased when pulse ES (PES) treatment was applied. The results of tibial plateau defect repair experiment showed that DOPA-SDF1@PCL#Ti3C2 scaffold can significantly promote the formation of new bone and collagen fibres. When the DOPA-SDF1@PCL#Ti3C2 scaffold was used in combination with PES therapy, the bone defect regeneration rate was further improved. This kind of scaffold could provide a new strategy for promoting the healing of large bone injuries and could expand the application of adjuvant therapy such as PES.}
+}

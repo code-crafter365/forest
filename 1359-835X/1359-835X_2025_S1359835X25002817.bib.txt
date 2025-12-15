@@ -1,0 +1,13 @@
+@article{GU2025108987,
+title = {Multifunctional bioactive glass fiber reinforced composite scaffolds: A “four-in-one” approach for adjuvant therapy in tumor-derived bone defects},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108987},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108987},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002817},
+author = {Jiafei Gu and Yunzhongze Hu and Saihua Li and Xiaoye Cong and Ping Cui and Xiaosu Yi and Xiaoling Liu},
+keywords = {A. Multifunctional composites, A. Glass fibers, B. Mechanical properties, E. 3-D Printing},
+abstract = {After bone tumor resection, preventing recurrence and reconstructing bone defects pose significant challenges. Conventional adjuvant therapies, including chemotherapy and radiotherapy, may prevent tumor recurrence but come with substantial side effects and do not contribute to bone repair. Herein, multifunctional composite scaffolds, modified with phosphate glass fiber (PGF), were prepared using 3D printing for photothermal tumor eradication and bone regeneration. These composite scaffolds exhibited excellent photothermal performance and could effectively kill tumor cells. The photothermal performance was derived from the integration of PGF and could be controlled by PGF content and laser power density. PGF acted as reinforcement and enhanced the mechanical properties of these scaffolds. Furthermore, the scaffolds degraded gradually, accompanied by the release of bioactive ions, promoting the proliferation of bone cells. Overall, these multifunctional composite scaffolds achieved a “four-in-one” function of photothermal anti-tumor, bone repair promotion, spontaneous degradation, and mechanical support, advancing implanted biomaterials for tumor-derived bone defects.}
+}

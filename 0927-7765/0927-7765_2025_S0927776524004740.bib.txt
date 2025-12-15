@@ -1,0 +1,13 @@
+@article{WEN2025114215,
+title = {Guanidine-modified polysaccharide conditioning layer designed for regulating bacterial attachment behaviors},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114215},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114215},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004740},
+author = {Jianxin Wen and Xiaomei Liu and Zhuoyue Han and Zhijuan Wang and Hidetoshi Saitoh and Hua Li},
+keywords = {Polysaccharide conditioning layer, Guanidine-modified polysaccharide, Regulated bacterial attachment, Biofilm, Antifouling},
+abstract = {Biofouling has been persisting as a global problem due to the difficulties in finding efficient and environmentally friendly antifouling coatings for long-term applications. Initial attachment of bacteria on material surface and subsequent formation of biofilm are the predominate phenomena accounting for subsequent occurrence of biofouling. Among the various factors influencing the bacterial attachment, conditioning layer formed by organic macromolecules usually plays the key role in mediating bacterial attachment through altering physicochemical properties of substrate surface. In this study, a guanidine-modified polysaccharide conditioning layer with the capability of tuning the bacterial attachment is constructed and characterized. Dextran, a polysaccharide widespread in bacteria extracellular polymeric substances (EPS), is oxidized by sodium periodate, and cationic polymer polyhexamethylene guanidine hydrochloride (PHMG) is anchored to oxidized dextran (ODEX) by Schiff base reaction. AFM characterization reveals morphological changes of the polysaccharide conditioning layer from tangled chain to island conformation after the PHMG modification. The guanidine-based dextran conditioning layer promotes attachment of both P. aeruginosa and S. aureus and disrupted bacterial cytomembranes are seen for the attached bacteria due to electrostatic interaction of the electropositive guanidine group with the electronegative bacteria. The guanidine-based dextran conditioning layer shows a low survival ratio of 22 %-34 % and 1 %-4 % for P. aeruginosa and S. aureus respectively after incubation in the bacterial suspension for 72 hours. The results would give insight into further exploring the potential applications of the newly designed polysaccharides conditioning layer for combating occurrence of biofouling.}
+}

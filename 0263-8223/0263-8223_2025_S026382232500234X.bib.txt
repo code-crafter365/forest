@@ -1,0 +1,13 @@
+@article{AGHABAGLOO2025119069,
+title = {Experimental investigation on bond behaviour of HB FRP strengthened concrete elements},
+journal = {Composite Structures},
+volume = {362},
+pages = {119069},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119069},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500234X},
+author = {Mehdi Aghabagloo and Laura Carreras and Cristina Barris and Marta Baena},
+keywords = {Reinforced concrete, Externally bonded reinforcement, Hybrid bonded FRP, Bond behaviour, CFRP strengthening},
+abstract = {Hybrid-bonded (HB) systems are employed to anchor carbon fibre reinforced polymer (CFRP) laminates to concrete structures and delay their premature debonding failure mode by generating compressive stresses on the joint. However, although previous research on these strengthening systems exists, the optimum parameters that minimize the potential for premature debonding failure and maximize the ultimate load still need to be investigated. In this work, the feasibility of decoupling the effect of decohesion and friction of an HB CFRP-to-concrete joint is assessed through experimental and numerical analysis. To this end, single shear tests are performed on concrete specimens strengthened with externally bonded reinforcement (EBR) and HB precured CFRP laminate. Besides, a numerical procedure, based on the finite difference method and a metaheuristic optimization algorithm, is used to obtain the bond-slip law that describes the constitutive behaviour of both systems. The separated contributions of the cohesion of the adhesive joint and the friction induced by the external compressive stresses perpendicular to the composite surface are analysed separately, and separated cohesive and friction bond-slip laws are obtained. The experimental behaviour of the full anchoring system is compared against that obtained by combination of the separated cohesive and friction contributions. The method represents progress in examining how different anchoring parameters, including the size (width and thickness) of the anchor plate and the torque applied to the bolts, influence the performance of the anchoring system in an efficient and systematic manner.}
+}

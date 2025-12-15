@@ -1,0 +1,13 @@
+@article{VERMANI2025106847,
+title = {Density-based topology optimization strategy for optimal design of uniform flow manifolds},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106847},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106847},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500307X},
+author = {Sanjay Vermani and Nitish Anand},
+keywords = {Topology optimization, Flow manifolds, Uniform flow distribution, Adjoint-based optimization, SU2},
+abstract = {Flow manifolds are devices that distribute or collect fluid across multiple channels, playing a crucial role in the performance of many fluid and energy systems. However, designing efficient manifolds that ensure uniform flow distribution remains challenging, especially for multi-channel three-dimensional manifolds. This study presents a scalable topology optimization framework for systematically designing multi-channel flow manifolds. The proposed method builds on the conventional density-based topology optimization formulation by introducing a flow maldistribution coefficient as an explicit constraint. This novel approach was implemented using the incompressible Navier–Stokes flow solver available in the open-source CFD suite SU2. The performance of the proposed method was benchmarked against two established topology optimization strategies using an exemplary planar z-type flow manifold, where both the inlet and outlet manifolds were designed simultaneously. The results demonstrate that the proposed method achieves flow uniformity comparable to established approaches while significantly reducing computational costs. Furthermore, when applied to large-scale three-dimensional problems, the proposed method produces feasible designs that achieve uniform flow distribution and exhibit innovative geometrical features. These results highlight the robustness and scalability of the proposed method.}
+}

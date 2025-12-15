@@ -1,0 +1,13 @@
+@article{YE2025108651,
+title = {Investigation of hole quality Enhancement in new glass/flax laminates via hybrid drilling techniques},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108651},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108651},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006493},
+author = {Hao Ye and Jiong Zhang and Yunshu Shang and Guiyin Xu and Jiaming Zhan and Steven Marguet and Habiba Bougherara and Redouane Zitoune and Hao Wang},
+keywords = {Flax/epoxy, Hybrid drilling, CT analysis, Delamination},
+abstract = {Flax/epoxy composites are commonly used natural fibre-reinforced materials with potential applications in aviation, automotive, and marine industries. To enhance the mechanical and hygrothermal properties of flax/epoxy laminates, glass/epoxy layers are incorporated, creating a novel glass/flax composite. However, drilling this composite encounters some problems, particularly due to poor hole quality and insufficient understanding of the associated damage mechanisms. Hence, this study systematically addresses these problems via various drilling conditions, including dry drilling, drilling with backup support, cryogenic drilling, and hybrid drilling methods. The drilling force and machining quality such as delamination, surface roughness and topography of the hole were studied. Moreover, multi-scale damage characterization was performed using micro-computed tomography (micro-CT) and scanning electron microscopy (SEM). Delamination was classified into two types according to its shape and distribution. Analysis of the defects reconstructed by the micro-CT method revealed that the hybrid drilling reduces the delamination volumes of the entry and the exit by 64.8% and 78.9%, respectively, compared to those in dry drilling.}
+}

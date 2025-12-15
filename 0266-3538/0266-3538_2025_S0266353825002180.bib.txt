@@ -1,0 +1,13 @@
+@article{SUBRAMANI2025111250,
+title = {Notch nonlinearities in pseudo-ductile composite laminates: A novel LE/HE sublaminate design},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111250},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111250},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002180},
+author = {A. Subramani and P. Maimí and J. Cugnoni and R. Amacher and J. Costa},
+keywords = {Pseudo-ductility, Open-hole strength, Image processing},
+abstract = {Attempts to achieve pseudo-ductility in quasi-isotropic (QI) thin-ply laminates have traditionally relied on stacking [LE/HE/LE] sublaminates, with LE representing low-elongation and HE high-elongation. However, the increase in effective ply thickness led to reduced unnotched strength. Alternatively, in this study, we define a new sublaminate configuration ([LE/HE]) to minimise the increase in ply-block thickness and compare experimentally such hybrid QI thin-ply laminate with a conventional thin-ply QI (Π/4) laminate. The hybrid specimens demonstrated consistent but modest pseudo-ductile properties (ultimate-to-pseudo-yield strength ratio, σf/σy=1.1; pseudo-ductile strain, ɛd=0.3%). Using Digital Image Correlation (DIC) and advanced dark-field X-ray imaging, we detected earlier and more pronounced deviations from linear strain fields in hybrids compared to the reference laminates. The hybrid laminates showed an 11.7% reduction in unnotched strength but a 4% increase in notched strength in Open-Hole Tension (OHT) specimens. Thus, the proposed hybridisation introduces new damage mechanisms facilitating stress redistribution, thereby recovering more nominal strength with a reduced impact on the unnotched strength. Our findings suggest viable approaches to integrate pseudo-ductility into thin-ply laminates whilst preserving the inherent advantages of ply thinness.}
+}

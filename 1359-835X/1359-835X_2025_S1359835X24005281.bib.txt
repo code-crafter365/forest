@@ -1,0 +1,13 @@
+@article{SUN2025108530,
+title = {Enhancements of physical microstructure and chemical activation on interfacial bonding strength of carbon fiber reinforced polymer},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108530},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108530},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005281},
+author = {Chengcheng Sun and Peng Gu and Hailang Wan and Mingjun Ren and Jianping Lin and Junying Min},
+keywords = {A. Carbon fiber, B. Interface/interphase, E. joints/joining, E. Surface treatments},
+abstract = {Carbon fiber reinforced polymer (CFRP) has wide applications in aerospace and medical industries due to the characteristics of high strength and corrosion resistance. However, surface treatment is generally required to improve its interfacial bonding strength. This study employed imprinting and plasma treatments for physical and chemical modifications on CFRP surface. Results indicate that changing the groove orientation from 0° to 90° increased the interface bonding strength by 20.8% due to the reduction of stress concentration at the bonding interface. Air plasma treatment not only removes surface contaminants but also generates chemical functional groups, such as amino and hydroxyl, on CFRP surface, which enhances the bonding strength by 266.3%. Hydroxyl and amino groups increase van der Waals and Coulombic forces between CFRP surface and adhesive molecule. Therefore, this study proposes a coupling method of imprinting and plasma treatment to maximize the interfacial bonding strength of CFRP.}
+}

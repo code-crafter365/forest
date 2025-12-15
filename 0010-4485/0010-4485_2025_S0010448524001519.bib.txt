@@ -1,0 +1,13 @@
+@article{BOHM2025103824,
+title = {Fast algorithm for extracting domains and regions from three-dimensional triangular surface meshes},
+journal = {Computer-Aided Design},
+volume = {180},
+pages = {103824},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103824},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001519},
+author = {Sebastian Bohm and Erich Runge},
+keywords = {Domain extraction, Mesh handling, Boundary element method, Surface triangulation},
+abstract = {Correct mesh handling and in particular domain extraction is an important step of many simulation workflows. In the boundary element method, for example, only the surfaces of arbitrarily shaped domains have to be meshed. Here, an algorithm is presented that extracts all distinct spatial regions and domains from a given non-manifold three-dimensional surface triangulation without the need for a volume mesh. Only the coordinates of the mesh vertices and the connectivity matrix of the triangulation need to be given. The process is robust, easy to implement, and efficient. No geometric features such as edges or faces need to be detected or specified for the method to work. Thus, the method is suitable for mesh formats that do not contain information about the geometry partitioning. The algorithm is presented in detail, test cases are discussed, and an exemplary implementation is given.}
+}

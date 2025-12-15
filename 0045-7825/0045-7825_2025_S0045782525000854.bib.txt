@@ -1,0 +1,13 @@
+@article{YANG2025117813,
+title = {Efficient global adaptive Kriging approximation method in terms of moment for reliability-based design optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117813},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117813},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000854},
+author = {Meide Yang and Hongfei Zhang and Dequan Zhang and Fang Wang and Xu Han},
+keywords = {Reliability-based design optimization, Univariate dimension-reduction method, Edgeworth series, Kriging model, Active learning},
+abstract = {Reliability-based design optimization (RBDO) methods based on the most probable point (MPP) have been extensively studied and applied to practical engineering problems. Nevertheless, these methods are not viable when MPP is not straightforward to be searched or multiple MPPs may exhibit. Fortunately, moment method can circumvent the computation of partial derivatives for performance function and iteration to search for MPPs, which is considered as an effective way to solve such problem. However, direct application of moment method to RBDO often incurs high computational cost, which greatly hinders its practicability. To enhance the computational efficiency of the moment-based RBDO methods, an efficient global adaptive Kriging approximation method for RBDO is proposed in this study. The strategy is that a new initial design of experiment scheme according to Gaussian-Hermite integration nodes is innovatively proposed. On this basis, a feasibility check criterion for probabilistic constraints and a selection strategy for candidate samples are respectively proposed to efficiently establish Kriging models of performance functions in the probabilistic constraints. In addition, an enhanced univariate dimension-reduction method with high robustness is presented to calculate the first four-order statistical moments of the above constructed Kriging models. Consequently, the failure probability of each probabilistic constraint can be calculated by Edgeworth series. Finally, a deterministic optimization algorithm is executed to derive the optimal solution. Three numerical examples and two structural examples are exemplified to demonstrate the effectiveness of the proposed moment-based method compared to prevailing MPP-based and Kriging-based RBDO methods.}
+}

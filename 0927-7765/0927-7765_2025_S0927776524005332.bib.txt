@@ -1,0 +1,13 @@
+@article{LONG2025114274,
+title = {Enhanced surface antimicrobial, biocompatible and mechanical properties of 3D printed titanium alloys by electrophoretic deposition of chitosan/ZnO},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114274},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114274},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005332},
+author = {Shuai Long and Xue Wang and Yiwan Jing and Si He and Tengzhuo Chen and Yuyang Liu and Yang Pan and Jinfeng Li and Lijia Cheng and Yun He},
+keywords = {3D Printed Implants, Antibacterial coating, EPD, Chitosan, Zinc oxide},
+abstract = {In this study, to address the susceptibility of 3D-printed titanium implants to bacterial infection, we propose to form a chitosan/ZnO composite coating by electrophoretic deposition to enhance its antimicrobial, biocompatible, and mechanical properties. The surface morphology of the composite coating is relatively flat, showing good hydrophilicity and coating adhesion, and the corrosion current density is significantly lower than that of the untreated titanium alloy. According to the results of the study, the composite coatings containing more than 0.1 g of ZnO (Z2, Z3, Z4 groups) showed excellent antibacterial effects against Staphylococcus aureus and Escherichia coli, with antibacterial rates of more than 95 %, and the medium-concentration ZnO coatings (Z2 group) showed good cellular activity, with cell viability rates of more than 80 %. In contrast, the high-concentration ZnO coatings (Z3, Z4 groups) showed a certain degree of cytotoxicity. The inherent film-forming property of the composite coating enabled the cells to adhere well to the coating surface. It was found through SBF body fluid immersion that Zn²⁺ can increase the rate of hydroxyapatite precipitation and enhance bioactivity. These results emphasize the importance of precise control of the ZnO content in the improved antimicrobial and biocompatible chitosan-ZnO composite coatings to ensure excellent antimicrobial properties and necessary biocompatibility.}
+}

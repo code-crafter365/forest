@@ -1,0 +1,13 @@
+@article{CHEN2025114246,
+title = {Bioinspired shape-changing nanofiber dressings for intelligent wrapping and promoting healing of superficial wounds},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114246},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114246},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005058},
+author = {Zizhao Chen and Pingping Feng and Ruqi Wang and Dongmin Chen and Chunmei Feng and Qishu Jin and Chen Yang and Botao Song},
+keywords = {Smart dressing, Electrospinning, Shape change, Wound healing, Multifunction},
+abstract = {The use of dressings in clinical settings is common for the purpose of wound wrapping and creating an optimal microenvironment to enhance the healing process. Proper coverage of wounds with dressings serves as the fundamental basis for effective wound healing. Unfortunately, non-standard coverage by hands can cause pain and secondary damage to patients, while slow manual application during treatment of extensive burns may increase the risk of wound infection. Herein, drawing inspiration from the microstructure and hygroscopic deformation observed in pine cones, we propose a polyvinyl alcohol/polysulfone (PVA/PSF) smart dressing. This bioinspired smart dressing exhibits rapid bending deformation under high moisture condition, allowing easy adjustment of bending amplitude, speed, and direction. Moreover, the smart dressing is capable of rapid bending and autonomous wrapping around “artificial wounds” on a doll’s body, as well as fitting irregularly shaped “hand wounds” and extensive “arm wounds” on human subjects. By integrating two layers into one dressing design, we endow it with dual functionality: The hygroscopic PVA layer facilitates transversal liquid transport to effectively reduce exudate accumulation in the wound bed while maintaining proper moisture levels; meanwhile, the highly hydrophobic PSF layer repels various aqueous solutions to protect against external contaminants. In vivo results confirm that this multifunctional smart dressing promotes collagen synthesis and accelerates angiogenesis for accelerated wound healing. We believe that this innovative multifunctional approach to wound management will provide valuable insights into wound healing therapy.}
+}

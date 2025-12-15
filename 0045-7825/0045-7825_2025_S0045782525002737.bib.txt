@@ -1,0 +1,13 @@
+@article{CENTOFANTI2025118001,
+title = {Parallel Algebraic Multigrid Solvers for Composite Discontinuous Galerkin Discretization of the Cardiac EMI Model in Heterogeneous Media},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118001},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118001},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002737},
+author = {Edoardo Centofanti and Ngoc Mai Monica Huynh and Luca F. Pavarino and Simone Scacchi},
+keywords = {Cardiac cell-by-cell models, Reaction–diffusion systems, Composite Discontinuous Galerkin methods, Algebraic multigrid, Multilevel solvers},
+abstract = {In this paper, we develop and numerically study algebraic multigrid (AMG) preconditioners for the cardiac EMI (Extracellular space, cell Membrane, and Intracellular space) model, a recent and biophysically detailed framework for cardiac electrophysiology. The EMI model addresses the limitations of traditional homogenized cardiac models and leverages contemporary computational power to enable high-resolution simulations at the cellular scale. Using a composite Discontinuous Galerkin (DG) discretization, we introduce an AMG-EMI solver for the three dimensional EMI model. Our investigation includes the AMG-EMI scalability performance, both weak and strong, and evaluates its numerical robustness under ischemic conditions, addressing the challenges of heterogeneous media. Numerical tests exploit state-of-the-art pre-exascale supercomputers with hybrid CPU–GPU architectures. The results indicate better scalability performance of the AMG-EMI solver on CPUs compared to GPUs. However, the best solution times achieved using GPUs are up to 40x faster than those obtained on CPUs.}
+}

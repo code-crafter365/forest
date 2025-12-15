@@ -1,0 +1,13 @@
+@article{LIU2025118870,
+title = {Novel design of skin construction on the sound absorption of honeycomb sandwich panels},
+journal = {Composite Structures},
+volume = {356},
+pages = {118870},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118870},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000352},
+author = {Zhao Liu and Chenhao Dong and Saihua Li and Xiaoye Cong and Xin Wang and Chris Rudd and Xiaosu Yi and Xiaoling Liu},
+keywords = {Triaxial weave fabric, Sound absorption, Honeycomb, Sandwich panels, Textiles},
+abstract = {Honeycomb sandwich sound absorbers with microperforated panels (MPPs) as face sheets are widely employed in modern noise-reduction applications, particularly in the transportation and construction industries. An ultralight sound-absorbing honeycomb sandwich composite structure was developed, featuring structural skins of carbon fibre triaxial weave fabrics, adhesive films and polyester plain weave or nonwoven textiles. The normal incidence sound absorption coefficients of the resulting hybrid specimens were measured by impedance tube. The sound absorber achieved maximum noise reduction coefficients of 0.469, 0.637, and 0.670 for honeycomb heights of 20 mm, 40 mm, and double-layer 40 mm, respectively. This sound absorber demonstrates lightweight, high-efficiency, and relatively straightforward processing properties.}
+}

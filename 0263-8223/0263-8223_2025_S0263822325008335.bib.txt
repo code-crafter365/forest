@@ -1,0 +1,13 @@
+@article{TAKEDA2025119668,
+title = {Influence of preheating on ultrasonic welding of CF/PEEK composite laminates},
+journal = {Composite Structures},
+volume = {373},
+pages = {119668},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119668},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008335},
+author = {Shin-ichi Takeda and Daichi Kugi and Hikaru Hoshi and M.J. {Mohammad Fikry} and Shinji Ogihara},
+keywords = {A. Thermoplastic resin, B. Strength, D. Mechanical testing, Ultrasonic welding},
+abstract = {There is a need to enhance the efficiency of welding technology for high-performance CFRTPs, particularly for use in the primary structures of transportation vehicles. This study investigated the effect of preheating—considered a potentially effective approach—on the ultrasonic welding of CF/PEEK composite laminates. Weld quality was assessed using ultrasonic testing and X-ray CT with five different preheating temperatures (including room temperature) and three welding durations as experimental parameters. Additionally, the impact of preheating on mechanical performance was evaluated through short-beam tests under bending loads. A suitably elevated preheating temperature increased the weld area and improved the apparent interlaminar shear strength by approximately 20 MPa, representing an increase of about 44 % compared to room temperature conditions.}
+}

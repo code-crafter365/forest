@@ -1,0 +1,13 @@
+@article{HAO2025117954,
+title = {A new paradigm for hybrid reliability-based design optimization: From β-circle to β-cylinder},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117954},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117954},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002269},
+author = {Peng Hao and Zehao Cui and Bingyi Du and Hao Yang and Yue Zhang},
+keywords = {-cylinder, Hybrid reliability-based design optimization, Active learning, Random-interval hybrid models},
+abstract = {A new paradigm for hybrid reliability-based design optimization (HRBDO) is proposed. The key innovation lies in expanding the traditional β-circle into a β-cylinder along the interval dimensions, integrating both random and interval dimensional information. Building upon this theoretical foundation, a novel interval-based dimensional expansion β-cylinder active learning (IBAL) method is proposed, transforming the complex double-loop reliability calculation into an efficient single-loop process. The method employs Kriging models to replace expensive physical responses. Unlike traditional sampling techniques, the IBAL method focuses exclusively on predicted means and deviations on the β-cylinder to guide the Kriging models of performance functions, efficiently identifying the Most Probable Point (MPP). This approach effectively addresses challenges including interval dimensions nonlinearity, multiple extreme points, and multiple MPPs. In HRBDO, the method incorporates an active constraint screening (ACS) mechanism and an MPP objective function isosurface active learning (MIAL) method to enhance computational efficiency and avoid convergence to local optima. The effectiveness of the proposed method is validated through four mathematical examples and one engineering case study.}
+}

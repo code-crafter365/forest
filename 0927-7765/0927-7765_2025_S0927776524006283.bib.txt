@@ -1,0 +1,13 @@
+@article{WU2025114369,
+title = {Prussian blue nanocages as efficient radical scavengers and photothermal agents for reducing amyloid-beta induced neurotoxicity},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114369},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114369},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006283},
+author = {Ting Wu and Xining Zhang and Shuangfei Cai and Wei Zhang and Rong Yang},
+keywords = {Prussian blue, Amyloid-beta aggregation, ROS scavenging, Photothermal, Alzheimer's disease},
+abstract = {The unusual accumulation of amyloid-beta 1–42 (Aβ42) is an essential pathological feature of Alzheimer’s disease (AD), and development of Aβ42 nanomodulators offers a potentially therapeutic approach to AD. Here, we report facile synthesis of the hollow mesocrystalline Prussian blue nanocages (HMPBs), which serve as versatile Aβ42 modulators. Due to the hollow nanostructures and large specific surface area, they can effectively inhibit Aβ42 aggregation by adsorption. They also exhibit robust near-infrared (NIR) photothermal effect for light-to-heat transition, which promotes the depolymerization of Aβ42 fibers. Besides, they display ROS quenching ability to scavenge hydroxyl radicals (•OH) caused by Aβ42 fibers, alleviate cellular oxidative stress, and improve cell survival. This work provides a new kind of Prussian blue nanomaterial for multimodal Aβ modulation.}
+}

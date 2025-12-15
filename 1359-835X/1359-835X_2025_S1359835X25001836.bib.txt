@@ -1,0 +1,13 @@
+@article{YUN2025108889,
+title = {Design and manufacturing of bio-inspired functionally graded ceramic-reinforced resin post-and-core restorations},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108889},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108889},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001836},
+author = {Jiaojiao Yun and Ruihan Ge and James K.H. Tsoi and Yu Lu and Shuangzhuang Guo and Jiawen Guo and Yan Wang},
+keywords = {Graded-design ceramic-reinforced resin, Computer-aided design and computer-aided manufacturing (CAD/CAM), Post-and-core restoration, Finite element analysis},
+abstract = {This study developed a functionally graded post-and-core system using urethane dimethacrylate resins reinforced with zirconia (ZrO2) nanoparticles, with material design guided by finite element (FE) modeling. Three groups were established according to the post-and-core materials and techniques: FPC, prefabricated fiber post plus resin composite core; HPC, CAD/CAM homogeneous post-and-core; GPC, CAD/CAM graded post-and-core. The machinability assessment validated the dimensional accuracy of experimental CAD/CAM posts by showing an undetectable marginal discrepancy of less than 40 µm and the good adhesion between the sequentially deposited layers for graded post-and-core. FE analysis and in vitro failure test were performed to compare the biomechanical performance of the restored teeth using three restorations. FE analysis indicated that the GPC group with tri-layer configuration (coronal–apical dimensions: 6–4–3 mm) and corresponding elastic modulus (9.8–8.5–6.7 GPa) achieved optimal stress distribution patterns, outperforming both FPC and HPC groups. In vitro tests revealed that both GPC and HPC groups possessed uniform adhesive layers and favorable root repairable failure rates of 33 %, significantly higher than the rate of 0 % observed in FPC group. This functionally graded approach effectively addresses the biomechanical mismatch along the corono-apical direction of tooth roots by tailoring material properties, offering a strategy for the next-generation post-and-core restorations. The successful development of CAD/CAM graded composites demonstrates significant potential for advanced restorative applications with good clinical performance.}
+}

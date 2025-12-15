@@ -1,0 +1,13 @@
+@article{ZHANG2025111352,
+title = {Surface-effect-informed design strategy for nano-architected auxetic metamaterials: Simultaneous achievement of auxeticity and stiffness enhancement by structural anisotropy},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111352},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111352},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003203},
+author = {Yongchao Zhang and Jun Xie and Xiaofan Gou and Qi Cai and Jun Cai},
+keywords = {Nano-auxetic metamaterials, Surface effects, Anisotropic strategies, Young's modulus, Poisson's ratio},
+abstract = {Nano-auxetic metamaterials have attracted significant research interest due to their unique deformation behavior. However, the inherent trade-off between stiffness and auxetic properties substantially limits their potential applications. We developed a novel nanosurface element to quantitatively assess the influence of surface effects on both Young's modulus and Poisson's ratio in nano-auxetic metamaterials. Furthermore, we introduced pore rotation angle and aspect ratio anisotropic design strategies to simultaneously enhance material stiffness and auxetic performance. The results demonstrate that surface effects effectively enhance the negative Poisson's ratio of nano-auxetic metamaterials, while their influence on Young's modulus exhibits significant dependence on pore aspect ratio. The pore rotation angles strategy increases the Young's modulus of nanomaterials, albeit at the expense of compromised auxetic performance. In contrast, increasing the maximum random pore aspect ratio strategy simultaneously improves both Young's modulus and Poisson's ratio in these nanostructured materials. Surface effects not only amplify the anisotropy-induced enhancement of Young's modulus but also improve the auxetic properties of the material. These findings establish a theoretical foundation for the optimized design of nano-auxetic metamaterials.}
+}

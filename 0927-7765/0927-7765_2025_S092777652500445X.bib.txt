@@ -1,0 +1,13 @@
+@article{MONTASSERI2025114938,
+title = {Investigating the behaviour of lipid nanoparticles upon meeting biological barriers in colorectal drug delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114938},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114938},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500445X},
+author = {Shiva Montasseri and Frithjof Herb and Thomas Bourke and Clovia Holdsworth and Robert Chapman and Livia {Salvati Manni} and Wye-Khay Fong},
+keywords = {Colorectal drug delivery, Self-assembled liquid crystal, Lipid nanoparticles, Protein corona, Small angle X-ray scattering, Nanomaterials, Monoolein, Phytantriol},
+abstract = {Rectal drug delivery offers advantages for some pharmaceutical therapies by avoiding first-pass metabolism. Several physiological factors, such as low buffer capacity and rectal composition, can affect colorectal drug delivery. To optimise this, lipid nanoparticles have the potential to optimise delivery, since they can be manipulated for enhanced performance in physiological fluids. Here, we examine the interaction between four different formulations of lipid nanoparticles and colorectal fluids. We demonstrate that the specific composition of the colorectal fluid can impact the size and structure of the lipid nanoparticles, depending on the surface chemistry, lipid composition and structure of lipid nanoparticles. The changes in the structure of different lipid particles were specific to their composition, and structure. For instance, particles of inverse hexagonal phase (H2), formed by monoolein (MO) and oleic acid transitioned to a mixture of H2 and bicontinuous cubic phase (V2) Im3m when mixed with rectal fluid. While cubosomes changed in particle size but not structure, quantitative analysis of the attached protein corona showed that MO-based nanoparticles have more bound biomacromolecules compared to phytantriol-based nanoparticles. This study demonstrates how the specific composition of the biological fluid can affect the size and nanostructure of the lipid nanoparticles. This knowledge will contribute to improving the design of more effective drug delivery systems for site-specific treatments.}
+}

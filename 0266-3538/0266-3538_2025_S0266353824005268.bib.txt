@@ -1,0 +1,13 @@
+@article{CHENG2025110956,
+title = {Bioinspired ultra-fine hybrid nanocoating for improving strength and damage tolerance of composite fan blades in flexible manufacturing},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110956},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110956},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005268},
+author = {Xianhe Cheng and Qigang Han and Yuzhang Huang and Mingdi Shi and Hexuan Shi and Mengxue Ji and Chuncai Yang},
+keywords = {Hybrid nanocoating, Bioinspired structure, Composite fan blades, Flexible manufacturing, Strength and damage tolerance},
+abstract = {The ultrafine mineral bridges/bio-polymer hybrid structure inspired by nacreous is applied to the interface structure design of composite, aiming to address the high brittleness and low damage tolerance problems of carbon fiber composite fan blades (CFCFB). Herein, we present a simple and efficient approach, called the "cationic copolymer-mono micelle-mediated" method, to translate the nacre-inspired structure for developing micelles/ZnO hybrid nanocoating. The hybrid nanocoating was demonstrated to have remarkable characteristics such as ultrafine ZnO sizes, monodispersity, uniformity, and core-shell structure (diameters: ≈45 nm). Additionally, the coating process is simple, solvent-free, and seamlessly integrates with scalable carbon fiber manufacturing. Based on the nacre-inspired interface structure, the CFCFB exhibits high interlaminar strength (99.3 MPa), high stiffness (79 GPa), and high toughness (41.2 MPa m1/2). This study provides a blueprint for bioinspired ultrafine nanostructure design in composites and inspires advanced manufacturing strategies for other promising engineering materials.}
+}

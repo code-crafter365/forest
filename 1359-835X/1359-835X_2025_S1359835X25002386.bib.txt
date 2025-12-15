@@ -1,0 +1,13 @@
+@article{AKBOLAT2025108944,
+title = {Low-velocity impact response of carbon/epoxy laminates with interlaminar hybrid toughening via core–shell-rubber particles and non-woven thermoplastic fibre veils},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108944},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108944},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002386},
+author = {Mehmet Çağatay Akbolat and Sheng Wang and Kali Babu Katnam and Prasad Potluri and Constantinos Soutis},
+keywords = {A. Nanostructures, B. Impact behaviour, B. Delamination, D. Fractography, Toughening mechanisms},
+abstract = {Advanced composites (e.g. carbon fibre-reinforced epoxies) have been increasingly used in lightweight, critical applications such as aerospace, renewable energy and defence industries due to their excellent mechanical properties including high specific strength, stiffness and fatigue properties. However, the inherent brittleness of polymer composites makes them vulnerable to low-velocity out-of-plane impact loading, threatening their structural integrity. In this context, enhancing the low-velocity impact resistance of composite laminates is crucial for maintaining their structural integrity and reliability throughout their service life. Therefore, this study explores the low-velocity out-of-plane impact resistance of composite laminates (i.e. consisting of the unidirectional non-crimp carbon fibre fabrics and low-viscous two-part epoxy resin) toughened with core–shell rubber (CSR) particles and thermoplastic veils. The CSR particles varying from 0.1 to 3µm and Polyphenylene Sulfide (PPS) fibre veils with a fibre diameter of 9 µm were used to achieve non-hybrid and hybrid toughening. The impact response of the composite laminates, manufactured with vacuum-assisted resin infusion and out-of-autoclave curing, were characterised with drop-weight low-velocity impact testing in two energy ranges: near the delamination threshold (i.e. 2 J, 3 J, 4 J) and over a broader range (i.e. 2.5 J, 5 J, 7.5 J, 10 J). The results show that the toughening mechanisms derived from the hybrid use of PPS veils and CSR particles effectively enhance the impact resistance of composite laminates up to the delamination threshold. Additionally, the hybrid approach significantly reduces the projected damage area. However, beyond the delamination threshold, the influence of these toughening mechanisms on the impact properties is found to be limited.}
+}

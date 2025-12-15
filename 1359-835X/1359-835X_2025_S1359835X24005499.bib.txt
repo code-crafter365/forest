@@ -1,0 +1,13 @@
+@article{FENG2025108551,
+title = {Improving strength-ductility synergy of titanium matrix composites containing nitrogen via the introduction of intragranular nano-TiB},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108551},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108551},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005499},
+author = {Ke Feng and Hongmei Zhang and Xingwang Cheng and Qunbo Fan and Xiaonan Mu and Yanan Sun and Ni Xiong and Hao wang and Hongqiang Duan and Yu Wang},
+keywords = {A. Metal-matrix composites (MMCs), B. Mechanical properties, B. Microstructures, E. Sintering},
+abstract = {We prepared a titanium matrix composite (TMC) with added boron nitride nanosheets (BNNSs) for strength-ductility trade-off issues. The composite, characterized by in-situ nano-TiB intragranular distribution and trace nitrogen solid solution, was prepared using rapid hot press sintering (FHP) and short-duration hot rolling. During pre-rolling heat preservation, the diffusion of boron and nitrogen resulted in the intragranular distribution of nano-TiB and nitrogen solid solution. The nano-TiB demonstrated excellent load transfer, fracture suppression, and dislocation storage capabilities at both room and high temperatures. Coupled with the nitrogen solid solution, the composite exhibited a significant enhancement in strain hardening effect compared to the titanium matrix. The composite outperformed the titanium matrix in strength and ductility at both room and high temperatures, demonstrating a notable strength-ductility synergy. This work provides a reference for designing TMCs with excellent performance at both room and high temperatures.}
+}

@@ -1,0 +1,13 @@
+@article{NAZ2025104458,
+title = {PakSign: Advancing dynamic Pakistani Sign Language Recognition with a novel skeleton-based dataset and graph-enhanced architectures},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104458},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104458},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500181X},
+author = {Neelma Naz and Maheen Salman and Fiza Ayub and Zawata Afnan Asif and Sara Ali},
+keywords = {Pakistani Sign Language Recognition, Pose sequence modeling, Graph neural networks, Attention enhanced learning, Multi input architectures},
+abstract = {Sign Language Recognition (SLR) is a critical yet complex task in pattern recognition and computer vision due to the visual-gestural nature of sign languages. While regional variants like American, British, and Chinese Sign Languages have seen significant research advancements, Pakistani Sign Language (PSL) remains underexplored, mostly limited to static Urdu alphabet recognition rather than dynamic gestures used in daily communication. The scarcity of large-scale PSL datasets further hinders the training of deep learning models, which require extensive data. This work addresses these gaps by introducing a novel skeleton-based PSL dataset comprising over 1280 pose sequences of 52 Urdu signs, each performed five times by five different signers. We detail the data collection protocol and evaluate lightweight, pose-based baseline models using a K-fold cross-validation protocol. Furthermore, we propose Efficient-Sign, a novel recognition pipeline with two variants: B0, achieving a 2.28% accuracy gain with 35.37% fewer FLOPs and 63.55% fewer parameters, and B4, yielding a 3.48% accuracy improvement and 14.95% fewer parameters when compared to state-of-the-art model. We also conduct cross-dataset evaluations on widely-used benchmarks such as WLASL-100 and MINDS-Libras, where Efficient-Sign maintains competitive accuracy with substantially fewer parameters and computational overhead. These results confirm the model’s generalizability and robustness across diverse sign languages and signer populations. This work contributes significantly by providing a publicly available pose-based PSL dataset, strong baseline evaluations, and an efficient architecture for benchmarking future research, marking a critical advancement in dynamic PSL recognition and establishing a foundation for scalable, real-world SLR systems.}
+}

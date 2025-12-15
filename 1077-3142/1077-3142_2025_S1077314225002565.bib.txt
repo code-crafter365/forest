@@ -1,0 +1,13 @@
+@article{ZHANG2025104533,
+title = {Student gaze target estimation based on depth transformation on dual-view classroom images},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104533},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104533},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002565},
+author = {Xiaolong Zhang and Haonan Miao and Peizheng Zhao and Yuqi Sun and Fang Nan and Saberi Morteza and Yaqiang Wu and Feng Tian},
+keywords = {Gaze target estimation, Depth information, Dual-view, Spatial transformation, Classroom},
+abstract = {Existing gaze target estimation methods fail to adequately consider depth information, primarily focusing on 2D image features while neglecting the inherent 3D spatial context that could enhance global context modeling in classroom environments. To address this limitation, we propose a depth-aware gaze target estimation framework specifically designed for classroom scenarios. Our approach consists of three key components: First, a depth estimation module is developed to handle feature information degradation. Second, we design a dual-view depth transformation method to project students’ gaze cones onto the target frame. Third, we introduce a context-aware pyramid feature extraction (CPFE) module that generates multiscale high-level feature representations to strengthen global context modeling. We also construct two datasets (MPMOCS and DVSEG) for our tasks. Experimental results on these datasets demonstrate that our method achieves significant improvements in both single-view and dual-view gaze target estimation tasks.}
+}

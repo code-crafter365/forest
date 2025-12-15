@@ -1,0 +1,13 @@
+@article{CHALARD2025108704,
+title = {Analysis of the tensile behaviour of flax fibre bundles as a function of the loaded volume},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108704},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108704},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24007024},
+author = {Margot Chalard and Frédéric Bedel and Coralie Buffet and Adèle Hue and Alessia Melelli and Timm Weitkamp and Pierre D’arras and Alain Bourmaud and Christophe Baley},
+keywords = {Fibres, Physical properties, Microstructure, Mechanical testing, Natural fibre composites},
+abstract = {Addressing the mechanical behaviour of flax bundles is a key point when used as reinforcements in composite materials. To determine their mechanical properties, the bundle cross-sectional area must be correctly assessed and has been estimated here using three types of models: elliptical, circular or polygonal. The circular model shows the higher disparity with twice the polygonal standard deviation. Innovatively, 3D rendering of bundles were carried out using microtomographic acquisitions, highlighting their partially cohesive unidirectional composite structure. Then, to analyse the phenomenon involved in the characterisation of bundles, mechanical properties were determined from a threshold value (first damage detected) and expressed as a function of the loaded volume (depends on the bundle cross-section area and the gauge length). To consider the dispersion of the bundles cross-sections, these properties were also weighted using the cross-section distribution curve. The results show their dependence on the volume and morphology of the tested bundles.}
+}

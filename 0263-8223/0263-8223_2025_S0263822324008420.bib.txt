@@ -1,0 +1,13 @@
+@article{FAN2025118714,
+title = {Optimal design of electrical conductivity of hybrid multi-dimensional carbon fillers reinforced porous cement-based Composites: Experiment and modelling},
+journal = {Composite Structures},
+volume = {352},
+pages = {118714},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118714},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008420},
+author = {Yucheng Fan and Chuang Feng and Ziyan Hang and Luming Shen and Wengui Li},
+keywords = {Hybrid carbon nanofiller, Cement-based composite, Electrical property, Micromechanics, Porosity},
+abstract = {Cement-based composites with tailored electrical conductivity have promising applications in various intelligent and multifunctional infrastructures. Hybrid reinforcement using multi-dimensional carbon nanofillers is an effective approach for tailoring. However, determining the optimal recipe while balancing electrical properties and cost is challenging, which has not been carried out previously. This study develops a comprehensive micromechanical model with imperfect micromorphology, interface effect and electron tunneling to predict the electrical conductivity of cement-based composites reinforced with different combinations of 0D (zero-dimensional)-carbon black (CB), 1D-carbon nanotube (CNT) and 2D-graphene nanoplatelet (GNP). The influence of pore orientation on the electrical conductivity of the carbon nanofiller reinforced cement-based composites (CNRCCs) is studied for the first time and an effective conductive cross-sectional area method is proposed to investigate the anisotropy of the electrical conductivity in the CNRCCs. Furthermore, this model captures the synergistic effects of the hybrid carbon nanofillers, which has not been addressed in existing theoretical work on conductive composites. The developed model exhibits outstanding agreement with the experimental data of various samples. The optimal proportions for maximum electrical conductivity and performance-to-cost ratio are identified, such as mixing ratios of 80:20 for 0D-CB + 1D-CNT, 50:50 to 70:30 for 0D-CB + 2D-GNP, and 90:10 for 1D-CNT + 2D-GNP. The work is envisaged to provide guidelines for optimizing the performances of CNRCCs with tailored electrical properties and moderate cost.}
+}

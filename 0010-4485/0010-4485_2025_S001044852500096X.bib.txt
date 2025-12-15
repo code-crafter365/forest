@@ -1,0 +1,13 @@
+@article{WANG2025103935,
+title = {Modular Shape Modeling with Controllable Discrete Equivalence Class Distribution},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103935},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103935},
+url = {https://www.sciencedirect.com/science/article/pii/S001044852500096X},
+author = {Jianlei Wang and Zeyang Wu and Yongqi Tian and Caigui Jiang},
+keywords = {Modular shape modeling, Discrete equivalence class, Centroidal Voronoi Tessellation, Geometric optimization},
+abstract = {Despite significant advancements in manufacturing technology and cost optimization, discrete equivalence class modeling in complex surface design still presents challenges in balancing geometric similarity, aesthetic quality, and manufacturing accuracy. To overcome this challenge, we propose a modular shape modeling method based on curve control. First, the method generates an initial set of points via curve-based region segmentation. It then applies Centroidal Voronoi Tessellation for coarse topology optimization, incorporating curve constraints and density functions. Following this, local edge flipping and vertex repositioning are performed to further refine the topology. Finally, we iteratively perform clustering and equivalence class optimization to precisely control the mesh structure and fine-tune the modular distribution of discrete equivalence classes. Experimental results show that our approach not only achieves a controllable distribution of equivalence classes, but also surpasses state-of-the-art methods in terms of visual fidelity and manufacturing accuracy, highlighting its potential for improving the efficiency of freeform surface design and fabrication.}
+}

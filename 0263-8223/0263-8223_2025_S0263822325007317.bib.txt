@@ -1,0 +1,13 @@
+@article{LIAO2025119566,
+title = {CNT coating combined with laser bionic fractal texturing for enhancing interfacial adhesion in AA6060/PEEK laminates},
+journal = {Composite Structures},
+volume = {372},
+pages = {119566},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119566},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007317},
+author = {Juan Liao and Youchun Huang and Xin Xue and Ghulam Hussain and Mohammed Alkahtani and Fahad M. Alqahtani},
+keywords = {Metal/plastic laminates, CNT coating, Bionic fractal, Laser texturing, Shear strength},
+abstract = {Aluminum/polyether ether ketone (Al/PEEK) laminates, valued for lightweight and corrosion resistance in aerospace and transportation, face challenges in bonding Al alloy and PEEK due to mismatched thermal expansion and PEEK’s chemical inertness. This study introduces a novel approach combining carbon nanotube (CNT) coating with laser bionic texturing inspired by natural structures (e.g., bird feathers, butterfly wings). AA6060/PEEK shear samples were fabricated via the hot-pressing, and the effects of CNT areal density, laser linear spacing, bionic textures and fractal number on the shear strength were analyzed. Techniques such as SEM, Raman spectroscopy, and X-ray photoelectron spectroscopy were employed to investigate the underlying mechanisms further. The results demonstrate that the shear strength of wave-textured samples with optimized CNT areal density and fractal number is about twice as high as that of linear-textured samples without CNTs. Notably, the interface delamination shifts to AA6060 matrix failure, confirming robust bonding. The results also indicated that the enhanced mechanisms of this method include the micro-nano mechanical interlocking, chemical bond formation, and CNT bridging effect at the interface. This research provides new insights into enhancing the Al/PEEK interfacial adhesion.}
+}

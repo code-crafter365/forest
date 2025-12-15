@@ -1,0 +1,13 @@
+@article{RAGUPATHI2025118722,
+title = {Ultrasonic reconsolidation of separated CF-PEEK composite layers at 20 kHz — An experimental study on parameter optimization and Ex-situ characterization},
+journal = {Composite Structures},
+volume = {353},
+pages = {118722},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118722},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400850X},
+author = {Balaji Ragupathi and Lennard Rotzinger and Mario Prescher and Michael Rienks and Lutz Kirste and Frank Balle},
+keywords = {Thermoplastic composites, CFRP, Repair, Ultrasonic reconsolidation, Design of experiments, 3D X-ray Microscopy, Circularity-Engineering},
+abstract = {Ultrasonic-assisted joining can replace the current repair strategies, such as adhesive bonding, to join the repair patches onto the damaged aerospace composite structures due to their energy and time efficiency. This work reports on the process optimization of repairing separated carbon fiber reinforced (CF)/ poly-ether-ether-ketone (PEEK) layers through ultrasonic reconsolidation at 20 kHz and its influence on the mechanical performance. The results showed that weld force and weld time dominate the temperature evolution, which was used to set the ultrasonic process window. Repairing CF-PEEK layers to different laminate architecture exhibited a 15% deviation from the reference repair. Compared with quantitative results, the ex-situ investigation showed that excessive holding force caused fiber–matrix debonding, leading to a cohesive failure inside the composite laminate. An optimal holding force, approximately 25% of the used weld force, is recommended to alleviate these damages.}
+}

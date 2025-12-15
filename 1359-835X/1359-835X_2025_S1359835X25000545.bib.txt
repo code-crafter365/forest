@@ -1,0 +1,13 @@
+@article{LIN2025108760,
+title = {T700 or T300 with Nano-/Micro- Aramid fiber mechanical cross-linking: Flexural properties of carbon fiber composites before and after impact},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108760},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108760},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000545},
+author = {Fankai Lin and Xiaozhi Hu and Fei Cheng and Mingxin Ye and Yunsen Hu and Zhaohui Huang},
+keywords = {Aramid fiber, Delamination, Fracture toughness, Cross-linking},
+abstract = {Flexural and compressive failures of carbon fiber composites, more critical than direct tensile failure, imply T700 with higher tensile strength (about 40 % higher than T300) can still be outperformed by T300 in flexure and compression through careful composite microstructure designs. We show mechanical cross-linking from nano-/micro- Aramid Pulp (AP) fibers of a few hundred microns in length can be generated if the interleaving thickness is reduced to around or below 20 μm. Flexural properties of T300 with mechanical cross-linking from AP (4–6 g/m2) are more superior than those of T700, both before and after low energy impacts. Up to 40 % and up to 50 % increase in shear and flexural strengths were observed. This work compared flexural properties and impact resistance of T700 and AP toughened T300 composites, showing the importance of structural design (e.g. using thin layer interlayer AP cross-linking) for higher strength and toughness simultaneously.}
+}

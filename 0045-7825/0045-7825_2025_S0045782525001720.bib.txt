@@ -1,0 +1,13 @@
+@article{DOGHMAN2025117900,
+title = {A finite element-based simulation of microstructure evolution through a 3D finite strain Cosserat phase-field model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117900},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117900},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001720},
+author = {Jad Doghman and Christophe Bovet and Anna Ask},
+keywords = {Cosserat hyperelasticity, Large deformation, Phase field, Grain boundary migration, Finite element, Parallel computing},
+abstract = {A computational framework for microstructure evolution in metallic polycrystals is achieved by coupling large deformation Cosserat isotropic hyperelasticity with a phase-field model to take into account grain boundary formation and motion. Each material point has an associated crystal lattice orientation described by the Cosserat microrotation, which can evolve due to deformation or grain boundary migration. The analysis is restricted to transformations in the solid state. The numerical treatment of the proposed model requires some consideration. Discretization by finite elements leads to a strongly nonlinear, coupled system. The microrotation is parametrized to facilitate the numerical treatment of incremental updates of the Cosserat degrees of freedom. In order to reduce computation time and effort, a parallel computing mechanism based on domain decomposition is adopted together with an iterative staggered scheme to avoid the ill-conditioning inherent to the monolithic coupled system of equations.}
+}

@@ -1,0 +1,13 @@
+@article{YONG2025119136,
+title = {Co-enhancement of mechanical and vibrational isolation properties for composite meta-materials},
+journal = {Composite Structures},
+volume = {363},
+pages = {119136},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119136},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003010},
+author = {Jiawang Yong and Yiyao Dong and Wanting Li and Yanyan Chen and Zhiwen Ren and Zhishuai Wan and Daining Fang},
+keywords = {Meta-material, Mechanical properties, Bandgap, Low frequency vibration},
+abstract = {A design method to enhance both mechanical and vibrational isolation properties of honeycomb meta-material is proposed and verified by a proposed in-folded hexagonal honeycomb meta-material (I-HHM). Based on the traditional hexagonal honeycomb structure (T-HHM), the I-HHM is designed with in-folded bars instead of straight bars and rings at the joints, and metal pins are inserted into the rings. The mechanical and vibrational suppression performance of the I-HHM is analyzed by finite element method and experiment. The results show that compared with the T-HHM, the I-HHM has greater advantages in load-bearing capacity and stiffness, and has wider bandgaps. In addition, according to the concept of assembly, the combination of particle damping and rings can direct vibration energy to the local structure for consumption, which further enhances the vibration reduction and customization capabilities of the I-HHM. The proposed method provides a feasible way for the optimization of meta-materials.}
+}

@@ -1,0 +1,13 @@
+@article{LEKHAVADHANI2025114570,
+title = {Recent progress in alginate-based nanocomposites for bone tissue engineering applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114570},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114570},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000773},
+author = {Sundaravadhanan Lekhavadhani and Sushma Babu and Abinaya Shanmugavadivu and Nagarajan Selvamurugan},
+keywords = {Alginate, Non-union bone defects, Bone tissue engineering, Nanocomposites},
+abstract = {Approximately 5–10 % of fractures are associated with non-union, posing a significant challenge in orthopedic applications. Addressing this issue, innovative approaches beyond traditional grafting techniques like bone tissue engineering (BTE) are required. Biomaterials, combined with cells and bioactive molecules in BTE, are critical in managing non-union. Alginate, a natural polysaccharide, has gained widespread recognition in bone regeneration due to its bioavailability, its ability to form gels through crosslinking with divalent cations, and its cost-effectiveness. However, its inherent mechanical weaknesses necessitate a combinatorial approach with other biomaterials. In recent years, nanoscale biomaterials have gained prominence for bone regeneration due to their structural and compositional resemblance to natural bone, offering a supportive environment that regulates cell proliferation and differentiation for new bone formation. In this review, we briefly outline the synthesis of alginate-based nanocomposites using different fabrication techniques, such as hydrogels, 3D-printed scaffolds, fibers, and surface coatings with polymer, ceramic, carbon, metal, or lipid-based nanoparticles. These alginate-based nanocomposites elicit angiogenic, antibacterial, and immunomodulatory properties, thereby enhancing the osteogenic potential as an insightful measure for treating non-union. Despite the existence of similar literature, this work delivers a recent and focused examination of the latest advancements and insights on the potential of alginate-based nanocomposites for BTE applications. This review also underscores the obstacles that alginate-based nanocomposites must overcome to successfully transition into clinical applications.}
+}

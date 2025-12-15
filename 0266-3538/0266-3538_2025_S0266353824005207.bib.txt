@@ -1,0 +1,13 @@
+@article{WANG2025110950,
+title = {Construction of multi-functional silicone rubber/reduced graphene oxide/multi-walled carbon nanotube composites with segregated structure by surfactant-free Pickering emulsion method},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110950},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110950},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005207},
+author = {Yimiao Wang and Hang Lu and Weiping Lian and Yuhang Sun and Zhaorui Meng and Qingfeng Zhang and Jian Cui and Shuai Zhao and Yehai Yan},
+keywords = {Segregated structure, Pickering emulsion, Silicone rubber, Graphene, Carbon nanotube},
+abstract = {Polymer composites with segregated structure (PC–S) have the advantages of low filler usage and excellent functionality. Emulsion blending combined with direct molding technology is the main method for the preparation of PC-S. However, due to the high fluidity of low-viscosity silicone rubber (SR), PC-S cannot be prepared by this technique. In addition, surfactants affect the heat resistance of the final SR composites (SRC). In order to solve the above problems, in this study, a Pickering emulsification combined with pre-crosslinking technology for SR was successfully developed by using graphene oxides (GO)/multi-walled carbon nanotubes (MWCNTs) hybrid fillers (GM) as emulsifiers, and SR/reduced GO (RGO)/MWCNTs composites with segregated structure (SSGM) were prepared. When RGO content is 4.5 wt%, MWCNTs content is 3.2 wt%, SSGM shows the highest electrical conductivity of 12.5 S/m, the highest electromagnetic interference shielding efficiency (EMI SE) of 41.4 dB, and an excellent flame retardant performance. The whole preparation process avoids the use of organic solvents and surfactants, which reduces the production cost of SSGM and the environmental pollution, and provides a feasible preparation route for the industrialized production of SSGM.}
+}

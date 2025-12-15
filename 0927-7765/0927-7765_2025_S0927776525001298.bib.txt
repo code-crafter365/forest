@@ -1,0 +1,13 @@
+@article{NALAWADE2025114622,
+title = {Surface-modified nintedanib-loaded solid lipid nanoparticles for effective targeting of non-small cell lung cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114622},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114622},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001298},
+author = {Shubhangi Nalawade and Mahavir Narwade and Vishambhar Deshmukh and Nazim Nasir and Shadma Wahab and Prashant Kesharwani and Kavita R. Gajbhiye},
+keywords = {Folic acid, Lung cancer, Nintedenib, Solid lipid nanoparticles, Targeted drug delivery},
+abstract = {Lung cancer remains a significant global health burden as the second most common and fatal malignancy, with treatment complexities heightened by limited knowledge of inhaler techniques and respiratory challenges, particularly in elderly and pediatric patients. Despite the availability of oral chemotherapeutics like Nintedanib, its clinical efficacy is undermined by suboptimal pharmacokinetics, high systemic toxicity, and low bioavailability. To overcome these limitations, we developed folic acid-conjugated Nintedanib-loaded solid lipid nanoparticles (FA-NIN-SLNPs), which offer targeted therapy with enhanced delivery and reduced adverse effects, potentially improving patient adherence. Prepared through a refined nanoprecipitation and self-assembly method, FA-NIN-SLNPs exhibited a particle size of 220.5 ± 6.08 nm, a zeta potential of 32.1 ± 3.05 mV, and an entrapment efficiency of 98.3 ± 0.80 %. In vitro release studies indicated accelerated drug release at acidic tumor pH, with FA-NIN-SLNPs showing significantly enhanced apoptosis (86.65 %) in A549 lung cancer cells versus NIN-SLNPs (67.65 %) and free drug (23.53 %). Cellular uptake assays highlighted its targeted capabilities, while histopathological and hemolysis assessments confirmed its safety profile. In vivo pharmacokinetic and biodistribution studies further demonstrated superior lung-specific accumulation, positioning this nanoformulation as a promising, safer, and more efficacious approach for targeted lung cancer therapy.}
+}

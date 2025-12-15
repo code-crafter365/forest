@@ -1,0 +1,13 @@
+@article{REN2025118162,
+title = {Manufacturability-aware topology and toolpath co-design for continuous fiber-reinforced composites additive manufacturing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118162},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118162},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004347},
+author = {Huilin Ren and Ziwen Chen and Xiaoxiao Shen and Yi Xiong},
+keywords = {Manufacturing constraints, Topology optimization, Toolpath design, Fiber reinforced polymer composites, Additive manufacturing},
+abstract = {Design for continuous fiber-reinforced polymer additive manufacturing (CFRP-AM) has evolved from sequential approaches to concurrent design methods, enabling the simultaneous optimization of structural topology and fiber toolpaths. However, existing studies fails to consider the manufacturing constraints inherent to CFRP-AM, such as toolpath width consistency and fiber continuity, which are critical to achieving both performance and manufacturability. To address these challenges, this study proposes an extended integrated structure and toolpath optimization (ISTO) method for CFRP-AM that embeds manufacturing constraints directly into the optimization problem formulation. Specifically, the toolpath width consistency constraint is modeled as a function of the scalar field gradient, with deviations minimized through standard deviation control to ensure uniform fiber deposition. The fiber continuity constraint is quantified through a penalty term derived from the logical interplay between structural and toolpath variables, ensuring smooth and uninterrupted fiber toolpaths. The method enables the concurrent optimization of structural topology and fiber toolpaths, generating designs that are both structurally robust and practically manufacturable. Case studies, including a Messerschmitt-Bölkow-Blohm (MBB) benchmark and applications in lightweight robotic systems, demonstrate the effectiveness of the proposed approach in improving manufacturability and structural performance. This method not only bridges the gap between theoretical structural design and practical manufacturing implementation but also provides a novel design paradigm for structural components in lightweight robotic systems, highlighting its potential for broader engineering applications.}
+}

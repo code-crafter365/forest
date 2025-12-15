@@ -1,0 +1,13 @@
+@article{SHAO2025114488,
+title = {Injectable DMM/GelMA hydrogel for diabetic wound healing via regulating mitochondrial metabolism and macrophage repolarization},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114488},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114488},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007471},
+author = {Yuming Shao and Xuan Zhou and Shiqi Zhou and Junhui Long and Linbo Jin and Xiaohua Shi and Linxi Zhou and Yiming Zhang and Dongli Fan},
+keywords = {Diabetic wound healing, Inflammation regulation, Macrophage repolarization, Injectable hydrogel},
+abstract = {The chronic diabetic wounds represented by diabetes foot ulcers (DFUs) are a worldwide challenge. Excessive production of reactive oxygen species (ROS) and persistent inflammation caused by the impaired phenotype switch of macrophages from M1 to M2 during wound healing are the main culprits of non-healing diabetic wounds. Therefore, an injectable DMM/GelMA hydrogel as a promising wound dressing was designed to regulate the mitochondrial metabolism of macrophages via inhibiting succinate dehydrogenase (SDH) activity and to promote macrophage repolarization towards M2 type. DMM/GelMA hydrogel exhibited good biocompatibility, injectability and water absorption and retention capacity. In vitro studies showed that DMM/GelMA hydrogel inhibited SDH activity, recovered the decrease in mitochondrial membrane potential, and significantly reduced the production of ROS and inflammatory cytokines in the LPS-evoked macrophages. In vivo evaluations and RNA sequencing analysis demonstrated that DMM/GelMA hydrogel downregulated ROS generation, the ratio of M1/M2 macrophages and pro-inflammatory cytokine production in the full-thickness skin wound model in the diabetic mice. Additionally, DMM/GelMA hydrogel improved the wound-healing quality with thicker epidermis, more collagen deposition and higher ratio of collagen I/III by sustained release of DMM. These findings indicate this hydrogel has a great potential to be a biocompatible, injectable and anti-inflammatory dressing for better diabetic wound healing.}
+}

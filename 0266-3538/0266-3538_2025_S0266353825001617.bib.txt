@@ -1,0 +1,12 @@
+@article{CHENG2025111193,
+title = {Linking microscopic network structure to macroscopic rheological properties in polydimethylsiloxane composite fluids},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111193},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111193},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001617},
+author = {Siyuan Cheng and Yimin Wei and Gaohong Lv and Xiangchao Xie and Jiahui Wang and Shujun Cai and Yabiao Ma and Jian-Bin Xu and Xiaoliang Zeng and Rong Sun},
+abstract = {Polydimethylsiloxane-based composite fluids are extensively utilized as thermal interface materials for heat dissipation of chips, due to their high thermal conductivity and distinctive rheological behaviors. However, establishing direct correlations between macroscopic rheological properties and microscopic structures has proven challenging. Here, using micron sized platelet boron nitride (BN) and spherical aluminum oxide (Al2O3) as model fillers, we elucidate the relationship between the microscopic network structure and the macroscopic rheological properties of polydimethylsiloxane (PDMS) based composite fluids by analyzing the particle networks in conjunction with scaling theory. We find that the rheology properties of the Al2O3/PDMS composite fluids are different from those of the BN/PDMS composite fluids, where the Al2O3/PDMS composite fluids increase hyper exponentially with filling volume fraction, but the BN/PDMS composite fluids increases exponentially. The thixotropic properties reveal that the spherical Al2O3 particles have high recovery rate, but the platelet BN contributes to a low recovery rate. The difference in rheological performance between BN and Al2O3 stems from the interparticle forces and particle networks: BN particles surprisingly form colloidal-style clusters and particle networks, whereas Al2O3 particles create a volume-repulsion-dominated jamming structure. Using these two composite fluids as thermal interface materials, we demonstrate that the BN/PDMS composite fluids capable with better dispensing operation performance and better ability of heat dissipation for chip than the Al2O3/PDMS composite fluids.}
+}

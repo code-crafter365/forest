@@ -1,0 +1,13 @@
+@article{GUO2025108767,
+title = {Orientation of macro/microscopic structures in anisotropic materials through 3D printing: Rheological behavior, processing, and properties},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108767},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108767},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000612},
+author = {Xinyu Guo and Huan Jiao and Xuyang Guo and Chengyang Du and Dongsheng Shi and Wenjuan Wu and Yongcan Jin and Bo Jiang},
+keywords = {3D printing, Anisotropic materials, Orientation, Macro/microscopic structures, Rheological behavior},
+abstract = {Anisotropic materials have attracted a surge of interest due to their unique features along different directions, enabling widespread applications in tissue engineering, energy storage, sensing, and soft robotics. Over the last decades, 3D printing has been widely employed to tune anisotropic materials with desired macro/microstructures. In view of these achievements, the rheological behavior, processing, and properties of anisotropic materials are comprehensively reviewed. The characteristics of 3D printing techniques that commonly used for anisotropic material orientation are firstly summarized. Then, the impacts of rheology, printing parameters, and external environments (electric and magnetic fields) on the orientation of anisotropic materials, and their microstructure, mechanical, optical, thermal, and electronic properties are critically discussed to help understand the structure–property-function relationships. An outlook on high-resolution 3D printing, combination with emerging technologies, hybrid manufacturing, and microstructure regulation to address current challenges is also discussed to promote the advanced applications of 3D printed anisotropic materials.}
+}

@@ -1,0 +1,13 @@
+@article{ALZATECOBO2025117983,
+title = {A finite swelling 3D beam model with axial and radial diffusion},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117983},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117983},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002555},
+author = {Juan C. {Alzate Cobo} and Xiang-Long Peng and Bai-Xiang Xu and Oliver Weeger},
+keywords = {Cosserat rod, Swelling, Diffusion, Thermomechanics, Chemomechanics, Isogeometric collocation},
+abstract = {We present a geometrically exact 3D beam model that incorporates axial and radial swelling strains, both small and large, resulting from a rotationally symmetric, thermal or chemical diffusion. Isogeometric collocation is employed to discretize both the mechanical momentum balances and the axis-symmetric, steady-state 2D diffusion equation along the beam. The resulting coupled nonlinear problem for displacements, rotations, and temperatures or concentrations is solved using a staggered scheme. The approach is further extended to include beam-to-beam interfaces and is therefore well suited for the simulation of lattice structures. The model and its discretization are validated against 3D continuum models in various numerical examples and prove to be both accurate and numerically efficient. The novelty of the presented method is twofold. First, it relates beam theory, and consequently small elastic strains, with large swelling deformation stemming from anisotropic diffusion phenomena. Second, it also provides insight into the implementation of isogeometric collocation for solving diffusion equations subject to large deformations. Ultimately, this novel finite swelling beam model can present the starting point for the efficient modeling of lattice structures under diffusion conditions, such as microstructured Li-ion electrodes or thermoelectric semiconductors.}
+}

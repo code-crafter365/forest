@@ -1,0 +1,13 @@
+@article{NGUYEN2025118177,
+title = {Adaptive trimmed hexahedral-dominant mesh refinement: a spatial isotropic moving-least square transition element with Hu-Wasizhu-derived derivative correction},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118177},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118177},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004499},
+author = {Son H. Nguyen and Shaofan Li and H. Nguyen-Xuan},
+keywords = {Adaptive mesh refinement, Trimmed hexahedral-dominant mesh, Moving least squares, Octree-based adaptation, Derivative correction, Hu-Washizu principle},
+abstract = {This paper presents an advanced adaptive trimmed hexahedral-dominant mesh refinement (ATHMR) framework that integrates a spatial isotropic moving least squares (MLS) transition element with a Hu-Washizu-derived derivative correction scheme. A key idea is to enforce discrete divergence consistency (DDC), which ensures full polynomial consistency in the corrected MLS shape functions. This guarantees that the corrected MLS shape functions, applied to both trimmed-hexahedral and transition-hexahedral elements, fully satisfy the linear patch and spatial isotropic tests, overcoming critical limitations in conventional trimmed hexahedral-dominant (TH) meshes. Numerical validation using benchmark problems demonstrates that ATHMR meshes outperform conventional TH meshes in geometric fidelity, convergence accuracy, and computational efficiency. The proposed method shows a robust and efficient solution for complex three-dimensional finite element simulations, making it a promising tool for high-precision engineering applications.}
+}

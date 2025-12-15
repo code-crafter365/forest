@@ -1,0 +1,11 @@
+@article{MALLA2025102339,
+title = {Corrigendum to “Comparative efficacy of recombinant VP6 protein based in-house Latex Agglutination test with other diagnostic assays for detection of Rotavirus A from calves, piglets and children” [Comp. Immunol. Microbiol. Infect. Dis. 119 (2025) 102336]},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {120},
+pages = {102339},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102339},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000475},
+author = {Bilal Ahmad Malla and Zunjar Baburao Dubal and Ajay Kumar and Obli Rajendran VinodhKumar and Aquil Mohmad and Pashupathi Mani and Kaushal Kishor Rajak and Kiran Narayan Bhilegaonkar}
+}

@@ -1,0 +1,13 @@
+@article{LUONG2025118844,
+title = {Optimization of model order reduction for transient analysis of functionally graded plates using isogeometric analysis based on four-variable quasi-3D theory},
+journal = {Composite Structures},
+volume = {355},
+pages = {118844},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118844},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000091},
+author = {Van Hai Luong and Khanh D. Dang and Seunghye Lee and Qui X. Lieu},
+keywords = {Isogeometric analysis (IGA), Iterated improved reduced system (IIRS), Plates, Four-variable quasi-3D theory, Transient, Optimization},
+abstract = {This study aims to develop an optimally reduced order isogeometric analysis (IGA) for analyzing the transient behavior of functionally graded (FG) plates based on four-variable quasi-3D theory for the first time. The plate’s dynamic features are condensed via an iterated improved reduced system (IIRS) strategy whose master degrees of freedom (DOFs) attached to control points in the IGA framework are optimized by differential evolution (DE). Consequently, the optimal IIRS with naturally preserved consistent masses can yield better accuracy of higher-order modal modes. In addition, a four-unknown quasi-3D theory is utilized to represent the displacement field through the plate thickness. This theory can not only further reduce the number of master DOFs defined in reduced order models (ROMs), but also still consider the influences of transverse shear strain and normal stress against other higher-order shear deformation theories (HSDTs). Meanwhile, the displacement field in the plate plane is approximated by non-uniform rational B-splines (NURBS) functions. The Galerkin’s method is used to derive the IGA-driven IIRS for the transient analysis of proportionally damped plates. Then, the time-series behavior of the reduced system is resolved by the Newmark-β. Several examples are illustrated to confirm the validity of the proposed methodology.}
+}

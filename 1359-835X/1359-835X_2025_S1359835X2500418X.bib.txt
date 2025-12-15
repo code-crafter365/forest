@@ -1,0 +1,13 @@
+@article{ZARE2025109124,
+title = {Decoding of contact number among carbon nanofibers in polymer composites: A new insight to govern electron transfer through tunneling zones},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109124},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109124},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500418X},
+author = {Yasser Zare and Muhammad Naqvi and Kyong Yop Rhee},
+keywords = {Polymer nanocomposite, Carbon nanofiber, Contact number, Conductivity, Tunneling zone, Interphase percolation},
+abstract = {The contact number between carbon nanofibers (CNFs) predominantly dictates the conductivity of composites; however, the specific parameters influencing the contact number remain unclear. In this paper, an equation is introduced to estimate the average contact number in CNF-filled samples (PCNFs), incorporating novel factors such as CNF concentration, percolation onset, CNF dimensions, curliness, interphase depth, network fraction, and tunneling characteristics (both distance and width). The contact number is computed and analyzed across various real-world samples. Furthermore, the proposed equation is validated by examining the effects of all relevant factors on the contact number. Notably, the contact number approaches zero when the tunneling diameter (d) is less than 7.5 nm or the tunneling distance (λ) exceeds 5.6 nm, but reaches a maximum of 250 at d = 40 nm and λ = 1 nm. This indicates that shorter tunneling distance and bigger contact diameter enhance the contact number. Additionally, the highest contact number of 76 occurs by a CNF radius (R) of 40 nm, while R = 100 nm combined with a CNF length of 30 μm drastically reduce the contact number to zero. Consequently, thinner and longer CNFs provide a higher contact number. Moreover, a lower percolation onset, thicker interphase, reduced CNF waviness, and greater network fraction further contribute to an increase in the contact number improving the PCNF conductivity.}
+}

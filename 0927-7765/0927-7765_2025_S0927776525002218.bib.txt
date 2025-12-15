@@ -1,0 +1,13 @@
+@article{DUAN2025114714,
+title = {Galectin-1-targeted theranostic nanoprobe for multimodal imaging and photothermal therapy in cervical cancer lymph node metastases},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114714},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114714},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002218},
+author = {Hui Duan and Huimin Li and Qianjun Su and Ping Liu and Mengdan Zhang and Xiaolin Chen and Ruiyuan Liu and Pengfei Li and Chunlin Chen},
+keywords = {Cervical carcinoma, Lymphatic metastasis, Molecular imaging, Photothermal treatment, Multimodal molecular probe},
+abstract = {Accurately evaluating lymph node (LN) status is essential for cervical cancer staging and making treatment decisions. However, the current preoperative imaging modalities for diagnosing LN metastasis in patients with cervical cancer are suboptimal, and the existing radiochemotherapy methods lack specificity, which leads to increased toxicity and side effects. To overcome these limitations, we aimed to develop a theranostic strategy for LN metastases with a galectin-1-targeted nanoprobe for dual-modal magnetic resonance imaging (MRI)/near-infrared (NIR) imaging and photothermal therapy (PTT). The PEG@MnPb-IR820 nanoparticles were synthesized through an integrated approach combining microemulsion, thin-film hydration, and esterification coupling methods. The nanoparticles were synthesized and characterized for their physicochemical properties and biosafety. After extensive in vitro and in vivo experiments, the TDG@PMI NPs demonstrated low biological toxicity, excellent stability, and a diameter of 74 nm, which is suitable for LN accumulation. With effective MRI and NIR imaging guidance, this nanoprobe displayed outstanding anticancer activity in tumors and metastatic sentinel LNs upon single NIR laser irradiation by inducing mitochondrial apoptosis in tumor cells.}
+}

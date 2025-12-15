@@ -1,0 +1,13 @@
+@article{LI2025103821,
+title = {Extracting fiber paths from the optimized lamination parameters of variable-stiffness laminated shells based on physic-informed neural network},
+journal = {Computer-Aided Design},
+volume = {179},
+pages = {103821},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103821},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001489},
+author = {Xinming Li and Lujie Ma and Bowen Ji and Kuan Fan and Zhengdong Huang},
+keywords = {Fiber path extraction, Lamination parameters (LPs), Variable stiffness laminated shells, Physics-informed neural network (PINN), Manufacturing constraints, Riemannian geometry},
+abstract = {This paper presents a novel approach for extracting fiber paths from the optimized lamination parameters (LPs) of variable stiffness laminated shells, utilizing the framework of physics-informed neural network (PINN). In this methodology, each fiber layer is associated with a specific stream function, which is approximated by an independent neural network. The stream function is governed by a partial differential equation (PDE) derived from the fiber orientation field in the parameter space. Moreover, the isocontours of the stream function are transformed into the actual fiber paths in the physical space. To account for manufacturing constraints, Riemannian geometry serves as a computational tool to determine the intrinsic distance between adjacent fiber paths and the geodesic curvature of the isocontours. By incorporating regularization terms into the loss function based on the physical relationships, the constrained optimization problem is converted into an unconstrained one, making it more suitable for neural network training. Meanwhile, a fiber path extraction (FPE) algorithm is used to minimize the loss function at randomly sampled points through gradient descent. The numerical results suggest that the extraction of fiber paths using PINN can achieve satisfactory levels of accuracy while effectively satisfying the imposed constraints.}
+}

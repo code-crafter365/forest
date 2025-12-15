@@ -1,0 +1,13 @@
+@article{DAVILASAAVEDRA2025105774,
+title = {Automatic variogram calculation and modeling},
+journal = {Computers & Geosciences},
+volume = {195},
+pages = {105774},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105774},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002577},
+author = {Luis {Davila Saavedra} and Clayton V. Deutsch},
+keywords = {Variograms, Local variability, Disseminated deposits, Tabular deposits},
+abstract = {The variogram is one of the most used tools in geostatistics. It represents a key step for the results of estimation and simulation. This paper presents a methodology of the experimental variogram points calculation and subsequent modeling, including some practical considerations. The proposed methodology infers the variogram parameters directly from the dataset to require minimum user input. Autovar is a program that implements the described methodology, giving an initial variogram model for disseminated and tabular deposits.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025114740,
+title = {Multifunctional cascade theranostic agents for synergistic photothermal/ferroptosis/immuno antitumor therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114740},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114740},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002474},
+author = {Haoran Chen and Fei Long and Dechao Gan and Wang Wang and Xiaodan Li and Yihui Wu and Xianggui Kong and Yulei Chang},
+keywords = {Ferroptosis, Photothermal therapy, Immunogenetic cell death, Lanthanide-doped nanoparticles, NIR-IIb imaging guidance},
+abstract = {Photothermal therapy (PTT) has achieved tremendous advances against various cancers. However, it encounters uneven heat distribution caused by the limited penetration of the excitation light. Besides, the intrinsic heat resistance mechanisms in the tumor microenvironment limit antitumor efficacy and impose the potential risks of metastasis. To solve the suboptimal therapeutic effect of PTT, we have engineered photothermal agents with high photothermal conversion efficiency (PCE) in NIR-II, combined with ferroptosis therapy, to achieve an efficient tumor inhibition effect. Specifically, we develop porous Bi2Te3 with high and stable PCE (68.35 %) at NIR-II (1060 nm) for PTT. The decoration of Fe3O4 nanoparticles on the porous Bi2Te3 increased PCE to 79.25 %, which induced ferroptosis. As a result, the intracellular Fe3 +-mediated Fenton reaction process is accelerated by PTT-induced local hyperthermia, and ferroptosis increases the thermal sensitivity of the tumor cells, resulting in an excellent therapeutic effect. In addition, the tumor-associated antigen released after the synergy of PTT/ferroptosis can also cause immunogenic cell death (ICD) due to the exposure of CRT and HMGB1, which are the “eat me” signals. Notably, Bi2Te3 and its synthesis template lanthanide-doped nanoparticles (LnNPs) are excellent candidates for X-ray, photoacoustic, and optical imaging (Er3+-activated 1525 nm downshifting luminescence ). They enable real-time imaging in deep tissue penetration with a high temporal and spatial resolution to guide precise antitumor treatment in situ. Furthermore, the resultant LnNP@Bi2Te3-Fe3O4 nanocomposites (LBT-Fe) can achieve X-ray/photoacoustic/NIR-II imaging-guided synergistic ferroptosis/PTT/immuno tumor therapy.}
+}

@@ -1,0 +1,13 @@
+@article{RANJANA2025117714,
+title = {Riemannian geometry based peridynamics computational homogenization method for cellular metamaterials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117714},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117714},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400968X},
+author = {Kumari Neelam Ranjana and  Sajal and Pranesh Roy},
+keywords = {Peridynamics, Homogenization, Riemannian geometry, Metric tensor, Dijkstra's algorithm},
+abstract = {A novel Riemannian geometry-based two-scale computational homogenization technique is developed in peridynamics (PD) framework for cellular metamaterials. The idea here is to envision two infinitesimally close material points in reference configuration of a macroscopic body which are finite distance apart in microstructure. Due to the presence of holes or defects in the microstructure, the shortest path between these two points is not a straight line, but a geodesic curve. This clearly shows that the infinitesimal distance between these two points in the macrostructure cannot be calculated using Euclidean geometry. Proposing the inherent geometry of the macrostructure to be Riemannian with an associated symmetric metric tensor, a search horizon-based procedure is designed to calculate the components of the metric tensor. Borrowing ideas from the graph theory of computer science, we propose a novel approach based on Dijkstra's algorithm to calculate the shortest distance between two particles in a discretized PD domain by considering the PD domain to be an undirected weighted graph. A two-scale PD based computational homogenization method is proposed, and calculation procedure of the effective material properties is outlined. The response of macrostructure for static and dynamic load cases is obtained using the Newton-Raphson and the predictor-corrector methods, respectively. First, the solution of the PD model is validated with analytical solution, finite element analysis result obtained using ANSYS®, and experimental results. The response of macrostructures obtained using the proposed homogenization method in PD framework is validated with finite element method solution. Thereafter, macrostructures with different configurations with and without cracks are analyzed under static and dynamic loading. The effect of different search horizons, which leads to different metric tensor coefficients, is also investigated by comparing the response of macrostructures. Dynamic crack propagation simulations demonstrate the importance of considering Riemannian geometry in macrostructure.}
+}

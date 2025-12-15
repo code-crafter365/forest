@@ -1,0 +1,13 @@
+@article{WANG2025109181,
+title = {Cooling rate effects on non-isothermal crystallization and mechanical behaviors of poly-ether-ether-ketone/bioactive glass composite scaffolds fabricated by laser powder bed fusion},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109181},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109181},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004750},
+author = {Haoze Wang and Peng Chen and Jin Su and Yuxin Li and Liang Chen and Wei Wei and Chunze Yan and Yusheng Shi},
+keywords = {Cooling rate, Laser powder bed fusion, Non-isothermal crystallization, Polyetheretherketone/bioactive glass composites},
+abstract = {Polyetheretherketone/bioactive glass (PEEK/BG) composite lattice scaffolds printed by laser powder bed fusion (LPBF) demonstrate potential for orthopedic applications. However, mechanical optimization is hindered by the crystallization sensitivity of PEEK and uneven thermal history during LPBF. Given the key role of cooling in crystallization during LPBF, this study explores the impact of cooling rate on the crystallization behavior and mechanical performance of PEEK/BG scaffolds. The results show that slower cooling rates increase crystallization peak temperature, narrow the crystallization range and enhance crystallinity and interfacial bonding, which leads to improved scaffold performance. Reducing the cooling rate from 20 to 1 °C/min improved in the mechanical performance of Diamond-structured scaffolds. Meanwhile, the elastic modulus of 5 and 15 wt% BG scaffolds increased by 20.3% and 16.7%, respectively. In contrast, rapidly cooled scaffolds exhibited lower strength and mechanical anisotropy along the build direction. Specifically, the top region demonstrated incomplete crystallization due to rapid cooling, which resulted in reduced mechanical strength. By comparison, the bottom thermally insulated by the powder bed underwent quasi-static crystallization, which contributed to more complete crystal formation and superior mechanical performance. These findings reveal a strong link between post-printing cooling rate, crystallization behavior and mechanical integrity.}
+}

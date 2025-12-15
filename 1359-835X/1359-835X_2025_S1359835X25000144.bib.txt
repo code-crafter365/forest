@@ -1,0 +1,13 @@
+@article{KIM2025108720,
+title = {Mechanical role of graphene nanofiller on vibration damping properties of highly cross-linked polymers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108720},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108720},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000144},
+author = {Sihyun Kim and Hongdeok Kim and Joonmyung Choi},
+keywords = {Polymer nanocomposites, Vibrational damping, Interphase, Heterogeneous filler, Molecular dynamics},
+abstract = {This study investigates the effect of graphene incorporation into epoxy on its microstructure and energy dissipation properties under vibration loading. Using all-atom molecular dynamics simulations, the load-carrying and energy dissipation capabilities of graphene/epoxy nanocomposite models were successfully quantified at the nanoscale. Oscillatory shear deformation analysis revealed that graphene enhances the interfacial energy dissipation under out-of-plane loading, which significantly improves the damping performance of the nanocomposites. However, a detailed spatial analysis of the matrix domain revealed that the interphase around graphene is inferior to that of the bulk matrix in both load-carrying and energy-dissipation capabilities, which is attributed to the locally elevated cross-linking density at the interphase and insufficient interfacial interactions. This encapsulated interphase structure causes a simultaneous increase in deformability and elasticity under external shear strain. The study findings underscore the necessity of optimizing the interfacial structure for developing graphene/epoxy nanocomposites with superior passive vibration damping properties.}
+}

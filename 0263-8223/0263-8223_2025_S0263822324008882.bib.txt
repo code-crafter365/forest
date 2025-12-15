@@ -1,0 +1,13 @@
+@article{JIANG2025118760,
+title = {Investigation on vibration characteristics of composite auxetic honeycomb sandwich plates with damping enhancement},
+journal = {Composite Structures},
+volume = {354},
+pages = {118760},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118760},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008882},
+author = {Weimin Jiang and Xilin Luo and Jiayi Liu and Wei Huang},
+keywords = {Composite, Auxetic honeycomb, Damping enhancement, Vibration characteristics},
+abstract = {With the rapid development in science and technology, the vibration resistance and stability are required with higher standard in damping property of structures. Aiming to improve the damping property of the structure, vibration characteristics of composite auxetic honeycomb sandwich plates with damping enhancement were studied experimentally and numerically. Inserting damping layers into face sheets and filling foam into the core were applied to fabricate the auxetic plates. The influence of the thickness of damping layers and the density of foam on the vibration characteristics of auxetic plates was researched. Modal strain energy method was applied to study the damping properties of auxetic plates with damping enhancement. The results obtained by numerical method had a great fit with experimental results. Vibration acceleration level-frequency curves were calculated to reflect the influence of damping layers and foam on damping properties of auxetic plates. Damping efficiency, compressive stiffness efficiency and comprehensive efficiency were used to evaluate the damping properties of auxetic plates. The results showed that the auxetic plate with thinner damping layer and higher density foam had a higher frequency. The damping loss factors of auxetic plates raised as the thickness of damping layer increasing or the density of foam decreasing.}
+}

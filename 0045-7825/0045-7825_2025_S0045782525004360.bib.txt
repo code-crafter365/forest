@@ -1,0 +1,13 @@
+@article{HAN2025118164,
+title = {A general formulation of topology optimization for nonlinear materials incorporating internal variables by the continuous adjoint method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118164},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118164},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004360},
+author = {Jike Han and Seishiro Matsubara and Tsuguo Kondoh and Kazuhiro Izui and Shinji Nishiwaki},
+keywords = {Topology optimization, Continuous adjoint method, Internal variable, Material nonlinearity, Finite strain},
+abstract = {This study presents a general formulation of topology optimization for nonlinear materials, in which the evolutions of internal variables describe material responses. To ensure generality, the formulation of the primal problem covers arbitrary nonlinear behavior realized by internal variables. The governing equations of the primal problem are derived from the variational principle. To avoid unreasonable inelastic material responses in void regions, the idea of interpolating material models is employed instead of interpolating material parameters, by which the nonlinear material and linear elastic material can be defined, respectively, for the material and void regions. The continuous adjoint method is performed to derive two sets of governing equations of the adjoint problem and sensitivity by interpreting the primal problem from two different perspectives. One adjoint problem derives the initial conditions of adjoint variables at the end time of the primal problem, and thus, the inverse method is performed to solve for the adjoint variables in the inverse time direction of the primal problem. On the other hand, the other adjoint problem does not lead to the initial conditions of adjoint variables, for which the forward method can be used to simultaneously solve the primal and adjoint problems in the same time direction. It turns out from the numerical investigations for two- and three-dimensional elastoplastic topology optimization problems that the first adjoint problem (inverse method) provides more accurate sensitivity but is time-consuming, whereas the second adjoint problem (forward method) is less accurate in the sensitivity analysis but can be solved more efficiently by a simple numerical algorithm. More importantly, from the numerical investigations, no distinct differences are confirmed regarding the ability to derive optimal designs between the two methods.}
+}

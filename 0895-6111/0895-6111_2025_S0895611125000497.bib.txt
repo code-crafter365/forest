@@ -1,0 +1,20 @@
+@article{YU2025102540,
+title = {TSNet: Vessel segmentation with sequential frame temporal information in coronary angiography},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102540},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102540},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000497},
+author = {Hui Yu and Hui Gao and Guang Li and Zewei Qin and Dagong Jia and Guangpu Wang and Shuo Wang},
+keywords = {Coronary angiography vessel segmentation, Edge enhancement, Temporal information extraction, Topological structure},
+abstract = {Objective
+When using single-frame images for coronary vessel segmentation, the small size and complex structure of the vessels often lead to over-segmentation and mis-segmentation. Additionally, limited information from low-quality images result in disrupting the vascular topology. To address this, we introduce temporal information from coronary angiography sequences to aid in segmentation and improve accuracy.
+Methods
+We establish a dataset SqCS specialized for coronary angiography sequence segmentation and propose a time series-based coronary angiography segmentation network TSNet. Specifically, our proposed TSNet is a multi-input single-output end-to-end U-shaped network that utilizes multiple encoders for simultaneous extraction of spatial features from input sequence frames. It incorporates an edge enhancement method for segmented frames and employs the Temporal and Spatial Attention Unit (TSAU) for refined extraction of temporal and spatial information and fusion of multi-frame features. Our code is publicly available at https://github.com/huigao-II/TSNet.
+Results
+We validated TSNet on our SqCS dataset, achieving a Dice score of 0.8966, Acc of 0.9906, IoU of 0.8127, clDice of 0.9354, VCA of 1.9027, BIOU of 0.3565 and VCA of 1.9072. Conclusion: Our method enhances pixel-wise accuracy while addressing vessel discontinuities in low-contrast regions common in single-frame segmentation. It preserves vascular topology and significantly improves edge accuracy.
+Significance
+Our SqCS dataset provides a foundation for sequence-based coronary angiography vessel segmentation research. The segmentation model trained using our method lays the groundwork for accurate clinical diagnosis and treatment decisions in coronary artery disease.}
+}

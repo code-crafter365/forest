@@ -1,0 +1,13 @@
+@article{REN2025111148,
+title = {Deep learning accelerates reverse design of Magnetorheological elastomer},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111148},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111148},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001162},
+author = {Hang Ren and Dan Zhao and Liqiang Dong and Shaogang Liu and Jinshui Yang and Tianyi Zhao and Yongle Fan},
+keywords = {Magnetorheological elastomer, Reverse design, Deep learning, Material synthesis},
+abstract = {Magnetorheological elastomers (MREs) are intelligent materials with tunable properties under magnetic fields, offering broad applications. Our previous work [1] finely designed artificial intelligence model to characterize the magnetic-induced storage modulus of MRE accurately but relied on manual expertise for reverse design. A deep learning framework that integrates generators and predictors was developed to provide a fast and accurate material proportioning solution for MRE synthesis. First, 16 types of MREs were prepared and their storage moduli were tested. The results indicate that an increase in iron powder content enhances the modulus of MRE, while silicone oil acts as a slack agent, making MRE softer. Second, a predictor generator framework was developed to achieve the modulus prediction and reverse design of the MRE. The predictor utilized the magnetic dipole theory as a physical constraint to accurately predict the storage modulus of MREs (R2 = 0.9967). The generator quickly generated material ratios that matched the required storage modulus within 0.02 s while achieving high precision (R2 = 0.9882). Finally, the challenge of generating unstable solutions in the reverse design was addressed by optimizing the loss function. As an innovative tool, the proposed framework holds potential for applications in industrial fields such as vibration control and soft machinery. Moreover, this framework has brought unprecedented convenience to non-professional researchers, enabling them to apply it to industrial production and accelerate the commercialization of MREs.}
+}

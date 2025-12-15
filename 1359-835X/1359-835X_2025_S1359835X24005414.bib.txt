@@ -1,0 +1,13 @@
+@article{ZHANG2025108543,
+title = {In-situ experimental characterization and numerical investigation of the crack initiation of SMC composite under uniaxial tension},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108543},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108543},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005414},
+author = {Hongye Zhang and Li Yang and Shuhan Ren and Kaifeng Wang and Jingjing Li},
+keywords = {Carbon fiber sheet molding compound (SMC) composite, Crack initiation, Micro-X-ray computed tomography, Digital volume correlation (DVC)},
+abstract = {This paper explored the crack initiation of sheet molding compound (SMC) composite under uniaxial tensile loads by integrating in-situ experimental characterization and subsequent numerical analysis. Firstly, a synchrotron micro-X-ray computed tomography was utilized to character the morphology and evolution of the microstructure and fracture features of the SMC sample with different loading conditions. Meanwhile, the digital volume correlation technology was employed to determine the internal three-dimensional deformation. Then, a numerical analysis was conducted to describe the relationships among the microstructure, deformation distribution, and position of the crack initiation. Finally, a predictive model was developed based on the internal microstructure and the deformation distribution and then utilized to predict the location and sequence of crack initiation. The good agreement between the predicted results with the experimental ones reveals the feasibility of the proposed model in exploring the fracture behaviors of carbon fiber reinforced polymer composites with complex internal microstructure.}
+}

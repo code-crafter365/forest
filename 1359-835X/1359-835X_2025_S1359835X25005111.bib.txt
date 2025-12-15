@@ -1,0 +1,13 @@
+@article{HAGHGOO2025109217,
+title = {Numerical simulation of thermomagnetic carbon nanotube-graphene nanoplatelet polymeric conductive composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109217},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109217},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005111},
+author = {Mojtaba Haghgoo and Reza Ansari and Mohammad Kazem Hassanzadeh-Aghdam and Saeid Sahmani and Sung-Hwan Jang},
+keywords = {Monte Carlo simulation, Representative Volume Element, CNT/GNP Polymer nanocomposites, Thermomagnetic conductor},
+abstract = {A numerical simulation based on Monte Carlo conductive network path finding method has been developed to investigate thermomagnetic carbon nanotube (CNT)-graphene nanoplatelet (GNP) polymeric conductive composites. The modeling methodology consists of three sequential phases: the initial estimation of resistivity followed by an assessment of the displacement of nanofillers and the resulting alterations in resistance by variations of intrinsic resistance with temperature. The formation of a continuous conductive path through the touching of the conductive fillers causes the resistivity to decrease 10 orders of magnitude in the percolation region. GNP gives a higher percolation threshold than CNT, with a 60% decrease with doubling its aspect ratio from 200. The material displayed a good response to strain, generating a gauge factor of about 3.6 for 0.5 vol% CNT polymer nanocomposite that reduced by 40% with doubling CNT volume fraction.}
+}

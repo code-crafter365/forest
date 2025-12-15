@@ -1,0 +1,13 @@
+@article{GAO2025109015,
+title = {Regulating the electro-dielectric architectures of carbon black-engineered polyester fibers and fabrics for strain sensing and microwave absorption},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109015},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109015},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003094},
+author = {Shuang Gao and Xiang Li and Mingwei Tu and Jie Huang and Xiaoming Qi and Yaqin Fu},
+keywords = {Functionalized fibers, Flexibility, Bending strain sensing, Microwave absorption},
+abstract = {With the advent of next-generation high-frequency wireless electronic sensors, signal interference between sensors become severe. Integrating the sensor and microwave absorber is highly needed, but challenges remain in a single-component material due to the contradiction between electrical conductivity and dielectric properties. Here, a one-step surface sizing of polyester fibers (PET) and coating of carbon black (CB) using styrene-acrylic emulsion (SAE) as sizing regent was proposed to produce multifunctional fibers (PET-SAE/C) continuously. This approach endows the fibers with balanced electrical conductivity and dielectric properties, making them a promising material for strain sensors and microwave absorbers. The obtained PET-SAE/C fibers exhibit remarkable sensitivity to the resistance changes over 1000 cycles of strain-sensing treatment. Simultaneously, the PET-SAE/C fibers had strong microwave absorption properties with a minimum reflection loss (RLmin) of −67.82 dB at a predicted thickness of 2.28 mm. The fibers were successfully weaved into 3D fabrics, which retained outstanding strain sensing and microwave absorption performance, the RLmin approached −62.87 dB at the thickness of 2.28 mm. This study provides insights into creating flexible, efficient, and multifunctional fiber and fabric materials for integrating strain sensors and microwave absorbers in versatile wireless electronics.}
+}

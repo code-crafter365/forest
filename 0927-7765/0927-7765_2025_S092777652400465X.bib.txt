@@ -1,0 +1,13 @@
+@article{YU2025114206,
+title = {Heating-driven self-assembled glycyrrhizin nanomicelles loading bisdemethoxycurcumin: Preparation, characterization, and efficacy evaluation on experimental dry eye},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114206},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114206},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400465X},
+author = {Linrong Yu and Qingqian Meng and Mengshuang Li and Lei Tian and Xianggen Wu and Ying Jie},
+keywords = {Glycyrrhizin, Bisdemethoxycurcumin, Heating-driven, Ophthalmic solution, Dry eye},
+abstract = {In this study, a simple but novel preparation method was developed by heating a mixture of dipotassium glycyrrhizinate (DG) and bisdemethoxycurcumin (BDMC) in aqueous solution, and a DG self-assembled nanomicelles-loading BDMC (named B@DNM) ophthalmic solution was successfully fabricated with this heating-driven process. AutoDock simulation analysis revealed that Pi-Alkyl hydrophobic interactions between BDMC and DG played important role in this self-assembled B@DNM. The optimized B@DNM, with a DG:BDMC mass ratio of 40:1 and heating time of 6 h, had a high encapsulation efficacy of 96.70 ± 0.13 % and particle sizes of 117.50 ± 6.07 nm. The apparent solubility of BDMC in B@DNM was significantly improved from bare BDMC (10.40 ± 0.16 μg/ml to 1405.60 ± 6.78 μg/ml) in artificial tears after 4 h incubation. B@DNM had great storage stability as an aqueous ophthalmic solution. B@DNM showed significantly improved in vitro antioxidant activity. Ex vivo hen’s egg test–chorioallantoic membrane assay and long-term in vivo mouse eye tolerance evaluation showed that B@DNM had good ocular safety profiles. B@DNM showed improved in vivo corneal permeation profiles in the mouse eyes. Topical administration of B@DNM achieved a significantly improved efficacy on a mouse model of dry eye disease (DED), including accelerating corneal wound healing, restoring corneal sensitivity, and inhibiting corneal neovascularization. Regulation of the high mobility group box 1 signal pathway was involved in B@DNM’s strong therapeutic effects. These findings demonstrate that heating is a simple method to prepare ocular nanoformulation with DG, and B@DNM might be a potential ocular drug for treating DED.}
+}

@@ -1,0 +1,13 @@
+@article{ALMUTAIRI2025118922,
+title = {Ductile flexural behavior of composite sandwich structures with brittle fibre polymer facesheets and timber core},
+journal = {Composite Structures},
+volume = {357},
+pages = {118922},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118922},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500087X},
+author = {Ahmed D. Almutairi and Yiqing Dai and Maolin Luo and Yu Bai},
+keywords = {Fibre polymer composites, Timber, Sandwich beam, Ductility, Composite action, Mechanical properties},
+abstract = {Glass fibre polymer composites under loading usually exhibit a linear stress–strain behavior until a sudden failure without yielding as a pre-failure warning. This study introduced a non-linear elastoplastic adhesive layer in a sandwich beam configuration with glass fibre polymer facesheets and timber cores, where nonlinear and ductile flexural behavior resulted from load-dependent composite action was achieved. Experimental investigation, finite element (FE) modelling and classic beam theory were used to understand the effects of adhesive properties, timber types and span-to-depth ratios on the flexural behavior of such sandwich beams. Comparative analyses were conducted among specimens with elastoplastic acrylic or elastic epoxy adhesives, as well as softwood or hardwood timber cores. It can be found that the acrylic adhesive and softwood cores effectively offered ductility and pre-failure deflection. For the specimens with hardwood cores, the epoxy adhesive provided a composite action and linear load–deflection behavior in most of the loading process; while due to a load-dependent stress–strain behavior under shearing, the acrylic adhesive provided a partial composite action and bilinear load–deflection behavior, showing increased mid-span deflection and ductility. Finite element modelling well described the flexural behaviors of the specimens, including deflection development with loads, bending stiffness and composite action.}
+}

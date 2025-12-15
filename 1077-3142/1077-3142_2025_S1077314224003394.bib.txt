@@ -1,0 +1,13 @@
+@article{XU2025104258,
+title = {Spatio-Temporal Dynamic Interlaced Network for 3D human pose estimation in video},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104258},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104258},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003394},
+author = {Feiyi Xu and Jifan Wang and Ying Sun and Jin Qi and Zhenjiang Dong and Yanfei Sun},
+keywords = {3D human pose estimation, Graph convolutional network, Transformer, Spatio-temporal feature},
+abstract = {Recent transformer-based methods have achieved excellent performance in 3D human pose estimation. The distinguishing characteristic of transformer lies in its equitable treatment of each token, encoding them independently. When applied to the human skeleton, transformer regards each joint as an equally significant token. This can lead to a lack of clarity in the extraction of connection relationships between joints, thus affecting the accuracy of relationship information. In addition, transformer also treats each frame of temporal sequences equally. This design can introduce a lot of redundant information in short frames with frequent action changes, which can have a negative impact on learning temporal correlations. To alleviate the above issues, we propose an end-to-end framework, a Spatio-Temporal Dynamic Interlaced Network (S-TDINet), including a dynamic spatial GCN encoder (DSGCE) and an interlaced temporal transformer encoder (ITTE). In the DSGCE module, we design three adaptive adjacency matrices to model spatial correlation from static and dynamic perspectives. In the ITTE module, we introduce a global–local interlaced mechanism to mitigate potential interference from redundant information in fast motion scenarios, thereby achieving more accurate temporal correlation modeling. Finally, we conduct extensive experiments and validate the effectiveness of our approach on two widely recognized benchmark datasets: Human3.6M and MPI-INF-3DHP.}
+}

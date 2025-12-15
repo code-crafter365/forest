@@ -1,0 +1,13 @@
+@article{SONG2025117467,
+title = {Sampling-based adaptive Bayesian quadrature for probabilistic model updating},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117467},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117467},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007229},
+author = {Jingwen Song and Zhanhua Liang and Pengfei Wei and Michael Beer},
+keywords = {Stochastic updating, Bayesian quadrature, Active learning, Gaussian process, Inverse problem},
+abstract = {Bayesian (probabilistic) model updating is a fundamental concept in computational science, allowing for the incorporation of prior beliefs with observed data to reduce prediction uncertainty of a computer simulator. However, the efficient evaluation of posterior probability density functions (PDFs) of model parameters poses challenges, particularly for computationally expansive simulators. This work presents a sampling-based adaptive Bayesian quadrature method to fill this gap. The method is based on approximating the simulator under investigation with a Gaussian process (GP) model, and then a conditional sampling procedure is introduced for generating sample paths, this way to infer a probability distribution for the evidence term. This inferred probability distribution indeed measures the prediction uncertainty of the evidence term, and thus based on which, an acquisition function is proposed to identify the site at which the prediction uncertainty of the GP model contributes the most to that of the evidence term. All the above ingredients finally form an adaptive algorithm for updating the posterior PDFs of model parameters with pre-specified accuracy tolerance. Case studies across numerical examples and engineering applications validate the ability of the proposed method to deal with multi-modal problems, and demonstrate its superiority in terms of computational efficiency and precision for estimating model evidence and posterior PDFs.}
+}

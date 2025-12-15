@@ -1,0 +1,13 @@
+@article{WU2025114744,
+title = {Photo-enhanced synergistic sterilization and self-regulated ion release in rGO-Ag nanocomposites under NIR irradiation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114744},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114744},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002516},
+author = {Lingli Wu and Shuxian Wei and Ningning He and Jiayue Shen and Xiaohu Cheng and Hongyu Zhou and Xingyu Kang and Yunyu Cai and Yixing Ye and Pengfei Li and Changhao Liang},
+keywords = {Silver nanoparticles, Reduced graphene oxide, Near-infrared (NIR) irradiation, Synergistic antibacterial activity, Laser-induced photoreduction bacterial inhibition},
+abstract = {Silver ions (Ag+) released from silver nanoparticles (Ag NPs) can help to improve the inhibition and killing ability of particles to bacteria. The leakage of Ag+ ions released from Ag NPs will lead to possible risks in cytotoxicity and environmental damage. It is still a challenge to balance particles' ions release and leakage to environment. Here, a nanocomposite of Ag NPs combined with reduced graphene oxide (rGO), labeled as rGO-Ag, was prepared by laser-induced photoreduction of Ag+ ions in solution. This composite exhibits not only a synergistic effect of Ag NPs and rGO in sterilization under normal circumstances, but also another synergistic effect from photothermal function under the 808 nm near-infrared (NIR) laser irradiation and the subsequent enhanced Ag+ ions release at high temperature. In experiments, rGO works as photothermal converter, which can directly cause the death of bacteria and force Ag+ ions to leave particle surface to assist in killing bacteria, and also as a catcher to intercepts the leakage of the released ions. After treating a 50 mg/L rGO-Ag solution with an NIR laser for 30 min, the concentration of released Ag+ ions increased, but these ions were subsequently adsorbed back onto the rGO. Compared with the no-light treatment group, the mortality rates of E. coli and S. aureus exposed to rGO-Ag under NIR irradiation increased by 39.06 % and 17.48 %, respectively. The clever combination between Ag NPs and rGO makes their composite exhibit a photo-enhanced synergistic sterilizing function, as well as a self-controlled ion release capability under NIR stimulation.}
+}

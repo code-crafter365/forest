@@ -1,0 +1,13 @@
+@article{YIN2025109233,
+title = {Lamellar MOFs from phosphorus/nitrogen-functionalized ligands for enhanced fire safety and mechanical properties of epoxy resin},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109233},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109233},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005275},
+author = {Lian Yin and Yaqin Wu and Yizhi Liu and Keqing Zhou and Jianjian Luo and Bin Yu and Sheng Zhang and Dehong Zhou},
+keywords = {A. Polymer-matrix composites (PMCs), B. Flame/fire retardancy, B. Mechanical properties, Metal-organic framework},
+abstract = {The inherent flammability and brittleness of epoxy resins (EP) impose significant constraints on their application in advanced manufacturing. Herein, this work presented a novel approach to improving the fire protection and mechanical performance of EP by incorporating lamellar metal organic framework architectures (IM-HMOF) derived from phosphorus/nitrogen-based imidazole (IM-HCCP). The IM-HMOF provided dual crosslinking sites through imidazole groups and P=N- heterocyclic structure, which effectively regulated the interfacial interactions with the EP matrix and positively affected the mechanical and thermal properties of EP composites. Specifically, the tensile modulus, tensile strength and elongation at break of EP/IM-HMOF 2.0 were enhanced by 54.8 %, 102.5 % and 47.1 %, respectively, compared with pure EP. Additionally, the addition of IM-HMOF significantly reduced the thermal decomposition rate of the EP matrix and increased char yield, which conferred excellent thermal properties to the EP composites. Notably, the EP/IM-HMOF 2.0 had the lowest fire hazards, with a reduction of 42.4 %, 34.0 %, 40.6 % and 43.5 % in the peak heat release rate, peak smoke production rate, peak CO production rate and peak CO2 production rate, respectively. This was associated with the barrier effect of lamellar MOFs, as well as the catalytic, radical trapping and combustible dilution effects exerted by the Co-P-N flame retardant system. The present work proposes an innovative strategy at the molecular level to endow EP with both flame retardant and toughening properties, which helps to break the limitations of polymer applications.}
+}

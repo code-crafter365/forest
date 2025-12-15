@@ -1,0 +1,13 @@
+@article{CHENG2025117846,
+title = {Global-local adaptive meshing method for phase-field fracture modeling},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117846},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117846},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001185},
+author = {FengYu Cheng and Hao Yu and Quan Wang and HanWei Huang and WenLong Xu and HengAn Wu},
+keywords = {Global-local adaptive meshing method, Phase-field model, Normalized nodal density field, Global crack sampling, Local node seeding},
+abstract = {This work develops a global-local adaptive meshing method for the phase-field model of brittle fracture, offering flexible adjustment of mesh density to produce seamless and high-quality adaptive meshes. The method first establishes a direct mapping from phase-field values and displacement errors to a normalized nodal density field, which is used to control the computational accuracy. On this basis, a sampling procedure is performed by detecting the maximum value to progressively place sampling nodes, ensuring that first-level nodes are placed globally while preserving crack location information. Subsequently, a hexagonal seeding algorithm is used to multiply nodes, where the spacing of generated seeds (i.e., higher-level nodes) is adaptively adjusted based on local nodal density requirements to regulate element sizes. A spatial assessment algorithm is utilized to compare the expected nodal spacing of the newly generated node with its distance to existing nodes, which serves as a termination criterion for the loop of the seeding algorithm and effectively prevents the occurrence of low-quality elements. After the seeding process of all nodes is completed, all generated nodes are connected by constrained Delaunay triangulation. This method has been discussed under classical brittle fracture cases with various control parameters (e.g., the mapping function, the expected maximum/minimum element size, and the distance factor) to validate its advantage of reducing degrees of freedom and improving solution efficiency.}
+}

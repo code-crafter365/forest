@@ -1,0 +1,13 @@
+@article{WANG2025111009,
+title = {Revealing the origin of the thermal conductivity improvement of the silane@polydopamine modified graphene/epoxy nanocomposites: A multiscale study},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111009},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111009},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005803},
+author = {Haolin Wang and Jihun Lee and Jae Hun Kim and Hyunseong Shin},
+keywords = {Polymer-matrix composites, Thermal conductivity, Multiscale model, Molecular dynamics simulation},
+abstract = {Recently, silane@polydopamine (silane@PDA) non-covalently functionalized two-dimensional nanofillers have attracted considerable interest in the field of thermal interface materials. This is because silane@PDA effectively enhanced the thermal conductivity (TC) of the nanocomposite without damaging its surface structure. However, from a theoretical standpoint, the origin of the observed TC improvement in silane@PDA modified graphene (silane@PDA-GNP)/epoxy nanocomposites remains unclear. In this study, we propose a multiscale strategy combining molecular dynamics (MD) simulations with a two-step homogenization method to investigate the TC improvement of nanocomposites induced by the silane@PDA non-covalent functional groups. Specifically, the contribution of silane@PDA was quantified based on two aspects: the TC of the effective nanofiller and interfacial thermal transport. The two-step homogenization approach indicates that the silane@PDA functional groups enhance the TC of interphase and out-of-plane TC of silane@PDA-GNP, which are crucial for the enhancement of the nanocomposite TC. The contribution of silane@PDA to the interfacial thermal conductance (ITC) was quantified, and the thermal transport process at the interface was further described by analyzing the interfacial thermal transport mechanisms (interfacial interactions and phonon vibrational power spectra). The silane@PDA functional group excites more phonons at the interphases, which leads to more phonons being involved in the interfacial thermal transport and increased ITC. Additionally, the two-step homogenization approach predicted the effects of different types of silanes and the self-condensation of silanes on the TC of the nanocomposites. The proposed two-step homogenization approach can deepen our understanding of the interfacial thermal transport mechanism, and an efficient and fast computational strategy offers a more practical approach for optimizing thermal interface materials with a high TC.}
+}

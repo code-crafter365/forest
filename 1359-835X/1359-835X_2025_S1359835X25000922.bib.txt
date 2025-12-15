@@ -1,0 +1,13 @@
+@article{LIU2025108798,
+title = {Nonlinear rheological and thermo-oxidative aging behaviors of carbon black filled natural rubber nanocomposites mediated by a deep eutectic solvent based on 4-methyl-5,7-dihydroxycoumarin and tetrabutylammonium bromide},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108798},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108798},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000922},
+author = {Benteng Liu and Yihu Song and Miao Du and Qiang Zheng},
+keywords = {Nanocomposites, Cure behavior, Microstructural analysis, Rheological properties},
+abstract = {Deep eutectic solvents (DESs) are able to promote vulcanization and improve mechanical properties of rubber nanocomposites. Investigated are rheological and thermo-oxidative aging behaviors of carbon black (CB) filled natural rubber (NR) nanocomposites mediated by a developed DES, revealing that the presence of DES could significantly promote vulcanization of NR and dispersibility of CB, the latter being related to polar interactions between DES and CB. DES interferes with the Payne effect by improving the onset strain amplitude and weakening the storage modulus decay and the loss modulus overshoot in the nonlinear viscoelasticity region without influencing mechanisms of Mullins effect during cyclic uniaxial tension at large strains. During long-term thermo-oxidative aging, DES influences the evolutions of mechanical properties and Mullins effect depending on the composition. This work is helpful for mediating the CB dispersity, NR crosslinking, strain softening and thermal-oxidative aging behavior of NR nanocomposites for design and manufacture of high-performance products.}
+}

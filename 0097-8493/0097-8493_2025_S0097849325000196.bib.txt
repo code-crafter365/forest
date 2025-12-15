@@ -1,0 +1,13 @@
+@article{BAO2025104180,
+title = {Bi-Scale density-plot enhancement based on variance-aware filter},
+journal = {Computers & Graphics},
+volume = {127},
+pages = {104180},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104180},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000196},
+author = {Huaiwei Bao and Xin Chen and Kecheng Lu and Chi-Wing Fu and Jean-Daniel Fekete and Yunhai Wang},
+keywords = {Density plot, Bi-scale, Bin–summarize–smooth},
+abstract = {We present Bi-Scale density Plot (BSP), a new technique to enhance density plots by efficiently optimizing the local density variance in high- and mid-density regions while providing more details in low-density regions. When visualizing large and dense discrete point samples, scatterplots and thematic maps are often employed and we need density plots to further provide aggregated views. However, in the density plots, local patterns such as outliers can be filtered out and meaningful structures such as local density variations can be broken down. The key innovations in BSP include (i) the unified bin–summarize–decompose–combine framework for interactively bi-scale enhancing density plots through combining large- and small-scale density variations; and (ii) the variance-aware filter, which is reformulated based on the edge-preserving image filter, for maintaining the relative data density while reducing the excessive variability in the density plot. Further, BSP can be adopted with a 2D colormap, allowing simultaneous exploration of the enhanced structures and recovering the absolute aggregated densities to improve comparison and lookup tasks. We empirically evaluate our techniques in a controlled study and present two case studies to demonstrate their effectiveness in exploring large data.}
+}

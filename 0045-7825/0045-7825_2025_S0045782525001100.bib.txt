@@ -1,0 +1,13 @@
+@article{CHENG2025117838,
+title = {Robust equilibrium optimization method for dynamic characteristics of mechanical structures with hybrid uncertainties},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117838},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117838},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001100},
+author = {Jin Cheng and Honghui Wang and Shuoshuo Shen and Weifei Hu and Zhenyu Liu and Jianrong Tan},
+keywords = {Robust equilibrium optimization, Hybrid uncertainties, Dynamic characteristics, Mechanical structures, Angular proximity coefficient, Overall robust equilibrium degree (ORED)},
+abstract = {For complex products such as high-speed presses, it is imperative to optimize the dynamic characteristics of their moving components to avoid resonance, thereby ensuring safe and stable operation. Dynamic characteristic optimization of mechanical structures considering multi-source uncertainties remains a challenging task due to the violent confliction among multiple objectives and multiple constraints. In this paper, a novel robust equilibrium optimization method for dynamic characteristics of mechanical structures with hybrid uncertainties is proposed. Firstly, the dynamic robust equilibrium optimization model is established with multi-source uncertainties described as truncated probabilistic variables and interval variables. Subsequently, a novel angular proximity coefficient is defined to assess the constraint feasibility of design vectors. Further, a quantitative metric named the overall robust equilibrium degree (ORED) is proposed to evaluate the overall robustness of all objective and constraint performance indices for feasible design vectors. On this basis, all the feasible design vectors are directly ranked according to their OREDs, thereby achieving the optimal design of mechanical structures. The robust equilibrium optimization is realized by integrating Kriging models, Monte Carlo simulation (MCS) and nested genetic algorithm (GA). The effectiveness and feasibility of the proposed method are demonstrated through a numerical example and two engineering case studies involving a high-speed press slider and an unmanned aerial vehicle (UAV).}
+}

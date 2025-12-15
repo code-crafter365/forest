@@ -1,0 +1,13 @@
+@article{FIROUZI2025119196,
+title = {New insight to nonlinear electromechanical deformation of hyperelastic beams and frames with a novel beam element},
+journal = {Composite Structures},
+volume = {365},
+pages = {119196},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119196},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003617},
+author = {Nasser Firouzi and Marco Amabili and Timon Rabczuk},
+keywords = {Electroactive polymers, Dielectric elastomers, Smart materials, Beam, Frame structure, Finite Element Analysis},
+abstract = {Electroactive polymers (EAPs) are used in several devices like sensors and actuators. This study aims to develop a formulation for large electromechanical deformations of hyperelastic electroactive beam-like elastomers; the neo-Hookean hyperelastic law is used. For this purpose, a new seven-parameter electromechanical beam element is introduced to capture the response of hyperelastic beams to electric loading. Moreover, the element is expanded for frame structures using a transformation matrix. Because the constitutive relations are extremely nonlinear, a finite element formulation in the Total Lagrangian framework is derived. To investigate the performance of the proposed model, some examples are solved, and very good agreements with results available in the literature, as well as experimental results, are achieved. The proposed model can be used to develop electromechanical actuators and manipulators.}
+}

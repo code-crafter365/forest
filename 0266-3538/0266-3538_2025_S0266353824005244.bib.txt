@@ -1,0 +1,13 @@
+@article{GUO2025110954,
+title = {Recyclable and highly thermally conductive nanocomposite with binary thermally conductive networks constructed from boron nitride nanoribbons and nanosheets},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110954},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110954},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005244},
+author = {Liyuan Guo and Lei Feng and Caiyue Huang and Qiang Song and Peng Wei and Dongfang Xu and Mengdan Hou and Haojie Song},
+keywords = {Boron nitride, Hemiaminal dynamic covalent network, Bridge-lattice structure, Thermal conductivity, Recyclability},
+abstract = {Technological advances have accelerated the development of high-performance insulation-based Thermal Interface Materials (TIMs), leading to increased generation of electronic waste. A significant challenge is the development of recyclable TIMs with superior thermal conductivity. Hemiaminal dynamic covalent network (HDCN) polymers are considered as an ideal matrix material for recyclable TIMs due to their high degradability at low pH (pH < 2). In this work, binary thermally conductive paths of hexagonal boron nitride nanoribbons (BNNRs) and boron nitride nanosheets (BNNSs) are introduced into the HDCN to improve the thermal conductivity of HDCN without sacrificing its electrically insulating properties. The functional BNNSs (f-BNNSs) are attached onto the surfaces of BNNRs to achieve the homogeneous distribution of nanosheets within the HDCN. Benefiting from the binary thermally conductive paths, an excellent in-plane thermal conductivity of 3.12 W m−1K−1 for BNNS-BNNR/HDCN nanocomposite is achieved at a BN loading of 14 wt% (containing 2 wt% BNNRs and 12 wt% f-BNNS), increased by 1299 % comparing to the pure HDCN polymer, as well as superior to those reported for polymer composites with similar loading of BNNRs or BNNSs. Additionally, the nanocomposite demonstrated efficient recyclability of BNNSs and BNNRs hybrid fillers in an acidic environment (pH < 2) at 25 °C with a recycling efficiency of 82 %. Notably, the nanocomposite exhibited noteworthy electrical insulation properties. This study demonstrates the potential of BNNS-BNNR/HDCN as a recyclable TIMs and provides a new idea for the future research and development of recyclable high performance TIMs.}
+}

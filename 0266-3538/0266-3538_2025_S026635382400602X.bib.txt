@@ -1,0 +1,13 @@
+@article{ZHAO2025111031,
+title = {Polymorphism regulation in poly(vinylidene fluoride) foam achieved by supercritical CO2 foaming assisted with ionic liquid for high-performance piezoelectric device},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111031},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111031},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400602X},
+author = {Yishen Zhao and Shaozhe Shi and Zhengxin Ma and Guangxian Li and Xia Liao},
+keywords = {Poly(vinylidene fluoride), Carbon dioxide, Foam, Ionic liquid, Crystal form},
+abstract = {High electroactive β-phase is of great significance for poly (vinylidene fluoride) (PVDF) in application. Herein, 0.5 wt% ionic liquid (IL) increased the content of β/γ-PVDF crystals to 40 %, which was caused by ion-dipole interactions. When the obtained PVDF/IL composite was treated by supercritical carbon dioxide (CO2) foaming technology, CO2 further facilitated the rotation of dipoles in PVDF, resulting in the generation of β-crystals. Besides, the molecular chains were subjected to uniaxial stretching during the expansion of sample, which increased the content of β-crystals (78 %) as well. Synergistic effect of IL and CO2 foaming technology results in an effective enhancement of β-crystals content in PVDF foam, which exhibits a high output voltage of 7 V, showing great promise for application in human movement energy collection and piezoelectric sensing. In addition, the PVDF/IL foam can degrade about 70 % of RhB in 180 min, which can also be used in the field of catalytic degradation.}
+}

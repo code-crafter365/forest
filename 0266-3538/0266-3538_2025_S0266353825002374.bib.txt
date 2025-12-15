@@ -1,0 +1,13 @@
+@article{SUN2025111269,
+title = {Self-healing interfaces in fiber reinforced polymers: Computational modeling},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111269},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111269},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002374},
+author = {Yulin Sun and Laura Simonini and Chen Xing and Leon Mishnaevsky},
+keywords = {Self-healing, Interface, Thermomechanical, Traction–separation law, Friction},
+abstract = {Fiber-matrix interfaces play a critical role in determining the durability of composite structures. The prospect of developing self-healing interfaces could pave the way for significantly extending their service life. In this study, we investigate the self-healing potential of nanostructured layers at interfaces of epoxy/carbon fiber composites. A three-dimensional thermomechanical model of epoxy/carbon fiber composites with a self-healing nanostructured polycaprolactone (PCL) layer at fiber–matrix interfaces is developed. A fully coupled thermal-stress procedure is established to simulate the healing process of interfaces. To better capture the realistic interfacial properties of this material, both residual stress and surface roughness are considered. Temperature-dependent material properties are included in the model, and heat generation during PCL recrystallization is analyzed. The proposed model is validated by comparing numerical predictions with the microbond testing data of this novel composite material. Numerical results reveal that surface roughness enhances interfacial strength while residual stresses reduce it. Furthermore, the healing process not only restores the interface bonds but also reduces thermal residual stress in the healed material. This study provides valuable insights into leveraging self-healing interfaces to enhance the durability of composite structures.}
+}

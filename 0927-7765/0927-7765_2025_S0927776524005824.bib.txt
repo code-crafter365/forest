@@ -1,0 +1,13 @@
+@article{YANG2025114323,
+title = {Trident-inspired fucoidan-based armor-piercing microcapsule for programmed acute pulmonary embolism treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114323},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114323},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005824},
+author = {Ning Yang and Weikun Li and Zhicheng Qian and Xin Tan and Zonghao Liu and Feiling Feng and Ling Liu and Liqin Ge},
+keywords = {APE treatment, Armor-piercing microcapsule, Triple synergistic thrombolysis, Programmed treatment},
+abstract = {Pulmonary embolism remains the third leading cause of human mortality after malignant tumors and myocardial infarction. Commonly available thrombolytic therapeutic agents suffer from the limitations of very short half-life, inadequate targeting, limited clot penetration, and a propensity for severe bleeding. Inspired by the trident, we developed the armor-piercing microcapsule (MC), fucoidan-urokinase-S-nitrosoglutathione-polydopamine@MC (FUGP@MC), which exhibited a triple combination of photothermal, mechanical and pharmacological thrombolysis for the therapeutic treatment of acute pulmonary embolism (APE). Briefly, the outermost fucoidan layer was utilized for targeting to the APE area. Programmed APE treatment was triggered by near-infrared (NIR) light irradiation. Photothermal thrombolytic therapy was carried out by photothermal conversion of polydopamine. The photothermal conversion broke the S-nitroso bond in S-nitrosoglutathione (GSNO) and produced large amounts of nitric oxide (NO) for mechanical thrombolysis, which subsequently disrupted the interfacial structure of microcapsule to stimulate the release of the urokinase (UK), leading to a triple synergistic thrombolytic effect. The results demonstrated that the embolization residual rate of FUGP@MC (contained ≈ 1452.5 IU/kg UK) group was significantly lower than that of UK (10,000 IU/kg) group (6.35 % VS 16.78 %). Remarkably, FUGP@MC demonstrated a reliable in vivo biosafety proficiency. In summary, trident-inspired armor-piercing microcapsule FUGP@MC reveals a potential avenue for advancing pulmonary embolism therapeutics and promises to be a safer alternative candidate to current drug approaches.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025118849,
+title = {Effect of symmetric interleaved/microarray structure films on flexural properties and fracture toughness of carbon fiber reinforced polymer},
+journal = {Composite Structures},
+volume = {355},
+pages = {118849},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118849},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000145},
+author = {Xueqing Liu and Gongdong Wang and Chengyang Xu and Meng Wang and Lei Bai and Jiayi Chen},
+keywords = {CFRP, Symmetric interleaved, Flexural properties, Fracture toughness},
+abstract = {Carbon fiber-reinforced polymer (CFRP) composites have attracted much attention due to their exceptional properties, but research into effective toughening strategies remain limited. In this study, polyethersulfone (PES), carbon nanotubes (CNTs), and carbon black (CB) were employed as toughening materials. The effects of varying mixing ratios, symmetric interleaved films, and microstructured films were evaluated using three-point bending, mode I, and mode II interlayer fracture toughness tests. Scanning electron microscopy (SEM) provided insights into the toughening mechanisms of PES/CNTs/CB films, particularly in relation to their symmetric interleaved and microarray structures. The results showed that optimizing the CNT-to-CB ratio to 3:2 significantly enhanced the in-plane flexural properties and mode II interlaminar fracture toughness of CFRP. Symmetric interleaved films (SI(34)) increased mode II fracture toughness by 242.51%, while films with a synergistic microarray structure (SI(34)/M) achieved an even greater improvement of 262.79%. Mode I fracture toughness was also notably enhanced. These findings contribute to the advancement of interlayer toughening technology, highlighting its potential applications in aerospace, automotive, and electronics industries.}
+}

@@ -1,0 +1,13 @@
+@article{JU2025119496,
+title = {Preparation and structure optimization of Polyimide/CNT composite aerogel by interfacial reaction for sound and electromagnetic shielding},
+journal = {Composite Structures},
+volume = {371},
+pages = {119496},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119496},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006610},
+author = {Xinyi Ju and Chao Wang and Xueliang Jiang and Feng You and Wei Zhu and Chenjian Li and Chu Yao},
+keywords = {PI aerogel, CNT, Interfacial reaction, Sound absorption, Electromagnetic shielding},
+abstract = {The porous composites are positive for noise and electromagnetic wave shielding. Favorable microstructure is the key for realization of noise and electromagnetic co-shielding. Thus, the new method for CNT modification by the carboxylation and silver plating were developed in this study, and the modified CNT and polyimide (PI) were successfully fabricated into conductive aerogels. The modified CNT can effectively regulate the pore structure and conductive network through the interfacial reaction between carboxylation in CNT and polyamide acid. Attributed to a suitable pore structure and three-dimensional conductive network, the PI/CNT composite aerogel simultaneously achieved a sound absorption coefficient of 0.9 in 6000 Hz and an electromagnetic shielding effect of 28 dB in the X band through the absorbing mechanism. The satisfactory electromagnetic and sound shielding were integrated with the PI/CNT composite aerogel, representing a wider prospect of application in electronic and communicating equipment.}
+}

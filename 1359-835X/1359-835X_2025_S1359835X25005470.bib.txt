@@ -1,0 +1,13 @@
+@article{MANDAL2025109253,
+title = {Unravel the nature of interface bonding and self-healing in vitrimer-carbon fiber composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109253},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109253},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005470},
+author = {Tanaya Mandal and Morteza Ghanbarian and Unal Ozten and Mohammad Naraghi},
+keywords = {Carbon fibers, Polymer matrix composites, Aromatic thermosetting co-polyester, Vitrimers, Self-healing, Interface},
+abstract = {Fiber–matrix interfacial load transfer in carbon fiber polymer matrix composites (CFRP) is crucial to the composite’s mechanical performance. In this study, we investigated the intrinsic self-healing capability of the vitrimer–carbon fiber (CF) interface, specifically examining whether thermoset matrices with adaptive covalent networks can restore interfacial properties at the fiber–matrix scale. Using pull-out tests, we demonstrated that a high-performance vitrimer matrix (ATSP) enables exceptional recovery of interfacial shear strength (IFSS), achieving up to 97.2 % restoration following healing. The structural integrity of the interface was confirmed through optical microscopy and consistent contact angle measurements between as-received and healed samples. To identify the mechanisms of adhesion and self-healing, we removed approximately 60 % of the surface functional groups from CFs via high-temperature desizing, as verified by XPS, which resulted in a ∼ 12 % reduction in IFSS. This outcome indicates that chemical bonding may contribute up to 20 % of the load-bearing capacity, while van der Waals (vdW) interactions and mechanical interlocking dominate the load transfer between fiber and vitrimer. The local flow of vitrimer, facilitated by the bond exchanges, seems to be the driving mechanism for re-forming intimate contact between fibers and matrix, as required to re-establish the load transfer. SEM analysis revealed adhesive failure at the vitrimer–CF interface as the primary failure mode. Overall, these findings establish the self-healing potential of vitrimer–CF interfaces and provide valuable insight into the mechanisms governing interfacial recovery in advanced composites.}
+}

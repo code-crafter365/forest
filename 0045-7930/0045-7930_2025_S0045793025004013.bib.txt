@@ -1,0 +1,12 @@
+@article{XU2025106941,
+title = {Development of ISPH-FVM coupling method by embedded MHD model to simulate bubble rising in conductive liquids under magnetic field},
+journal = {Computers & Fluids},
+pages = {106941},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106941},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025004013},
+author = {Yixiang Xu and Gang Yang and Yulin Xing and Dean Hu},
+keywords = {Bubble rising, Lorentz force, Conductive fluid, Magnetic field, 3D ISPH-FVM, Coupling method},
+abstract = {The motion of bubbles in conductive fluid under the external magnetic field is affected by multiple physical fields, so that the flow characteristics of bubbles are usually difficult to predict, which has gradually become a hot topic in magnetohydrodynamics research. In this paper, the dynamic behavior of bubble rising in conductive liquids under magnetic field is simulated by three-dimensional (3D) ISPH-FVM coupling method. The bubble motion is captured by the ISPH particles, while the FVM mesh is used to calculate the flow field. For the combination of magnetohydrodynamics model and ISPH-FVM coupling method, FVM grid is used to solve Maxwell equations combining electric field and magnetic field, and the calculated Lorentz force is introduced into the momentum equation. To verify the accuracy and stability of the present ISPH-FVM coupling model, the Shercliff case, bubble rising under horizontal magnetic field and two horizontal bubbles coalescence are tested. Subsequently, the single bubble rising under different magnetic field directions and intensities is simulated, and the dynamic mechanism behind the morphological changes and rising velocity of the bubble is deeply analyzed. Finally, the influence of different magnetic field directions and intensities on the terminal velocity and bubble shape of rising bubble with different sizes are discussed.}
+}

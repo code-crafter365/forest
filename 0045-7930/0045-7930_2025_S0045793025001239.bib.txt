@@ -1,0 +1,13 @@
+@article{GAN2025106663,
+title = {Novel finite volume method with Walsh basis function and its multigrid features},
+journal = {Computers & Fluids},
+volume = {297},
+pages = {106663},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106663},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001239},
+author = {Yuan Gan and Gang Wang and Jiong Ren},
+keywords = {Finite volume method, Walsh function, Multigrid, Discontinuity, Convergence rate},
+abstract = {In previous work, the authors published a novel numerical method capable of capturing discontinuities (e.g., shock waves) for 1D problems within the grid cell (Ren & Wang, 2020), which is called the Finite Volume Method with Walsh Basis Functions (FVM-WBF). In the FVM-WBF method, the conservative variables within a grid cell are expressed in the expansion form of the WBF series. By extending this series, the accuracy of capturing discontinuities can be significantly improved. However, this method does result in a significant increase in computational cost, especially for high-dimensional problems. In this paper, the FVM-WBF method is extended to 2D and 3D cases. Additionally, to address the efficiency issues, an innovative multigrid approach is proposed to enhance the computational efficiency of this method. Following an analysis of the WBFs, it was found that there are spatial scales in the expression of different WBF series within the grid cell, which is similar to different grid levels in h-multigrid method. Based on this finding, a simple and efficient multigrid algorithm is devised and implemented in the FVM-WBF method. This multigrid algorithm has advantages over the classical h-multigrid implementation in that it does not require interpolation/constraint operators or transferring information between different grid hierarchies, and the computational efficiency can be significantly improved only by adopting the time step size based on spatial scales without increasing the computational cost at each iteration. Several test cases are presented and the results show that the computational efficiency of the proposed method can be effectively improved.}
+}

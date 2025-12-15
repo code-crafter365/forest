@@ -1,0 +1,13 @@
+@article{MIYAGAWA2025119477,
+title = {Flexural properties of thin foam hybrid core sandwich panels with honeycomb cut in three-point bending: Experimental investigation and numerical analysis},
+journal = {Composite Structures},
+volume = {371},
+pages = {119477},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119477},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006427},
+author = {Yukinori Miyagawa and Keita Goto and Masahiro Arai and Akinori Yoshimura},
+keywords = {Sandwich panel, Hybrid core, Flexural properties, Three-point bending, Analytical modeling, FEA},
+abstract = {This study investigated the effects of introducing honeycomb cuts in thin foam sandwich plates on their bending properties via experiments, theoretical analyses, and FEA. Ultrathin (0.6 mm-thick) composite sandwich panels with CFRP face sheets and a core flake transfer sheet, which was a PMI foam with honeycomb cuts for better formability, were fabricated via autoclave molding. These observations indicate that the resin flowed into the cuts to form a honeycomb structure, resulting in a hybrid core sandwich panel and increased weight. A three-point bending test was performed on the sandwich beams. The cuts increased the effective bending stiffness, decreased the bending strength, and shifted the failure mode from top face sheet delamination to top face compression failure. A theoretical analysis revealed that this increase in the effective bending stiffness was caused by the addition of the resin honeycomb, which increased the shear stiffness. Furthermore, the FEA results indicated that the addition of a higher-stiffness honeycomb to the core redistributed the stress. These results show that foam cutting increases the flexural rigidity of thin sandwich panels as well as suppresses face sheet delamination and core compression while reducing flexural strength and promoting face compression failure owing to the stress concentration.}
+}

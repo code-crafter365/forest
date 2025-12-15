@@ -1,0 +1,10 @@
+@article{2025108971,
+title = {Editorial Board},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108971},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/S1359-835X(25)00265-9},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002659}
+}

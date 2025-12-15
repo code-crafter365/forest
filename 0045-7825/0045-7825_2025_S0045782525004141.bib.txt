@@ -1,0 +1,13 @@
+@article{WANG2025118142,
+title = {A novel WENO-CSPH method for simulating strong elastic–plastic impact dynamics in solids},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118142},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118142},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004141},
+author = {Zhanming Wang and Longkui Chen and Junshi Chen and Jineng Yao and Ziyu Zhang and Yifan Luo and Shenghong Huang},
+keywords = {Smoothed particle hydrodynamics, WENO reconstruction, Solid impact, Elastic–plastic flows},
+abstract = {This study introduces a novel weighted essentially non-oscillatory (WENO) combined with contact Smoothing particle hydrodynamics (CSPH) framework for high-fidelity simulations of elastic–plastic solid impacts, addressing persistent limitations in resolving directional stress coupling and numerical dissipation control within traditional SPH methods. While conventional SPH approaches relying on artificial viscosity or Riemann-based CSPH struggle with excessive numerical dissipation and insufficient resolution of elastoplastic double-wave structures, the proposed method integrates a third-order WENO reconstruction into the CSPH framework through three key techniques: (1) Simultaneous reconstruction of longitudinal and transverse stress–velocity components via directional tensor decomposition, overcoming prior fluid-centric schemes limited to scalar pressure–velocity reconstruction; (2) A second-order Taylor-based stencil interpolation technique that greatly reduces reconstruction errors compared to first-order counterparts while eliminating neighbor-search dependencies; (3) Adaptive WENO-P3 weighting that achieves parameter-free stabilization through smoothness indicators derived from stress gradients. Benchmark tests demonstrate second-order convergence in uniform cases and robust 1st–2nd order accuracy in non-uniform distributions, with excellent agreement in 3D Taylor impact tests and effective tensile instabilities mitigation. Crucially, the framework maintains computational practicality with 1.5–3.1× overhead relative to standard SPH while ensures manageable memory usage increase in million-particle 3D simulations, making it feasible for high-performance computing applications. By unifying high-order accuracy with Lagrangian adaptability, this work establishes a foundation for extreme solid–fluid interaction modeling, with direct implications for hyper-velocity impact analysis and dynamic material response prediction under extreme loading conditions.}
+}

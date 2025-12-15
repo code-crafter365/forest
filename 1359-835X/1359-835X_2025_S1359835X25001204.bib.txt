@@ -1,0 +1,13 @@
+@article{TENG2025108826,
+title = {Efficient preparation and multifunctional application of low shrinkage para aramid aerogels},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108826},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108826},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001204},
+author = {Fengdong Teng and Na Li and Ying Yuan and Junrong Yu and Yan Wang and Zuming Hu},
+keywords = {Multifunctional composites, Flame retardancy, Microstructural analysis, Surface treatments},
+abstract = {The complex preparation process and high shrinkage of poly(p-phenylene terephthalamide) (PPTA) aerogel limit its wider application. Herein, PPTA and heterocyclic aramid (HPPTA) prepolymer were secondary polymerized to obtain Block-PPTA (BPPTA) with both rigid and flexible segments in the molecular chain. The rigid and flexible segments in molecular chain under non-solvent enable the rapid transformation of BPPTA solutions into well-shaped BPPTA gels. The BPPTA aerogel exhibits the advantages of low shrinkage, high thermal insulation, and high mechanical strength. Then, a small amount of MXene and AgNWs were attached to the surface of BPPTA aerogels by layer-by-layer spraying method, which not only enhanced the flame retardancy capability of the aerogels, but also made organic aerogels possible to be applied in the fields of electromagnetic interference shielding and thermoelectric conversion. This work provides an ideal strategy for the efficient preparation of low shrinkage para aramid aerogels and expands the application areas of aerogels.}
+}

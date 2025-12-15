@@ -1,0 +1,13 @@
+@article{CUI2025114327,
+title = {Enhancing antibacterial performance and stability of implant materials through surface modification with polydopamine/silver nanoparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114327},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114327},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005861},
+author = {Junnan Cui and Haobo Shu and Xin Gu and Shutong Wu and Xiaodan Liu and Pan Cao},
+keywords = {Antimicrobial surfaces, Antibacterial performance, PDA-Ag particles, Antimicrobial stability},
+abstract = {Implants and various medical devices possess surfaces that are prone to bacterial colonization due to bacterial adhesion and the formation of biofilms. Therefore, inhibiting bacterial colonization is a crucial strategy for preventing infections. Although there have been reports on antibacterial surfaces, the synthetic processes involved are often complex and labor-intensive, which significantly limits their practical applications. Furthermore, there is a lack of studies investigating the interplay between antibacterial performance and stability. In this study, silver ions were reduced to form silver nanoparticles, which were then loaded onto polydopamine (PDA) particles. The successful assembly of PDA-Ag on the surface of the titanium alloy was confirmed through X-ray photoelectron spectroscopy (XPS) and energy-dispersive X-ray spectroscopy (EDS). The morphologies of the micro- and nanoparticles, as well as the surface morphology after deposition, were analyzed using scanning electron microscopy (SEM), transmission electron microscopy (TEM), and a 3D optical profilometer. The abrasion experiments conducted on the three surfaces demonstrated that the TC4@PDA–Ag3 surface exhibited superior friction performance compared to the other two surfaces. Antibacterial and antibacterial stability experiments were conducted on this series of surfaces. The results indicated that the adhesion rate of TC4@PDA–Ag3 on Escherichia coli (E. coli) was 99.68 %, while the antibacterial efficiency against Staphylococcus aureus (S. aureus) was 95.97 %. This study presents a novel approach to address the issue of implant surface infections by demonstrating resistance to bacterial adhesion and colonization, specifically against E. coli and S. aureus.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025108988,
+title = {Three-Dimensional damping behavior prediction method for sandwich Composites: A novel approach Validated by experimental modal analysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108988},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108988},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002829},
+author = {Yi-Qi Wang and Yunfei Sang and Yu Han and Tete Cao and Changhe Li and Liangzi Chen and Zelin Shi and Hang Gao},
+keywords = {Sandwich composite, Shear deformation theory, Three-dimensional damping prediction, Experiment modal analysis (EMA)},
+abstract = {A novel three-dimensional method was proposed to predict the damping behavior of carbon fiber reinforced plastic/polymethacrylimide/carbon fiber reinforced plastic (CPC) sandwich composites. Based on Mindlin shear deformation theory and Hamilton’s principle, it calculates the 3D frequency response function, particularly in the longitudinal and thickness directions, along with natural frequency, loss factor, and mode shape. Modal analysis validates the model, with maximum errors of 8.51% in natural frequency and 5.14% in thickness-direction loss factor, showing high predictive accuracy. Results also indicate that reducing core density enhances damping, causing faster energy dissipation in the thickness direction than in the longitudinal direction. This suggests that optimizing core density can improve damping performance without compromising stiffness. The proposed method serves as a practical tool for analyzing three-dimensional vibration characteristics of high-damping sandwich composites, offering useful guidance for structural design and promoting its application in aerospace and other engineering systems.}
+}

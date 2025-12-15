@@ -1,0 +1,13 @@
+@article{ROQUITO2025114326,
+title = {Curcumin-encapsulated glucan nanoparticles as an oxidative stress modulator against human hepatic cancer cells},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114326},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114326},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400585X},
+author = {Tiago Roquito and Mariana Colaço and João Panão Costa and Olga Borges},
+keywords = {Liver Cancer, Curcumin, Glucan Particles, Hepatitis B, Reactive Oxygen Species, HepG2 Cell Line},
+abstract = {In Hepatitis B patients, the virus targets liver cells, leading to inflammation and liver damage, which can result in severe complications such as liver failure, cirrhosis, and liver cancer. Therapeutic options for liver disease are currently limited. Curcumin, a polyphenol with potential protective effects against chronic diseases like cancer, suffers from poor water solubility, restricting its pharmacological applications. This study explores the encapsulation of curcumin in glucan nanoparticles (NPs) and its impact on oxidative stress in liver cancer cells. Two sizes of curcumin-loaded glucan NPs, GC111 (111 nm) and GC398 (398 nm), were produced with nearly 100 % encapsulation efficiency. Cytotoxicity studies revealed that particle size influences the extent of observed effects, with GC111 NPs causing a greater reduction in cell viability. Additionally, the smaller GC111 NPs demonstrated a higher capacity to induce oxidative stress in cancer cells by stimulating the production of ROS, NO, and the chemokine RANTES in a concentration-dependent manner. These findings suggest that the smaller GC111 NPs are promising candidates for future studies aimed at evaluating oxidative stress-induced tumor cell death mechanisms.}
+}

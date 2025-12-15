@@ -1,0 +1,13 @@
+@article{THIERY2025102481,
+title = {PET-based lesion graphs meet clinical data: An interpretable cross-attention framework for DLBCL treatment response prediction},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102481},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102481},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001587},
+author = {Oriane Thiery and Mira Rizkallah and Clément Bailly and Caroline Bodet-Milin and Emmanuel Itti and René-Olivier Casasnovas and Steven {Le Gouill} and Thomas Carlier and Diana Mateus},
+keywords = {Multimodal data fusion, Cross-attention, Lesion graphs, Interpretability, Treatment response, DLBCL, PET},
+abstract = {Diffuse Large B-cell Lymphoma (DLBCL) is a lymphatic cancer of steadily growing incidence. Its diagnostic and follow-up rely on the analysis of clinical biomarkers and 18F-Fluorodeoxyglucose (FDG)-PET/CT images. In this context, we target the problem of assisting in the early identification of high-risk DLBCL patients from both images and tabular clinical data. We propose a solution based on a graph neural network model, capable of simultaneously modeling the variable number of lesions across patients, and fusing information from both data modalities and over lesions. Given the distributed nature of DLBCL lesions, we represent the PET image of each patient as an attributed lesion graph. Such lesion-graphs keep all relevant image information while offering a compact tradeoff between the characterization of full images and single lesions. We also design a cross-attention module to fuse the image attributes with clinical indicators, which is particularly challenging given the large difference in dimensionality and prognostic strength of each modality. To this end, we propose several cross-attention configurations, discuss the implications of each design, and experimentally compare their performances. The last module fuses the updated attributes across lesions and makes a probabilistic prediction of the patient’s 2-year progression-free survival (PFS). We carry out the experimental validation of our proposed framework on a prospective multicentric dataset of 545 patients. Experimental results show our framework effectively integrates the multi-lesion image information improving over a model relying only on the most prognostic clinical data. The analysis further shows the interpretable properties inherent to our graph-based design, which enables tracing the decision back to the most important lesions and features.}
+}

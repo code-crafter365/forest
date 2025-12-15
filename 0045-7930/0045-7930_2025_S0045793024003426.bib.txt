@@ -1,0 +1,13 @@
+@article{GUERREROHURTADO2025106511,
+title = {A Python-based flow solver for numerical simulations using an immersed boundary method on single GPUs},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106511},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106511},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003426},
+author = {M. Guerrero-Hurtado and J.M. Catalán and M. Moriche and A. Gonzalo and O. Flores},
+keywords = {Immersed boundary methods, High-performance computing, Fluid dynamics, Cardiovascular flows, Fluid–structure-interaction, Computational engineering},
+abstract = {We present an efficient implementation for the simulation of three-dimensional, incompressible flow around moving bodies with complex geometries on single GPUs, based on Nvidia CUDA through Numba and Python. The flow is solved in this framework through an implementation of the Immersed Boundary Method tailored for the GPU, where different GPU grid architectures are exploited to optimize the overall performance. By targeting a single-GPU, we eliminate the need for both intra- and inter-node communication, which can potentially introduce overheads. With this approach, all simulation data remains in the GPU’s global memory at all times. We provide details about the numerical methodology, the implementation of the algorithm in the GPU and the memory management, critical in single-GPU implementations. Additionally, we verify the results comparing with our analogous CPU-based parallel solver and assess satisfactorily the efficiency of the code in terms of the relative computing time of the different operations and the scaling of the CPU code compared to a single GPU case. Overall, our tests show that the single-GPU code is between 34 to 54 times faster than the CPU solver in peak performance (96–128 CPU cores). This speedup mainly comes from the change in the method of solution of the linear systems of equations, while the speedup in sections of the algorithm that are equivalent in the CPU and GPU implementations is more modest (i.e., ×1.6−3 speedup in the computation of the non-linear terms). Finally, we showcase the performance of this new GPU implementation in two applications of interest, one for external flows (i.e., bioinspired aerodynamics) and one for internal flows (i.e., cardiovascular flows), demonstrating the strong scaling of the code in two different GPU cards (hardware).}
+}

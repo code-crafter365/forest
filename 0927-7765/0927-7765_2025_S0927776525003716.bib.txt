@@ -1,0 +1,13 @@
+@article{SUN2025114864,
+title = {Single-aggregate morphological and biomechanical detection of atherogenic aggregated low-density lipoprotein (agLDL) by atomic force microscopy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114864},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114864},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003716},
+author = {Chenhan Sun and Qinghua Sheng and Ying Qin and Yong Chen},
+keywords = {Low-density lipoprotein (LDL), Aggregated LDL (agLDL), Atomic force microscopy (AFM), Atherosclerosis, Young's modulus},
+abstract = {Aggregated low-density lipoprotein (agLDL) has long been regarded as an atherogenic factor and was recently supposed to play a driving force role in atherogenesis. However, the underlying mechanisms for its atherogenicity remain poorly understood. Here, agLDL was successfully induced by physical (vortexing) or biological (alpha-chymotrypsin or α-CT and sphingomyelinase or SMase, a protease and a phospholipase, respectively) methods, and verified by turbidimetry, size distribution, and relatively low-resolution morphology. Moreover, the produced agLDL had the aggregation degree-dependent atherogenic property according to macrophage lipid deposition data. Then, the single-aggregate morphological and biomechanical (stiffness and stickiness) properties of agLDL at early stages of aggregation (e.g., LDL dimer, trimer, and multimer) were detected by atomic force microscopy (AFM). Interestingly, intra-aggregate LDL of agLDL had a relatively larger average size than native LDL (i.e., LDL monomer). Most importantly, we revealed that agLDL has lower average Young's modulus and stronger average adhesion force than native LDL (i.e., agLDL is softer and stickier than native LDL). The softer and stickier properties of agLDL than native LDL probably are responsible for the atherogenicity of agLDL according to its aggregation degree-dependent atherogenic property. Targeting the biomechanical properties (e.g., stiffness and stickiness) of agLDL or other LDL derivatives may be a potential strategy for preventing atherosclerosis.}
+}

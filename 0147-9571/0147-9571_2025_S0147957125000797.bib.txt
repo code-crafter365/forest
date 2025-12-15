@@ -1,0 +1,13 @@
+@article{COSTA2025102371,
+title = {Spatiotemporal analysis of the bovine brucellosis vaccination rate in Minas Gerais, Brazil, from 2011 to 2022},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {122},
+pages = {102371},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102371},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000797},
+author = {Anna Cecilia Trolesi Reis Borges Costa and Yasmim Domingos {da Silva} and Julio Silvio {de Souza Bueno Filho} and James F. Lowe and Andrey Pereira Lage and Luciana Faria {de Oliveira} and Elaine Maria Seles Dorneles},
+keywords = {Disease control program, Epidemiology, Animal disease prevention},
+abstract = {The aim was to perform a spatiotemporal analysis of bovine brucellosis vaccination rate (BBVR) in Minas Gerais, Brazil, from 2011–2022 and to identify sociodemographic characteristics of cattle farmers associated with BBVR. A spatiotemporal analysis by means of a spatial autocorrelation test (Moran’s I test) and local spatial autocorrelation analysis (LISA) was conducted with the BBVR. A generalized linear mixed model (GLMM) was developed to investigate the influence of sociodemographic of cattle farmers on the BBVR from the agricultural census of 2017. The BBVR in Minas Gerais increased over time, and Moran’s I test revealed clusters of vaccination rates for all analyzed years, with low-high and high-high clusters becoming more prominent over the years. The GLMM revealed a positive influence of technical assistance, disease and parasite control, and sex on the BBVR. Therefore, our results elucidate the improvement of BBVR, indicating sociodemographic characteristics and regions that should be considered for tailored brucellosis control measures.}
+}

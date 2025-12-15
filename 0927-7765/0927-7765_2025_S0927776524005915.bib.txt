@@ -1,0 +1,13 @@
+@article{MOGLIA2025114332,
+title = {Synthesis of dumbbell-like heteronanostructures encapsulated in ferritin protein: Towards multifunctional protein based opto-magnetic nanomaterials for biomedical theranostic},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114332},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114332},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005915},
+author = {Italo Moglia and Margarita Santiago and Andreas Arellano and Sebastián {Salazar Sandoval} and Álvaro Olivera-Nappa and Marcelo J. Kogan and Mónica Soler},
+keywords = {Ferritin, Nanobiotechnology, Opto-magnetic, Nanoparticles},
+abstract = {Dumbbell-like hetero nanostructures based on gold and iron oxides is a promising material for biomedical applications, useful as versatile theranostic agents due the synergistic effect of their optical and magnetic properties. However, achieving precise control on their morphology, size dispersion, colloidal stability, biocompatibility and cell targeting remains as a current challenge. In this study, we address this challenge by employing biomimetic routes, using ferritin protein nanocages as template for these nanoparticles’ synthesis. We present the development of an opto-magnetic nanostructures using the ferritin protein, wherein gold and iron oxide nanostructures were produced within its cavity. Initially, we investigated the synthesis of gold nanostructures within the protein, generating clusters and plasmonic nanoparticles. Subsequently, we optimized the conditions for the superparamagnetic nanoparticles synthesis through controlled iron oxidation, thereby enhancing the magnetic properties of the resulting system. Finally, we produce magnetic nanoparticles in the protein with gold clusters, achieving the coexistence of both nanostructures within a single protein molecule, a novel material unprecedented to date. We observed that factors such as temperature, metal/protein ratios, pH, dialysis, and purification processes all have an impact on protein recovery, loading efficiency, morphology, and nanoparticle size. Our findings highlight the development of ferritin-based nanomaterials as versatile platforms for potential biomedical use as multifunctional theranostic agents.}
+}

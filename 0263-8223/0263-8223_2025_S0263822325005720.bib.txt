@@ -1,0 +1,13 @@
+@article{NIU2025119407,
+title = {High-precision machining of Cf/C-SiC ceramic matrix composites by innovative laser assisted ultrasonic grinding},
+journal = {Composite Structures},
+volume = {370},
+pages = {119407},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119407},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005720},
+author = {Fangyong Niu and Zheng Li and Xintong Cai and Qihao Zhang and Liangliang Li and Jinbo Niu and Renke Kang and Zhigang Dong and Yan Bao and Dongjiang Wu and Guangyi Ma},
+keywords = {Ceramic matrix composites, Machining precision, Surface quality, Laser assisted ultrasonic grinding, C/C-SiC, Grooves},
+abstract = {Ceramic matrix composites (CMCs) are increasingly adopted for thermal-end components in advanced aerospace systems. Laser assisted ultrasonic grinding (LAUG), a recently developed method, enables efficient and low-damage machining of CMCs, yet its influence on machining precision remains unclear. This study focuses on the comparison of conventional grinding (CG), ultrasonic assisted grinding (UAG), and LAUG machining of grooves in Cf/C-SiC composites. Results show that laser treatment generates a trapezoidal thin-wall array in Cf/C-SiC, softening the SiC matrix and 90° fiber bundles by 72.1 % and 34.3 %, respectively. The hardness difference is reduced by 76.7 %, mitigating material heterogeneity and enhancing machinability. Compared with CG, LAUG improves groove sidewall verticality, bottom surface parallelism, and dimensional precision by 53.7 %, 76.6 %, and 93.2 %, respectively. Additionally, LAUG reduces bottom surface roughness and corner rounding radius by 45.9 % and 37.2 %, while grinding force amplitude and range decrease by up to 64.8 % and 75.8 %. The reduced deviation between theoretical and actual grinding trajectories enhances machining precision significantly. This study demonstrates that LAUG achieves high-precision machining of CMCs components.}
+}

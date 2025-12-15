@@ -1,0 +1,13 @@
+@article{LI2025102523,
+title = {Liver lesion segmentation in ultrasound: A benchmark and a baseline network},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102523},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102523},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000321},
+author = {Jialu Li and Lei Zhu and Guibao Shen and Baoliang Zhao and Ying Hu and Hai Zhang and Weiming Wang and Qiong Wang},
+keywords = {Image segmentation, Deep neural network, Transformer network, Ultrasound image, Liver tumor},
+abstract = {Accurate liver lesion segmentation in ultrasound is a challenging task due to high speckle noise, ambiguous lesion boundaries, and inhomogeneous intensity distribution inside the lesion regions. This work first collected and annotated a dataset for liver lesion segmentation in ultrasound. In this paper, we propose a novel convolutional neural network to learn dual self-attentive transformer features for boosting liver lesion segmentation by leveraging the complementary information among non-local features encoded at different layers of the transformer architecture. To do so, we devise a dual self-attention refinement (DSR) module to synergistically utilize self-attention and reverse self-attention mechanisms to extract complementary lesion characteristics between cascaded multi-layer feature maps, assisting the model to produce more accurate segmentation results. Moreover, we propose a False-Positive–Negative loss to enable our network to further suppress the non-liver-lesion noise at shallow transformer layers and enhance more target liver lesion details into CNN features at deep transformer layers. Experimental results show that our network outperforms state-of-the-art methods quantitatively and qualitatively.}
+}

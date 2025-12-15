@@ -1,0 +1,13 @@
+@article{CHENG2025114979,
+title = {Glabridin-encapsulated liposomes targeting melanocytes through the melanocortin 1 receptor},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114979},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114979},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004862},
+author = {Lushi Cheng and Junying Xu and Anning Wang and Sen Hou and Anzhang Li},
+keywords = {Targeted delivery, Liposomes, Glabridin, Whitening, Melanogenesis},
+abstract = {Glabridin, a potent skin-whitening agent extracted from Glycyrrhiza glabra L., shows immense therapeutic potential. However, its application is hindered by its poor water solubility and limited ability to penetrate the stratum corneum. To address this problem, we designed a melanocyte-targeted liposome system conjugated with palmitoyl tripeptide-8 to selectively target the melanocortin 1 receptor (MC1R) expressed on melanocytes. This liposome-based strategy not only improved the skin permeation and accumulation of glabridin in melanocytes but also enhanced its efficacy. The uptake of glabridin-encapsulated liposomes was 1.9- and 3.4-fold higher in melanocytes than in human skin fibroblasts and HaCaT cells, respectively. Additionally, our results showed that the glabridin-encapsulated liposomes could competitively bind to MC1R in the presence of α-MSH, achieving synergistic effects by inhibiting the MC1R signaling pathway. Both in vitro and in vivo experiments demonstrated that the melanocyte-targeted liposome formulation significantly outperformed pure glabridin and glabridin mixed with palmitoyl tripeptide-8 in terms of skin-whitening effects. Collectively, this study presents a promising liposome-based strategy for maximizing glabridin efficacy, offering a new potential avenue for melanoma treatment.}
+}

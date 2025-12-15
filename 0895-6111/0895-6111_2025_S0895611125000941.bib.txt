@@ -1,0 +1,13 @@
+@article{ZHAO2025102585,
+title = {Three-step-guided visual prediction of glioblastoma recurrence from multimodality images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102585},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102585},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000941},
+author = {Chen Zhao and Meidi Chen and Xiaobo Wen and Jianping Song and Yifan Yuan and Qiu Huang},
+keywords = {Glioblastoma (GBM), Convolutional neural network (CNN), Diffusion, Magnetic resonance imaging (MRI), Machine learning},
+abstract = {Accurately predicting glioblastoma (GBM) recurrence is crucial for guiding the planning of target areas in subsequent radiotherapy and radiosurgery for glioma patients. Current prediction methods can determine the likelihood and type of recurrence but cannot identify the specific region or visually display location of the recurrence. To efficiently and accurately predict the recurrence of GBM, we proposed a three-step-guided prediction method consisting of feature extraction and segmentation (FES), radiomics analysis, and tag constraints to narrow the predicted region of GBM recurrence and standardize the shape of GBM recurrence prediction. Particularly in FES we developed an adaptive fusion module and a modality fusion module to fuse feature maps from different modalities. In the modality fusion module proposed, we designed different convolution modules (Conv-D and Conv-P) specifically for diffusion tensor imaging (DTI) and Positron Emission Computed Tomography (PET) images to extract recurrence-related features. Additionally, model fusion is proposed in the stable diffusion training process to learn and integrate the individual and typical properties of the recurrent tumors from different patients. Contrasted with existing segmentation and generation methods, our three-step-guided prediction method improves the ability to predict distant recurrence of GBM, achieving a 28.93 Fréchet Inception Distance (FID), and a 0.9113 Dice Similarity Coefficient (DSC). Quantitative results demonstrate the effectiveness of the proposed method in predicting the recurrence of GBM with the type and location. To the best of our knowledge, this is the first study combines the stable diffusion and multimodal images fusion with PET and DTI from different institutions to predict both distant and local recurrence of GBM in the form of images.}
+}

@@ -1,0 +1,13 @@
+@article{HU2025119264,
+title = {A micromechanical solving method integrating the physics-informed neural network with the self-consistent cluster analysis method for composites laminate},
+journal = {Composite Structures},
+volume = {368},
+pages = {119264},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119264},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004295},
+author = {Wenlong Hu and Hui Cheng and Caoyang Wang and Liang He and Kaifu Zhang and Yuan Li and Biao Liang},
+keywords = {CFRPs laminate, UD-RVE, SCA method, PINN, Computational mechanics},
+abstract = {The concurrent multiscale method enables to obtain both the macro and micro deformations simultaneously, making it a valuable approach for analyzing the inherent multiscale deformations of carbon fiber reinforced polymer composites (CFRPs) laminate. However, the high computational cost resulting from the unidirectional representative volume element (UD-RVE) of CFRPs laminate, is one of the biggest obstacles hindering the concurrent multiscale method widely applied for CFRPs laminate in practice. To address this issue, this work proposed a solving method, which integrated the self-consistent cluster analysis (SCA) and the physics-informed neural network (PINN), to efficiently and accurately compute the nonlinear mechanical response of UD-RVE. The SCA method was used to speed up the micro mechanics solution of UD-RVE by means of model order reduction, while the PINN was for accelerating the solution of elastoplastic response of resin matrix. To validate the proposed method, simulations from SCA-PINN were compared with the direct numerical simulations (DNS). The results show that the proposed method can accurately capture the nonlinear mechanical responses and strain distributions subjected to various loads, and its computational efficiency is about 4754 times faster than the FEM, and 9 times faster than the traditional SCA. The proposed efficient approach provides a valuable tool for engineering applications of concurrent multiscale methods.}
+}

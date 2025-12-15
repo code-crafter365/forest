@@ -1,0 +1,13 @@
+@article{NERI2025102616,
+title = {Surgical augmented reality registration methods: A review from traditional to deep learning approaches},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102616},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102616},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001259},
+author = {Alberto Neri and Veronica Penza and Chiara Baldini and Leonardo S. Mattos},
+keywords = {Surgical augmented reality, Registration, Point cloud registration, Deep learning registration, 3D-2D registration, Laparoscopy},
+abstract = {Augmented Reality (AR) has gained significant interest within the research community in the past two decades. In surgery, AR overlays critical information directly onto the surgeon’s visual field, thus enhancing situational awareness by providing navigation guidance and contributing to safer, more precise, and more efficient surgical interventions. This review examines registration methods suitable for laparoscopic scenarios involving a pre-operative 3D model and an intra-operative 2D or 3D video, both in rigid and non-rigid conditions. We started analysing traditional methods, which do not include Deep Learning (DL). However, in recent years, DL has revolutionized the landscape of computer vision in many tasks. So, we investigated these methods in our scope, identifying two main categories: hybrid DL-enhanced methods and DL point cloud registration methods. The former applies DL across different stages of the traditional surface-based methods to enhance their performances. The latter uses end-to-end approaches to estimate the transformation matrix between two input point clouds. For each category discussed, we highlight both the strengths and weaknesses associated with the challenges of surgical AR to aid comprehension, even for those less familiar with the topic.}
+}

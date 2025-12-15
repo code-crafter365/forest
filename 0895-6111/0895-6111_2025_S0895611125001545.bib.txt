@@ -1,0 +1,20 @@
+@article{HAN2025102645,
+title = {Mamba-based context-aware local feature network for vessel detail enhancement},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102645},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102645},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001545},
+author = {Keyi Han and Anqi Xiao and Jie Tian and Zhenhua Hu},
+keywords = {Vessel segmentation, Mamba, Deep learning, NIR-II fluorescence imaging},
+abstract = {Objective
+Blood vessel analysis is essential in various clinical fields. Detailed vascular imaging enables clinicians to assess abnormalities and make timely, effective interventions. Near-infrared-II (NIR-II, 1000–1700 nm) fluorescence imaging offers superior resolution, sensitivity, and deeper tissue visualization, making it highly promising for vascular imaging. However, deep vessels exhibit relatively low contrast, making differentiation challenging, and accurate vessel segmentation remains a difficult task.
+Methods
+We propose CALFNet, a context-aware local feature network based on the Mamba module, which can segment more vascular details in low-contrast regions. CALFNet overall follows a UNet-like architectures, with a ResNet-based encoder for extracting local features and a Mamba-based context-aware module in the latent space for the awareness of the global context. By incorporating the global vessel contextual information, the network can enhance segmentation performance in locally low-contrast areas, capturing finer vessel structures more effectively. Furthermore, a feature-enhance module between the encoder and decoder is designed to preserve critical historical local features from the encoder and use them to further refine the vascular details in the decoder's feature representations.
+Results
+We conducted experiments on two types of clinical datasets, including an NIR-II fluorescent vascular imaging dataset and retinal vessel datasets captured under visible light. The results show that CALFNet outperforms the comparison methods, demonstrating superior robustness and achieving more accurate vessel segmentation, particularly in low-contrast regions.
+Conclusion and Significance
+CALFNet is an effective vessel segmentation network showing better performance in accurately segmenting vessels within low-contrast regions. It can enhance the capability of NIR-II fluorescence imaging for vascular analysis, providing valuable support for clinical diagnosis and medical intervention.}
+}

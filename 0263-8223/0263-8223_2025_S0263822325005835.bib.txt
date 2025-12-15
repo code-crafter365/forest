@@ -1,0 +1,13 @@
+@article{ZHANG2025119418,
+title = {Quantification evaluation of tensile damage in SiO2f/SiO2 ceramic matrix composites based on X-ray computed tomography and acoustic emission techniques},
+journal = {Composite Structures},
+volume = {370},
+pages = {119418},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119418},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005835},
+author = {Bo Zhang and Duoqi Shi and Changqi Liu and Qianni Wang and Yangyi Yu and Zhenyu Wang and Xiaoguang Yang},
+keywords = {Ceramic matrix composites, Defect spatiotemporal characteristics, Real-time damage assessment, X-ray computed tomography, Acoustic emission monitoring},
+abstract = {Ceramic matrix composites (CMCs) are highly known for their exceptional high-temperature resistance. However, the large-scale application has been limited by their inherent brittleness and variability, with these challenges being addressed through the application of damage monitoring methods. Current research primarily focuses on qualitative damage diagnosis, with a notable lack of quantitative assessments of damage evolution under high-temperature conditions. In this study, X-ray computed tomography (X-CT), digital image correlation, and acoustic emission (AE) technologies were employed to systematically analyze the tensile behavior of SiO2f/SiO2 composites across different temperatures. Initially, X-CT was utilized to identify and segment material defects, and an initial state assessment model was established to achieve accurate quantification of damage in the unloaded state, thereby identifying potential fracture risk areas. The tensile properties of the composites are minimally affected by high temperatures up to 800 °C, with brittle fracture characteristics observed at both room and elevated temperatures. An AE-based process damage assessment model was developed to monitor and quantify damage accumulation and evolution in real-time during the loading process. Ultimately, an integrated model combining X-CT, AE technology, and machine learning algorithms was developed to map the spatiotemporal characteristics of defects to damage degree, providing a novel approach for real-time damage evaluation and performance prediction. This work fills a critical gap in the quantitative damage assessment of CMCs and establishes a robust theoretical and technical foundation for real-time health monitoring and future applications of the materials.}
+}

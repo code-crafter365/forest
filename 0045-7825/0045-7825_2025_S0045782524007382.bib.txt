@@ -1,0 +1,13 @@
+@article{ZHANG2025117484,
+title = {Towards high-order consistency and convergence of conservative SPH approximations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117484},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117484},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007382},
+author = {Bo Zhang and Nikolaus Adams and Xiangyu Hu},
+keywords = {Smoothed particle hydrodynamics (SPH), Reverse kernel gradient correction (RKGC), Conservative approximation, First-order consistency, Particle relaxation, Transport-velocity formulation},
+abstract = {Smoothed particle hydrodynamics (SPH) offers distinct advantages for modeling many engineering problems, yet achieving high-order consistency in its conservative formulation remains to be addressed. While zero- and higher-order consistencies can be obtained using particle-pair differences and kernel gradient correction (KGC) approaches, respectively, for SPH gradient approximations, their applicability for discretizing conservation laws in practical simulations is limited due to their lack of discrete conservation. Although the standard anti-symmetric SPH approximation is able to achieve conservation and zero-order consistency through particle relaxation, its straightforward extensions with the KGC fail to satisfy zero- or higher-order consistency. In this paper, we propose the reverse KGC (RKGC) formulation, which is conservative and able to satisfy up to first-order consistency when particles are relaxed based on the KGC matrix. Extensive numerical tests show that the new formulation considerably improves the accuracy of the Lagrangian SPH method. In particular, it is able to resolve the long-standing high-dissipation issue for simulating free-surface flows. Furthermore, with fully relaxed particles, it enhances the accuracy of the Eulerian SPH method even when the ratio between the smoothing length and the particle spacing is considerably reduced. The reverse KGC formulation holds the potential for extension to even higher-order consistencies with a pending challenge in addressing the corresponding particle relaxation problem.}
+}

@@ -1,0 +1,13 @@
+@article{CUI2025118359,
+title = {Thermodynamically consistent coupled chemo-thermo-mechanical model of interfaces in overmolded thermoplastic parts},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118359},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118359},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006310},
+author = {Junhe Cui and Tiansheng Liu and Michele Valsecchi and Martin Giersberg and Hakan Çelik and Jaan-Willem Simon and Sanat Kumar and Jan Petersen and Jacob Fish},
+keywords = {Overmolding, Semicrystalline polymer, Thermodynamically consistent multiphysics modeling, Interfacial strength, Manufacturing-induced damage},
+abstract = {Achieving reliable bonding between dissimilar semicrystalline polymers in overmolded components remains a critical challenge in advanced manufacturing, with significant implications for structural integrity, process efficiency, and material design. This work introduces a transformational, thermodynamically consistent multiphysics framework that, for the first time, captures the full coupling between heat conduction, crystallization, deformation, and nanoscale polymer diffusion during the cooling stage of the overmolding process. The framework rigorously links manufacturing conditions to the mechanical performance of the final product by integrating process-induced residual stresses, interfacial crystallinity, and polymer interpenetration into a cohesive zone model whose fracture properties evolve dynamically. Unlike existing approaches, which rely on phenomenological models or decoupled analyses, our formulation provides predictive capability grounded in continuum thermodynamics and validated by experimental observations. This enables not only the detection of manufacturing-induced interfacial defects but also virtual process optimization through simulation. The resulting model serves as a digital twin for overmolded thermoplastics, offering a powerful new tool for engineering high-performance composite parts in automotive, aerospace, and biomedical applications.}
+}

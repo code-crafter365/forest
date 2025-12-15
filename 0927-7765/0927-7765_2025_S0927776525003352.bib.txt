@@ -1,0 +1,13 @@
+@article{SUN2025114828,
+title = {Fluorescence and photothermal dual-modal image guided integrated diagnosis and treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114828},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114828},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003352},
+author = {Wan Sun and Xue-Feng Wang and Fan Yang and Ming-Qiong Tong and Rongqian Dong and Chunbo He and Jin-E. Wang and Chao Zhu and Yue-Wu Zhao and Zhong-Lin Lu},
+keywords = {Integrated diagnosis and treatment, Dual-modal image, Gene delivery, Fluorescence imaging, Photothermal imaging},
+abstract = {The early diagnosis and real-time monitoring of cancer are great significance for the establishment of integrated diagnosis and treatment systems. In this study, organic molecules as an all-in-one phototheranostic named FL-DPP2 nanoparticles was developed for monitoring the location and size of tumour and for achieving photo and gene synergistic therapy. The photothermal conversion efficiency (η) of FL-DPP2 nanoparticles reached 29.4 % and the quantum yield of 1O2 production was 38 %. In addition, it can deliver the p53 gene into nucleus rapidly under laser irradiation, which induced synergistic cancer cells apoptosis with effective tumor growth inhibition. This work provided an innovative strategy to design and constructed all-in-one nanoplatforms for clinical phototheranostics to realize dual-modal image guided integrated diagnosis and treatment.}
+}

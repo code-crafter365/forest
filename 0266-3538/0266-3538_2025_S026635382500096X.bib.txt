@@ -1,0 +1,13 @@
+@article{HUANG2025111128,
+title = {Conformal Al2O3 coating layer improves electrical insulation of the oriented carbon fibers arrays for highly thermally conductive interface materials},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111128},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111128},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500096X},
+author = {Min Huang and Ruibang Xie and Zhiqian Wang and Chiyu Wen and Nizao Kong and Chenming Feng and Kaiwen Hou and Zongyun Shao and Fei Han},
+keywords = {Carbon fiber, Ceramic coating, Orientation structure, Thermal interface materials},
+abstract = {Mesophase pitch-based carbon fiber is highly sought after in electronic packaging applications due to its excellent thermal conductivity and mechanical properties. However, its poor electrical insulation limits its usage in certain electronic packaging applications. Herein, the carbon fiber is coated with insulating alumina (Al2O3) ceramic to improve the insulation properties of the thermal interface materials. The Al2O3 coating is formed directly onto the surface of carbon fiber using the sol-gel method and subsequent heat treatment, which substantially improves the insulation of the carbon fiber with an increased powder resistivity of nearly 42 times. Subsequently, the thermally conductive carbon fiber fillers are neatly aligned in the silicone rubber matrix along the vertical direction of heat transfer, which results in excellent properties of the prepared thermally conductive pads. The carbon fiber-filled pads exhibit a high thermal conductivity of 14.17 W m−1 K−1, a high resistivity of 1.12 × 1010 Ω cm, a medium breakdown voltage of 2.4 kV mm−1, and a favorable compression ratio (@45 psi) of 54.7 %. This work offers a feasible approach for the development of carbon fiber fillers with integrated thermal conductivity and electrical insulation, leading to the expanded application of carbon fiber in electronic packaging.}
+}

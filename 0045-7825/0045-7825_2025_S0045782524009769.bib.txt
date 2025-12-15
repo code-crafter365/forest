@@ -1,0 +1,13 @@
+@article{ARMERO2025117720,
+title = {A new finite element interpolation of the Cosserat directors for nonlinear three-dimensional Kirchhoff rods},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117720},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117720},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009769},
+author = {F. Armero},
+keywords = {Cosserat rods, Thin Kirchhoff rods, Finite elements, Hermite interpolations, Orthonormality of the Cosserat frame, Invariance},
+abstract = {We present in this contribution an interpolation of the rotations describing the Cosserat frame for a Kirchhoff rod. The frames are characterized by the director perpendicular to the cross section being also aligned with the tangential direction of the rod’s axis. The formulation is based on a G1 Hermite interpolation of the axis, described by the position of the rod itself but also with the above tangential direction to it. In this way, the second derivative of the axis position can be easily obtained, as needed in these rods without any transverse shear strain. Orthogonal to this tangential director are the other two directors corresponding to the cross section of the rod. The new interpolation of the rotation considers two parts. We first begin with an intermediate interpolation for a frame based on the slerp function (the so-called spherical linearized interpolation), and then a secondary rotation that leads the director perpendicular to the cross section to align with the tangential direction previously calculated of the rod’s axis. All this is given in an exact closed-form expressions. The formulation is then analyzed in terms of their invariant properties, in both the nonlinear and linearized forms. In this setting, the formulation is then shown that it is invariant, and that the nodal forces and moments do satisfy their equilibrium relations. Several numerical examples are presented showing these properties, as well as the improvement gained with other formulations not showing those orthonormality of the Cosserat frame in the full three-dimensional range.}
+}

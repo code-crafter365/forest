@@ -1,0 +1,12 @@
+@article{PERON2025109478,
+title = {Residual stresses and strains during laser assisted tape placement of thermoplastic composite: Multi-physical modelling and experimental validation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109478},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109478},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007730},
+author = {Mael Péron and Anna-Maria El Bayssari and Anaïs Barasinski and Frédéric Jacquemin and Federica Daghia and Damien Guillon},
+keywords = {Thermoplastic composite, Laser Assisted Tape Placement (LATP), Residual stresses, Thermo-mechanical behaviour},
+abstract = {The prediction of residual stresses and strains during laser-assisted tape placement of thermoplastic composite has been investigated by numerous studies in the literature. They are however rarely validated compared to experimental results and based on simplifications of the material thermomechanical behaviour. This study proposes a multi-physical model to address the heat transfer, crystallization kinetics, the induced thermal and crystallization strains as well as the mechanical behaviour of the material during processing. The thermal and crystallization models were already validated in a previous study, and the mechanical behaviour is described with an incremental linear elastic constitutive law and the Classical Lamination Theory. The thermomechanical properties are based on values from the literature and the supplied datasheet. Without any fine tuning of the model, predicted curvatures of cross ply laminates are well described, as well as their evolution with the temperature after manufacturing and during annealing. The measured and calculated curvatures are found in excellent agreement with errors comprised between 2% and 13%. A sensitivity analysis demonstrates that the developed model is more able to correctly reproduce the experimentally observed material behaviour compared to simplified approaches found in the literature.}
+}

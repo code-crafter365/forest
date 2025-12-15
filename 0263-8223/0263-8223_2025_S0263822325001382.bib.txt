@@ -1,0 +1,13 @@
+@article{KUTHE2025118973,
+title = {Debonding and surface degradation of protective coatings of wind turbine blades due to fatigue in stochastic rain scenario},
+journal = {Composite Structures},
+volume = {358},
+pages = {118973},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118973},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001382},
+author = {Nikesh Kuthe and Puneet Mahajan and Suhail Ahmed and Leon Mishnaevsky},
+keywords = {Wind turbine blade, Raindrop impact, Coating erosion, Fatigue damage, Stochastic process},
+abstract = {The wind turbine blade is a layered structure consisting of coating, putty and composite laminate. Repetitive raindrop impacts of a random nature can cause fatigue damage in the layers leading to interlayer debonding. This study introduces a computational model that integrates cohesive elements at the coating-putty and putty-composite interfaces. The model incorporates shockwave interactions due to repeated impacts to study the fatigue life of the blade coating, including debonding-induced erosion. A Coupled Eulerian-Lagrangian (CEL) analysis calculates impact pressures from individual raindrops of different diameters on a blade, developing a library of pressure time histories for each diameter. A stochastic rain scenario is generated to define raindrop size distribution with respect to time and location. The impact pressure library is integrated with the stochastic rain scenario to predict localized stresses from repetitive impacts. Fatigue damage evolution laws are employed for coating and cohesive elements to estimate the cumulative damage growth in the coating and interface between the layers for each impact. The coating and putty are assumed to be viscoelastic, and the composite substrate is taken as elastic. The coating and cohesive zone’s damage initiation and evolution equations are implemented via a user-defined subroutine in ABAQUS/Explicit. The work’s notable contribution is the identification of failure mechanisms in a stochastic rain scenario at varying impact velocities. It highlights that debonding at the coating-putty interface primarily drives coating erosion, rather than damage to the coating itself. The model’s prediction for the number of drop impacts leading to erosion closely matches those with the Rain Erosion Test in the literature and are corroborated by field observations.}
+}

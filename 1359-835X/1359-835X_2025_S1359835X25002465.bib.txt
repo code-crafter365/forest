@@ -1,0 +1,13 @@
+@article{GONG2025108952,
+title = {Titanium dioxide whiskers functionalized with organic–inorganic hybrid silica coatings for multifaceted enhancement of high-performance polybutylene terephthalate nanocomposites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108952},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108952},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002465},
+author = {Yankun Gong and Peng Liu and Juan Chen and Yanfen Ding and Haijun Fan and Mingshu Yang},
+keywords = {Titanium dioxide whisker, Coating, Nanocomposites, Mechanical properties},
+abstract = {Plastics with all-good stiffness, strength, and toughness properties can hardly been achieved through a whisker-filling method, even after the functionalization on whiskers. The titanium dioxide whiskers, with limited studies focusing on their effect to the tribology and antistatic properties of the composites, require more investigation on their reinforcing effects to the functional engineering plastics. In this work, rutile titanium dioxide whiskers coated by organic–inorganic hybrid silica (CRTs) were prepared through a co-hydrolysis and co-condensation method. CRT and uncoated whiskers (RT) were melt-blended with polybutylene terephthalate (PBT) to prepare nanocomposites, with various properties studied. The tensile/flexural strength and modulus, impact strength, dielectric constant, heat deformation temperature and thermal conductivity of PBT nanocomposites filled with 50% RT improved by 59%/45%, 376%/375%, 19%, 108%, 170%, 114%, respectively. More interestingly, these properties improved further with 50 wt% CRT added, accurately by 71%/67%, 342%/416%, 22%, 104%, 174%, 137%. The reinforcing mechanisms by RT and CRT were investigated. The neat PBT showed a brittle fracture behavior, while the RT(CRT)/PBT composites exhibited ductile fracture with polymer fibrils, whisker pulling out and whisker breaking. CRT enhanced the mechanical properties, and meanwhile reduced the dielectric loss and apparent viscosity for PBT, which was due to the improved interfacial compatibility deriving from the functional coating.}
+}

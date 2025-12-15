@@ -1,0 +1,13 @@
+@article{GUPTA2025118997,
+title = {Effects of layer imperfections and material gradation on circumferential shear horizontal waves in cylindrical piezoelectric composite structure},
+journal = {Composite Structures},
+volume = {359},
+pages = {118997},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118997},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500162X},
+author = {Vipin Gupta and Sunita Kumawat and Sumit Kumar Vishwakarma and M S Barak and Soumik Das},
+keywords = {SH-wave, Cylinder, Piezoelectric, Functionally graded, Self-reinforced, Surface response},
+abstract = {This study examines the propagation of circumferential shear horizontal (SH) waves through a cylindrical composite structure with three concentric layers. The configuration includes an innermost functionally graded orthotropic (FGO) layer, a self-reinforced (SR) middle layer for mechanical stability, and an outer piezoelectric (PE) layer designed to enhance sensitivity for sensor and actuator applications. The interfaces between the layers are imperfectly bonded, leading to mechanical and electro-mechanical coupling imperfections. Dispersion relations were developed under specific boundary conditions, revealing how interface imperfections, initial stresses, and changes in radii influence the wave phase velocity. This research also explores the complex interlayer surface response, a phenomenon often overlooked in prior studies, offering new insights into layer interactions and their effects on wave propagation. Results indicate a strong wavenumber dependency of phase velocity with significant variations due to functional gradation and higher angular modes. The FGO layer shows the highest stress levels, while the PE layer contributes minimally to stress but plays a crucial role in electromechanical conversion. Interface imperfections and initial stress in the PE layer subtly alter stress distribution, affecting the overall performance of the composite structure. These findings enhance the functionality of surface acoustic wave sensors, piezoelectric actuators, and other related devices.}
+}

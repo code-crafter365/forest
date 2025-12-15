@@ -1,0 +1,13 @@
+@article{LING2025109023,
+title = {Dual-engineered heat transfer pathways via ice-templating and hot-pressing for enhanced anisotropic thermal conductivity},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109023},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109023},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003173},
+author = {ZhiWei Ling and Qiuchen Wang and Bin Wu and Ru Xia and Jiasheng Qian},
+keywords = {Boron nitride-coated silver wires, Heat transfer pathways, Anisotropic thermal conductivity},
+abstract = {The ability to dissipate accumulated heat in integrated circuits determines the performance, safety, and service life of electronic devices. The regulation of orderly heat transfer pathways in composites is a breakthrough to improve the heat dissipation performance. Herein, the heat transfer property of PI-based composites along the horizontal direction was realized by twice regulation of ice-templating and hot-pressing on the transfer pathways composed of boron nitride-coated silver wires (AgNWs@BN-NH2). The in-plane thermal conductivity (4.14 W m−1 K−1) of nearly 15 times greater than the through-plane thermal conductivity (0.28 W m−1 K−1) manifested the anisotropic heat dissipation capacity of the AgNWs@BN-20/PI10. The heat transfer behavior of composites under pressure was further analyzed by finite element simulation. The change of the pressure value mapped in the model structure indicated that the secondary regulation achieved the optimal horizontal heat transfer effect. Due to the insulating and flame-retardant nature of BN-NH2, AgNWs@BN-20/PI10 exhibited volume resistivity of over 1014 Ω, limited oxygen index of ∼ 38 %, and peak heat release rate of less than 20 W g−1. This strategy offers a promising idea for the development of multifunctional polymer-based thermal management materials with directional heat transfer performance in the electronic applications.}
+}

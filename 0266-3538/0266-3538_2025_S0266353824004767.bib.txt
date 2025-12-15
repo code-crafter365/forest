@@ -1,0 +1,13 @@
+@article{QIAN2025110906,
+title = {Multiscale study of interfacial properties of carbon fiber reinforced polyphthalazine ether sulfone ketone resin matrix composites},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110906},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110906},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824004767},
+author = {Zhenyu Qian and Tianqi Zhu and Xingyao Liu and Xinyu Fan and Zhongwei Yan and Xigao Jian and Jian Xu},
+keywords = {Interfacial failure mechanism, CF/PPESK composites, Finite element analysis, Molecular dynamics, Multiscale modelling},
+abstract = {In view of the limitations of traditional research tools on interfacial failure mechanisms in fiber/PPESK composites, this work proposes a multiscale research tool to carry out an in-depth study of the interfacial behavior between fibers and matrix. Based on microdroplet debonding tests, at the mesoscopic scale, the influence of residual thermal stress on the interface damage mode is explored through finite element (FEM) simulations. The evolution mechanism of composite material interfaces in spatial and temporal dimensions is examined based on changes in interfacial stress distribution, energy dissipation, and damage morphology during the debonding process, which can be summarized as follows: accompanied by elastic-plastic deformation and friction effects, the progressive process from localized to complete failure presents a dominant Type II damage mode at the interface. To further explore the interface failure mechanism at the molecular level, an interface model of CF/PPESK composite materials was established using molecular dynamics (MD) method. By monitoring the atom movement trend, the “fiber-matrix displacement synergistic effect" in the interfacial shear damage process was revealed, thereby establishing a multiscale mapping relationship of composite material interface. Based on this, the combination of FEM and MD was utilized to investigate the interface damage process of composite materials under different service conditions and to reasonably predict the initiation and expansion of microcracks. This study provides a pioneering perspective on interface damage research in composite materials with a “top-down” multiscale approach.}
+}

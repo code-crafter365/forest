@@ -1,0 +1,13 @@
+@article{WANG2025119226,
+title = {Electromechanical coupling Voronoi cell finite element method for simulating interface debonding in piezoelectric particulate composites},
+journal = {Composite Structures},
+volume = {366},
+pages = {119226},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119226},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003915},
+author = {Zhiyi Wang and Rui Zhang and Ran Guo},
+keywords = {Voronoi cell finite element model, Piezoelectric particle composites, Crack propagation, Interface debonding, Electromechanical coupling},
+abstract = {Thisstudy develops an electromechanical coupling Voronoi Cell Finite Element Method (VCFEM) for analyzing perfect bonding and debonding interfaces in piezoelectric particulate composites. Homogenization theory fails to accurately capture stress concentrations in composites with large-scale random particle distributions, whilethe traditional finite element method suffers from excessive computational demands due to mesh density requirements. The proposedVCFEM effectively addresses these issues. This study establishes electromechanical coupling Voronoi element models for inclusions. Meanwhile, based on the Voronoi cell finite element method, a modified functional is proposed that reflects the continuity conditions at the bonding interface and the generalized traction being zero at the debonding interface. In each element, stress and electric displacement fields are independently defined in matrix and inclusion subdomains, while displacement and electric potential fields are prescribed on external boundaries and matrix-inclusion interfaces. The VCFEM enables concurrent modeling of mechanical and electric field concentrations and progressive interface debonding within individual Voronoi cells. Several numerical examples are used to validate the accuracy and efficiency of the proposed method, and. they further simulate the debonding evolution in piezoelectric composites under electromechanical loading.}
+}

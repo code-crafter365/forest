@@ -1,0 +1,12 @@
+@article{WEI2025119930,
+title = {A deep learning based framework for predicting temperature-dependent mesomechanical fields in particulate composites},
+journal = {Composite Structures},
+pages = {119930},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119930},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010955},
+author = {Xin Wei and Lihua Zhao and Yiren Sun and Xuetao Zhang},
+keywords = {Particulate composites, Deep learning, U-Net, Surrogate models, Mesomechanical fields},
+abstract = {This study presents a deep learning (DL)-based framework to accurately predict temperature-dependent mesomechanical fields in particulate composites with complex mesostructures by offering surrogate models for finite element (FE) analysis. This framework first introduces a spatial attention U-Net (SA-UNet) that integrates a spatial attention (SA) module into the U-Net architecture to enhance feature extraction capability, particularly at mechanically critical regions. Additionally, a so-called temperature-oriented transfer learning method is proposed to enable prediction of temperature-dependent mechanical responses at varying temperatures through fine-tuning of pre-trained models with limited data. For rapid training data creation, a Voronoi-based pixelated mesostructure modeling method is developed, which can efficiently generate the mesostructural representations for particulate composites with high filling rates and complex mesoscopic morphologies. The framework’s effectiveness is validated by predicting temperature-dependent von Mises stress distributions in asphalt concrete mesostructures with particle area fractions varying from 37.6% to 61.8%. SA-UNet outperforms the standard U-Net for all considered temperatures, demonstrating the SA module’s critical role in capturing the inter-particle and particle–matrix interaction mechanisms. Compared to training SA-UNet from scratch, the proposed transfer learning approach achieves higher predictive accuracy and 7.5 times faster convergence while enabling an 80% reduction in data requirements.}
+}

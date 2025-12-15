@@ -1,0 +1,13 @@
+@article{HAN2025117678,
+title = {Topology optimization for nonlocal elastoplasticity at finite strain},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117678},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117678},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009320},
+author = {Jike Han and Kozo Furuta and Tsuguo Kondoh and Kazuhiro Izui and Shinji Nishiwaki and Kenjiro Terada},
+keywords = {Topology optimization, Plasticity, Nonlocal approach, Adjoint method, Finite strain},
+abstract = {This study is dedicated to the formulation of finite strain nonlocal elastoplastic topology optimization. In the primal problem, we employ the standard hyperelastic constitutive law and the Voce hardening laws to describe the elastoplastic response, the latter of which is enhanced by the micromorphic regularization to address the mesh-dependent issue of the finite element method or mesh-based methods. For the optimization problem, the objective function accommodates multiple objectives by writing it as the summation of several sub-functions. The continuous adjoint method is adopted for formulating the adjoint problem; therefore, the corresponding governing equations are written in a continuous manner, like the primal problem. Thus, these equations are independent of employed discretization methods and can be implemented into various simulation methodologies. In addition, the derived sensitivity is substituted into the reaction–diffusion equation to realize the update of the design variable. Both single-material (ersatz and genuine materials) and two-material (matrix and inclusion materials) topology optimizations are presented to demonstrate the promise and performance of the formulation. In particular, we discuss what values of material parameters should be given to the ersatz material, how the material nonlinearity affects the optimization result, and how the optimization trend alters by giving different values of weights of the objective function.}
+}

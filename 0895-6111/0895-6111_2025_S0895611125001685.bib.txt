@@ -1,0 +1,13 @@
+@article{QIAO2025102659,
+title = {Med-SCoT: Structured chain-of-thought reasoning and evaluation for enhancing interpretability in medical visual question answering},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {126},
+pages = {102659},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102659},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001685},
+author = {Jinhao Qiao and Sihan Li and Jiang Liu and Heng Yu and Yi Xiao and Hongshan Yu and Yan Zheng},
+keywords = {Structured chain-of-thought, Medical visual question answering, Explainable AI in healthcare, Reasoning quality evaluation},
+abstract = {Most existing medical visual question answering (Med-VQA) methods emphasize answer accuracy while neglecting the reasoning process, limiting interpretability and reliability in clinical settings. To address this issue, we introduce Med-SCoT, a vision-language model that performs structured chain-of-thought (SCoT) reasoning by explicitly decomposing inference into four stages: Summary, Caption, Reasoning, and Conclusion. To facilitate training, we propose a multi-model collaborative correction (CoCo) annotation pipeline and construct three Med-VQA datasets with structured reasoning chains. We further develop SCoTEval, a comprehensive evaluation framework combining metric-based scores and large language model (LLM) assessments to enable fine-grained analysis of reasoning quality. Experimental results demonstrate that Med-SCoT achieves advanced answer accuracy while generating structured, clinically aligned and logically coherent reasoning chains. Moreover, SCoTEval exhibits high agreement with expert judgments, validating its reliability for structured reasoning assessment. The code, data, and models are available at: https://github.com/qiaodongxing/Med-SCoT.}
+}

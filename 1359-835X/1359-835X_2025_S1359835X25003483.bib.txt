@@ -1,0 +1,13 @@
+@article{ZHAO2025109054,
+title = {The cradle test: A new experiment to characterise the compression response of pultruded rods},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109054},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109054},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003483},
+author = {Chuo Zhao and Gustavo Quino and Bohao Zhang and Paul Robinson and Richard S. Trask},
+keywords = {CFRP, Compression test, 4-point bending, Pultrusion, DIC, Test method},
+abstract = {While uniaxial compression is one of the simplest loading modes, its mechanical characterisation in composite materials along their fibre direction remains challenging. Traditional techniques such as direct compression, often fail to produce consistent failure within the gauge length, preventing the characterisation of the true compression strength and strain to failure. In this work, we introduce the “cradle test”, a novel test to characterise the mechanical response of fibre composite pultruded rods under uniaxial compression. The test gradually introduces compression via bending of the cradle test fixture. We also propose a methodology that makes use of full-field digital image correlation (DIC) data to evaluate not only the strain history on the surface of the composite rod, but also the compressive load acting on it during the test. Therefore, this technique can output the full compression strain vs. stress curves of pultruded rods. In-situ macro and post-mortem microscopic images showed that our technique produced compression failure within the gauge length. This experiment can be extended to any other material with high axial stiffness, where conventional methodologies would fail to produce consistent compressive failure within the gauge length.}
+}

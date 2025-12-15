@@ -1,0 +1,13 @@
+@article{ZOU2025108746,
+title = {Antagonistic effect of intermediate modulus carbon fibre structures on axial compressive failure of composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108746},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108746},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000405},
+author = {Wanyan Zou and Yuanjian Tong and Yu Wang and Lianghua Xu},
+keywords = {Carbon fibre, Compressive strength, Crystallite structure, Surface structure},
+abstract = {A series of polyacrylonitrile (PAN)-based carbon fibres with different crystallite structures were prepared. The study clarifies a new mechanism of axial compression instability in carbon fibres: the disordered structures are the first to deform and fail under compressive loading. This leads to instability and disorientation of the graphite crystals, ultimately causing the fibres to instability and fail. Thus, within a certain range, the growth of crystallites enhance the fibres’ resistance to buckling and compressive strength of composites. However, the increase in crystallite size leads to greater inertness on the fibre surface, adversely affecting the transverse stability of carbon fibres within composites. When the negative effect of fibre surface inertness outweighs the positive effect of crystallite growth, the compressive strength of the composite peaks and then gradually declines. This indicates an antagonistic effect of the carbon crystalline structure on the compressive strength of the composite. By modulating the surface structure of the carbon fibre, the antagonistic effects can be regulated to improve the compressive strength. This also shifts the strength peak to Lc = 2.37 nm, indirectly confirming the compressive instability mechanism.}
+}

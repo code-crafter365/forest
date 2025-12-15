@@ -1,0 +1,13 @@
+@article{WANG2025110963,
+title = {Dual covalent bond induced high thermally conductive polyimide composite films based on CNT@CN complex filler},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110963},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110963},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005335},
+author = {Fan Wang and Xiaodi Dong and Guangyi Liu and Jing-Hui Gao and Xu Wang and Jun-Wei Zha},
+keywords = {Polyimide, Thermal conductivity, Dual covalent bonding, Carbon nitride},
+abstract = {Polyimide (PI) possesses excellent high-temperature resistance, insulation properties, and mechanical properties, making it widely used as a flexible printed circuit board substrate and high-temperature electrical insulation material. However, the irregular arrangement of PI molecules results in a relatively low thermal conductivity. This work utilizes the active groups on the surface of carboxylated multi-walled carbon nanotubes (MWCNTs) and carbon nitride nanosheets (CNNS) to obtain CNTs@CN complex fillers containing covalent bonds. The thermal conductivity of CNTs@CN/PI with double covalent bonds can be up to 6.63 W m−1 K−1. The covalent bonds between fillers and fillers as well as between fillers and the matrix provide efficient and continuous pathways for phonon transmission. Additionally, finite element analysis further reveals the heat transfer mechanism of the CNTs@CN/PI composite film. Therefore, this will provide a feasible solution to enhance the thermal conductivity of PI, making it more promising for applications in electronic devices.}
+}

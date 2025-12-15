@@ -1,0 +1,13 @@
+@article{CELLEDONI2025117584,
+title = {Neural networks for the approximation of Euler’s elastica},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117584},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117584},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008387},
+author = {Elena Celledoni and Ergys Çokaj and Andrea Leone and Sigrid Leyendecker and Davide Murari and Brynjulf Owren and Rodrigo T. Sato Martín {de Almagro} and Martina Stavole},
+keywords = {Planar Euler’s elastica, Supervised learning, Neural networks, Geometric mechanics, Variational problem},
+abstract = {Euler’s elastica is a classical model of flexible slender structures relevant in many industrial applications. Static equilibrium equations can be derived via a variational principle. The accurate approximation of solutions to this problem can be challenging due to nonlinearity and constraints. We here present two neural network-based approaches for simulating Euler’s elastica. Starting from a data set of solutions of the discretised static equilibria, we train the neural networks to produce solutions for unseen boundary conditions. We present a discrete approach learning discrete solutions from the discrete data. We then consider a continuous approach using the same training data set but learning continuous solutions to the problem. We present numerical evidence that the proposed neural networks can effectively approximate configurations of the planar Euler’s elastica for a range of different boundary conditions.}
+}

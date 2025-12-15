@@ -1,0 +1,13 @@
+@article{AKAR2025102277,
+title = {Comparative assessment of brucellosis detection in dogs: In-house ELISA versus Rose Bengal Plate Test utilizing rough and smooth antigens},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {116},
+pages = {102277},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102277},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957124001541},
+author = {Kadir Akar and Ayfer Güllü Yücetepe and İsmail Hakkı Ekin and Maryam Dadar and Sevil {Erdenliğ Gürbilek}},
+keywords = {, ELISA, Brucellosis, Dog, Seroprevalence},
+abstract = {Brucella canis and smooth Brucella species infections have been reported in dogs globally. In endemic countries such as Türkiye, dogs can be infected with both species. The exact incidence of canine brucellosis in Türkiye is unknown. This study aims to investigate the seroprevalence of brucellosis in stray dogs undergoing sterilization in Van province, eastern Türkiye. In this study, a comprehensive approach was used to ensure reliable incidence of Brucella spp in the dogs. We used the Rose Bengal Plate Test (RBPT) with both antigens from smooth Brucella abortus S99 (RBPT-S) and rough B. canis (RBPT-R) Brucella species to analyze 150 dog blood serum samples. For the in-house enzyme-linked immunosorbent assay (i-ELISA), we used a rough Lipopolysaccharide (LPS) antigen from the rough strain (i-ELISA-R) and an O-polysaccharide (O-PS) antigen (i-ELISA-S) from the smooth strain obtained from the OIE Reference Laboratory in Weybridge, UK. Each serum sample underwent analysis using a total of four serological tests, ensuring a thorough and reliable evaluation. Out of 150 serum samples analyzed, 32 (21.3 %) tested positive using the RBPT-S test and 12 (6.6 %) with the RBPT-R test. The i-ELISA-R identified 8 (5.3 %) positive samples, while the i-ELISA-S detected 27 (18 %) positive samples. The presence of B. canis and other Brucella spp. infections was detected in the dog in this region, revealing that canine brucellosis was primarily caused by smooth Brucella species. The test beased -smooth antigens identified a significantly higher number of positive samples compared to the test beased -rough antigens test, suggesting a potential difference in sensitivity or specificity between the two methods. This situation was considered an important risk for both dogs and humans, underscoring the urgent need for further research and the immediate implementation of public health measures to address this issue.}
+}

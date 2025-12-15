@@ -1,0 +1,13 @@
+@article{CHEN2025104388,
+title = {EUN: Enhanced unlearnable examples generation approach for privacy protection},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104388},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104388},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001110},
+author = {Xiaotian Chen and Yang Xu and Sicong Zhang and Jiale Yan and Weida Xu and Xinlong He},
+keywords = {Deep learning, Computer vision, Image classification, Unlearnable examples, Data poisoning, Privacy protection},
+abstract = {In the era of artificial intelligence, the importance of protecting user privacy has become increasingly prominent. Unlearnable examples prevent deep learning models from learning semantic features in images by adding perturbations or noise that are imperceptible to the human eye. Existing perturbation generation methods are not robust to defense methods or are only robust to one defense method. To address this problem, we propose an enhanced perturbation generation method for unlearnable examples. This method generates the perturbation by performing a class-wise convolution on the image and changing a pixel in the local position of the image. This method is robust to multiple defense methods. In addition, by adjusting the order of global position convolution and local position pixel change of the image, variants of the method were generated and analyzed. We have tested our method on a variety of datasets with a variety of models, and compared with 6 perturbation generation methods. The results demonstrate that the clean test accuracy of the enhanced perturbation generation method for unlearnable examples is still less than 35% when facing defense methods such as image shortcut squeezing, adversarial training, and adversarial augmentation. It outperforms existing perturbation generation methods in many aspects, and is 20% lower than CUDA and OPS, two excellent perturbation generation methods, under several parameter settings.}
+}

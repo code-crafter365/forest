@@ -1,0 +1,13 @@
+@article{LI2025108649,
+title = {Multiscale modelling of dynamic progressive failure for CFRP laminates with voids subjected to low-velocity impact},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108649},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108649},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400647X},
+author = {Mengze Li and Shuran Li and Haowei Zhang and Yihan Fu and Ling Yan and Weidong Zhu and Yinglin Ke},
+keywords = {A. Laminates, B. Impact behavior, B. Porosity, Multiscale modelling},
+abstract = {This study for the first time develops a novel stochastic multiscale method to elucidate the impact of void defects on the dynamic progressive failure of multidirectional CFRP laminates subjected to low-velocity impact (LVI). Initially, void defects are characterized using optical microscopy, and a high-fidelity representative defect volume (RDV) is constructed. Following this, the impact of voids on microscopic failure and macroscopic properties is assessed by micromechanical models. Finally, the dynamic progressive failure behavior of CFRP laminates is predicted using the stochastic multiscale model and validated through LVI experiments. This model is executed in the nonlinear finite element analysis software ABAQUS via a user-defined material subroutine (VUMAT). The findings indicate that the presence of void reduces the composite’s resistance to LVI, decreases peak force, increases maximum displacement and absorbed energy, significantly affecting damage and failure mechanisms. The proposed multiscale numerical model shows excellent agreement with experimental results.}
+}

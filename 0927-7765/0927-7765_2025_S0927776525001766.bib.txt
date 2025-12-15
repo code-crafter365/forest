@@ -1,0 +1,13 @@
+@article{SAHINER2025114669,
+title = {Tannic acid-based bio-MOFs with antibacterial and antioxidant properties acquiring non-hemolytic and non-cytotoxic characteristics},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114669},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114669},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001766},
+author = {Nurettin Sahiner and Olgun Guven and Sahin Demirci and Selin S. Suner and Mehtap Sahiner and Betul Ari and Mehmet Can},
+keywords = {Tannic acid chelates, Metal phenolic networks, Tannic acid-metal interactions, Antioxidant bio-MOF, Hemocompatible metal phenolic networks},
+abstract = {Tannic acid (TA) based bio-metal phenolic networks (bio-MPNs) were prepared by using Cu(II), Zn(II), Bi(III), Ce(III), La(III), and Ti(IV) metal ions. TA-based bio-MPNs exhibited wedge-shaped pores between 16.4 and 25.8 nm pore size ranges. The higher gravimetric yield% was achieved for TA-Bi(III), and TA-Ti(IV) bio-MPNs with more than 90 %, and higher surface area was observed for TA-La(IIII) bio-MPNs as 56.2 m2/g with 17.3 nm average pore sizes. All TA-based MPNs are non-hemolytic with less than 5 % hemolysis ratio, whereas TA-based Bio-MPNs do not affect blood clotting with > 90 % blood clotting indexes except for TA-Cu(II) Bio-MPNs at 0.1 mg/mL concentration. Moreover, TA-Bi(III) and TA-Ce(III) Bio-MPNs were found to be safer materials showing no significant toxicity on L929 fibroblast cells at 100 μg/mL concentration, along with TA-based Bio-MPNs prepared with Cu(II), Zn(II), La(III), and Ti(IV) metal ions that could be safely used in in vivo applications at 1 μg/mL concentration. It has been proven by 2 different antioxidant tests that the prepared TA-based Bio-MPNs show antioxidant properties even if their TA-derived antioxidant properties decrease. Furthermore, all types of TA-based Bio-MPNs show great antimicrobial activity depending on the metal ion or microorganism types and the highest antibacterial/antifungal effect was determined for TA-Cu(II), and TA-Zn(II) Bio-MPNs with the lowest MBC/MFC values against Pseudomonas aeruginosa ATCC 10145, Bacillus subtilis ATCC 6633, and Candida albicans ATCC 10231.}
+}

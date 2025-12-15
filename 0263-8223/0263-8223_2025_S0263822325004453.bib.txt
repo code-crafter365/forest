@@ -1,0 +1,13 @@
+@article{HE2025119280,
+title = {Damage mechanism analysis of 2D C/SiC composites based on electrical resistance monitoring: electromechanical model and experimental verification},
+journal = {Composite Structures},
+volume = {368},
+pages = {119280},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119280},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004453},
+author = {Can He and Lu Li and Wenjun Huang and Chaoli Ma and Ruixiao Zheng and Hongjiao Lin},
+keywords = {C/SiC composites, Damage mechanism, Electromechanical model, Electrical resistance monitoring, Acoustic emission},
+abstract = {Electrical resistance monitoring was considered as one of the important in-situ damage monitoring techniques for ceramic matrix composites, due to its convenience, high accuracy and adaptability at high temperatures. In this work, an electromechanical model considering matrix cracks, interface damage, and fiber breakage was established, with particular emphasis on quantifying the contribution of conductive interface to the resistance-based damage monitoring. Electrical resistance and acoustic emission techniques were combined to investigate the damage process of single-layer 2D C/SiC composite during cyclic loading–unloading tensile test. The experimental result showed the good consistency with the model prediction, verifying the validity of electromechanical model. Furthermore, in the high-rate tensile test, the reliability of electrical resistance monitoring strain change was validated and the corresponding damage mechanism of single-layer 2D C/SiC composite was analyzed in detail. This work helps realize the full potential of electrical resistance monitoring, particularly in addressing the challenge of real-time monitoring the matrix crack saturation and interface damage processes, while also contributing to a better understanding of the damage mechanisms of C/SiC composites.}
+}

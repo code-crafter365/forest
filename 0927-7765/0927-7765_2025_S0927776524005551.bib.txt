@@ -1,0 +1,13 @@
+@article{REZAEI2025114296,
+title = {Enhancing leachate management with antibacterial nanocomposites incorporating plant-based carbon dots and Satureja Khuzestanica essential oils},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114296},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114296},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005551},
+author = {Ali Rezaei and Reza Monfared-Hajishirkiaee and Setareh Hosseinzadeh-Moghaddam and Manouchehr Behzadi and S. Shirin Shahangian},
+keywords = {Superabsorbent nanocomposites, Landfill leachate, Sodium polyacrylate, Plant carbon dots, Antibacterial performance},
+abstract = {Landfill leachate, a complex mixture of pollutants, poses a significant environmental hazard. This study reports the synthesis and characterization of superabsorbent nanocomposites (SANs) designed for enhanced performance in waste management applications. SANs were prepared using carboxymethyl cellulose (CMC) and sodium polyacrylate (SPA) as the main components, carbon dots (CDs) to improve absorption, and Satureja Khuzestanica essential oil (SEO) for antibacterial performance. The results demonstrated that the addition of CDs significantly increased the absorption capacity and liquid retention of the samples, with a water absorption capacity reaching up to 8621 %. Furthermore, the samples exhibited high mechanical strength, with tensile strength improving by over 100 % in the presence of CDs. The inclusion of SEO provided strong antibacterial activity against Escherichia coli and Staphylococcus aureus, with inhibition zones measuring up to 26 mm. These SANs, with their high absorption capacity, mechanical robustness, and antibacterial properties, show great potential for improving waste management practices, particularly in leachate absorption strategies.}
+}

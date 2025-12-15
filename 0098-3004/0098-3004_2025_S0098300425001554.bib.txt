@@ -1,0 +1,10 @@
+@article{2025106005,
+title = {Editorial Board},
+journal = {Computers & Geosciences},
+volume = {204},
+pages = {106005},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/S0098-3004(25)00155-4},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001554}
+}

@@ -1,0 +1,13 @@
+@article{YIN2025118517,
+title = {A novel layup process for reducing surface thermal distortion of CFRP laminate reflector},
+journal = {Composite Structures},
+volume = {351},
+pages = {118517},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118517},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006457},
+author = {Kangcheng Yin and Qingchao Sun and Zhihao Fan and Xiaokai Mu and Fei Wang},
+keywords = {CFRP, Reflector, Ply angle misalignment, Surface thermal distortion},
+abstract = {This study proposes a novel anti-symmetric folding layup process to reduce the surface thermal distortion of carbon-fiber-reinforced polymer (CFRP) reflector. Firstly, theoretical equations regarding the influencing factors of surface thermal distortion in CFRP reflector are derived, and the concept and advantages of the anti-symmetric folding layup process are introduced. Secondly, free thermal expansion analysis considering the ply angle misalignment is conducted, showing that the novel process can reduce surface thermal distortion by 36.13 % compared to traditional process. Finally, experimental samples with different layup processes are designed and manufactured, and their surface thermal distortion is detected using shear speckle interferometry. The experimental results show that compared with the traditional symmetric layup process, the double anti-symmetric folding layup process can reduce the surface thermal distortion of CFRP reflector by 32.39 %, demonstrating significant advantages in thermal stability and strong potential for practical engineering applications.}
+}

@@ -1,0 +1,13 @@
+@article{SANCHEZCARMONA2025108961,
+title = {Influence of the 90/0 ply thickness ratio on the stresses associated with the edge effect phenomenon},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108961},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108961},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002556},
+author = {S. Sánchez-Carmona and A. Barroso and E. Correa},
+keywords = {Scale effect, Free edge, Carbon and glass fibres, Cross-ply laminate},
+abstract = {The scale effect phenomenon has shed light on the thermo-mechanical behaviour of ultra-thin plies. These laminas in cross-ply laminates (under certain 90/0 thickness ratios) have given rise to a relevant edge effect phenomenon, causing significant through-the-thickness stress in the weakest ply along its free edge under both thermal and (0-longitudinal tension) mechanical loading. Thus, a biaxial stress state must be considered to analyse what happens along the free edges from experimental samples to structural components, such as drill holes. A parametric numerical analysis is performed taking three different features into account: the thickness of the ply blocks, the cross-ply stacking sequences and the type of fibre, either carbon or glass. The numerical predictions are in accordance with experimental results, which are obtained under a thermal cooldown. The biaxial stress state predictions could be used in future numerical procedures including the presence of components’ free edges.}
+}

@@ -1,0 +1,13 @@
+@article{ZHOU2025102629,
+title = {A multi-backbone cascade and morphology-aware segmentation network for complex morphological X-ray coronary artery images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102629},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102629},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001387},
+author = {Xiaodong Zhou and Huibin Wang and Lili Zhang},
+keywords = {X-ray coronary artery angiography, Deep learning, Multi-backbone cascade, Morphology-aware module},
+abstract = {X-ray coronary artery images are the ‘gold standard’ technology for diagnosing coronary artery disease, but due to the complex morphology of the coronary arteries, such as overlapping, winding and uneven contrast media filling, the existing segmentation methods often suffer from segmentation errors and vessel breakage. To this end, we proposed a multi-backbone cascade and morphology-aware segmentation network (MBCMA-Net), which improves the feature extraction ability of the network through multi-backbone encoders, and embeds a vascular morphology-aware module in the backbone network to enhance the capability of complex structure recognition, and finally introduces a centerline loss function to maintain the vascular connectivity. During the experiment, we selected 1942 clear angiograms from two public datasets (DCA111DCA1: http://personal.cimat.mx:8181/~ivan.cruz/DB_Angiograms.html. and CADICA22CADICA: https://data.mendeley.com/datasets/p9bpx9ctcv/2.) and annotated them, and also used the public ARCADE33ARCADE: https://doi.org/10.5281/zenodo.10390295. dataset for testing. Experimental results show that MBCMA-Net reaches an IoU of 87.14%, a DSC score of 92.72%, and a vascular connectivity score of 89.05%, which is better than the mainstream segmentation algorithms and can be used as a benchmark model for coronary artery segmentation. Code repository: https://gitee.com/zaleman/mbcma-net.}
+}

@@ -1,0 +1,13 @@
+@article{FERGUSON2025109059,
+title = {Compressive behaviour of uni-directional carbon fibre-reinforced pultruded profiles with manufacturing-induced fuzz ball defects},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109059},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109059},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003537},
+author = {O.V. Ferguson and J. Rifai and M.R. Wisnom and J.B. Jørgensen and L.P. Mikkelsen},
+keywords = {Fibre misalignments, Fibre volume fraction, Four-point bending, Kink band failure},
+abstract = {In this study, we quantify the detrimental effects of manufacturing-induced defects in pultruded profiles intended for the manufacture of wind turbine spar caps. An artificial fuzz ball defect is used as a case study for embedded defects causing severe localised fibre misalignments in the profile. The impact of embedded defects on the fibre structure is characterised from micrographs. Fibre volume fraction and orientation distributions are determined using segmentation techniques and the structure tensor method, respectively. We characterise the compressive strain to failure for the pristine- and defected material using a four-point bending test. A sandwich beam design is proposed to obtain compressive strain across the profile thickness and to mitigate the risk of load introduction failure when testing thick carbon fibre-reinforced pultruded profiles. The artificial fuzz ball defects are positioned near the surface of the profile; however, parts of the defect are submerged, effectively splitting the material into thin and thick sections with through-thickness fibre misalignments up to 15°. Furthermore, the embedded defect pushes surrounding fibres aside, resulting in a 20% increase in local fibre volume fractions. All pristine beams fail due to load introduction challenges, while beams with embedded artificial fuzz ball defects fail in the gauge area, where failure is associated with fibre splitting and kink band failure. A 71% reduction in the compressive strain to failure at the surface of the beam is reported between the pristine- and defected material. Thus, a significant impact of the artificial fuzz ball defect in carbon fibre-reinforced pultruded profiles is evident.}
+}

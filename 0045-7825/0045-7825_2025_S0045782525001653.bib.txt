@@ -1,0 +1,13 @@
+@article{ZHOU2025117893,
+title = {Explicit Dual-Mesh virtual element method for 2D nonlinear dynamic problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117893},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117893},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001653},
+author = {Ruopu Zhou and Zhixin Zeng and Xiong Zhang},
+keywords = {Virtual element method, Nonlinear dynamic problems, Dual mesh, Temporal stability, Contact method},
+abstract = {A novel explicit Dual-Mesh virtual element method (DM-VEM) for two dimensional nonlinear dynamic problems is proposed. The DM-VEM employs an Eulerian background grid to solve the momentum equation of the virtual element method (VEM), which significantly improves the spatial stability and the temporal stability of the VEM. An explicit critical time step formula is first developed for one dimensional problems and then extended to two dimensional problems, which takes the effect of vertex position and neighboring cell interaction into consideration. An efficient Lagrangian multiplier contact method based on the background grid is also proposed to deal with contact phenomena. Several numerical examples are studied to verify the proposed explicit DM-VEM in nonlinear dynamic problems.}
+}

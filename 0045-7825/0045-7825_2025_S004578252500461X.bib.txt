@@ -1,0 +1,13 @@
+@article{CHEN2025118189,
+title = {Modeling partially observed nonlinear dynamical systems and efficient data assimilation via discrete-time conditional Gaussian Koopman network},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118189},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118189},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500461X},
+author = {Chuanqi Chen and Zhongrui Wang and Nan Chen and Jin-Long Wu},
+keywords = {Scientific machine learning, Data assimilation, Spatiotemporal dynamical systems, Computational mechanics, Uncertainty quantification, Koopman theory},
+abstract = {A discrete-time conditional Gaussian Koopman network (CGKN) is developed in this work to learn surrogate models that can perform efficient state forecast and data assimilation (DA) for high-dimensional complex dynamical systems, e.g., systems governed by nonlinear partial differential equations (PDEs). Focusing on nonlinear partially observed systems that are common in many engineering and earth science applications, this work exploits Koopman embedding to discover a proper latent representation of the unobserved system states, such that the dynamics of the latent states are conditional linear, i.e., linear with the given observed system states. The modeled system of the observed and latent states then becomes a conditional Gaussian system, for which the posterior distribution of the latent states is Gaussian and can be efficiently evaluated via analytical formulae. The analytical formulae of DA facilitate the incorporation of DA performance into the learning process of the modeled system, which leads to a framework that unifies scientific machine learning (SciML) and data assimilation. The performance of discrete-time CGKN is demonstrated on several canonical problems governed by nonlinear PDEs with intermittency and turbulent features, including the viscous Burgers’ equation, the Kuramoto–Sivashinsky equation, and the 2-D Navier–Stokes equations, with which we show that the discrete-time CGKN framework achieves comparable performance as the state-of-the-art SciML methods in state forecast and provides efficient and accurate DA results. The discrete-time CGKN framework also serves as an example to illustrate unifying the development of SciML models and their other outer-loop applications such as design optimization, inverse problems, and optimal control.}
+}

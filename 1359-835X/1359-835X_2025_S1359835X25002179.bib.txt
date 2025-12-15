@@ -1,0 +1,13 @@
+@article{LIU2025108923,
+title = {Research on the quasi-static/dynamic mechanical properties and impact resistance of 3D woven composites under salt spray aging},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108923},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108923},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002179},
+author = {Lulu Liu and Feng Jin and Jian Ji and Xinying Zhu and Zhihao Xie and Wei Chen},
+keywords = {3D woven composites, Salt spray aging, Dynamic compression, Ballistic impact},
+abstract = {3D woven composites excel in the thickness direction due to their fiber structures, overcoming delamination issues and showing superior impact resistance, ideal for aerospace. Aircraft operating in marine environments are chronically exposed to high humidity and salt spray, causing corrosion-driven deterioration of mechanical properties in structural components and materials, which significantly compromises flight safety. This study conducts salt spray aging tests on 3D angle-interlock woven composites, employing dynamic mechanical analysis, infrared spectroscopy, and scanning electron microscopy to assess hygroscopic characteristics and changes in physical and chemical properties pre- and post-exposure. Subsequently, quasi-static tensile and compression tests, along with dynamic compression tests, are conducted on specimens post-salt mist exposure to evaluate changes in mechanical properties. Finally, ballistic impact tests on the aged composites elucidate the mechanisms by which salt spray aging affects their impact resistance. This study delivers critical framework for structural design and durability maintenance of 3D woven composites operating under marine service conditions.}
+}

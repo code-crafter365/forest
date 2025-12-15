@@ -1,0 +1,13 @@
+@article{KOBAYASHI2025111028,
+title = {Quantitative evaluation of crack arrest mechanisms in epoxy/silica nanocomposites},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111028},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111028},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005992},
+author = {Takaya Kobayashi and Kensuke Ogawa and Ryusei Maeda and Pangpang Wang and Tatsuya Kubozono and Daisuke Yoshihara and Satoru Yamamoto and Sunao Yamada and Keiji Tanaka and Masaki Omiya},
+keywords = {Nano composites, Fracture toughness, Crack, Finite element analysis (FEA), Transmission electron microscopy (TEM)},
+abstract = {The toughening mechanisms of epoxy polymers modified with silica nanoparticles have been understood to be dominated by nanoparticle debonding and subsequent plastic void growth. In this study, to elucidate the scenario through which these toughening factors are achieved, the crack propagation process was investigated using both experimental and analytical approaches. In situ transmission electron microscopy observations, molecular dynamics simulations to estimate fracture criteria, and finite element analyses based on fracture mechanics were performed on silica nanoparticle-modified epoxy thin films. The results revealed that crack propagation involves elementary processes, including crack arrest by nanoparticles, matrix plastic deformation in the vicinity of nanoparticles, and debonding at the particle/matrix interface. It was demonstrated that a seamless finite element analysis representing these elementary processes can quantitatively clarify the toughening mechanisms leading to the final failure. The fracture energy due to the crack arrest by a single nanoparticle was found to be several times higher than that for unmodified epoxy, which delays crack propagation rate and promotes large-scale plastic deformation of the surrounding area at a rate faster than the crack propagation. The toughening mechanisms in epoxy/silica nanocomposites is underpinned by the persistent occurrence of crack arrest behavior by individual nanoparticles.}
+}

@@ -1,0 +1,13 @@
+@article{OUYANG2025114701,
+title = {Superhydrophilic Bi-methylimidazole for preferred pH-responsive, targeted drug delivery to tumor},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114701},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114701},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002085},
+author = {Ruizhuo Ouyang and Weixian Xue and Penghui Cao and Zhengang Sun and Huihui Wang and Xiaoqing Zhang and Shuang Zhou and Yuqing Miao},
+keywords = {Bi-MEI Drug delivery pH-responsive CT Chemotherapy},
+abstract = {Doxorubicin (DOX), a widely used chemotherapeutic agent, is severely limited by systemic toxicity. Conventional nanomaterials exhibit limited drug-carrying capacity and targeted delivery efficiency, while the biocompatibility of these materials remains a critical consideration. Here we report a novel type of superhydrophilic mesoporous nanomaterial, synthesized by combining bismuth and 2-methylimidazole (Bi-MEI), designed as a biocompatible and pH-sensitive drug carrier for the delivery of the anticancer drug DOX to combat tumor proliferation and metastasis. Superhydrophilic Bi-MEI pH-responsive nanoplatform (Bi-MEI PSNs) was prepared using bismuth-oxo clusters, 2-methylimidazole ligands, and electronegative citrate under high-temperature and hypoxic conditions. The resulting material demonstrated excellent blood compatibility and low cytotoxicity in vitro due to the superhydrophilicity. DOX was effectively loaded into Bi-MEI PSNs without further surface modification, which exhibited a pH-sensitive release profile. Additionally, the citrate incorporated into Bi-MEI PSNs significantly enhanced its drug-loading efficiency. In acidic environments, such as those found in cancer tissues or subcellular endosomes, Bi-MEI PSNs disintegrated, releasing the free drug, which significantly facilitated the intravenous delivery of DOX into cancer cells for chemotherapy and effectively minimized the side effects. Furthermore, the synthesized Bi-MEI PSNs exhibited strong performance in computed tomography (CT) imaging and was successfully applied for CT imaging-guided tumor treatment. In a nude mouse model of transplanted lung tumors, remarkable therapeutic effects were achieved as predicted. This stable and efficient nanoplatform offers a promising strategy for more effective tumor treatment and improved prognosis.}
+}

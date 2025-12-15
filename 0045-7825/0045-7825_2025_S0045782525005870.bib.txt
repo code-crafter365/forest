@@ -1,0 +1,13 @@
+@article{CUI2025118315,
+title = {An average-strain-based formulation of the scaled boundary finite element method for static and dynamic elastoplasticity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118315},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118315},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005870},
+author = {Yunxuan Cui},
+keywords = {Scaled Boundary Finite Element Method, Quadtree, Image-based analysis, Average strain, Dynamic analysis, Elastoplasticity},
+abstract = {This work presents a revised formulation that combines the uniform strain method (USM) and the scaled boundary finite element method (SBFEM) for static and dynamic elastoplastic analysis in two dimensions. This revised formulation introduces the average strain and splits the strain field of an arbitrarily shaped polygon element into an average and a stabilization part, which are energetically orthogonal to each other. The split of the strain field leads to an efficient numerical approach that performs the return mapping algorithm only once per element. Moreover, by employing the quadtree meshing technique, the computation of stiffness matrices and internal nodal force vectors of repeated shapes of quadtree scaled boundary finite elements is simplified to avoid numerical integration during the iterative solution process of nonlinear equations. The accuracy of the revised formulation is verified by element and patch tests, the Cook’s membrane benchmark, and the dynamic analysis of a steel corbel. The convergence behaviour and the efficiency of the formulation is also discussed based on quadtree, polygon, and trimmed quadtree meshes for an extensive view of its numerical performance. An application to the image-based elastoplastic RVE analysis is also given to illustrate the potential of the approach. The numerical experiments suggest that when compared with finite elements, the proposed approach reduces the number of integration points needed for elastoplastic analysis and the number of elements required for image-based analysis with a guaranteed accuracy.}
+}

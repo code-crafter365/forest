@@ -1,0 +1,13 @@
+@article{YUAN2025102510,
+title = {Z-SSMNet: Zonal-aware Self-supervised Mesh Network for prostate cancer detection and diagnosis with Bi-parametric MRI},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {122},
+pages = {102510},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102510},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000199},
+author = {Yuan Yuan and Euijoon Ahn and Dagan Feng and Mohamed Khadra and Jinman Kim},
+keywords = {AI-based detection and diagnosis, Deep learning, MRI, Prostate cancer, Self-supervised learning},
+abstract = {Bi-parametric magnetic resonance imaging (bpMRI) has become a pivotal modality in the detection and diagnosis of clinically significant prostate cancer (csPCa). Developing AI-based systems to identify csPCa using bpMRI can transform prostate cancer (PCa) management by improving efficiency and cost-effectiveness. However, current state-of-the-art methods using convolutional neural networks (CNNs) and Transformers are limited in learning in-plane and three-dimensional spatial information from anisotropic bpMRI. Their performances also depend on the availability of large, diverse, and well-annotated bpMRI datasets. To address these challenges, we propose the Zonal-aware Self-supervised Mesh Network (Z-SSMNet), which adaptively integrates multi-dimensional (2D/2.5D/3D) convolutions to learn dense intra-slice information and sparse inter-slice information of the anisotropic bpMRI in a balanced manner. We also propose a self-supervised learning (SSL) technique that effectively captures both intra-slice and inter-slice semantic information using large-scale unlabeled data. Furthermore, we constrain the network to focus on the zonal anatomical regions to improve the detection and diagnosis capability of csPCa. We conducted extensive experiments on the PI-CAI (Prostate Imaging - Cancer AI) dataset comprising 10000+ multi-center and multi-scanner data. Our Z-SSMNet excelled in both lesion-level detection (AP score of 0.633) and patient-level diagnosis (AUROC score of 0.881), securing the top position in the Open Development Phase of the PI-CAI challenge and maintained strong performance, achieving an AP score of 0.690 and an AUROC score of 0.909, and securing the second-place ranking in the Closed Testing Phase. These findings underscore the potential of AI-driven systems for csPCa diagnosis and management.}
+}

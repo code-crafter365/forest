@@ -1,0 +1,13 @@
+@article{ALAMER2025108872,
+title = {Advancements and innovations in textile engineering: An In-Depth analysis of SWCNTs and PANI integration in smart textile technologies},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108872},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108872},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001666},
+author = {Fahad Alhashmi Alamer and Alhanouf Alzahrani},
+keywords = {Fabrics/textiles, Carbon nanotubes and nanofibers, Polymer-matrix composite, Electrical properties},
+abstract = {This review explores advancements in smart textiles, emphasizing the integration of single-walled carbon nanotubes (SWCNTs) and polyaniline (PANI). Combining these materials enhances the physical properties and functionalities of textiles, particularly in wearable electronics. SWCNTs improve the mechanical strength, thermal stability, and electrical properties of PANI-coated textiles. We discuss key fabrication techniques like solution blending and electrospinning and address the challenges of SWCNT integration such as dispersion and potential toxicity. Additionally, the review covers the broader application potential of SWCNTs in multifunctional smart textiles, including self-healing materials and sensors. This analysis aims to inform researchers and industry professionals about the current capabilities and future possibilities of SWCNTs and PANI in textile engineering.}
+}

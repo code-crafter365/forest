@@ -1,0 +1,13 @@
+@article{SCHWARTZ2025104225,
+title = {Computational topology for hand-drawn animation technology: A survey},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104225},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104225},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000664},
+author = {Rachael Schwartz and Mark Mullery and John Dingliana and Rachel McDonnell},
+keywords = {Hand-drawn animation technology, Computational topology, Inbetweening},
+abstract = {We survey the use of computational topology in hand-drawn animation technology over the past 15 years. We discuss three main subfields of hand-drawn animation technology research: frame deformation, frame feature correspondence, and volumetric modeling of hand-drawn characters. We explore the various topological spaces and operators applied to each subfield, detailing the artistic and computational advantages and limitations of each topological approach. Throughout our discussion, we provide insights from leading hand-drawn animation professionals — Glen Keane (Disney) and Mark Mullery (Cartoon Saloon) — to enrich our assessments of topological approaches’ suitability in industry settings.}
+}

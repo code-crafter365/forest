@@ -1,0 +1,13 @@
+@article{DU2025119181,
+title = {A nonlinear data-driven constitutive model for fibre tows to predict in-plane shear behaviour of plain weave CMCs},
+journal = {Composite Structures},
+volume = {365},
+pages = {119181},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119181},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003460},
+author = {Yonglong Du and Daxu Zhang and Weiyu Guo and Chao Chen and Long Wang and Mingming Chen and Zhiliang Hong and Qi Zhao},
+keywords = {Ceramic matrix composites, Data-driven, In-plane shear, X-ray CT, Unit cell model},
+abstract = {This paper investigates the in-plane shear behaviour of plain weave ceramic matrix composites (CMCs) through a multi-scale approach, integrating a data-driven constitutive model for fibre tows with shear damage. X-ray Computed Tomography (CT) in-situ shear tests were performed to examine the shear damage mechanisms in plain weave CMCs. A deep-learning-based image segmentation method was employed to accurately identify internal material damage, enabling both quantitative analysis and Three-Dimensional (3D) visualisation. At the mesoscopic scale, a CT-based, data-driven nonlinear constitutive model for fibre tows under shear was developed to capture the progressive damage of CMCs. At the macroscopic scale, a refined unit cell model based on CT data was constructed for numerical simulation. The model’s accuracy was validated by comparing its predictions with Digital Volume Correlation (DVC) results and test data. The study identifies tow splitting and sliding in the 0° tows, as well as bending of bridging fibres in the 90° tows, as the primary shear damage mechanisms. A high-fidelity shear mechanical model, incorporating crack density from in-situ CT data, provides accurate predictions of the shear behaviour in plain weave CMCs.}
+}

@@ -1,0 +1,13 @@
+@article{XIAO2025103930,
+title = {Winding clearness for differentiable point cloud optimization},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103930},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103930},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000910},
+author = {Dong Xiao and Yueji Ma and Zuoqiang Shi and Shiqing Xin and Wenping Wang and Bailin Deng and Bin Wang},
+keywords = {Winding number, Point cloud denoising, Point cloud generation, Surface reconstruction, Diffusion model},
+abstract = {We propose to explore the properties of raw point clouds through the winding clearness, a concept we first introduce for measuring the clarity of the interior/exterior relationships represented by the winding number field of the point cloud. In geometric modeling, the winding number is a powerful tool for distinguishing the interior and exterior of a given surface ∂Ω, and it has been previously used for point normal orientation and surface reconstruction. In this work, we introduce a novel approach to evaluate and optimize the quality of point clouds based on the winding clearness. We observe that point clouds with less noise generally exhibit better winding clearness. Accordingly, we propose an objective function that quantifies the error in winding clearness, solely utilizing the coordinates of the point clouds. Moreover, we demonstrate that the winding clearness error is differentiable and can serve as a loss function in point cloud processing. We present this observation from two aspects: (1) We update the coordinates of the points by back-propagating the loss function for individual point clouds, resulting in an overall improvement without involving a neural network. (2) We incorporate winding clearness as a geometric constraint in the diffusion-based 3D generative model and update the network parameters to generate point clouds with less noise. Experimental results demonstrate the effectiveness of optimizing the winding clearness in enhancing the point cloud quality. Notably, our method exhibits superior performance in handling noisy point clouds with thin structures, highlighting the benefits of the global perspective enabled by the winding number. The source code is available at https://github.com/Submanifold/WindingClearness.}
+}

@@ -1,0 +1,13 @@
+@article{DIAZIBARRA2025117468,
+title = {Surrogate construction via weight parameterization of residual neural networks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117468},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117468},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007230},
+author = {Oscar H. Diaz-Ibarra and Khachik Sargsyan and Habib N. Najm},
+keywords = {ResNet, Neural network, Weight parameterization, MLP, Climate, E3SM, Surrogate model},
+abstract = {Surrogate model development is a critical step for uncertainty quantification or other sample-intensive tasks for complex computational models. In this work we develop a multi-output surrogate form using a class of neural networks (NNs) that employ shortcut connections, namely Residual NNs (ResNets). ResNets are known to regularize the surrogate learning problem and improve the efficiency and accuracy of the resulting surrogate. Inspired by the continuous, Neural ODE analogy, we augment ResNets with weight parameterization strategy with respect to ResNet depth. Weight-parameterized ResNets regularize the NN surrogate learning problem and allow better generalization with a drastically reduced number of learnable parameters. We demonstrate that weight-parameterized ResNets are more accurate and efficient than conventional feed-forward multi-layer perceptron networks. We also compare various options for parameterization of the weights as functions of ResNet depth. We demonstrate the results on both synthetic examples and a large scale earth system model of interest.}
+}

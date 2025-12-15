@@ -1,0 +1,12 @@
+@article{SOLAR2025102431,
+title = {Comparative Metataxonomic Analysis of Bacterial Communities in Healthy and Lymphadenitis-Affected Cavia porcellus (Guinea Pig) Lymph Nodes},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+pages = {102431},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102431},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001390},
+author = {Jakson Ch. Del Solar and Victor Guillermo Cornejo Villanueva and Elthon T. Hinojosa Enciso and Diana L. Arista Vargas and Nayeli V. Barrientos and Richard C. Polveiro and Dielson {Da Silva Vieira} and William Bardales and Jorge Luis Maicelo Quintana and Rainer M. Lopez Lapa},
+keywords = {lymphadenitis, guinea pig, microbiota, , Inti breed, Peru breed},
+abstract = {Cervical lymphadenitis is a serious inflammatory process that can be contagious and zoonotic, and significantly impacts guinea pig farming, particularly in Peru. The primary etiological agent is Streptococcus equi. This study investigates the microbiota composition of cervical lymph nodes in healthy and lymphadenitis-affected guinea pigs from the Amazonas region. Two guinea pigs breeds (Inti and Peru) were analyzed, including specimens with lymphadenitis and healthy controls. DNA was extracted from lymph node samples, and the 16S rRNA gene's V4 hypervariable region was sequenced. The results revealed significant differences in microbial diversity between healthy and affected guinea pigs, a critical finding was the identification of asymptomatic individuals with a microbiota virtually identical to that of sick animals. Alpha diversity indices demonstrated a higher microbial richness in healthy animals. Beta diversity analyses showed a marked separation between groups, indicating distinct microbial compositions. Taxonomic profiling revealed that genus Streptococcus dominated the microbiota in guinea pigs with lymphadenitis, while healthy animals exhibited a more diverse bacterial community. These findings suggest that cervical lymphadenitis leads to significant microbial alterations, characterized by reduced microbial diversity and an overrepresentation of Streptococcus. This study provides novel and relevant insights into the microbiota associated with guinea pig lymphadenitis, offering a foundational understanding of the disease and revealing the asymptomatic carrier phenomenon, which is crucial for developing improved prevention and diagnostic strategies in production systems}
+}

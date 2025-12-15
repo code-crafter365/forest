@@ -1,0 +1,13 @@
+@article{EMTIAZ2025108601,
+title = {Role of fiber clustering and resin bleeding on voids and evolution of fiber volume fraction for additively manufactured continuous carbon fiber thermoset composites with dual-cure resins},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108601},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108601},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005992},
+author = {Shaharear Md Emtiaz and Maximilian Pitto and Pavel Šimáček and Suresh G Advani},
+keywords = {Composites additive manufacturing, Defects, Impregnation, Modelling},
+abstract = {Additive manufacturing of continuous fiber-reinforced thermosets is enhanced by producing a core–shell structured tow, where admixed UV and thermal cure resin (dual-cure) forms an interpenetrating polymer network. Such material can be produced by rapid interlayer curing assisted (RICA) 3D printing, a process that impregnates a fiber tow with epoxy and then applies a dual-cure resin coating hardened by UV exposure. A challenge of this novel process is the fiber volume fraction control and void content minimization after dual-cure coating, UV curing and consolidation. Here we reveal towpreg properties at RICA processing points of interest via a continuous model setup. We also put in place metering of the resin during the process which increased the fiber volume fraction and provided better layer thickness control. Two new numerical models were introduced that investigate (i) the void formation during impregnation of clustered carbon fibers and (ii) void filling accompanied by resin bleeding from core-shell structured tows during compaction. Experimental results revealed clusters in the carbon fiber tow during roller-assisted epoxy impregnation, with a void content between 3% and 5%. The clustering model showed that large clusters entrapped bigger voids. After consolidation, void content was reduced to 2.1–2.7% when the shell only contained UV resin, thanks to resin entrapment by the cured shell. Resin bled from the dual-cure shell, which reduced void filling but increased the fiber volume fraction from 0.29 up to 0.37. Ultimately, this work demonstrates that the dual-cure coating mixture utilized for RICA 3D printing has an effect on the final void content that is amplified during high-speed consolidation and reduced when the incoming initial voids are small.}
+}

@@ -1,0 +1,13 @@
+@article{BADIA2025117806,
+title = {Adaptive finite element interpolated neural networks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117806},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117806},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000787},
+author = {Santiago Badia and Wei Li and Alberto F. Martín},
+keywords = {Neural networks, PINNs, Finite elements, PDE approximation, -adaptivity, Inverse problems},
+abstract = {The use of neural networks to approximate partial differential equations (PDEs) has gained significant attention in recent years. However, the approximation of PDEs with localised phenomena, e.g., sharp gradients and singularities, remains a challenge, due to ill-defined cost functions in terms of pointwise residual sampling or poor numerical integration. In this work, we introduce h-adaptive finite element interpolated neural networks. The method relies on the interpolation of a neural network onto a finite element space that is gradually adapted to the solution during the training process to equidistribute a posteriori error indicator. The use of adaptive interpolation is essential in preserving the non-linear approximation capabilities of the neural networks to effectively tackle problems with localised features. The training relies on a gradient-based optimisation of a loss function based on the (dual) norm of the finite element residual of the interpolated neural network. Automatic mesh adaptation (i.e., refinement and coarsening) is performed based on a posteriori error indicators till a certain level of accuracy is reached. The proposed methodology can be applied to indefinite and nonsymmetric problems. We carry out a detailed numerical analysis of the scheme and prove several a priori error estimates, depending on the expressiveness of the neural network compared to the interpolation mesh. Our numerical experiments confirm the effectiveness of the method in capturing sharp gradients and singularities for forward and inverse PDE problems, both in 2D and 3D scenarios. We also show that the proposed preconditioning strategy (i.e., using a dual residual norm of the residual as a cost function) enhances training robustness and accelerates convergence.}
+}

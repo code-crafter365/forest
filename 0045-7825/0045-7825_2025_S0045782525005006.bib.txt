@@ -1,0 +1,11 @@
+@article{MARZOUK2025118228,
+title = {Editorial: Generative Artificial Intelligence for Predictive Simulations and Decision-Making in Science and Engineering},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118228},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118228},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005006},
+author = {Youssef Marzouk and Benjamin Peherstorfer}
+}

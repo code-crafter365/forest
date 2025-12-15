@@ -1,0 +1,10 @@
+@article{2025119736,
+title = {Editorial Board},
+journal = {Composite Structures},
+volume = {373},
+pages = {119736},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/S0263-8223(25)00901-8},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009018}
+}

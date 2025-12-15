@@ -1,0 +1,13 @@
+@article{ZHANG2025118955,
+title = {Isogeometric topology optimization for innovative designs of the reinforced TPMS unit cells with curvy stiffeners using T-splines},
+journal = {Composite Structures},
+volume = {357},
+pages = {118955},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118955},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001205},
+author = {Xiao Zhang and Mi Xiao and Wei Luo and Liang Gao and Jie Gao},
+keywords = {TPMS, Topology optimization, Double offset strategy, Energy absorption characteristics, T-splines-based IGA},
+abstract = {The parametric designs for the Triply Periodic Minimal Surfaces (TPMS) have been widely discussed due to flexible adjustments of structural performance using mathematical equations. However, the only change of structural shape and thickness in TPMS using few parameters extensively poses more challenges on the improvement of concerned performance. In the current work, the main intention is to propose an innovative design method for TPMS unit cells with the reinforced performance using a combination of the T-splines-oriented Isogeometric Topology Optimization (T-ITO) method and the double offset strategy. Firstly, the T-splines with powerful capability and superior flexibility are applied to model structural geometries of TPMS unit cells accurately, which can effectively remove the limitations of previous B-splines. Secondly, the IGA (IsoGeometric Analysis) with T-splines, which can effectively ensure the consistency of structural geometry and numerical analysis, is adopted to implement the shell analysis of TPMS unit cells to maintain the high-precision, even if complex geometries are considered. Thirdly, the T-ITO formulation is developed to improve the loading-capability of TPMS unit cells, in which materials can be reasonably distributed within the design domain of unit cells. Fourthly, the double offset strategy is employed to construct a series of reinforced TPMS unit cells enhance structural performance as much as possible, where the curvy stiffeners can be rationally generated based on T-ITO method in the reinforcement layer of unit cells. Finally, several numerical examples are addressed to demonstrate the effectiveness of the proposed innovative design method for TPMS, which clearly show the reinforced TPMS unit cells with shell-plate-beam combined designs have preferable stiffness, yield strength and energy absorption characteristics.}
+}

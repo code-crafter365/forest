@@ -1,0 +1,13 @@
+@article{LIN2025118278,
+title = {Optimization for enhancing resistance to brittle fracture using the phase field model integrating strain gradient},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118278},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118278},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500550X},
+author = {Haidong Lin and Yiqi Mao and Wenyang Liu and Shujuan Hou},
+keywords = {Strain gradient, Phase field method, Fracture, Two-layer mesh, Topology optimization},
+abstract = {Recent topology optimization approaches for brittle fracture resistance predominantly rely on phase-field models within classical continuum mechanic framework. However, conventional theories fail to accurately capture size-dependent fracture behaviors influenced by microstructural features. To address this limitation, we propose an adaptive fracture resistance optimization framework that incorporates a strain gradient-enhanced phase-field model based on the Wei-Hutchinson strain gradient theory. An adaptive h-refined phase-field fracture formulation is developed, utilizing a mixed staggered solution scheme for efficient fracture simulation. High-order polynomial splines over hierarchical T-meshes (PHT-splines) are employed as basis functions to ensure C1-continuity, unify geometry and analysis models, and enhance computational accuracy and efficiency. An adaptive h-refined phase-field fracture formulation is developed, utilizing a mixed staggered solution scheme for efficient fracture simulation. High-order polynomial splines over hierarchical T-meshes (PHT-splines) are employed as basis functions to ensure C1-continuity, unify geometry and analysis models, and improve computational accuracy and efficiency. Building on this foundation, a strain gradient material isogeometric topology optimization framework is established, embedding a mixed-mode phase-field formulation to capture fracture behavior. Higher-order strain energy terms are incorporated to account for gradient effects, and fracture energy release rates are evaluated through a hybrid of isogeometric analysis and finite difference methods. A multi-objective optimization formulation, combining stiffness and energy release rates via a weighted strategy, is employed to maximize toughness and ultimate load-bearing capacity. Numerical results demonstrate that exploiting strain gradient toughening effects enables simultaneous enhancement of both mechanical properties, offering a solid theoretical and computational basis for the cross-scale design of advanced micro- and nanoscale materials with improved fracture resistance.}
+}

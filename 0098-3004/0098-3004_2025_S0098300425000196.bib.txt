@@ -1,0 +1,13 @@
+@article{ZHANG2025105869,
+title = {Optimizing managed artificial recharge backwash using a multi-objective particle swarm optimization coupled with a clogging simulation model},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105869},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105869},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000196},
+author = {Tianjiao Zhang and Qi Zhu and Zhang Wen},
+keywords = {Well clogging, Artificial groundwater recharge, Backwashing, Multi-objective particle swarm optimization},
+abstract = {Artificial recharge (AR) plays an important role in the management of groundwater resources and the mitigation of hydrogeological problems. However, challenges related to clogging inevitably arise during groundwater recharge. Although the clogging mechanism during groundwater recharge has been intensively studied in the past decades, there is a relative scarcity of studies focused on strategies for preventing clogging through artificial interventions. This study introduces an optimization framework that integrates a clogging model with two objective functions to obtain an optimized backwashing strategy aimed at minimizing clogging during groundwater recharge. The proposed clogging model for the groundwater recharge process considers both physical clogging (attachment of suspended solids) and chemical clogging (iron oxide clogging) by coupling COMSOL and PHREEQC models. The Multi-Objective Particle Swarm Optimization (MOPSO) algorithm was used to obtain the Pareto-optimal solutions, by evaluating the clogging conditions and recharge efficiencies of different strategies, which enables stakeholders to determine suitable backwashing frequency and duration among various groundwater backwashing strategies. The results indicate that optimized backwashing strategy can significantly reduce clogging in groundwater recharge projects. With the highest backwashing frequency and duration, clogging near the recharge wells would be reduced to 90% of that observed during normal recharge without strategies, and the time spent on backwashing would only constitute 4.8% of the recharge time.}
+}

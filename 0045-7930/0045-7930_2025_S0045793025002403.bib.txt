@@ -1,0 +1,13 @@
+@article{TONG2025106780,
+title = {Numerical investigation of impinging shock wave and turbulent boundary layer interactions with and without a plasma actuator},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106780},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106780},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002403},
+author = {Fulin Tong and Jinping Li and Haohua Zong and Yun Wu and Xianxu Yuan},
+keywords = {Plasma actuator, Shock wave and turbulent boundary layer interactions, Direct numerical simulations},
+abstract = {Direct numerical simulations (DNS) of the interaction between an impinging shock wave and a turbulent boundary layer spatially developing on a cold flat plate at a Mach number of M∞ = 3.0 and a friction Reynolds number of Reτ = 432 are performed to investigate the influence of plasma actuation on the interaction properties. Two DNS cases, with and without a plasmas actuator placed in the upstream turbulent boundary layer, are considered. Consistent with previous numerical studies, the plasmas actuator is simulated by using the compressible Navier-Stokes equations with a heating source model. Under the plasmas actuation, the separation region, characterized by a breathing motion at lower frequencies, is increased by about 77 % in the streamwise direction and a noticeable increase of wall heat flux is observed in the reattached region. Proper orthogonal decompositions reveal that the reconstruction based on the first two low-order modes, weakly dependent on the actuation, accurately captures the low-frequency breathing motion. The low-frequency components in the wall pressure spectra are completely suppressed by the actuation, whereas the pulsing frequency and its higher harmonics are highlighted. The plasmas actuation has a strong effect on the space-time correlations of the fluctuating wall pressure, causing significantly increased spatial length scales and bulk propagation speed. In addition, decomposition analysis of mean wall skin friction and wall heat flux indicates that the generation mechanisms in the downstream recovery region are essentially unchanged by the plasmas actuation, while the scale-dependent results obtained from bidimensional empirical mode decomposition quantify the increasingly importance of the energetic large-scale structures in the outer region.}
+}

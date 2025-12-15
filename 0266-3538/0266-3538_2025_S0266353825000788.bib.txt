@@ -1,0 +1,13 @@
+@article{CUI2025111110,
+title = {Broadband strong absorption in lightweight metastructure via multiscale modulation},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111110},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111110},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000788},
+author = {Kai Cui and Lei Zheng and Lili Wu and Tao Wang and Xian Wang and Rongzhou Gong},
+keywords = {Nano-graphite/polyamide composites, Metastructure absorber, 3D printing, Broadband strong absorption, Lightweight},
+abstract = {Designing and fabricating an advanced metastructure absorber (MA) with lightweight, broadband, and high absorption efficiency is a promising solution to the growing electromagnetic (EM) pollution issue. Herein, the nano-graphite (NG)/polyamide 12 (PA12) composite filaments were fabricated using hot-melting processing, with the dispersion of NG particles in PA12 controlled by varying machining times. Analytical results revealed that improved dispersion of NG particles in the PA12 matrix significantly enhances the EM loss capability of the composite filaments, primarily due to increased conductive paths and interfacial contact area. Subsequently, a multilayer honeycomb structure with a bi-gradient material-structure was developed to improve the impedance matching of carbon-based composites. Simulations revealed that the proposed MA achieved a reflection loss (RL) below −10 dB in the 2–18 GHz with a relative bandwidth of up to 160 %, and exhibited a strong RL below −20 dB in the 4.2–18 GHz range. Finally, the MA was fabricated using 3D printing technology and demonstrated excellent agreement between the experimental RL and simulation results. Importantly, this research offers new insights into the modulation of EM property in carbon-based composite filaments and the design of MA with integrated broadband and high efficiency.}
+}

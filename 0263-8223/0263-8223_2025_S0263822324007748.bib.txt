@@ -1,0 +1,13 @@
+@article{PHUC2025118646,
+title = {The application of novel shear deformation theory and nonlocal elasticity theory to study the mechanical response of composite nanoplates},
+journal = {Composite Structures},
+volume = {352},
+pages = {118646},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118646},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007748},
+author = {Phan Quang Phuc and Pham {Van Dong} and Nguyen Trong Hai and Ashraf M. Zenkour and Luu Gia Thien},
+keywords = {Novel shear deformation theory, Bending, Vibration, Composite nanoplates, FEM, Imperfection},
+abstract = {The use of composite structures, which have many layers of materials, has become more prevalent in the field of engineering. One of the advantages of this approach is its ability to use the inherent strengths of the constituent materials, resulting in a substantial increase in their load-bearing capability. Hence, this research represents the pioneering investigation into the static bending and free vibration characteristics of composite nanoplates including several layers of materials, whereby the material layers are interconnected via intricate profiles characterized by square wave and sine waveforms. The purpose of this endeavor is to fully capitalize on the benefits of attending courses in order to enhance practical working efficiency. This study also incorporates the use of two innovative third-order shear deformation theories. Simultaneously, considering the negligible size impact facilitated by the nonlocal theory, the mathematical formulations and equilibrium equations are derived using the Hamilton principle. The issue has been addressed using a four-node element with six degrees of freedom per node. One novel aspect of this study is its consideration of the impact of initial shape imperfections in various manifestations. Additionally, the elastic foundation incorporates characteristics that exhibit spatial variation. This statement provides a somewhat more accurate depiction of the behavior shown by actual structures. The numerical findings have been meticulously computed and thoroughly examined. Notably, it is possible to determine the optimal number of wavelengths in the profile to enhance the load-bearing capability of the structure. The findings derived from this study have significant value in informing the design of operational frameworks in practical settings.}
+}

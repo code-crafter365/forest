@@ -1,0 +1,13 @@
+@article{LEE2025108857,
+title = {Physics-informed neural networks for real-time simulation of transverse Liquid Composite Moulding processes and permeability measurements},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108857},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108857},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001514},
+author = {J. Lee and M. Duhovic and D. May and T. Allen and P. Kelly},
+keywords = {Liquid composite moulding, Process modelling, Artificial neural networks, Transverse permeability},
+abstract = {Physics-Informed Neural Networks (PINNs) offer advantages over conventional data-driven machine learning approaches as they are data-free and can make better predictions on unseen data by incorporating physical information in the form of the governing equations. The governing equation for the coupled flow and deformation behaviour in transverse Liquid Composite Moulding processes is used to demonstrate the capabilities of PINNs for process simulation. Parametric solutions of the deformation of a saturated fabric stack under varying applied loading are obtained using the PINN model, showing close agreement with finite element simulations but with significantly shorter computation times. A novel PINN architecture is developed to replace empirical equations for the permeability and compressibility constitutive relations with neural networks trained to fit experimental data. Finally, PINNs are used to analyse transverse permeability measurements, allowing for real-time monitoring of the permeability variation through the thickness, as opposed to the apparent permeability of a hydrodynamically-deformed sample.}
+}

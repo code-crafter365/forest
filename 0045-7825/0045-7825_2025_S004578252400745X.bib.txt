@@ -1,0 +1,13 @@
+@article{HU2025117491,
+title = {A computational framework for well production simulation: Coupling transient Darcy flow and channel flow by SGBEM–FEM},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117491},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117491},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400745X},
+author = {Jing Hu and Mark E. Mear},
+keywords = {Boundary element, Finite element, Transient flow, Channel flow, Ewald summation},
+abstract = {An efficient SGBEM–FEM framework for predicting transient hydrocarbon production by coupling transient Darcy flow and channel flow is proposed, which extends the steady state analysis framework developed in Hu and Mear (2022). The governing equation of transient Darcy flow in the matrix is formulated by an integral equation method, and that of channel flow in the fracture is cast in a weak form suitable for treatment with the standard finite element method. An asymptotic analysis is conducted for the transient flux field around the crack front in porous media, and a special tip element is developed to capture the dominant asymptotic field. Cracks in an unbounded domain as well as a layered domain are treated. For the layered domain simulation, a fast algorithm is developed for evaluating the bounded layer kernel based upon Ewald summation. The numerical implementation is verified with the solution to the decoupled transient Darcy flow equation and the coupled equations, respectively. Numerical examples consisting of sequential circular cracks, sequential long cracks and petal cracks are presented to demonstrate the capability of the proposed framework. The proposed framework could potentially be a useful basis for extensions to model related engineering processes involving fluid flows in fractured subsurfaces (such as contaminant transport, nuclear waste disposal, and carbon capture).}
+}

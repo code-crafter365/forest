@@ -1,0 +1,13 @@
+@article{SUN2025109030,
+title = {Characterizing and modeling compaction behavior of thin woven fabric prepregs with various yarn angles},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109030},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109030},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003240},
+author = {Deyong Sun and Wanrui Zhang and Jianchao Zou and Yifeng Xiong and Chongrui Tang and Jonathan P.-H. Belnoue and Weizhao Zhang},
+keywords = {Prepreg compression molding, Thin woven fabrics, Hyper-viscoelasticity, Compaction},
+abstract = {The compaction of woven fabric prepregs during compression molding is vital for quality and performance of the final parts, as it determines fiber volume fraction, local thickness and yarn integration. Preforming introduces non-uniform shear of the woven prepregs, subsequently affecting its local dimension and compaction stiffness along the thickness direction, and leading to complexity in control of compaction pressure or displacement. To accurately capture this phenomenon and facilitate the manufacturing of composite parts with high quality, a creep experiment assisted by digital image correlation was designed for single-layer prepregs with sub-millimeter thickness, accomplishing characterization for viscosity of the prepregs along the thickness direction without the errors caused by nesting, as well as machine compliance under elevated temperature. Afterwards, a physics-based viscous model was developed based on the experimental results to explicitly describe compaction behavior of the woven prepregs with various yarn angles. This model establishes a stable and efficient connection between its material parameters and the yarn angle. To accommodate critical deformation modes of woven prepregs during compression molding, the model was realized within a 3D hyper-viscoelastic framework, considering both out-of- and in-plane deformation. For practical applications, the developed model was implemented into the commercial finite element analysis software Abaqus/Explicit as a user-defined subroutine (VUMAT), and the prediction error was validated through experiments to be less than 3% under compaction with varying loading rates and yarn angles.}
+}

@@ -1,0 +1,13 @@
+@article{DAS2025114595,
+title = {Biomaterial-associated infections: Their development, characterization, prevention and treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114595},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114595},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500102X},
+author = {Theerthankar Das and Reza Nejadnik and Virginia Vadillo Rodríguez and Yong Liu and Guruprakash Subbiahdoss},
+keywords = {Biofilms, Biomaterials-associated infections, Polymer brush, Antimicrobial resistance, Race-for-the-surface, Antibacterial peptides},
+abstract = {Biomaterials including catheters, artificial joints, dental implants, and contact lenses are highly susceptible to bacterial adhesion, colonization, and biofilm formation, leading to biomaterials-associated infections (BAIs). BAIs pose a significant challenge to the healthcare sector, contributing to increased morbidity, mortality, and economic burden. Preventing bacterial adhesion and biofilm formation is crucial to eliminate BAIs. This special issue, dedicated to Prof. Henk J. Busscher (The University of Groningen, The Netherlands) on the occasion of his retirement, presents original research showcasing innovative strategies to combat biofilm formation on biomaterial surfaces and prevent BAIs. Notable approaches include graphene oxide-copper combinational coatings on cotton fabrics, which exhibited a significant reduction, in Staphylococcus aureus and Pseudomonas aeruginosa adhesion. Another study demonstrated vancomycin functionalized zwitterionic polymer brush coatings showed antimicrobial and antiadhesive properties against Staphylococcus aureus and Escherichia coli biofilms. Additionally, photokilling-based prevention of bacterial colonization emerges as a promising strategy. Importantly, this special issue also underscores the limitations of mono-culture models in biomaterial testing and highlights the necessity of in vitro co-culture assays integrating bacterial and mammalian cells for a more physiologically relevant evaluation of BAIs.}
+}

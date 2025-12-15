@@ -1,0 +1,13 @@
+@article{LAI2025114709,
+title = {Immunomodulatory peptide DP7-C mediates macrophage-derived exosomal miR-21b to promote bone regeneration via the SOCS1/JAK2/STAT3 axis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114709},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114709},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002164},
+author = {Shuang Lai and Na Tang and Jun Guo and Li Deng and Lun Yuan and Linya Zeng and Lu Yang and Yandong Mu},
+keywords = {MiR-21b, Exosomes, DP7-C, Bone regeneration},
+abstract = {Periodontitis, the most prevalent chronic inflammatory disease leading to bone resorption, presents significant challenges for achieving optimal periodontal bone regeneration and repair despite efforts to reduce inflammation and stimulate osteogenesis. Macrophage-derived exosomes have emerged as promising therapeutic agents due to their osteogenic and immunomodulatory potential. Specific stimulation of macrophages can alter the exosomal composition, particularly microRNAs (miRNAs), thereby altering their functions. DP7-C, a cationic immunomodulatory peptide, is known to regulate immune responses and cellular processes by interacting with cell membranes and signaling pathways. However, its effects on macrophage exosomal miRNA profiles remain poorly understood. In this study, we identified differential miRNA expression in macrophage-derived exosomes following DP7-C stimulation, with a notable upregulation of miR-21b. To investigate the osteogenic role of exosomal miR-21b, DP7-C was utilized to facilitate the transfection of miR-21b into macrophages, leading to the secretion of exosomes enriched with miR-21b. These exosomes enhanced osteogenic differentiation in vitro and alleviated periodontal tissue damage in an experimental periodontitis model in vivo. Mechanistically, exosomal miR-21b promotes osteogenesis by directly targeting the suppressor of cytokine signaling (SOCS1), thereby activating the JAK2/STAT3 signaling pathway. This study establishes macrophage-derived exosomal miR-21b as a potent catalyst for bone regeneration, highlighting a promising acellular therapeutic strategy for periodontitis.}
+}

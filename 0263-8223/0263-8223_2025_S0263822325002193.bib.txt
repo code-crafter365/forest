@@ -1,0 +1,13 @@
+@article{VIET2025119054,
+title = {Multidirectional mechanical properties of functionally graded triply periodic minimal surfaces for bone tissue engineering applications},
+journal = {Composite Structures},
+volume = {363},
+pages = {119054},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119054},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002193},
+author = {Nguyen Van Viet and Marwan El-Rich and Wael Zaki},
+keywords = {Nonlinearly functionally graded bone replacement tissue, Bone implant, Triply periodic minimal surface, Anisotropy, Directional phase wave propagation, Multiaxial yield surface},
+abstract = {This work numerically explores the multidirectional mechanical responses and potential biomedical applications of nonlinearly functionally graded bone tissue engineering structure with triply periodic minimal surfaces, focusing on the anisotropy of effective Young’s modulus, directional phase wave propagation, and multiaxial yield surfaces under varying gradient indices and topologies. The experiments are conducted to verify the accuracy of numerical homogenization in aspects of effective Young’s modulus in graded direction, showing good agreement with a maximum percentage difference of 14.3 %. The results indicate that lowering the gradient index increases the overall stiffness and yield strength in a nonlinear pattern, while reducing the extremeness of anisotropy in the stiffness and phase wave propagation, making bone tissue engineering structure more similar to bone. Interestingly, it demonstrates the possibility of achieving a bone tissue engineering structure stiffness that is comparable to bone, at the same weight, by adjusting the gradient index. Moreover, the development of bone cells within bone tissue engineering structure not only enhances the stiffness of bone- bone tissue engineering structure composite but also reduces the extremeness of anisotropy of the stiffness. The extended Hill’s model demonstrates a good fit with numerical data, particularly for points near the origin, proving to be an effective approach for constructing the multiaxial critical yield surface of the bone tissue engineering structures, at a reduced computational cost. By adjusting the gradient index, the proposed titanium bone tissue engineering structures hold potential for applications in bone implants, such as hip replacements, jaw implants, and similar uses.}
+}

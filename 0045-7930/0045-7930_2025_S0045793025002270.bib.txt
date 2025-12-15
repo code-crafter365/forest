@@ -1,0 +1,13 @@
+@article{AN2025106767,
+title = {Turbulence modeling in CFD with Bayesian uncertainty quantification: A comparative study of finite volume and high-order discontinuous Galerkin methods},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106767},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106767},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002270},
+author = {Boyang An and Yao Li and Xin Zhang and Chao Yan and Zhenhua Jiang},
+keywords = {Bayesian uncertainty quantification, Finite element method, Discontinuous Galerkin method, Finite volume method, SA turbulence model},
+abstract = {Turbulence modeling continues to pose a critical challenge within computational fluid dynamics (CFD), especially for complex flows characterized by wall-bounded turbulence with surface curvature, flow separation, and pressure gradients. Focusing on the widely adopted Spalart–Allmaras (SA) turbulence model, this research investigates the application of Bayesian uncertainty quantification (UQ) to turbulence modeling. The impact of turbulence model uncertainties is analyzed and compared between the finite volume method (FVM) and high-order discontinuous Galerkin (DG) schemes derived from the finite element method (FEM) during spatial discretization. The Bayesian framework is implemented to assess the inherent uncertainty in turbulence model constants, facilitating a systematic evaluation of their influence on predictive accuracy across different numerical schemes. The analysis also elucidates the effects of wall curvature, separation zones, and adverse pressure gradients, yielding deeper insights into the predictive discrepancies observed between FVM-based and FEM-based turbulence models. Furthermore, maximum a posteriori (MAP) estimates derived from the UQ process are applied to simulate diverse flow configurations, thereby examining the generalizability of the model corrections. Results indicate that the MAP-corrected model implemented within the high-order DG framework excels at preserving intricate flow structures, while concurrently revealing the sensitivity of turbulence models to disparate sources of uncertainty. The integration of UQ with high-order numerical schemes presented herein contributes to the advancement of robust and accurate turbulence modeling strategies.}
+}

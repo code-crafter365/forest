@@ -1,0 +1,13 @@
+@article{SHI2025111396,
+title = {Effect of low temperature on the mechanical properties and failure characteristics of an infused non-crimp fabric glass fiber-reinforced reactive thermoplastic},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111396},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111396},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003641},
+author = {Erli Shi and John Montesano},
+keywords = {UD-NCF fiber reinforced reactive thermoplastic, Low temperature behaviour, Damage and failure characteristics},
+abstract = {Fiber-reinforced reactive thermoplastic composites have emerged as promising candidates for primary load-bearing structures such as wind turbine blades, where extremely low service temperatures place significant demands on structural integrity. While the effect of low temperature on the behaviour of epoxy-based composites has been previously studied, analogous investigations of reactive thermoplastic composites and comparisons between material systems remain limited. In this work, the mechanical performance and failure characteristics of vacuum-infused unidirectional non-crimp glass fiber/reactive thermoplastic composites (NCF-GF/acrylic) were investigated and compared with epoxy-based counterparts (NCF-GF/epoxy) at room and low temperatures (i.e., −50 °C) under different tensile and shear loading modes. Both materials exhibited nearly linear elastic longitudinal tensile behaivour, with strength increasing 8–9 % and failure characterized by greater tow splitting crack density at low temperature (LT). Both materials also showed a pronounced nonlinear transverse tensile response, with strain at failure increasing by approximately 50 % at LT, mainly due to an increased density of tow cracks. The NCF-GF/acrylic exhibited increased supporting fiber yarn splitting/breakage and reduced fiber tow bridging at LT, distinct from NCF-GF/epoxy. Both materials exhibited a notable reduction in nonlinear shear response, accompanied by increases in shear strength and modulus of approximately 24 % and 51 % for the NCF-GF/acrylic and 45 % and 35 % for the NCF-GF/epoxy, respectively, with the NCF-GF/acrylic once again transitioning from ductile to brittle failure. This study provides the first understandings into the LT behaviour of reactive thermoplastic-based composites under various loading modes, offering guidance for optimizing performance in extreme environments.}
+}

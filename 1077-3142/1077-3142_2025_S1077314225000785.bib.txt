@@ -1,0 +1,10 @@
+@article{2025104355,
+title = {Editorial Board},
+journal = {Computer Vision and Image Understanding},
+volume = {255},
+pages = {104355},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/S1077-3142(25)00078-5},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000785}
+}

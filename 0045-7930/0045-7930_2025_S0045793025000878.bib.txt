@@ -1,0 +1,13 @@
+@article{DUPUY2025106627,
+title = {Time integration of cut-cell surfaces for geometric conservation, applied to scalar transport with moving interfaces},
+journal = {Computers & Fluids},
+volume = {295},
+pages = {106627},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106627},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000878},
+author = {D. Dupuy and A. Toutant and A. {du Cluzeau} and G. Bois},
+keywords = {Two-phase flow, Interface-resolved, Cut-cell method, Heat transfer},
+abstract = {In cut-cell methods, interface-resolved simulations of two-phase flows are performed by cutting a fixed nonconforming mesh at the interface boundary. The cells which are cut to conform to the interface use modified discretisation schemes that account for the modified cell volume and face areas of cut cells, which evolve dynamically with the motion of the interface. This article investigates the effect of the method used for time integration of cut-face areas in a cut-cell method, for the convection–diffusion of a passive scalar in a two-phase flow with moving interfaces. The cut-cell method, based on a finite-volume approach and a three-dimensional staggered Cartesian grid, naturally enforces strict conservation laws and ensures numerical stability in small cells using a flux-redistribution strategy. The simulation of heat diffusion in and around a spherical interface under a uniform velocity field is addressed. A semi-implicit time-integration method taking into account initial and final cut-face areas provides significant improvements at a negligible cost compared to an explicit time-integration method.}
+}

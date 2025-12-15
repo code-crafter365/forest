@@ -1,0 +1,13 @@
+@article{XIE2025118828,
+title = {Uncertainty analysis of the influence of micro-defects and delamination on the mechanical properties of CFRP},
+journal = {Composite Structures},
+volume = {354},
+pages = {118828},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118828},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009565},
+author = {Chenyang Xie and Zhiyong Zhao and Lishuai Sun and Junbiao Wang and Jianjun Jiang and Yujun Li},
+keywords = {Polymer-matrix composites, Uncertainty analysis, Micro-defects, Polynomial chaos expansion, Delamination, Karhunen-Loève expansion},
+abstract = {Accurate prediction of the mechanical behavior of composite laminates is critical for their reliable application in engineering structures. While significant progress has been made in understanding the influence of micro-defects on the mechanical properties of unidirectional composites, quantifying the propagation of uncertainty from the microscale to the laminate level remains a challenge. Traditional deterministic approaches often oversimplify the complex interplay between micro-defects, material variability, and laminate performance. To address these limitations, this study presents a comprehensive framework for uncertainty quantification in composite laminates. By combining experimental characterization, computational modeling, and statistical analysis, this study quantified the impact of micro-defects and delamination on laminate properties. A Polynomial Chaos Expansion (PCE) method was employed to propagate uncertainty from the microscale to the laminate level. The results demonstrated that micro-defects significantly influence the mechanical properties of laminae, leading to normally distributed strength and stiffness values. Delamination was found to primarily affect the mean value of compressive strength without altering the distribution shape. Finally, experimental validation confirmed the accuracy of the proposed uncertainty analysis framework. This research offers a valuable tool for improving the design and reliability of composite structures by providing a quantitative understanding of the uncertainties associated with their mechanical behavior.}
+}

@@ -1,0 +1,13 @@
+@article{RATKOVIC2025119683,
+title = {Computationally efficient modelling of impact and perforation in woven FRP composites},
+journal = {Composite Structures},
+volume = {374},
+pages = {119683},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119683},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008487},
+author = {Jakov Ratković and Darko Ivančević},
+keywords = {Impact simulation, FEM numerical analysis, Progressive damage, Woven composites, Computational efficiency},
+abstract = {In this study, investigation of different strategies to improve the computational efficiency of impact induced progressive damage analyses in woven fibre reinforced composites is presented. A VUMAT user-defined material model is used in combination with commercial finite element software Abaqus/Explicit for progressive damage modelling of woven carbon fibre reinforced epoxy laminates. Along stress-based failure initiation criteria and energy-driven damage evolution, complete loss of load-bearing capability is captured by effective failure strain-based element removal, thus enabling the accurate assessment of full perforation energy margin. Verification of the proposed methodologies against experimental results has been performed by employing the selected modelling strategies. The approach has been validated in impact simulations in which steel spherical impactors induce damage in rectangular composite plates made of plain weave woven CFRP with the layup [45, 0, 45, 0, 45]s. The results have shown that careful implementation of simplifications in the model leads to significant improvements in the computational efficiency, while retaining the accuracy level. Namely, an outstanding total time reduction of over 75 % was achieved. Thus, compared to the starting “Full” model, the final, “Hybrid” model is rendered much more suitable for engineering applications in which large structural components are examined.}
+}

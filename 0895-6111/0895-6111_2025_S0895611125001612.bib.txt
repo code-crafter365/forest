@@ -1,0 +1,13 @@
+@article{XIE2025102652,
+title = {Deep learning for automatic vertebra analysis: A methodological survey of recent advances},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102652},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102652},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001612},
+author = {Zhuofan Xie and Zishan Lin and Enlong Sun and Fengyi Ding and Jie Qi and Shen Zhao},
+keywords = {Automated vertebra analysis (AVA), Deep learning, Medical image analysis, Systematic review},
+abstract = {Automated vertebra analysis (AVA), encompassing vertebra detection and segmentation, plays a critical role in computer-aided diagnosis, surgical planning, and postoperative evaluation in spine-related clinical workflows. Despite notable progress, AVA continues to face key challenges, including variations in the field of view (FOV), complex vertebral morphology, limited availability of high-quality annotated data, and performance degradation under domain shifts. Over the past decade, numerous studies have employed deep learning (DL) to tackle these issues, introducing advanced network architectures and innovative learning paradigms. However, the rapid evolution of these methods has not been comprehensively captured by existing surveys, resulting in a knowledge gap regarding the current state of the field. To address this, this paper presents an up-to-date review that systematically summarizes recent advances. The review begins by consolidating publicly available datasets and evaluation metrics to support standardized benchmarking. Recent DL-based AVA approaches are then analyzed from two methodological perspectives: network architecture improvement and learning strategies design. Finally, an examination of persistent technical barriers and emerging clinical needs that are shaping future research directions is provided. These include multimodal learning, domain generalization, and the integration of foundation models. As the most current survey in the field, this review provides a comprehensive and structured synthesis aimed at guiding future research toward the development of robust, generalizable, and clinically deployable AVA systems in the era of intelligent medical imaging.}
+}

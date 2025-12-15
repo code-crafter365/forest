@@ -1,0 +1,13 @@
+@article{HUANG2025118681,
+title = {Experimental and numerical investigations of interlaminar shear behaviors of CFRP composites at cryogenic and high temperatures},
+journal = {Composite Structures},
+volume = {352},
+pages = {118681},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118681},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008092},
+author = {W.J. Huang and Y.T. Li and Y.M. Zhang and Z.M. Xiao and W.G. Li},
+keywords = {Carbon fiber reinforced polymer composites, Cryogenic temperature, Interlaminar shear strength, Numerical simulation, Failure mode},
+abstract = {The interlaminar shear strength and failure modes of carbon fiber reinforced polymer composites at different temperatures ranged from 90 K to 353 K were thoroughly investigated by the short beam shear tests. Considering the three different lay-up configurations, i.e., unidirectional, cross-ply and angle-ply, the results showed that the interlaminar shear strength of the unidirectional laminates increased by 67.5 % with the decrease of temperature from room temperature down to 90 K, while they were insignificantly affected by cryogenic temperature for both the cross-ply and angle-ply laminates. A numerical model of short beam shear behavior was developed to calculate the interlaminar shear strength, and the results were found to be in a good agreement with the experimental data. Furthermore, the observations of fracture surfaces using a scanning electron microscope provided the insights into the failure modes of the laminates at the microscopic scale. At 90 K the delamination in the unidirectional laminates was obvious, extending toward to the edge of the specimen. In the cross-ply laminates, a few large penetrating cracks appeared in the mid-plane, several small matrix cracks and voids were obvious in the fracture surface of the specimen. Additionally, the multiple cracks formed by the delamination were observed in the angle-ply laminates.}
+}

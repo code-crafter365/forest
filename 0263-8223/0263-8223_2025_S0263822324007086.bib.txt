@@ -1,0 +1,13 @@
+@article{XIONG2025118580,
+title = {A temperature-sensitive actuator based on AG/NIPAM delignification wood-based hydrogel},
+journal = {Composite Structures},
+volume = {351},
+pages = {118580},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118580},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007086},
+author = {Jiuming Xiong and Ranran Wu and Yufang Hu and Zhiyong Guo and Sui Wang and Jie Mao},
+keywords = {Composite hydrogel, Delignification wood, Temperature sensitive actuator, Adjustable directionality},
+abstract = {Hydrogels are important in smart drive materials because of their stretchability and biocompatibility. However, challenges in their mechanical properties and preparation process as actuators hinder their potential applications. In this work, a double-layer composite hydrogel actuator was proposed. The actuator consists of two layers of materials, namely delignification wood and agarose (AG)/poly(N-isopropylacrylamide) (PNIPAM) composite hydrogel, named as double-layer wood-based hydrogel (BWH). In BWH, due to the large amount of hydroxyl groups on the surface of delignification wood, abundant hydrogen bonds can be formed with the hydrogel layer to ensure the close adhesion of the two layers and achieve stable synergy. At the same time, the delignification wood can give the overall stable structure and predictable bending direction. In addition, BWH has excellent anti-swelling properties, which is due to the double network design of the hydrogel layer and the anti-swelling properties of the delignification wood skeleton itself. Based on the property of BWH sensitive to temperature deformation, its applications in the field of intelligent grasping and fluid valve were studied. This work provides a simple method for the preparation of response actuators and the idea of mechanical enhancement and adjustable deformation direction.}
+}

@@ -1,0 +1,13 @@
+@article{FU2025104224,
+title = {Enhancing scene text detectors with realistic text image synthesis using diffusion models},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104224},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104224},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003059},
+author = {Ling Fu and Zijie Wu and Yingying Zhu and Yuliang Liu and Xiang Bai},
+keywords = {Scene text detection, Text image synthesis, Data augmentation},
+abstract = {Scene text detection techniques have garnered significant attention due to their wide-ranging applications. However, existing methods have a high demand for training data, and obtaining accurate human annotations is labor-intensive and time-consuming. As a solution, researchers have widely adopted synthetic text images as a complementary resource to real text images during pre-training. Yet there is still room for synthetic datasets to enhance the performance of scene text detectors. We contend that one main limitation of existing generation methods is the insufficient integration of foreground text with the background. To alleviate this problem, we present the Diffusion Model based Text Generator (DiffText), a pipeline that utilizes the diffusion model to seamlessly blend foreground text regions with the background’s intrinsic features. Additionally, we propose two strategies to generate visually coherent text with fewer spelling errors. With fewer text instances, our produced text images consistently surpass other synthetic data in aiding text detectors. Extensive experiments on detecting horizontal, rotated, curved, and line-level texts demonstrate the effectiveness of DiffText in producing realistic text images. Code is available at: https://github.com/99Franklin/DiffText.}
+}

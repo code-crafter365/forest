@@ -1,0 +1,13 @@
+@article{GUO2025114300,
+title = {Multifunctional mesoporous nanoselenium delivery of metformin breaks the vicious cycle of neuroinflammation and ROS, promotes microglia regulation and alleviates Alzheimer's disease},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114300},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114300},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005599},
+author = {Xian Guo and Borui Zhang and Yutong Chen and Zhi Jia and Xiaoyu Yuan and Li Zhang and Jie Liu and Yanan Liu},
+keywords = {Alzheimer's disease, β amyloid peptide, Nano selenium, Oxidative stress, Pathological blood–brain barrier},
+abstract = {Clinical trials based on a single molecular target continue to fail, and the adverse effects of Aβ protein aggregation and neuroinflammation need to be solved and treatment of Alzheimer's disease. Herein, by designed a nano-sized flower mesoporous selenium transport carrier (Met@MSe@Tf) with high enzyme-like activity, metformin (Met) was loaded, and transferrin (Tf) was modified to bind to transferrin receptor to promote receptor-mediated transport across the BBB. In the AD lesion environment, with the acidic environment response dissociation, promote the release of metformin by nanoflower to achieve therapeutic effect in the brain lesion site. Metformin, a major anti-diabetic drug in diabetic metabolism, has been found to be a promising new therapeutic target in neurodegenerative diseases. Further studies showed that the metformin drug release from the designed and synthesized transport nanoparticles showed high intrinsic activity and the ability to degrade the substrate involved, especially the degradation of Aβ deposition in the cortex and hippocampus, increased the phagocytosis of microglia, thus relieving neuroinflammation simultaneously. Collectively, in vivo experiments demonstrated that Met@MSe@Tf significantly increased the number of NeuN-positive neurons in the hippocampus of AD mice, promoted neurovascular normalization in the brain, and improved cognitive dysfunction in AD transgenic AD mice. Thus, it provides a preclinical proof of concept for the construction of a highly modular accurate drug delivery platform for Alzheimer's disease.}
+}

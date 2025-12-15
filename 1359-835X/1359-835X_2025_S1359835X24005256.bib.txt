@@ -1,0 +1,13 @@
+@article{PHEYSEY2025108527,
+title = {Low-velocity impact response of hybrid sheet moulding compound composite laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108527},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108527},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005256},
+author = {James Pheysey and Ramon {Del Cuvillo} and Fernando Naya and Jesus Pernas-Sanchez and Francesco {De Cola} and Francisca Martinez-Hergueta},
+keywords = {Sheet moulding compounds, Glass fibre, Carbon fibre, Hybrid composites, Impact performance},
+abstract = {This work presents a comprehensive study on the impact damage tolerance of Sheet Moulding Compounds (SMCs). The performance of glass, carbon and hybrid glass/carbon SMCs are compared by means of tensile, compression, low-velocity impact and compression after impact experiments. Damage analysis of the impacted laminates was performed by ultrasonic and X-ray methodologies. The glass SMC exhibited the highest damage tolerance in low-velocity impact with the smallest damaged area, crack density and loss in compression after impact (CAI) strength. On the other hand, the carbon SMC demonstrated superior in-plane stiffness and strength, but exhibited a large damaged area and crack density under impact. The hybrid SMC displayed an optimal compromise, exhibiting intermediate tensile in-plane performance and excellent damage tolerance at lower impact energy levels, but suffered from extensive delamination at the highest impact energy. Overall, the findings highlight the suitability of hybrid SMCs for structural applications with potential impact risks.}
+}

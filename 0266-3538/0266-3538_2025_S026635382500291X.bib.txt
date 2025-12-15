@@ -1,0 +1,13 @@
+@article{LIU2025111323,
+title = {Adaptive deformation coordination and multi-scale damage mechanism of musculoskeletal biomimetic star-triangle metamaterials},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111323},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111323},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500291X},
+author = {Zhikang Liu and Min Tang and Yifei Zhang and Jiayi Liu and Wei Huang},
+keywords = {Musculoskeletal biomimetic metamaterials, Adaptive coordination, Multi-scale damage mechanism, Energy absorption},
+abstract = {Thermosetting carbon fiber reinforced polymer (CFRP) metamaterials fabricated by mold hot-pressing technology has excellent mechanical properties. However, due to its less toughness, structural damage generally appears when it subjects to impact loads. To make up this disadvantage, a novel fabrication method of mixing technology based on musculoskeletal biomimetic metamaterials is proposed. Dynamic compression experiments with different strain rates are carried out. Adaptive deformation coordination mechanism and multi-scale damage mechanism of samples prepared by different fabrication technology are discussed. In addition, finite element simulation model is established to forecast dynamic mechanical behavior of musculoskeletal biomimetic star-triangle metamaterials. The results showed that maximum specific strength and specific energy absorption of samples prepared by mixing technology had an increase of 154 % and 41 % compared with that of samples fabricated by mold hot-pressing technology under quasi-static loading conditions. The difficulty of preparation was greatly reduced and the structural robustness was improved as well. Furthermore, it can also enable damage repair and resist multiple impacts. This research is supposed to play a role in promoting the application of musculoskeletal biomimetic star-triangle metamaterials in engineering.}
+}

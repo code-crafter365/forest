@@ -1,0 +1,13 @@
+@article{NIE2025114317,
+title = {Enhanced SERS detection of the colorectal cancer biomarker utilizing a two-dimensional silver substrate},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114317},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114317},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005769},
+author = {Qingling Nie and Peipei Xu and Jiajia Liu and Yanhanzhuo Wang and Qian Huang and Ruiyun You and Yunzhen Liu and Lizhi Li and Yudong Lu},
+keywords = {Inflammatory markers, Sandwich model, Surface-enhanced Raman spectroscopy, Tumor markers},
+abstract = {To improve the sensitivity, accuracy and specificity of the assay, a two-dimensional silver substrate with EF=5.85×108 was first synthesized as a SERS substrate, on the surface of which DSP molecules were modified to form a DSP-antibody coupling through the activation of two N-hydroxy succinimide (NHS) esters to capture TNF-α. Subsequently, aptamerized silver-coated gold nanospheres (Au@TFMBA@Ag) were synthesized as Surface-Enhanced Raman Scattering (SERS) recognition probes. These probes were employed to create a sandwich structure for the quantitative detection of Tumor Necrosis Factor-alpha (TNF-α), utilizing the SERS signal intensity at 1374 cm−1. Quantitative detection of TNF-α was successfully accomplished within the concentration range of 10−4 to 10−10 mg·mL−1. Clinical serum samples were collected and subjected to testing. Significance analysis, conducted through the T-test (p < 0.0001), unequivocally showed the method's ability to differentiate between sera from normal individuals and those diagnosed with colon cancer.}
+}

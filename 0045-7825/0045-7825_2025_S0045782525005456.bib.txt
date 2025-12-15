@@ -1,0 +1,13 @@
+@article{HACHEM2025118273,
+title = {Mathematical and numerical assessment of Data-Driven Identification method applied to nonlinear elasticity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118273},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118273},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005456},
+author = {Nour Hachem and Adrien Leygue and Laurent Stainier},
+keywords = {Data-Driven Identification, Full-field measurement, Material identification, Alternating projection},
+abstract = {The Data-Driven Identification method estimates the mechanical response of material samples without postulating a predefined constitutive model. Leygue (2025) provided an initial mathematical analysis of this method, introducing a criterion to assess the well-posedness of the problem. This study builds on that work to deepen the mathematical understanding of DDI, with a focus on the selection of database size and algorithmic convergence. Three methods are presented to evaluate the well-posedness criterion, alongside the development of a new implementation process for the DDI algorithm based on one of these methods. The effectiveness of these approaches is demonstrated using synthetic data, and the convergence of the proposed algorithm is rigorously proven. This comprehensive theoretical and numerical analysis shows that the loss of uniqueness problem can be detected and corrected in this case. This work opens the door to further developments focusing on improving the method.}
+}

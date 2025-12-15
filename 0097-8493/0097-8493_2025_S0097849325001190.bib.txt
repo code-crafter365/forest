@@ -1,0 +1,11 @@
+@article{JORGE2025104278,
+title = {Editorial Note for Issue 129 of Computers & Graphics},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104278},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104278},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001190},
+author = {Joaquim Jorge}
+}

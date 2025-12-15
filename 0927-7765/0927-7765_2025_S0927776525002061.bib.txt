@@ -1,0 +1,13 @@
+@article{RODRIGUEZCHAVEZ2025114699,
+title = {Solar-driven photochemical synthesis of bismuth-naringin nanoparticles with anticancer properties},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114699},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114699},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002061},
+author = {Victoria Nephertiti Rodríguez-Chávez and Ingrid Guadalupe Meza-Pardo and Daniel Sánchez-Campos and Fernanda Abigail Silva-Melgarejo and Francisco Castillo-Rivera and Sarahí Josefina Estrada-Loredo and Daniela Salado-Leza},
+keywords = {Naringin, Bismuth nanoparticles, Anticancer},
+abstract = {Bismuth-naringin (BiNar) nanoparticles were developed using a straightforward sunlight-assisted photochemical method to enhance the properties of naringin. The resulting BiNar colloid consists in semi-spherical particles of approximately 30 nm in size with a negative surface charge. Complexation was elucidated using various spectrometric techniques. The anticancer properties of both naringin and the nanoparticles were evaluated by performing MTT colorimetric assays in human cervical cancer cells. BiNar significantly reduced the viability of cancer cells, underscoring its therapeutic potential.}
+}

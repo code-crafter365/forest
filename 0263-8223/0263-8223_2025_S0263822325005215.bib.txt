@@ -1,0 +1,13 @@
+@article{MIRIS2025119356,
+title = {A process modelling approach for the mitigation of in-plane compression-induced buckling defects in woven textile preforms during double diaphragm forming},
+journal = {Composite Structures},
+volume = {370},
+pages = {119356},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119356},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005215},
+author = {George Miris and Mohammad Ravandi and Alex Cardew-Hall and Boris Eisenbart and Adriano Di Pietro},
+keywords = {Fabrics/textiles, Defects, Process simulation, Forming},
+abstract = {Numerical process models can provide insights into the development of defect mitigation strategies for composite preforming operations. A Finite Element (FE) process model is developed to predict the formation of in-plane compression-induced buckling defects in woven textile preforms during Double Diaphragm Forming (DDF). Decoupling the tensile and compressive axial stiffnesses of the textile is shown to be necessary for accurate formability predictions. The process model is employed to confirm the robustness of Inter-diaphragm Pressure (IDP) and diaphragm tension manipulation as defect mitigation strategies. The model is validated experimentally using a Multi-curvature Flange Channel (MFC) aerostructures preform. It is confirmed that a reduction in diaphragm compaction pressure can completely mitigate the onset of buckling defects. Decreasing compaction pressure reduces the magnitude of inter-ply friction forces, thereby preventing the accumulation of compressive axial fibre strains. Additionally, inducing directional tensile strains in the diaphragms is shown to completely mitigate the formation of buckling defects by reacting axial fibre compression in the preform. The numerical framework is sufficiently sensitive to process variable manipulation for the design of industrial-scale DDF operations. The results confirm that defect formation in MFC preform geometries is poorly correlated with the state of the shear strain field.}
+}

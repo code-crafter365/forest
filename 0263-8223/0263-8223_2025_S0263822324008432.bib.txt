@@ -1,0 +1,13 @@
+@article{KOOHBOR2025118715,
+title = {Nonlinear large strain mechanics and failure of 45° woven CFRP laminates characterized by Full-Field measurements},
+journal = {Composite Structures},
+volume = {352},
+pages = {118715},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118715},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008432},
+author = {Behrad Koohbor and Nicholas B. Mennie and Addis Kidane},
+keywords = {Woven composites, Large deformation, Off-axis testing, Scissoring effect, Digital image correlation},
+abstract = {The nonlinear mechanical response of 45° woven composites is studied using full-field strain measurements. First, carbon fabric samples without an epoxy matrix are prepared and tested to evaluate the deformation response of the fiber tows in the absence of internal resistance imposed by the epoxy matrix. Next, the effect of the epoxy matrix is examined by fabricating and testing 45° single-ply carbon fiber reinforced composite laminas. Homogeneous strain fields with minimal resistance against external loads are observed in fabric samples without epoxy. The in-plane rotation of fiber tows in the carbon fabric samples varies linearly with the applied global strain. On the other hand, the development of scissoring action in single-ply composite laminas is shown to cause severe shearing of the epoxy entrapped between the orthogonal fiber tows, leading to the outward protrusion of epoxy from the surface of the lamina. The scissoring effect is correlated with different stages of deformation in a highly nonlinear stress–strain response. Finally, similar tests performed on three-ply laminates reveal that the abovementioned matrix protrusion leads to accelerated delamination in 45° laminates at global strains lower than those in single-ply laminas. The underlying mechanisms for scissoring-induced matrix protrusion are discussed using a simple analytical model.}
+}

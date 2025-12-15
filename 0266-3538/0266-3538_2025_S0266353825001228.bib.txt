@@ -1,0 +1,13 @@
+@article{YIN2025111154,
+title = {Thermally and magnetically tunable origami structures for electromagnetic wave absorption},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111154},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111154},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001228},
+author = {Zhiyang Yin and Longyu Bai and Songze Li and Yaping Li and Jie Fu and Miao Yu and Song Qi},
+keywords = {Electromagnetic absorption, Shape memory polymer, Carbonyl iron particles, Reconfiguration, Origami},
+abstract = {Metamaterial absorbers (MMAs), through artificially engineered electromagnetic properties, overcome the limitations of traditional absorbing materials, demonstrating significant advantages in lightweight design, efficiency, and customization. By integrating various dynamic tuning mechanisms, the electromagnetic properties of metamaterials can be flexibly adjusted according to external conditions to meet the requirements of different operating scenarios. This study developed an origami-inspired tunable electromagnetic wave absorption structure using shape memory polymers (SMPs) containing flake-like carbonyl iron powder (FCIP) and reduced graphene oxide (RGO). The structural parameters of the origami unit cell were optimized using a genetic algorithm to enhance its absorption bandwidth. The origami structure has a total thickness of 3.40 mm in its planar state and can achieve bidirectional switching between planar and folded states under thermal and magnetic field activation. In the folded state, it achieves an effective absorption bandwidth of 14.40 GHz within the frequency range of 3.60–18.00 GHz. The results indicate that the absorber exhibits reconfigurable shape memory properties and excellent broadband absorption characteristics under thermal and magnetic fields, offering new directions for the design and application of microwave absorbers.}
+}

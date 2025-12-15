@@ -1,0 +1,13 @@
+@article{WANG2025102650,
+title = {Collect vascular specimens in one cabinet: A hierarchical prompt-guided universal model for 3D vascular segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102650},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102650},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001594},
+author = {Yinuo Wang and Cai Meng and Zhe Xu},
+keywords = {Vascular segmentation, Foundation model, Prompt learning, Feature fusion, Frequency learning},
+abstract = {Accurate segmentation of vascular structures in volumetric medical images is critical for disease diagnosis and surgical planning. While deep neural networks have shown remarkable effectiveness, existing methods often rely on separate models tailored to specific modalities and anatomical regions, resulting in redundant parameters and limited generalization. Recent universal models address broader segmentation tasks but struggle with the unique challenges of vascular structures. To overcome these limitations, we first present VasBench, a new comprehensive vascular segmentation benchmark comprising nine sub-datasets spanning diverse modalities and anatomical regions. Building on this foundation, we introduce VasCab, a novel prompt-guided universal model for volumetric vascular segmentation, designed to “collect vascular specimens in one cabinet”. Specifically, VasCab is equipped with learnable domain and topology prompts to capture shared and unique vascular characteristics across diverse data domains, complemented by morphology perceptual loss to address complex morphological variations. Experimental results demonstrate that VasCab surpasses individual models and state-of-the-art medical foundation models across all test datasets, showcasing exceptional cross-domain integration and precise modeling of vascular morphological variations. Moreover, VasCab exhibits robust performance in downstream tasks, underscoring its versatility and potential for unified vascular analysis. This study marks a significant step toward universal vascular segmentation, offering a promising solution for unified vascular analysis across heterogeneous datasets. Code and dataset are available at https://github.com/mileswyn/VasCab.}
+}

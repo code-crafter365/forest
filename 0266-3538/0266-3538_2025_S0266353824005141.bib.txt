@@ -1,0 +1,13 @@
+@article{REN2025110944,
+title = {Electromagnetic wave absorption and enhanced mechanical properties of magnetic self-healing metal shell microcapsules filled polymer},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110944},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110944},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005141},
+author = {Qian Ren and Xiaoyu Zhang and Yiran Wu and Dawei Sun and Xin Zhang},
+keywords = {Electroless plating, Self-healing property, Magnetic microcapsules, Enhanced strength, Electromagnetic wave absorption},
+abstract = {In this work, PUF/PU@IPDI (PPI) polymer shell microcapsules were synthesized through interfacial polymerization and in situ polymerization. Subsequently, a layer of metal Ni was plated on the surface of microcapsules to fabricate Ni/PUF/PU@IPDI (NPPI) composites. The results revealed that NPPI microcapsules exhibited superior thermal stability and mechanical properties, and NPPI-60 obtained the greatest strength (102.8 MPa). The minimum reflection loss (RL) value of the NPPI-20 composite was up to −32.8 dB at 5.5 mm and the corresponding effective absorption bandwidth (EAB) was 2.4 GHz. Additionally, the NPPI-10 composite displayed the highest healing efficiency (78.6 % and 86.6 % for the scratch depth and width, respectively), and the mechanical strength and fracture toughness of epoxy resin were enhanced by the addition of metal microcapsules. The core-shell structure established by electroless plating can endow self-healing microcapsules with outstanding mechanical characteristics as well as good wave absorption capability, indicating that NPPI composites have promising applications in the field of electromagnetic wave absorption and function and structure integration design of composites.}
+}

@@ -1,0 +1,13 @@
+@article{MAGDY2025114678,
+title = {Unlocking the power of nanohybrids: A critical review on carbon nanomaterial-functionalized silver nanoparticles for advanced antimicrobial applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114678},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114678},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001857},
+author = {Galal Magdy and Rehab H. Elattar and Randa A. {Abdel Salam} and Ghada M. Hadad and Asmaa Kamal El-Deen},
+keywords = {Silver nanoparticles, Carbon nanomaterials, Antimicrobial applications, Characterization, Synthesis},
+abstract = {Over the last decades, nanotechnology has enabled the development of several inorganic nanoparticles with significant biocidal properties against diverse microorganisms. Silver nanoparticles (AgNPs) are among the most promising antimicrobial nanomaterials that have attracted substantial attention in various fields due to their low cost, low toxicity, biocompatibility, photo and chemical stability, easy preparation, high fluorescence, and tunability. Carbon nanomaterials (CNMs) are another appealing nanomaterial with antimicrobial qualities. While the antimicrobial efficacy of both AgNPs and CNMs is well-established, there is significant interest in the creation of CNMs/AgNPs hybrid materials for several applications due to their potential to exhibit synergistic bactericidal properties that surpass the yields of their components. This review represents a general overview of the different kinds, characterization techniques, synthesis processes, and antimicrobial activity of CNMs/AgNPs, along with an analysis of their benefits, drawbacks, and antimicrobial applications. Researchers and scientists interested in learning more about the potential of CNMs/AgNPs for advanced antimicrobial applications are likely to find this review to be a valuable resource.}
+}

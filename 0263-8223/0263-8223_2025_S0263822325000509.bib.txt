@@ -1,0 +1,13 @@
+@article{CAO2025118885,
+title = {Radial variational mode decomposition for visualizing delamination-induced Lamb wavefield anomalies},
+journal = {Composite Structures},
+volume = {356},
+pages = {118885},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118885},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000509},
+author = {Xuwei Cao and Fei Gao},
+keywords = {Lamb waves, Variational mode decomposition, Delamination, Wavefield visualization, Spectral entropy},
+abstract = {Mode conversion and scattering of Lamb waves propagating in composite plates occur when they encounter damage such as delamination. The residual wavefield comprises both converted modes, which carry valuable information for anomaly characterization, and background noise. The conventional filtering performed in the wavenumber domain requires the prior information of dispersion curves in the intact and anomaly regions. The proposed residual wavefield visualization method aims to highlight multiple delaminations, which includes coordinate transform, radial variational mode decomposition (VMD) and Riesz transform. In this method, the spectral entropy of residual wavefield serves as a criterion to find the optimal value of bandwidth parameter α. The numerical simulation conducted on quasi-isotropic carbon fiber reinforced plastic (CFRP) laminates visualized both near surface H-shaped delamination and far surface square delamination simultaneously. Further experimental analysis generated the residual monogenic wavefield images with visible far surface delamination, which shows the superiority of our method over the adaptive wavenumber filtering.}
+}

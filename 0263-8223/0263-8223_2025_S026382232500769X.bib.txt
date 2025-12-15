@@ -1,0 +1,13 @@
+@article{LI2025119604,
+title = {Low-velocity impact responses of a high-stiffness CFRP 3D hybrid auxetic lattice structure with superior energy absorption},
+journal = {Composite Structures},
+volume = {372},
+pages = {119604},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119604},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500769X},
+author = {Keda Li and Zhenyu Li and Yan Wang and Mabel Mei {Po Ho} and Hong Hu},
+keywords = {Auxetic, Composites, Low-velocity impact, Stretch-dominated structure, Negative Poisson’s ratio},
+abstract = {This study investigates the low-velocity impact response and failure mechanisms of novel 3D hybrid auxetic lattice (HAL) structures fabricated from carbon fiber-reinforced polymer (CFRP) laminates. Three structural configurations (R0.4, R0.5, and R0.6), characterized by different strut thickness ratios (t1/t0), are tested under impact energy levels of 50, 70, and 90 J. Finite element (FE) models are developed using ABAQUS/Explicit, incorporating the Hashin failure criteria to simulate the deformation and damage evolution. Experimental results are compared with FE simulation in terms of impact force histories, energy absorption, force-displacements, auxetic characteristics, and failure morphologies. The results reveal that increasing the t1/t0 ratio improves maximum impact force, compressive modulus, and energy absorption capacity while diminishing auxetic effects. All configurations exhibit negative Poisson’s ratio behavior under impact, driven by the rotation and buckling of oblique struts. Structural failure initiates at the top layer and propagates downward with increasing impact energy, evolving from localized strut breakage to complete structural collapse. These findings provide valuable insights for the design of lightweight, impact-resistant lattice structures for aerospace, automotive, and protective applications, where high energy absorption and stiffness are essential.}
+}

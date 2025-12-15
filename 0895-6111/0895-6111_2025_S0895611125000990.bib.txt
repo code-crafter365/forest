@@ -1,0 +1,13 @@
+@article{LI2025102590,
+title = {FeaCL: Carotid plaque classification from ultrasound images using feature-level and instance-level contrast learning},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102590},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102590},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000990},
+author = {Cheng Li and Kai Wang and Haitao Gan and Ran Zhou and Xinyao Cheng and Zhi Yang},
+keywords = {Carotid plaque classification, Self-supervised learning, Contrastive learning, Triplet network},
+abstract = {The classification of carotid plaques from ultrasound images in clinical application is crucial for predicting patient risks of cardiovascular and cerebrovascular diseases, as well as for developing appropriate treatment strategies. Although the effectiveness of deep learning in this domain is well-established, its performance is often limited by the scarcity of labeled carotid plaque images. To address label scarcity, we present a novel self-supervised learning technique known as FEature-level and instAnce-level contrast learning (FeaCL) to enhance carotid plaque classification. FeaCL first utilizes a triplet network in the pretext task where the strong- and weak-augmentation approach is employed. The triplet network promotes the similarity of the three different views from both feature and instance perspectives to learn effective representation of carotid plaques. Then in the downstream task, the encoder network is initialized by the network trained in the pretext task, and updated using labeled ultrasound images. Experimental results on an ultrasound image dataset show that FeaCL achieved a classification accuracy of 83.4% with 30% of the training data, marking an improvement of 16.3% compared to the network without the pretext task. It is indicated that FeaCL can help clinicians diagnose the type of carotid plaque and evaluate the risk of the disease. The source code is available at: https://github.com/a610lab/FeaCL.}
+}

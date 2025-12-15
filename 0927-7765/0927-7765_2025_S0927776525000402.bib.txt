@@ -1,0 +1,13 @@
+@article{TOK2025114533,
+title = {One step synthesis of tryptophan-isatin carbon nano dots and bio-applications as multifunctional nanoplatforms},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114533},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114533},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000402},
+author = {Kerem Tok and F. Baris Barlas and Ece Bayır and Ahmet Murat Şenışık and Figen Zihnioglu and Suna Timur},
+keywords = {Carbon Nano Dots (CNDs), Multifunctional nanomaterials, Tryptophan-isatin hybrid precursor, Cell Imaging, Theranostic nanoplatforms, BBB Permeability, Nanomedicine},
+abstract = {The development of natural molecule-derived carbon nano dots (CNDs) marks a significant advancement in biocompatible and sustainable nanomaterials. Tryptophan, capable of crossing the blood-brain barrier (BBB), serves as a precursor to numerous pharmacologically active compounds, while isatin and its derivatives have demonstrated anti-tumor effects, including against brain cancers. This study aimed to synthesize fluorescent CNDs from tryptophan-isatin hybrid precursor and explore their applications in glioblastoma treatment. These CNDs were characterized using techniques such as TEM, SEM-EDS, FTIR, XPS, Raman spectroscopy and UV-Vis spectrophotometry. In vitro tests using the U-87 glioblastoma cell line evaluated cell viability, affinity, and BBB permeability. The CNDs, between 4 and 7 nm in size, exhibited blue and green fluorescence, with no cytotoxic effects observed at concentrations up to 25 µg/mL. The highest BBB permeability rate was determined as 4.3 × 10⁻⁵ cm/s. Additionally, the CNDs demonstrated radiotherapeutic properties, leading to a 51 % reduction in cell viability. This research contributes to nanomedicine by introducing a novel biocompatible material with potential for targeted brain cancer imaging and therapy, while also suggesting broader applications beyond glioblastoma.}
+}

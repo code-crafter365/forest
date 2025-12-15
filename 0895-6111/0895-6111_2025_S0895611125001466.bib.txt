@@ -1,0 +1,13 @@
+@article{K2025102637,
+title = {Secure and privacy-preserving surgical instrument segmentation in minimally invasive surgeries using federated differential privacy approach},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102637},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102637},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001466},
+author = {Bakiya. K and Nickolas Savarimuthu},
+keywords = {Federated Learning, Federated Differential Privacy, Multi-head attention U-Net, SE-UNet, Federated Averaging, Paired T-Test},
+abstract = {Accurate segmentation of surgical instruments is essential for practical intraoperative guidance in robot-assisted procedures, contributing to improved surgical navigation and enhanced patient safety. Federated Learning is a decentralized approach that enables collaborative model training across institutions without sharing raw data, thereby ensuring data privacy, which is particularly crucial in healthcare. This paper introduces the Federated Averaging algorithm to address the quantity skew by aggregating client model weights centrally. In parallel, the Federated Differential Privacy algorithm was implemented to enhance data privacy by introducing controlled noise to gradients at the client level. For segmentation, we evaluated a U-Net, a Multi-head Attention U-Net for small instruments, and a Squeeze-and-Excitation U-Net for overall accuracy. These models were benchmarked on the datasets of the Kvasir-Instrument (gastrointestinal endoscopy) and RoboTool (20 diverse surgical procedures). Quantitative evaluations using FedAvg, FedSGD, and FedDP across U-Net variants demonstrated that SE-UNet with FedDP at 60 epochs yielded the best results with Dice Score: 99.00 % ± 0.01, Accuracy: 99.68 % ± 0.25, and mIoU: 98.05 % ± 0.01, highlighting superior generalization and convergence stability. Across all architectures, FedDP consistently outperformed FedAvg and FedSGD, with accuracy improvements ranging from 0.3 % to 2.0 % and mIoU gains up to 6.8 %, especially pronounced in SE-UNet. Extending training from 40 to 60 epochs enhanced model stability, with standard deviations reducing from as high as ±3.28 % to as low as ±0.01 %. Statistical analysis confirmed this benefit, with 83.3 % of configurations showing improved p-values, and overall significance rates increasing from 84.4 % to 91.1 %. SE-UNet exhibited the most consistent and robust performance improvements, with an average p-value reduction of 40.7 %, affirming its reliability under federated settings.}
+}

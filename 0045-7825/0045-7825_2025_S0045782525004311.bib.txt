@@ -1,0 +1,13 @@
+@article{KUMAR2025118159,
+title = {A comparative study of calibration techniques for finite strain elastoplasticity: Numerically-exact sensitivities for FEMU and VFM},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118159},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118159},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004311},
+author = {Sanjeev Kumar and D. Thomas Seidl and Brian N. Granzow and Jin Yang and Jan Niklas Fuhg},
+keywords = {Finite element model updating, Virtual fields method, Finite strain elastoplasticity, Automatic differentiation, PDE-constrained optimization},
+abstract = {Accurate identification of material parameters is crucial for predictive modeling in computational mechanics. The two primary approaches in the experimental mechanics community for calibration from full-field digital image correlation data are known as finite element model updating (FEMU) and the virtual fields method (VFM). In VFM, the objective function is a squared mismatch between internal and external virtual work or power. In FEMU, the objective function quantifies the weighted mismatch between model predictions and corresponding experimentally measured quantities of interest. It is minimized by iteratively updating the parameters of an FE model. While FEMU is seen as more flexible, VFM is commonly used instead of FEMU due to its considerably greater computational expense. However, comparisons between the two methods usually involve approximations of gradients or sensitivities with finite difference schemes, thereby making direct assessments difficult. Hence, in this study, we compare VFM and FEMU in the context of numerically-exact sensitivities obtained through local sensitivity analyses and the application of automatic differentiation software. To this end, we conduct a series of test cases to assess both methods under practical challenges using a finite strain elastoplasticity model.}
+}

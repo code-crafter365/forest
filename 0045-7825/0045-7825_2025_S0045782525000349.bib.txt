@@ -1,0 +1,13 @@
+@article{SHANG2025117762,
+title = {Computational homogenization of flexoelectric composites within the consistent couple stress theory},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117762},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117762},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000349},
+author = {Yan Shang and Ming Sun and Song Cen and Chen-Feng Li},
+keywords = {Computational homogenization, Couple stress theory, Flexoelectric composites, Hill's lemma, Penalty finite element},
+abstract = {The evaluation of flexoelectric composites with architected microstructures requires a reasonable estimation of their effective properties. To accomplish this, a computational homogenization scheme for flexoelectric composites based on the consistent couple stress theory is proposed in this work, where the extended Hill's lemma is strictly established and accordingly, different types of admissible boundary conditions, including the periodic boundary condition, required to impose on the representative volume element are systematically derived from the Hill macrohomogeneity condition. In particular, in order to show more clearly how to deduce the effective constitutive coefficients via the proposed method, its implementation in the plane problem is described in detail. Finally, to verify the effectiveness of the method, numerical examples are examined in which the computations are carried out by using the penalty 8-node quadrilateral element developed following the unsymmetric finite element method. The numerical results fully prove that the proposed method can estimate the equivalent properties of flexoelectric composites very effectively.}
+}

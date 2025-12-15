@@ -1,0 +1,13 @@
+@article{SRIVASTAVA2025114630,
+title = {Bright fluorescent biocompatible Magnozyme nanoclusters for brain-cell in-vivo live imaging},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114630},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114630},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001377},
+author = {Prachi Srivastava and Vivek Kumar Verma and Abhishesh Kumar Mehata and Mamata Singh and Shivesh Sabbarwal and M.S. Muthu and Biplob Koch and Manoj Kumar},
+keywords = {Magnesium nanoclusters, Confocal imaging, Z-stacking, IVIS imaging, Biocompatibility},
+abstract = {Multifluorescent, water-dispersible magnesium nanoclusters (Magnozyme) were obtained using a simple and economical synthesis procedure. The prepared particles were 4 nm in size, and they exhibited significant emission at 450, 545, and 628 nm with multiple excitations of 366,469 and 560 nm wavelengths. The prepared particle exhibited a maximum absolute quantum yield of 21.3, 6.8 % and 5 % in red, green and blue spectrum, respectively, with excellent photostability, good ionic strength tolerability, and broad-range pH stability. The prepared Magnozyme demonstrates 95 % cell viability in human glioma brain cell lines (U-87 MG) and can be used as a probe for cellular imaging. Furthermore, imaging with this brain cell revealed significant cytoplasmic accumulation in the red, green, and blue regions. The confocal Z-stack study revealed the presence of Magnozyme at a depth of the cellular level by capturing a series of images at different planer axes (z-axis). Furthermore, In-vivo toxicity assessments and in-vivo imaging in mice revealed the nontoxicity behavior of Magnozyme with their great staining ability in physiological conditions, confirming their candidature toward biological cell imaging/labeling purposes.}
+}

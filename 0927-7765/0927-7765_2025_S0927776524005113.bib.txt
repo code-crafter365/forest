@@ -1,0 +1,13 @@
+@article{LU2025114252,
+title = {Targeted delivery of cisplatin magnetic nanoparticles for diagnosis and treatment of nasopharyngeal carcinoma},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114252},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114252},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005113},
+author = {Jing Lu and Chaosheng Yu and Kun Du and Shuaijun Chen and Shuixian Huang},
+keywords = {Drug delivery, MR imaging, Magnetic nanoparticles, Diagnosis and treatment system},
+abstract = {Rapid advances in nanotechnology are paving the way for innovative breakthroughs in overcoming the current limitations in the clinical treatment of cancer and other prevalent diseases plaguing mankind. Magnetic nanoparticles composed of iron oxide (Fe3O4) are a novel class of nanoparticles that are receiving increasing attention in the field of cancer therapy. To address the inherent limitations, bare Fe3O4 can be functionalized, polymerized, assembled, or combined with other functional materials to produce a range of smart nanoplatforms suitable for tumor therapy. In this paper, we present a unique multifunctional therapeutic nanoplatform centered on aldehyde-oxidized sodium alginate-stabilized iron oxide nanoparticles (NPs) designed for T2-weighted magnetic resonance (MR) imaging. Sodium alginate oxide and ferric oxide nanoparticles were prepared respectively, and the two particles were mixed in a certain molar ratio to form a complex, which was coupled to target polypeptide GE11 by Schiff base reaction, and finally supported by cisplatin through coordination complexation. The prepared magnetic nanoparticles (hereinafter referred to as GE11-CDDP-ASA@Fe3O4) have an average diameter of 152.9 nm, and have good colloidal stability and cytocompatibility. The distinctive structure and composition of GE11-CDDP-ASA@Fe3O4 contribute to its excellent MRI imaging performance, positioning it as a nano platform suitable for enhancing the efficacy of combination therapy in tumor treatment. This is of great significance for translational nanomedicine applications.}
+}

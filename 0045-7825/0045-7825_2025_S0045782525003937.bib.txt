@@ -1,0 +1,13 @@
+@article{PRADHAN2025118121,
+title = {Multiscale topology optimization of architected fiber reinforced composites considering manufacturability},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118121},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118121},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003937},
+author = {Arijit Pradhan and Narasimha Boddeti},
+keywords = {Multiscale topology optimization, Architected fiber reinforced composites, Manufacturable design, Singularities},
+abstract = {Advances in additive manufacturing and tow-steered processes are now enabling the fabrication of fiber-reinforced composites (FRCs) with architected microstructures, via complex curvilinear fiber paths/layouts, for desired structural response at the macroscale. Engineers can leverage these advances, via multiscale topology optimization (MTO), to design structures with optimized macro and microstructures, and realize what we term as architected fiber-reinforced composites (AFRCs). However, a majority of MTO approaches do not consider manufacturability and lead to a significantly different manufactured structure than the optimized design. The most critical manufacturability considerations for AFRCs are no gaps or overlaps between adjacent fiber paths and no singularities, i.e., points where the local fiber orientation vector is not well-defined. To address these considerations, we devised an easy to implement MTO framework that innovatively employs both level set and density-based parametrizations, unlike other approaches in the literature. Specifically, we use a level set function to parametrize the fibrous microstructure while using fictitious densities for the macrostructure following the widely used density-based topology optimization. Gaps and overlaps between fiber paths are prevented by restricting the level set function to a distance field, while singularities are mitigated by penalizing the material stiffness tensor. The restriction to a distance field is achieved by minimizing the residual of the eikonal equation along with the principal objective of the design problem. The effectiveness of the proposed method is demonstrated by two-scale (i.e., macro and microstructures) and single-scale (microstructure-only) optimization of planar FRC structures with either continuous or discontinuous reinforcement.}
+}

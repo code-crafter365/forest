@@ -1,0 +1,13 @@
+@article{GU2025111234,
+title = {A coupled deep learning and DEM modelling approach for transverse crack prediction in UD-GFRP composites},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111234},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111234},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002027},
+author = {Zewen Gu and Xiangqing Kong and Jianlin Liu and Xiaoxuan Ding and Xiaonan Hou},
+keywords = {Deep neural network (DNN), Convolutional neural network (CNN), UD-GFRP lamina, Discrete element method (DEM), Microscopic crack initiation},
+abstract = {Glass fibre reinforced polymer (GFRP) composites are widely used in engineering applications due to their exceptional mechanical properties. An efficient surrogate modelling framework is highly demanded for the accurate prediction of cracks in unidirectional glass fibre reinforced polymer (UD-GFRP) composites. In this study, three deep learning models are developed to address the complexities of crack prediction at the microscopic level. Training and testing data are derived from discrete element method (DEM) modelling simulations of randomly generated representative volume elements (RVEs). A deep neural network (DNN) regression model is first constructed to predict the occurrence of the initial crack using input features derived from fibre distribution within RVEs. The model identifies the initial crack by predicting the contact bond with the highest regressed contact force. A second DNN model is developed to predict the location of the subsequent crack by incorporating features related to the position of the initial crack. The performance of the two trained DNN models are evaluated with unseen data, demonstrating and highlighting the increased complexity of the task. To improve computational efficiency and accuracy, a convolutional neural network (CNN) model is introduced for the prediction of initial cracks. By exploiting the microstructural images of GFRP, the CNN model captures spatial hierarchies and local features, enabling direct and accurate crack location prediction. Compared to the physics-based DEM model, the CNN model reduces computational time by several orders of magnitude, providing a scalable solution for full-field crack predictions.}
+}

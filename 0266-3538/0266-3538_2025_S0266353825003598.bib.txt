@@ -1,0 +1,13 @@
+@article{ZHANG2025111391,
+title = {Enhanced dielectric and energy storage performance of polyetherimide doping with molecular semiconductor all-organic composites},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111391},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111391},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003598},
+author = {Mingyang Zhang and Likun Zang and Hui Tong and Fuyuan Liu},
+keywords = {Molecular semiconductor, Polymer dielectric, All-organic composites, Leakage current, Energy storage density},
+abstract = {Polyetherimide (PEI), as a kind of high-temperature dielectrics, still face the issue of current leakage under thermo-electrical coupling fields, leading to a sharp degradation of energy storage performance. In this study, an intrinsic PEI with superior comprehensive properties was synthesized using 4,4'-(4,4′-isopropylidenediphenoxy)bis(phthalic anhydride) (BPADA) and 2,2-bis[4-(4-aminophenoxy)phenyl] propane (BAPP). Through molecular design, an "electron gate" mechanism was introduced via σ-π hyperconjugation effects, effectively suppressing long-range charge delocalization. The resulting intrinsic PEI achieves an energy storage density (Ud) of 1.93 J/cm3 at 150 °C, which is 20.6 % higher than that of commercial Ultem™ PEI film (1.6 J/cm3). Further modification was conducted by doping with three molecular semiconductors: 3,4,9,10-perylenetetracarboxylic diimide (PTCDI), 1,4,5,8-naphthalenetetracarboxylic dianhydride (NTCDA), and 3,4,9,10-perylenetetracarboxylic dianhydride (PTCDA). Density Functional Theory (DFT) simulations and Low-Energy Inverse Photoemission Spectroscopy (LEIPS) experiments reveal that all three semiconductors exhibit higher electron affinity than the intrinsic PEI. Additionally, Thermally Stimulated Depolarization Current (TSDC) reveals that the incorporation of molecular semiconductors increases trapped charges and trap energy level compared to intrinsic PEI. Both experimental and simulation results consistently demonstrate that molecular semiconductor doping can enhance energy storage performance by constructing deep trap sites within the PEI matrix. Experimental results demonstrate that at 150 °C, the 0.125 % PTCDI-doped PEI achieves a breakdown strength of 545 MV/m, an Ud of 3.71 J/cm3, and a charge-discharge efficiency (η) of 90.13 % (vs. 436 MV/m, 1.93 J/cm3, and 94.67 % for intrinsic PEI). This research provides an effective strategy for improving the capacitive performance of polymer dielectrics under thermo-electrical coupling conditions.}
+}

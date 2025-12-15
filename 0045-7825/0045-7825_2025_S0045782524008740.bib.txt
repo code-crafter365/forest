@@ -1,0 +1,13 @@
+@article{HAN2025117620,
+title = {Homogenization of shear-deformable beams and plates with periodic heterogeneity: A unified equilibrium-based approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117620},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117620},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008740},
+author = {Shilei Han and Yanze Xiao and Qiang Tian},
+keywords = {Homogenization, Shear-deformable, Beams, Plates, Periodic heterogeneity},
+abstract = {This paper presents a novel equilibrium-based approach to the linear homogenization of shear-deformable beams and plates with periodic heterogeneity. The proposed approach leverages the fact that, under equilibrium, the stress resultants and sectional strains in beams and plates vary at most linearly with respect to the axial or in-plane coordinates. Consequently, the displacement fields within a representative volume element (RVE) are composed of rigid-body, constant-strain, and linear-strain deformation modes, which are proportional to the stress resultants at the center of the beam or plate. By enforcing kinematic compatibility and equilibrium conditions on the lateral surfaces of adjacent RVEs, along with energetic equivalence conditions, the local and global equilibrium equations of the RVEs are derived, leading to singular linear equations for the warping matrix and sectional compliance matrix. The proposed method accounts for all potential stiffness couplings, resulting in fully coupled 6 × 6 and 8 × 8 sectional stiffness matrices for periodic beams and plates, respectively. Notably, the approach addresses stiffness coupling between transverse shear and other deformation modes, which are overlooked in other homogenization methods for periodic structures. Additionally, an equivalent minimization formulation is introduced to determine the warping field and sectional compliance matrix, addressing the homogenization problem in a variational manner. Numerical examples demonstrate that the macro-beam and plate models, using the predicted stiffness matrices, provide accurate displacement fields and three-dimensional stress fields within the linear deformation range. The limitations of the proposed method in addressing problems with significant geometric nonlinearities are also highlighted through numerical examples.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025118754,
+title = {Adaptive phase-field modeling for brittle fracture in isotropic/orthotropic piezoelectric materials using multi-patch isogeometric analysis},
+journal = {Composite Structures},
+volume = {354},
+pages = {118754},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118754},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008821},
+author = {Haozhi Li and Zhaowei Liu and Tiantang Yu and Leilei Chen},
+keywords = {Piezoelectric materials, Strain decomposition, Phase-field, Nitsche’s method, Isogeometric analysis, Adaptive refinement},
+abstract = {In this paper, an adaptive multi-patch isogeometric phase-field model is presented for brittle fracture in isotropic/orthotropic piezoelectric materials. The polynomial splines over hierarchical T-meshes (PHT-splines) functions are employed to represent both geometry and field variables. Nitsche’s method provides the continuity of all field variables, including displacement, electric potential, and phase-field at the coupling edge. The local refinement uses a mesh refinement strategy determined by a user-defined threshold for the phase-field variable. An approach that integrates hybrid formulation with staggered solving is utilized for the numerical implementation. The proposed method’s accuracy, reliability, and robustness are demonstrated using several fracture simulations, including tensile tests of rectangular and grooved ceramic plates with an edge crack, plate with a single hole, porous plate, and ceramic laminate with different material orientations.}
+}

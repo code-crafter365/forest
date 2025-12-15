@@ -1,0 +1,13 @@
+@article{MEYER2025114389,
+title = {Titanium dioxide nanotubes incorporated into conventional glass ionomer cement alter the biological behavior of pre-odontoblastic cells},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114389},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114389},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006489},
+author = {Maria Davoli Meyer and Rogério Meneses Ibiapina Coelho and João Pedro Rangel-Coelho and Bruna Carolina Costa and Lucas Novaes Teixeira and Elizabeth Ferreira Martinez and Renato Corrêa Viana Casarin and Mauro Pedrine Santamaria and Fabiana Mantovani Gomes França and Francisco Humberto Nociti-Jr and Paulo Noronha Lisboa-Filho and Kamila Rosamilia Kantovitz},
+keywords = {Glass Ionomer Cements, Dental Restoration, Odontoblasts, Pulp},
+abstract = {The objective was to address the repercussion of adding titanium dioxide nanotubes (TiO2-nt) into high-viscosity conventional glass ionomer cement (GIC) on the biological properties of pre-odontoblastic cells (MDPC-23) challenged by lipopolysaccharides (LPS - 2 μg/mL). TiO2-nt was added to Ketac Molar EasyMix at 3, 5, 7 %, whereas unblended GIC served as control. Analyses included proliferation (n=6; 24, 48, 72 h), metabolism (MTT; n=6; 24, 48, 72 h); morphology laser microscopy (n=3; 24, 48, 72 h); proteome assessments IL-1β, IL-6, IL-10, VEGF, TNF-α (n=3; 12, 18 h); mRNA levels (RT-PCR) of Il-1β, Il-6, Il-10, VEGF, TNF-α (n=3; 12, 18 h) and DSPP (n=3; 24, 72, 120 h). Data analysis included Shapiro-Wilk, Levene, and generalized linear models (α=0.05). Results demonstrated that cell proliferation increased over time for all groups, and was not impacted by TiO2-nt (p>0.05). GIC groups displayed lower MTT values compared to cells cultured without GIC discs (p=0.019); disregarding the presence of TiO2. Remarkably, TiO2-nt reversed the effect of GIC, reducing the levels of selected biomarkers. LPS treatment modified the expression of the immune-inflammatory markers by MDPC-23 cells (p<0.0001). Morphological analysis did not reveal distinctions for any of the studied. TiO2-nt modulated immune-inflammatory and dentin marker expression by MDPC-23 cells cultured on conventional GIC discs, and did not affect cell morphology/viability, regardless LPS exposure. In conclusion, TiO2-nt may become a reliable clinical strategy to encourage pulp tissue repair.}
+}

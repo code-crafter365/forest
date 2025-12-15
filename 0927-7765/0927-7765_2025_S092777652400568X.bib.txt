@@ -1,0 +1,13 @@
+@article{ABDELMULA2025114309,
+title = {Green synthesis of polyphenol-grafted lignin nanoparticles and their application as sustainable anti-acne, antioxidant, and UV-blocking agents},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114309},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114309},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400568X},
+author = {Waha Ismail Yahia Abdelmula and Babbiker Mohammed Taher Gorish and Sivasamy Sethupathy and Zhong Zijing and Hisham N. Altayeb and Daochen Zhu},
+keywords = {Lignin, Polyphenols, Green chemistry, Nanoparticles, Acne},
+abstract = {Acne is a persistent infectious skin condition primarily caused by Propionibacterium acne that affects 80 % of teenagers. The rise of antibiotic resistance in P. acnes has led to an increasing interest in exploring alternative antimicrobial agents. This study explored the effects of natural polyphenol (gallic and tannic acid)-grafted lignin nanoparticles on P. acnes and other pathogens causing skin infections. The process involved functionalizing lignin by grafting with gallic acid and tannic acid using laccase, followed by mechanical homogenization to synthesize lignin-gallic acid (LGAL-NPs) and lignin-tannic acid (LTAL-NPs) nanoparticles. LGAL-NPs and LTAL-NPs exhibited average low polydisperse particles of less than 60 nm and increased total phenolic content. Testing against P. acnes, S. aureus, and S. epidermidis showed that the nanoparticles had an MIC of 0.625 mg/mL. The effectiveness of LGAL-NPs and LTAL-NPs against acne-causing bacteria was attributed to their high phenolic content and nanosize. Furthermore, studies on the mechanism of action have revealed the interaction of LGAL-NPs with bacterial surfaces, destabilization of membranes, increase in ROS levels, and reduction of metabolic activity. Molecular docking results indicated that these nanoparticles effectively inhibited bacterial growth and compromised their pathogenic abilities by targeting and disrupting key virulence factors. Additionally, these nanoparticles exhibited antioxidant and UV-protecting properties, making them potentially useful in the cosmetic and pharmaceutical industries for developing skincare products. Their natural, low toxicity, cost-effective nature, and eco-friendly attributes make them a sustainable option for skincare applications.}
+}

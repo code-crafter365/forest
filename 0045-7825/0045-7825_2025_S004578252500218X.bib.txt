@@ -1,0 +1,13 @@
+@article{PRAKASH2025117946,
+title = {Nonintrusive projection-based reduced order modeling using stable learned differential operators},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {117946},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117946},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500218X},
+author = {Aviral Prakash and Yongjie Jessica Zhang},
+keywords = {Nonintrusive model reduction, Constrained regression, Stability, Differential operators, Scientific machine learning},
+abstract = {Nonintrusive projection-based reduced order models (ROMs) are essential for dynamics prediction in multi-query applications where underlying governing equations are known but the access to the source of the underlying full order model (FOM) is unavailable; that is, FOM is a glass-box. This article proposes a learn-then-project approach for nonintrusive model reduction. In the first step of this approach, high-dimensional stable sparse learned differential operators (S-LDOs) are determined using the generated data. In the second step, the ordinary differential equations, comprising these S-LDOs, are used with suitable dimensionality reduction and low-dimensional subspace projection methods to provide equations for the evolution of reduced states. This approach allows easy integration into the existing intrusive ROM framework to enable nonintrusive model reduction while allowing the use of Petrov–Galerkin projections. The applicability of the proposed approach is demonstrated for Galerkin and LSPG projection-based ROMs through four numerical experiments: 1-D scalar advection, 1-D Burgers, 2-D scalar advection and 1-D scalar advection–diffusion–reaction equations. The results indicate that the proposed nonintrusive ROM strategy provides accurate and stable dynamics prediction.}
+}

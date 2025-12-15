@@ -1,0 +1,13 @@
+@article{YIN2025104421,
+title = {ERTFNet: Enhanced RGB-T Fusion Network for semantic segmentation by integrating thermal edge features},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104421},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104421},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001444},
+author = {Hanqi Yin and Liguo Zhang and Yiming Sun and Guisheng Yin},
+keywords = {Semantic segmentation, RGB-T Fusion, Edge extraction},
+abstract = {Semantic segmentation is crucial for computer vision, especially in the field of autonomous driving. RGB-Thermal (RGB-T) fusion networks enhance semantic segmentation accuracy in road scenes. However, most existing methods employ the same module structure to extract features from both RGB and thermal images, and all the obtained features are subsequently fused, neglecting the unique characteristics of each modality. Nevertheless, the fused thermal features may introduce noise and redundancy into the network, which is capable of segmenting objects well solely using RGB images. As a result, the performance and accuracy of the approach are limited in complex scenarios. To address this problem, a novel method named Enhanced RGB-T Fusion Network (ERTFNet) is proposed by adopting the encoder–decoder design concept. The constructed encoder in ERTFNet can obtain fused features by combining the extracted edge features from thermal images with RGB image features processed by an attention mechanism. Then, the feature map is restored by a general decoder. Additionally, we introduce the spatial edge constraints during the training stage to further enhance the model’s ability to capture image details and improve both prediction accuracy and boundary clarity. Experiments on two public datasets, compared with existing methods, show that the proposed method can obtain more clear visual contours and higher prediction accuracy.}
+}

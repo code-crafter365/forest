@@ -1,0 +1,13 @@
+@article{LI2025119568,
+title = {Investigation on thermal characteristics and surface quality in grinding of CF/PEEK composites},
+journal = {Composite Structures},
+volume = {372},
+pages = {119568},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119568},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007330},
+author = {Pulin Li and Huan Zhao and Xin Yan and Zihang Wen and Rongguo Wang and Han Ding},
+keywords = {CF/PEEK, Grinding, Thermal characteristics, Surface roughness, Surface generation mechanism, Oil-on-water cooling technique},
+abstract = {Carbon fiber-reinforced poly-ether-ether-ketone (CF/PEEK) composites are of high interest in aviation, aerospace, energy, and other fields because of their superior strength-to-weight ratio and recyclability. Grinding can be used to achieve high-accuracy machining of CF/PEEK components. However, excessive heat accumulation during grinding, combined with the temperature sensitivity and unclear surface generation mechanisms of the material, frequently leads to various thermal damage and surface defects. To support grinding temperature control of CF/PEEK, an analytical thermal model considering anisotropic and heat transfer properties was developed and validated. Furthermore, grinding experiments were conducted to systematically investigate the effects of process conditions on the CF/PEEK thermal characteristics and surface quality. Results indicated that both adjusting grinding parameters and introducing cooling conditions effectively reduced CF/PEEK grinding temperatures below its glass transition temperature, however, cooling conditions were more effective than grinding parameters in reducing surface roughness. In addition, the surface generation mechanisms under various process conditions were studied. Grinding parameters resulting in high temperatures were found to induce surface defects associated with resin softening, whereas those leading to low temperatures caused defects related to fiber fractures. The oil-on-water cooling technique improved chip evacuation and significantly enhanced surface integrity and overall grinding quality. This study provides theoretical and technical guidance for high-quality processing of carbon fiber-reinforced thermoplastic composites.}
+}

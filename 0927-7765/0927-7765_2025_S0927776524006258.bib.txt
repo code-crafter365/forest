@@ -1,0 +1,13 @@
+@article{BEBESI2025114366,
+title = {Surface-enhanced infrared spectroscopic study of extracellular vesicles using plasmonic gold nanoparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114366},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114366},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006258},
+author = {Tímea Bebesi and Marcell Pálmai and Imola Csilla Szigyártó and Anikó Gaál and András Wacha and Attila Bóta and Zoltán Varga and Judith Mihály},
+keywords = {Extracellular vesicles, Citrate-capped gold nanoparticles, Cysteamine-capped gold nanoparticles, Surface-enhanced infrared spectroscopy (SEIRS), Plasmonics},
+abstract = {Extracellular vesicles (EVs), sub-micrometer lipid-bound particles released by most cells, are considered a novel area in both biology and medicine. Among characterization methods, infrared (IR) spectroscopy, especially attenuated total reflection (ATR), is a rapidly emerging label-free tool for molecular characterization of EVs. The relatively low number of vesicles in biological fluids (∼1010 particle/mL), however, and the complex content of the EVs’ milieu (protein aggregates, lipoproteins, buffer molecules) might result in poor signal-to-noise ratio in the IR analysis of EVs. Exploiting the increment of the electromagnetic field at the surface of plasmonic nanomaterials, surface-enhanced infrared spectroscopy (SEIRS) provides an amplification of characteristic IR signals of EV samples. Negatively charged citrate-capped and positively charged cysteamine-capped gold nanoparticles with around 10 nm diameter were synthesized and tested with blood-derived EVs. Both types of gold nanoparticles contributed to an enhancement of the EVs’ IR spectroscopic signature. Joint evaluation of UV-Vis and IR spectroscopic results, supported by FF-TEM images, revealed that proper interaction of gold nanoparticles with EVs is crucial, and an aggregation or clustering of gold nanoparticles is necessary to obtain the SEIRS effect. Positively charged gold nanoparticles resulted in higher enhancement, probably due to electrostatic interaction with EVs, commonly negatively charged.}
+}

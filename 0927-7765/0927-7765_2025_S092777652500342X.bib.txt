@@ -1,0 +1,13 @@
+@article{ZHANG2025114835,
+title = {Hollow semimetal PtTe2 nanorods with high performance for photothermal/photodynamic/chemodynamic therapy in the NIR-II window},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114835},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114835},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500342X},
+author = {Mengyao Zhang and Xin Hu and Yudai Huang},
+keywords = {Photodynamic therapy, Photothermal therapy, Semimetal, NIR-II laser irradiation},
+abstract = {Compared to the first near-infrared (NIR-I) window (650–1000 nm), the second near-infrared (NIR-II) window (1000–1700 nm) is more valuable for photothermal treatment (PTT) due to its deeper tissue penetration and lower phototoxicity. However, the therapeutic efficacy of PTT remains suboptimal owing to the inherently low photothermal conversion efficiency (PCE) of existing materials. Therefore, the development of nanomaterials with high PCE is a promising strategy for improving anti-tumor therapy. In this study, hollow semimetal PtTe2 nanorods were synthesized. Their unique electronic properties and hollow structure contribute to achieving high PCE under NIR-II irradiation, while simultaneously promoting reactive oxygen species (ROS) generation. Additionally, PtTe2 catalyzed the endogenous conversion of hydrogen peroxide (H2O2) into oxygen (O2) and hydroxyl radicals (•OH), further enhancing anti-tumor effects via chemodynamic therapy (CDT). In vivo experiments confirmed the excellent biocompatibility of PtTe2, and laser treatment following PtTe2 administration significantly inhibited tumor growth, demonstrating its favorable therapeutic efficacy. This study establishes a new nanoplatform for the treatment of malignant tumors through photothermal/photodynamic/chemodynamic therapy, providing valuable insights for future research on multifunctional cancer therapies.}
+}

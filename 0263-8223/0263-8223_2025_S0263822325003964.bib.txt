@@ -1,0 +1,13 @@
+@article{BODEKER2025119231,
+title = {A novel FFT-based micromechanical modeling approach for the fracture behavior of a composite core in metal sandwich plates using a cohesive zone model},
+journal = {Composite Structures},
+volume = {368},
+pages = {119231},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119231},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003964},
+author = {Felix Bödeker and Anders Biel and Ramin Moshfegh and Stephan Marzi},
+keywords = {Cohesive zone modeling, FFT-based computational homogenization, Sandwich plates, Composite core, Material layer, Fracture mechanics},
+abstract = {HybrixTM sandwich plates (Lamera AB, Gothenburg, Sweden) with metal face sheets could replace standard metal plates in many lightweight applications. Their composite core, which is crucial for the structural performance and the fracture behavior of the whole plate, consists of polymer fibers and binder, and a large amount of porosity. In this work, a novel micromechanical modeling approach for the fracture behavior of the composite core is presented, which could allow for a faster and improved design process for novel configurations of the plates. The modeling approach involves a novel method for the generation of virtual models for the complex microstructure of the core and our recently developed theoretical framework of an FFT-based computational homogenization scheme for cohesive zones. Furthermore, the parameters of the elastic–plastic material model including a non-local, ductile damage model were identified using microindentation experiments and mode I tests (Double Cantilever Beam). The novel modeling approach, along with the FFT-based homogenization scheme for cohesive zones, was also experimentally validated using mode III tests (Split Cantilever Beam) and a corresponding Finite Element simulation.}
+}

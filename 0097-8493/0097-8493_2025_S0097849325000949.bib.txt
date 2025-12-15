@@ -1,0 +1,13 @@
+@article{CHEN2025104253,
+title = {Multi-Level Cross-Attention Point Cloud Completion Network},
+journal = {Computers & Graphics},
+volume = {130},
+pages = {104253},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104253},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000949},
+author = {Wen-Xuan Chen and Yong Hu and Bei-Yi Tian and Wen Luo and Lin-Wang Yuan},
+keywords = {Point cloud, Transformer, Deep learning, Shape completion},
+abstract = {Sensors often acquire point cloud data that is sparse and incomplete due to limitations in resolution or occlusion. Therefore, it is essential for practical applications to reconstruct the original shape from the incomplete point cloud. However, the existing methods based on Transformer architecture fail to make full use of the cross-attention mechanism to extract and fuse the features of points and the relationship between points, leading to a deficiency in detailed feature representation. In this paper, we present Multi-Level Cross-Attention Point Cloud Completion Network (MLCANet), which leverages the multi-level features of point clouds and their feature associations to optimize the generation of points. First, MLCANet enhances the features of the point cloud through Multi-Scale Feature Enhancement Cross-Attention (MSFECA) within the encoder. This approach facilitates interaction between channel and spatial dimension information derived from both low-resolution and high-resolution point clouds. Second, we propose Structural Similarity Cross-Attention (SSCA) in the decoder to learn prior knowledge from partial point clouds, thereby improving detail recovery. Third, we present an Augmented Affiliation Transformation (AAT) designed to correct positional discrepancies between partial and missing points. Our experiments demonstrate the effectiveness of our method for completing several challenging point cloud data both qualitatively and quantitatively, with the Chamfer Distance (CD) reduced by at least 3.1% and 4.7% compared to existing methods on the ShapeNet-Part and ModelNet40 datasets.}
+}

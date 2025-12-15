@@ -1,0 +1,13 @@
+@article{YANG2025114994,
+title = {Quaternized chitosan-coated PLGA nanoparticles co-deliver resveratrol and all-trans retinoic acid to enhance humoral immunity, cellular immunity and gastrointestinal mucosal immunity},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114994},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114994},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005016},
+author = {Dan Yang and Nannan Wang and Lijuan Cao and Huimao Liu and Hanyan Cheng and Haitao Ma and Lixia Li and Yuanfeng Zou and Xinghong Zhao and Xun Zhou and Xu Song and Dongmei Zhang and Mingyue Li and Renyong Jia and Zhongqiong Yin},
+keywords = {Quaternized chitosan, PLGA nanoparticles, Resveratrol/all-trans retinoic acid, Humoral immunity, Cellular immunity, Gastrointestinal immunity},
+abstract = {Conventional vaccine adjuvants are limited by their mechanisms of action and administration routes, often failing to simultaneously elicit robust systemic and mucosal immune responses. This limitation compromises the establishment of dual protective barriers during early pathogen invasion. Therefore, we developed an innovative poly (lactic-co-glycolic acid) (PLGA) nanoparticle-based adjuvant system (Res/RA QCS NPs) featuring quaternized chitosan (QCS) surface modification for ovalbumin (OVA) delivery, co-encapsulating dual immunomodulators – resveratrol (Res) and all-trans retinoic acid (RA). The results showed that the Res/RA QCS NPs possessed excellent antigen adsorption capacity (adsorption rate of 93.87 ± 5.27 %) and significantly enhanced the recruitment of antigen-presenting cells (APCs) at the injection site and lymph node-targeting delivery. In vitro immunological evaluation further confirmed that OVA-Res/RA QCS NPs possessed excellent immune-enhancing properties, including: efficient antigen internalization, Dendritic Cells (DCs) maturation activation, enhanced cytokine secretion and mucosal homing ability. In vivo immunity experiments, OVA-Res/RA QCS NPs not only induced high levels of serum antigen-specific IgG antibodies and proliferation and activation of T cells in peripheral lymphoid tissues, but also stimulated the secretion of large amounts of antigen-specific IgA in the gastrointestinal mucosa, which realized the dual activation of systemic and mucosal immunity. This study provides an important theoretical and experimental basis for the development of novel vaccine adjuvants and immunotherapy strategies based on intestinal immunomodulation.}
+}

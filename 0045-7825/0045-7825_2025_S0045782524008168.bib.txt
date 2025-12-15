@@ -1,0 +1,13 @@
+@article{WANG2025117562,
+title = {Isogeometric analysis of adhesion between visco-hyperelastic material based on modified exponential cohesive zone model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117562},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117562},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008168},
+author = {Chunfa Wang and Yan Li and Ling Tao and Yudong Li and Libang Hu and Zhiqiang Feng},
+keywords = {Isogeometric analysis, Bi-potential contact algorithm, Modified exponential cohesive zone model, Visco-hyperelastic material},
+abstract = {This work suggests a reliable contact algorithm for simulating adhesion between soft bodies based on the isogeometric analysis. To accurately characterize adhesion-contact regional effects, a modified exponential cohesive zone model is proposed by incorporating a real contact area influence factor into the original exponential cohesive zone model. Considering the nonlinear large-deformation effect on soft bodies, numerical implementations of isogeometric analysis and bi-potential contact algorithm are proceeded, which provide a continuous normal field of contact interface and precise determination of contact forces. This comprehensive framework is implemented on our in-house isogeometric computing platform, and depicting the ability to recover from large deformations as well as time-dependent mechanical properties of soft bodies through the visco-hyperelastic model. Numerical examples encompassing debonding scenarios involving edges, centers, as well as smooth and rough surfaces, demonstrate the validity on present algorithm with adhesive contact mechanism. The adhesive effects on soft bodies are investigated detailedly via the influences on material viscosity and surface roughness. It has a prospect on providing a valuable reference for future studies especially on analyzing the interfacial adhesion behaviors of biomimetic structures.}
+}

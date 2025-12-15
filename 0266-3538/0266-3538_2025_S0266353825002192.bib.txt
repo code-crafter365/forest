@@ -1,0 +1,13 @@
+@article{MAO2025111251,
+title = {Mechano-electrochemical analysis of lithiation-induced deformation of composite electrodes using carbon fibre as current collector},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111251},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111251},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002192},
+author = {Rui Mao and Sheng Feng and Zhenkun Lei and Ruixiang Bai and Wei Tan},
+keywords = {Graphite-carbon fibre bilayer electrodes, Lithium iron phosphate-carbon fibre bilayer electrodes, Lithiation deflection, Mechanical stress, Composite structural battery},
+abstract = {Composite structure batteries often use carbon fibres (CFs) as current collectors. CFs with active materials to form composite electrodes introduces complexity in understanding their role during electrochemical reactions, as the CFs used as current collectors also undergo lithium-ion intercalation, leading to volume expansion and deformation. This study investigates the relationship between lithiation potential and deflection for anode and cathode, graphite-carbon fibre bilayer electrodes (GCBE) and lithium iron phosphate-carbon fibre bilayer electrodes (LCBE), using an in-situ electrochemical cell measurement device. Experimental results indicate that, for the same thickness ratio, during the lithiation the deflection of LCBE is only 13.3 % of that of GCBE. The CFs in LCBE primarily function as current collectors for electron transport and have minimal impact on the potential. In contrast, the CFs in GCBE not only serve as current collectors for electron transport but also participate in partial electrochemical reactions, altering the discharge curve and reducing the electrode potential. A numerical model incorporating mechanical stress (MS) between composite electrode particles and current collector lithiation of composite electrodes was developed. Numerical simulation results reveal that MS in composite electrodes inhibits the concentration, lithiation rate and surface stress of active materials, but promotes them of the current collector, altering the lithium ions distribution especially in the CFs of the LCBE. Additionally, the thickness ratio between the graphite layer and CFs in the GCBE significantly impacts the diffusion rate and the deflection trend during lithiation. When the graphite layer thickness exceeds the CF thickness, the deflection curve shows a monotonically increasing trend. Conversely, when the graphite thickness is less than the CF thickness, the deflection curve exhibits an initial increase followed by a decrease.}
+}

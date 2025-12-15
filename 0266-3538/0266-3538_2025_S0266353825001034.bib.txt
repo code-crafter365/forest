@@ -1,0 +1,12 @@
+@article{JIANG2025111135,
+title = {Electrical and thermal conductive composites with thermal management and electromagnetic shielding enhanced by 3D network},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111135},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111135},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001034},
+author = {Chengwei Jiang and Changxiang Hao and Chunfang Zi and Jing Li and Weijun Liu and Yingman Bian and Fangyuan Sun and Yiqi Xu and Yuanxin Yan and Liyang Wang and Fengyu Su and Yanqing Tian},
+abstract = {The increasing integration and power density of electronic devices demands materials with superior thermal management and electromagnetic interference (EMI) shielding properties. Herein, we developed a three-dimensional conductive polymer composite by combining amino-silane modified graphene nanoplates (mGNPs) and carboxylated carbon nanotubes (CNT-COOHs) through salt template-assisted assembly and vacuum impregnation. The composite exhibited dramatically enhanced thermal conductivity from 0.154 W/m·K of pure polydimethylsiloxane (PDMS) to 9.86 W/m·K (In-plane) and 7.62 W/m·K (Out-plane), along with superior EMI shielding effectiveness from 3.1 dB to 78.6 dB at merely 9.78 wt% fillers (e.g. mGNPs and CNT-COOHs) loading. The remarkable improvement stems from the synergistic effects of the 3D network architecture and improved interfacial compatibility. Practical tests demonstrated excellent heat dissipation capabilities in LED devices, maintaining the device temperature at 34.3 °C compared to 127.3 °C with pure PDMS. The superior thermal and EMI shielding performances of these composites indicate great potential for both thermal management and electromagnetic protection in advanced electronic applications.}
+}

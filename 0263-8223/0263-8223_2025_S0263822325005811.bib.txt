@@ -1,0 +1,13 @@
+@article{FU2025119416,
+title = {Analysis of thermo-kinetic behavior and thermoforming stresses of woven fabric/thermoplastic polyether-ether-ketone composites},
+journal = {Composite Structures},
+volume = {370},
+pages = {119416},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119416},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005811},
+author = {Yutong Fu and Yifeng Dong and Lin-Hui Gong and Jin Zhou},
+keywords = {Thermoplastic resin, PEEK, Fabrics, Thermoforming stress, Finite element analysis (FEA)},
+abstract = {With the development of fabric-reinforced thermoplastic composites for aerospace applications, their molding processes are receiving increasing attention. The viscoelastic thermo-kinetic behavior and thermoforming stresses of woven fabric-reinforced special engineering plastic polyether-ether-ketone (PEEK) composites, which are two critical factors for developing high performance woven fabric-reinforced PEEK composites, are discussed in this work. Initially, Prony model and Williams-Landel-Ferry model are used to describe the thermoviscoelastic behavior and the temperature–time shift of PEEK during crystallization process, and crystallization deformation and heat release are considered in the theoretical model comprehensively. Subsequently, the numerical model is developed to describe the crystallization molding process of PEEK matrix 2D and 3D typical woven composite materials. Composites with the same processing parameters are fabricated to validate the accuracy of the theoretical model and numerical simulation results. The results show that the maximum residual stress appears on the interlock yarn in 3D woven structures. Besides, the thermoforming stresses increase when the angle between the weaving direction of interlock yarn and the horizontal direction increases. The comparison of the residual stresses in different structures reveals that the 3D through-the-thickness angle-interlock woven structure exhibits lower thermoforming stress and beneficial molding effects. This study is of great significance for the digital forming development of thermoplastic composites.}
+}

@@ -1,0 +1,13 @@
+@article{SUN2025110936,
+title = {Efficient property-oriented design of composite layups via controllable latent features using generative VAE},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110936},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110936},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005062},
+author = {Huaixiang Sun and Xiaodong Wang and Jiaxue Li and Zengshan Li and Zhidong Guan},
+keywords = {Polymer-matrix composites (PMCs), Non-conventional laminates, Inverse design, Generative machine learning, Latent features},
+abstract = {Fiber-reinforced composites provide substantial tailoring potential, while the extensive parameters and complex coupling mechanisms pose formidable challenges to layup designs. This paper presents an efficient inverse design framework for composite layups utilizing a variational autoencoder (VAE), which is applicable to non-conventional laminates. By leveraging the VAE's exceptional feature extraction and generative capabilities, the decoder rapidly produces layups with desired properties through controllable feature vectors. Based on the stacking characteristics of layups, multi-scale one-dimensional convolutions precisely extract sequence features relevant to mechanical properties and specific manufacturing constraints. A customized loss function is formulated to constrain the latent features, while addressing the non-uniqueness problem for layups with certain mechanical properties. The developed property-oriented VAE can generate 100,000 layups in seconds, achieving an average success rate of 66.9 % under comprehensive in-plane and bending stiffness design, and remains effective for 100-ply thick laminate. For comparison, the VAE model outperforms the genetic algorithm and the logic-based method in reinforced panel designs, reducing the retrieval error by 46.4 % and 38.1 %, respectively. The proposed approach demonstrates flexible and efficient design advantages using generative machine learning models, and is easily extendable to other inverse design scenarios.}
+}

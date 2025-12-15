@@ -1,0 +1,13 @@
+@article{WU2025106795,
+title = {A Knudsen layer correction model based on the lattice Boltzmann method},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106795},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106795},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002555},
+author = {Yongjia Wu and Ouyue Zhang and Qinggang Wang and Xinyi Yang and Donghao Zhao and Tingzhen Ming},
+keywords = {Knudsen layer, Lattice Boltzmann method, Microchannel gas flow, Slip effect, Correction model},
+abstract = {The lattice Boltzmann method (LBM), widely applied in microscale flow research, faces challenges in accurately capturing gas slip effects despite studies on the Knudsen layer, as existing or modified models often suffer from complexity and limited accuracy. This study presents a simple correction function model that accounts for solid wall effects and accurately captures the slip behavior of the fluid. A sensitivity analysis of its three adjustable parameters, C1​, C2, and C3​, reveals that C1​ has the most significant influence on the dimensionless mass flow rate, followed by C2​, while C3​ has the least impact. The optimal parameter values are determined accordingly as C1=1.8, C2=1.6, and C3=0.1. The improved model is applied to modeling the Poiseuille flow between two parallel plates in the transition regime. The results indicate that the bulk velocity and wall slip velocity obtained using this model exhibit excellent agreement with reference values derived from the solution of the linearized Boltzmann equation. By optimizing the slip velocity, the relative deviation is reduced to within 2.5 % in the small Knudsen number range of the transition regime (Kn≤1.1284), with a minimum error of only 0.7 % at certain Knudsen numbers. In the large Knudsen number range (Kn>1.1284), the relative deviation remains within 5 %. Simulations of pressure-driven flow and flow past a square cylinder further demonstrated that the model attained satisfactory accuracy, thereby validating its predictive capability. These results indicated that the improved model accurately captured Knudsen layer effects, gas slip phenomena, and compressibility effects.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025117980,
+title = {A novel data-driven digital reconstruction method for polycrystalline microstructures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117980},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117980},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500252X},
+author = {Bingbing Chen and Dongfeng Li and Liyuan Wang and Xiangyun Ge and Chenfeng Li},
+keywords = {Alloy material, Crystal plasticity finite element, Microstructural reconstruction, Representative volume element, Structure–property linkage, Electron backscatter diffraction},
+abstract = {Data-driven digital reconstruction is a power tool for building digital microstructures for such heterogeneous materials as porous media and composites. It uses scanned images as reference and generates digital microstructures through optimisation procedures or computer vision methods. However, data-driven digital reconstruction methods do not apply to polycrystalline microstructures because their raw measurement data (lattice orientation, grain structure, and phase distribution) do not naturally correspond to RGB images. It faces challenges such as discontinuities and ambiguities in orientation colouring, as well as a lack of algorithms for extracting orientation data from RGB images. This paper introduces a novel data-driven digital reconstruction method for polycrystalline microstructures. The method includes experimental acquisition of microstructural data (such as phase map, lattice symmetry, and lattice orientation), conversion of experimental data to RGB image formats for continuous and symmetry-conserved visualisation, image generation from continuous and symmetry-conserved orientation colouring, and reconstruction of grain data from synthesised RGB images. The results demonstrate that this method enables efficient microstructure reconstructions with high fidelity to actual microstructural characteristics, addressing the limitations of traditional methods. Furthermore, by offering realistic digital microstructure models, this novel data-driven reconstruction scheme can be readily integrated with simulation tools to improve the study of structure–property linkages in polycrystalline materials.}
+}

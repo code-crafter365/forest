@@ -1,0 +1,13 @@
+@article{KANG2025119127,
+title = {Compressive behaviour and mechanisms of supersulfated cement enhanced by biochar},
+journal = {Composite Structures},
+volume = {365},
+pages = {119127},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119127},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002922},
+author = {Ziye Kang and Ning Li and Yilun Yang and Tianchang Li},
+keywords = {Supersulfated cement, Biochar, Compressive strength, Acoustic emission, Digital image correlation},
+abstract = {The incorporation of biochar (BC) into supersulfated cement (SSC) offers a promising approach to enhance its low-carbon performance. This study explores the compressive behavior and mechanisms of BC-modified SSC through compressive strength, acoustic emission, digital image correlation, and scanning electron microscopy tests. The results reveal that 2 % BC optimally increases compressive strength by 11.0 %, and a strength prediction model is proposed. Apparent crack analysis demonstrates that BC-modified SSC exhibits diverse cracking patterns. The transverse strain of SSC containing 2 % BC is 1.2 times greater than unmodified SSC. Microcrack monitoring indicates that the AE signal amplitude of SSC modified with 2 % BC extends beyond the original range of 35–60 dB observed in pure SSC paste, reaching 60–80 dB due to the fracture of BC. Furthermore, the inclusion of 2 % BC increases the proportion of shear cracks in SSC composites to 44.1 %, primarily attributed to the dislocation effect induced by BC interlocking. Microstructure observations show that BC tends to induce cracking in interfacial transition zone. At the optimal dosage, BC densifies the matrix and significantly enhances energy dissipation through longitudinal splitting and transverse fracture. Thus, the appropriate incorporation of BC can markedly improve the compressive cracking resistance of SSC composites.}
+}

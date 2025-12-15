@@ -1,0 +1,13 @@
+@article{XU2025118148,
+title = {Neural operators from the Cole–Hopf transformation: Leveraging relations between PDEs for efficient operator learning},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118148},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118148},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004207},
+author = {Xingzi Xu and Johann Guilleminot and Vahid Tarokh},
+keywords = {Cole–Hopf transformation, Multi-fidelity approaches, Neural operators, Operator learning, Scientific machine learning},
+abstract = {Partial differential equations (PDEs) constitute the primary theoretical tool to model complex physical phenomena across diverse scientific disciplines, from materials science to fluid dynamics. While (physics-informed) operator learning approaches have emerged as promising alternatives to traditional PDE solvers, such as finite element and finite difference methods, data scarcity and potential inability to capture complex physical behaviors limit their effectiveness. Moreover, current neural PDE solvers rely primarily on empirical training, overlooking the inherent mathematical relationships between PDEs that could inform their solutions. We address these limitations by introducing the neural Cole–Hopf transformation (CHT), a novel framework — resembling a multi-fidelity method — that leverages mathematical connections between computationally intensive PDEs and their more tractable counterparts. In addition to theoretical derivations, we provide an extensive assessment concerning state-of-the-art techniques, including vanilla neural operators and a multi-fidelity neural operator setting involving two sequential learning problems. The presented results demonstrate that CHT improves the Pareto efficiency that measures the trade-off efficiency between inference time and normalized errors by one order of magnitude compared to existing single-fidelity and multi-fidelity neural PDE solvers. By incorporating real-time physical features into the neural solution process, CHT significantly improves the accuracy and efficiency of existing operator learning frameworks.}
+}

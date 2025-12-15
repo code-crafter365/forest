@@ -1,0 +1,13 @@
+@article{AYOUB2025117799,
+title = {Improved Greedy Identification of latent dynamics with application to fluid flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117799},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117799},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000714},
+author = {R. Ayoub and M. Oulghelou and P.J. Schmid},
+keywords = {Parametric reduced order models, Machine learning model discovery, Data-assimilation, Subspaces interpolation},
+abstract = {Model reduction is a key technology for large-scale physical systems in science and engineering, as it brings behavior expressed in many degrees of freedom to a more manageable size that subsequently allows control, optimization, and analysis with multi-query algorithms. We introduce an enhanced regression technique tailored to uncover quadratic parametric reduced-order dynamical systems from data. Our method, termed Improved Greedy Identification of Latent Dynamics (I-GILD), refines the learning phase of the original GILD approach proposed in Oulghelou et al. (2024). This refinement is achieved by reorganizing the quadratic model coefficients, allowing the minimum-residual problem to be reformulated using the Frobenius norm. Consequently, the optimality conditions lead to a generalized Sylvester equation, which is efficiently solved using the conjugate gradient method. Analysis of the convergence shows that I-GILD achieves superior convergence for quadratic model coefficients compared to GILD’s steepest gradient descent, reducing both computational complexity and iteration count. Additionally, we derive an error bound for the model predictions, offering insights into error growth in time and ensuring controlled accuracy as long as the magnitudes of initial error is small and learning residuals are well minimized. The efficacy of I-GILD is demonstrated through its application to numerical and experimental tests, specifically the flow past Ahmed body with a variable rear slant angle, and the lid-driven cylindrical cavity problem with variable Reynolds numbers, utilizing particle-image velocimetry (PIV) data. These tests confirm I-GILD’s ability to treat real-world dynamical system challenges and produce effective reduced-order models.}
+}

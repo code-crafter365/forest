@@ -1,0 +1,13 @@
+@article{PENG2025118886,
+title = {Stacking sequence optimization of variable thickness composite laminated plate based on multi-peak stacking sequence table},
+journal = {Composite Structures},
+volume = {356},
+pages = {118886},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118886},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000510},
+author = {Xiang Peng and Kenan Chen and Weiqiang Jia and Kexin Li and Chen Huang and Xin Liu},
+keywords = {Composite laminated plate, Stacking sequence, Variable thickness, Multi-peak stacking sequence table, Optimization design},
+abstract = {This paper demonstrates a stacking sequence optimization method for variable thickness composite laminated plates via multi-peak stacking sequence table (MPSST). “Multi-peak” refers to the capability of composite plates to have non-monotonic thickness variations, allowing multiple peak thicknesses across different regions. To enhance design flexibility and obtain better optimization results, this study divides the composite laminated plate into several sub panels using local minimum thickness and generates various ply structures through ply-by-ply insertion from the dividing area. The concept of MPSST is developed to describe the ply drop sequence between dividing area and sub panels, which can expand the design space while maintaining ply continuity. Then the stacking sequence optimization problem is transformed into the optimization design of multiple variables in MPSST. Through optimizing the stacking sequence of the thinnest region and inserted plies of sub panels, the optimum stacking sequences of multiple regions are obtained, which can decrease the total number of optimization variables and increase the manufacturability of optimization results. The application example of the 18-region composite plate shows that the proposed methodology can reduce the total weight from 28.55 kg with the traditional SST method to 27.89 kg, representing a reduction of 2.31 %, demonstrating its effectiveness and accuracy.}
+}

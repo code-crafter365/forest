@@ -1,0 +1,13 @@
+@article{PAVLOVIC2025119650,
+title = {Design, modelling and experimental validation of a composite suspension system for solar EVs},
+journal = {Composite Structures},
+volume = {373},
+pages = {119650},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119650},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008153},
+author = {Ana Pavlovic and Giangiacomo Minak},
+keywords = {Suspension, Torsion bar, Electric vehicles, Lightweight design, CFRP, FEM},
+abstract = {This study presents the design, finite element modeling, and experimental validation of a novel rear suspension system for lightweight, solar-powered electric vehicles. The proposed system features stiffness-tunable components made entirely from carbon fiber-reinforced polymers (CFRPs), including a torsion bar and flexural springs engineered to maximize the strength-to-weight ratio while ensuring fail-safe operation. This work represents one of the first fully integrated efforts to design, simulate, and validate a complete CFRP-based suspension system tailored for solar vehicle applications, with specific attention to redundancy and reliability. A multilayer layup strategy is adopted to customize the mechanical response under vertical, lateral, and torsional loading. Finite Element (FE) analyses using layered shell elements are conducted to assess stress distributions and identify potential failure zones, employing the Tsai–Wu failure criterion. Experimental testing confirms the accuracy of the numerical predictions, with stiffness deviations below 10% under representative loading conditions. The results demonstrate the feasibility of using anisotropic CFRP laminates to achieve compact, efficient, and reliable suspension systems with stiffness-tuning capabilities. The proposed approach offers a validated design methodology suitable for long-distance solar vehicle competitions, where weight, safety, and operability under partial damage are critical.}
+}

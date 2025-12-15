@@ -1,0 +1,13 @@
+@article{KAYBAL2025108879,
+title = {Integration of polysiloxane-modified halloysite nanoclay nanocomposite coatings on fiber-reinforced polymeric composites structures: Part II—Icing/deicing, self-cleaning, sandpaper abrasion, and water immersion performances},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108879},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108879},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001733},
+author = {Halil Burak Kaybal and Hayrettin Duzcukoglu and Ramazan Asmatulu},
+keywords = {Fiber composites, Icing/deicing, Sanding abrasion, Self-cleaning},
+abstract = {Cold weather conditions such as frost, snow, and freezing rain can limit the performance of fiber-reinforced composites, commonly used in aviation, defense, automotive, and other industries, potentially causing damage. Ice accumulation on surfaces can disrupt systems and damage components. Superhydrophobic (SH) surfaces offer a solution to prevent ice formation. This study explores the development of SH nanocomposite coatings based on polysiloxane-modified halloysite nanoclay (HNC) for glass, carbon, and Kevlar composites. The coatings’ effectiveness in preventing and removing ice was evaluated through various tests, including ice adhesion and air-blowing tests. The results showed that the SH coatings enhanced ice dissipation, particularly for carbon fiber composites. Despite slight changes in water contact angle after repeated tests, the coatings retained SH properties. Self-cleaning and wear tests demonstrated that the coatings successfully repelled dust and pollutants, while maintaining mechanical durability. This work offers a promising approach to improve ice-prevention performance in critical industrial applications.}
+}

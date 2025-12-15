@@ -1,0 +1,13 @@
+@article{LV2025103926,
+title = {CADInstruct: A multimodal dataset for natural language-guided CAD program synthesis},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103926},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103926},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000879},
+author = {Chaofan Lv and Jinsong Bao},
+keywords = {Large language models, Computer-aided design, Program synthesis, Multimodal dataset},
+abstract = {While large language models (LLMs) have demonstrated remarkable success in general-purpose code generation, their application in computer-aided design (CAD) program synthesis remains constrained by the scarcity of high-quality natural language-annotated datasets. To address this challenge, we propose CADInstruct, a novel approach aimed at constructing a multimodal CAD instruction dataset to enhance the CAD program synthesis capabilities of LLMs. First, we introduce a parametric modification module for modeling sequences, which extracts geometric constraints and critical dimensions from sketches, transforming CAD construction sequences into design-intent-oriented instructions. Second, we incorporate a shape semantic recognition module that leverages model names and visually enriched rendered views to generate precise shape descriptions using multimodal large models, enabling accurate semantic representation of complex geometries. Lastly, a modeling instruction semantic alignment module utilizes the extracted shape descriptions and modeling instructions to generate hierarchical natural language descriptions, encompassing geometric forms and detailed modeling steps, ensuring consistency between textual descriptions and CAD instructions. We fine-tuned the Qwen2.5-Coder-7B model using the CADInstruct dataset to evaluate the effectiveness of this framework. Experimental results demonstrated its capability to significantly enhance CAD program synthesis. The code and dataset will be made publicly available at https://github.com/dxlcf/CADInstruct.}
+}

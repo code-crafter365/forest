@@ -1,0 +1,13 @@
+@article{YANG2025108991,
+title = {Recent advances and future prospects of nano-engineered bone cements: A state-of-the-art review},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108991},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108991},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002854},
+author = {Yiling Yang and Jiacheng Zhang and Jian Chen and Lin Chi and Xiansong Wang and Mingsong Wang and Baosen Mi and Guisheng Li and Haijun Gui and Jinchen Fan and Youcheng Yu},
+keywords = {Bone cements, Nanomaterials, Mechanical enhancement, Biocompatibility improvement, Antibacterial upgrade},
+abstract = {Bone cements (BCs) are multifunctional scaffolds in orthopedic treatments to offer the necessary early-healing stability and physico-chemical functionality for bone tissue regeneration, which presents tailorable performance to address diverse clinical demands under the current trend of personalized healthcare. However, even the most extensively applied commercial BCs, such as polymethyl methacrylate (PMMA) and calcium phosphate cement (CPC), have distinctive limitations (e.g., unsuitable biodegradability and low mechanical strength). Cutting-edge nano technologies have become popular in the last two decades for multifunctional enhancement of BCs. This paper overviews the latest advancements on the development of BCs using nano technologies in terms of mechanical enhancement, biodegradability tuning, and antibacterial capability improvement. The nano technologies have been reviewed both in the aspects of various types of nano additives as functional additives and the associated techniques for incorporating nano additives into BCs, where fundamental theories and the necessary underlying mechanisms were also discussed. In particular, BCs using different nano-engineering strategies are compared, and the existing gaps between research development and clinical application are discussed. This review aims to bridge the gap between the rapid advancement of BCs driven by nano technologies in laboratory-based environment and its clinical applications.}
+}

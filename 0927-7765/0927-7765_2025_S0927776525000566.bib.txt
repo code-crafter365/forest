@@ -1,0 +1,13 @@
+@article{ZHU2025114549,
+title = {Antitumour and anti-angiogenesis efficacy of a multifunctional self-oxygenated active-targeting drug delivery system by encapsulating biological and chemotherapeutic drugs},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114549},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114549},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000566},
+author = {Ming Zhu and Yizhuo Xie and Zhiping Li and Han Bao and Dongfanghui Miao and Xin Guo and Shanshan Wang and Kejia Chen and Hongzhu Chen and Jingwen Dai and Na Yang and Liangping Yu and Jin Pei},
+keywords = {Breast cancer, Self-oxygenated, Anti-angiogenesis, Antitumour, Tumour microenvironment},
+abstract = {The hypoxic tumour microenvironment (TME), resulting from abnormal tumour angiogenesis, is a major factor contributing to treatment failure in breast cancer patients. In this study, we present a ZnO2-based oestrone-conjugated PEGylated liposome (ZnO2@EPL-CDDP/EGCG) that incorporates cisplatin (CDDP) and epigallocatechin-3-gallate (EGCG). ZnO2 remains stable in neutral environments but decomposes under mildly acidic conditions, releasing Zn²⁺ and H₂O₂. These byproducts inhibit the electron transport chain, stimulate the endogenous reactive oxygen species production for chemodynamic therapy (CDT), and generate oxygen at tumour sites to alleviate hypoxia and enhance anti-angiogenic efficacy. EGCG inhibits tumour angiogenesis by down-regulating hypoxia-inducible factor-1α (HIF-1α) and its downstream pathways, while also exhibiting synergistic anti-tumour effects with CDDP. Oestrone-conjugated and polyethylene glycol (PEG) modifications facilitate targeted accumulation at tumour sites. Our findings indicate that ZnO2@EPL-CDDP/EGCG significantly improves the therapeutic efficacy of both EGCG and CDDP, remodels tumour vasculature, and alleviates hypoxia within the TME. This self-oxygenated, actively targeted drug delivery system notably extends the survival of healthy ICR mice without observed toxicity. This novel approach, which co-encapsulates ZnO2, EGCG, and CDDP in an active-targeting liposomal formulation for the first time, represents a promising strategy for effective cancer treatment.}
+}

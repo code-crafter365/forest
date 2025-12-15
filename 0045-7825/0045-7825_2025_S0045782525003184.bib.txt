@@ -1,0 +1,13 @@
+@article{THEL2025118046,
+title = {Accelerating crash simulations with Finite Element Method Integrated Networks (FEMIN): Comparing two approaches to replace large portions of a FEM simulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118046},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118046},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003184},
+author = {Simon Thel and Lars Greve and Maximilian Karl and Patrick {van der Smagt}},
+keywords = {Finite element method, Crash simulation, Neural network, Probabilistic learning},
+abstract = {The Finite Element Method (FEM) is a widely used technique for simulating crash scenarios with high accuracy and reliability. To reduce the significant computational costs associated with FEM, the Finite Element Method Integrated Networks (FEMIN) framework integrates neural networks (NNs) with FEM solvers. We discuss two different approaches to integrate the predictions of NNs into explicit FEM simulation: A coupled approach predicting forces (f-FEMIN) and a newly introduced, uncoupled approach predicting kinematics (k-FEMIN). For the f-FEMIN approach, we introduce a novel adaption of the Deep Variational Bayes Filter (DVBF). The adapted DVBF outperforms deterministic NNs from a previous study in terms of accuracy. We investigate the differences of the two FEMIN approaches across two small-scale and one large-scale load case. Although the adaptation of the DVBF and the f-FEMIN approach offers good accuracy for the small-scale load cases, the k-FEMIN approach is superior for scaling to large-scale load cases. k-FEMIN shows its excellent acceleration of the FEM crash simulations without overhead during runtime and keeps compute costs during training low.}
+}

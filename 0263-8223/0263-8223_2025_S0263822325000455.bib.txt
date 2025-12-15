@@ -1,0 +1,13 @@
+@article{YANG2025118880,
+title = {GPU-based cracking simulations for scratch resistance evaluation of composite coatings},
+journal = {Composite Structures},
+volume = {357},
+pages = {118880},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118880},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000455},
+author = {Hanming Yang and Chenqi Zou and Gong Chen and Toshiyuki Imamura and Yiyu Tan and Mengyan Zang and Shunhua Chen},
+keywords = {GPU parallel computing, Scratch-induced cracking, Composite coatings, Contact method, Scratch resistance evaluation},
+abstract = {Although current simulation methods enable modeling of scratch-induced damage in coating structures to facilitate new coating designs, the widespread reliance on serial computation frequently yields low computing efficiency, thereby hindering the progress of coating development. To address this issue, this study develops a graphics processing unit (GPU)-based parallel computational framework to efficiently solve the scratch-induced cracking problem of composite coatings. This framework integrates rate-dependent constitutive and fracture models, a moving contact space-LC-Grid contact algorithm (MCS-LCCA), and the tied interface method to accurately describe the scratch-induced cracking of the polymeric coatings while enhancing computational efficiency. Through specific parallel strategies and optimization methods, the framework maximizes GPU performance while ensuring computational stability. With the aid of this computational framework, scratch-induced cracking simulations of an original-scale automotive coating model are achieved for the first time, boasting a speed-up ratio of approximately 279 compared to serial computing. The simulations successfully replicate the initiation and propagation of cracks observed in the scratch experiments. By comparing the simulation results with experimental outcomes, the mechanism of scratch cracking is investigated and revealed. Finally, a series of parametric studies are conducted to examine the impacts of key parameters, i.e., coating constitutive properties, fracture mechanics characteristics, layer thickness, and surface friction coefficient, on scratch-induced cracking. Such fundamental analysis may provide insights for advancing scratch-resistant composite coating technology.}
+}

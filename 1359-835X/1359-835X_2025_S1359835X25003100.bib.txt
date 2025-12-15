@@ -1,0 +1,13 @@
+@article{WU2025109016,
+title = {A novel phosphinate-decorated montmorillonite nano-micro hybrid for enhanced flame retardancy and mechanical properties of epoxy resin},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109016},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109016},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003100},
+author = {Shu-Gen Wu and Chuan Liu and Zhen Qin and Dong-Yi He and Wen-Long Xie and Ze-Kun Wang and Yu-Zhong Wang and Li Chen},
+keywords = {Epoxy resin, Nano-Micro hybrid, Aluminum alkylphosphinate, Flame retardancy},
+abstract = {There is a pressing need to develop epoxy resin (EP) composites that can achieve a harmonious balance between safety performance (fire resistance) and service performance (including mechanical, thermal, and dielectric properties). To address the challenge for balanced safety concerns (fire safety in particular) and service performance in EP composites, a novel organic-inorganic hybrid flame retardant, named OMMT@BIEPA-Al, was designed and prepared through an in-situ growth of aluminum alkylphosphinate with reactive benzimidazole groups on organic-modified montmorillonite (OMMT), enhancing its dispersion in EP. At 5 wt% loading, the EP composite achieves the UL-94 V-0 rating with a Limiting Oxygen Index (LOI) value of 28.8%. Cone calorimetry shows reductions of 41.6% in peak heat release rate (PHRR), 23.4% in total heat release (THR), and 21.6% in total smoke production (TSP). The mechanical properties demonstrate great improvement, most notably a 165.3% increase in impact strength. The dielectric properties are also ameliorated, with the dielectric constant dropping to 3.85 at 1 MHz. This work highlights the substantial potential of the OMMT@BIEPA-Al hybrid in simultaneously enhancing the flame retardancy, mechanical, thermal, and dielectric attributes of EP, thereby opening up promising avenues for the development of high-performance EP composites.}
+}

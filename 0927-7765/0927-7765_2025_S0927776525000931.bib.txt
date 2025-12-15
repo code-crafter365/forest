@@ -1,0 +1,13 @@
+@article{ZHAO2025114586,
+title = {Biomimetic nanocrystals co-deliver paclitaxel and small-molecule LF3 for ferroptosis-combined chemotherapy for gastric cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114586},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114586},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000931},
+author = {Qianqian Zhao and Ting Wu and Chunming Tang and Jie Li and Min Wu and Jie Wu and Zhiji Wang and Yinxin Zhu and Huae Xu and Xiaolin Li},
+keywords = {Paclitaxel, Nanocrystal, LF3, Ferroptosis, Biomimetic},
+abstract = {Combination chemotherapy is considered more effective than monotherapy in enhancing clinical outcomes. Ferroptosis, a unique form of regulated cell death, has been demonstrated to inhibit tumor growth and progression. Consequently, combining ferroptosis with chemotherapy represents a promising and innovative approach to antitumor therapy. In this study, we developed a novel TMTP1-modified biomimetic nanocrystal (TRNC@P + L) for the co-delivery of PTX and LF3, aiming to achieve ferroptosis-combined chemotherapy in gastric cancer. TRNC@P + L, which incorporates a tumor-homing peptide-modified red blood cell membrane, demonstrated efficient tumor targeting, prolonged circulation, enhanced drug bioavailability, and reduced non-specific toxicities of free PTX and LF3. By utilizing the synergistic effects of PTX and LF3, TRNC@P + L combination therapy significantly inhibited tumor growth, as demonstrated by both in vitro and in vivo studies. Mechanistically, TRNC@P + L triggers ferroptosis in tumor cells by downregulating GPX4 expression, the promotion of ROS accumulation, and the enhancement of lipid peroxidation. These processes synergistically enhance the anticancer efficacy of PTX.}
+}

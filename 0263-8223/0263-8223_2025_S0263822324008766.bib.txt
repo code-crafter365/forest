@@ -1,0 +1,13 @@
+@article{WANDOWSKI2025118748,
+title = {Lamb wave S0/A0 mode conversion for imaging the internal structure of composite panel},
+journal = {Composite Structures},
+volume = {353},
+pages = {118748},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118748},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008766},
+author = {T. Wandowski and M. Radzienski and P. Kudela},
+keywords = {S/A mode conversion, Air-coupled transducers, Guided waves, Discontinuity imaging, stiffened GFRP panel},
+abstract = {Stiffened structures are utilised in various industries and their structural assessment is of paramount importance. In this paper, a novel, automated algorithm for internal structure imaging based on S0/A0 mode conversion effect is proposed. Moreover, a contrast indicator for the quantitative characterisation of structure imaging results was introduced. The research is exclusively experimental and focuses on fibre-reinforced, stiffened aerospace composite panel. Both non-contact (air-coupled transducer-ACT) and contact (piezoelectric transducer-PZT) methods of elastic wave generation were investigated. Low-frequency (40 kHz) wave generation was applied to ACT and PZT, while high-frequency excitations (100 kHz and 180 kHz) were analysed for the PZT. The results obtained for both excitation methods were compared. Full wavefield signals of elastic wave propagation were registered with a scanning laser Doppler vibrometer. The S0/A0 mode conversion observed on the specimens stiffeners led to the development of a new algorithm based on time–space guided wave signal filtering, which enables the imaging of the internal structure of the stiffened panel. The efficacy of the developed algorithm was proved to be higher than conventional weighted RMS (WRMS) and wave irregularity mapping (WIM) algorithms. The proposed method allows for the generation of easily interpretable maps illustrating discontinuities in the examined structure. The contrast indicator is two times higher for the proposed MCWA than for WRMS and WIM for wave frequency 100 kHz and three times higher for frequency 180 kHz.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025119189,
+title = {Constructing continuous epoxy interlocking teeth on magnesium alloy surface using laser engraving and resin pre-coating for stronger adhesive bonding joints},
+journal = {Composite Structures},
+volume = {365},
+pages = {119189},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119189},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500354X},
+author = {Wenyi Huang and Fei Cheng and Jinheng Zhang and Shihao Zuo and Xuejun Cui and Guangming Yang and Jiaxin He and Sidra Ashfaq and Xiaozhi Hu},
+keywords = {Adhesive bonding, Laser engraving treatment (LET), Resin pre-coating (RPC), Epoxy interlocking teeth (EIT), High-strength adhesive joint},
+abstract = {This study focused on optimizing the adhesive interfaces between Magnesium Alloy (MA) and Carbon Fiber-Reinforced Polymer (CFRP) composites using laser engraving treatment and Resin Pre-Coating (RPC). This synergistic approach improved the bonding conditions and constructed continuous epoxy interlocking teeth by introducing vertical gaps between annular array units. The MA-CFRP composite exhibited a noticeable 126.1 % improvement in its bonding strength following laser engraving of solid circles (0.16 mm in diameter) and RPC treatment. Moreover, the initial debonding failure of the MA surface shifted into cohesive failure of epoxy adhesive and CFRP panel delamination failure. The combination of the two techniques presents a novel and effective strategy to enhance the bond strength of MA-CFRP joints, exhibiting for industrial manufacturing of high-performance MA-CFRP composites.}
+}

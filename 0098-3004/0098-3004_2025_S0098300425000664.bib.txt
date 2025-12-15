@@ -1,0 +1,13 @@
+@article{CHEN2025105916,
+title = {Unsupervised seismic reconstruction via deep learning with one-dimensional signal representation},
+journal = {Computers & Geosciences},
+volume = {200},
+pages = {105916},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105916},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000664},
+author = {Gui Chen and Yang Liu and Mi Zhang and Yuhang Sun and Haoran Zhang},
+keywords = {Seismic data, Unsupervised deep learning, Signal representation, Reconstruction, Denoising},
+abstract = {The geometry of seismic surveys often requires modification due to constraints in the acquisition environment, leading to incomplete spatial data coverage and a reduction in the quality and resolution of subsurface imaging. Seismic data reconstruction is critical to restore spatial continuity in such cases. Thus, we propose a novel unsupervised deep learning framework with a trace-by-trace recovery strategy to reconstruct incomplete 3D seismic data, which does not require ground-truth data as the training label. In the proposed framework, we design a one-dimensional signal representation neural network (SRNet) based on the Kolmogorov-Arnold network, which depends on the inherent spatial correlation of seismic signals to achieve single-trace signal representation when using the corresponding spatial coordinate values as its input. The parameters of the SRNet are optimized in a self-learning manner using observed traces and their corresponding spatial coordinates, allowing the well-optimized SRNet to predict seismic signals at unobserved locations. Experiments on the synthetic data and field data examples indicate the effectiveness of the proposed method, and its superiority over the benchmark methods.}
+}

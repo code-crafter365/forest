@@ -1,0 +1,13 @@
+@article{SUMAN2025106754,
+title = {Direct simulation of two-dimensional flows by pseudo-spectral method: Special features and validations by Taylor–Green vortex problem},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106754},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106754},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002142},
+author = {V.K. Suman and Prasannabalaji Sundaram and A. Sarkar and Tapan K. Sengupta},
+keywords = {Direct numerical simulation, Fourier pseudo-spectral method, Global spectral analysis, -waves, Navier–Stokes equation, Taylor–Green vortex, Long time integration},
+abstract = {A comprehensive assessment is reported for the Fourier pseudo-spectral methods employing second and fourth order Runge–Kutta, RK2 and RK4 respectively, methods for time integration using global spectral analysis (GSA) in a two-dimensional (2D) framework. These methods are often used for direct numerical simulation (DNS) of homogeneous isotropic turbulence (HIT) problem to understand turbulence generation. Recent analyses for the linear one-dimensional (1D) convection and convection–diffusion equations using GSA revealed instability problems for RK2 time integration. This is conclusively demonstrated in the present paper using GSA for a model 2D linear convection–diffusion equation employing RK2 and RK4 time integration strategies for the Fourier pseudo-spectral methods. GSA confirms issues for RK2 time integration, while significantly superior accuracy is recorded for the RK4 method for DNS of transitional and turbulent flows. Furthermore, we demonstrate excellent dispersion error control and the absence of upstream propagating q-waves for the first time, a property of the adopted pseudo-spectral methods. Finally, a long time integration of Navier–Stokes equations for the 2D Taylor–Green vortex (TGV) problem using RK4 scheme is presented highlighting the importance of GSA by comparing the long term dynamics of (4 X 4)- and (8 X 8)- initial configuration of cells. Despite the complex intermediate dynamics following a primary instability, a unique, universal equilibrium (2 X 1)-cell configuration is eventually established. This is consistent with the enstrophy transport equation for 2D flows.}
+}

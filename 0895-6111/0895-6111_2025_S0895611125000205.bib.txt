@@ -1,0 +1,13 @@
+@article{XUE2025102511,
+title = {Prior knowledge-based multi-task learning network for pulmonary nodule classification},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102511},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102511},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000205},
+author = {Peng Xue and Hang Lu and Yu Fu and Huizhong Ji and Meirong Ren and Taohui Xiao and Zhili Zhang and Enqing Dong},
+keywords = {Pulmonary nodule classification, Transfer learning, Multi-task learning, Hypergraph neural network, Feature fusion},
+abstract = {The morphological characteristics of pulmonary nodule, also known as the attributes, are crucial for classification of benign and malignant nodules. In clinical, radiologists usually conduct a comprehensive analysis of correlations between different attributes, to accurately judge pulmonary nodules are benign or malignant. However, most of pulmonary nodule classification models ignore the inherent correlations between different attributes, leading to unsatisfactory classification performance. To address these problems, we propose a prior knowledge-based multi-task learning (PK-MTL) network for pulmonary nodule classification. To be specific, the correlations between different attributes are treated as prior knowledge, and established through multi-order task transfer learning. Then, the complex correlations between different attributes are encoded into hypergraph structure, and leverage hypergraph neural network for learning the correlation representation. On the other hand, a multi-task learning framework is constructed for joint segmentation, benign–malignant classification and attribute scoring of pulmonary nodules, aiming to improve the classification performance of pulmonary nodules comprehensively. In order to embed prior knowledge into multi-task learning framework, a feature fusion block is designed to organically integrate image-level features with attribute prior knowledge. In addition, a channel-wise cross attention block is constructed to fuse the features of encoder and decoder, to further improve the segmentation performance. Extensive experiments on LIDC-IDRI dataset show that our proposed method can achieve 91.04% accuracy for diagnosing malignant nodules, obtaining the state-of-art results.}
+}

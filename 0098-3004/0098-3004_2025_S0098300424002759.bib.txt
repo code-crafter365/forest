@@ -1,0 +1,13 @@
+@article{ZUO2025105792,
+title = {An improved method to accelerate the acquisition efficiency of the T1-T2 spectrum based on the IR-BSSFP-CPMG pulse sequence∗},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105792},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105792},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002759},
+author = {Fu Zuo and Xinmin Ge and Lanchang Xing and Bohan Wu and Yiren Fan and Jackson Jervis Junior and Bin Wang},
+keywords = {Low field T-T correlation map, IR-BSSFP-CPMG pulse sequence, Flip angle, Repetition time, Fast acquisition, Measurement performance},
+abstract = {The correlation map of the longitudinal relaxation time (T1) and the transverse relaxation time (T2) offers valuable information of different proton contributions and is served as a significant data for identifying, quantifying and characterizing complex relaxation components in unconventional reservoirs. However, the acquisition speed and spectral resolution for existing pulse sequences cannot be guaranteed simultaneously. We designed an improved pulse sequence which integrates the inversion recovery-balanced steady-state free precession (IR-BSSFP) sequence and the Carr-Purcell-Meiboom-Gill (CPMG) sequence, allowing for the measurement of two-dimensional T1-T2 spectrums. The IR-BSSFP sequence adopts a low refocusing angle and reduced flip angle pulse transmission power, eliminating the need for complete polarization. Moreover, the parameters of the improved pulse sequence such as the value and the number of the flip angle, the repetition time are discussed by numerical simulations. The result showed that the new pulse sequence achieves high-precision measurement performance, and the T1-T2 spectrum can be achieved within a few seconds.}
+}

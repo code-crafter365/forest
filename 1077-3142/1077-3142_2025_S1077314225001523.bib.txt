@@ -1,0 +1,13 @@
+@article{HUYNH2025104429,
+title = {Multilevel spatial–temporal feature analysis for generic event boundary detection in videos},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104429},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104429},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001523},
+author = {Van Thong Huynh and Seungwon Kim and Hyung-Jeong Yang and Soo-Hyung Kim},
+keywords = {Generic event, Event boundary detection, Video understanding},
+abstract = {Generic event boundary detection (GEBD) aims to split video into chunks at a broad and diverse set of actions as humans naturally perceive event boundaries. In this study, we propose an approach that leverages multilevel spatial–temporal features to construct a framework for localizing generic events in videos. Our method capitalizes on the correlation between neighbor frames, employing a hierarchy of spatial and temporal features to create a comprehensive representation. Specifically, features from multiple spatial dimensions of a pre-trained ResNet-50 are combined with diverse temporal views, generating a multilevel spatial–temporal feature map. This map facilitates the calculation of similarities between neighbor frames, which are then projected to build a multilevel spatial–temporal similarity feature vector. Subsequently, a decoder employing 1D convolution operations deciphers these similarities, incorporating their temporal relationships to estimate boundary scores effectively. Extensive experiments conducted on the GEBD benchmark dataset demonstrate the superior performance of our system and its variants, outperforming state-of-the-art approaches. Furthermore, additional experiments conducted on the TAPOS dataset, comprising long-form videos with Olympic sport actions, reaffirm the efficacy of our proposed methodology compared to existing techniques.}
+}

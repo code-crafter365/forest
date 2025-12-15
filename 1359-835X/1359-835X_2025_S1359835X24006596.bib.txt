@@ -1,0 +1,13 @@
+@article{BRANDS2025108661,
+title = {Critical evaluation of torsion rheometry to characterize the anisotropic intraply shear resistance of unidirectional thermoplastic composites in melt},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108661},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108661},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006596},
+author = {D. Brands and S.P. Haanappel and W.J.B. Grouve and S. Wijskamp and R. Akkerman},
+keywords = {A. Polymer-matrix composites (PMCs), A. Thermoplastic resin, B. Rheological properties, E. Forming},
+abstract = {This study critically evaluates oscillatory and transient torsion bar techniques for characterizing the in-plane shear resistance of unidirectional thermoplastic composites in melt. Small-strain oscillatory torsion tests, analyzed using a linear viscoelastic model, showed good agreement with the initial slope of the torque-rotation curve obtained from transient torsion tests. However, the limited strain range restricts the model’s applicability to small deformations. Deformation measurements on specimens subjected to larger strains by means of the transient torsion tests revealed anisotropic and inhomogeneous behavior, with significant through-thickness shear rather than the intended in-plane shear. This observed anisotropy contradicts the transverse isotropy assumption originally used in modeling. To address this, a nonlinear anisotropic viscoelastic model was proposed, offering improved accuracy. Despite this enhancement, the inability to precisely control or monitor the desired deformations during testing raises concerns about the reliability of the transient torsion rheometry method.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025119462,
+title = {An efficient computational model for the electromechanical performance of flexible piezoelectric composites based on a multi-scale approach},
+journal = {Composite Structures},
+volume = {371},
+pages = {119462},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119462},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006270},
+author = {Weixuan Zhang and Yanheng Guo and Kecheng Li and Jin Yin and Di Wu and Yishou Wang},
+keywords = {Flexible piezoeletric composites, Efficient computational model, UFM-ruess-hill method, Geometric model simplification, Equivalent substitution},
+abstract = {The finite element analysis (FEA) model for flexible piezoelectric composites (FPC) provides valuable insights for assessing the sensing and actuation performance of FPC. An accurate and efficient FPC computational model is both a necessary and sufficient condition for performance analysis. However, Currently, most studies use shell elements to evaluate FPC performance, without considering out-of-plane piezoelectric parameters. While the 2D FPC model offers fast computation speeds, the results often underestimate the actual values. Additionally, by neglecting the Z-direction properties, these models fail to capture the polarization direction differences between D31 and D33 FPC effectively. Therefore, this study proposes an efficient computational 3D model using a multi-scale analysis framework. This model incorporates the UFM-Ruess-Hill equivalent electromechanical parameter calculation principle, multi-scale geometric model simplification, and equivalent electric field intensity substitution methods. The developed model not only accounts for the effects of polarization direction but also restores the FPC’s structural integrity. Compared with the unsimplified FPC model, the high-efficiency computational model reduces the steady-state actuation computation time from 3 min and 25 s to 17 s under identical hardware conditions. The transient actuation computation time is reduced from 6 h, 31 min, and 54 s to 44 min and 59 s. The model yields an average error of 5.13% in FPC sensing performance and 3.67% in actuation performance.}
+}

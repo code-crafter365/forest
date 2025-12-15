@@ -1,0 +1,13 @@
+@article{GUO2025114729,
+title = {Glucose oxidase-embedded mesoporous polydopamine nanoparticles produce CO for synergistic tumor starvation, chemodynamic, and photothermal therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114729},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114729},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500236X},
+author = {Lirong Guo and Nan Wang and Yuqin Zhang and A.M. Omer and Xiao–kun Ouyang and Jinxie Zhang and Lin Mei},
+keywords = {Glucose oxidase, Carbon monoxide, Synergistic tumor therapy, Multimodal therapy},
+abstract = {Starvation therapy, developed by exploiting glucose oxidase (Gox) to convert glucose into gluconic acid and hydrogen peroxide (H₂O₂), represents a promising approach to treating tumors that heavily rely on the glycolysis pathway to meet their high energy demands. However, the efficacy of Gox monotherapy is hindered by the hypoxic tumor microenvironment and activation of energy compensation mechanisms. In this study, we present a novel multimodal therapeutic nanoplatform that synergistically integrates starvation therapy with photothermal therapy (PTT) and chemodynamic therapy (CDT) to overcome these limitations. Mesoporous polydopamine (MPDA), a biocompatible material, was combined with the CO precursor Fe₃(CO)₁₂ and Gox. Upon reaching the tumor site, the acidic environment activates the nanoplatform, initiating the conversion of glucose to gluconic acid and H₂O₂ by Gox. This process facilitates CO release and Fe²⁺ generation, leading to a cascade of Fenton reactions that produce reactive oxygen species (ROS). CO inhibits cytochrome c oxidase, disrupting mitochondrial adenosine triphosphate (ATP) production and downregulating heat shock proteins (Hsp), thereby sensitizing tumor cells to PTT-induced damage. Our results demonstrate that this comprehensive therapeutic approach significantly enhances the efficacy of cancer treatment, offering a promising strategy for improved clinical outcomes.}
+}

@@ -1,0 +1,13 @@
+@article{SHEN2025106726,
+title = {Achieving generalized three-dimensional flow field prediction for high-speed flight vehicles using an attention-inspired architecture},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106726},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106726},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001860},
+author = {Yang Shen and Wei Huang and Zhen-guo Wang},
+keywords = {Attention-inspired architecture, Deep learning, Three-dimensional flow field prediction, High-speed flight vehicle},
+abstract = {Computing flowfields for flight vehicles is essential for their performance but often requires significant costs and resources. This research introduces a novel deep learning architecture, INFormer, offering a cost-effective and efficient solution for three-dimensional flowfield prediction, overcoming previous limitations in generalizability and focus on two-dimensional flows. The INFormer decouples flowfield coordinates from vehicle geometry processing by independently processing the vehicle’s geometric features and specified observation points through dual-path encoding, enabling prediction of volumetric flow variables that reveal critical physics such as shock wave propagation. Utilizing attention mechanisms, the model is capable of training on sparse flowfield data, though applicated in full-field prediction. Trained on a dataset of space shuttle high-speed simulations, the INFormer captures complex airflow phenomena, including the long-range propagation and nonlinear interactions of shock waves, with high accuracy. Its predictions are validated against wind tunnel experimental and simulated data, demonstrating reasonable consistency across various test cases, including prototype and 400 deformed space shuttles, and even generalized out-of-domain configurations. INFormer achieves near-real-time predictions, completing most scenarios under one second, highlighting its capability to enable rapid spatial flow field feedback during conceptual design stages.}
+}

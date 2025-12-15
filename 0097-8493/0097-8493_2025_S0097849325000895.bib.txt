@@ -1,0 +1,13 @@
+@article{ROBERTS2025104248,
+title = {Data meets creativity: Authentic learning through data art design and exhibition},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104248},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104248},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000895},
+author = {Jonathan C. Roberts},
+keywords = {Visualisation, Data art, Exhibition, Pedagogy, Education, Computer graphics, Human-centred computing},
+abstract = {We introduce an authentic learning task, where students create data art visualisations from selected datasets to be showcased in a public exhibition. Our vision is to explore how creativity and visualisation intersect and how combining these elements results in an authentic learning task for computing students. Run over two completed academic years, with a third cohort nearing completion, this initiative offered an active learning environment that fostered student engagement, creativity, and the application of practical skills. We detail the structured approach, outlining eight steps that students perform: topic selection and research, data analysis, researching artistic inspiration, conceptualising designs, proposing solutions, creating visualisations, reflection and curating an exhibition. Our framework equips educators with detailed lectures and activities, enabling them to implement similar tasks in their own teaching. Finally, we present illustrative examples of student outcomes and share reflective insights, showcasing the impact of integrating authentic learning with public-facing creative projects. This approach enhances technical skills while connecting academic learning to real-world professional practice.}
+}

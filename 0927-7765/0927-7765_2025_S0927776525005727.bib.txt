@@ -1,0 +1,13 @@
+@article{CHEN2025115065,
+title = {Bimetallic phenolic network nanoparticles mitigate ischemic stroke by alleviating neuroinflammation and promoting vascular normalization},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115065},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115065},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005727},
+author = {Siyu Chen and Lanping Zhang and Ying Yue and Yijun Dong and Ying Ding and Tianzhu Zha},
+keywords = {Bimetallic phenolic network, Ischemic stroke, ROS scavenging, Reducing inflammation, Vascular normalization},
+abstract = {Ischemic stroke (IS) is a serious cerebrovascular disease. Due to its complex pathophysiological mechanisms and the limitation of drug delivery by the blood-brain barrier (BBB), current treatments for IS still struggle to achieve ideal outcomes. In this study, a multifunctional bimetallic phenolic network nanoparticle (Sr2/Mn2@Rh) formed via simple metal-phenolic coordination-driven self-assembly of Mn²⁺, Sr²⁺, and rutin hydrate (Rh) was developed for IS therapy. As a natural pharmaceutical molecule, Rh exhibits various bioactive properties, including anti-inflammatory, antioxidant, and vascular-strengthening effects, with minimal toxicity. The formation of metal phenolic network (MPN) nanoparticles can effectively overcome Rh's poor solubility and BBB permeability while integrating the antioxidant and vascular enhancement properties of Mn2 + and Sr2+ to play a multifunctional synergistic therapeutic role. The results demonstrated that the resulting Sr2/Mn2@Rh exhibits excellent dispersibility, acid-triggered release behavior, and pH-regulating properties. Cellular experiments showed that Sr2/Mn2@Rh was able to effectively cross the BBB and be internalized by neuronal cells. Moreover, in the oxygen-glucose deprivation/reperfusion (OGD/R) model, Sr2/Mn2@Rh effectively scavenged intracellular ROS, rescued neuronal cell death, modulated microglial polarization, and enhanced angiogenesis-related functions. In vivo studies further reveal that Sr2/Mn2@Rh could largely reverse brain tissue injury and neurological deficits in tMCAO rats. The tMCAO rats treated with Sr2/Mn2@Rh exhibited reduced neuronal apoptosis, attenuated inflammation, as well as decreased autophagy levels. In conclusion, Sr2/Mn2@Rh represents a safe and effective novel therapeutic strategy for IS.}
+}

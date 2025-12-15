@@ -1,0 +1,12 @@
+@article{CUI2025119914,
+title = {Fatigue damage evolution of polypropylene fiber reinforced concrete under uniaxial cyclic compression},
+journal = {Composite Structures},
+pages = {119914},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119914},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010797},
+author = {Kai Cui and Lihua Xu and Ran Feng and Yin Chi},
+keywords = {Polypropylene fiber reinforced concrete, Fatigue damage behavior, Compressive cyclic loading, Damage evolution mechanism, Fatigue damage model},
+abstract = {Polypropylene fiber, renowned for its superior corrosion resistance, is considered as a promising material for extending the lifespan of marine concrete structures. An advanced comprehension of fatigue damage behavior is crucial in the anti-fatigue design of polypropylene fiber reinforced concrete (PFRC) structures. In this work, the fatigue damage behavior of PFRC under compressive cyclic loading was systematically examined, with an emphasis on evaluating its stress–strain relationship, median fatigue life, and damage evolution. The results revealed that the PFRC’s fatigue failure strain at various stress levels can be concisely predicted based on its corresponding monotonic stress–strain curve. In addition, the inclusion of polypropylene fibers with a volume fraction of 0.15% and an aspect ratio of 167 can achieve a maximum increase of 474.3% and 17.4% in the median fatigue life and fatigue strength, respectively. Furthermore, the damage evolution mechanism of PFRC under compressive cyclic loading was unveiled by observing the trace of crack development in distinct zones. Finally, instead of inherent scattered fatigue life data, a novel fatigue damage model that relies on fatigue strain was developed to characterize the PFRC’s fatigue damage progression. Compared with prevalent models plagued by wide variations in fatigue life predictions, this model more accurately predicts the PFRC’s fatigue damage development, as evidenced by a close agreement with a wide range of test results.}
+}

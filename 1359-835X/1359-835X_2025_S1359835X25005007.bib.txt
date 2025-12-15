@@ -1,0 +1,13 @@
+@article{SCHNELL2025109206,
+title = {Stable polydopamine-based suspension for scalable surface modification of bamboo fibre–reinforced composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109206},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109206},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005007},
+author = {Carla N. Schnell and Grégory Mertz and Jianqun Hao and Aart Willem {Van Vuure} and Abdelghani Laachachi and C.A. Fuentes},
+keywords = {Dopamine, Interfacial shear strength, Mechanical properties, Thermal stability, Wettability},
+abstract = {This study investigates the effect of surface modifications on bamboo fibre (BF)-reinforced polypropylene (PP) composites (BF/PP) using polydopamine (PDA), polyethyleneimine (PEI), and nanoparticles such as silicon dioxide (SiO2) and montmorillonite (MMT). Treatments were designed to enhance three critical properties: moisture resistance, thermal stability, and fibre–matrix adhesion. A novel, fast dipping treatment using PDA stabilized with PEI (P/PE) was developed as a scalable alternative to conventional in-situ PDA polymerization. BFs were treated via dopamine polymerization (4 h and 24 h, with and without PEI) and a fast immersion process with P/PE suspension applied for 300 s (referred to as P/PE-300) with and without nanoparticles. Surface characterization, including X-ray photoelectron spectroscopy (XPS), Fourier-transform infrared (FTIR) and Atomic Force Microscopy (AFM), confirmed fibre coating across all treatments. Treatments including SiO2 and MMT nanoparticles reduced the equilibrium moisture content of BFs by 15 % and 11 %, respectively, and improved the onset temperature of thermal degradation (Tonset) under nitrogen atmosphere. Wettability tests showed that the P/PE-300 treatment improved the spreading coefficient, promoting better polymer impregnation. Apparent interfacial shear strength (IFSS) increased by 19 % with P/PE-300, while the addition of nanoparticles further enhanced IFSS by 32 %, attributed to mechanical interlocking. Composites with P/PE-300 treated BFs exhibited a 17 % increase in tensile strength and a 19 % improvement in flexural strength compared to untreated composites, driven by enhanced interfacial adhesion confirmed by micro-computed tomography (µCT). These findings highlight the potential of PDA-based suspensions for advancing sustainable, scalable composite production with enhanced fibre–matrix performance.}
+}

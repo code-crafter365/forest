@@ -1,0 +1,13 @@
+@article{KORMANN2025118290,
+title = {A structure-preserving finite element framework for the Vlasov–Maxwell system},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118290},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118290},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005626},
+author = {Katharina Kormann and Murtazo Nazarov and Junjie Wen},
+keywords = {Vlasov–Maxwell, Stabilized finite element, Structure preserving, High-order method, High-dimensional},
+abstract = {We present a stabilized, structure-preserving finite element framework for solving the Vlasov–Maxwell equations. The method uses a tensor product of continuous polynomial spaces for the spatial and velocity domains, respectively, to discretize the Vlasov equation, combined with curl- and divergence-conforming Nédélec and Raviart-Thomas elements for Maxwell’s equations on Cartesian grids. A novel, robust, consistent, and high-order accurate residual-based artificial viscosity method is introduced for stabilizing the Vlasov equations. The proposed method is tested on the 1D2V and 2D2V reduced Vlasov–Maxwell system, achieving optimal convergence orders for all polynomial spaces considered in this study. Several challenging benchmarks are solved to validate the effectiveness of the proposed method.}
+}

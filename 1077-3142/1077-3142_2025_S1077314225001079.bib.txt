@@ -1,0 +1,13 @@
+@article{RUIU2025104384,
+title = {Uniss-MDF: A Multidimensional Face dataset for assessing face analysis on the move},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104384},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104384},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001079},
+author = {Pietro Ruiu and Marinella Iole Cadoni and Andrea Lagorio and Seth Nixon and Filippo Casu and Massimo Farina and Mauro Fadda and Giuseppe A. Trunfio and Massimo Tistarelli and Enrico Grosso},
+keywords = {2D–3D dataset, Biometrics, Human face, Face analysis, Mobile devices, Depth data},
+abstract = {Multidimensional 2D–3D face analysis has demonstrated a strong potential for human identification in several application domains. The combined, synergic use of 2D and 3D data from human faces can counteract typical limitations in 2D face recognition, while improving both accuracy and robustness in identification. On the other hand, current mobile devices, often equipped with depth cameras and high performance computing resources, offer a powerful and practical tool to better investigate new models to jointly process real 2D and 3D face data. However, recent concerns related to privacy of individuals and the collection, storage and processing of personally identifiable biometric information have diminished the availability of public face recognition datasets. Uniss-MDF (Uniss-MultiDimensional Face) represents the first collection of combined 2D–3D data of human faces captured with a mobile device. Over 76,000 depth images and videos are captured from over 100 subjects, in both controlled and uncontrolled conditions, over two sessions. The features of Uniss-MDF are extensively compared with existing 2D–3D face datasets. The reported statistics underscore the value of the dataset as a versatile resource for researchers in face recognition on the move and for a wide range of applications. Notably, it is the sole 2D–3D facial dataset using data from a mobile device that includes both 2D and 3D synchronized sequences acquired in controlled and uncontrolled conditions. The Uniss-MDF dataset and the proposed experimental protocols with baseline results provide a new platform to compare processing models for novel research avenues in advanced face analysis on the move.}
+}

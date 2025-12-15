@@ -1,0 +1,13 @@
+@article{LIU2025104515,
+title = {Iterative Caption Generation with Heuristic Guidance for enhancing knowledge-based visual question answering},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104515},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104515},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002383},
+author = {Fengyuan Liu and Zhongjian Hu and Peng Yang and Xingyu Liu},
+keywords = {Knowledge-based visual question answering, Large language model, Image caption generation},
+abstract = {The advent of large language models (LLMs) has significantly advanced Knowledge-based Visual Question Answering (KBVQA) by reducing the reliance on external knowledge bases. Traditional methods often generate captions in a single pass, which can struggle with complex questions due to difficulty in precisely identifying key visual components. This challenge undermines the reasoning capabilities of LLMs, which require accurate, semantically aligned captions to answer complex questions effectively. To address this limitation, we propose ICGHG Iterative Caption Generation with Heuristic Guidance, a novel framework that refines captions iteratively. Our approach incorporates a dynamic loop where captions are continuously refined based on heuristic feedback from a set of candidate answers and the question itself, ensuring that the final caption provides accurate semantic alignment with both the visual content and the question. By leveraging this iterative process, ICGHG mitigates common issues such as hallucinations and improves the quality of the generated captions. Extensive experiments on OK-VQA, A-OKVQA, and FVQA datasets demonstrate that ICGHG significantly outperforms existing methods, achieving 57.5%, 60.2%, and 69.4% accuracy on their respective test sets, setting new benchmarks in KBVQA accuracy.}
+}

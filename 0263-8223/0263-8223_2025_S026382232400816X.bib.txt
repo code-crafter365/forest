@@ -1,0 +1,13 @@
+@article{ZHANG2025118688,
+title = {A decoupled bend–tension–shear coarse grained model for staggered structures},
+journal = {Composite Structures},
+volume = {354},
+pages = {118688},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118688},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400816X},
+author = {Yanan Zhang and Haiyi Liang},
+keywords = {Staggered structure, Angular spring, Bending–stretching–shearing coupling, Decoupled deformation, Coarse grained model},
+abstract = {Biomaterials like teeth, bone, and nacre have developed curved geometry and staggered structures, with remarkable mechanical properties attracting plenty of theoretical and numerical works. For these brick–mortar materials, the coupling between bending, stretching, and shearing deformations is inevitable under transverse loading and remains to be explored. In this work, we propose a decoupled bend–tension–shear (d-BTS) coarse grained model for staggered structures, using node displacements only as the basic variables. The bending and stretching deformations of bricks are modeled by two independent sets of springs tied together by Lagrange multipliers, leading to improved computation efficiency. This model may reduce to a minimal model with the least number of spring nodes characterizing the coupling between bending, stretching, and shearing deformations, analogous to the widely accepted tension–shear-chain (TSC) minimal model developed for shear-lag deformation in staggered structures. d-BTS model is validated with several examples confirmed by finite element calculations. The model is used to simulate the three-point bending tests, revealing the important contribution of bending to shear strain and the nontrivial roles of break-matrix on bending rigidity. d-BTS model presents a simple and efficient tool to investigate the toughness and strength of staggered structures in large scales when subjected to bending and stretching.}
+}

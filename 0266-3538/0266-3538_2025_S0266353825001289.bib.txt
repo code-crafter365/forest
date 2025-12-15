@@ -1,0 +1,13 @@
+@article{ZHANG2025111160,
+title = {Multi-scale semantic segmentation for fiber identification and 3D reconstruction of unidirectional composite},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111160},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111160},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001289},
+author = {Peng Zhang and Xun Zhou and Ruoxi Liang and Jiangfeng Li and Keke Tang and Yan Li},
+keywords = {Fiber-reinforced composites, Semantic segmentation, Multi-scale features, X-ray computed tomography, 3D reconstruction},
+abstract = {The accurate identification and reconstruction of fiber architectures from X-ray computed tomography (CT) images is crucial for understanding the microstructural characteristics of fiber-reinforced composites. However, achieving reliable segmentation remains challenging due to imaging artifacts, apparent fiber contacts, and complex fiber distributions. This study presents a multi-scale feature enhanced semantic segmentation framework for fiber identification and three-dimensional reconstruction in unidirectional composites. A hybrid labeling strategy is developed to establish high-quality training datasets by combining watershed-based initial segmentation with strategic manual refinement, significantly reducing the manual annotation workload while maintaining label accuracy. This framework features a multi-scale semantic segmentation network incorporating an attention-based fusion mechanism, enabling the simultaneous capture of local fiber details and global structural patterns while effectively handling abnormal fiber adhesion in fiber imaging. To ensure structural continuity in three-dimensional visualization, an enhanced voxel-based reconstruction method is proposed, featuring adaptive z-axis interpolation and systematic refinement processes. Evaluated on a publicly available micro-CT dataset of unidirectional composites, the framework achieves superior performance with a mean Intersection over Union of 93.6 % and Dice coefficient of 96.7 %, outperforming existing methods such as U-Net and DeepLabV3+ in both segmentation accuracy and efficiency. The methodology demonstrates robust capability in handling varying fiber densities and complex spatial arrangements, providing a reliable foundation for subsequent microstructural analysis and finite element modeling of composite materials.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025102509,
+title = {Automatic Joint Lesion Detection by enhancing local feature interaction},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102509},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102509},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000187},
+author = {Yaqi Liu and Tingting Wang and Li Yang and Jianhong Wu and Tao He},
+keywords = {YOLO, Local feature interaction, Joint lesion detection},
+abstract = {Recently, deep learning models have demonstrated impressive performance in Automatic Joint Lesion Detection (AJLD), yet balancing accuracy and efficiency remains a significant challenge. This paper focuses on achieving end-to-end lesion detection while improving accuracy to meet clinical requirements. To enhance the overall performance of AJLD, we propose novel modules: Local Attention Feature Fusion (LAFF) and Gaussian Positional Encoding (GPE). These modules are extensively integrated into YOLO, resulting in an improved YOLO model by enhancing Local Feature interaction, named YOLOlf for short. The LAFF module, based on pathological features presented by arthritis, strengthens the implicit connections between joints by acquiring local attention information. The GPE module enhances the connections between joints by encoding their local positional information. In this paper, we validate our approach using two arthritis datasets, including the largest AJLD dataset in the literature (960 X-ray images annotated by two arthritis specialists and one radiologist) and another arthritis dataset with 216 X-ray images, supplemented by the MURA dataset, a more general dataset for abnormality detection in musculoskeletal radiographs. In various series of YOLO models, the improved YOLOlf shows a significant increase in detection accuracy. Taking YOLOv8 as an example, the improved YOLOlfv8 increases mAP@50 from 0.765 to 0.785 and from 0.831 to 0.859 on two arthritis datasets, demonstrating the plug-and-play nature and clinical applicability of the proposed LAFF and GPE modules.}
+}

@@ -1,0 +1,13 @@
+@article{LIANG2025106685,
+title = {An interface-fitted/fictitious domain-finite element method for the simulation of particles falling in viscous fluid with contact},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106685},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106685},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001458},
+author = {Yi Liang and Cheng Wang and Pengtao Sun and Yan Chen and Jiarui Han},
+keywords = {Interface-fitted/fictitious domain-finite element method (IF/FD-FEM), Arbitrary Lagrangian–Eulerian (ALE) mapping, Interface-fitted mesh, Fluid-rigid particle interaction, Local movement of mesh vertices, Rebounding force, Collision},
+abstract = {In this paper, an interface-fitted/fictitious domain-finite element method (IF/FD-FEM) is developed to simulate the settling and rebounding processes of rigid particles in viscous fluids. Through local movements of mesh vertices near the moving interface of fluid and rigid particle, a locally moving mesh that fits the interface is obtained at each time step, which allows for large displacements of rigid particle/structure without the need of interpolation, in comparison with the classical (interface-unfitted) fictitious domain method where the interpolation from the fixed fluid mesh to the moving structural mesh is always needed for the unified-field velocity that is defined in the entire domain. On the other hand, in order to capture the dynamics inside the boundary layer near the surface of rigid particle, thereby to improve the solution accuracy near the interface of fluid and rigid particle, the mesh redistribution technique is also crucial to be performed in the region where the interactional/contacting phenomena occur between the rigid particle and fluid/fluid channel wall. Numerical experiments are carried out to validate the effectiveness and accuracy of the proposed numerical methods for the case of rigid particles falling through the fluid channel, where once the rigid particle touches down the bottom of fluid channel, collisions occur by explicitly applying the rebounding forces. Numerical results illustrate that the redistribution of mesh vertices inside the boundary layer exhibits a higher solution accuracy, furthermore, better agreements with physical experimental data in comparison with the existing literature results are also shown in simulating the settling and rebounding process of rigid particles within viscous fluids.}
+}

@@ -1,0 +1,13 @@
+@article{POULTON2025108666,
+title = {Non-linear finite element modelling of damage within web-flange junctions of pultruded GFRP bridge decking},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108666},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108666},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400664X},
+author = {M. Poulton and W.M. Sebastian and J.T. Mottram and L. Kawashita},
+keywords = {Pultruded GFRP, Bridge deck, Web-flange junctions, Finite element analysis, Damage development},
+abstract = {The web-flange junctions (WFJs) of glass fibre-reinforced polymer (GFRP) bridge decks transmit significant local moment-shear (M−V) combinations due to both concentrated tyre and global vehicle load effects. The WFJs also feature significant fibre mat misalignments that randomly amplify the local stress demand at the fibre-to-resin interfaces. To predict the load response and progressive damage in such WFJs, this paper presents a non-linear finite element (FE) analysis using ANSYS® software that features high-fidelity geometric representations of the mat misalignments in the as-manufactured WFJs. Cohesive zone modelling and the Hashin failure criteria are used to predict the initiation and progressive growth of delamination and transverse tensile cracks, respectively, when loaded under different M−V combinations. The applied loads and damage locations at first fracture are both reliably predicted, the former to within 10 % of physical test results using the flange cantilever test method. The FE analysis also predicts that transverse cracks in the roving core are the catalyst for ’softening’ of the nearby interface elements. It is seen that a ±30 % change in the transverse tensile strength of the roving core leads to a proportional ±13 % change in first fracture load. The authors recommend that the proposed FE modelling methodology can be used both to design new pultruded profiles and to make assessments of existing GFRP bridge decks subjected to traffic loads.}
+}

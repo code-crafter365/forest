@@ -1,0 +1,13 @@
+@article{WEI2025106801,
+title = {A class of dynamically programmed ENO schemes with adaptive order},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106801},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106801},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002610},
+author = {HuangSheng Wei and TongSheng Wang and Zhu Huang and Guang Xi},
+keywords = {High-order schemes, Essentially non-oscillatory schemes, Compressible flow, Dynamic programming, Finite difference},
+abstract = {For compressible flow with broadband length scales and discontinuities, an effective method for dissipation control is the use of a large centered, very-high-order stencil for smooth regions and a low-order scheme for regions near discontinuities. A smoothness indicator is commonly used to detect discontinuities, but it can be challenging to distinguish them from critical points and small-scale structures. This work theoretically analyzes whether local reconstruction polynomials converge as the accuracy order increases based on the d’Alembert’s ratio test. The analysis considers the monochromatic sinusoidal function in complex exponential form and the step function, which respectively model smooth and discontinuous regions. The polynomials are found to converge absolutely in the low-to-high-wavenumber space when central stencils are used, and in the low-wavenumber space when biased stencils are used. Based on this analysis, an adaptive-order method is developed without relying on the commonly used smoothness indicator. This method would automatically reduce to a low-order scheme when encountering discontinuities or high-wavenumber oscillations. Additionally, a dynamically-programmed essentially non-oscillatory (DPENO) stencil selection strategy is proposed. This strategy excludes discontinuous and biased stencils by solving a classical dynamic programming problem known as the minimum path sum (MPS) problem. The goal of the MPS problem is to find the optimal “path” from the first-order upwind stencil to the large centered, very-high-order stencil. This leads to a class of dynamically-programmed ENO schemes with adaptive order (DPENO-AO). The schemes are verified through a series of benchmark simulations, demonstrating their high computational efficiency and effectiveness in handling critical points, resolving small-scale structures, and capturing shocks.}
+}

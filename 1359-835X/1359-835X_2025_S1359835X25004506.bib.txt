@@ -1,0 +1,13 @@
+@article{WANG2025109156,
+title = {Fish-scale-inspired multifunctional superhydrophobic nanofiber composites with hierarchical conductive networks for high-performance strain sensors},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109156},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109156},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004506},
+author = {Ling Wang and Zhefan Li and Peizhao Luo and Weiwei Li and Enhui Wang and Hao Wang and Le Zhou and Jiefeng Gao},
+keywords = {Conductive nanofiber composite, Reduced graphene oxide, Strain sensor, Biocompatibility},
+abstract = {Flexible and electrically conductive polymer nanofiber/fabric composites (CFCs) have emerged as strong candidates for wearable strain sensors due to their lightweight, flexibility, and breathability. However, achieving a synergistic combination of hydrophobicity, a large workable strain range with high sensitivity, stable sensing performance, and biocompatibility remains a major challenge. In this work, we present a facile interfacial engineering strategy to fabricate multifunctional CFCs through a core–shell architecture featuring reduced graphene oxide (RGO)-wrapped thermoplastic polyurethane (PU) nanofibers synergized with polydimethylsiloxane (PDMS) modification. The pre-stretching-induced strain release constructs a microscopic fish-scale-like architecture at the RGO-PU interface, where the elastic contraction of PU nanofibers creates overlapping conductive flakes while PDMS infiltration establishes a hierarchical hydrophobic surface. This dual-phase interface engineering simultaneously: (1) enables wide strain detection (0–300 %) with high sensitivity (gauge factor = 49.1); (2) enhances interfacial adhesion via PDMS chemical grafting, ensuring long-term durability; (3) imparts excellent biocompatibility, biosafety, and hemostatic properties, making the material suitable for bio-integrated applications. This synergistic interface manipulation paradigm opens new possibilities for designing intelligent textiles that integrate environmental resistance, mechanical adaptability, and biosafety in wearable medical electronics.}
+}

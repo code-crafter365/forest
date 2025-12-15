@@ -1,0 +1,13 @@
+@article{SANCHEZCARMONA2025108610,
+title = {Longitudinal fibre/matrix debonds in CFRP ultra-thin plies: T-T cyclic testing and numerical prediction},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108610},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108610},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006080},
+author = {S. Sánchez-Carmona and C. Sandino and E. Correa and M.L. Velasco and A. Barroso},
+keywords = {Ultra-thin plies, Longitudinal debonds, Biaxial stress state, Boundary Element Method},
+abstract = {The edge effect phenomenon in cross-ply laminates made of ultra-thin (UT) 90º plies produces a relevant stress component through the laminate thickness that could lead to the generation of longitudinal debonds (parallel to the loading direction) in the 90° ply block. In this study, specimens from a carbon-epoxy laminate made of conventional 0º and UT 90º ply blocks are inspected after the curing process in order to find longitudinal debonds. The debonds growth is also monitored during a later T-T cyclic testing campaign. The experimental results are compared with the predictions obtained from a BEM model showing a good agreement. Finally, the use of an inverse procedure combining both experimental and numerical analyses leads to the estimation of GIc of the fibre/matrix interface.}
+}

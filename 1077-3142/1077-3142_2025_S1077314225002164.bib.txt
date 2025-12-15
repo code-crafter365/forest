@@ -1,0 +1,13 @@
+@article{CAO2025104493,
+title = {Mitigating forgetting in the adaptation of CLIP for few-shot classification},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104493},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104493},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002164},
+author = {Jiale Cao and Yuanheng Liu and Zhong Ji and Jingren Liu and Aiping Yang and Yanwei Pang},
+keywords = {Few-shot learning, Pre-trained vision-language models, Model fine-tuning},
+abstract = {Adapter-style efficient transfer learning has demonstrated outstanding performance in fine-tuning vision-language models, especially in scenarios with limited data. However, existing methods fail to effectively balance the prior knowledge acquired during the pre-training process and the training samples. To address this problem, we propose a method called Mitigating Forgetting in the Adaptation (MiFA) of CLIP. MiFA first employs class prototypes to represent the most prominent features of a class, and these prototypes provide a robust initialization for the classifier. To overcome the forgetting of prior knowledge, MiFA then leverages a memory module that retains the initial parameters and the parameters of training history by creating a memory weight through momentum. The weight is used to initialize a new classification layer, which, along with the original layer, guides each other to balance prior knowledge and feature adaptation. Similarly, in the text processing branch, a parallel initialization strategy is adopted to ensure that the model’s performance is improved. Text features are employed to initialize a text classification layer, and CLIP logits help prevent excessive forgetting of useful text information. Extensive experiments have demonstrated the effectiveness of our method.}
+}

@@ -1,0 +1,13 @@
+@article{GUL2025114935,
+title = {Near-infrared light-activated osmium-complex/UiO-67-bpy composite for enhanced antibacterial activity and wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114935},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114935},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004424},
+author = {Anadil Gul and Munir Ahmad and Asghar Ali and Derrick Boateng and Liping Yang and Yan Kang and Wenchao Liao},
+keywords = {Osmium-polypyridine, Photodynamic therapy, Antibacterial, UiO-67-bpy, S. aureus},
+abstract = {Osmium(bpy)22 + complex coordinated with metal-organic framework UiO-67-bpy, photodynamic effect was studied in detail against pathogenic bacteria, under Near-IR (800–810 nm) irradiation. Structural analysis, including XRD, FTIR, and XPS, confirmed successful synthesis of the composite, highlighting Os-N ligation characterized by distinct peak at 623 cm−1 with a slight red shift, and electronic modifications of N in XPS. Os(bpy)2/UiO-67-bpy (UOsCb) composite demonstrated significantly enhanced photodynamic antibacterial efficacy, with 10.4 % bacterial viability (89.6 % inhibition) against Gram (+) S. aureus after just 5 min of irradiation. However, against Gram (-) E.coli the % viability was 33.4 % (66.6 % inhibition). Mechanistic studies revealed that UOsCb induced significantly higher 2.7 fold ROS (•OH) generation compared to the bare Os-complex (1.37 fold) and UiO-67-bpy (1.2 fold), which play crucial role in photodynamic antibacterial efficacy. In vivo, UOsCb under Near-IR light significantly accelerated wound healing in S. aureus-infected models, achieving 90 % recovery within six days, compared to dark (45 %). Cytotoxicity (14.6 % over 48 h) and hemolysis (1.6 %) assays confirmed its excellent biocompatibility even at high concentrations (128 μM). This Near-IR-activated Type-I PSs offers promising alternative for antibacterial therapy, and novel platform for developing advanced heterojunction materials for biomedical applications.}
+}

@@ -1,0 +1,13 @@
+@article{ZHENG2025102624,
+title = {CrossNeXt: ConvNeXt-based cross-teaching with entropy minimization for semi-supervised liver segmentation from abdominal MRI},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102624},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102624},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001338},
+author = {Zhiji Zheng and Xiao Luo and Peiwen Li and Sirong Piao and Xin Cao and Xiao Liu and Liqin Yang and Bin Hu and Yan Geng and Daoying Geng},
+keywords = {Semi-supervised learning, Abdominal MRI segmentation, Computer-assisted image processing, Pseudo-label, Entropy minimization},
+abstract = {Recent advancements in artificial intelligence have significantly enhanced the efficiency of abdominal MRI segmentation, thereby improving the screening and diagnosis of liver diseases. However, accurate precise liver segmentation in MRI remains a challenging task due to the high variability in liver morphology and the limited availability of high-quality annotated datasets. To address these challenges, this study presents an advanced semi-supervised learning framework that integrates cross-teaching with pseudo-label generation and intra-batch entropy minimization. This framework facilitates the effective extraction of information from unlabeled data while minimizing dependence on labeled datasets. Specifically, the proposed method utilizes a cross-teaching mechanism between UNet and MedNeXt, where the prediction of one network serves as a pseudo-label to guide the training of the other. Additionally, entropy minimization within the training batch is employed to refine each network’s predictions. This strategy effectively reduces the reliance on annotated data while maintaining high segmentation accuracy even with several well-annotated images. Conducted on two public annotated datasets and an unannotated private dataset containing 1281 DICOM-format MRI images from Huashan Hospital with approved protocols, comprehensive experiments demonstrate the efficacy of the proposed approach. The results indicate superior segmentation performance, achieving a Dice Similarity Coefficient of 0.965, Intersection over Union of 0.932, 95% Hausdorff Distance of 2.625, and Average Symmetric Surface Distance of 0.760. Compared with ten state-of-the-art semi-supervised learning 3D segmentation methods, the proposed approach exhibited superior performance and robustness in medical system.}
+}

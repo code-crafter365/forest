@@ -1,0 +1,13 @@
+@article{CHENG2025104252,
+title = {Adversarial intensity awareness for robust object detection},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104252},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104252},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003333},
+author = {Jikang Cheng and Baojin Huang and Yan Fang and Zhen Han and Zhongyuan Wang},
+keywords = {Object detection, Adversarial training, Adversarial attack, Model robustness},
+abstract = {Like other computer vision models, object detectors are vulnerable to adversarial examples (AEs) containing imperceptible perturbations. These AEs can be generated with multiple intensities and then used to attack object detectors in real-world scenarios. One of the most effective ways to improve the robustness of object detectors is adversarial training (AT), which incorporates AEs into the training process. However, while previous AT-based models have shown certain robustness against adversarial attacks of a pre-specific intensity, they still struggle to maintain robustness when defending against adversarial attacks with multiple intensities. To address this issue, we propose a novel robust object detection method based on adversarial intensity awareness. We first explore potential schema to define the relationship between the neglected intensity information and actual evaluation metrics in AT. Then, we propose the sequential intensity loss (SI Loss) to represent and leverage the neglected intensity information in the AEs. Specifically, SI Loss deploys a sequential adaptive strategy to transform intensity into concrete learnable metrics in a discrete and cumulative manner. Additionally, a boundary smoothing algorithm is introduced to mitigate the influence of some particular AEs that challenging to be divided into a certain intensity level. Extensive experiments on PASCAL VOC and MS-COCO datasets substantially demonstrate the superior performance of our method over other defense methods against multi-intensity adversarial attacks.}
+}

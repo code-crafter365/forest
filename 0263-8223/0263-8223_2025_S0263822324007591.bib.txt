@@ -1,0 +1,13 @@
+@article{WIEDEMANN2025118631,
+title = {Modified cure cycles for increased fatigue performance of fiber metal laminates},
+journal = {Composite Structures},
+volume = {351},
+pages = {118631},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118631},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007591},
+author = {Johannes Wiedemann and Selim Mrzljak and Josef Koord and Christian Hühne and Frank Walther},
+keywords = {Fiber metal laminates, Modified cure cycles, Thermal residual stresses, Fatigue damage evolution, Digital image correlation, Thermography},
+abstract = {Modified (MOD) cure cycles that deviate from the manufacturer’s recommended cure profile can reduce the inherent thermally induced residual stresses (TRS) in fiber metal laminates (FML). Literature shows that MOD cycles do not adversely affect the material properties but enhance the quasi-static material strength. However, the literature does not comprehensively discuss the impact of MOD cycles on material performance during cyclic fatigue loading. This paper, therefore, investigates how MOD cycles influence the fatigue characteristics of different FML layups made of carbon fiber-reinforced polymer (CFRP) and steel. The experimental results confirm that the quasi-static material strength and the modulus of the FML are increased when using MOD cure cycles. The evaluation of fatigue tests with digital image correlation, thermography, and electrical resistance measurements of notched specimens shows that a reduction of TRS delays damage initiation in the metal facesheets and decreases the crack growth rate until facesheet failure. The results further show that layup-dependent parameters, the maximum stress in the metal sheets, and metal sheet thickness significantly govern the evolution of fatigue damage. In summary, modified cure cycles are an efficient tool to enhance the quasi-static and fatigue performance of CFRP-steel hybrid laminates.}
+}

@@ -1,0 +1,13 @@
+@article{ASAGA2025106856,
+title = {Obtaining converged flow solutions using quantum annealing},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106856},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106856},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003160},
+author = {Takahito Asaga and Yuichi Kuya},
+keywords = {Computational fluid dynamics, Quantum annealing, Lattice gas automata, Finite difference methods},
+abstract = {This paper proposes numerical methods to obtain converged flow solutions by quantum annealing. The proposed quantum annealing methods are developed for lattice gas automata (LGA) and finite difference methods (FDMs). The quadratic unconstrained binary optimization (QUBO) model for LGA consists of the cost functions for the steady-state flow condition, collision law condition, boundary condition, and flow field condition. In contrast, the QUBO model for FDMs is built directly from the discretized governing equations expressed in a binary form. In the numerical experiments of channel flows, both proposed methods successfully extract the converged velocity profiles from a large number of flow state combinations by quantum annealing. The obtained solutions closely match those obtained by the conventional or analytical approach. Since, due to the difference in characteristics between LGA and FDMs, FDMs can reduce the scale of combinatorial optimization problems more efficiently than LGA, the proposed FDM-based method obtains more accurate solutions than the proposed LGA-based method.}
+}

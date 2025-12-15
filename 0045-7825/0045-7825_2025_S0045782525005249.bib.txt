@@ -1,0 +1,13 @@
+@article{LIAN2025118252,
+title = {A coupled THM-SPH computational framework for frozen soils and its applications for thawing-induced slope failure},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118252},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118252},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005249},
+author = {Yanjian Lian and Ha H. Bui and Giang D. Nguyen},
+keywords = {Frozen soils, Coupled THM modelling, SPH, Thawing-induced slope failure, Active layer sliding permafrost},
+abstract = {Thawing-triggered slope failures and landslides are becoming an increasing concern in cold regions due to the ongoing climate change. Predicting and understanding the behaviour of frozen soils under these changing conditions is therefore critical and has led to a growing interest in the research community. To address this challenge, we present the first mesh-free smoothed particle hydrodynamics (SPH) computational framework designed to handle the multi-phase and multi-physic coupled thermo-hydro-mechanical (THM) process in frozen soils, namely the THM-SPH computational framework. The frozen soil is considered a tri-phase mixture (i.e., soil, water and ice), whose governing equations are then established based on u−p−T formulations. A critical-state elasto-plastic Clay and Sand Model for Frozen soils (CASM-F), formulated in terms of solid-phase stress, is then introduced to describe the transition response and large deformation behaviour of frozen soils due to thawing action for the first time. Several numerical verifications and demonstrations highlight the usefulness of this advanced THM-SPH computational framework in addressing challenging problems involving thawing-induced large deformation and failures of slopes. The results indicate that our proposed single-layer, fully coupled THM-SPH model can predict the entire failure process of thawing-induced landslides, from the initiation to post-failure responses, capturing the complex interaction among multiple coupled phases. This represents a significant advancement in the numerical modelling of frozen soils and their thawing-induced failure mechanisms in cold regions.}
+}

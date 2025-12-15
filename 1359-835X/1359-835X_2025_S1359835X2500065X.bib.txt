@@ -1,0 +1,13 @@
+@article{HOU2025108771,
+title = {Synergistically improved cryogenic mechanical properties and liquid oxygen compatibility of epoxy nanocomposites by GO and nano-Al(OH)3},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108771},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108771},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500065X},
+author = {Wan-Dong Hou and Fang-Liang Guo and De-Yi Qu and Yu-Tong Fu and Jun-Fei Long and Tao Guan and Chao-Yi Peng and Yuan-Qing Li and Yong-Cun Zhang and Shu-Tian Liu and Shao-Yun Fu},
+keywords = {Epoxy nanocomposites, Modification, Cryogenic mechanical properties, Liquid oxygen compatibility},
+abstract = {The inherent cryogenic brittleness and liquid oxygen incompatibility of epoxy resins severely limit their development as the matrix material of composite tanks. This work reports the modified epoxy resin by introducing two nanofillers, namely graphene oxide (GO) and nano-Al(OH)3 (NA), to achieve simultaneous improvements of cryogenic mechanical properties and liquid oxygen compatibility. Room temperature (RT), cryogenic (90 K) mechanical properties, and liquid oxygen compatibility of the epoxy resins synergistically modified with 3 phr of NA as the base filler and GO in the content range of 0.05–0.2 phr were comprehensively examined. The results showed that the epoxy resin modified by 0.1 phr GO and 3 phr NA not only displayed the highest cryogenic strength and fracture toughness but also exhibited excellent liquid oxygen compatibility. Therefore, the synergistic modification of epoxy resins by introducing GO and NA is a promising means to improve their cryogenic mechanical properties and liquid oxygen compatibility.}
+}

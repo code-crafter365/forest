@@ -1,0 +1,13 @@
+@article{XIA2025117941,
+title = {Boundary settings for seismic dynamic analysis of rock masses using the nodal-based continuous-discontinuous deformation analysis method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117941},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117941},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002130},
+author = {Yang Xia and Yongtao Yang and Hong Zheng and He Liu and Shuilin Wang},
+keywords = {Nodal-based continuous-discontinuous deformation analysis method (NCDDAM), Artificial boundary conditions, Seismic dynamic response, Failure of rock masses},
+abstract = {The nodal-based continuous-discontinuous deformation analysis method (NCDDAM) proposed by the authors has demonstrated its potential for dynamic analysis of rock masses with discontinuities. However, the existing boundary conditions applied in NCDDAM are not suitable for seismic dynamic analysis, as they can cause fictitious reflected waves. To further apply the NCDDAM for seismic dynamic analysis, this paper introduces five boundary conditions: viscous boundary, viscoelasticity boundary, seismic input boundary, free field boundary, and static-dynamic unified boundary. Several numerical examples are conduced to validate the enriched NCDDAM. The numerical results demonstrate the capacity of the enriched NCDDAM for seismic dynamic analysis of rock masses. The nonreflecting boundaries applied in NCDDAM can effectively absorb wave energy and avoid fictitious scattered waves, while the free field boundary applied in NCDDAM effectively simulates wave propagation in a semi-infinite domain. Based on the static-dynamic unified boundary, the seamless transition of boundary condition settings between the quasi-static and dynamic stages can be achieved. The entire evolution process of earthquake-induced disasters, including initiation, movement, run-out, and deposition can be effectively simulated within a unified framework using the enriched NCDDAM.}
+}

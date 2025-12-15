@@ -1,0 +1,13 @@
+@article{RYUZONO2025108963,
+title = {Mechanism investigation and comparison of long-term deformations caused by process-induced residual stresses in thermosetting CF/epoxy and thermoplastic CF/PAEK composite laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108963},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108963},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500257X},
+author = {Kazuki Ryuzono and Sera Koo and Yamato Hoshikawa and Yoshiaki Kawagoe and Tomonaga Okabe},
+keywords = {Carbon-fiber-reinforced polymer (CFRP), Finite element analysis (FEA), Anisotropic viscoelasticity, Process-induced/long-term deformation},
+abstract = {This study experimentally and numerically investigated the mechanisms of process-induced deformations (PIDs) and subsequent long-term deformations (LTDs) in thermosetting CF/epoxy (T700G/2510) and thermoplastic CF/PAEK (T700G/LM-PAEK) aerospace-grade prepreg laminates. Warpage deformations in asymmetric cross-ply laminates after autoclave fabrication were measured over 84 days under controlled conditions (60 °C and 50%RH). A finite element analysis integrating anisotropic viscoelastic constitutive law and geometric nonlinearity was conducted to predict the PID and LTD using the material properties derived from the lamina-level thermomechanical analysis and dynamic mechanical analysis (DMA). The experimental results revealed that T700G/LM-PAEK exhibited a larger PID, which was attributed to its larger thermal strain and higher modulus during molding. In contrast, T700G/2510 exhibited a larger LTD, which was attributed to its higher sensitivity to moisture absorption. Although incorporating a moisture-sensitive shift factor was required for predicting the LTD of T700G/2510, the simulation accurately reproduced the PID and LTD for both materials. To validate the deformation simulation and provide insights into the viscoelastic behavior of the resin in aerospace-grade commercial prepregs with undisclosed chemical compositions, a self-consistent micromechanics model was further employed. This model estimated the equivalent viscoelastic properties of the resin from lamina-level DMA data. The findings demonstrated that both macroscale deformation prediction and microscale resin characterization can be achieved using only standard DMA tests on such prepregs.}
+}

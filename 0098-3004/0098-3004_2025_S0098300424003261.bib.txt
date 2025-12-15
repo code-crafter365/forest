@@ -1,0 +1,13 @@
+@article{FRANCZYK2025105843,
+title = {Time reversal imaging and transfer learning for spatial and temporal seismic source location},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105843},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105843},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003261},
+author = {Anna Franczyk and Damian Gwiżdż},
+keywords = {Time reversal imaging, Transfer learning, Seismic source location, Complex geological models},
+abstract = {This article presents the application of Time Reversal Imaging (TRI) and transfer learning methods for spatial and temporal seismic wave location. The study applies the ResNet-50 model, pre-trained on the basis of ImageNet images, and later retrained using seismic wave field component images. The objective of the study was to provide an accurate classification of seismic source areas and determine the temporal localization of seismic events. The research involved training the ResNet-50 model based on datasets of wave field component images obtained through the backpropagation of reversed waveforms in simplified geological models. The classification was evaluated using performance metrics. Additionally, to assess its effectiveness in realistic scenarios the methodology was applied to the complex Marmousi velocity model. The results show that the combined TRI and transfer learning approach is highly effective in classifying seismic source areas. The trained model successfully identifies patterns unique to seismic wave components, enabling precise spatial localization. Additionally, the method accurately determines the focusing time, which is essential for the temporal localization of seismic events. The article includes research on the influence of receiver network geometry on localization outcomes. By examining various receiver configurations, valuable insights have been gained, further improving the practical applicability of the method. The study highlights the potential for further advances by extending the methodology to three-dimensional models, although there remains a need to address various computational challenges. Three-dimensional modeling would enhance the accuracy of source localization, especially in the case of seismic sources characterized by dominant isotropic components. In conclusion, the combination of TRI and transfer learning presents a promising approach for ensuring precise spatial and temporal seismic wave location. This methodology has the potential to enhance seismic monitoring, early warning systems, and make a significant contribution to earthquake engineering and hazard assessment.}
+}

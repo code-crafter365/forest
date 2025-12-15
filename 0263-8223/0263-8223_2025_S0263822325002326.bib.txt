@@ -1,0 +1,13 @@
+@article{WANG2025119067,
+title = {New analytical buckling solutions for non-Lévy-type graphene-reinforced composite laminated plates},
+journal = {Composite Structures},
+volume = {360},
+pages = {119067},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119067},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002326},
+author = {Zixuan Wang and Dian Xu and Jinbao Li and Zhaoyang Hu and Guangping Gong and Rui Li},
+keywords = {Buckling, Composite laminated plate, Non-Lévy-type boundary, Analytical solution},
+abstract = {This study explores the buckling behavior for non-Lévy-type graphene-reinforced composite (GRC) laminated thin and moderately thick plates, with novel analytical solutions derived. The material properties for GRC laminated plates are assessed through an extended Halpin-Tsai model, while the governing buckling equations are derived within a Hamiltonian framework. The difficulty of analytical solution caused by the non-Lévy-type boundary conditions (BCs) is addressed by using the symplectic superposition method. Three different graphene distributions along the thickness direction are considered. The analytical solutions in this study are well verified by the literature results or the finite element numerical results. Based on the solutions, a detailed discussion is performed on the quantitative relationships between the critical buckling loads and the modulus ratios, number of layers, aspect ratios, laying angles, graphene distribution forms, temperatures, width-to-thickness ratios, graphene volume fractions, and BCs.}
+}

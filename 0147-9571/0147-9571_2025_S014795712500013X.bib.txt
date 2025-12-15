@@ -1,0 +1,13 @@
+@article{BENABDALLAH2025102305,
+title = {Reptile trade and chelonians-associated Salmonellosis in humans: A public health concern},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {117},
+pages = {102305},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102305},
+url = {https://www.sciencedirect.com/science/article/pii/S014795712500013X},
+author = {Randa Benabdallah and Hani Saoudi and Faouzi Matallah and Valentina Virginia Ebani and Ammar Ayachi and Leila Aoun},
+keywords = {Trade, Tortoises, Turtles, Salmonellosis, Infection, Humans},
+abstract = {Animal trade has become a serious criminal practice in the world. Every day thousands of exotic wild animals, including reptiles, are farmed and sold worldwide. The illegal collection of turtles and tortoises remains completely unsupervised and represents a big challenge for responsible authorities. This has consequences for animals and public health because it can contribute to the spread of multiple zoonotic pathogens by introducing exotic species into new geographical areas like wet markets, pet shops, and houses. Non-typhoidal Salmonella are bacteria that can commonly cause self-limiting gastroenteritis but can also cause more serious symptoms, especially in more vulnerable people with impaired immune systems. There is growing evidence linking Salmonella to reptiles, especially chelonians, and its prevalence has increased recently as turtles and tortoises have become popular as new pets. These animals can potentially transmit antimicrobial resistant strains of Salmonella to humans, which puts people in danger, especially young children. Pet owners should be aware and take all the control measures to prevent the infection. This updated review investigates the reptile trade situations worldwide, including chelonians, explaining their relationship with the spread of Salmonella and the risk of infections for humans.}
+}

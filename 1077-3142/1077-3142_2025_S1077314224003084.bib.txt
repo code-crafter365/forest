@@ -1,0 +1,13 @@
+@article{BURGER2025104227,
+title = {2S-SGCN: A two-stage stratified graph convolutional network model for facial landmark detection on 3D data},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104227},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104227},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003084},
+author = {Jacopo Burger and Giorgio Blandano and Giuseppe Maurizio Facchi and Raffaella Lanzarotti},
+keywords = {3D facial landmark detection, Graph convolutional network, Heatmap regression, Stratified coarse-to-fine approach, Facescape and Headspace datasets, GCN lightweight model},
+abstract = {Facial Landmark Detection (FLD) algorithms play a crucial role in numerous computer vision applications, particularly in tasks such as face recognition, head pose estimation, and facial expression analysis. While FLD on images has long been the focus, the emergence of 3D data has led to a surge of interest in FLD on it due to its potential applications in various fields, including medical research. However, automating FLD in this context presents significant challenges, such as selecting suitable network architectures, refining outputs for precise landmark localization and optimizing computational efficiency. In response, this paper presents a novel approach, the 2-Stage Stratified Graph Convolutional Network (2S-SGCN), which addresses these challenges comprehensively. The first stage aims to detect landmark regions using heatmap regression, which leverages both local and long-range dependencies through a stratified approach. In the second stage, 3D landmarks are precisely determined using a new post-processing technique, namely MSE-over-mesh. 2S-SGCN ensures both efficiency and suitability for resource-constrained devices. Experimental results on 3D scans from the public Facescape and Headspace datasets, as well as on point clouds derived from FLAME meshes collected in the DAD-3DHeads dataset, demonstrate that the proposed method achieves state-of-the-art performance across various conditions. Source code is accessible at https://github.com/gfacchi-dev/CVIU-2S-SGCN.}
+}

@@ -1,0 +1,13 @@
+@article{ZHOU2025114368,
+title = {Construction of bilayer biomimetic periosteum based on SLA-3D printing for bone regeneration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114368},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114368},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006271},
+author = {Xingguo Zhou and Bin Zou and Qinghua Chen and Gongxian Yang and Qingguo Lai and Xinfeng Wang},
+keywords = {3D printing, Bone tissue engineering, Photothermal therapy, Biomimetic periosteum},
+abstract = {An ideal biomimetic periosteum should have excellent biocompatibility to promote osteoclast adhesion and improve osseointegration, which is significant in promoting bone regeneration. In this work, a bionic artificial periosteum printed by the SLA-3D printing was prepared, consisting of a poly (ethylene glycol) diacrylate (PEGDA)/chitosan/tricalcium phosphate (TCP) fibrous layer and a gelatin methacryloyl (GelMA)/ammonium molybdate (Mo) cambium layer. Distinct surface characteristics were achieved on both sides of the biomimetic periosteum. Among them, the fibrous layer has high mechanical properties and low porosity, which is conducive to preventing the pulling of muscle tissues and the invasion of soft tissues. The cambium layer has a porous structure and bioactive factors that can effectively promote osteogenic differentiation of preosteoblasts. Combined with mild photothermal therapy triggered by NIR light, the biomimetic periosteum could promote bone regeneration at both the chemical and physical levels. This 3D-printed bilayer hydrogel can provide a promising strategy for preparing advanced tissue-engineered periosteum with excellent physical and bone regeneration properties.}
+}

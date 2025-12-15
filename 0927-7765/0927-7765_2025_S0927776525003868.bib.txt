@@ -1,0 +1,20 @@
+@article{SANDMEIER2025114879,
+title = {Oral formulations for cannabidiol: Improved absolute oral bioavailability of biodegradable cannabidiol self-emulsifying drug delivery systems},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114879},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114879},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003868},
+author = {Matthias Sandmeier and Ee Tsin Wong and Gitte Nykjær Nikolajsen and Asef Purwanti and Sera Lindner and Andreas Bernkop-Schnürch and Wenhao Xia and Julia Hoeng and Kathrine Kjær and Heidi Ziegler Bruun and Sanne Skov Jensen},
+keywords = {SEDDS, Nanoemulsion, Oral drug delivery, Cannabidiol, Nanodroplets},
+abstract = {Aim
+This study aimed to fabricate and evaluate three different SEDDS formulations to improve the oral bioavailability of cannabidiol (CBD). CBD has limited oral bioavailability due to its lipophilicity and extensive first-pass metabolism. By using different emulsifiers in the SEDDS formulations, this study seeks to optimize CBD loading capacities and enhance overall in vivo pharmacokinetic (PK) performance of CBD when administered orally.
+Methods
+SEDDS were developed using three types of emulsifiers: 1) PEG-free polyglycerol (PG)-based, 2) mixed zwitterionic phosphatidylcholine/short-chain PEG-based, and 3) long-chain PEG-based. The SEDDS formulations were characterized in vitro for surface properties, lipolysis, and mucus permeation, and their pharmacokinetic profiles were compared with Epidiolex, a marketed CBD formulation.
+Results
+SEDDS with increased payloads (20 % w/w) were successfully developed. These formulations rapidly emulsified upon contact with aqueous media, forming monodisperse droplets that retained high levels of CBD (92.95–93.54 %) within the lipid core. Mucus permeability studies revealed that steric and surface-specific parameters, such as hydrophobicity and zeta potential, led to increased permeability for PG-based SEDDS, while PEG-based SEDDS had significantly reduced permeation. Furthermore, PG-based formulations exhibited increased fatty acid release upon SEDDS degradation with both lipase and pancreatin compared to PEG-based formulations. The plasma CBD concentration following oral administration of the developed SEDDS suggested higher absolute bioavailability of the PG-based formulation (3.8 %) compared with Epidiolex (3.4 %). Additionally, the maximum plasma concentrations for the three developed SEDDS ranged from 30.6 to 35.8 ng/mL, surpassing that of Epidiolex (25.0 ng/mL).
+Conclusion
+These findings underscore the potential of SEDDS as an effective oral delivery system for CBD, capable of achieving higher CBD plasma concentrations than Epidiolex. Additionally, the biodegradable PG-based SEDDS demonstrated improved absolute bioavailability compared to Epidiolex, emphasizing the importance of formulation design in optimizing oral drug delivery systems.}
+}

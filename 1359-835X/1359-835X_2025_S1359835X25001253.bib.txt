@@ -1,0 +1,13 @@
+@article{ABOLFAZLI2025108831,
+title = {Impact of Fire-Retardant coating on the residual compressive strength of hybrid Fibre-Reinforced polymer tubes exposed to elevated temperature},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108831},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108831},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001253},
+author = {Milad Abolfazli and Milad Bazli and Sashidhar Regmi and Milad Shakiba and Caleb O. Ojo and Ali Rajabipour and Reza Hassanli and Ramin Shahbazi and Mehrdad Arashpour},
+keywords = {Hybrid fibre-reinforced polymer, Elevated temperature, Fire retardant coating, Thermal degradation, Mechanical properties, Composite tubes},
+abstract = {Enhancing the fire resistance of fibre‐reinforced polymer (FRP) composites is vital for ensuring structural safety in fire‐prone infrastructures. This study investigates the thermal degradation and residual compressive strength of filament-wound hybrid fibre-reinforced polymer (HFRP) tubes exposed to temperatures ranging from 25 °C to 350 °C. The tubes, composed of 50 % carbon fibre and 50 % E-glass fibre, with a 60:40 fibre–resin ratio, were subjected to thermal conditioning to simulate real-world fire exposure. For uncoated tubes, a balance between resin post-curing and pyrolytic degradation preserves compressive strength up to 200 °C, but strength sharply decreases beyond this threshold due to intensified pyrolysis, with virtually no residual strength at 350 °C. Fire-retardant coatings, Nullifire SC902, activate above 200 °C, providing limited protection, and the samples retain 20–21 % of their original compressive strength at 350 °C. As revealed by complementary Scanning Electron Microscopy (SEM), Thermogravimetric Analysis (TGA), Differential Scanning Calorimetry (DSC), and Fourier Transform Infrared Spectroscopy (FTIR) analyses, key degradation mechanisms include matrix degradation and cracking and fibre exposure. Overall, the fire-retardant coating offers some benefits at higher temperatures, but its effectiveness is limited by activation thresholds and prolonged exposure. The findings show the need for further optimisation of fire-resistant systems for HFRP composites to improve their safety and durability in fire-prone applications.}
+}

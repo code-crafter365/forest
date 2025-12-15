@@ -1,0 +1,13 @@
+@article{KIM2025108845,
+title = {Optimization of 3D printed truss meta-structure for structural performance and switchable vibration attenuation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108845},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108845},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001393},
+author = {Samuel Kim and Hyunsoo Hong and Jaemoon Jeong and Wonvin Kim and Wonki Kim and Gyumin Sim and Jieun Lee and Seong Su Kim},
+keywords = {A. Smart materials, B. Mechanical properties, B. Vibration, E. 3-D Printing},
+abstract = {In this study, a truss-based metastructure is proposed that simultaneously considers structural and vibration attenuation performance. To enhance vibration characteristics, the unit cell is designed to induce local resonance and the inertial amplification effect. Finite element analysis (FEA) was conducted to evaluate the compression stiffness and transmissibility of the unit cell with respect to its shape, and the switchable vibration characteristics depending on the presence of water were analyzed through dispersion relation. In addition, an optimal vibration attenuation metastructure satisfying the target stiffness was derived using a genetic algorithm. To validate the FEA results of the optimal structure, the metastructure was fabricated using stereolithography 3D printing, followed by structural and vibration tests. The fabricated truss-based metastructure showed good agreement with the vibration analysis results and excellent vibration reduction characteristics.}
+}

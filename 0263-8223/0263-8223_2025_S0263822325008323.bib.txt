@@ -1,0 +1,13 @@
+@article{CHENG2025119667,
+title = {Impact resistance for ECC-RC bridge columns protected by an innovative steel-GFRP-foam anti-collision device: Experimental, numerical and theoretical analysis},
+journal = {Composite Structures},
+volume = {373},
+pages = {119667},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119667},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008323},
+author = {Yi Cheng and Wenwei Wang and Zhongfeng Zhu and Yifeng Zhong and Yixing Tang},
+keywords = {Steel-GFRP-foam anti-collision device, ECC-RC composite column, Low-velocity impact test, Numerical simulation, Improved theoretical model, Impact resistance},
+abstract = {Considering satisfying the crashworthy demands for engineered cementitious composite (ECC)-reinforced concrete (RC) columns in bridge protection engineering, an innovative steel-glass fiber reinforced polymer (GFRP)-foam anti-collision device was proposed. Low-velocity collision experiments were taken to clarify the impact resistance for ECC-RC columns with the developed protective structure. Based on a calibrated numerical model, three important parameters were adopted to compare their effects on the specimen impact behaviors. An improved theoretical model considering the ECC fracture failure was derived to predict the initial energy consumption of composite columns with a steel-GFRP-foam device. Test results demonstrated that both the damage mode and collision responses for ECC-RC columns were extremely attenuated through the steel plastic yielding, GFRP buckling deformation and foam compressive-shear failure in this anti-collision device. Meanwhile, the stronger local stiffness of ECC strengthening composites was less conducive to a reasonable crashworthy design compared with the steel-GFRP-foam anti-collision structure. Simulation results indicated that the development of overall impact responses was mainly affected by the ECC-RC interface localization. Analytical results illustrated that the modified theoretical model was expected to be applied in the crashworthy design codes for strengthened bridge structures. These works provided some novel research ideas for the bridge anti-collision field.}
+}

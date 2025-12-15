@@ -1,0 +1,13 @@
+@article{XU2025114718,
+title = {A multifunctional nanoplatform based on chlorin e6 for fluorescence imaging-guided sonodynamic and chemodynamic cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114718},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114718},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002255},
+author = {Qi Xu and Fang He and Zhimin Mo and Han Hu and Qianyuan He and Zushun Xu and Shengli Yang and Xiaojuan Qin},
+keywords = {Theranostics, Sonodynamic therapy, Chemodynamic therapy, Multimodal combination therapy},
+abstract = {Emerging multimodal therapy strategies based on sonodynamic therapy (SDT) are foreseen as foundational in forthcoming tumor theranostics. Nevertheless, the therapeutic effects of SDT are limited by the hypoxic environment of the tumor microenvironment (TME). Based on this, nano-enzymes are envisioned to decompose excess hydrogen peroxide in the tumor microenvironment to generate oxygen. Here, PEG-PLGA-coated CeO2 nanoparticles loaded with the sonosensitizer chlorin e6 (CC@PP) were prepared for cancer therapy based on a nanoprecipitation method. CC@PP possesses highly efficient catalase-like (CAT) properties, which are able to decompose overexpressed H2O2 into O2 and enhance the effect of O2-dependent sonodynamic therapy. In addition, it can act as a peroxidase (POD) at lower pH for chemodynamic therapy. Under the guidance of the US, CC@PP can perform synergistic sonodynamic and chemodynamic cancer therapy and inhibit tumor growth efficiently, CC@PP is biocompatible, has good in vivo fluorescence imaging effect, and has integrated diagnostic and therapeutic properties, which can be effectively aggregated at the tumor area. In this study, the effect of sonodynamic therapy was enhanced by improving the hypoxic environment in the TME, and multimodal synergistic enhancement of cancer therapy was realized.}
+}

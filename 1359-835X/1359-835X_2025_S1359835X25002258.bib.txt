@@ -1,0 +1,13 @@
+@article{ZHOU2025108931,
+title = {Enhanced strength and toughness of continuous carbon fiber reinforced aluminum matrix composite ring component prepared by indirect extrusion},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108931},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108931},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002258},
+author = {Jiming Zhou and Yunfeng Bai and Xiaobo Li and Lehua Qi},
+keywords = {CF/Al, Indirect extrusion, Aerospace composites, Metal matrix composites, Mechanical properties},
+abstract = {Preparing large-sized, high-performance carbon fiber reinforced aluminum matrix (CF/Al) composite ring components presents significant challenges in the aerospace industry. This study introduces an innovative fabrication method based on indirect extrusion (IE) for CF/Al composite ring components. The influence of the preform structure on the molding quality was investigated, elucidating the alloy liquid infiltration mechanism during the IE process. Additionally, the mechanical properties and failure mechanisms were systematically analyzed. The results showed that the IE composites had better forming quality with a 15% increase in tensile strength and a 17% increase in shear strength compared to composites prepared by direct extrusion (DE). In addition, based on the area calculation under the stress–strain curve, the tensile and shear energy absorption capacities of IE composites were improved by 98% and 73%, respectively. This process provides a solid foundation for the high-quality preparation and application of composite ring components in advanced aerospace engineering.}
+}

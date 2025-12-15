@@ -1,0 +1,13 @@
+@article{FU2025115069,
+title = {Redox-responsive self-targeting carrier-free nanotherapeutic agent with ROS storm for enhancing tumor oxidative stress},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115069},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115069},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005764},
+author = {Xu Fu and Lei Zhao and Wen Yin and Shuangjiao Hou and Haichun Liu and Lele Kou and Zhongxiong Fan and Dekui Zhang},
+keywords = {Nanotherapeutic agent, Tumor-targeting, ROS storm, Chemotherapy, Synergistic therapy},
+abstract = {The synergistic therapy of ROS storm and chemotherapy based on nanotherapeutic agent can achieve the efficient oncotherapy. Nevertheless, low drug payload, poor tumor targeting, and undesirable side effect have greatly impeded the generation of reactive oxygen species (ROS) storm in tumor site. Herein, both the chemo-drug methotrexate (MTX, a specific targeting ligand towards folate receptors) and D-α-tocopherol succinate (TOS) are covalently linked by redox-responsive disulfide bond to obtain a self-targeting prodrug (termed as TOS-SS-MTX). After that, both the above synthesized prodrug TOS-SS-MTX and the photosensitizer chlorin e6 (Ce6) are further self-assembled into nanotherapeutic agent (termed as CTM). It is demonstrated that CTM can significantly enhance tumor targeting and increase intracellular transport, thereby achieving the effective co-delivery of both MTX and Ce6 under the mediation of self-targeting effect. In addition, it is found that CTM can be controlled drug release through the acidic tumor microenvironment and elevated glutathione (GSH) levels. Furthermore, CTM exhibits high drug loading efficiency and biocompatibility, prolonging the therapeutic effect. Additionally, CTM can also enhance ROS storm, thereby enhancing tumor oxidative stress under the dual mediation of laser irradiation and TOS. In vitro and in vivo results jointly confirm that CTM can almost achieve tumor ablation under the synergistic effect of oxidative stress and chemotherapy. Collectively, our redox-responsive self-targeting carrier-free nanotherapeutic agent with ROS storm provides a promising strategy for the synergistic oncotherapy of oxidative stress and chemotherapy.}
+}

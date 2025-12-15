@@ -1,0 +1,13 @@
+@article{RAPS2025119556,
+title = {Effect of geometry-induced triangular gap and overlap defects on in-situ AFP-manufactured structures},
+journal = {Composite Structures},
+volume = {373},
+pages = {119556},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119556},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007214},
+author = {Lukas Raps and Ashley R. Chadwick and Heinz F. Voggenreiter},
+keywords = {Automated Fiber Placement, In-situ consolidation, Thermoplastic composites, Gaps and overlaps},
+abstract = {This study investigates realistic triangular gap and overlap defects resulting from complex geometry Automated Fiber Placement (AFP) and their effect on laminate composition and mechanical properties of in-situ AFP-manufactured laminates. Laminates with realistically staggered defects are manufactured using in-situ AFP and compared to hot press re-consolidated reference laminates. Microanalysis reveals defect-induced porosity localized at defect edges (gaps) or outside the defect contour (overlaps), which can be significantly mitigated by subsequent ply orientation. Despite these microstructural variations, the impact on tensile and compressive strength and modulus is minimal, suggesting a sub-critical disruption of the laminate composition from staggered defects. While subtle differences are observed between gap and overlap defects, a larger influence of mechanical performance is given by the manufacturing configuration, with hot pressed specimens exhibiting higher strength and modulus. These findings provide initial evidence suggesting that geometry-related defects can be tolerated in in-situ AFP laminates without substantial performance degradation, informing future process optimization and defect tolerance strategies.}
+}

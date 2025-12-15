@@ -1,0 +1,13 @@
+@article{YE2025114520,
+title = {A novel and high-performance tumor inhibitor of La, N co-doped carbon dots for U251 and LN229 cells},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114520},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114520},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500027X},
+author = {Xinyun Ye and Huanglian Zhong and Lin Liu and Jingtao Huang and Zhuquan Xia and Zhiji Tang and Wenjin Wei and Weilong Huang and Yuwei Ye and Qiuhua Jiang},
+keywords = {La@FA-CDs, Tumor inhibitor, Glioblastoma cells},
+abstract = {To address the medical challenges posed by glioblastoma, a novel and high-performance tumor inhibitor (La@FA-CDs) composed of folic acid and lanthanum nitrate hexahydrate, was successfully synthesized and demonstrated effectiveness in inhibiting the growth of U251 and LN299 cells. The microstructure of La@FA-CDs was extensively analyzed by FTIR, UV-Vis, XPS, TEM, AFM NMR, and nanoparticle size analyzer. The optical and electrical properties of La@FA-CDs were characterized using a fluorescence spectrometer and a zeta potential analyzer. Biological assays, including the CCK8 proliferation assay, scratch assay, flow cytometry, cytoskeleton staining, and live/dead staining were conducted to assess antitumor properties and cytotoxicity. The result revealed that the La50 %@FA-CDs demonstrated significantly enhanced antitumor activity relative to the undoped sample. Furthermore, the La50 %@FA-CDs demonstrated a dose-dependent cytotoxic effect on two glioblastoma cell lines U251 and LN299. The findings of this study suggested that treatment with La50 %@FA-CDs effectively inhibited migration and proliferation while promoting apoptosis in glioblastoma cells. Meanwhile, the La50 %@FA-CDs showed minimal cytotoxic effects on HEK 293 and HUVEC cells under standard conditions, with only slight toxicity observed in HUVEC cells at high (500 µM) concentrations. These results suggest that La50 %@FA-CDs could be a promising therapeutic agent for glioblastoma treatment, demonstrating both effective inhibition and favorable safety profiles.}
+}

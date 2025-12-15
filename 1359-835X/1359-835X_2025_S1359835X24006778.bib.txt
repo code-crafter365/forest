@@ -1,0 +1,13 @@
+@article{WEN2025108679,
+title = {A novel visco-elastic–plastic constitutive model for predicting the cyclic loading–unloading nonlinear tensile behaviors of off-axis twisted flax fiber reinforced composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108679},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108679},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006778},
+author = {Bo Wen and Jinzhe Zhang and Qian Li and Zhen Zhang and Hao Ding},
+keywords = {A. Plant fiber, B. Non-linear behavior, C. Finite element analysis, D. Deformation},
+abstract = {The nonlinear mechanical behaviors of unidirectional twisted on-axis and off-axis flax fiber reinforced composites (FFRC-0, FFRC-15, FFRC-30, FFRC-45) during cyclic tensile loading–unloading conditions were investigated in this study. The nonlinear tensile performances of FFRC-0 were firstly analyzed through monotonic tensile tests to determine the evolution law between the stiffness and axial strain. Based on the repetitive progressive tensile test results of FFRC-0, a quadratic function was applied and expressed to describe the stiffness evolution relationship for each cyclic unloading process. The nonlinear deformation mechanisms and hysteretic phenomena of all composites were clarified via cyclic tensile experiments. To predict the cyclic tensile stress–strain responses of unidirectional off-axis FFRCs, a novel visco-elastic–plastic constitutive model was developed by integrating geometric nonlinearity (twisted structure and off-axis tension) and material nonlinearity (hysteresis and creep) in a user-defined material subroutine. The two-parameter Weibull model was employed to characterize the hysteresis during off-axis unloading and subsequent loading. The findings indicate that FFRC-0 exhibit a nonlinear deformation behavior with four evolution stage, describing as a quadratic exponential function. The hierarchical twisted structures of flax yarns and visco-elastic–plastic characteristics of flax fibers lead to strong hysteresis and creep mechanisms. The experimental and numerical results have achieved a significant agreement on the stress–strain relationships of unidirectional off-axis FFRCs, and the model determined the contributions of strain components to the nonlinear mechanical response of FFRCs. It is expected to contribute to improving the prediction accuracy of long-term mechanical properties of plant fiber reinforced composites.}
+}

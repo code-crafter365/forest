@@ -1,0 +1,13 @@
+@article{YAZDANPARAST2025108882,
+title = {Stochastic multi-scale modeling for estimating the Mode-I dynamic fracture toughness of CNT-reinforced polymers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108882},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108882},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001769},
+author = {Reza Yazdanparast and Roham Rafiee},
+keywords = {Dynamic fracture toughness, Impact loading, Nanocomposites, Stochastic multi-scale modeling},
+abstract = {A stochastic hierarchical multiscale model is developed to estimate the Mode-I dynamic fracture toughness of CNT-reinforced polymers, capturing both processing-induced inconsistencies and strain rate effects. At the nanoscale, molecular dynamic simulations of CNT pull-out from the matrix are performed to analyze the CNT-polymer interfacial properties at various pull-out speeds. At the microscale, a rate-dependent finite element model is established to characterize the pull-out profiles for different CNT lengths, orientations, and waviness at various pull-out speeds. Then, the CNT bridging phenomenon along the crack growth path is modeled considering viscoelastic-viscoplastic behavior for the matrix. The influence of CNT lengths, waviness patterns, orientations, and volume fractions at the microscale, as well as CNT agglomeration effects at the mesoscale, on critical fracture energy (GID) are determined. At the macroscale, stochastic simulation is performed to estimate GID treating involved uncertainties as random variables. Predicted results are in very good agreement with experimental observations.}
+}

@@ -1,0 +1,13 @@
+@article{FEREIDOUNI2025108519,
+title = {Transverse squeeze flow of thermoplastic composite tape during in-situ consolidation via automated fiber placement},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108519},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108519},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005177},
+author = {Mahmoud Fereidouni and Suong Van Hoa},
+keywords = {Squeeze flow model, Power-law viscosity, Automated fiber placement, Thermoplastic composites},
+abstract = {Transverse squeezing of thermoplastic composite tapes during automated fiber placement is a challenge in controlling gaps/overlaps of adjacent bands. A theoretical model may provide insights on direct effect of process parameters on deformation of tape. The developed models in this work evaluate non-Newtonian squeeze flow of molten tape using power-law viscosity under three different no slip, perfect slip, and imperfect slip boundary conditions at interface during in-situ consolidation, aiming to predict the final width of tape with minimal computational costs. The results predicted by models are verified using finite element analysis with close agreement. Subsequently, no slip and perfect slip assumptions underestimated and overestimated the experimental measurements of consolidated widths, respectively. However, the squeeze model with imperfect slip condition may effectively capture the trends in the experimental data. This model includes the effect of intimate contact development on the friction parameter during squeezing, utilizing a new non-Newtonian trapezoidal asperity model.}
+}

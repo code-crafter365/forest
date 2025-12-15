@@ -1,0 +1,13 @@
+@article{TU2025114263,
+title = {Liposomal nano-encapsulation of bFGF combined with injectable BSA hydrogel for efficient burn wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114263},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114263},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005228},
+author = {Yuhan Tu and Yangyang Ning and Hong Wang and Yang Li and Zhiang Yao and Shanhui Tao and Wenjing Yang and Bin Li and Xiaofen Li and Huacheng He and Shijun Li},
+keywords = {Burns, Nanoliposome, Bovine serum albumin, Hydrogel, BFGF},
+abstract = {Rapid and scar-free healing of burn wounds is an urgent clinical issue. Basic fibroblast growth factor (bFGF) has been proven to promote the healing of burn wounds by accelerating ECM remodeling and angiogenesis. However, exudates from burn wounds can accelerate bFGF degradation, thereby affecting its bioactivity. This study proposes an effective protection strategy for bFGF that involves encapsulating bFGF in nanoliposomes (bFGF-NLip) and then incorporating bFGF-NLip into a bovine serum albumin (BSA) hydrogel. This hybrid hydrogel system (bFGF-NLip@B) could maintain the activity of bFGF, achieve sustained release, and allow phospholipids and cholesterol to penetrate the skin, thereby enabling bFGF to function in the dermis. The experimental results showed that the hydrogel was injectable with good mechanical properties and biocompatibility. In a mouse scald wound model, owing to the sustained release of bFGF and skin permeation function of the nanoliposomes, the hydrogel promoted granulation formation, collagen deposition, vascular regeneration, and re-epithelialisation, ultimately accelerating wound healing. In addition, the hydrogel effectively inhibited scar formation. This system provides novel insights into the delivery of bFGF and scar-free healing of burn wounds.}
+}

@@ -1,0 +1,13 @@
+@article{NGUYEN2025106603,
+title = {Development of new wall functions for RANS model in superhydrophobic surface based on CFD and data-driven uncertainty quantification},
+journal = {Computers & Fluids},
+volume = {292},
+pages = {106603},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106603},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000635},
+author = {Hoai-Thanh Nguyen and Byeong-Cheon Kim and Sang-Wook Lee and Jaiyoung Ryu and Minjae Kim and Jaemoon Yoon and Kyoungsik Chang},
+keywords = {Superhydrophobic surface, DNS,  turbulence model, Bayesian inference, MCMC},
+abstract = {This study investigates turbulent channel flow over superhydrophobic surfaces using direct numerical simulation and k-ε turbulence model with a newly developed wall function. A surrogate model, constructed using Gaussian Process Regression, predicts slip velocity and shifted velocity based on SHS texture parameters, specifically texture spacing and solid fraction. Direct numerical simulation conducted at a friction Reynolds number of Reτ=180, reveal strong linear relationships between slip velocity and shifted velocity . The surrogate model is validated against existing direct numerical simulation data, demonstrating high accuracy with an R-squared value of 0.957 and minimal prediction error. This surrogate model to predict the slip velocity is incorporated into a modified wall function for the k-ε turbulence model, which is implemented and tested using the open source software OpenFOAM. The proposed wall function yields results that align well with direct numerical simulation predictions in the near wall region, while some discrepancies occur in the log-layer due to the fundamental differences between direct numerical simulation and Reynolds-averaged Navier-Stokes methodologies. Despite these differences, the new wall function provides an efficient approach for simulating superhydrophobic surface channel flows using Reynolds-averaged Navier-Stokes models, reducing computational costs while maintaining acceptable accuracy. This research establishes a robust framework for integrating superhydrophobic surface effects into turbulence modelling, enhancing predictive capabilities for complex engineering applications.}
+}

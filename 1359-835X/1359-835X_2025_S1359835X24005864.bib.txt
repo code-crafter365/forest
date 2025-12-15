@@ -1,0 +1,13 @@
+@article{WANG2025108588,
+title = {3D printing of graphene frameworks decorated with magnetic components for enhanced electromagnetic interference shielding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108588},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108588},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005864},
+author = {Yue Wang and Jialiang Luo and Gazi Hao and Jun Di and Guigao Liu and Suwei Wang and Wei Jiang},
+keywords = {Metal-matrix composites (MMCs), EMI shielding, Heat treatment, 3-D printing},
+abstract = {Three-dimensional (3D) printed graphene frameworks with structural designability and compositional tunability offer new opportunities for electromagnetic interference (EMI) shielding applications. However, advanced EMI shielding materials with customizable structures and magnetic responsiveness remain a challenge. Herein, we construct lightweight and structurally controllable 3D reduced graphene oxide frameworks decorated with magnetic components (MRGO frameworks) via 3D printing technology to tailor EMI shielding properties. By adjusting the preparation conditions of the MRGO frameworks, such as inter-filament spacing, composition, and pyrolysis temperature, the graphitization degree and transmission paths are influenced, enabling electrical conductivity and magnetic property, and ensuring excellent EMI shielding performance. Specifically, the average EMI shielding effectiveness of the MRGO framework in the K-band and Ka-band is 44.95 dB and 53.90 dB, respectively. Furthermore, the 3D MRGO frameworks follow a reflection-dominated EMI shielding mechanism. This work provides insights into the development of EMI shielding materials through structural design and compositional optimization.}
+}

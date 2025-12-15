@@ -1,0 +1,13 @@
+@article{HUANG2025108535,
+title = {Joule debonding of carbon reinforced polymer (CFRP) lap shear joints bonded with graphene nanoplatelets (GNPs)/epoxy nanocomposites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108535},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108535},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005335},
+author = {Yuheng Huang and Lingshu Lei and Zhengyang Wang and Hanieh Eftekhari and Ian Kinloch and Cristina Vallés},
+keywords = {A. Nanocomposites, A. Graphene, B. Debonding, B. Thermomechanical},
+abstract = {The potential of Joule heating CFRPs joints bonded with conductive graphene/epoxy nanocomposites as adhesives for a selective debonding was investigated. To ensure a localized softening of the bondline without altering the adherend’s structure, the epoxy used in the adhesive’s formulation was chosen to have a considerably lower Tg than the adherend. Joule heating the bondline considerably reduced the lap shear strength (LSS) relative to when the test was performed at room temperature, due to thermally induced structural changes promoted in the polymer network, which was consistent with the nanocomposites’ thermomechanical behavior predicted by DMTA. The minimum LSS value was reached in the vicinity of the adhesive’s Tg, allowing an ease deconstruction of the joints. SEM characterization of their fracture surfaces revealed that by controlling the adhesive’s formulation and their Joule heating the joints’ failure mechanism can be tuned to ensure the recovery of undamaged adherends that can be reused.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025114453,
+title = {Unilateral antibacterial Janus hydrogel hemostatic dressing prepared by the dragging effect of a brush},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114453},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114453},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007124},
+author = {Siqi Chen and Yanyan Zheng and Yan Fang and Yunxiang Weng and Haiqing Liu and Qinhui Chen},
+keywords = {Polyacrylic acid Janus hydrogel, Janus particles, Asymmetric performance, Antibacterial effect, Hemostatic dressing},
+abstract = {Hemostasis and subsequent anti-inflammatory measures are essential for wound healing in the human body following trauma or surgical procedures. Here, we try to use the dragging effect of a brush to prepare a Janus hydrogel with the least amount of bacteriostatic agent. The synthesized suspension of polyvinylbenzene-silica@quaternary ammonium salt (PDVB-SiO2@NR4+) Janus particles (JNPs) was selected as ink and brush coated onto one side of a polyacrylic acid (PAA) hydrogel, resulting in Janus hydrogel (JNPs≌PAA). The anisotropic chemical composition, wetting properties, adhesion capabilities, and the obtained hemostatic performance of the Janus hydrogel were studied thoroughly. The hydrophilic PAA side promoted tissue adhesion, while the hydrophobic JNPs side exhibited antibacterial effects. The Janus hydrogel presented perfect hemostatic effect in vivo, owing to the procoagulant effect of the adhesive layer, negative charges, and blood-blocking properties of the hydrophobic layer. The presence of quaternary ammonium groups in the Janus hydrogel imparted strong antibacterial activity against E. coli and S. aureus. Furthermore, the Janus hydrogel showed a low hemolysis rate and high cell safety. This multifunctional hydrogel material holds great promise for wound treatment and expands the applications of hydrogel materials in the biomedical field.}
+}

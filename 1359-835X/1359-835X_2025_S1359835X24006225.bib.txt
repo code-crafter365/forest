@@ -1,0 +1,13 @@
+@article{LIU2025108624,
+title = {Developing high-strength, healable, and recyclable shape memory vitrimers through in situ dynamical crosslinking between ethylene-vinyl acetate copolymer and graphene oxide},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108624},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108624},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006225},
+author = {Dan Liu and Yi Xiao and Wu-Cheng Nie and Ling-Ying Shi and Cheng-Jie Fan and Ke-Ke Yang and Yu-Zhong Wang},
+keywords = {Transesterification reaction, Shape memory effect, Self-healing, Reprocessing},
+abstract = {Vitrimers, as an emerging class of materials, present promising potential for sustainable application by combining the advantages of thermoplastics and thermosets. However, achieving multifunctionality in vitrimers without intricate structural modifications and potential functional interference remains asignificant challenge. Herein, ethylene–vinyl acetate copolymer (EVA) and graphene oxide sheets (GO), were strategically selected to develop a versatile hybrid vitrimer (EVA-GO) that harmoniously integrates high-strength, healing capabilities, recyclability, welding, and multi-responsive shape memory effects (SMEs). GO served as a reinforcing, NIR-responsive filler and a dynamic crosslinker to anchor EVA chains via in-situ transesterification. The resulting EVA-GO vitrimer strikes an excellent balance between stability and dynamicity, demonstrating outstanding mechanical performance and thermal/NIR-induced one/two-way SMEs below the topology freezing transition temperature (Tv), and excellent recyclability, self-healing and reconfiguration capacities above the Tv. For instance, EVA-GO1% demonstrates an impressive healing efficiency of 99 % in tensile strength within 3 min of NIR irradiation.}
+}

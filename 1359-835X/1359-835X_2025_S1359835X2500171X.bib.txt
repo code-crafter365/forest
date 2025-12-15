@@ -1,0 +1,13 @@
+@article{SUWARTA2025108877,
+title = {Pseudo-ductile compressive behaviour of unidirectional thin-ply carbon /glass fibre-epoxy hybrid composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108877},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108877},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500171X},
+author = {Putu Suwarta and Michael R. Wisnom and Mohamad Fotouhi and Xun Wu and Gergely Czél},
+keywords = {Hybrid Composites, Thin-Ply, Unidirectional, Compression, Fragmentation},
+abstract = {Favourable pseudo-ductile behaviour under compressive loading with a knee-point was achieved for unidirectional (UD) interlayer hybrids made of thin-ply high modulus carbon/epoxy (CF/EP) layers sandwiched between standard thickness glass/epoxy (GF/EP). The UD thin-ply hybrids were tested under two loading scenarios: 1. Direct compressive loading, 2. Four-point bending loading. In both cases, the damage mechanisms responsible for the pseudo-ductile behaviour are fragmentation of the carbon layer and localised delamination, which later propagates unstably. The final failure of the UD thin-ply hybrid composites examined in four-point bending loading occurs at a higher strain than that under direct compressive loading. This is due to the strain gradient in bending, which results in a lower energy release rate than in direct compression. An increasing carbon layer thickness reduces the final delamination failure strain of the UD thin-ply hybrid composites in compression, but the knee-point strain is not affected.}
+}

@@ -1,0 +1,13 @@
+@article{XIA2025102557,
+title = {A novel population-characteristic weighted sparse model for accurate respiratory motion prediction in CT-guided lung cancer interventions},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102557},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102557},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000667},
+author = {Guo-Ren Xia and Tengfei Wang and Jun Xu and Xiaoyang Li and Hongzhi Wang and Stephen T.C. Wong and Hai Li},
+keywords = {Respiratory motion model, Population characteristic, Sparse manifold cluster, Weighted sparse algorithm, Image-guided lung intervention},
+abstract = {Accurate tracking of lung nodule movement is a critical challenge for image-guided interventions. Current approaches typically rely on respiratory motion modeling to optimize diagnosis and treatment. Population-based motion models predict lung movement in real time by extracting common features of lung motion from the group-level imaging data, but they usually overlook individual differences. Conversely, patient-specific models require patient-specific four-dimensional computed tomography (4D CT), which increases radiation damage. This study introduces a novel Population-Characteristic Weighted Sparse (PCWS) model. PCWS combines population-level motion characteristics with patient-specific data to accurately predict lung movement, eliminating the need for 4D CT acquisition. Sparse manifold clustering is employed to identify a subpopulation exhibiting motion patterns similar to those of the target patient. The respiratory motion field for the specific patient is then approximated using a sparse linear combination of motion data from this subpopulation. Experimental results demonstrate that the PCWS model achieves an average lung estimation error of 0.20 ± 0.15 mm, validating its accuracy. Meanwhile, the PCWS model outperforms three other advanced models in prediction accuracy, effectively combining the strengths of both population and patient-specific models. To evaluate the reproducibility of the PCWS model, two additional datasets from different clinical centers were used. The results confirmed its accuracy and repeatability across various evaluation criteria, further validating its superior performance. Future research will focus on applying the PCWS model to image-guided percutaneous lung biopsy and radiation therapy, aiming to enhance procedural precision and clinical outcomes.}
+}

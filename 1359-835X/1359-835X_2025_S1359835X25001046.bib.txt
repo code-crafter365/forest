@@ -1,0 +1,13 @@
+@article{SUN2025108810,
+title = {Thermal conductive networks constructed by Sialon fibers in-situ synthesized in barium aluminosilicate glass–ceramic},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108810},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108810},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001046},
+author = {Shaojie Sun and Yuanshuai Wang and Xinyu Wang and Yuming Feng and Baolong Guo and Yanxin Zhang and Yi Wang and Chenyao Zhao and Yanan Yang and Long Xia},
+keywords = {Ceramic matrix composites, In-situ synthesis, Pressureless sintering, Thermal conductivity},
+abstract = {Morphology control of thermally conductive phases for high-temperature glass–ceramic matrix composites is crucial to construct conductive pathways. In this work, a novel strategy that enables the simultaneous formation of the main phase and thermally conductive phase is developed. Barium aluminosilicate (BAS) glass–ceramic consisting of internal β-Sialon fibers was sintered densely directly by powders without preformed. By adjusting the carbon source content, composites with different in-situ growth Sialon contents can be easily fabricated. The thermal conductivity of the sample with 7.5 wt% carbon content is improved to 5.714 W/mK at a Sialon volume fraction of 45.12 vol%, which is 112.64 % higher than that of the pure BAS matrix. The efficient thermal pathways are constructed by widely distributed Sialon fibers. The thermal pathways are connected with considerable contact areas to form a three-dimensional thermal conduction network, which significantly increases the thermal conductivity of the composite. This work provides a general and efficient strategy for the fabrication of high-temperature structural composites with high thermal conductivity and superior thermal shock resistance.}
+}

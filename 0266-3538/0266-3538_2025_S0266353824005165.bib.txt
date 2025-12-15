@@ -1,0 +1,13 @@
+@article{XIAO2025110946,
+title = {Electrohydrodynamic effect within CFRP laminates by bipolar nsPDC electric field during the curing process},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110946},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110946},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005165},
+author = {Jing Xiao and Shuran Li and Mengze Li and Yihan Fu and Xiaowen Song and Yinglin Ke},
+keywords = {Carbon-fiber reinforced polymer, Fracture toughness, Enhanced mechanisms, Electric field},
+abstract = {In this paper, a new method based on bipolar nanosecond pulsed superimposed direct current (nsPDC) electric field assisted curing technique was developed to fabricate modified fiber-reinforced composites to enhance their mechanical properties. It was found that the mode I interlaminar fracture toughness of the electric field-modified CFRP laminates reached 1014.2 MPa, which increased by 80.4 %. The average tensile strength and tensile modulus were 2180 MPa and 100780 MPa, respectively, which were 20.7 % and 3.5 % higher than the blank control group. The enhancement mechanism was explored by COMSOL simulation, curing temperature inspection, and microscopic characterization by electron microscopy. The results show that the presence of electric field and electric field force inside the laminate, which affects the flow of resin and the weak migration of fibers, enables the elimination of larger air bubbles present in the material, the reduction of resin-rich zones in the interlayer as well as the improvement of the fiber-resin wettability without significantly altering the curing temperature. The proposed simple, convenient, and environmentally friendly strategy can effectively regulate some of the deficiencies in the conventional manufacturing methods and thus is suitable for the optimal design of fiber-reinforced composites.}
+}

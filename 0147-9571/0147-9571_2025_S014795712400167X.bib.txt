@@ -1,0 +1,13 @@
+@article{ZHAO2025102290,
+title = {Expression characteristics of miR-222b-5p/MAPK10 in major immune organs of SPF chickens infected with avian reticuloendotheliosis virus strain SNV (REV-SNV)},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {116},
+pages = {102290},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102290},
+url = {https://www.sciencedirect.com/science/article/pii/S014795712400167X},
+author = {Yubo Zhao and Qing Zhang and Bingrong Wu and Yudong Zhu and Hui Ren and Youxiang Diao and Yi Tang and Jingdong Hu},
+keywords = {Reticuloendotheliosis virus strain SNV, Gga-miR-222b-5p, Mitogen-activated protein kinase 10, Immunosuppression, Tumor formation},
+abstract = {Reticuloendotheliosis virus (REV) is a retrovirus in poultry that can atrophy immune organs and cause immunosuppression and tumor diseases. Our previous results revealed that, in the spleen of SPF chickens infected with REV-SNV, gga-miR-222b-5p expression was upregulated at 7, 14 and 21 dpi, and MAPK10 expression was downregulated, both of which were negatively correlated, with a targeted relationship between the two at 28, 35 and 42 dpi. To understand and analyze the expression patterns of MAPK10 and gga-miR-222b-5p in infected chickens at different times and in different immune organs, qRT-PCR was used to analyze the spleen, bursa of Fabricius and thymus samples of SPF chickens at 7, 14, 21, 28, 35 and 42 dpi. The results revealed that, in the spleen, MAPK10 gene expression was highly significantly downregulated at 7, 14, 21, 35 and 42 dpi, and gga-miR-222b-5p expression was significantly upregulated at six-time points. In the bursa of Fabricius, MAPK10 expression was significantly downregulated at six-time points, and gga-miR-222b-5p expression was upregulated at 7, 21, 28, 35 and 42 dpi. In the thymus, MAPK10 and gga-miR-222b-5p expression was upregulated at six-time points. A negative regulatory relationship was evident in the spleen and bursa of Fabricius but not in the thymus. This study suggested that gga-miR-222b-5p may induce the downregulation of MAPK10 in the spleen and bursa of Fabricius and promote tumor formation.}
+}

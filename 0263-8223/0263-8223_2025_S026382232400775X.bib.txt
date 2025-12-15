@@ -1,0 +1,13 @@
+@article{KULIKOV2025118647,
+title = {Three-dimensional elasticity solutions for doubly-curved composite shells by extended differential quadrature method},
+journal = {Composite Structures},
+volume = {352},
+pages = {118647},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118647},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400775X},
+author = {G.M. Kulikov},
+keywords = {Doubly-curved composite shell, 3D stress analysis, Strong SaS formulation, Extended DQ method},
+abstract = {This paper presents the three-dimensional (3D) stress analysis of doubly-curved composite shells with general boundary conditions using the strong sampling surfaces (SaS) formulation. The SaS method is based on the choice of SaS parallel to the middle surface and located at Chebyshev polynomial nodes to introduce the displacements of these surfaces as unknown functions that leads to a non-conventional shell formulation, in which strain–displacement and stress–strain relationships are represented in terms of SaS displacements. This is due to the use of Lagrange polynomials in approximating displacements, strains and stresses in the thickness direction. The outer surfaces are not included into a set of SaS that makes it possible to uniformly minimize the error used by Lagrange interpolation. The strong SaS formulation, based on direct integration of elasticity equilibrium equations in the thickness direction by the extended differential quadrature (EDQ) method, can be applied efficiently for high-precision calculations of doubly-curved composite shells with clamped and free edges. This is because in the SaS/EDQ formulation, displacements, strains and stresses of SaS are interpolated in a rectangular domain specified in a curvilinear coordinate system using a Chebyshev-Gauss-Lobatto grid and Lagrange polynomials are also used as basis functions. The proposed approach deals with equilibrium equations in terms of SaS stresses, avoiding the integration of second order differential equations in terms of SaS displacements, that greatly simplifies the implementation of the EDQ method.}
+}

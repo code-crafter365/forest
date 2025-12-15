@@ -1,0 +1,13 @@
+@article{SU2025103812,
+title = {SITF: A Self-Supervised Iterative Training Framework for Point Cloud Denoising},
+journal = {Computer-Aided Design},
+volume = {179},
+pages = {103812},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103812},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001398},
+author = {Zhiyong Su and Changchang Wang and Kun Jiang and Kai Jiang and Weiqing Li},
+keywords = {Point cloud denoising, Point cloud filtering, Denoising, Self-supervised denoising},
+abstract = {Despite existing supervised point cloud denoising methods having made great progress, they require paired ideal noisy-clean datasets for training which is expensive and impractical in real-world applications. Moreover, they may perform the denoising process multiple times with fixed network parameters for better denoising results at test time. To address above issues, this paper proposes a self-supervised iterative training framework (SITF) for point cloud denoising, which only requires single noisy point clouds and a noise model. Given an off-the-shelf denoising network and original noisy point clouds, firstly, an intermediate noisier-noisy dataset is created by adding additional noises from the known noise model to noisy point clouds (i.e. learning targets). Secondly, after training on the noisier-noisy dataset, the denoising network is employed to denoise the original noisy point clouds to obtain the learning targets for the next iteration. The above two steps are iteratively and alternatively performed to get a better and better trained denoising network. Furthermore, to get better learning targets for the next round, this paper also proposes a novel iterative denoising network (IDN) architecture of stacked source attention denoising modules. The IDN explicitly models the iterative denoising process internally within a single network via reforming the given denoising network. Experimental results show that existing supervised networks trained through the SITF can achieve competitive denoising results and even outperform supervised networks under high noise conditions. The source code can be found at: https://github.com/VCG-NJUST/SITF.}
+}

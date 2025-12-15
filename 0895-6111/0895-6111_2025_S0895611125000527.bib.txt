@@ -1,0 +1,13 @@
+@article{MIO2025102543,
+title = {Establishment of an intelligent analysis system for clinical image features of melanonychia based on deep learning image segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102543},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102543},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000527},
+author = {WengIoi Mio and Ruiyue Chen and Jiayan Lv and Sien Mai and Yanqing Chen and Mengwen He and Xin Zhang and Han Ma},
+keywords = {Melanonychia, Melanoma, Medical image segmentation, Intelligent diagnosis, Skin cancer, Nail follow-up system},
+abstract = {Melanonychia, a condition that can be indicative of malignant melanoma, presents a significant challenge in early diagnosis due to the invasive nature and equipment dependency of traditional diagnostic methods such as nail biopsy and dermatoscope imaging. This study introduces, non-invasive intelligent analysis and follow-up system for melanonychia using smartphone imagery, harnessing the power of deep learning to facilitate early detection and monitoring. Through a cross-sectional study, Research Group developed a comprehensive nail image dataset and a two-stage model comprising a YOLOv8-based nail detection system and a UNet-based image segmentation system. The integrated YOLOv8 and UNet model achieved high accuracy and reliability in detecting and segmenting melanonychia lesions, with performance metrics such as F1, Dice, Specificity and Sensitivity significantly outperforming traditional methods and closely aligning with dermatoscopic assessments. This Artificial Intelligence-based (AI-based) system offers a user-friendly, accessible tool for both clinicians and patients, enhancing the ability to diagnose and monitor melanonychia, and holds the potential to improve early detection and treatment outcomes.}
+}

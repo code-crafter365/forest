@@ -1,0 +1,13 @@
+@article{WU2025105754,
+title = {Million-core scalable 3D anisotropic reverse time migration on the Sugon exascale supercomputer},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105754},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105754},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002371},
+author = {Sihai Wu and Jiubing Cheng and Jianwei Ma and Tengfei Wang and Xueshan Yong and Yang Ji},
+keywords = {Exascale computing, Reverse time migration (RTM), Deep computing unit (DCU), Seismic anisotropy},
+abstract = {Reverse time migration (RTM) plays a crucial role in high-resolution seismic imaging of the Earth’s interior. However, scaling it across millions of cores in parallel to process large-scale seismic datasets poses significant computational challenges, because the conventional storage solutions are insufficient to deal with the I/O and memory bottlenecks. To address this issue, we present a highly scalable 3D RTM algorithm for vertically transverse isotropic (VTI) media, optimized for the Sugon exascale supercomputer, utilizing over 1,024,000 cores with optimal weak-scaling efficiency. Through cache optimizations tailored for the new deep computing unit (DCU) accelerator architecture, our approach achieves a maximum speedup of 6x compared to conventional methods on a single accelerator. Moreover, based on the lossy compression and boundary-saving techniques, we reduce storage requirements by 266 times, which allows for the effective utilization of million-core computing resources and ensures scalability efficiency when handling large-scale datasets for complex geophysical tasks. Finally, when applied to a industrial dataset, the method demonstrates robust scalability and high efficiency, making it well-suited for large-scale geophysical exploration.}
+}

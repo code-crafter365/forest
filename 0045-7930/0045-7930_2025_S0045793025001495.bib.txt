@@ -1,0 +1,13 @@
+@article{SAHA2025106689,
+title = {Flow instability in a rotating channel loaded with an anisotropic porous material},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106689},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106689},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001495},
+author = {Mrityunjoy Saha and Saunak Sengupta and Sudipto Mukhopadhyay and Sukhendu Ghosh},
+keywords = {Linear instability, Rotating flow, Porous media, Anisotropic permeability, Darcy–Brinkman equations},
+abstract = {The linear instability of flows within a channel that rotates spanwise and is filled with a non-uniform porous substance is investigated. The porous material is considered anisotropic in nature, with different permeabilities in the horizontal and vertical directions. The novel focus of this study is to explore the influence of the anisotropy property of porous media on the rotational instability of the flow. The flow is modeled using the extended Darcy-Brinkman equations, including a permeability matrix. The non-uniformity of the porous material is characterized by the parameter γ, defined as the ratio of horizontal permeability to vertical permeability. The flow problem is solved as an Orr–Sommerfeld-Squire type eigenvalue problem using normal mode assumptions and the Chebyshev collocation method. The temporal instabilities are computed and compared for two-dimensional (2D) spanwise disturbances and three-dimensional (3D) disturbances. Different unstable modes are found for both types of disturbances, and 2D spanwise perturbation waves provide dominant instability. The combined effects of the Coriolis force and the anisotropy of the porous layer on the temporal unstable modes are investigated using the marginal stability boundaries and growth rate curves. The critical rotation number for instability bifurcation is calculated over a physical interval of γ. It is observed that the reduction of the permeability ratio has a stabilizing effect. Further, the instability depends on a correlation between the porosity and rotational speed. Flow through a weakly porous medium exhibits linear instability at higher rotational speeds. The perturbation velocity distributions display roll cells near the lower wall for the unstable modes under anticlockwise system rotation. This phenomenon promotes secondary instability and micro-mixing inside the flow system.}
+}

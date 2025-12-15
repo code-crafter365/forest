@@ -1,0 +1,13 @@
+@article{BERTELLONI2025102372,
+title = {Occurrence of pathogenic and antimicrobial-resistant bacteria in feces of wild mammals from a National Park in Central Italy},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {121},
+pages = {102372},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102372},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000803},
+author = {Fabrizio Bertelloni and Giulia Cagnoli and Maria Irene Pacini and Valeria Russini and Maria Laura {De Marchis} and Teresa Bossù and Valentina Virginia Ebani},
+keywords = {Wild mammals, , , Extended spectrum β-lactamase producing },
+abstract = {Wild animals can act as reservoirs and spreader for various pathogens, contributing to the environmental contamination. Additionally, wildlife is an important bioindicator of its habitats. This study aimed to investigate the presence of specific bacterial zoonotic pathogens and antimicrobial resistant bacteria in feces of wild mammals. A total of 124 fecal samples were collected from a National park in Central Italy and tested for the presence of Salmonella spp., Yersinia enterocolitica, Listeria monocytogenes, Coxiella burnetii, Mycobacterium spp., Extended Spectrum β-Lactamase (ESBL) and carbapenemase producing Enterobacteriaceae. Salmonella enterica serotype Agama was isolated from the feces of five badgers and one roe deer, displaying the same pulsotype, while Salmonella enterica serotype Eboko was identified in a single fecal sample from a mustelid. Y. enterocolitica was detected in 30 of the fecal samples from various species; Two isolates were classified as biotype 4, seven as biotype 3, and 21 as biotype 1 A, with all exhibiting different pulsotypes. Most isolates of Salmonella and Yersinia demonstrated full susceptibility to the antimicrobials tested. One ESBL producing Escherichia coli was detected in the feces of a mustelid, testing positive for the blaTEM-1 and blaCTX-M-15 genes. L. monocytogenes, C. burnetii, Mycobacterium spp., and cephalosporinase producing Enterobacteriaceae were not detected. These findings underscore the role of wild mammals as potential spreaders of zoonotic pathogens and antimicrobial resistant bacteria, despite the relatively low detection rates. Ongoing monitoring programs in wildlife are essential to know the microorganisms circulation in specific areas and to assess the risks they pose to public health.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025106842,
+title = {Effect of spanwise load distribution on aerodynamic performance of compressor cascade based on inverse design method},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106842},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106842},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003020},
+author = {Yutian Chen and Qun Zheng and Yuting Jiang},
+keywords = {Inverse design method, Compressor cascade, Spanwise load distribution, Vortex structure},
+abstract = {The impact of cascade spanwise load distribution on aerodynamic loss and flow field structure is investigated. A novel inverse design method is developed based on the correlation between streamline slope and static pressure coefficient. The proposed method drives blade profile modifications to minimize discrepancies between target and actual load distributions. Using an experimentally validated cascade, the inverse design method is employed to adjust load distributions from 10 % to 50 % spanwise locations, resulting in five cascades with varying spanwise load distributions. Verification studies confirm the reliability of the inverse design method. Numerical simulations demonstrate that excessive spanwise static pressure gradients expand the corner separation region through enhanced crossflow transition, thereby reducing passage flow capacity and increasing aerodynamic losses. However, appropriate spanwise load distributions effectively control the total pressure loss coefficient across various attack angles. An optimized cascade yields a 10.4 % reduction in the total pressure loss coefficient at 0° attack angle compared to the initial cascade.}
+}

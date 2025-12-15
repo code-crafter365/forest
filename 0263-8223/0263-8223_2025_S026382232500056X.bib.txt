@@ -1,0 +1,13 @@
+@article{KELLER2025118891,
+title = {Composite engineering structures in seawater − Review of durability and environmental performance},
+journal = {Composite Structures},
+volume = {357},
+pages = {118891},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118891},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500056X},
+author = {Thomas Keller and Shahin Maghsoudi Zand and Tara Habibi},
+keywords = {Composite structures, Seawater, Durability, Abrasive erosion, Aquatic toxicity, Shoreline protection},
+abstract = {Shoreline protection systems composed of fibre-polymer composite structures immersed in seawater may efficiently contribute to mitigate impacts of climate change, such as more frequent and severe coastal flooding and storm surges, and significant rises of sea levels, both threatening ecosystems, human life, and economies worldwide. To make a more widespread application of composites in seawater possible, on the waterfront and offshore, submersed and in the splash zone, several aspects must be studied in depth, such as (i) the durability of the materials over several decades regarding physical and mechanical properties, and including abrasive erosion through waterborne particles, as well as (ii) aquatic toxicity and associated microplastic pollution. These aspects are thoroughly reviewed and needs for future research are derived, after having summarised the state of the art of composite applications for current waterfront infrastructure. Furthermore, new opportunities for composite structures to mitigate impacts of climate change are introduced, such as hybrid seawall and armour shoreline protection systems against sea level rise and to dissipate wave energy, and floating structures for breakwaters and floating cities.}
+}

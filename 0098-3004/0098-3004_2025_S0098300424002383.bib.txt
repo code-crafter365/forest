@@ -1,0 +1,13 @@
+@article{DIFEDERICO2025105755,
+title = {Latent diffusion models for parameterization of facies-based geomodels and their use in data assimilation},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105755},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105755},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002383},
+author = {Guido {Di Federico} and Louis J. Durlofsky},
+keywords = {Geological parameterization, Diffusion models, Latent diffusion, Data assimilation, History matching, Deep learning},
+abstract = {Geological parameterization entails the representation of a geomodel using a small set of latent variables and a mapping from these variables to grid-block properties such as porosity and permeability. Parameterization is useful for data assimilation (history matching), as it maintains geological realism while reducing the number of variables to be determined. Diffusion models are a new class of generative deep-learning procedures that have been shown to outperform previous methods, such as generative adversarial networks, for image generation tasks. Diffusion models are trained to “denoise”, which enables them to generate new geological realizations from input fields characterized by random noise. Latent diffusion models, which are the specific variant considered in this study, provide dimension reduction through use of a low-dimensional latent variable. The model developed in this work includes a variational autoencoder for dimension reduction and a U-net for the denoising process. Our application involves conditional 2D three-facies (channel-levee-mud) systems. The latent diffusion model is shown to provide realizations that are visually consistent with samples from geomodeling software. Quantitative metrics involving spatial and flow-response statistics are evaluated, and general agreement between the diffusion-generated models and reference realizations is observed. Stability tests are performed to assess the smoothness of the parameterization method. The latent diffusion model is then used for ensemble-based data assimilation. Two synthetic “true” models are considered. Significant uncertainty reduction, posterior P10–P90 forecasts that generally bracket observed data, and consistent posterior geomodels, are achieved in both cases.}
+}

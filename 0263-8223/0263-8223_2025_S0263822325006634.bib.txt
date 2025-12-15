@@ -1,0 +1,13 @@
+@article{TO2025119498,
+title = {Parametric optimization and cost-efficient prediction of blast retrofit for AFRP-retrofitted RC columns using ML-driven finite element modeling},
+journal = {Composite Structures},
+volume = {371},
+pages = {119498},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119498},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006634},
+author = {Quoc Bao To and Jiuk Shin and Do Hyung Lee and Sungwoo Woo and Kihak Lee},
+keywords = {AFPR-retrofitted RC column, Finite element analysis, Machine learning model, Blast loading, Cost-efficient retrofit design},
+abstract = {Blast loading is recognized as one of the most catastrophic actions a building structure may encounter during its service life. Fiber-reinforced polymer (FRP) sheets, including aramid FRP (AFRP), have shown promise in enhancing the lateral resistance of reinforced concrete (RC) structures under extreme conditions. AFRP was chosen for this study due to its proven experimental performance and its use in model validation, ensuring consistent and reliable evaluation of retrofit effectiveness. This study develops a machine learning-based fast predictive model to evaluate the blast performance of AFRP-retrofitted RC columns and to identify optimal retrofit strategies based on confinement-related parameters. A physics-informed dataset was generated through finite element simulations incorporating various loading and retrofit configurations, and the models were validated against experimental results. Two machine learning models referred to as fast-running models (FRMs) were trained, validated, and evaluated using this dataset. The best-performing model was selected based on statistical accuracy metrics and employed to predict blast performance across a range of input conditions. In addition to improving prediction accuracy, the proposed framework enables cost-efficient retrofit design by minimizing the need for extensive numerical simulations and guiding the selection of confinement ratio (CR) and effective bond length (EBL). Results indicate that AFRP retrofitting significantly enhanced blast performance with a 31.1 % and 64.6 % reduction, respectively, in peak and residual displacement. Ratios of retrofit length to total column height (RH) values (∼0.3–0.4), where the balance between blast performance and cost is optimized.}
+}

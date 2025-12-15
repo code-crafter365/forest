@@ -1,0 +1,13 @@
+@article{ELYAAKOUBIMESBAH2025118716,
+title = {Closed-form analytical solution for local buckling of omega-stringer-stiffened composite panels under compression},
+journal = {Composite Structures},
+volume = {353},
+pages = {118716},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118716},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008444},
+author = {Cherine {El Yaakoubi-Mesbah} and Christian Mittelstedt},
+keywords = {Stiffened plates, Omega stringer, Local buckling, Closed-form analytical method, Transcendental elasticity solution, Lévy solution},
+abstract = {The use of stiffened thin-walled lightweight structures in e.g. aircraft fuselages requires efficient calculation methods to describe the stability behavior. In this work, a closed-form model for the local buckling analysis of orthotropic composite plates braced by omega-stringers is developed. The problem can be reduced to a plate simply supported at all edges subjected to uniaxial compression with eccentrically attached stringer feet, while the stringer itself is modeled as restraint stiffnesses along the longitudinal edges. The discontinuities in the stiffnesses introduced by the stringer feet result in discontinuities in the curvature behavior and the shear distortion of the structure. In order to map this influence on the local buckling behavior, the reduced model is divided into plate segments of corresponding stiffnesses, for which Ritz-based approach functions for the deformations are defined. Finally, an explicit formulation of the buckling load is derived using the energy method. To validate the model, the Lévy solution is obtained and a finite element analysis is conducted. The results of the parameter studies demonstrate excellent agreement within the design space of the aviation application area.}
+}

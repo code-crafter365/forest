@@ -1,0 +1,13 @@
+@article{BASSO2025114650,
+title = {Chitin-binding protein behavior at chitosan interface studied by quartz crystal microbalance with dissipation monitoring (QCM-D): Binding quantification, orientation and affinity constants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114650},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114650},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001572},
+author = {Lisa Basso and Clémence Vuillet and Yvan Rahbé and Laurent David and Aurélia Charlot and Guillaume Sudre},
+keywords = {Protein, quartz crystal microbalance (QCM-D), Wheat germ agglutinin (WGA), Chitosan, Chitin-binding domain (CBD)},
+abstract = {A full comprehension of chitosan interaction with proteins is yet to be achieved, in view of the complexity of the physico-chemical behaviors found in the chitosan family, and the diversity of possible protein interaction mechanisms. In this work, we studied the interactions between chitosans and wheat germ agglutinin (WGA), a lectin that can bind chitin thanks to an amino-acid pattern called the hevein-like chitin-binding domain (CBD). The specificity of CBD interactions with chitin/chitosan chains and the impact of the degree of acetylation (DA) of chitosan have been studied by quartz crystal microbalance with dissipation monitoring (QCM-D). The mass per unit area of WGA adsorbed on chitosan was six times higher than that of immunoglobulin G (IGG), which does not contain a CBD. The mass per unit area of deposited WGA was also almost twice as high at higher chitosan DAs (54 %, 67 %, 76 %) than at lower DAs (0.5 %, 15 %, 35 %), evidencing more specific interaction with “chitin-like” chitosans. WGA is a dimer at neutral pH and presents 4 CBDs on each monomer. The repartition of these CBDs seems to allow for reorganization of WGA on the chitosan surface in order to favor the interactions of this chitosan with a higher number of proteins. Furthermore, the binding kinetics have been assessed and modelled with a two-step association model, providing insights on the observed association constants. These results indicate that QCM-D constitutes a suitable method for the analysis of lectin CBD–chitosan dynamic interactions and could be applied to other types of proteins, in particular CBD proteins or further used in biosensor elaboration or biomaterial coating assessment with chitosan of different DAs.}
+}

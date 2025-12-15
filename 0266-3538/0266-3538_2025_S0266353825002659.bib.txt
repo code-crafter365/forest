@@ -1,0 +1,13 @@
+@article{YUAN2025111297,
+title = {Defect-repairing aramid fiber interfaces: covalent anchoring enables stable multiscale mechanical properties in extreme environments},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111297},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111297},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002659},
+author = {Ying Yuan and Fengdong Teng and Yutong Cao and Junrong Yu and Na Li and Zuming Hu and Yan Wang},
+keywords = {Para-aramid, Functionalized CNTs, Defect reconstruction, High-modulus, Interfacial strength},
+abstract = {Para-aramid fibers, as critical strategic materials, face severe limitations in aerospace components, defense, and 5G optical cable reinforcement due to inherent structural defects and insufficient transverse properties. This study proposes a scalable strategy to fabricate high-modulus para-aramid fibers with ultra-robust fiber-resin interfaces through defect repair and nano-interfacial engineering. A synergistic approach combining low-temperature plasma treatment and isocyanate-functionalized carbon nanotubes (I-CNTs) grafting was developed to reconstruct the fiber architecture. Post heat treatment further established a covalently bonded/hydrogen-bonded dual-network skeleton within the fiber. The CNTs-grafted structure repaired molecular-level defects, suppressing interchain slippage while enabling multiscale stress transfer from nanoscale CNTs bridge to macroscopic fiber-resin interfaces. The optimized fibers exhibited remarkable enhancements: a 26.36 % increase in tensile modulus (960.96 cN/dtex), a 52.59 % improvement in compressive modulus (5.60 GPa), and a 79.18 % boost in interfacial shear strength (58.88 MPa). Notably, 94.56 % of the Young's modulus and 98.18 % of tensile strength were retained after 100 low-stress fatigue cycles, demonstrating exceptional fatigue resistance. This defect-repair and nano-interlocked interfacial engineering strategy provides a universal pathway to overcome inherent performance bottlenecks of high-performance fibers, paving the way for next-generation fiber-reinforced composites in extreme environments.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025104309,
+title = {LFGS: A lightweight framework for efficient 3D Gaussian Splatting with minimal memory footprint},
+journal = {Computers & Graphics},
+volume = {131},
+pages = {104309},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104309},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001505},
+author = {Ruiqi Wu and Linlin Jiao and Gang Liu and Li Zhu and Xuan Fei and Yashuang Mu and Chao Fan},
+keywords = {3D Gaussian Splatting, Lightweight framework, Memory compression, Real-time rendering, Spherical harmonics},
+abstract = {3D Gaussian Splatting (3DGS), an emerging novel view synthesis technology, has demonstrated remarkable potential for 3D scene reconstruction and real-time rendering. However, the inherent high-dimensionality associated with its Gaussian representation leads to substantial storage and computational demands, significantly hindering its deployment on resource-limited mobile devices. To overcome this challenge, we present a novel lightweight framework for efficient 3D Gaussian splatting (LFGS) to achieve a critical balance between a minimal memory footprint and high rendering fidelity. The LFGS framework comprises three key stages: (1) Gaussian pruning and opacity regularization, (2) dynamic spherical harmonics adjustment, and (3) entropy-constrained vector quantization. This framework reduces the Gaussian parameters and significantly increases the rendering speed while maintaining the quality of the rendering. Extensive experimental evaluations on multiple benchmark datasets demonstrate the efficacy of LFGS. In particular, our approach achieves a memory compression rate exceeding 90× on the deep blending dataset while maintaining rendering quality closely comparable to the original 3DGS method. This work provides a significantly more efficient and lightweight technical solution, facilitating the practical application of high-fidelity 3D reconstruction in domains such as virtual reality, medical imaging, and autonomous driving on mobile and embedded platforms.}
+}

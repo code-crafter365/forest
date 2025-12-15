@@ -1,0 +1,13 @@
+@article{ZHOU2025117524,
+title = {Parallel active learning reliability analysis: A multi-point look-ahead paradigm},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117524},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117524},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007783},
+author = {Tong Zhou and Tong Guo and Chao Dang and Lei Jia and You Dong},
+keywords = {Parallel active learning reliability analysis, Multi-point look-ahead paradigm, Probability density evolution method, Kriging, Epistemic uncertainty},
+abstract = {To alleviate the intensive computational burden of reliability analysis, a new parallel active learning reliability method is proposed from the multi-point look-ahead paradigm. First, in the framework of probability density evolution method, a global measure of epistemic uncertainty about Kriging-based failure probability estimation, referred to as the targeted integrated mean squared error (TIMSE), is defined and well proved. Then, three key ingredients are developed in the workflow of parallel active learning reliability analysis: (i) A look-ahead learning function called k-point targeted integrated mean square error reduction (k-TIMSER) is deduced in closed form, quantifying explicitly the reduction of TIMSE induced by adding a batch of k(≥1) new points in expectation. (ii) A hybrid convergence criterion is specified according to the actual reduction of TIMSE at each iteration. (iii) Both prescribed scheme and adaptive scheme are devised to identify the rational size of batch of new points added per iteration. The most distinctive feature of the proposed approach lies in that the multi-point enrichment process is fully guided by the learning function k-TIMSER itself, without resorting to additional batch selection strategies. Hence, it is much more theoretically elegant and easy to implement. The effectiveness of the proposed approach is testified on three examples, and comparisons are made against several existing reliability methods. The results show that the proposed method achieves fair superiority over other existing ones in terms of the accuracy of failure probability estimate and the number of iterations. Particularly, the advantage of the total computational time becomes very evident in the proposed method, when computationally-expensive reliability problems are considered.}
+}

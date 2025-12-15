@@ -1,0 +1,24 @@
+@article{CHENGFENG2025115035,
+title = {Engineered polyphenol-keratin nanocarriers enhance probiotic delivery and ameliorate obese ulcerative colitis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115035},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115035},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005429},
+author = {Xie Chengfeng and Zaheer Ullah Khan and Hong-Yan Xing and Asmat Ullah and Naveed Ullah Khan and Nasrullah Jan and Anam Razzaq and Haroon Iqbal and Pengcheng Shi and Wei Liu and Zhi Min Jin},
+keywords = {Probiotics, Ulcerative colitis, Keratin nanoparticles, Tea polyphenols},
+abstract = {Background
+Obese people are at high risk of developing ulcerative colitis (UC), globally. Lacking viable first-line medicines for UC treatment highlights the unmet need of novel therapeutics. Probiotic treatment modulates the gut microbiota and its metabolites to balance microecology, immunological function, and intestinal microbial environment. Probiotics are unstable during synthesis and gastrointestinal transit, limiting their therapeutic use.
+Purpose
+The study aimed to design nanotechnology based probiotic delivery for the treatment of UC.
+Study design
+We introduced the keratin nanoparticles coating model probiotic ECN 1917, coated with tea polyphenol (EcN@KPS-TPP).
+Methods
+EcN@KPS-TPP were synthesized and characterized for size, surface morphology, and physicochemical interactions. For ECN validation in the EcN@KPS-TPP, TEM and confocal microscopy was performed. In vitro and in vivo studies were performed in Caco2 cell lines and obese C57 mice, respectively.
+Results
+In vitro fermentation investigations showed that coated probiotics retained growth activity, confocal microscopy and TEM validated the encapsulation and coating alteration. EcN@KPS-TPP exhibited ⁓75 nm particles size with PDI ≤ 0.1, and remarkable thermal stability. SEM showed a regular spherical shape. ROS alleviation and in vitro safety was confirmed in Caco-2 cell lines. UC model was induced in obese C57 mice, in vivo imaging demonstrated better intestinal survival and retention of EcN@KPS-TPP versus EcN. EcN@KPS-TPP increased intestinal tissue health, DAI, and weight reduction, according to histological examination. Tea polyphenols reduced inflammatory markers and increased probiotic acid resistance. EcN@KPS-TPP probiotic stimulated gut microbiota ecosystem while inhibited the pathogenic bacteria.
+Conclusion
+The constructed probiotic approach provides theoretical insights and technological assistance for obesity-related UC therapy, with clinical promise.}
+}

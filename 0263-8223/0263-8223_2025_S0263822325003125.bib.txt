@@ -1,0 +1,13 @@
+@article{MOHAMMED2025119147,
+title = {Delamination analysis of Functionally Graded Materials using Carrera Unified Formulation and Cohesive Zone Model},
+journal = {Composite Structures},
+volume = {365},
+pages = {119147},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119147},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003125},
+author = {M. Nasseer A. Mohammed and Riccardo Augello and Munise Didem Demirbas and Erasmo Carrera},
+keywords = {Carrera Unified Formulation (CUF), Cohesive Zone Model (CZM), Functionally Graded Materials (FGMs), FGM beam},
+abstract = {This paper investigates the delamination behavior of Functionally Graded Materials (FGMs) using Carrera Unified Formulation (CUF) and Cohesive Zone Model (CZM). Characterized by spatially varying material properties, FGMs are increasingly used in advanced engineering applications but are prone to delamination. The numerical model is developed by using a combination of CUF and CZM. In this study, a cantilever FGM beam was subjected to opposing forces from its free end and analyzed for delamination. Here, the delamination process is correctly addressed, and using the fracture mechanics of CZM, the crack initiation, propagation, and branching along the cohesive elements governed by the tension-separation law were also calculated. Finally, different compositional gradient exponents are accounted.}
+}

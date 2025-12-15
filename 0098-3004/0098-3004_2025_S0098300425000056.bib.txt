@@ -1,0 +1,13 @@
+@article{BERNSTETTER2025105855,
+title = {Virtual fieldwork in immersive environments using game engines},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105855},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105855},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000056},
+author = {Armin Bernstetter and Tom Kwasnitschka and Jens Karstens and Markus Schlüter and Isabella Peters},
+keywords = {Immersive analytics, Virtual fieldwork, Ocean science data, Game engines, Virtual reality, Collaborative},
+abstract = {Fieldwork still is the first and foremost source of insight in many disciplines of the geosciences. Virtual fieldwork is an approach meant to enable scientists trained in fieldwork to apply these skills to a virtual representation of outcrops that are inaccessible to humans e.g. due to being located on the seafloor. For this purpose we develop a virtual fieldwork software in the game engine and 3D creation tool Unreal Engine. This software is developed specifically for a large, spatially immersive environment as well as virtual reality using head-mounted displays. It contains multiple options for quantitative measurements of visualized 3D model data. We visualize three distinct real-world datasets gathered by different photogrammetric and bathymetric methods as use cases and gather initial feedback from domain experts.}
+}

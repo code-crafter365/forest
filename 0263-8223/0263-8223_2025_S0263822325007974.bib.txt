@@ -1,0 +1,13 @@
+@article{KAMINSKI2025119632,
+title = {Homogenization of n-component composites with stochastic interface defects using machine learning approach},
+journal = {Composite Structures},
+volume = {373},
+pages = {119632},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119632},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007974},
+author = {Marcin Kamiński and Arkadiusz Tomczyk},
+keywords = {Uncertainty quantification, Stochastic finite element method, Shannon entropy, Homogenization method, Machine learning},
+abstract = {The main aim in this work is to present an application of the machine learning apparatus for probabilistic Finite Element Method (FEM) based homogenization of some specific fiber-reinforced composite structures. A periodic fiber-reinforced composite is under investigation, where some stochastic interface imperfections are considered at the interface in-between the fiber and the matrix. They are replaced all with the thin artificial layer called interphase separating the fiber from the matrix, whose effective parameters are calculated via probabilistic version of the averaging method. Such a modified three-component composite is homogenized, and probabilistic version of this homogenization is based upon the response functions found with the use of machine learning techniques. These computations are based upon the specific series of the FEM homogenization numerical experiments with varying imperfections parameters. Polynomial and sigmoidal response functions are inserted into the triple probabilistic algorithm, which enables for Monte-Carlo simulation, semi-analytical and also generalized stochastic perturbation method determination of the basic probabilistic characteristics of the homogenized elasticity tensor components.Finally, machine learning approachwith polynomial and neural network models serve for numerical recovery of the analytical expressions for Shannon entropy fluctuations to detect its possible extreme values.}
+}

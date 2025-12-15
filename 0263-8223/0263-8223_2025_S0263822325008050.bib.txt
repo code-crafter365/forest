@@ -1,0 +1,13 @@
+@article{PENG2025119640,
+title = {Research on cyclic loading behavior of composite material with micro/meso-level material phase evolution},
+journal = {Composite Structures},
+volume = {373},
+pages = {119640},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119640},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008050},
+author = {Rongxin Peng and Jinxu Teng and Biqin Dong and Yanshuai Wang and Jun Yang},
+keywords = {Composite material, Cyclic loading, Micro/Meso-structure, Phase evolution, Failure mechanism},
+abstract = {Composite materials, widely used in mechanical equipment, aerospace vehicles with high-frequency vibration loading; structures exposed to wind and seismic loading; are typically subjected to cyclic loading, which is essential to simulate performance and pore (defect) evolution to ensure their safe application. To address this need, a simulation method is developed that incorporates micro/meso-structure, material phase evolution, and hysteresis evolution law to analyze fracture behavior of composites. This method, establishing a micro/meso-scale framework that characterizes degradation through pore evolution mechanisms with cyclic behavior. Concrete, a composite material with complex properties, serves as an illustrative example for establishing the micro/meso-level simulation model with cyclic loading, and the validity of calculation method is confirmed by experiments on different specimens. The calculation results show that stress–strain curve of material under monotonic loading closely aligns with the envelope of hysteresis curve. Under cyclic loading, cracks in material accumulate progressively, starting from initial cracks, and leading to the development of major cracks surrounded by a distribution of micro-cracks. Considering micro/meso-structure and material phase evolution, it is possible to develop simulation models for different composites, which can be used to systematically explain failure mechanism of composites, thereby improving their properties and reliability in practical applications.}
+}

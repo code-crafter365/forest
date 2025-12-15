@@ -1,0 +1,13 @@
+@article{LOPEZPAMIES2025117520,
+title = {Classical variational phase-field models cannot predict fracture nucleation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117520},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117520},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007746},
+author = {Oscar Lopez-Pamies and John E. Dolbow and Gilles A. Francfort and Christopher J. Larsen},
+keywords = {Material strength, Energy methods, Configurational forces, Continuum balance principles},
+abstract = {Notwithstanding the evidence against them, classical variational phase-field models continue to be used and pursued in an attempt to describe fracture nucleation in elastic brittle materials. In this context, the main objective of this paper is to provide a comprehensive review of the existing evidence against such a class of models as descriptors of fracture nucleation. To that end, a review is first given of the plethora of experimental observations of fracture nucleation in nominally elastic brittle materials under quasi-static loading conditions, as well as of classical variational phase-field models, without and with energy splits. These models are then confronted with the experimental observations. The conclusion is that they cannot possibly describe fracture nucleation in general. This because classical variational phase-field models cannot account for material strength as an independent macroscopic material property. The last part of the paper includes a brief summary of a class of phase-field models that can describe fracture nucleation. It also provides a discussion of how pervasively material strength has been overlooked in the analysis of fracture at large, as well as an outlook into the modeling of fracture nucleation beyond the basic setting of elastic brittle materials.}
+}

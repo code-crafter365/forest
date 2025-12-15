@@ -1,0 +1,13 @@
+@article{THIRIET2025106799,
+title = {An adjoint method for optimal linear perturbations of inviscid compressible flows with moving boundaries},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106799},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106799},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002592},
+author = {Jean-Gabriel Thiriet and Grégoire Varillon and Jean-Marie Clarisse and Arnaud Couairon},
+keywords = {Linear stability, Adjoint method, Compressible, Spectral},
+abstract = {Hydrodynamic instabilities play a critical role in the dynamics of inertial confinement fusion (ICF) and other compressible flows involving moving boundaries and shock waves. This paper presents a continuous adjoint-based optimization framework for identifying optimal linear perturbations in compressible inviscid flows with moving boundaries, with applications to ICF-relevant configurations. The method systematically derives adjoint equations using Lagrange multipliers and the duality principle, enabling the computation of optimal initial and external perturbations. Two case studies are treated: the homogeneous compression of a spherical shell and the propagation of a rarefaction wave. The study of imploding shells identifies perturbation transient growth as a result of sound wave amplification at large wavelengths. A receptivity analysis of rarefaction flows evidences the importance of multi-frequency effects as well as an increased amplification of small wavelength perturbations. The findings emphasize the efficacy, robustness, and computational efficiency of the method while providing new insights into the stability of dynamic flows in ICF. This work constitutes a significant step towards extending nonmodal linear stability analysis to complex compressible unsteady flows with moving boundaries and fronts and underscores the importance of considering transient perturbation dynamics in assessing the performance of ICF implosions.}
+}

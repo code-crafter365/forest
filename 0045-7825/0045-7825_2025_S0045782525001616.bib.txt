@@ -1,0 +1,13 @@
+@article{BADIA2025117889,
+title = {Compatible finite element interpolated neural networks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117889},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117889},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001616},
+author = {Santiago Badia and Wei Li and Alberto F. Martín},
+keywords = {Neural networks, PINNs, Compatible finite elements, PDE approximation, Surface PDEs, Inverse problems},
+abstract = {We extend the finite element interpolated neural network (FEINN) framework from partial differential equations (PDEs) with weak solutions in H1 to PDEs with weak solutions in H(curl) or H(div). To this end, we consider interpolation trial spaces that satisfy the de Rham Hilbert subcomplex, providing stable and structure-preserving neural network discretisations for a wide variety of PDEs. This approach, coined compatible FEINNs, has been used to accurately approximate the H(curl) inner product. We numerically observe that the trained network outperforms finite element solutions by several orders of magnitude for smooth analytical solutions. Furthermore, to showcase the versatility of the method, we demonstrate that compatible FEINNs achieve high accuracy in solving surface PDEs such as the Darcy equation on a sphere. Additionally, the framework can integrate adaptive mesh refinements to effectively solve problems with localised features. We use an adaptive training strategy to train the network on a sequence of progressively adapted meshes. Finally, we compare compatible FEINNs with the adjoint neural network method for solving inverse problems. We consider a one-loop algorithm that trains the neural networks for unknowns and missing parameters using a loss function that includes PDE residual and data misfit terms. The algorithm is applied to identify space-varying physical parameters for the H(curl) model problem from partial, noisy, or boundary observations. We find that compatible FEINNs achieve accuracy and robustness comparable to, if not exceeding, the adjoint method in these scenarios.}
+}

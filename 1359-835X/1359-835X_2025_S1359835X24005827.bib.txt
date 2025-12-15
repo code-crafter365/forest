@@ -1,0 +1,13 @@
+@article{FALKENRECK2025108584,
+title = {Degradation of regenerated cellulose fiber-reinforced bio-polyamide in hydrothermal environment},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108584},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108584},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005827},
+author = {Celia Katharina Falkenreck and Jan-Christoph Zarges and Hans-Peter Heim and Michael Seitz and Christian Bonten},
+keywords = {A. Biocomposite, A. Fibre/matrix bond, B. Cellulose, E. Aging (autor nominated keyword)},
+abstract = {Natural fiber composites (NFC) have been used in an increasing number of applications in the last decade, due to their lightweight potential and good environmental impact. However, an increased use in areas where water or other fluids are present, requires an in-depth understanding of how the NFC behave under the influence of moisture. For this reason, the degradation of a bio-based polyamide (PA5.10) reinforced with regenerated cellulose fibers under a hydrothermal influence was investigated. The increased temperatures accelerate the aging processes of PA5.10, which could be demonstrated by the decrease in tensile strength and the change in rheometric properties, as well as in the FTIR spectrum. Furthermore, chain splitting processes due to hydrolytic and thermo-oxidative aging could be detected. With the help of a hydrolysis stabilizer based on carbodiimides and a polypropylene grafted with maleic anhydride as a coupling agent, the resistance and the fiber–matrix–adhesion could be improved.}
+}

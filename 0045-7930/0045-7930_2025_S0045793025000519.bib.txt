@@ -1,0 +1,13 @@
+@article{BREIL2025106591,
+title = {3D mesh regularization within an ALE code using a weighted line sweeping method},
+journal = {Computers & Fluids},
+volume = {292},
+pages = {106591},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106591},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000519},
+author = {Jérôme Breil and Guillaume Damour and Sébastien Guisset and Arnaud Colaïtis},
+keywords = {Lagrangian methods, Arbitrary Lagrangian–Eulerian hydrodynamics, Mesh regularization, Multi-dimensional},
+abstract = {The Lagrangian formalism is widely used to simulate hydrodynamic responses in complex engineering applications, particularly those involving strong shock waves. However, as the mesh moves with the fluid, it can become highly distorted, requiring a regularization step. This involves constructing a new grid and remapping conservative quantities onto it to restore mesh quality. This work introduces a regularization method for block-structured meshes within a 3D ALE (Arbitrary Lagrangian–Eulerian) code. The proposed approach prevents mesh tangling while preserving the anisotropic features of the initial Lagrangian mesh. This regularization technique incorporates aspect ratio-based weights to control mesh smoothing. Unlike uniform rezoning techniques, this weighted approach maintains proximity to the Lagrangian mesh while improving mesh quality. The method effectively handles concave geometries by mitigating the grid attraction phenomenon, which typically leads to mesh concentration along concave edges. Numerical experiments demonstrate its efficiency in regularizing severely deformed meshes, and its integration within the ALE framework is validated on challenging hydrodynamic test cases, including the triple point problem.}
+}

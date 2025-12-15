@@ -1,0 +1,13 @@
+@article{YANG2025111320,
+title = {Single and repeated low-velocity impact response of CFRP laminates with bioinspired double-helicoidal Bouligand structures},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111320},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111320},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500288X},
+author = {Fan Yang and Songhe Meng},
+keywords = {Bouligand biomimetic structure, Double twisted architecture, Low velocity impact, Impact resistance, CFRP},
+abstract = {It is challenging to improve the impact resistance of carbon fiber-reinforced polymer (CFRP), especially in the situation of repeated impacts. This paper reports on the improvement of energy-absorption characteristic and impact resistance of CFRP laminates by using Bouligand-type biomimetic architecture. Three types of specimens, quasi-isotropic (QI), single-twisted (SB) and double-twisted (DB) Bouligand-type laminates, were fabricated and tested with single and 5-time repeated low velocity impact (LVI) experiments under impact energy ranging from 20J to 40J. Meanwhile, a validated finite element (FE) model and ultrasonic C-scan technique were utilized to study the interlaminar damage and energy absorption capacity associated with the impact response. Experimental results indicated that DB outperform QI and SB in terms of specific energy absorption (SEA) and peak impact load. After 5-time repeated impacts the DB with 10° pitch angle enable to retain about 97 % in energy absorption capacity, whereas those with 20° pitch angle exhibited the energy absorption capacity reduction of about 14 % and local structural failure. Furthermore, the effects of pitch angle and impactor mass on the impact resistance of DB was numerically examined. A pitch angle of 5° results in an improvement of up to 10 % in resistance compared to those with 10° and 22.5° pitch angles, and at 40J impact energy a lighter high-speed impactor contributes to obtain a more dispersed damage distribution that presents petal-shaped, resulting improved impact resistance.}
+}

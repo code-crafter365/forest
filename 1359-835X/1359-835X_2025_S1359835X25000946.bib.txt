@@ -1,0 +1,13 @@
+@article{LI2025108800,
+title = {Self-assembling biomimetic coating composed of 1D/2D CNT/polydopamine modified GO hybrid for solving conflict between carbon fiber-epoxy adhesion strength and fracture toughness},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108800},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108800},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000946},
+author = {Yating Li and Qing Wu and Ziyi Ye and Renjie Yao and Dan Jin and Min Zhao and Jianfeng Zhu},
+keywords = {Carbon fiber, GO/CNT, Polymer-matrix composites, Interphase/Interface},
+abstract = {Tackling the intractable contradiction of interfacial strength-toughness is critical. Herein, shell nacre-mimetic coating composed of carbon nanotube (CNT) reinforced polyether amine (PEA)-polydopamine (PDA) and PDA functionalized graphene oxide (GO@PDA) was self-assembled around carbon fiber via a facile, green, low-cost but effective technique of vacuum filtration to fulfill the amplification of synergy effects of GO and CNTs under the constraint of delicate layered architecture. Contents of CNTs and GO@PDA were compared to optimize the performances. When 0.2 g GO@PDA and 5 ml CNTs were added, amazing growths in interfacial shear strength and fracture toughness of 114.2 % and 348.7 % were achieved, relative to untreated fiber composites. Increase in interfacial adhesion is associated with synergistic interactions of covalent and hydrogen bonds, π-π stacking along with mechanical pinning at interphase, while advance in interfacial toughness assigns with crack propagation, stretching deformation, and breakage of hydrogen bridge and π-π interaction that dissipate energy.}
+}

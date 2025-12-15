@@ -1,0 +1,13 @@
+@article{HU2025118340,
+title = {A unified framework of bond-associated peridynamic material correspondence models: Formulation and evaluation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118340},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118340},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006127},
+author = {Xuan Hu and Hailong Chen and Shaofan Li},
+keywords = {Peridynamics, Material correspondence formulation, Bond-associated model, Horizon, Influence function},
+abstract = {The conventional peridynamic material correspondence formulation is known to suffer from issue of material instability or existence of zero-energy modes. This issue arises from the non-unique mapping between the nonlocal deformation gradient and the resulting bond force density state. Among many stabilization techniques proposed to handle this issue, a number of bond-associated models that employ bond-level deformation gradients have emerged as more effective approaches. Although initially developed from different theoretical perspectives, many of these models share underlying structural similarities. This paper aims to unify these differing approaches and introduce a generalized framework for all bond-associated peridynamic material correspondence models. On the basis of formulations proposed in the literature, a unified expression for the bond-associated deformation gradient is developed. Assuming energy equivalence with the local continuum mechanics theory, the unified bond force density state is derived using the Fréchet derivative. In addition, some properties of the bond-associated models, including linear momentum balance, angular momentum balance, and objectivity, are thoroughly examined. To assess and compare the performance of bond-associated models, a series of numerical studies are carried out, including bond mapping analysis, elastic deformation prediction, and elastic wave propagation modeling. It is found that in wave propagation modeling the use of non-constant spherical influence functions, even though this is common in peridynamic models, can lead to phase shift phenomena in certain bond-associated models. Overall, this work provides a comprehensive and unified treatment of bond-associated peridynamic material correspondence models, and it is intended to serve as a valuable reference for further development and application of bond-associated material correspondence formulations in peridynamics.}
+}

@@ -1,0 +1,13 @@
+@article{YAN2025109228,
+title = {A stepwise parameter planning methodology for 3D printing of continuous fiber reinforced polymer composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109228},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109228},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005226},
+author = {Aodi Yan and Ben Deng and Fangyu Peng and Jiale Yi and Zhijie Li and Jinguo Shen and Rong Yan and Xiaowei Tang},
+keywords = {Continuous fiber reinforced composite, 3D printing, Parameter planning, Mechanical performance},
+abstract = {A theoretical framework for parameter planning remains lacking in the 3D printing of continuous fiber reinforced polymer (CFRP) composite. This study develops a stepwise parameter planning methodology for prepreg-resin co-extrusion processes, integrating morphological control with mechanical performance objectives. The relative extrusion coefficient, layer thickness and hatch spacing are taking into account and planned in steps. The relative extrusion coefficient is determined by the target fiber content. The relationship between layer thickness and relative extrusion coefficient was determined through cross-sectional morphological analysis. By introducing the hatch spacing factor, two methods for calculating hatch spacing based on free deposition filament width and multi-filament deposition filament width were proposed and experimentally validated. Furthermore, the influence of process parameters was comprehensively examined through surface and cross-sectional characterization, flexural testing, and interlaminar shear testing. The governing mechanisms were then interpreted by analyzing fiber content, porosity, and fiber bundle integrity. Using the optimized parameter framework, the fabricated specimens exhibited a flexural strength of 243.97 MPa, a flexural modulus of 17.45 GPa, as well as an interlaminar shear strength of 25.58 MPa. This work provides guidance on parameter configuration for high-performance composite 3D printing.}
+}

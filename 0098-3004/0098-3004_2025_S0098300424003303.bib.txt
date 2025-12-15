@@ -1,0 +1,13 @@
+@article{LI2025105847,
+title = {Object segmentation of near surface magnetic field data based on deep convolutional neural networks},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105847},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105847},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003303},
+author = {Qiang Li and Zhiqiao Wang and Wenyu Li and Jie Hu and Xiaoli Rong and Leixiang Bian and Weitao Wu},
+keywords = {Magnetic object segmentation, Magnetic gradient tensor (MGT), U-net-like architecture, Attention modules},
+abstract = {Near surface magnetic data contain valuable information on buried structures. Magnetic gradient tensor (MGT) can provide more detailed information than total magnetic intensity (TMI) and magnetic vectors. Traditional methods extract target-related features from magnetic data by identifying manually designed edge-features. These methods are either sensitive to changes in inclination and declination angles or have limited spatial resolution. This highlights the need for new approaches to accurately capture the complex details inherent in magnetic data. Although some studies have introduced machine learning techniques, their models often focus narrowly on identifying simple object shapes. Additionally, their models often overlook the potential of using MGT data directly as input, thereby missing the opportunity to fully utilize neural networks to interpret magnetic data. In this study, a deep convolutional neural network-based object segmentation method on MGT data was developed. We introduced a U-net-like architecture neural network model combined with attention modules to collect detailed information about buried objects from magnetic data. Attention modules refine feature maps by inferring attention maps along two dimensions: channel and spatial. The channel dimension refers to the axis along which different 2D feature maps are organized. The segmentation performance of our model was evaluated on both magnetic data with simple magnetic sources and complicated magnetic data. Compared to traditional approaches, our model provides more satisfactory segmentation results. The perspective for this work is to create a more detailed database to better reflect the intricate patterns typically observed in magnetic data. This effort aims to make our model more accurate and useful in interpreting diverse magnetic signatures.}
+}

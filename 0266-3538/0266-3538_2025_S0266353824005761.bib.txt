@@ -1,0 +1,13 @@
+@article{YANG2025111005,
+title = {Enhancing mechanical and flame retardant properties of carbon fibre epoxy composites with functionalised ammonium polyphosphate nanoparticles},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111005},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111005},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005761},
+author = {Wenmu Yang and Jason Tan and Jiawei Wang and Wenkai Chang and Mohammad S. Islam and Zhao Sha and Cheng Wang and Bo Lin and Jin Zhang and Guan Heng Yeoh and Cyrille Boyer and Chun H. Wang},
+keywords = {Flame-retardant properties, Mechanical properties, Carbon fibre composites, Flame-retardant fillers, Flame-retardant standards},
+abstract = {Existing methods of incorporating flame-retardant fillers to improve the fire resistance of epoxy-matrix based carbon fibre composites often significantly reduce their mechanical properties. To address this issue, this study introduces a novel method for synthesizing nano-sized ammonium polyphosphate (APP) particles by reacting them with amine-containing hardener and applying probe sonication, resulting in nano-sized APP particles (SHF-APP). This treatment reduces the particle size from 14 μm to 0.12 μm. A systematic investigation of the impact of particle size and the hardener treatment reveals that the SHF-APP nanoparticles can simultaneously improve flame-retardancy and mechanical properties of the composites. The concurrent improvements in fire resistance and mechanical properties highlight the significant potential of this novel approach, enabling carbon fibre reinforced epoxy composites to withstand extreme environments and meet stringent fire safety standards while maintaining high mechanical and fracture properties, a feat previously unattainable with conventional methods.}
+}

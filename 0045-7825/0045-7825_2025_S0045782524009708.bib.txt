@@ -1,0 +1,13 @@
+@article{BOMFIM2025117716,
+title = {Intermediate flexural crack debonding of externally bonded FRP in RC beams through a FEM formulation based on positions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117716},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117716},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009708},
+author = {Danilo Silva Bomfim and Humberto Breves Coda and Rodrigo Ribeiro Paccola},
+keywords = {FRP reinforcements, Debonding, Finite element analysis, Fracture, Interface},
+abstract = {This study presents a new strategy for simulating the coupling of internal and external reinforcements in continuum media, accounting for large translations and rotations, using High Aspect Ratio (HAR) interface elements combined with a tailored technique. In the proposed approach, a J2 damage model is applied to HAR interface elements to simulate the bond–slip behavior of reinforcements. Crack growth in concrete is modeled using the Mesh Fragmentation Technique (MFT), a novel discrete method that employs HAR solid elements to represent cracks via a continuous tension damage model. Additionally, a specialized objective strain measure is proposed to allow large translations and rotations in HAR elements for general analyses. These strategies are specifically applied to simulate reinforced concrete (RC) structures with steel bars and fiber-reinforced polymer (FRP) reinforcements. Notably, HAR interface elements have not previously been applied to FRP reinforcement coupling, nor have MFT and HAR elements been used in large displacement simulations. The results indicate that the combination of these techniques effectively represents the behavior of externally reinforced RC beams with FRP plates or sheets, capturing the brittle failure mode associated with the intermediate debonding of FRP induced by flexural cracks.}
+}

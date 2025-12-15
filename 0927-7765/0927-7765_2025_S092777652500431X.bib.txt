@@ -1,0 +1,11 @@
+@article{LIU2025114924,
+title = {Corrigendum to “Immobilization of poly-L-lysine brush via surface initiated polymerization for the development of long-term antibacterial coating for silicone catheter” [Colloid. Surf. B Biointerfaces 221 (2023) 113015]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114924},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114924},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500431X},
+author = {Jun Liu and Yangyang Xu and Xiangyun Lin and Nan Ma and Qiongqiong Zhu and Kunlin Yang and XinFei Li and Chang Liu and Ninghan Feng and Yuxia Zhao and Xuesong Li and Wei Zhang}
+}

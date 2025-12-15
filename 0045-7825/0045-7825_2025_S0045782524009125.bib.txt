@@ -1,0 +1,13 @@
+@article{ZHANG2025117658,
+title = {A novel active learning Kriging based on improved Metropolis-Hastings and importance sampling for small failure probabilities},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117658},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117658},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009125},
+author = {Wei Zhang and Yi Guan and Zhonglai Wang and Huanwei Xu},
+keywords = {Reliability analysis, Small failure probability, Markov Chain Monte Carlo, Active learning Kriging model, Importance sampling},
+abstract = {In engineering applications, the Metropolis-Hastings (M-H) algorithm with high rejection rates is employed to evaluate implicit response functions, making reliability analysis for small failure probabilities with multiple input random variables difficult and inefficient. To address the challenge and estimate highly nonlinear limit state functions in a more efficient and accurate way, a novel reliability analysis method based on the adaptive Kriging model and improved Metropolis-Hastings Importance Sampling (iMHIS) algorithm is proposed in this study, especially for the small failure probabilities with multiple input random variables. Based on the global error of the Kriging model, a new sub-optimal Importance Sampling Probability Density Function (ISPDF) is first developed, which aims at exploring failure bounds in a more accurate way. The iMHIS algorithm is developed to efficiently establish the candidate sample pool. A novel active learning function called the improved Expected Feasibility Improvement Function (iEFIF) is developed to select update points in a more accurate way, where the influence of the scattering geometry of candidate points is considered. A novel error-based stopping criterion is finally developed and implemented to avoid pre-mature or late-mature for small failure probabilities. Three relevant examples and two advanced finite element analysis examples are investigated to demonstrate the effectiveness of the proposed method.}
+}

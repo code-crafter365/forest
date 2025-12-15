@@ -1,0 +1,13 @@
+@article{HAN2025108678,
+title = {Precious control of the soft-zone width to achieve strength-ductility synergy in heterogeneous B4C/7075Al composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108678},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108678},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006766},
+author = {Bingzhuo Han and Huimin Han and Mingqi Liu and Guwei Shen and Runwei Zhang and Shanqi Du and Tian Luo and Siyun Li and Longtao Jiang and Zhenlong Chao and Guoqin Chen and Ming Zhu},
+keywords = {Metal-matrix composites (MMCs), Particle-reinforcement, Mechanical properties, Liquid metal infiltration},
+abstract = {Dispersion-strengthened metal matrix composites exhibit enhanced strength but reduced ductility, presenting a challenge in strength-ductility synergy. Here, we proposed a simple but effective strategy combining powder size grading with pressure infiltration to construct heterogeneous structures in B4C/7075Al composites. The soft-zone width could be precisely tuned by changing the diameter of the raw 7075Al powder, and the measured value of the soft-zone width was very close to the theoretical value, indicating that the soft-zone width was predictable. The heterogeneous B4C/7075Al composites dasda with optimized soft-zone widths achieved a fracture elongation of 9.6 %, comparable to that of the 7075Al while maintaining ultimate tensile strength close to that of the homogeneous composites. Due to the mechanical incompatibility between the hard and soft zones, high-density geometrically necessary dislocations piled up against the hetero-zone boundaries, resulting in significant hetero-deformation-induced strengthening and strain hardening effects, which contributed to the enhanced synergy between strength and ductility.}
+}

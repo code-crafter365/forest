@@ -1,0 +1,13 @@
+@article{GAO2025104317,
+title = {Incremental few-shot instance segmentation via feature enhancement and prototype calibration},
+journal = {Computer Vision and Image Understanding},
+volume = {253},
+pages = {104317},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104317},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000402},
+author = {Weixiang Gao and Caijuan Shi and Rui Wang and Ao Cai and Changyu Duan and Meiqin Liu},
+keywords = {Few-shot learning, Incremental learning, Instance segmentation, Feature enhancement, Prototype calibration},
+abstract = {Incremental few-shot instance segmentation (iFSIS) aims to detect and segment instances of novel classes with only a few training samples, while maintaining performance on base classes without revisiting base class data. iMTFA, a representative iFSIS method, offers a flexible approach for adding novel classes. Its key mechanism involves generating novel class weights by normalizing and averaging embeddings obtained from K-shot novel instances. However, relying on such a small sample size often leads to insufficient representation of the real class distribution, which in turn results in biased weights for the novel classes. Furthermore, due to the absence of novel fine-tuning, iMTFA tends to predict potential novel class foregrounds as background, which exacerbates the bias in the generated novel class weights. To overcome these limitations, we propose a simple but effective iFSIS method, named Enhancement and Calibration-based iMTFA (EC-iMTFA). Specifically, we first design an embedding enhancement and aggregation (EEA) module, which enhances the feature diversity of each novel instance embedding before generating novel class weights. We then design a novel prototype calibration (NPC) module that leverages the well-calibrated base class and background weights in the classifier to enhance the discriminability of novel class prototypes. In addition, a simple weight preprocessing (WP) mechanism is designed based on NPC to improve the calibration process further. Extensive experiments on COCO and VOC datasets demonstrate that EC-iMTFA outperforms iMTFA in terms of iFSIS and iFSOD performance, stability, and efficiency without requiring novel fine-tuning. Moreover, EC-iMTFA achieves competitive results compared to recent state-of-the-art methods.}
+}

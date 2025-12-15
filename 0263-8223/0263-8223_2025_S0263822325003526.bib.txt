@@ -1,0 +1,13 @@
+@article{YANG2025119187,
+title = {Spiderweb-inspired flexible mesh composites with excellent impact resistance, sensing performance and flame retardancy},
+journal = {Composite Structures},
+volume = {365},
+pages = {119187},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119187},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003526},
+author = {Aolin Yang and Lele Liu and Chaoyu Chen and Zhijia Dong and Pibo Ma},
+keywords = {Mesh composite, Spiderweb, Shear thickening fluid, Impact resistance, Sensing performance},
+abstract = {Mesh materials, due to their unique structure and excellent performance, are widely used, especially spiderweb structural materials, which have garnered significant attention. Besides requiring lightweight, flexibility, and excellent mechanical performance, intelligence and multifunctionality are also crucial development directions for mesh. In this study, we propose a novel spiderweb-inspired mesh composite (MSTFs/mesh) with excellent impact resistance, sensing performance and flame retardancy. The composite features a knotless mesh with a spiderweb-like topology, fabricated through braiding and knitting techniques, serving as the structural body, complemented by functional layers of shear thickening fluid containing multi-walled carbon nanotubes. Yarn pull-out and bursting tests revealed that the maximum resistance forces of the MSTFs/mesh are 144 N and 3516 N respectively, which are 11.2 times and 1.58 times higher than those of the neat mesh. The topology of the spider web and the shear thickening fluid provide the mesh composite with outstanding impact resistance, capable of withstanding an impact energy of 50 J. The incorporation of MWCNTs imparts sensing capabilities to the composite. Furthermore, the mesh composite retains its structural integrity after 40 s of burning on an alcohol lamp flame, demonstrating excellent flame retardancy and thermal stability. This advanced multifunctional mesh composite offers valuable insights into the design of next-generation mesh materials, promising extensive applications in protection engineering and beyond.}
+}

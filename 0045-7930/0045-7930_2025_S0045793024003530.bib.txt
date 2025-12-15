@@ -1,0 +1,13 @@
+@article{ELSHERBINY2025106522,
+title = {Integration of Lattice Boltzmann-overset method with non-conforming quadtree mesh based on the combination of spatial and Lagrangian-link interpolated streaming technique},
+journal = {Computers & Fluids},
+volume = {289},
+pages = {106522},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106522},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003530},
+author = {Abdallah ElSherbiny and Sébastien Leclaire},
+keywords = {Lattice Boltzmann method, Overset method, Lagrangian-link interpolation, Non-conforming quadtree mesh, Non-uniform mesh, Moving boundary treatment},
+abstract = {This study integrates the two-dimensional Lattice Boltzmann overset approach with a non-conforming quadtree mesh to address fluid flow problems involving dynamic boundaries. The Lattice Boltzmann overset method employs two grids, one fixed and one movable, which can be computationally intensive due to the dual grid setup. A quadtree mesh is employed to reduce the number of nodes to mitigate this resource-demanding issue. Nonetheless, the use of the quadtree introduces challenges related to varying cell levels and spatial displacements. One of the approaches to address these challenges involves the use of an interpolated particle distribution function streaming technique. This study introduces an interpolation method, which initially applies spatial interpolation as a predictor step. Subsequently, this spatial predictor-interpolated value is utilized for a Lagrangian-link corrector interpolation. Furthermore, the study introduces a node-splitting technique aimed at enhancing the efficiency of the proposed interpolation scheme. The method's order of accuracy is maintained without any degradation as a second order, and the flow around a rotating cylinder validates the method as the results align with previously published data.}
+}

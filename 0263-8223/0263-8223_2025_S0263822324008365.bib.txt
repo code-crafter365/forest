@@ -1,0 +1,13 @@
+@article{LIU2025118708,
+title = {Shape recovery effect and energy absorption of reusable honeycomb structures},
+journal = {Composite Structures},
+volume = {352},
+pages = {118708},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118708},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008365},
+author = {Yangzuo Liu and Changfang Zhao and Cheng Xu and Jie Ren},
+keywords = {Honeycomb structures, Auxetic structures, Energy-absorbing structures, Mechanical metamaterials, 3D printing, Cyclic loading, Shape recovery},
+abstract = {When using auxetic honeycomb structures to create repeatable energy-absorbing components, a key challenge is selecting the appropriate unit configuration for effective functional integration. In this work, four typical honeycomb structures were prepared, and the mechanical behaviors, shape recovery effects, and energy absorption properties of three types of auxetic honeycomb structures re-entrant honeycomb (RH), arrow honeycomb (AH), and star honeycomb (SH) were compared with those of hexagonal honeycomb (HH) through quasi-static loading–unloading tests. The findings indicate that the 3D printed polyurethane (TPU) honeycomb structures demonstrate robust shape recovery, stable energy absorption, notable stress softening characteristics. The recovery behaviors can be characterized by three distinct phases, namely hyperelastic, transitional, and viscoelastic. The unit configuration significantly influences the shape recovery capability, with apparent elastic modulus and stability of the energy absorption efficiency determining the overall shape recovery capability. The loading method also affects the energy absorption and dissipation patterns in different honeycomb structures. In terms of specific energy absorption (SEA), AH has the highest rating, with RH and SH at 86 % and 50 % of the SEA of AH respectively. The number of reusable cycles is primarily dictated by the specific configuration of the unit type. In scenarios involving reusability, the energy absorption capacity of the TPU honeycomb can only reach 70 % of its original energy absorption capacity. This study may inform the application of auxetic materials in reusable energy absorbers.}
+}

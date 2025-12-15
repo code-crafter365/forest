@@ -1,0 +1,13 @@
+@article{THAI2025119045,
+title = {A Chebyshev shear deformation model for laminated composite plates},
+journal = {Composite Structures},
+volume = {360},
+pages = {119045},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119045},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002107},
+author = {Chien H. Thai and PT. Hung and T. Rabczuk and H. Nguyen-Xuan and P. Phung-Van},
+keywords = {Higher-order shear deformation model, Laminated composite plate, Isogeometric analysis, Chebyshev polynomial},
+abstract = {This paper introduces a Chebyshev shear deformation model based on the Chebyshev polynomial for static analysis of laminated composite and sandwich plates. The third-order and fifth-order Chebyshev shear deformation models are defined by corresponded changing the order of the Chebyshev polynomial, respectively. The proposed model offers a simple, concise, and effective approach compared to existing models. By employing the principle of virtual work, a weak form formulation is derived and solved via using isogeometric analysis. The higher-order continuity inherent in Non-Uniform Rational B-Splines (NURBS) within the framework of isogeometric analysis facilitates the straightforward computation of shear stresses through the integration of the equilibrium equations. This offers a significant advantage over the standard finite element method, where accurate shear stress calculations can be particularly challenging. Furthermore, shear stresses obtained via equilibrium integration generally exhibit superior accuracy compared to those derived from the constitutive equations, particularly when compared to a 3D elasticity model. The deflection of laminated composite and sandwich plates is influenced by factors such as geometry, aspect ratio, material properties, and the number of layers. The effectiveness of the proposed model is clearly evidenced by the strong correspondence between its numerical results and well-established findings in the literature.}
+}

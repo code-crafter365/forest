@@ -1,0 +1,13 @@
+@article{LIN2025118272,
+title = {A stabilized reproducing kernel meshfree-isogeometric formulation with particularly devised basis shifting},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118272},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118272},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005444},
+author = {Zhiwei Lin and Dongdong Wang and Zhenyu Wu and Penglin Chen},
+keywords = {Meshfree method, Isogeometric analysis, mixed fixed basis, Mixed shifted basis, Isogeometric reproducing condition, Adaptive refinement},
+abstract = {The reproducing kernel representation of isogeometric shape functions offers an effective meshfree path to perform isogeometric analysis. However, the current meshfree construction of isogeometric shape functions purely relies on a mixed fixed basis because of the distinction between different order reproducing points. Thus, unlike the standard reproducing kernel approximation that usually employs the shifted basis owing to its excellent stability property compared with the fixed basis, it is non-trivial to convert the mixed fixed basis into a mixed shifted basis in the meshfree formulation of isogeometric shape functions. This prominent issue is completely resolved in this study through particularly devising a mixed shifted basis. This mixed shifted basis is established by means of defining the isogeometric reproducing points in a shifted form for the purpose of stabilizing the meshfree formulation of isogeometric shape functions, regardless of the dissimilar reproducing points corresponding to various consistency orders. Subsequently, the isogeometric reproducing condition is re-constituted by the mixed shifted basis. It is then theoretically proved that the resulting meshfree-isogeometric shape functions with mixed shifted and fixed bases are fully equivalent, as also leads to a simplified gradient evaluation. Accordingly, the isogeometric shape functions can be exactly represented by the proposed meshfree-isogeometric approximation with mixed shifted basis, which is much more computationally preferable than its fixed counterpart. Meanwhile, the meshfree-isogeometric formulation enables the employment of a meshfree error indicator based upon adjustable support sizes to realize a straightforward adaptive isogeometric analysis. The strength of the proposed methodology is thoroughly validated by numerical examples.}
+}

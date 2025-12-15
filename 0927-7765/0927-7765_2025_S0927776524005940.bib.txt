@@ -1,0 +1,13 @@
+@article{JIA2025114335,
+title = {Zinc and melatonin mediated antimicrobial, anti-inflammatory, and antioxidant coatings accelerate bone defect repair},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114335},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114335},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005940},
+author = {Fengzhen Jia and Jiaxin Guan and Jiali Wang and Meiyu Li and Yasi Zhang and Lei Xie and Pengde Han and He Lin and Xiao Huang and Jinping Lan and Yong Huang},
+keywords = {Zinc, Melatonin, Antimicrobial, Anti-inflammatory, Bone repair},
+abstract = {Inflammation and bacterial infection are important causes of implant failure, and the development of multifunctional titanium surfaces to address these issues is an effective means of treating infected bone defects. In this study, polyphenols (EGCG) and Zn2+ were first loaded onto the titanium surface to construct an EGCG/Zn2+ polyphenol metal network coating. Then melatonin (MT) was loaded into the EGCG/Zn2+ network structure to prepare the EGCG/Zn2+/MT composite coating. The results proved that the EGCG/Zn2+/MT coating had good mechanical properties, hydrophilicity, corrosion resistance and bioactivity. In vitro, the inhibition rates of EGCG/Zn2+/MT against E. coli and S. aureus were about 97 % and 81 %, respectively. In vitro experiments revealed that EGCG/Zn2+/MT could regulate the polarization of macrophages (RAW264.7) to M2 type, could induce vascularization of human umbilical vein endothelial cells (HUVEC), and could promote the differentiation of pro-osteoblasts (MC3T3-E1) to osteogenesis. Meanwhile, EGCG/Zn2+/MT achieved effective ROS scavenging within HUVEC and MC3T3-E1. In vivo experiments demonstrated that the EGCG/Zn2+/MT coatings possessed favorable biosafety, anti-inflammatory, antimicrobial, and bone repair capabilities. This study provides a simple and versatile strategy for designing multifunctional surfaces with both antimicrobial, anti-inflammatory, antioxidant, angiogenic and osteogenic properties.}
+}

@@ -1,0 +1,13 @@
+@article{RAPINE2025119500,
+title = {A composite gradient index lens for wideband elastic waves focusing: Design approach and experimental validation at constant thickness},
+journal = {Composite Structures},
+volume = {372},
+pages = {119500},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119500},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006658},
+author = {Valentin Rapine and Nour Abuhemeida and Morvan Ouisse and Scott Cogan and Pascal Francescato and Rémy Lachat and Yann Meyer},
+keywords = {Elastics waves, Grin-lens, Focusing, Energy harvesting, Layered structure, Mechanical properties},
+abstract = {Vibrational energy focusing is of significant interest in fields such as energy harvesting, particularly with the emergence of smart structures and self-powered technologies. This paper presents the design and manufacturing approach for Gradient-Index (GRIN) lenses using composite materials. As a proof of concept, the strategy implemented here focuses on controlling the fiber mass ratio of a unidirectional (UD) composite at constant thickness. Mechanical properties must be carefully controlled throughout a dedicated manufacturing process to achieve a gradient of phase velocity for focusing elastic flexural waves. Numerical calculation have demonstrated the efficiency of energy focusing within a frequency range from 2 kHz to 8 kHz. A manufacturing process has been developed to prototype a composite structure that integrates the designed GRIN lens. Additionally, the comparison of a numerical model with experimental results from a manufactured lens structure reveals that the energy density in a defined focusing zone can be increased sevenfold using a gradient lens composite structure, with an incident wave of 8 kHz.}
+}

@@ -1,0 +1,13 @@
+@article{GIMENEZ2025117804,
+title = {A multiscale Pseudo-DNS approach for solving turbulent boundary-layer problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117804},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117804},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000763},
+author = {Juan M. Gimenez and Francisco M. Sívori and Axel E. Larreteguy and Sabrina I. Montaño and Horacio J. Aguerre and Norberto M. Nigro and Sergio R. Idelsohn},
+keywords = {Computational fluid dynamics, Incompressible fluid flows, Multiscale method, Turbulence modeling, Representative volume element, Data-driven, Aerodynamic forces},
+abstract = {Efficiently simulating turbulent fluid flow within a boundary layer is one of the major challenges in fluid mechanics. While skin friction may have a limited impact on drag at high Reynolds numbers, it plays a crucial role in determining the location of fluid separation points. Shifts in these separation points can dramatically alter drag and lift, underscoring the importance of accurately accounting for viscous effects. It is generally accepted that the Navier–Stokes equations contain all the necessary physical ingredients to accurately simulate fluid flows, even in complex scenarios. With a sufficiently fine mesh, we could simulate all fluid flows without relying on additional empirical approximations. However, this Direct Numerical Simulation (DNS) strategy is computationally impractical with current technology. The Pseudo-DNS (P-DNS) method offers a novel approach to solve the governing equations with the mesh refinement needed to achieve DNS-level accuracy. The solution is divided into fine and coarse scales, and through an iterative process, both scales are solved until convergence. Computational cost is affordable due to parametrize and solving the fine scale under different boundary conditions in simple domains, which allows performing these calculations offline – prior to and independent of the global solution – only once. The key novelty introduced in this work is the wall representative volume element (RVE), which models the time developing of turbulent boundary layers and its outputs can be adapted for adverse and favorable pressure gradient scenarios. The multiscale method enables accurate prediction of aerodynamic forces using relatively coarse meshes for boundary layers, without the need for empirical parameters or case-specific models. Several case studies involving 2D and 3D flows over both streamlined and bluff bodies validate the ability of P-DNS to deliver reliable results while maintaining modest computational requirements.}
+}

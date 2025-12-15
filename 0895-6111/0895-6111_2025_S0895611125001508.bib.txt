@@ -1,0 +1,13 @@
+@article{GOSWAMI2025102641,
+title = {LearnDiff: MRI image super-resolution using a diffusion model with learnable noise},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102641},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102641},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001508},
+author = {Sagnik Goswami and Akriti Gupta and Angshuman Paul},
+keywords = {Diffusion model, Learnable noise, Gaussian distribution, MRI super-resolution},
+abstract = {MRI images with a superior spatial resolution may facilitate an accurate and faster diagnosis. We present LearnDiff, a diffusion probabilistic model with learnable noise for the super-resolution of MRI images. Unlike the standard diffusion models that rely on a fixed, standard normal distribution, LearnDiff utilizes a learnable Gaussian distribution in the diffusion bottleneck, enabling both forward and reverse processes to adapt dynamically. This flexibility addresses a critical limitation. A standard normal distribution for noise may not be adequate in the context of MRI super-resolution using a residual approach. By allowing the noise distribution to be learnable, our model achieves SOTA performance on publicly available MRI images, showing a 3.8% improvement in PSNR compared to previous SOTA methods, significantly outperforming traditional diffusion models. Across multiple MRI datasets, our approach yields superior image quality and enhanced quantitative metrics, highlighting its effectiveness in capturing finer image details and achieving more accurate super-resolution. Link to the codebase.}
+}

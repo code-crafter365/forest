@@ -1,0 +1,13 @@
+@article{GRECO2025118239,
+title = {Spherical B-spline interpolation with application to a mixed isogeometric cosserat rod formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118239},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118239},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005110},
+author = {L. Greco and D. Castello and A. Cammarata and M. Cuomo},
+keywords = {Cosserat rod, Finite rotation, Spherical linear interpolation, Spherical B-splines, B-Spline in Riemannian manifold, Invariant formulation, Path independence},
+abstract = {A spherical B-spline interpolation of order p≥1 is proposed for the cross-section orientation of 1D Cosserat rod, generalizing the formulation presented in [1] to the isogeometric case. De Boor’s algorithm is used for deriving the interpolation of the finite rotations, the spin, and the Darboux vector, representing the curvature of the rod. The latter two interpolations lead to the definition of the generalized B-spline basis functions in the tangent space to SO(3). Then, using B-splines either for the placement of the centreline (in R3) and for the cross-section orientation (in SO(3)), an isoparametric formulation is obtained. The spherical B-spline basis functions, which depend on the configuration of the rod, are compared with the polynomial B-spline basis functions. To avoid locking phenomena, a mixed formulation based on the two-field Hellinger-Reissner principle is considered. A multiplicative updating scheme, that satisfies the strain invariance concerning rigid body motions, is adopted. Path independence is proved with reference to standard benchmarks. A comparison with multipatch Bézier interpolation shows that the spherical B-spline formulation achieves better convergence properties.}
+}

@@ -1,0 +1,13 @@
+@article{GAO2025119132,
+title = {Modeling via cohesive phase-field framework for chemo-mechanical fracture of heterogeneous composites},
+journal = {Composite Structures},
+volume = {364},
+pages = {119132},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119132},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002971},
+author = {Xiongfei Gao and Yang Zhang and K.M. Liew},
+keywords = {Heterogeneous composites, Phase-field model, Chemo-mechanical fracture, Crack propagation, Interface failure},
+abstract = {Predicting fracture of heterogeneous composites under chemo-mechanical circumstances is still challenging, owing to intricate interactions between different components and complex crack paths. Herein, we present a novel phase-field model (PFM) based framework for chemo-mechanical fracture of heterogeneous composites from a thermodynamically consistent formulation. By introducing two phase-field variables, both interface and crack are represented in a smeared manner, and the damage of bulk and interface is unified for providing computational conveniences. To characterize quasi-brittle fracture, a cohesive zone model (CZM) with the linear traction-separation law (TSL) is incorporated to the PFM through elegantly choosing optimal constitutive functions. Besides, the material properties are regularized by the interface phase-field to avoid the discontinuity in stress across the material interface, and an analytical expression of modified interface fracture toughness is derived to guarantee the energetic equivalence. For numerical implementation, a staggered solution scheme is adopted to enable algorithmic efficiency and robustness. Representative numerical experiments are conducted to demonstrate the capability of the framework in capturing fracture behaviors including matrix cracking, interface failure, and crack branching and merging.}
+}

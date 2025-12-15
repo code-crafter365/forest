@@ -1,0 +1,13 @@
+@article{LO2025118185,
+title = {A multi-component, multi-physics computational model for solving coupled cardiac electromechanics and vascular haemodynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118185},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118185},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004578},
+author = {Sharp C.Y. Lo and Alberto Zingaro and Jon W.S. McCullough and Xiao Xue and Pablo Gonzalez-Martin and Balint Joo and Mariano Vázquez and Peter V. Coveney},
+keywords = {Circulatory system, Cardiovascular simulation, Partitioned coupling scheme, Myocardial scarring, High-fidelity simulation, High-performance computing, Digital twin},
+abstract = {The circulatory system, comprising the heart and blood vessels, is vital for nutrient transport, waste removal, and homeostasis. Traditional computational models often treat cardiac electromechanics and blood flow dynamics separately, overlooking the integrated nature of the system. This paper presents an innovative approach that couples a 3D electromechanical model of the heart with a 3D fluid mechanics model of vascular blood flow. Using a file-based partitioned coupling scheme, these models run independently while sharing essential data through intermediate files. We validate this approach using solvers developed by separate research groups, each targeting disparate dynamical scales employing distinct discretisation schemes, and implemented in different programming languages. Numerical simulations using idealised and realistic anatomies show that the coupling scheme is reliable and requires minimal additional computation time relative to advancing individual time steps in the heart and blood flow models. Notably, the coupled model predicts muscle displacement and aortic wall shear stress differently than the standalone models, highlighting the importance of coupling between cardiac and vascular dynamics in cardiovascular simulations. Moreover, we demonstrate the model’s potential for medical applications by simulating the effects of myocardial scarring on downstream vascular flow. This study presents a paradigm case of how to build virtual human models and digital twins by productive collaboration between teams with complementary expertise.}
+}

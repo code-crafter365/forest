@@ -1,0 +1,13 @@
+@article{YANG2025111265,
+title = {Influence of machining on the bonding strength of CFRP and its enhancement by resin precoating with nanoparticles},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111265},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111265},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002337},
+author = {Ye Yang and Xusheng Chen and Lina Si and Hongjuan Yan and Zhaoliang Dou and Fengbin Liu and Huanxiong Xia},
+keywords = {CFRP, Adhesive bonding, Machining, Pre-coating treatment, Carbon nanotubes},
+abstract = {Carbon fiber-reinforced polymer (CFRP) has been widely used in industry due to its outstanding properties, such as a high strength-to-weight ratio. However, the machined CFRP typically exhibits low bonding strength when joined to metals such as titanium alloys. This paper investigated the influence of machining on the shear strength of CFRP/Ti–6Al–4V joint through single-lap shear (SLS) tests. The microstructures of the machined surfaces were observed, and the failure mechanism was further analyzed. It was found that the tearing and delamination of fibers from the milled CFRP substrate led to the failure under shear stress. The strong cutting force during the milling process caused significant damage to the CFRP fibers in the skin layer, which were more susceptible to delamination under shear. To address this issue, an enhancement method by resin pre-coating (RPC) treatment with MWCNT nanoparticles was proposed, improving the shear strength up to 76 %. Regarding the mechanism, the broken fibers were reinforced by the diluted resin, and the long MWCNT served as a bridge, enhancing the mechanical interlocking.}
+}

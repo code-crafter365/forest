@@ -1,0 +1,13 @@
+@article{ZHAO2025114843,
+title = {Covalent organic frameworks for lipase adsorption: A multiscale simulation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114843},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114843},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003509},
+author = {Daohui Zhao and Yu Zhou and Hangxing Wang and Fen Xing and Jian Zhou},
+keywords = {Covalent organic framework, Lipase, Molecular simulation, Protein adsorption},
+abstract = {Covalent organic frameworks (COFs) have recently emerged as promising materials for enzyme immobilization, attributed to their substantial specific surface area, low density, uniform porosity and ease of functionalization. Investigating the interaction mechanisms between enzymes and COFs is crucial for the advancement of novel and efficient vectors. This study examines the adsorption behavior of Candida antarctica lipase B (CalB) on various functionalized TpPa-X COFs (TpPa-1, TpPa-AMC2NH2 and TpPa-AMCOOH), utilizing parallel tempered Monte Carlo and molecular dynamics simulations. The findings indicate that CalB can be effectively adsorbed onto both neutral TpPa-1 and the functionalized TpPa-X surfaces, with the interaction strength ranking as follows: TpPa-AMC2NH2 > TpPa-AMCOOH > TpPa-1. The adsorption of the enzyme is driven by a combination of electrostatic and van der Waals interactions. Furthermore, the orientation of CalB on the functionalized TpPa-X surfaces is more concentrated, with the active site of the lipase on TpPa-AMCOOH oriented towards the solution, thereby enhancing substrate accessibility. This suggests that TpPa-AMCOOH is an optimal candidate for the immobilization of CalB. Additionally, the conformation of CalB remains stable during the adsorption process, indicating that the various TpPa-X COFs exhibit favorable biocompatibility. This research contributes theoretical insights into the biocompatibility of TpPa-X COF materials and provides valuable guidance for the development of porous materials with specific morphologies for biomolecule adsorption.}
+}

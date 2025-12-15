@@ -1,0 +1,13 @@
+@article{ZHENG2025114912,
+title = {Three-dimensional printed ionic conductive hydrogels with tunable mechanical properties for wearable strain sensors},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114912},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114912},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004199},
+author = {Xin Zheng and Lanlan Dong and Houfeng Jiang and Patiguli Aihemaiti and Wurikaixi Aiyiti and Cijun Shuai},
+keywords = {Three-dimensional-printed hydrogels, Ionic conductive materials, Flexible strain sensors, Mechanical tunability, Swelling resistance},
+abstract = {Flexible sensors have garnered significant research interest as essential components of wearable devices. However, achieving flexible sensors with superior mechanical properties, high sensing performance, and a broad strain range remains challenging. In this study, an ion-conducting N-(2-Amino-2-oxoethyl) acrylamide/carboxymethyl chitosan/methyl cellulose hydrogel was analyzed, and its process parameters were optimized to enable high-fidelity hydrogel printing. Furthermore, a dual-ion synergistic enhancement strategy was proposed, wherein Fe3+ and Li+ were introduced via solution immersion to tailor a “stiff-tough-ductile” balanced network, significantly enhancing the mechanical properties of the hydrogel network. Experimental results showed that the dual-ion-treated hydrogels exhibited outstanding mechanical properties, with a modulus of elasticity of up to 266 kPa, toughness reaching 1245 kJ/m3, elongation at break of up to 437 %, and remarkable resistance to swelling. Additionally, the three-dimensional-printed reticulated hydrogel exhibited high sensitivity, a strain factor of 2.57, a broad detection range (0–300 %), and excellent fatigue durability over 100 cycles at 60 % strain. Integrating hydrogels into flexible sensors enables the high-precision detection of both subtle and large-scale human body movements, thereby advancing the application of conductive hydrogels in wearable electronics and offering new insights for the design and development of flexible sensors.}
+}

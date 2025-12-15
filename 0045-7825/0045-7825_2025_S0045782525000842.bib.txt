@@ -1,0 +1,13 @@
+@article{YANG2025117812,
+title = {A hybrid isogeometric collocation method on implicitly trimmed domains},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117812},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117812},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000842},
+author = {Jingjing Yang and Pei Zhou and Lin Lan and Chun-Gang Zhu},
+keywords = {Isogeometric collocation method, Trimmed geometries, WEB-splines, Extension},
+abstract = {We propose a novel isogeometric collocation method (IGA-C) for trimmed domains, using weighted extended B-splines (WEB-splines). Our approach employs the implicit representations of the trimming boundaries to construct the weighted basis, which allows for the subsequent calculations based on a parametrization over a single tensor-product patch, despite the nontrivial shape of the domain. The stabilization of the weighted basis is accomplished by means of extension. We present the classification criterion and the calculation procedure for the extension coefficients of the inner B-splines. The utilization of WEB-splines in analysis enables a natural application of the Dirichlet boundary conditions. Additionally, we adopt a hybrid collocation–Galerkin approach to impose the Neumann boundary conditions on the trimming boundaries. Our proposed method combines the advantages of WEB-splines and IGA-C in terms of straightforward implementation, well-conditioned system matrices and high computational efficiency, which we illustrate by numerical tests on 2D and 3D trimmed geometries. The numerical results further demonstrate that our methodology guarantees the same convergence rates as IGA-C.}
+}

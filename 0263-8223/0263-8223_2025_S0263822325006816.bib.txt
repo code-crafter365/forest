@@ -1,0 +1,13 @@
+@article{JIANG2025119516,
+title = {A novel shape sensing method for geometric nonlinear deformation reconstruction of multilayered composite beams},
+journal = {Composite Structures},
+volume = {371},
+pages = {119516},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119516},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006816},
+author = {Tao Jiang and Qi Yang and Dongsheng Li and Jiezhong Huang},
+keywords = {Shape sensing, Inverse finite element method, Composite beams, Large deformation, Deformation monitoring},
+abstract = {Many engineering structures, such as the wings and blades of wind turbines, are made of composite materials. These structures are more prone to geometric nonlinear deformations during working conditions, which can affect their performance and even lead to damage. Monitoring deformation is important for these structures. However, existing shape sensing approaches typically require additional kinematic variables to describe cross-sectional warping deformations and are limited to small deformations. Therefore, in this study, a novel shape sensing method for reconstructing the geometric nonlinear deformations of multilayer composite beams is developed. The proposed approach focuses on utilizing rotation angles as key variables to accurately represent the nonlinear deformations of a beam under various loading conditions. The method involves effectively calculating the rotation angle of composite beams by establishing a least squares functional that relates the theoretical curvature to the measured curvature. Using geometric relationships, the deformed shape can be predicted. Numerical analyses demonstrate that the reconstruction method has high accuracy and stability for various loading scenarios and composite materials. The advantages of the method include its simplicity and independence from prior knowledge of material properties and external load information, which highlights its strong potential for practical engineering applications.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025109182,
+title = {High-Performance microwave absorbing graphene Nanoplate/Polyethersulfone porous composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109182},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109182},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004762},
+author = {Haiqi Chen and Yixin Han and Lei Han and Li Meng and Xinliang Guo and Ronghai Liu and Hanyu Li and Peijun Xu},
+keywords = {Polyethersulfone porous composites, Graphene nanoplate, Gradient porous structure, Microwave absorbing properties},
+abstract = {PU foams alone exhibit negligible microwave absorption due to their inherently non-conductive nature. Meanwhile, their inherently poor mechanical strength and limited thermal stability significantly constrain their applicability in demanding environments, such as military airframe structures. In this study, graphene nanoplate/polyethersulfone (GNP/PES) porous composites were prepared via a phase transformation method, featuring a gradient porous structure along with favorable mechanical and thermal properties. The GNP constructs a unique three-dimensional conductive network within the PES porous matrix, which not only provides efficient pathways for electron transport in the GNP/PES composites but also enhances the reflection and scattering of electromagnetic waves. The minimum reflection loss (RLmin) of GNP/PES composites at 10.99 GHz is −50.90 dB. In addition, the compressive strength of GNP/PES composites remains above 15 MPa when 5 vol% of the GNP is dispersed to form a continuous network in the walls of the PES pores. At the same time, GNP/PES composites also exhibit flame-retardant and thermal insulation properties. GNP/PES composites with 5 vol% GNP content have a limiting oxygen index of up to 34.2 %, making them a flame-retardant material. GNP/PES composites are promising candidates for low-density, high-strength, and heat-resistant microwave absorbing materials.}
+}

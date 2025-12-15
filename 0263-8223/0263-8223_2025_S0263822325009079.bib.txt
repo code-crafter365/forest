@@ -1,0 +1,13 @@
+@article{JIN2025119742,
+title = {Numerical and experimental analysis of the effect of layer amplitude variation on damage mechanisms in composite laminates with wrinkle defects},
+journal = {Composite Structures},
+volume = {374},
+pages = {119742},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119742},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009079},
+author = {Lu Jin and Yong Chen and Zhangshuo Xu and Yukun Zhang and Xuyang Li},
+keywords = {Carbon fibre, Defects, Damage mechanics, Mechanical testing, Numerical analysis},
+abstract = {The failure behavior of composite laminates is strongly affected by wrinkle defects, particularly variations in layer amplitude that generate complex curvature and severe interlaminar stress concentrations. This study combines numerical simulations and experiments to investigate the static and fatigue damage of laminates with three amplitude-gradient wrinkle morphologies. Fibre and interlaminar failure mechanisms are examined in relation to amplitude gradients, wrinkle amplitude, and wrinkle angle. Results show that larger gradients intensify curvature, stresses, and strain energy density, aggravating interlaminar damage. Experiments confirm that wrinkles act as stress concentrators, reducing the damage initiation threshold, accelerating crack propagation, and shortening fatigue life. Moreover, the numerical model effectively predicts both damage evolution and stiffness degradation. These findings provide a basis for evaluating wrinkle-induced defects and emphasize the importance of controlling amplitude gradients and wrinkle morphology to improve the durability and damage tolerance of composite structures.}
+}

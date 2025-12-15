@@ -1,0 +1,13 @@
+@article{XU2025114498,
+title = {Computational exploration of the self-aggregation mechanisms of phenol-soluble modulins β1 and β2 in Staphylococcus aureus biofilms},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114498},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114498},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000050},
+author = {Huan Xu and Xiaohan Zhang and Zhongyue Lv and Fengjuan Huang and Yu Zou and Chuang Wang and Feng Ding and Yunxiang Sun},
+keywords = {Phenol-soluble modulins, Self-assembly, Aggregation, Discrete molecular dynamics simulations, Conformational dynamics},
+abstract = {The formation of functional bacterial amyloids by phenol-soluble modulins (PSMs) in Staphylococcus aureus is a critical component of biofilm-associated infections, providing robust protective barriers against antimicrobial agents and immune defenses. Clarifying the molecular mechanisms of PSM self-assembly within the biofilm matrix is essential for developing strategies to disrupt biofilm integrity and combat biofilm-related infections. In this study, we analyzed the self-assembly dynamics of PSM-β1 and PSM-β2 by examining their folding and dimerization through long-timescale atomistic discrete molecular dynamics simulations. Our findings revealed that both peptides primarily adopt helical structures as monomers but shift to β-sheets upon dimerization. Monomeric state, PSM-β1 exhibited frequent transitions between helical and β-sheet forms, while PSM-β2 largely retained a helical structure. Upon dimerization, both peptides showed pronounced β-sheet formation around conserved C-terminal residues 21–44. Residues 21–33, largely unstructured as monomers, demonstrated strong tendencies for β-sheet formation and intermolecular interactions, underscoring their central role in the self-assembly of both peptides. Additionally, the PSM-β1 N-terminus formed β-sheets only when interacting with the C-terminus, whereas the PSM-β2 N-terminus remained helical and uninvolved in β-sheet formation. These distinct aggregation behaviors likely contribute to biofilm dynamics, with C-terminal regions facilitating biofilm formation and N-terminal regions influencing stability. Targeting residues 21–33 in PSM-β1 and PSM-β2 offers a promising therapeutic approach for disrupting biofilm integrity. This study advances our understanding of PSM-β1 and PSM-β2 self-assembly and presents new targets for drug design against biofilm-associated diseases.}
+}

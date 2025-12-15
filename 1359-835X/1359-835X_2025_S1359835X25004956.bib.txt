@@ -1,0 +1,13 @@
+@article{YANG2025109201,
+title = {Machine learning model of plant fiber/PLA composite: Prediction and analysis of mechanical strength},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109201},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109201},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004956},
+author = {Fei Yang and Cunyuan Wen and Sheng Zhu and Yucheng Feng and Zhangjie Ye and Huxing Peng and Peilin Guan},
+keywords = {Biocomposites, Machine learning, Mechanical properties, Plant fibers, Prediction},
+abstract = {The growing concern over environmental issues has driven the demand for fully biodegradable materials. Wet-formed plant fiber/PLA composites have emerged as a promising alternative. However, unlike traditional paper, their strength models remain underexplored. This study employs six machine learning algorithms to develop predictive models based on 127 experimental samples, totaling 1,270 data points. The Gradient Boosting Regressor (GBR) model excelled in predicting tensile strength (R2 = 0.92, RMSE = 0.54), while the Random Forest model was best for bursting strength (R2 = 0.92, RMSE = 4.38) and density (R2 = 0.96, RMSE = 0.15). Feature importance analysis identified forming and calendering parameters as critical factors. Further analyses with SHAP values and partial dependence plots detailed the influence of input features on outputs. The models were validated with 20 additional samples, demonstrating strong generalization: tensile strength (R2 = 0.90, RMSE = 0.44), bursting strength (R2 = 0.91, RMSE = 4.56), and density (R2 = 0.92, RMSE = 0.06). This research enhances understanding of the strength mechanisms in plant fiber/PLA composites.}
+}

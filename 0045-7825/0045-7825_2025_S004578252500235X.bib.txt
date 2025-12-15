@@ -1,0 +1,13 @@
+@article{CHEN2025117963,
+title = {3D XFEM for fluid-driven fracturing of layered anisotropic rock},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117963},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117963},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500235X},
+author = {XiuYuan Chen and Hao Yu and YiLun Zhong and Quan Wang and HengAn Wu},
+keywords = {3D XFEM, Fluid-driven fracturing, Material anisotropy, Toughness anisotropy, Regularized Irwin's criterion, Tip enrichment},
+abstract = {We propose a novel planar 3D extended finite element method (XFEM) for fluid-driven fracturing of layered rocks, where the material properties and fracture toughness are anisotropic. The crack tip singular functions vary along the curved fracture front, which stems from differing crack tip asymptotes caused by variations in local material properties. These functions in three-dimensional anisotropic space are first established. A coordinate transformation for the stress matrix is defined by the normal to curved fracture front at each quadrature point, and the global elastic stiffness matrix is transformed to calculate its local form. The characteristic equation, obtained by extracting the plane strain components from the local elastic stiffness matrix, is solved to compute the tip enrichment functions of the corresponding quadrature points. Additionally, a hybrid explicit-implicit method is developed for fracture propagation and geometric description with rock anisotropy. In this approach, the explicit Irwin's criterion is regularized by inverting the varying crack tip asymptotes at different fracture front nodes, which provides the anisotropic propagation distances and injection time constraint during each propagation step. The apparent Young's modulus is introduced in the criterion to capture the variations of local material properties with propagation angle. The fracture surface is represented implicitly by two level set functions, which are calculated from the fracture description updated through the Irwin's criterion. This hybrid method avoids solving complex advection-type equations and improves the computational efficiency of nodal enrichment without iterating through fracture elements repeatedly. The proposed method is validated against the analytical solutions and various numerical cases with non-self-similar propagation behavior and strong fracture toughness anisotropy. This work provides a powerful approach for modeling the complex propagation behavior of 3D hydraulic fracture (HF) in tight formation.}
+}

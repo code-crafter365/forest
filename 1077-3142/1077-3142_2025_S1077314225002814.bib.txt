@@ -1,0 +1,20 @@
+@article{CORRERA2025104558,
+title = {A method for automatic breast density classification in magnetic resonance imaging},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104558},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104558},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002814},
+author = {Simona Correra and Francesco Mercaldo and Vittoria Nardone and Giulia Varriano and Dalila {De Lucia} and Maria Chiara Brunese and Antonella Santone and Corrado Caiazzo},
+keywords = {Breast density, Axial 3D T2-weighted imaging, Magnetic resonance imaging, MRI, DICOM},
+abstract = {Background and Objective:
+Breast density classification is a critical factor in assessing breast cancer risk, and most existing methods rely on mammography. This study proposes a method for automatic breast density classification using T2-weighted MRI images, following the ACR BI-RADS criteria.
+Methods:
+The proposed method involves creating total and border masks based on MRI scans, excluding the chest area, computing the percentage of periglandular fat, and classifying density into “Dense” and “Not Dense”. Experimental validation was conducted using 136 MRI exams, including cases with prosthetic implants, mastectomy, nodulectomy, and tumorectomy.
+Results:
+The method achieved an Accuracy of 0.86, a Precision of 0.96, a Specificity of 0.97, and a Sensitivity of 0.76. These results highlight the robustness of the method and demonstrate the potential of MRI-based density classification as a complementary tool to mammography.
+Conclusions:
+The findings provide new insights for breast imaging practices and assist radiologists in clinical practice. Future developments will focus on extending the classification to the original four BI-RADS classes.}
+}

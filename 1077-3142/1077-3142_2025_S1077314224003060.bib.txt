@@ -1,0 +1,13 @@
+@article{GONZALEZSABBAGH2025104225,
+title = {Scene-cGAN: A GAN for underwater restoration and scene depth estimation},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104225},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104225},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003060},
+author = {Salma González-Sabbagh and Antonio Robles-Kelly and Shang Gao},
+keywords = {Generative adversarial network, Underwater image restoration, Underwater scene depth estimation},
+abstract = {Despite their wide scope of application, the development of underwater models for image restoration and scene depth estimation is not a straightforward task due to the limited size and quality of underwater datasets, as well as variations in water colours resulting from attenuation, absorption and scattering phenomena in the water column. To address these challenges, we present an all-in-one conditional generative adversarial network (cGAN) called Scene-cGAN. Our cGAN is a physics-based multi-domain model designed for image dewatering, restoration and depth estimation. It comprises three generators and one discriminator. To train our Scene-cGAN, we use a multi-term loss function based on uni-directional cycle-consistency and a novel dataset. This dataset is constructed from RGB-D in-air images using spectral data and concentrations of water constituents obtained from real-world water quality surveys. This approach allows us to produce imagery consistent with the radiance and veiling light corresponding to representative water types. Additionally, we compare Scene-cGAN with current state-of-the-art methods using various datasets. Results demonstrate its competitiveness in terms of colour restoration and its effectiveness in estimating the depth information for complex underwater scenes.}
+}

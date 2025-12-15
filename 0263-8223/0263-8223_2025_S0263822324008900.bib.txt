@@ -1,0 +1,13 @@
+@article{MAN2025118762,
+title = {Phase-field modeling of ductile fracture in bioinspired interfaces with dissipative structures},
+journal = {Composite Structures},
+volume = {354},
+pages = {118762},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118762},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008900},
+author = {Shihan Man and Hongjun Yu and Jianshan Wang},
+keywords = {Bioinspired interfaces, Energy dissipation, Toughening mechanism, Phase-field model},
+abstract = {Intrinsic toughening, which occurs during ductile fracture and is motivated by plasticity, plays an important role in the industrial design of biomimetic composites. The interface structure in biomimetic composites can serve as a source of energy dissipation and stress relaxation, thereby achieving the goal of toughening. A new ductile fracture mechanism is proposed considering the influence of accumulated plastic deformation on local fracture toughness in a ductile phase-field model. The inducement to control the toughening mechanism is local energy dissipation, and the possible arrangement and shape of the dissipative structure are designed to capture the corresponding interface toughening mechanism. The channel structures of the barnacle substrate provide great inspiration for the structural toughening of the interface. The toughening mechanisms of weak interfaces are further explored by 3D printing structure specimens. The results indicate that the form of the R-curve is like a mixture of local J shaped and Γ shaped R-curves, which can also be called a periodic alternating mode. The J shaped R-curve represents the dissipation mechanism of the channel shape, while the Γ shaped R-curve represents the periodic crack arrest caused by local deformation of the channel.}
+}

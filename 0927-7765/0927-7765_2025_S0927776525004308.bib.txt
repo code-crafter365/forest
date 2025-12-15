@@ -1,0 +1,13 @@
+@article{WANG2025114923,
+title = {Integrated natural enzyme and nanozyme nanoreactor for managing cerebral ischemia-reperfusion injury by regulating neuroimmune microenvironment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114923},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114923},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004308},
+author = {Yingying Wang and Fuwei Yang and Nannan Song and Jinting He},
+keywords = {Immune microenvironment, Neuroinflammation, Cerebral ischemia-reperfusion injury, Nanozyme, Oxidative stress},
+abstract = {Oxidative stress, predominantly from neuronal mitochondrial damage and the resultant cytokine storm, is central to cerebral ischemia-reperfusion injury (CIRI). Regulation of inflammation and immune microenvironment exerts a vital role in inhibiting the oxidative damage of CIRI. However, the drugs' ability to traverse the blood-brain barrier and their immunoregulatory capacity are limited, impeding the therapeutic effect of CIRI. This study introduces an innovative superoxide dismutase (SOD) equipped ruthenium (Ru) nanozyme (SOD@Ru ZIF nanoreactor) for regulating neuroimmune microenvironment and protecting against CIRI. The nanoreactor can be enriched to the brain lesion site, protecting against oxidative stress-induced damage and nerve cell death, alleviating neuroinflammation by regulating the immune microenvironment, thereby minimizing damage associated with CIRI biological models. Overall, this work introduces a new avenue to significantly reduce CIRI through immune microenvironment regulation.}
+}

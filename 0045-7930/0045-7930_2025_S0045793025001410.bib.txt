@@ -1,0 +1,13 @@
+@article{BUJACK2025106681,
+title = {High-fidelity 2D interface reconstruction from high-order moments},
+journal = {Computers & Fluids},
+volume = {298},
+pages = {106681},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106681},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001410},
+author = {Roxana Bujack and Mikhail Shashkov},
+keywords = {Interface reconstruction, Moment of fluid, Iso-contour},
+abstract = {Multi-material flows involve boundaries between two non-mixing fluids, seen in scenarios such as underwater detonations, oil–water separation in petroleum extraction, lava–water interactions during volcanic eruptions, and gas–liquid interfaces in bubble column reactors. Accurate algorithms for these dynamic interfaces are crucial in computational fluid dynamics. While various methods exist, moment-of-fluid interface reconstruction stands out because of its efficiency and accuracy. This technique uses non-linear optimization to derive a shape that matches not only the volume, but also the first and even the second and third order moments of the fluid. However, the main limitation of the moment-of-fluid methods is their dependence on, and lack of, a good initial guess, which is critical for their robust convergence. We derive a highly accurate initial guess using the iso-contour of the polynomial that exactly matches the higher-order moments. This allows a vertex-wise optimization and with it the reconstruction of many interface shapes that have not been possible in the past, such as polygons with multiple connected components and holes.}
+}

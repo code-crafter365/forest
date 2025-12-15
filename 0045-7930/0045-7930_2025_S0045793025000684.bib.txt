@@ -1,0 +1,13 @@
+@article{OLIVUCCI2025106608,
+title = {Multi-fidelity modeling of net power savings of an actuated turbulent boundary layer},
+journal = {Computers & Fluids},
+volume = {293},
+pages = {106608},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106608},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000684},
+author = {P. Olivucci and X. Shao and M. Albers and W. Schröder and R. Semaan},
+keywords = {Active drag reduction, Net power savings, Turbulent drag reduction, Multi-fidelity modeling, Data-driven modeling, Gaussian processes},
+abstract = {We simulate and model the net power savings of an actuated turbulent boundary layer flow. The actuation is performed by spanwise traveling transverse surface waves parametrized by wavelength, amplitude, and period. The data is provided by 81 large-eddy simulations (LES) over a range of conditions. Since the numerical resolution of the skin-friction physics requires expensive large-eddy simulations, additional input power data is provided by low-cost, low-fidelity, two-dimensional simulations. An ad-hoc Gaussian Process (GP) framework is used to construct a single and a multi-fidelity surrogate model of the net power savings response to a range of actuation settings. The multi-fidelity model is shown to be able to leverage the two databases and combine the two independent constitutive models for the drag reduction and the input power. The predictive performance of the model is evaluated and compared to the single-fidelity baseline through cross-validated accuracy scores, including its probabilistic predictions. The models are queried to infer the detailed dependence of the flow response on the control parameters, to explore the existence of maxima, and to discuss the physical underpinnings of the flow.}
+}

@@ -1,0 +1,13 @@
+@article{HEO2025119570,
+title = {Synergistic enhancement of Zn-Ion battery performance using CNT/Graphene composite–coated stainless-steel-foil current collectors},
+journal = {Composite Structures},
+volume = {372},
+pages = {119570},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119570},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007354},
+author = {Heeyeon Heo and Jaeyeon Lee and Yong-Ryun Jo and Byoungyong Im and Dae Guen Kim and Jae-Yeol Jeon and Sang-Soo Chee and Sunhye Yang and Geon−Hyoung An},
+keywords = {Zn-ion battery, Cathode, Current collector, Stainless-steel foil, Carbon nanotube},
+abstract = {Owing to their intrinsic safety, cost-effectiveness, environmental sustainability, and simple assembly, Zn-ion batteries (ZIBs) constitute a promising alternative to Li-ion batteries for next-generation energy storage systems. However, conventional graphite foil–based current collectors exhibit limited scalability due to their poor mechanical strength, which limits their practicability. Moreover, ZIBs inherently suffer from limited reversibility, which leads to rapid capacity degradation and poor cycling stability. To overcome these limitations, functional metal-based current collectors exhibiting high mechanical strength, high electrical conductivity, and strong interfacial adhesion with electrode materials have been proposed. In this study, stainless-steel foil was coated with a graphene–carbon nanotube composite before being annealed at 400 °C to remove surface oxide layers, which enhanced both electrical conductivity and wettability. The resulting ZIB delivered a high specific capacity of 236.8 mAh g−1 at a current density of 0.3C and achieved outstanding cycling stability, retaining 99.0 % of its initial capacity over 1,000cycles at 1.0C. Thus, the proposed approach represents a highly effective and scalable strategy for improving the electrochemical performance of ZIBs.}
+}

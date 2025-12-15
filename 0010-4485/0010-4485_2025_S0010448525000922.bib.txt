@@ -1,0 +1,13 @@
+@article{KHANTEIMOURI2025103931,
+title = {Guaranteed-Quality Rational Bézier Guarding},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103931},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103931},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000922},
+author = {Payam Khanteimouri and Marcel Campen},
+keywords = {Higher-order, Mesh generation, Rational Bézier triangle, Element quality},
+abstract = {We describe a first method for the generation of higher-order triangle meshes in 2D with the following properties: Polynomial as well as rational elements of arbitrary order are supported, the resulting mesh is guaranteed to conform to the curved domain boundary, its elements are guaranteed to be regular, i.e. free of degeneracies and inversions, and are guaranteed to respect an adjustable lower bound on quality in terms of the scaled Jacobian metric. Previous methods support only subsets of these desirable properties. We achieve this by carefully generalizing a method proposed for the polynomial case to the more challenging rational case and analyzing its correctness.}
+}

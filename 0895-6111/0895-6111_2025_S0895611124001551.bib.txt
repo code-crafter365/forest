@@ -1,0 +1,13 @@
+@article{CHEN2025102478,
+title = {Portable head CT motion artifact correction via diffusion-based generative model},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {119},
+pages = {102478},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102478},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001551},
+author = {Zhennong Chen and Siyeop Yoon and Quirin Strotzer and Rehab Naeem Khalid and Matthew Tivnan and Quanzheng Li and Rajiv Gupta and Dufan Wu},
+keywords = {Portable Head CT, Motion Correction, Diffusion Model},
+abstract = {Portable head CT images often suffer motion artifacts due to the prolonged scanning time and critically ill patients who are unable to hold still. Image-domain motion correction is attractive for this application as it does not require CT projection data. This paper describes and evaluates a generative model based on conditional diffusion to correct motion artifacts in portable head CT scans. This model was trained to find the motion-free CT image conditioned on the paired motion-corrupted image. Our method utilizes histogram equalization to resolve the intensity range discrepancy of skull and brain tissue and an advanced Elucidated Diffusion Model (EDM) framework for faster sampling and better motion correction performance. Our EDM framework is superior in correcting artifacts in the brain tissue region and across the entire image compared to CNN-based methods and standard diffusion approach (DDPM) in a simulation study and a phantom study with known motion-free ground truth. Furthermore, we conducted a reader study on real-world portable CT scans to demonstrate improvement of image quality using our method.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025114286,
+title = {Natural synergy: Oleanolic acid-curcumin co-assembled nanoparticles combat osteoarthritis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114286},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114286},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005459},
+author = {Chen Liu and Wanchun Du and Liang Zhang and Jiacheng Wang},
+keywords = {Natural products, Drug delivery, Co-assembly, Multifunctional nanoparticles, Oteoarthritis},
+abstract = {Curcumin (Cur) is a natural polyphenol that is one of the most valuable natural products. However, its use as a functional food is limited by low water solubility, chemical instability and poor bioavailability. In this study, a supramolecular co-assembly strategy was used to construct an oleanolic acid-curcumin (OLA-Cur) co-assembly composite nano-slow-release treatment system. As a co-assembled compound, OLA is a widely present pentacyclic triterpenoid compound with multiple biological activities in the plant kingdom, which is expected to jointly alleviate the damaging effects of papain-induced mouse osteoarthritis model. The OLA-Cur NPs shows the solid core-shell structure, which can effectively improve the water solubility of Cur and OLA, and has good stability and sustained release characteristics. The analysis results show that the two compounds are mainly assembled through hydrogen bonding interactions, hydrophobic interactions, and π - π stacking interactions. The OLA-Cur NPs can inhibit the release of pro-inflammatory cytokines TNF-α, IL-6, and IL-1β induced by LPS in RAW264.7 mouse macrophages, promote the secretion of anti-inflammatory cytokine IL-10, and improve the oxidative stress index of hydrogen peroxide induced human rheumatoid arthritis synovial fibroblasts. In addition, it has a certain improvement effect on cartilage and subchondral bone damage in mouse osteoarthritis models. These findings suggest that constructing co-assembled composite nanoparticles based on pure natural compounds may break through the limitations of a variety of important nutritional ingredients in functional foods.}
+}

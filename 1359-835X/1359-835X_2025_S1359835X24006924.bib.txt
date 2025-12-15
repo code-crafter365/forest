@@ -1,0 +1,13 @@
+@article{GOUDENHOOFT2025108694,
+title = {Complementarities of nanoindentation and atomic force microscopy for exploring micromechanical features of ancient flax fibres},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108694},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108694},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006924},
+author = {Camille Goudenhooft and Sylvie Durand and Célia Caër and Alessia Melelli and Anthony Magueresse and Olivier Arnould and Eric Balnois and Anita Quiles and Darshil U. Shah and Johnny Beaugrand and Alain Bourmaud},
+keywords = {Flax cell wall, SEM, Nanoindentation, AFM, Ageing, Mechanical properties, Ultrastructure},
+abstract = {The use of flax (Linum usitatissimum L.) fibres for textile dates back to several millennia; in Ancient Egypt flax was widely used in many everyday items. While flax fibres continue to diversify today as composite reinforcements, the study of their historical use is highly relevant when it comes to their durability; archaeological samples offer unique lenses for understanding changes in intrinsic fibre properties after long–time periods. Through a comprehensive examination of ancient Egyptian flax fibres from four archaeological artefacts, this study carries out a detailed characterisation of the fibre ultrastructure and micromechanical properties by combining nanoindentation (NI) and atomic force microscopy (AFM). This work highlights the complementary of these techniques for both heritage and materials science; it demonstrates on some samples, the remarkable cell wall stiffness, even after thousands of years, which is a key element for the bio-based composites sector, to better understand the degradation mechanisms of plant fibres.}
+}

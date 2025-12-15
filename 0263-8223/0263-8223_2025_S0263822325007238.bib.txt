@@ -1,0 +1,13 @@
+@article{ZENG2025119558,
+title = {Investigation of tool-part interaction induced through-thickness stress gradient distribution with FBG sensor in composites manufacturing},
+journal = {Composite Structures},
+volume = {373},
+pages = {119558},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119558},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007238},
+author = {Fanhao Zeng and Xin Gui and Zhengying Li and Zhao Tang and Shuxin Li},
+keywords = {Tool-part interaction, Composites, Stress gradient, Fiber Bragg Grating},
+abstract = {Tool-part interaction in composite manufacturing is a critical factor leading to process-induced distortion. The present paper proposes a method for measuring and analyzing the through-thickness internal stress gradient within composite laminates induced by tool-part interaction. The design of the embedded FBG sensor network allows for the measurement of strain development within the composite laminate during curing. Therefore, the generation, accumulation, release and the final residual of through-thickness strain gradient be monitored in situ. A boundary for the existence of the strain gradient is proposed, and a parameterized expression is succinctly formulated to describe both the distribution and magnitude of the strain gradient. The release strain gradient measured by the FBG sensors is also linked to the stress gradient that causes warpage, providing a basis for quantifying process-induced distortion. Furthermore, the influence of different tools, pressure, and tool surface conditions on the stress gradient is analyzed using the proposed method.}
+}

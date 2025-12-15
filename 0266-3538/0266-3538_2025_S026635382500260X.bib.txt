@@ -1,0 +1,13 @@
+@article{CHEN2025111292,
+title = {Transfer learning-guided generative laminate design framework with limited data availability},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111292},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111292},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500260X},
+author = {Siyuan Chen and Zhixing Li and Jinzhao Huang and Tiantian Yang and Yunpeng Gao and Jia Hu and Guang Yang and Licheng Guo},
+keywords = {Mechanical properties, Composite laminates, Machine learning, Inverse design},
+abstract = {Fiber-reinforced composites offer significant tailoring potential, but extensive design parameters and the need to explore new design spaces pose substantial challenges in laminate designs. This paper presents a Transfer learning-guided Generative Laminate Design Framework (TGLDF) to efficiently extend design spaces with limited data availability. A generator in the TGLDF rapidly produces design parameters bounded within design ranges through a data scaling method, along with a neural network-based discriminator fine-tuned with small datasets to predict mechanical properties within new design spaces. Customized generation losses are incorporated to enable the generations to achieve design objectives, such as desired strength and torsional stiffness in this paper. Two examples were used to validate the TGLDF under different new design spaces. These examples include notched laminates under uniaxial tension and composite tubes subjected to coupled internal pressure and axial compression, involving new materials, ply numbers, and loading conditions. The results show that only small datasets are needed to perform inverse design in these new design spaces. A comparative analysis with finite element simulations and Genetic Algorithms (GAs) demonstrates the effectiveness and superiority of the TGLDF, which outperforms GAs by integrating random noise to learn the distribution of optimal solutions. In addition, the concatenating of one-hot encodings and continuous parameters enables the TGLDF to extend to other design scenarios easily.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025114963,
+title = {Oxygen-boosted nanodrug for amplified ferroptosis-photodynamic immunotherapy together with PD-1 checkpoint blockade against triple-negative breast cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114963},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114963},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004709},
+author = {Zhirong Yang and Lingli Deng and Zhenhong Pan and Xiaoyang Wang and Li Lin and Yaqi Fang and Yinxing Huang and Xianquan Feng and Xi Chen},
+keywords = {Immunogenic cell death, Human serum albumin, Verteporfin, Hemin, Hypoxia},
+abstract = {While photodynamic therapy (PDT) may augment immune checkpoint blockade in triple-negative breast cancer (TNBC), its effectiveness is constrained by tumor hypoxia and suboptimal immune activation. To address these challenges, an innovative nanodrug (HV NPs) has been developed for the targeted delivery of the photosensitizer verteporfin and hemin, utilizing human serum albumin as a delivery vehicle. The catalase-like activity of hemin alleviates the hypoxic conditions in the tumor microenvironment and boosts PDT. The HV NPs, when activated by a 635 nm laser, induce apoptosis and ferroptosis in tumor cells and facilitate the release of tumor-associated debris, which triggers immunogenic cell death and enhance tumor immunogenicity. Meanwhile, modulation of the hypoxic tumor microenvironment attenuates immunosuppressive cell infiltration, thereby enhancing antitumor immunity. This systemic immune response can be further enhanced by PD-1 blockade, thereby inhibiting both primary tumors and lung metastasis. Collectively, our study indicates that HV NPs-mediated oxygen-boosted PDT represents a promising strategy to enhance the efficacy of PD-1 checkpoint blockade immunotherapies in TNBC.}
+}

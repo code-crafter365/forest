@@ -1,0 +1,13 @@
+@article{YANG2025118757,
+title = {Low-velocity impact behaviors of TFMLs in hydrothermal and thermal-cycling environments},
+journal = {Composite Structures},
+volume = {354},
+pages = {118757},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118757},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008857},
+author = {Lei Yang and Zhenhao Liao and Zijing Hong and Yan Shen and Jinglei Yang},
+keywords = {Thermoplastic fiber metal laminates, Marine environments, Impact behaviour, Compression after impact},
+abstract = {Thermoplastic fiber metal laminates (TFMLs) have garnered significant attention due to their excellent impact resistance. However, the influence of practical environmental factors on the impact resistance of TFMLs remains inadequately explored. This study endeavor to investigate the impact behaviors and damage tolerance of TFMLs, employing a novel thermoplastic resin, Elium®188, under two simulated marine environments: a thermal-cycling condition (involving 90 days of exposure to 70℃ for 6 h followed by 18 h at room temperature daily) and a hydrothermal environment (consisting of 90 days of immersion in distilled water at 70℃). The impact response and damage characteristics were analyzed through low-velocity impact (LVI) and compression-after-impact (CAI) tests. The findings indicated that under thermal-cycling, the LVI resistance decreased as a result of resin aging, but the resin hardened during aging led to a 48 % increase in CAI strength over the 90-day period. In the hydrothermal environment, the absorbed energy decreased by 5.6 % and CAI strength decreased by 13.7 % after 90 days, primarily due to resin hydrolysis and erosion of the TFMLs’ internal structure by water molecules. This research offers valuable insights into the impact resistance and damage tolerance of TFMLs, serving as a vital reference for practical applications in marine settings.}
+}

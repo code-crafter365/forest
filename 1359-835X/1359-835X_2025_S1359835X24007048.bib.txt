@@ -1,0 +1,13 @@
+@article{XIAO2025108706,
+title = {Electric field-assisted alignment of carbon nanotubes in the interlayers of CFRP composites to enhance the properties},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108706},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108706},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24007048},
+author = {Jing Xiao and Shuran Li and Mengze Li and Yihan Fu and Ling Yan and Xiaowen Song and Yinglin Ke},
+keywords = { Laminates,  Nano-structures,  Directional orientation,  Fracture toughness},
+abstract = {Improving the mechanical properties of carbon fiber reinforced polymer (CFRP) composites with carbon nanotubes has been a challenge due to the lack of control over the distribution and orientation of carbon nanotubes during composite processing. Here we present a novel approach of utilizing a dielectric block to polarize and align interlayer CNTs by applying a bipolar nanosecond pulse superimposed direct current bias (nsPDC) electric field during the curing process of CFRP laminates. The addition of 0.05 wt% multi-walled carbon nanotubes (MWCNTs) resulted in a 138% increase in the initial crack extension and a remarkable 139% increase in the steady state. Based on the microscopic characterization of the fracture surface and the crack extension path, the significant increase in mode I fracture toughness was attributed to the enhancement of the interface and the bridging effect of the aligned carbon nanotubes. Furthermore, testing of the in-plane properties demonstrated no loss and even slight enhancements. The results of this study open up new opportunities for developing composites with significantly enhanced properties.}
+}

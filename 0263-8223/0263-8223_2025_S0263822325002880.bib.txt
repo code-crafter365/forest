@@ -1,0 +1,13 @@
+@article{CHEN2025119123,
+title = {Experimental and numerical study on draping behavior of recycled textile composite reinforcement with different weave patterns},
+journal = {Composite Structures},
+volume = {363},
+pages = {119123},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119123},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002880},
+author = {Bo Chen and Bowen Xu and Yang Zhang and Xiaoling Liu},
+keywords = {Recycled fabrics/textiles, Fiber surface, Weave patterns, Mechanical properties, Drapability},
+abstract = {This study experimentally and numerically analyzes the draping of recycled fabric with different weave patterns. The recycled fabric was obtained from waste prepregs using a designed microwave thermal process. It is shown that the yarn width and density remain unchanged in the recycling process, but the fiber surface properties are changed, including a decrease in diameter and an increase in roughness. Due to the removal of sizing agents and the fiber diameter decrease, the recycling process also leads to a reduction in fabric thickness and areal density by about 9%. This change significantly modified the mechanical behavior of recycled fabrics compared to virgin fabrics, especially the bending stiffness of recycled fabrics is greatly reduced. Hemisphere and square box forming tests indicated that recycled fabrics tend to wrinkle more than virgin fabrics, and fabrics with a loose structure and less crimp lead to good drapability. A stress resultant shell approach gives simulation results that are in agreement with experiments, particularly the onset of wrinkling. This numerical approach takes into account tensile, in-plane shear, bending and friction behavior of textile reinforcement to reflect the change in fiber properties and weave structures, which proved to have a notable influence on fabric drapability.}
+}

@@ -1,0 +1,13 @@
+@article{ZHAO2025118848,
+title = {Mass transport characteristic and biocompatibility of demand-guided structural biomaterials},
+journal = {Composite Structures},
+volume = {355},
+pages = {118848},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118848},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000133},
+author = {Yang Zhao and Qianqian Wu and Linzhi Wu},
+keywords = {Structural biomaterials, Titanium alloy, Fluid dynamics simulation, Permeability, Biocompatibility},
+abstract = {Structural biomaterials have garnered widespread attention for their potential applications in regenerative medicine, particularly in the repair of bone tissue defect repair. However, the absence of a personalized design often results in a mismatch between the structural biomaterials and the repaired tissue, thereby limiting the effectiveness of the repair. Hence, the demand-guided structural biomaterials for skull defect repair have been identified, with an emphasis on personalized design factor, mass transport characteristics and biocompatibility. Initially, the titanium alloy demand-guided structural biomaterials with different characteristics as body-centered cubic configuration are fabricated by additive manufacturing. The crystalline phase and element content percentage of fabricated specimen are observed by XRD patterns and EDS analysis. The permeability, serving as a marker for assessing mass transport capability, is evaluated using both the falling head method and computational fluid dynamics simulation. In generally, the permeability results, which can range from 0.41 × 10-8 m2 to 10.92 × 10-8 m2, demonstrate a strong correlation with bone. The cell assay substantiates that the demand-guided structural biomaterials exhibit commendable biocompatibility, encompassing both cell viability and osteogenic differentiation. Owing to their superior mass transport properties, cytocompatibility, and osteogenic differentiation capabilities, demand-guided structural biomaterials hold significant potential for the repair of skull defect repair.}
+}

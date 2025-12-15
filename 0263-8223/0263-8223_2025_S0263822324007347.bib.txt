@@ -1,0 +1,13 @@
+@article{KAUR2025118606,
+title = {High-performance composite electrode based on polyaniline/graphene oxide carbon network for vanadium redox flow batteries},
+journal = {Composite Structures},
+volume = {351},
+pages = {118606},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118606},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007347},
+author = {Amanpreet Kaur and Gurpreet Singh and Jun Woo Lim},
+keywords = {Vanadium redox flow battery, Carbon felt, Carbon network, Polyaniline, Electrocatalytic activity},
+abstract = {In this study, an electrode wrapped in a carbon network is fabricated using a straightforward hydrothermal technique. Conducting polymers such as polyaniline (PANi) have been used to form carbon networks on the surfaces of carbon fibers. However, the cycling instability of PANi, which is a consequence of structural modifications, is a significant obstacle to its commercial application. This study presents an innovative and effective approach for synthesizing carbon networks using PANi/reduced graphene oxide (PANi-rGO-CF) composites to enhance the performance of vanadium redox flow battery (VRFB) electrodes. PANi-rGO was deposited on carbon felt using a hydrothermal method, followed by calcination under an argon atmosphere. The presence of graphene oxide facilitated the uniform distribution of PANi and enhanced its stability. PANi-rGO-CF demonstrated superior electrocatalysis toward vanadium redox couples owing to the abundant heteroatom active sites, affording VRFBs with extraordinary stability and outstanding energy efficiency after 100 cycles at 100 mA/cm2.}
+}

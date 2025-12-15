@@ -1,0 +1,13 @@
+@article{FONTES2025110987,
+title = {Theory-guided machine learning for thermal modeling of in-situ automated fiber placement of thermoplastic composites},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110987},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110987},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005578},
+author = {A. Fontes and N. Zobeiry and F. Shadmehri},
+keywords = {Theory-guided neural network (TgNN), Automated fiber placement (AFP), Thermal modeling, Thermoplastic composites},
+abstract = {In-situ Automated Fiber Placement (AFP) of thermoplastic composites has several advantages over traditional manufacturing techniques, with the main benefit being eliminating secondary thermal processing. Without secondary heat treatment, the in-situ thermal history becomes the critical process parameter that governs bond development, crystallization kinetics, and the development of residual stresses. This work improves the thermal modeling of the in-situ Automated Fiber Placement (AFP) manufacturing process by leveraging Theory-Guided Machine Learning (TGML). A novel theory-guided neural network (TgNN) with theory-based pre-layer transforms models the three-dimensional temperature distribution during in-situ AFP manufacturing. The TgNN is fit on experimentally measured temperatures for various combinations of hot gas torch temperatures and heat source velocities. Feature engineering is implemented by applying theory-based pre-layer transforms to the input features time, the thermocouple coordinates, hot gas torch temperature, and heat source velocity. Compared to a theory-agnostic neural network, the TgNN with theory-based pre-layer transforms has improved predictive ability and requires fewer training data for equivalent performance. The trained model is computationally efficient and can be leveraged for online process control.}
+}

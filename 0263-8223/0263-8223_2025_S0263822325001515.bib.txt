@@ -1,0 +1,13 @@
+@article{CHEN2025118986,
+title = {Bio-inspired elastic metamaterial by B-form DNA: Programmable dual helix structures for low-frequency longitudinal wave prohibition},
+journal = {Composite Structures},
+volume = {360},
+pages = {118986},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118986},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001515},
+author = {Yumei Chen and Lei Yang and Jia Lou and Ji Wang and Matteo Filippi and Erasmo Carrera and Xiang Fang},
+keywords = {Bio-inspired, Elastic metamaterial, Longitudinal wave, Low-frequency vibration, Programmable structure, Base pair},
+abstract = {Motivated by the attractive mechanical properties and the wealth of biological genetic information carried by the DNA structures, we proposed a novel B-form DNA Dual Helix Metamaterial (DHM) in this paper, which has programmable longitudinal wave propagation properties. A dual helix DNA metamaterial is first designed to follow the natural geometry of the B-form DNA structures. To mimic the programming of genetic information in DNA, four types of mass blocks, each made from different materials (i.e., iron, aluminum, nylon, and foam), are selected to serve as the base pairs within the 3D-printed dual helix frame. The elastic wave propagation properties of the DHM, which have unitary mass blocks of different materials, are first compared to comprehend the encoding characteristics of the dual helix metamaterials. After that, a mixed model of DHM, comprising randomly arranged mass blocks, is used to reveal the extensive programmable features for elastic wave propagation. In addition, the influence of the structure parameters, including the helix’s size and the base plates’ thickness, are investigated. Finally, a laser vibrometer system is used to validate the analysis of the proposed elastic metamaterial, experimentally. The investigation in this paper paves the way for broadband low-frequency vibration isolation for engineering applications.}
+}

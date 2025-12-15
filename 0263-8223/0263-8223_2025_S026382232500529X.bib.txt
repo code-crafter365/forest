@@ -1,0 +1,13 @@
+@article{SOUZA2025119364,
+title = {Radial compression of thin-walled variable-angle tow filament-wound composite cylinders, Part II: Progressive crushing with and without stress concentrators},
+journal = {Composite Structures},
+volume = {370},
+pages = {119364},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119364},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500529X},
+author = {Gabriel Sales Candido Souza and Anderson Lima {dos Santos} and Maísa Milanez Ávila Dias Maciel and Rui Miranda Guedes and Paulo Tavares and Sandro Campos Amico and Volnei Tita},
+keywords = {Filament-winding, Variable-angle tow, Composite materials, Radial compression, Thin-walled structures},
+abstract = {This work presents an experimental investigation into the radial compression behavior of thin-walled, variable-angle tow filament-wound composite cylinders with and without stress concentrators. Seven samples were manufactured, with three selected for the drilling of elliptical holes. These case studies examine the direct influence of the hole’s presence, its eccentric positioning, and the effect of increasing cylinder length on pre- and post-failure behavior. Strain fields were measured using digital image correlation in the linear-elastic regime, linking fractography observations to strain maps. This approach enabled a detailed description of damage initiation, propagation, and failure mechanisms, comparing the behavior of cylinders with holes to those without. Additionally, an analytical model was employed, and its predictions were compared with experimental results for energy absorption versus displacement throughout the tests. The model demonstrated strong performance for cylinders without holes, accurately predicting the displacement triggering the initial structural collapse, with an average divergence of 11% in absorbed energy at that point. Finally, the study provides valuable insights into the radial compression behavior of filament-wound composite cylinders with elliptical stress concentrators, offering a foundation for future research and potential engineering applications.}
+}

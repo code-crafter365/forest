@@ -1,0 +1,13 @@
+@article{CHENG2025118178,
+title = {A unified unresolved/semi-resolved ALE-VMS-DEM framework for flow–particle interaction with applications to powder dynamics modeling in additive manufacturing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118178},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118178},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004505},
+author = {Haojia Cheng and Shashwot Paudel and Todd Sparks and Jim Lua and Jinhui Yan},
+keywords = {CFD-DEM, Arbitrary Lagrangian–Eulerian, Solid–liquid mixing, Direct energy deposition, Additive manufacturing},
+abstract = {Flow–particle interaction is commonly modeled by coupling computational fluid dynamics (CFD) and discrete element methods (DEM). However, the two prevalent methods for CFD-DEM coupling – unresolved and semi-resolved schemes – put specific requirements on the ratio of mesh size to particle diameter, hindering their applications to large-scale industrial processes with complex geometries. This paper introduces a unified unresolved/semi-resolved framework for effective flow–particle interaction simulations. A moving domain CFD using Arbitrary Lagrangian–Eulerian Variational Multiscale (ALE-VMS) and a DEM model are carefully integrated via two-way momentum exchange. A novel method is developed to enable smooth transitions between the semi-resolved and unresolved schemes on non-uniform unstructured meshes. We validate the proposed ALE-VMS-DEM framework by simulating a single-particle sedimentation process and a multi-particle solid–liquid fluidization process. Good accuracy has been achieved. We further apply it to simulate solid–liquid mixing in a stirred tank and powder dynamics during directed energy deposition processes. The simulation results show great agreement with experimental data, demonstrating the effectiveness of the proposed method in addressing large-scale, practical engineering problems with complex geometries.}
+}

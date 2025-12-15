@@ -1,0 +1,13 @@
+@article{XU2025103896,
+title = {Sketch123: Multi-spectral channel cross attention for sketch-based 3D generation via diffusion models},
+journal = {Computer-Aided Design},
+volume = {185},
+pages = {103896},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103896},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000582},
+author = {Zhentong Xu and Long Zeng and Junli Zhao and Baodong Wang and Zhenkuan Pan and Yong-Jin Liu},
+keywords = {Sketch-based generation, Diffusion model, Attention mechanism, Spectral channel attention},
+abstract = {With the development of generative techniques, sketch-driven 3D reconstruction has gained substantial attention as an efficient 3D modeling technique. However, challenges remain in extracting detailed features from sketches, representing local geometric structures, and ensuring generated fidelity and stability. To address these issues, in this paper we propose a multi-spectral channel cross-attention model for sketch reconstruction, which leverages the complementary strengths of frequency and spatial domains to capture multi-level sketch features. Our method employs a two-stage diffusion generation mechanism, additionally, a Sparse Feature Enhancement Module (SFE) replaces traditional down-sampling, reducing feature loss and enhancing detail preservation and noise suppression through a Laplace voxel smoothing operator. The Wasserstein distance introduced and integrated as part of the loss function, stabilizes the generative process using optimal transport theory to support high-quality 3D model reconstruction. Extensive experiments verify that our model surpasses state-of-the-art methods in terms of generation accuracy, local control, and generalization ability, providing an efficient, precise solution for transforming sketches into 3D models.}
+}

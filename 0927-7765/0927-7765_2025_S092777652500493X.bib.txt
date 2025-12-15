@@ -1,0 +1,13 @@
+@article{ARIF2025114986,
+title = {Kraft lignin/polyurethane composites with enhanced mechanical strength, bioactive functionality, and superior wet wood adhesion},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114986},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114986},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500493X},
+author = {Maham Arif and Avishek Mallick Choudhury and Aleezay Anjum Ahmed and Vijay Singh Parihar and Md. Elias Uddin and Minna Kellomäki and Pralay Maiti and Rama Layek},
+keywords = {Polyurethane composite resin, Kraft lignin and castor oil, Bio-based additives, Excellent mechanical properties, Wet-state wood bonding strength, Antibacterial activity, Antioxidant activity},
+abstract = {Conventional additives used in composite resins, widely employed in various industrial and domestic applications particularly in polymer composite films and wood adhesives, pose significant environmental and health concerns due to their petrochemical origins. To address this challenge, we developed a novel polyurethane (LPU) composite resin integrated with kraft lignin (KL) as a bio-based additive, exhibiting excellent multifunctional properties. The synthesis involved reacting poly(ε-caprolactone) diol and citric acid with 2,4-toluene diisocyanate, followed by the incorporation of KL and castor oil (CO) as reactive bio-additives to enhance the functionality of the LPU. CO not only improved the bio-content of the LPU but also facilitated the processability of KL during synthesis. The LPU was characterized using FTIR, WAXS, X-FESEM, and SS-CP-MAS 13C NMR techniques. The LPU5 film exhibited a significantly higher tensile strength (8.1 ± 1.0 MPa) compared to the pure PU film (3.6 ± 1.5 MPa). The LPU15 wood adhesive demonstrated improved bio-content along with excellent shear strength and evident wood failure in wet environment, relative to pure PU. Furthermore, LPU composite resin mitigated the oxidative stress and also suppressed the proliferation of Escherichia coli (a Gram-negative bacterium), and Staphylococcus aureus (a Gram-positive bacterium) compared to pure PU. This study introduces a novel strategy for preparing LPU composite resin through the integration of bio-based additives, achieving enhanced bio-content, superior mechanical strength, wet wood-bonding ability, and improved bioactive properties such as antibacterial and antioxidant activity, thereby presenting a sustainable and reliable alternative to petrochemical-based constituents.}
+}

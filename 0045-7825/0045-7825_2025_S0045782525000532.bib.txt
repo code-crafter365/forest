@@ -1,0 +1,13 @@
+@article{ZANI2025117781,
+title = {On adaptive sampling techniques for metamodels based on NURBS entities from unstructured data},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117781},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117781},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000532},
+author = {M. Zani and E. Panettieri and M. Montemurro},
+keywords = {Metamodel, Surrogate model, NURBS, Optimisation, Adaptive sampling, Unstructured data, Additive manufacturing},
+abstract = {The paper investigates the influence of adaptive sampling strategies on the generation of a metamodel based on Non-Uniform Rational Basis Spline (NURBS) entities, obtained from unstructured data, with the purpose of improving accuracy while minimising computational resources. The metamodel is defined as solution of a constrained non-linear programming problem and it is solved through a three-step optimisation process based on a gradient-based algorithm. Moreover, this paper introduces a generalised formulation of the NURBS-based metamodel capable of handling unstructured sampling data, enabling simultaneous optimisation of control points and weights. Sensitivity analyses are performed to evaluate the influence of various adaptive sampling techniques, including cross-validation-based and geometry-based strategies, on the resulting metamodel, in terms of accuracy and computational costs. Analytical benchmarks functions and a complex real-world engineering problem (dealing with the non-linear thermomechanical analysis of a part produced with the fused deposition modelling technology) are used to prove the effectiveness of the NURBS-based metamodel coupled with adaptive sampling strategies in achieving high accuracy and efficiency.}
+}

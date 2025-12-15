@@ -1,0 +1,13 @@
+@article{CHRISTENSEN2025105865,
+title = {Linear filter theory for the forward Laplace transform and its use in calculating 1D EM responses},
+journal = {Computers & Geosciences},
+volume = {198},
+pages = {105865},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105865},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000159},
+author = {Niels Bøie Christensen},
+keywords = {Linear filter theory, Laplace transform, Electromagnetics},
+abstract = {The linear filter theory has previously been used for designing digital filters that allow Hankel and Fourier transforms to be calculated as discrete convolutions between sampled values of the kernel function and a set of filter coefficients. In this paper the linear filter theory is used to design filters for the forward Laplace transform that permit rapid and accurate calculations. Furthermore, it is shown that it is possible to estimate the computational errors. It is demonstrated that, in several cases, the Laplace transform developed in this paper can be used in the calculation of electromagnetic responses, traditionally calculated using Fast Hankel Transform filters. It is shown that for many instrument configurations, the Laplace transform approach is faster that the Fast Hankel Transform.}
+}

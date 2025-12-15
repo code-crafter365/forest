@@ -1,0 +1,13 @@
+@article{RUBIO2025118257,
+title = {Preconditioning iterative solvers via the Empirical Interscale Finite Element Method (EIFEM)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118257},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118257},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005298},
+author = {R. Rubio and A. Ferrer and J.A. Hernández},
+keywords = {Preconditioning, Reduced-order modeling, Architected materials, Multiscale mechanics},
+abstract = {This work explores the use of the Empirical Interscale Finite Element Method (EIFEM) as a novel preconditioner for iterative solvers in the linear elastic regime. Originally developed as a multiscale Reduced Order Model (ROM), EIFEM captures the kinematics of a unit cell and leverages static condensation with a reduced basis to construct a coarse approximation. We integrate EIFEM as a coarse space within a preconditioned conjugate gradient solver, incorporating pre- and post-smoothing steps. Numerical experiments confirm that EIFEM-based preconditioning significantly reduces iteration counts, particularly for near-solid structures. Although non-solid structures also benefit from reduced iteration counts, the convergence rate is lower compared to solid or nearly-solid cases. This behavior stems from the sensitivity of the solver to the accuracy of the ROM approximation, and we show discontinuous edge functions and discuss other potential strategies as a way to enhance this accuracy. In terms of scalability, the preconditioner is robust, maintaining a nearly constant iteration count as the problem size increases. This work is the first application of EIFEM for preconditioning purposes, demonstrating its potential as a scalable and efficient preconditioner for iterative solvers in 2D and 3D geometries.}
+}

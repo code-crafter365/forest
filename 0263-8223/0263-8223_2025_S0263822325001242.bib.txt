@@ -1,0 +1,13 @@
+@article{FENG2025118959,
+title = {Behavior of pultruded I-section GFRP profiles under restrained torsion},
+journal = {Composite Structures},
+volume = {357},
+pages = {118959},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118959},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001242},
+author = {Peng Feng and Juntian Tang and Shuxin Liao and Yuwei Wu and Yu Bai},
+keywords = {Pultruded GFRP, Restrained torsion, Local buckling, Calculation methods},
+abstract = {This work focused on restrained torsion performance and calculation methods of pultruded GFRP I-section profiles. Material shear properties were tested by V-notched tests, showing significant material nonlinearity. Restrained torsion tests were conducted for six I-section profiles. Three I-section failure modes were found: local buckling failure caused by restrained normal stress at the end, shear failure of the flange-web junction at the midspan and compression failure at the end. Subsequently, finite element analysis was conducted. UMAT based on Puck model was utilized to consider the nonlinearity of shear properties, and simulations and experiments agreed well. Shear property nonlinearity had little influence on the I-section restrained torsion behavior. Vlasov theory was extended to orthotropic materials. The formula of local buckling caused by restrained normal stress was developed based on energy theory. Furthermore, calculation methods to predict restrained torsion failure were proposed and compared; the proposed methods were the most effective.}
+}

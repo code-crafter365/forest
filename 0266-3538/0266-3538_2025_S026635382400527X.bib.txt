@@ -1,0 +1,13 @@
+@article{YAN2025110957,
+title = {Expanded graphite encapsulation of nitrates for enhanced thermal transport: Mechanism insight and component screening},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110957},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110957},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400527X},
+author = {Kening Yan and Lin Qiu and Haimo Li and Ning Cao and Yanhui Feng},
+keywords = {Expanded graphite/nitrates, Phase change materials, High-temperature thermal conductivity, Wall attachment effect},
+abstract = {The efficient improvement of the heat transfer capability of high-temperature molten salts and the accurate measurement within the operating temperature range is vital for improving the efficiency of concentrating solar power devices. Through theoretical investigation, this paper explores different thermal properties including thermal conductivity, phase transition properties and interfacial interactions using a range of expanded graphite/nitrates (EG/nitrates). Molecular dynamics simulations reveal that the EG/eutectic salt (ES) exhibits optimal comprehensive properties. Experimentally prepared EG/ES composite phase change materials (PCMs), coupled with theoretical predictions, demonstrate exceptional thermal conductivity (2.2 W m−1 K−1) and a significant latent heat of phase change (>80 J g−1). The calculation results of the interaction energy between the host-guest indicate that the strong interaction of the EG to ES restricts the molecule movement, leading to a weak temperature dependence of the thermal conductivity of the EG/ES composite PCM. This contrasts with the conventional understanding of PCM thermal conductivity, which typically exhibits a sharp change during the phase transition from solid state to liquid state. Additionally, the thermal response of 15 wt% EG/ES is increased by 27.2 % compared to pure ES, which effectively helps alleviate local overheating in practical applications. The progress made so far sheds light on the mechanism behind the improved heat transfer and storage performance of nitrate from a microscopic view, offering valuable theoretical insight for developing high-efficient nitrate PCMs in solar thermal power generation systems.}
+}

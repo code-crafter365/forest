@@ -1,0 +1,13 @@
+@article{DOU2025111134,
+title = {Measurement of interfacial bonding strength between the micro-spherical filler and the matrix in microcapsule/epoxy composites},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111134},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111134},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001022},
+author = {Guijing Dou and Lei Zhao and Weihai Xia and Hanyang Jiang and Zhongyu Piao and Guangjian Peng},
+keywords = {Interfacial bonding strength, Microcapsule, Spherical particle, Resin matrix composites},
+abstract = {Interfacial bonding strength between fillers and matrices is crucial to the mechanical performance of composites. However, quantitatively measuring this strength remains challenging due to the complex geometries and microscale dimensions of fillers. This study presents a novel experimental method to measure the interfacial bonding strength between microparticles and the matrix in microcapsule/epoxy composites. A stepped microchannel structure was fabricated by assembling glass capillaries with inner diameters of 100 μm and 400 μm. This structure facilitated the formation of fiber specimens where a single microcapsule was embedded at the junction of two epoxy fibers with different diameters. After the matrix cured, the external glass capillaries were removed, yielding specimens designed to fail precisely at the interface between the microcapsule and the 100 μm epoxy fiber. The critical debonding load and contact area were meticulously measured to calculate the interfacial bonding strength. The effects of surface modification of microcapsules using three silane coupling agents were systematically investigated. All coupling agents significantly enhanced interfacial bonding strength, with the highest improvement reaching 90.2 %. This innovative method offers a reliable and quantitative means of assessing interfacial bonding strength in composite materials. It holds potential to accelerate the development of high-performance composites and deepen our understanding of their interfacial behaviors.}
+}

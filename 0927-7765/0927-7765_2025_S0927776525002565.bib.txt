@@ -1,0 +1,13 @@
+@article{MING2025114749,
+title = {Dual-stabilized selenium nanoparticles with chitosan and SS31 peptide: Resolving instability for enhancing ROS elimination, suppressing inflammation, and combating bacterial infections},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114749},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114749},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002565},
+author = {Panpan Ming and Yuwen Wei and Yawen Zhu and Kang Li and Wenqing Zhu and Jing Qiu},
+keywords = {Selenium nanoparticles (SeNPs), SS31 peptide, Antioxidant, Infectious diseases, MraY enzyme},
+abstract = {Selenium nanoparticles (SeNPs) hold significant promise for managing inflammatory microenvironments due to their anti-inflammatory, antioxidant, and tissue-regenerative properties. However, their poor stability limits practical applications. To address this, we developed a novel nanocomposite by co-stabilizing SeNPs with chitosan and the mitochondria-targeting peptide SS31 (CS/SS31-SeNPs) via a redox synthesis method. The optimized CS/SS31-SeNPs exhibited a uniform spherical structure (82 nm diameter, +48 mV zeta potential) and exceptional stability (no aggregation over 90 days), as confirmed by dynamic light scattering, TEM, EDX, XPS and TGA analyses. The nanocomposites demonstrated enhanced reactive oxygen species (ROS) scavenging efficiency in vitro and in vivo. In a copper sulfate-induced zebrafish inflammation model, CS/SS31-SeNPs pretreatment reduced neutrophil and macrophage recruitment by 38.07 % and 43.56 %, respectively, outperforming bare SeNPs. Furthermore, CS/SS31-SeNPs exhibited superior antibacterial activity against Staphylococcus aureus, achieving near-complete growth inhibition at 64 μM. Mechanistic studies revealed that the antibacterial action stems from targeting the conserved MraY enzyme in peptidoglycan synthesis. Molecular docking indicated stable binding (-15.6 kcal/mol) of CS/SS31-SeNPs to MraY's uracil pocket and adjacent sites-a mechanism distinct from conventional antibiotics, suggesting broad-spectrum potential. By synergistically integrating chitosan's antibacterial properties with SS31's mitochondrial targeting, CS/SS31-SeNPs overcome SeNPs instability while amplifying their therapeutic efficacy. This multifunctional platform offers a promising strategy for treating oral-craniofacial inflammatory and infectious diseases, with implications for antibiotic resistance mitigation.}
+}

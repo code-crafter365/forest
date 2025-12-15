@@ -1,0 +1,13 @@
+@article{ANTONELLI2025118386,
+title = {Isogeometric analysis for non-Newtonian viscoplastic fluids: challenges for non-smooth solutions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118386},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118386},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006589},
+author = {Nicolò Antonelli and Andrea Gorgi and Rubén Zorrilla and Riccardo Rossi},
+keywords = {Isogeometric analysis (IGA), Shifted Boundary Method (SBM), Stokes equations, Non-Newtonian fluids, Bingham fluids, Variational multiscale (VMS)},
+abstract = {This work explores the application of high-order Isogeometric Analysis (IGA) to the numerical simulation of non-Newtonian viscoplastic fluids, particularly in the presence of yield surfaces and non-smooth solutions. While IGA has demonstrated superior accuracy in smooth problems due to its high-continuity basis functions, its performance in cases with sharp transitions, such as viscoplastic flows with localized singularities, presents unique challenges. To address this, we develop a stabilized isogeometric framework for viscoplastic Stokes flow using the Variational Multiscale (VMS) method, ensuring numerical stability and preventing spurious pressure oscillations in equal-order discretizations. Additionally, we integrate an embedded boundary approach based on the Shifted Boundary Method (SBM) to efficiently handle complex geometries without the need for body-fitted meshes. The effectiveness of this high-order stabilized IGA framework is assessed through numerical benchmarks. The results confirm that high-order B-Spline bases achieve optimal convergence in smooth regions, while their performance near yield surfaces is affected by localized oscillations due to the inherent continuity of the basis functions. Furthermore, we demonstrate that the SBM-IGA formulation successfully enforces boundary conditions in embedded domains while preserving high-order accuracy. These findings provide valuable insights into the role of basis smoothness, stabilization techniques, and embedded formulations in non-Newtonian flow simulations, offering a foundation for future advancements in isogeometric methods for complex fluids.}
+}

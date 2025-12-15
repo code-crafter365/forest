@@ -1,0 +1,13 @@
+@article{ZHAO2025114999,
+title = {PCA-assisted label-free surface-enhanced Raman scattering detection of exosomes in prostate cancer at different stages based on dual-layer membrane g-C3N4@MXene SERS platform prepared by electrodeposition},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114999},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114999},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005065},
+author = {Jialong Zhao and Yasheng Dai and Chenjie Gu and Yi Zhang and Tao Jiang and Liliang Shen},
+keywords = {Prostate-derived exosome, Electrodeposition, Semiconductor heterojunction, SERS detection, Principal component analysis},
+abstract = {Accurate differentiation of prostate cancer at various stages provides a reliable basis for clinical decision-making in cancer treatment. However, there is still no effective protocol to enable the rapid and accurate identification of cancer progression. With the aim to improve the diagnostic efficiency of prostate cancer at different stages, we systematically analyzed exosomes derived from prostate cancer at different stages of disease progression by integrating surface-enhanced Raman spectroscopy (SERS) with principal component analysis (PCA) in this work. Firstly, using a simple two-step electrodeposition strategy, we optimized deposition voltage and time to obtain a non-metallic SERS platform of g-C3N4@MXene with fascinating uniformity and stability. Particularly, this platform not only enhanced molecular enrichment by providing abundant adsorption sites, but also excited prominent SERS spectra of prostate cancer exosomes by promoting charge transfer within the heterostructure of g-C3N4 and MXene. Furthermore, PCA was employed to conduct a detailed analysis of spectral features among the exosomes from different disease stages including early, intermediate, and late cancers. Specially, all these corresponding exosomes were accurately classified, which highlighted the potential of the SERS-PCA technique for exosome-based diagnostics and its utility in precision oncology.}
+}

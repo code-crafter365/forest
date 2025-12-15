@@ -1,0 +1,13 @@
+@article{WANG2025111279,
+title = {Water-resistant, tough, and moldable corn stover-based structural materials through multiple dynamic cross-linking networks in-situ thermal rearrangement strategy},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111279},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111279},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002477},
+author = {Wenjing Wang and Aohong Tang and Wuming Fan and Yida Yin and Zhe Qiu and Yonggui Wang and Tianpeng Zhang and Zefang Xiao and Yanjun Xie},
+keywords = {Cellulose fiber, Dynamic cross-linking, Thermal rearrangement, LCA},
+abstract = {Renewable and biodegradable materials derived from biomass have emerged as promising alternatives to non-biodegradable petroleum-based plastics. However, most biomass-based materials have difficulties meeting the standards required for practical applications regarding water resistance and mechanical properties. Herein, a scalable and efficient bottom-up approach is developed to transform low-value-added corn stover into a tough, moldable, and water-resistant structural material (CSS + CAFe) via a combination of multiple dynamic cross-linking networks' construction and the thermal rearrangement technique. Through the rearrangement of dynamic bonds, including coordination bonds, hydrogen bonds, and ester bonds during hot pressing, the corn stover fibers achieve interface reconfiguration and strong interlayer bonding, resulting in an enhanced water resistance capability (a 41.55% decrease in water absorption and a 154.7% increase in wet strength). The as-prepared CSS + CAFe composite materials deliver superior moldability, which enables them to be processed into tableware. Furthermore, this multiple dynamic cross-linking networks in-situ thermal rearrangement strategy involves only green chemicals, and life cycle assessment (LCA) shows that its production process is more environmentally friendly compared to polypropylene (PP) and low-density polyethylene (LDPE). As such, this work provides a promising approach to producing biodegradable and sustainable structural materials, which are expected to serve as alternatives to petrochemical plastics.}
+}

@@ -1,0 +1,13 @@
+@article{MOREA2025102405,
+title = {Toward assessing serodiagnosis of Q fever in high occupational-risk workers},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {124},
+pages = {102405},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102405},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001134},
+author = {Anna Morea and Paolo Trerotoli and Angela Stufano and Valentina Schino and Giorgio {Di Leone} and Isabella Intino and Francesca Indraccolo and Mariaelisa Carbonara and Giacomo Guido and Francesco {Di Gennaro} and Annalisa Saracino and Domenico Otranto and Filipe Dantas-Torres and Piero Lovreglio and Roberta Iatta},
+keywords = {Diagnosis, Occupational exposure, Q fever, Test performance, Tick exposure, Seroprevalence},
+abstract = {Q fever, a zoonotic disease caused by the bacterium Coxiella burnetii, occurs in acute or chronic forms in humans. Diagnosing acute and chronic Q fever relies mainly on detecting antibody titers against phase II and I antigens by indirect fluorescent antibody test (IFAT), the reference standard test. This study assessed the seroprevalence of anti-Coxiella burnetii antibodies by IFAT in 269 high occupational-risk workers along with the accuracy of an enzyme-linked immunosorbent assay (ELISA) and a chemiluminescent immunoassay (CLIA), routinely used in diagnostic laboratories, compared to IFAT, in detecting both IgM and IgG against phase II and I antigens. The overall seroprevalence in the screened population detected by IFAT was 55 %, including one case with phase I IgG titer > 1:1024 (possible chronic form) and three cases with phase II IgG titers > 1:128 (possible acute form). The seroprevalence recorded by the three tests varied from 36.8 % (IFAT) to 57.2 % (CLIA), up to 78.1 % (ELISA) for phase II IgG. Similarly, phase II IgM and phase I IgG were detected in 3 % and 22.7 % by IFAT and 27.9 % and 39 % by ELISA. ELISA presented high sensitivity (100 % and 96 %) and negative predictive value (100 % and 93.2 %) in detecting phase II IgM and IgG, respectively. Conversely, ELISA and CLIA presented the lowest specificity (i.e., 32.4 % and 55.3 %, respectively) in detecting phase II IgG. These findings suggest that the results of ELISA and CLIA should be confirmed by IFAT, being useful in discriminating between acute, chronic, and past disease, when risk factors (e.g., employment in high-risk occupations) and/or clinical signs for Q fever are suspected.}
+}

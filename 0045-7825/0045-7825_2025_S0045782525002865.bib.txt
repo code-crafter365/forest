@@ -1,0 +1,13 @@
+@article{ANTUONO2025118014,
+title = {Coalescing and break-up of viscous drops with surface tension through the Smoothed Particle Hydrodynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118014},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118014},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002865},
+author = {M. Antuono and S. Marrone and A. Colagrossi},
+keywords = {Surface tension, Smoothed Particle Hydrodynamics, Droplet coalescence and breakup, Energy balance, Free-surface flows},
+abstract = {A study on the phenomena of drop coalescence and break-up is tackled for viscous flows with surface tension. The proposed analysis focuses on single-phase problems and is carried on by using the Smoothed Particle Hydrodynamics (SPH). This scheme allows for a straightforward treatment of the free surface and for an accurate description of the energy balance during the most delicate stages of coalescence and break-up. This latter aspect, combined with theoretical relations on the surface-tension energy, allowed for an in-depth characterization of the above phenomena in terms of energy evolution. A number of numerical test cases are considered in order to support and illustrate the main findings of the proposed work.}
+}

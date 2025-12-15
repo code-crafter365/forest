@@ -1,0 +1,13 @@
+@article{LIU2025108854,
+title = {Nb2CTx MXene/starch hybrid aerogels supported flame-retardant phase change composites with superior solar-thermal conversion efficiency and outstanding electromagnetic interference shielding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108854},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108854},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001484},
+author = {Yuwei Liu and Jiayi Tang and Jiuao Wang and Hao Yue and Zongliang Du and Xu Cheng and Haibo Wang and Xiaosheng Du},
+keywords = {A. Multifunctional composites, A. Hybrid, A. Energy materials, B. Flame/fire retardancy},
+abstract = {The development of form-stable phase change materials (PCMs) that combine solar-thermal storage capacity, electromagnetic interference (EMI) shielding performance, and flame-retardancy is crucial for effective building energy management and conservation. Herein, innovative Nb2CTx MXene/starch hybrid aerogels supported phase change composites (MSPCMs) with superior solar-thermal conversion efficiency, EMI shielding and flame-retardancy were fabricated by selectively etching of Nb2AlC MAX, modifying starch with sodium phytate, constructing MXene/starch hybrid aerogels (MSPAs), and impregnating aerogels with molten n-eicosane. Differential scanning calorimetry (DSC) analyses revealed that MSPCMs exhibited high PCM loading yield (up to 498.9 %) and heat storage density (up to 232.1 J/g). Nb2CTx MXene nanosheets significantly enhanced the solar-thermal storage efficiency (up to 87.9 %) and EMI shielding performance of MSPCMs. Additionally, increasing the content of sodium phytate in MSPAs noticeably reduced the peak heat release rate (pHRR) and the total heat release (THR) of MSPCMs, thereby improving the flame-retardant properties of the synthesized PCM composites.}
+}

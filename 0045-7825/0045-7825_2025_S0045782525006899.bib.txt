@@ -1,0 +1,13 @@
+@article{MA2025118417,
+title = {Structural transient dynamic topology optimization based on autoencoder-enhanced generative adversarial network and elitist guidance evolutionary algorithm},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118417},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118417},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006899},
+author = {Haojie Ma and Xiao Kang and Yixing Huang and Shengyu Duan and Ying Li and Daining Fang},
+keywords = {Machine learning, Generative adversarial networks, Transient nonlinearity, Non-gradient optimization},
+abstract = {Structural transient dynamic optimization faces significant challenges stemming from material nonlinearities and geometric nonlinearities induced by large deformations. These nonlinear phenomena severely complicate gradient-based sensitivity analysis, while conventional non-gradient optimization approaches face limitations including prohibitive computational demands, suboptimal solution quality, and compromised robustness. To overcome these challenges, we present an integrated computational framework synergistically combining an autoencoder-enhanced generative adversarial network with an elitist guidance evolutionary algorithm for nonlinear dynamic optimization. The developed multi-fidelity surrogate modeling architecture achieves dual enhancement in computational efficiency and solution diversity, while the elitism-preserving mechanism in elitist guidance evolutionary algorithm ensures superior convergence characteristics. Furthermore, we introduce a self-supervised criterion noise rate metric for quantitatively evaluating structural performance under transient loads. Results demonstrate that the proposed method improves structural clarity and diversity by 18.56 and 21.55 times compared to conventional methods. Case studies with both cantilever and fixed-end beams across dynamic loading regimes confirm the method’s generalizability. This framework is easily transferable to other engineering fields, offering new insights for solving transient nonlinear problems.}
+}

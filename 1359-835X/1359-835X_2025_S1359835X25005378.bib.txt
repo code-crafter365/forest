@@ -1,0 +1,13 @@
+@article{ZHU2025109243,
+title = {Nervous system inspired interconnected phase change composites with efficient thermal conductive network for sustained power generation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109243},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109243},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005378},
+author = {Chuanbiao Zhu and Xinpeng Hu and Wenling Wang and Xiangyu Yan and Shenglong Xiao and Zhigang Liu and Xiang Lu and Jinping Qu},
+keywords = {Phase change composites, Thermal conductivity networks, Boron nitride nanosheets, Energy conversion},
+abstract = {Phase change composites (PCCs) have become pivotal in advanced thermal energy storage (TES) systems, showing promise in addressing the intermittency of renewable energy sources. However, reconciling the tripartite challenge of achieving high enthalpy, phonon transport enhancement and flexible skeleton is still a grand challenge. Herein, a flexible boron nitride (BN)/ carbon nanotube (CNT)/ cellulose nanofiber (CNF) aerogel is prepared through synergistic non-covalent and covalent interfacial engineering, BCF aerogel achieves exceptional resilience (96% compressive strength retention after 50% compression rebound) and effectively encapsulates polyethylene glycol (90.9 wt% loading) with minimal leakage (1.5 wt% losses after 200 thermal cycles). The BCF@PEG PCCs features a unique 3D fibrous “thermal track” structure inspired by neural signal pathways, wherein the BN nanosheets are densely assembled in a face-to-face configuration along the surface of CNF bundles, CNT-COOH bridged the gaps between BN sheets. The core-sheath architecture significantly mitigates interfacial thermal resistance while achieving an unprecedented thermal conductivity enhancement efficiency of 69.9% wt−1%, outperforming conventional blending methods by over 17-fold. Notably, the BCF@PEG-integrated thermoelectric module exhibit uninterrupted power generation under intermittent solar irradiation through adaptive phase-change regulation. This method provides a scalable paradigm for designing multifunctional BN-based PCCs toward sustainable energy infrastructure.}
+}

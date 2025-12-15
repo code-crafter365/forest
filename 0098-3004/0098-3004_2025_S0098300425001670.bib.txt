@@ -1,0 +1,13 @@
+@article{MA2025106017,
+title = {An improved method for pore size distribution measurement of porous geomaterials based on microscopic images},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {106017},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.106017},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001670},
+author = {Shijia Ma and Jiangfeng Liu and Zhipeng Wang and Ruinian Sun and Xinyue Zhang and Hongyang Ni},
+keywords = {Digital core, Microscopic characterization, Pore size distribution, Morphological transformation, Permeability prediction},
+abstract = {Pore size distribution (PSD) is vital for characterizing microscopic information and fluid transport in geomaterials, but traditional methods struggle with irregular pore shapes and digital imaging errors, often leading to inaccurate results. This study presents an improved morphological transformation-based algorithm that iteratively fills voids with maximal circles or spheres and introduces an optimized scheme for small-pore representation, significantly reducing measurement errors. Validation on eight 2D scanning electron microscope and six 3D computer tomography images shows the proposed method achieves up to 67 % lower relative error for small pore sizes and produces permeability predictions with a mean deviation within 3 % of experimental values, outperforming established techniques. Statistical analysis confirms that, for most samples, predicted permeability values fall within or approaching the 95 % confidence interval of measured data, demonstrating robust consistency across imaging sources and magnifications. Furthermore, the quantitative evaluation of pore geometry and PSD curves using different methods reveals that complex and randomly distributed pore geometries strongly influence PSD curve morphology, underscoring the importance of geometric characterization. These advancements enable more reliable and repeatable pore structure quantification, offering practical value for geoscience and engineering applications.}
+}

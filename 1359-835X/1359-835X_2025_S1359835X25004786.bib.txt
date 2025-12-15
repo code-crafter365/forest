@@ -1,0 +1,13 @@
+@article{SHEN2025109184,
+title = {Unraveling non-linear thickness-property relationships in plain weave carbon fabric/acrylic resin composites: Experimental investigation and mechanistic insights},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109184},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109184},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004786},
+author = {Yan Shen and Cheng Qiu and Wanrui Zhang and Jianchao Zou and Weizhao Zhang and Jinglei Yang},
+keywords = {Thickness effect, Plain weave carbon fabrics, Acrylic resin, Curing process, Mechanical properties},
+abstract = {This study systematically investigated the effect of laminate thickness on the static mechanical properties of plain weave carbon fabric/acrylic resin composites. Experimental results revealed a non-linear positive correlation between laminate thickness and tensile and compressive strengths, contrasting to the negative thickness effect reported in epoxy resin-based composites with similar reinforcement. Flexural strength exhibited a multi-stage response to increasing laminate thickness. The underlying thickness effect mechanisms were deeply explored by tracing the interconnected “Material-Process-Structure-Property” relationship. The findings showed that the positive thickness effect was attributed to the acrylic resin’s low viscosity and significant volumetric shrinkage interplayed with enhanced fabric compaction under vacuum, which nonlinearly reduced fabric thickness and crimp angle while increased fiber volume fraction (Vf). The reduced crimp angle and fabric thickness improved fiber alignment and load transfer effect yet decreasing the flexural strain at failure. The increased Vf in thicker laminates enhanced their fiber-dominated properties. Because of the coupling effect between the increased flexural modulus due to the increased Vf and the decreased flexural strain due to the reduction in crimp angle and its inherent inverse relationship with overall thickness, the flexural strength exhibited a multi-stage response to increasing total layer number. The equivalent interlaminar shear strengths and their low CoVs demonstrated the uniformity of matrix properties and interlaminar bonding which suggested the stability of manufacturing process across laminates with 8–20 layers. This comprehensive investigation provides practical insights for tailoring composite designs with special consideration of resin properties in the emerging applications of the plain weave carbon/acrylic resin composites.}
+}

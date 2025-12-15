@@ -1,0 +1,13 @@
+@article{XIA2025108824,
+title = {Analytical modeling for four-point asymmetric end-notched flexure delamination test of composite laminates considering interlaminar friction},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108824},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108824},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001186},
+author = {Kaixin Xia and Fengrui Liu and Yu Gong and Xinxin Qi and Linjuan Wang and Libin Zhao and Ning Hu},
+keywords = {Polymer-matrix composite, 4AENF, Fracture toughness, Interlaminar friction},
+abstract = {The four-point asymmetric end-notched flexure (4AENF) test under shear loading often involves a mode I component, making it a representative mixed-mode I/II delamination problem. The 4AENF configuration reflects the general delamination behavior in defective laminates, emphasizing the need to characterize interlaminar fracture toughness. Despite its importance, research on 4AENF is limited, and existing models overlook interlaminar friction. This study develops a theoretical model based on Timoshenko beam theory and a two-point friction assumption, enabling analytical calculation of total strain energy release rate (SERR) for any 4AENF configuration, explicitly considering interlaminar friction. Experimental tests and finite element method (FEM) analyses validate the model, using unidirectional (UD) symmetric, UD asymmetric, and multidirectional (MD) asymmetric laminates. Theoretical predictions, experimental results, and FEM analyses are compared, confirming the model’s applicability and highlighting the effects of interlaminar friction.}
+}

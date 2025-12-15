@@ -1,0 +1,13 @@
+@article{YANG2025109066,
+title = {Anisotropy effects in micro-hole drilling of 2.5D-Cf/SiC composites: Insights from nanoindentation and drilling experiments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109066},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109066},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003604},
+author = {Haotian Yang and Guolong Zhao and Zhiwen Nian and Li Zhu and Qixun Wu and Liang Li},
+keywords = {2.5D-C/SiC composites, Micro-hole drilling, Anisotropy of C/SiCs, Hole quality},
+abstract = {Carbon fiber-reinforced ceramic matrix composites (Cf/SiCs) are widely used in aerospace applications such as thermal protection systems, nozzle linings, and micro-channel cooling structures due to their high strength-to-weight ratio and thermal stability. However, their anisotropy and hardness complicated micro-hole drilling, and detailed studies on tool wear initiation and failure mechanisms across various diameters are scarce. A novel method to assess drilling stability by integrating regional material hardness and cutting-edge contact length is proposed, and the influence of drill diameter on tool wear, drilling forces, and hole quality is investigated. Nanoindentation results confirm that the silicon carbide (SiC) exhibits the highest hardness, followed by perpendicular fibers, 45° fibers, and transverse fibers. Drilling force measurements reveal that thrust force and radial force increase with increased drill diameter. As the machined hole diameter increases, the exit damage factor increases, while the entrance roundness error decreases. With increasing drill diameter, the hole wall surface roughness first decreases and then rises. Furthermore, smaller diameter holes are prone to neck fractures and failures at the braze joint under bending and torsional stresses. In contrast, larger diameter drills with higher stiffness mainly exhibit edge chipping and abrasive wear. In addition, tool wear rate increases with drill diameter.}
+}

@@ -1,0 +1,13 @@
+@article{ATASHIPOUR2025119219,
+title = {Flexible N-layer composite beam/column elements with interlayer partial interaction imperfection–A novel approach to structural stability and dynamic analyses},
+journal = {Composite Structures},
+volume = {367},
+pages = {119219},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119219},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003848},
+author = {Seyed Rasoul Atashipour and Noël Challamel and Ulf Arne Girhammar and Peter D. Folkow},
+keywords = {Interlayer partial interaction imperfection, Partial-composite models, Flexible number of identical constituting layers, Buckling and vibration formulae, Conversion coefficient},
+abstract = {Existing vibration and buckling analysis models for the partial-composite beam/column elements are restricted to a limited number of constituting layers. This is due to the escalated complexity of the governing equations with an increase in the number of layers. The present study formulates the stability and vibration problems of columns and beams composed of any number of identical constituting layers, incorporating the effects of interlayer partial-interaction imperfection. A Timoshenko/Engesser-hypothesis-based partial-composite (TEPC) model is developed and a novel analytical solution scheme is implemented into the extracted governing differential equations. As a result, efficient conversion coefficients are introduced, converting the well-known classical Euler column buckling and beam vibration formulae to those of multilayer elements having interlayer partial-interaction imperfection based on the TEPC model. The validity of the proposed approach is verified through comparison with available experimental data and the conducted 3-D FEA. It is shown that the most significant reduction in the predicted buckling capacity of partial-composite multilayer columns, when transitioning from the EBPC model to TEPC, occurs for the columns with the highest interlayer interaction. Furthermore, it is shown that the influence of interlayer interaction level on the Euler-to-Timoshenko/Engesser conversion coefficients becomes less pronounced as the number of constituting layers increases.}
+}

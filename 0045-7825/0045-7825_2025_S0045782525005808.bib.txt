@@ -1,0 +1,13 @@
+@article{KIYANI2025118308,
+title = {Optimizing the optimizer for physics-informed neural networks and Kolmogorov-Arnold networks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118308},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118308},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005808},
+author = {Elham Kiyani and Khemraj Shukla and Jorge F. Urbán and Jérôme Darbon and George Em Karniadakis},
+keywords = {Quasi-Newton methods, Second-order optimization, Kolmogorov-Arnold networks (PIKANs), Physics-informed neural networks (PINNs)},
+abstract = {Physics-Informed Neural Networks (PINNs) have revolutionized the computation of PDE solutions by integrating partial differential equations (PDEs) into the neural network’s training process as soft constraints, becoming an important component of the scientific machine learning (SciML) ecosystem. More recently, physics-informed Kolmogorv-Arnold networks (PIKANs) have also shown to be effective and comparable in accuracy with PINNs. In their current implementation, both PINNs and PIKANs are mainly optimized using first-order methods like Adam, as well as quasi-Newton methods such as BFGS and its low-memory variant, L-BFGS. However, these optimizers often struggle with highly non-linear and non-convex loss landscapes, leading to challenges such as slow convergence, local minima entrapment, and (non)degenerate saddle points. In this study, we investigate the performance of Self-Scaled BFGS (SSBFGS), Self-Scaled Broyden (SSBroyden) methods and other advanced quasi-Newton schemes, including BFGS and L-BFGS with different line search strategies. These methods dynamically rescale updates based on historical gradient information, thus enhancing training efficiency and accuracy. We systematically compare these optimizers – using both PINNs and PIKANs – on key challenging PDEs, including the Burgers, Allen-Cahn, Kuramoto-Sivashinsky, Ginzburg-Landau, and Stokes equations. Additionally, we evaluate the performance of SSBFGS and SSBroyden for Deep Operator Network (DeepONet) architectures, demonstrating their effectiveness for data-driven operator learning. Our findings provide state-of-the-art results with orders-of-magnitude accuracy improvements without the use of adaptive weights or any other enhancements typically employed in PINNs. More broadly, our results reveal insights into the effectiveness of quasi-Newton optimization strategies in significantly improving the convergence and accurate generalization of PINNs and PIKANs.}
+}

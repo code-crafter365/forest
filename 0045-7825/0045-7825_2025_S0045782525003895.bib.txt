@@ -1,0 +1,13 @@
+@article{KUHN2025118117,
+title = {Quasi-static loading of granular media as a linear complementarity problem},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118117},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118117},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003895},
+author = {Matthew R. Kuhn},
+keywords = {Complementarity, Granular material, Bifurcation, Stability, Friction},
+abstract = {The discrete quasi-static response of rate-independent dissipative granular media is addressed. Granular systems are conventionally simulated with methods that are intrinsically dynamic, such as the discrete element (DEM) and discontinuous deformation (DDA) methods, with the particles’ accelerations and damping being essential aspects. In contrast, quasi-static methods derive from the static stiffness relationships among the particles. With frictional contacts, an assembly’s stiffness is incrementally non-linear and dependent on the direction of loading. The paper resolves this difficulty by casting the response as a linear complementarity problem (LCP). The approach benefits from a foundation of past research on existence, uniqueness, and stability of LCP solutions. Results of this research are expounded in a concise set of rules. The LCP of a granular system is derived, accounting for geometric effects that arise from curvatures of particles at their contacts, frictional contact stiffnesses, and displacement constraints on the particles. A Bott–Duffin generalized inverse is used for resolving the displacement constraints. The paper describes eight aberrant conditions (pathologies) of granular systems, in the forms of various bifurcations and instabilities. When placed in the context of an LCP, the eight conditions are unambiguously defined. These pathologies include three types of bifurcation: discrete, continuous-bounded (not yet reported in the literature), and continuous-unbounded. Another pathology, not yet reported in the literature, is an abrupt discontinuous change in movements upon a continuous change of the data. Methods and results are illustrated with examples of granular systems. Results show that instability and bifurcation are pervasive conditions near failure; that failure and softening are sensitive to the geometric contours of the particles at contacts; and that quasi-static systems can encounter states that require a dynamic transition to resolve a lack of paths consistent with further loading.}
+}

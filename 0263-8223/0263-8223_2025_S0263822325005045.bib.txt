@@ -1,0 +1,13 @@
+@article{WANG2025119339,
+title = {Surface state induced velocity transition for layered carbon nanotube films under transverse penetration loading},
+journal = {Composite Structures},
+volume = {369},
+pages = {119339},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119339},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005045},
+author = {Pengfei Wang and Wenshuai Wang and Jie Tian and Zhenhua Song and Songlin Xu},
+keywords = {Carbon nanotube film, Dynamic penetration, Interface strengthening, Velocity-dependent},
+abstract = {Carbon nanotube (CNT) films, consisting of entangled two-dimensional networks, exhibit prominent surface-dependent characteristics. Lubricants have been recognized as an effective strategy for reducing interfacial friction. However, experimental evidence indicates that lubricants unexpectedly increased the interfacial friction, demonstrating a counterintuitive velocity-dependent behavior. To elucidate the anomalous interfacial dynamics, experimental and computational methodologies were employed to systematically investigate the transverse penetrating behaviors of CNT films with different interface states and loading velocities. Experimental results indicate that the lubricant exhibits a decreasing trend at lower relative velocities, but transitions from decreasing to strengthening behavior as penetration velocity increases. The proposed equation reveals that the strengthening mechanism is not solely velocity-dependent but is jointly governed by the load magnitude and surface conditions. The high specific surface area of CNT films induces enhanced interface states and pronounced velocity-dependent characteristics, which collectively govern the fracture pattern observed in films subjected to distinct surface stress conditions. Deciphering the lubricant-induced velocity-transition mechanisms in CNT films yields new theoretical insights into interface-governed penetration behavior, while establishing material design principles for engineering impact-resistant membranes with tunable energy dissipation pathways.}
+}

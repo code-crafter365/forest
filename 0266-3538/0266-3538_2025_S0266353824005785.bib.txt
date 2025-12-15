@@ -1,0 +1,13 @@
+@article{LI2025111007,
+title = {Biobased solvent-free fluids based on spherical cellulose nanocrystals for epoxy nanocomposite adhesive reinforcement},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111007},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111007},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005785},
+author = {Nan Li and Tao Liu and Chengyu Shi and Xiangrong Shi and Hanqi Qian and Qingyuan Cao and Juxiang Chen and Yudong Huang and Xiangtao Yu and Bo Jiang},
+keywords = {Covalent grafting, Dispersibility, Nanofluids, Spherical cellulose nanocrystals},
+abstract = {The incorporation of nanoparticles into epoxy resin constitutes a highly effective strategy for the development of high-performance adhesives. Biobased spherical cellulose nanocrystals (SCNCs), which exhibit renewability and high specific surface area, are constantly plagued by aggregation structures during the blending modification process for enhancing and toughening epoxy nanocomposite adhesives. Here, a universal strategy to manufacture solvent-free spherical cellulose nanocrystalline fluids (SCNCs–F) was reported by covalent grafting of flexible organic chains. As expected, SCNCs–F, showing good fluidity and dispersion stability at room temperature due to the barrier function of organic chains, was expected to address the aggregation issue of SCNCs in epoxy adhesives. In addition, we successfully prepared various SCNCs–F by changing the kind of flexible organic chains, demonstrating the feasibility of this universal strategy. As a proof of concept, the modification effect of incorporating SCNCs–F as a single component filler into epoxy adhesives was studied. The uniform dispersion of SCNCs–F and its robust interfacial interaction with the matrix qualified the epoxy adhesives with excellent adhesive strength (lap shear strength of 20.64 MPa) and decent toughness (work of debonding of 19027 N/m). This work is expected to facilitate the development of novel solvent-free nanofluids and establish a pathway for the application of biomass cellulose materials in epoxy nanocomposite adhesives.}
+}

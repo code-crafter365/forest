@@ -1,0 +1,13 @@
+@article{WANG2025111109,
+title = {Stabilizing free radical crosslinked dielectric polymers with metal-organic frameworks: An efficient approach to mitigating dielectric deterioration},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111109},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111109},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000776},
+author = {Zeru Wang and Xie Wang and Hanxue Ren and Xiaotao Zhu and Zeming Fang and Qianfa Liu and Ke Wang},
+keywords = {Metal-organic frameworks, Thermosetting composites, Thermal-oxidation aging, Dielectric degradation, Oxidation resistance},
+abstract = {The rise of 5G and 6G technologies has heightened the demand for ultra-low dielectric loss thermosetting composites in advanced electronics. A significant challenge is dielectric degradation at elevated temperatures, primarily due to increased molecular polarizability from thermal aging. Traditional stabilization strategies are ineffective because of their incompatibility with free radical cross-linking reactions and their negative impact on dielectric performance. This study incorporates UiO-66, a metal-organic framework, into thermosetting polyphenylene oxide/1,2-polybutadiene systems, yielding composites with enhanced oxidation resistance and dielectric stability without impeding cross-linking. After 14 days of aging at 150 °C, the UiO-66-modified composite exhibited exceptional dielectric stability, with its dielectric loss increasing to only one-sixth compared to the unmodified system. Fourier-transform infrared and X-ray photoelectron spectroscopy analyses indicate that UiO-66 mitigates the oxidation of unreacted double bonds and delays the formation of C–O and CO groups. These improvements are attributed to UiO-66's exceptional oxygen/ozone adsorption capabilities, along with its free radical quenching abilities, facilitated by its high surface area, porous structure, and abundant open metal sites, confirmed by electron paramagnetic resonance and density functional theory analyses. Furthermore, UiO-66 reduces thermal expansion and increases modulus. This study opens a new avenue for designing and developing high-performance electronic materials with customizable structures and properties.}
+}

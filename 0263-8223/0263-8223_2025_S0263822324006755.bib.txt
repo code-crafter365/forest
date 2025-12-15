@@ -1,0 +1,13 @@
+@article{LIU2025118547,
+title = {Investigation on 2D SiCf/SiC composite scribing mechanism by single- and double-grit},
+journal = {Composite Structures},
+volume = {351},
+pages = {118547},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118547},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006755},
+author = {Yao Liu and Youzhe Wang and Zhigang Zhao and Linzheng Ye and Jinjie Zhou},
+keywords = {Single-grit scribing, Double-grit scribing, SiC/SiC composite, Fiber orientation, Scribing force, Surface topography},
+abstract = {To validate the proposed removal mechanism of 2D SiCf/SiC composite, single- and double-grit scribing experiments were conducted on the fiber woven surface (WS) and stacking surface (SS) along the 0°, 45°, and 90°. The results indicate that transverse fibers mainly undergo shear, tensile, and bending fractures. The removal modes of normal fibers are shear and bending fractures. The longitudinal fibers are damaged by tensile (cut-in side) and bending (cut-off side) fractures, accompanied by fiber peel-off. The removal forms of the matrix include crack propagation, ductile scratch, powdery removal, and brittle peel-off. The order of scribing force is FSS0 > FWS45 > FSS90 > FWS0. The maximum and minimum scribing force occur on SS0 and WS0, respectively, due to the powdery removal of matrix and fibers + matrix peel-off. The 2nd grit scribes the matrix layer and fiber tip in a very low depth to cause powdery and ductile removal, which exhibit the different material removal mechanism with the 1st grit. The scribing damage formed by 1st grit greatly reduces the force required by the 2nd grit for the same material removal volume. The coupling effect among grits in multi-grit scribing and grinding cannot be ignored.}
+}

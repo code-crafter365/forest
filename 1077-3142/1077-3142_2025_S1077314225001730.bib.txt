@@ -1,0 +1,13 @@
+@article{XING2025104450,
+title = {Training-free diffusion for controlling illumination conditions in images},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104450},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104450},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001730},
+author = {Xiaoyan Xing and Tao Hu and Jan Hendrik Metzen and Konrad Groh and Sezer Karaoglu and Theo Gevers},
+keywords = {Diffusion models, Illumination control, Intrinsic images, Deep learning, Low-level vision},
+abstract = {This paper introduces a novel approach to illumination manipulation in diffusion models, addressing the gap in conditional image generation with a focus on lighting conditions. While most of methods employ ControlNet and its variants to address the illumination-aware guidance in diffusion models. In contrast, We conceptualize the diffusion model as a black-box image render and strategically decompose its energy function in alignment with the image formation model. Our method effectively separates and controls illumination-related properties during the generative process. It generates images with realistic illumination effects, including cast shadow, soft shadow, and inter-reflections. Remarkably, it achieves this without the necessity for learning intrinsic decomposition, finding directions in latent space, or undergoing additional training with new datasets.}
+}

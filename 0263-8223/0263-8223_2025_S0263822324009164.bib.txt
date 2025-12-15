@@ -1,0 +1,13 @@
+@article{ARANDA2025118788,
+title = {Single lap joint (SLJ) fracture assessment of 3D printing composite parts using structured and flat interface definitions: Experimental and numerical study},
+journal = {Composite Structures},
+volume = {355},
+pages = {118788},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118788},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009164},
+author = {M.T. Aranda and L. Távara and J. Reinoso and P.P. Camanho},
+keywords = {Single-lap joint test, Structured interfaces, Biomimetic interfaces, 3D printing, Additive layer manufacturing, Fiber-reinforced composites, Cohesive elements, Cohesive zone modelings},
+abstract = {Additive Layer Manufacturing introduces a new paradigm in terms of interface design, allowing for the reproduction of nature-inspired geometrical patterns. The present investigation employs Fused Deposition Modeling including glass reinforcement materials to manufacture single lap bonded joint (SLJ) specimens including flat and structured interfaces. Four different configuration patterns were fabricated, tested and numerically simulated in order to evaluate the impact of the structured interface on the quasi-static tensile failure of the bonded joints. Numerical FE-based simulations using Cohesive Zone Models along the adhesive layer were performed in order to analyze the stress distribution and the crack progression along the overlap. Current results pinpoint that the incorporation of a structured interface including continuous fibers at the interface region increases the shear strength over 27% in comparison with standard flat interface definitions and delays the initiation and complete joint failure. Both computational and experimental results confirm that SLJs with tooth-shaped (structured) interfaces enhance the structural strength and retard debonding.}
+}

@@ -1,0 +1,13 @@
+@article{MAHAJAN2025104357,
+title = {OrthoCAD-322K: A cross-modal approach for retrieving 3D CAD models from orthographic views using a graph-based framework on a developed large-scale dataset},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104357},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104357},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001980},
+author = {Swapnil Nagnath Mahajan and Karthik Krishna M. and Ramanathan Muthuganapathy},
+keywords = {2D to 3D CAD retrieval, Orthographic views, Cross-modal learning, Graphormer, Engineering drawing dataset, Industrial CAD retrieval},
+abstract = {Despite the widespread adoption of 3D CAD systems, 2D orthographic drawings remain integral to engineering workflows. However, millions of legacy drawings lack corresponding 3D models, hindering their integration into modern simulation, manufacturing, and digital twin systems. Existing methods for 2D to 3D CAD retrieval often fall short of meeting the structural precision required for engineering-grade drawings. We propose a cross-modal retrieval framework that aligns vector-based 2D DXF (Drawing Exchange Format) views with 3D CAD models using contrastive learning. Our architecture integrates a Graphormer-based encoder for 2D input and a PointNet-based encoder for 3D CAD models. We introduce a novel proximity-based spatial encoding to enhance structural precision and robustness across varying view configurations. Using the filtered subset (∼283K) of the newly developed large-scale dataset OrthoCAD-322K, extensive ablation and comparison studies demonstrate the robustness and generalization of the model in different input conditions and architectures. Source code is available at https://github.com/Swapnil-Mahajan-MS/OrthoCAD-322K.}
+}

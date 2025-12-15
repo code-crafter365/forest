@@ -1,0 +1,13 @@
+@article{LIU2025117726,
+title = {Efficient global sensitivity analysis framework and approach for structures with hybrid uncertainties},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117726},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117726},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009824},
+author = {Jinxing Liu and Yan Shi and Chen Ding and Michael Beer},
+keywords = {Hybrid uncertainties, Variance-based global sensitivity analysis, Sobol’ indices, Radial basis function network, Analytical solution},
+abstract = {Engineering structures are often subject to various types of uncertainties, including random, interval, and fuzzy uncertainties. When dealing with hybrid uncertainties, global sensitivity analysis (GSA) becomes particularly challenging due to the computational complexity associated with double-loop procedures in numerical simulations. In this paper, an efficient framework for GSA with hybrid uncertainties is proposed. Generally, surrogate models, such as the radial basis function neural network (RBFNN), are used to reduce computational efforts by replacing real response functions. Then global sensitivity indices can be obtained efficiently by combining with numerical simulation-based methods. However, this process can introduce additional sources of error due to the stochastic nature of the simulations. This paper presents a general framework for GSA with hybrid uncertainties, where variance-based indices for random, interval and fuzzy inputs are defined. Furthermore, to avoid the error propagation commonly associated with simulation-based techniques and to improve the computational efficiency, analytical solutions for these indices and the gradient of the output variance are derived based on the RBFNN. An additional validation strategy is designed to verify the importance ranking of uncertain inputs. Four applications are introduced to demonstrate the efficiency and accuracy of the proposed method for GSA with hybrid uncertainties.}
+}

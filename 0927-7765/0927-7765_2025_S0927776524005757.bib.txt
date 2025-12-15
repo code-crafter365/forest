@@ -1,0 +1,13 @@
+@article{SUN2025114316,
+title = {A novel multifunctional PEEK internal fixation plate regulated by Gentamicin/chitosan coating},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114316},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114316},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005757},
+author = {Jingfeng Sun and Jinying Li and Aiting Shan and Lijuan Wang and Jiaming Ye and Shaochuan Li and Wuyi Zhou},
+keywords = {Polyetheretherketone, Internal fixation plate, Functional coating, Bone infection, Sustained release},
+abstract = {Polyetheretherketone (PEEK) has been broadly used in orthopedic implant devices. Nevertheless, the bioinert tended to cause implant loosening and bacterial infection in orthopedic and trauma surgery. In this study, a drug-laden chitosan coating (CS) was constructed and deposited on the porous surface of PEEK (CG-SPEEK) internal fixation plate for multi-functionalization. The physical characterizations of CG-SPEEK were further investigated in the morphology, hydrophilicity, surface energy, roughness, drug release and mechanical properties. CG-SPEEK exhibited excellent antibacterial capabilities in both Staphylococcus aureus and Escherichia coli compared to other groups. Besides, BMSCs cells showed better biocompatibility and certain osteogenic activity on composite coating in vitro. Furthermore, CG-SPEEK promoted bone regeneration to some extent and express certain effect against infections in vivo study. Overall, combining personalized design and modification is an innovative strategy to realized functionalization, which may have a strong potential in clinical application.}
+}

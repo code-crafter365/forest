@@ -1,0 +1,13 @@
+@article{QIAN2025109267,
+title = {Self-sensing actuators and piezoresistive sensors based on biodegradable and multi-responsive shape memory PBAT/PCL foams for machine learning-enabled multimodal intelligent monitoring},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109267},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109267},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005615},
+author = {Huan Qian and Zheng Gong and Xiulu Gao and Yichong Chen and Ling Zhao and Dongdong Hu},
+keywords = {Shape memory, Multi-response, Biodegradable, Machine learning, Sensor},
+abstract = {With the rapid development of artificial intelligence technology, intelligent sensing and monitoring is evolving from single-modality sensor data acquisition to multimodal and adaptive perception, a development that aligns with the strategies of green environmental protection and sustainable development. Machine learning-based multimodal intelligent monitoring employ smart sensors to collect diverse sensory data. The smart sensor is a biodegradable, reusable and multi-responsive shape memory PBAT/PCL foam prepared by one-step supercritical CO2 foaming and sinter molding. The foam exhibits multi-responsive actuation under thermal, near-infrared light, and microwave stimuli. Functionally, this foam can serve as a self-sensing actuator capable of lifting up to 40 times its own weight upon external stimulation. Furthermore, it operates as a contact-separation nanogenerator with shape memory-controlled alternating current output, generating a maximum voltage of 1.3 V. As a piezoresistive sensor, the foam demonstrates a gauge factor of 25.54 and a response time of 175 ms, and stability over1,000 cycles, confirming its practicality and reproducibility. Notably, the shape memory effect enables tunable sensor sensitivity. Integration of shape memory sensor and machine learning-based multimodal intelligent recognition enables to predict with 100 % accuracy. This technology demonstrates broad application prospects in industrial equipment health management, human–machine interaction, smart healthcare, and environmental monitoring, providing innovative solutions for more precise and adaptive real-time monitoring and early warning systems.}
+}

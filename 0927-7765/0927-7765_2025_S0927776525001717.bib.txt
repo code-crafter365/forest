@@ -1,0 +1,13 @@
+@article{TRUSZKOWSKA2025114664,
+title = {Exploring glutathione-decorated micelles for drug delivery: A promise for enhanced cellular uptake},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114664},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114664},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001717},
+author = {Martyna Truszkowska and Elsa Reisenberger and Gergely Kali and Daniel Stengel and Ahmad Saleh and Anna Seybold and Tobias Kipura and Marcel Kwiatkowski and Andreas Bernkop-Schnürch},
+keywords = {Palmitic acid, Glutathione, Thiolated micelles, Cellular uptake, Diffusion time},
+abstract = {This study aimed to evaluate the effect of thiolated micelles on the cellular uptake of their payload. Reduced and oxidized glutathione were covalently attached to palmitic acid via amide bond formation. Micelles formed with these thiolated surfactants (MP-GSH and MP-GSSG-P) were evaluated regarding critical micellar concentration (CMC) and hemolytic activity. Cytotoxicity was evaluated on HEK 293 and HeLa cells. Diffusion of micelles in these cells was evaluated by fluorescence correlation spectroscopy (FCS). Furthermore, cellular uptake of micelles containing coumarin-6 as model drug was analyzed by flow cytometry and confocal laser scanning microscopy. CMC of MP-GSSG-P, MP-GSH, and palmitic acid micelles (MPA) was determined to be 0.455 mM, 0.166 mM, and 0.046 mM, respectively. At a concentration of 0.5 % MP-GSSG-P, MP-GSH, and MPA caused around 80 % hemolysis. In HEK cells, MP-GSSG-P exhibited toxicity at a concentration of 0.25 %, while MP-GSH showed toxicity at 0.06 % after 4 hours of incubation. In contrast, HeLa cells were more resilient, with only MP-GSH showing toxicity at 0.25 %. Diffusivity of MP-GSH and MP-GSSG-P within the cells was higher than that of MPA. Cellular uptake studies demonstrated a significantly (p < 0.05) enhanced internalization of MP-GSH and MP-GSSG-P, that was 112-fold and 270-fold higher in HEK 293 cells and 12-fold and 60-fold higher in HeLa cells when compared to MPA. These findings suggest that MP-GSH and MP-GSSG-P could serve as promising vehicles for enhancing cellular uptake of drugs.}
+}

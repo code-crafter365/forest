@@ -1,0 +1,13 @@
+@article{VARGASROJAS2025103837,
+title = {Non-geodesic filament winding: Derivation process and resolution of a pair of ordinary differential equations in arc length based on vector projection},
+journal = {Computer-Aided Design},
+volume = {181},
+pages = {103837},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103837},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001647},
+author = {Erik Vargas-Rojas and Francis Collombet},
+keywords = {Composites, Curvature vector, Filament winding, Intrinsic differential geometry, Non-geodesic, Ordinary differential equation},
+abstract = {Non-geodesic filament winding allows the manufacturing of various surfaces of revolution, including those once considered unsuitable for this process, such as Gaussian depressions (i.e., concavities), through numerical solutions of standard path equations without the need for ingenious workarounds. In this context, one of these mathematical models is thoroughly examined. It consists of an ordinary differential equation in arc length that has been exclusively applied to cylindrical geometries. The initial derivation technique is repeated with the aim of reformulating it in a more general manner, using intrinsic differential geometry concepts. As a result, a second equation, similar to the desired one but slightly more complex, is obtained. To verify its validity through comparison with the first equation, each is restated as a system of two differential equations that define the position of the path points of the fiber reinforcement, with the aid of cylindrical coordinates. Three geometries are chosen to validate the numerical solutions: a right circular cylinder, an exponential function that produces an axisymmetric Gaussian depression, and a third-degree polynomial that outlines a divergent nozzle. The solutions show that both systems of equations yield stable, predictable, and conventional results for all geometries, systems, and solving strategies. When the resolution is “forward” (i.e., the independent variable is the winding angle α: dx/dα=α′−1), the process is more elaborate. In contrast, it is straightforward when the resolution is “inverse” (α′). Regarding the nozzle, comparison with an equation derived by another method, based on the geodesic and normal curvatures of the surface, reveals that the derived equation offers a broader solution range along the α-axis and can handle higher friction coefficient values than those reported in the literature. Consequently, the newly derived equation demonstrates greater comprehensiveness and applicability. It is concluded that the derivation procedure is well-defined and that both equations are effective for advancing filament winding methods.}
+}

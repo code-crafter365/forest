@@ -1,0 +1,13 @@
+@article{ZHU2025117655,
+title = {Extended physics-informed extreme learning machine for linear elastic fracture mechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117655},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117655},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009095},
+author = {Bokai Zhu and Hengguang Li and Qinghui Zhang},
+keywords = {Machine learning, Extreme learning machine, Crack, Singularity, Accuracy},
+abstract = {The machine learning (ML) methods have been applied to numerical solutions to partial differential equations (PDEs) in recent years and achieved great success in PDEs with smooth solutions and in high dimensional PDEs. However, it is still challenging to develop high-precision ML solvers for PDEs with non-smooth solutions. The linear elastic fracture mechanics equation is a typical non-smooth problem, where the solution is discontinuous along with the crack face and has the radial singularity around the crack front. The general ML methods for the linear elastic fracture mechanics can achieve a relative error for displacements, about 10−3. To improve the accuracy, we analyze and extract the singular factors from the asymptotic expansions of solutions of the crack problem, such that the solution can be expressed by the singular factor multiplied by other smooth components. Then the general ML methods are enriched (multiplied) by the singular factor and used in a physics-informed neural network formulation. The new method is referred to as the extended physics-informed ML method, which improves the approximation significantly. We consider two typical ML methods, fully connected neural networks and extreme learning machine, where the extended physics-informed ML based on the extreme learning machine (XPIELM) achieves the relative errors about 10−12. We also study the stress intensity factor based on the XPIELM, and significantly improve the approximation of the stress intensity factor. The proposed XPIELM is applied to a two-dimensional Poisson crack problem, a two-dimensional elasticity problem, and a fully three-dimensional edge-crack elasticity problem in the numerical tests that exhibit various features of the method.}
+}

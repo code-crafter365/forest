@@ -1,0 +1,13 @@
+@article{XU2025106859,
+title = {Mixture moving particle scheme to simulate interactions between fluid and granular material},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106859},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106859},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003196},
+author = {Tibing Xu and Gang Zhao and Yee-Chung Jin},
+keywords = {Mixture theory, Moving particle semi-implicit method, Explicit incompressible scheme, Dam-break flow, Granular material},
+abstract = {The mixture theory coupled with a mesh-free method can describe movable grains caused by violent free surface flows such as dam-break flow. In the method, discretized mixture particles involve a fraction of both solid and fluid with two sets of velocity fields. In a pure Lagrangian method, the particles should move by incorporating the two sets of velocity fields. In this study, a mixture moving particle scheme is proposed to simulate dam-break flows interacting with different granular materials. In the simulations, various grain properties including density of the granular material, mean diameter, and friction angle are investigated. The simulated free surface and interface are in good agreement with the experimental measurements. The impact of dam-break flows over a movable granular bed is also simulated by the proposed mixture moving particle scheme and the impacting pressure on the solid wall is reproduced.}
+}

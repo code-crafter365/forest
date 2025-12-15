@@ -1,0 +1,13 @@
+@article{LAI2025118338,
+title = {A dual-energy physics-informed multi-material topology optimization method within the phase-field framework},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118338},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118338},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006103},
+author = {Sijing Lai and Jiachen Feng and Zhixian Lv and Junseok Kim and Yibao Li},
+keywords = {Multi-material topology optimization, Physics-informed neural networks, Phase-field method, Solid mechanics},
+abstract = {In this paper, we propose a dual-energy physics-informed multi-material topology optimization method within the phase-field framework. The method employs a dual-network collaborative architecture, utilizing two fully connected networks incorporating Fourier transformations to approximate the displacement field and the multiphase field, respectively. This approach enables a fully physics-driven optimization process throughout the entire workflow. The displacement field is approximated via the deep energy method, using the principle of minimum potential energy as the driving mechanism. Within the phase-field framework, an energy functional is constructed that incorporates the classical Ginzburg-Landau free energy, elastic strain energy and volume fraction constraints. This functional serves as the loss function that couples the displacement and phase fields, promoting the balancing of mechanical performance, interface thickness, material volume fractions, and phase repulsion during network training. Thus it achieves a deep integration of multi-material physical information. The pretraining strategy effectively reduces convergence time and enhances optimization performance. Automatic differentiation replaces traditional sensitivity analysis, enhancing computational efficiency, while appropriate control of sampling points balances training cost and accuracy. Several numerical experiments validate the effectiveness of the proposed method.}
+}

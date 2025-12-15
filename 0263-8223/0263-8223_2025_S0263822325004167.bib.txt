@@ -1,0 +1,13 @@
+@article{ZHANG2025119251,
+title = {Hierarchical material-structure optimization of composite laminates based on BESO method and lamination parameters},
+journal = {Composite Structures},
+volume = {367},
+pages = {119251},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119251},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004167},
+author = {Xubo Zhang and Yiyi Zhou and Yi Min Xie and Minger Wu and Yue Li},
+keywords = {Hierarchical optimization, Composite laminate, Topology optimization, BESO method, Lamination parameters},
+abstract = {This study first presents a concurrent material-structure optimization scheme for constant stiffness composite laminates, using the bi-directional evolutionary structural optimization (BESO) and the lamination parameters. Both in-plane and out-of-plane loading scenarios are considered to enhance the applicability. Numerical studies demonstrate the effectiveness of the proposed concurrent scheme by comparing its results with those from a sequential optimization approach (where lamination parameters are optimized first and then followed by topology). Then, recognizing the large computational costs of overall concurrent schemes that limit their practical implementation, this study leverages on the evolutionary properties of the BESO method to further develop a simplified and efficient approach. Numerical investigations suggest optimizing the lamination parameters 5 or 6 times at regular intervals throughout the topology optimization process until the target volume is achieved, effectively balancing accuracy and efficiency. Verification results show that the simplified hierarchical scheme yields comparable results to the overall concurrent optimization, surpasses the sequential approach, and significantly reduces computational costs. The simplified approach is straightforward, efficient, and easy to implement, potentially supporting the application of hierarchical material-structure optimization in practice.}
+}

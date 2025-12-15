@@ -1,0 +1,13 @@
+@article{XIE2025119248,
+title = {Hierarchically engineered Sandwich-Structured h-MXene/ANF hybrid films with tunable electromagnetic interference shielding and exceptional environmental resilience},
+journal = {Composite Structures},
+volume = {367},
+pages = {119248},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119248},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004131},
+author = {Fan Xie and Qiaoling Liu and Longhai Zhuo and Haitao Wei and Yuxuan Shang and Tao Liu and Zhaoqing Lu},
+keywords = {Tunable EMI shielding, Sandwich structure, aramid nanofiber (ANF), Environmental resilience},
+abstract = {High-performance electromagnetic interference (EMI) shielding materials with lightweight, multi-resistant properties and superior, tunable EMI shielding performance are urgently needed for next-generation integrated electronic and communication systems, particularly in portable smart devices and artificial intelligence applications. In this work, hollow h-MXene/ANF backbones with a continuous shielding network were fabricated using a facile vacuum-assisted filtration process combined with a sacrificial template method. The structurally engineered h-MXene/ANF hybrid films achieved outstanding EMI shielding effectiveness (EMI SE) of 78.9 dB and EMI specific shielding effectiveness per unit thickness (SSE/t) of 15703 dB·cm2·g–1. These exceptional properties are attributed to high ohmic losses, multiple internal reflections, polarization relaxation, and efficient losses in the hollow MXene conductive layer, facilitated by impedance mismatches within the sandwich structure. Notably, the EMI SE performance can be tuned by adjusting the content of hollow MXene microspheres. In addition, extensive hydrogen-bonding interactions between the high-performance ANF and MXene contribute to enhanced mechanical properties, including tensile strength of up to 37 MPa, as well as excellent thermal stability and self-cleaning capabilities. Overall, the sandwich-structured h-MXene/ANF hybrid films exhibit superior mechanical strength, multi-resistant properties, and ultra-high, tunable EMI shielding performance, making them promising candidates for advanced EMI shielding in next-generation portable smart electronic devices.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025104323,
+title = {Incremental few-shot instance segmentation without fine-tuning on novel classes},
+journal = {Computer Vision and Image Understanding},
+volume = {254},
+pages = {104323},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104323},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000463},
+author = {Luofeng Zhang and Libo Weng and Yuanming Zhang and Fei Gao},
+keywords = {Incremental, Few-shot, Instance segmentation, Finetune-free},
+abstract = {Many current incremental few-shot object detection and instance segmentation methods necessitate fine-tuning on novel classes, which presents difficulties when training newly emerged classes on devices with limited computational power. In this paper, a finetune-free incremental few-shot instance segmentation method is proposed. Firstly, a novel weight generator (NWG) is proposed to map the embeddings of novel classes to their respective true centers. Then, the limitations of cosine similarity on novel classes with few samples are analyzed, and a simple yet effective improvement called the piecewise function for similarity calculation (PFSC) is proposed. Lastly, a probability dependency method (PD) is designed to mitigate the impact on the performance of base classes after registering novel classes. The comparative experimental results show that the proposed model outperforms existing finetune-free methods much more on MS COCO and VOC datasets, and registration of novel classes has almost no negative impact on the base classes. Therefore, the model exhibits excellent performance and the proposed finetune-free idea enables it to learn novel classes directly through inference on devices with limited computational power.}
+}

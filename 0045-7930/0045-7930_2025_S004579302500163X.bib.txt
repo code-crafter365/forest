@@ -1,0 +1,13 @@
+@article{CUI2025106703,
+title = {Multigrid methods for the Stokes problem on GPU systems},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106703},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106703},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500163X},
+author = {Cu Cui and Guido Kanschat},
+keywords = {Stokes equation, Multigrid, Vertex-patch smoother, Matrix-free, Tensor-product, GPU},
+abstract = {This paper presents a matrix-free multigrid method for solving the Stokes problem, discretized using Hdiv-conforming discontinuous Galerkin methods. Our method operates directly on both the velocity and pressure spaces, eliminating the need for a global Schur complement approximation. We employ a multiplicative Schwarz smoother with vertex-patch subdomains and the Schur complement method combined with the fast diagonalization for the efficient evaluation of the local solvers. By leveraging the tensor product structure of Raviart–Thomas elements and an optimized, conflict-free shared memory access pattern, the matrix-free operator evaluation demonstrates excellent performance, reaching over one billion degrees of freedom per second on a single NVIDIA A100 GPU. Numerical results indicate efficiency comparable to that of the three-dimensional Poisson problem.}
+}

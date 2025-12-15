@@ -1,0 +1,13 @@
+@article{FERRANDEZMONTERO2025114906,
+title = {Colloidal processing as a successful alternative to produce PLA/Mg composites with tailored mechanical and biodegradation properties},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114906},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114906},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004138},
+author = {A. Ferrández-Montero and M. Lieblich and A.J. Sanchez-Herencia and R. Detsch and A.R. Boccaccini and B. Ferrari},
+keywords = {Colloidal processing, PLA/Mg composites, Extrusion, Biodegradation, Biomaterials},
+abstract = {The PLA/Mg composite has been proposed as a promising new biodegradable biomaterial with interesting properties for use in a number of biomedical applications. However, its processing is still highly problematic mainly due to its high reactivity and biodegradability. Recently the benefit of a new processing route based on a colloidal approach has been proposed based on the particle surface modification with different polyelectrolytes. Colloidal route improves the mechanical and biodegradation properties as a consequence of the creation of a strong polymer-metal interface and an increase of the particle dispersion. In this paper, we demonstrated these benefits compared with the most widespread mixing technique, the thermal extrusion. Firstly, PLA/Mg composite was evaluated in terms of its thermal behavior to determine the processing parameters required. After processing, the colloidal composite presents a covalent bond between the metallic particle and thepolymer when produced by the process of reactive extrusion, as determined by FTIR-ATR. This results in an improvement of the dispersion and the mechanical properties, reaching a maximum compressive strength of 130 MPa and an elastic modulus of 2150 MPa with 25 vol.% Mg particle loading. The colloidal processing also interferes in the biodegradation properties of PLA/Mg, decreasing the H2 release by 35 %, increasing the degradation time, and producing materials that degrade more homogeneously. Furthermore, the colloidal composite was found to be cytocompatible as the tests carried out with the ST2 bone marrow stromal cell line showed no negative effects. The cells exhibited a three-dimensional spreading morphology on the materials.}
+}

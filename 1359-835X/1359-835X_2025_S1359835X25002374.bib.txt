@@ -1,0 +1,13 @@
+@article{OGI2025108943,
+title = {Effect of specimen surface area on through-thickness electrical conductivity in unidirectional CFRP laminates with interlayers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108943},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108943},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002374},
+author = {Keiji Ogi and Ryotaro Ozaki and Koichi Mizukami},
+keywords = {Carbon fiber, Composite laminate, Electrical conductivity, Interlayer},
+abstract = {The through-thickness electrical conductivities of unidirectional carbon fiber-reinforced plastic laminates with interlayers were measured for varying surface areas, and the resulting variability was systematically examined. One large laminate specimen was cut into smaller pieces (divided in half up to 8 times), and the conductivity of each specimen was sequentially measured to examine spatial variations. The variability of the through-thickness conductivity increased with decreasing specimen surface area because of the inhomogeneous distribution of conductive paths in the interlayer, whereas the average conductivity remained approximately constant, except for very small specimens. A probability density function was used to model the conductivity variability with specimen surface area, showing a shift from a log-normal distribution to a normal distribution as surface area increased. In addition, the effect of the number of layers on through-thickness conductivity was discussed.}
+}

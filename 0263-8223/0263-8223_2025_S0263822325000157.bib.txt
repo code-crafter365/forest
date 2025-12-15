@@ -1,0 +1,13 @@
+@article{ZHAO2025118850,
+title = {Comparative analysis of micro-hole drilling characteristics on 2D-Cf/SiC and UD-Cf/SiC composites},
+journal = {Composite Structures},
+volume = {355},
+pages = {118850},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118850},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000157},
+author = {Guolong Zhao and Haotian Yang and Zhiwen Nian and Lianjia Xin and Liang Li},
+keywords = {2D and UD C/SiC composites, Micro-hole drilling, Hole quality, Ductile and brittle removal, Material removal mechanisms},
+abstract = {Carbon fiber-reinforced ceramic matrix composites (Cf/SiCs) possess high hardness and anisotropic properties, leading to rapid tool wear and poor hole quality during micro-hole machining. To address this issue, mechanical properties tests and drilling tests were conducted on two-dimensional (2D)-woven Cf/SiCs and unidirectional laminated Cf/SiCs (UD-Cf/SiCs). Micro-Vickers hardness indentation test results revealed that the hardness of perpendicular fibers was 29.5% higher than that of transverse fibers. The shear strength test revealed that the interlaminar shear strength of 2D-Cf/SiCs was 15.6% higher than that of UD-Cf/SiCs. Vertical to transverse fibers (VD) and parallel to transverse fibers (PD) drilling tests showed that the hole exit damage factor for 2D-Cf/SiCs was 15.5% smaller in VD drilling but 4.8% larger in PD drilling compared to UD-Cf/SiCs. Furthermore, 2D-Cf/SiCs exhibited lower hole wall surface roughness. Experiment highlighted differences in the removal mechanisms at various fiber orientation angles, revealing ductile, ductile–brittle, and brittle removal regions. Notably, two carbon fiber removal mechanisms during brittle removal were identified: fiber debonding from the SiC matrix and internal crack propagation leading to fiber fracture. The carbon fiber chips generated during the drilling of UD-Cf/SiC were longer than those produced from 2D-Cf/SiCs. Moreover, polycrystalline diamond drill primarily experienced abrasive wear, chipping, and minor chip attachment.}
+}

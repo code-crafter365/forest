@@ -1,0 +1,13 @@
+@article{CHANTHARAYUKHONTHORN2025117936,
+title = {A hybrid discrete and continuum framework for multiscale modeling of granular media},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117936},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117936},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002087},
+author = {Maytee Chantharayukhonthorn and Peter Yichen Chen and Yonghao Yue and Eitan Grinspun and Ken Kamrin},
+keywords = {Multiscale methods, Meshless methods, Discrete Element Methods, Granular media},
+abstract = {This work provides key advancements to a nascent simulation approach (Yue et al., 2018; Chen et al., 2021), which hybridizes two common simulation methodologies: discrete element methods and continuum methods. Discrete element methods (DEM), commonly used in granular media simulation, model every single micro-constituent and are thus accurate; however, in light of the enormous number of particles frequently required, they scale poorly. By contrast, continuum methods can be faster by greatly reducing the degrees of freedom represented. However, they can lose accuracy due to constitutive modeling assumptions of system behavior. The hybrid method is a multiscale approach utilizing a discrete representation in regions where flow behavior is complex and a continuum representation in larger-scale regions where behavior is simpler. The method adaptively determines these subregions, and can homogenize discrete grains into continuum material points, enrich continuum regions into discrete grains, and then couple these systems in a thin hybrid zone. This study presents work on all components of the hybrid method to expand its accuracy and robustness, resolving several known problems that occur in the existing hybrid method. We first introduce new granular packing methods capable of generating ad hoc granular assemblies that can meet user-defined criteria, so as to better match the underlying continuum representation during enrichment. Second, we discuss new enrichment and homogenization operators that conserve mass and momentum while also preserving higher-order packing properties such as fabric. Finally, we discuss a higher-order hybrid zone coupling, which better represents the two disparate simulation methods at the grid level. With these updates to the hybrid method, we subsequently demonstrate the ability to accurately simulate large length- and time-scale granular systems in geometries of geomechanical and industrial relevance. The results of the hybrid method compare favorably to purely discrete simulations albeit with much faster computation times.}
+}

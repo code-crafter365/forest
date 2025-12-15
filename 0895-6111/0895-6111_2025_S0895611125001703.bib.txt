@@ -1,0 +1,13 @@
+@article{YU2025102661,
+title = {Multi-representational deep transfer learning for classifying hemorrhagic metastases and non-neoplastic intracranial hematomas in multi-modal brain MRI scans},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {126},
+pages = {102661},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102661},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001703},
+author = {Luyue Yu and Linyang Cui and Jiachen Cui and Aixi Qu and Dexin Yu and Qiang Wu and Ju Liu},
+keywords = {Transfer learning, Deep learning, Multiple representation fusion, Brain metastases},
+abstract = {With an increasing incidence of malignant tumors, occurrence of brain metastases (BMs) has increased. BM represents the most common adult malignant brain tumors. BM is associated with hemorrhages, cystic necrosis, and calcification, which leads to significant diagnostic challenges when differentiating between hemorrhagic brain metastasis (HBM) and non-neoplastic intracranial hematomas (nn-ICH). This study addressed the limitations of small sample sizes, limited imaging features, and underutilized machine learning techniques reported in previous radiomic studies and introduced a novel multi-representation deep transfer learning (MRDTL) framework. Compared to existing radiomics feature analysis methods, MRDTL utilizes multi-modal MRI scans with two substantial merits: (1) A multi-representation fusion (MRF) module which extracted typical feature combinations by explicitly learning the complementarities between multi-modal sequences and multiple representations; (2) a neighborhood embedding (NE) module that measured metrics and clustering on cross-centric data to enhance transferable representations and improve model generalization. On the self-constructed HBMRI dataset, MRDTL outperformed five other baseline methods in AUC, F1-score, and accuracy. It improved accuracy to 94.5% and 93.5% in Co-site and Separate site testing, respectively, and overall provided more reliable diagnostic insights.}
+}

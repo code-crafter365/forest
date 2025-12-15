@@ -1,0 +1,13 @@
+@article{LOURENCO2025117743,
+title = {On the use of physics-based constraints and validation KPI for data-driven elastoplastic constitutive modelling},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117743},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117743},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000155},
+author = {Rúben Lourenço and Aiman Tariq and Petia Georgieva and A. Andrade-Campos and Babür Deliktaş},
+keywords = {Data-driven constitutive model, Constraints, Physics-informed, Recurrent neural networks, Elastoplasticity, Validation, Model quality KPI},
+abstract = {Constitutive modelling based on machine learning (ML) approaches has surged in the last couple of decades due to novel and more robust model architectures and computational power. The dependency of these models on large amounts of training data can be mitigated by imposing some phenomenological knowledge as constraints, which also helps maintain the quality of learning. This paper highlights the importance of physics-based constraints in elastoplastic data-driven constitutive modelling and focuses on model validation methods. Specifically, seven constraints applied to elastoplastic behaviour are identified that can be used during the model training process. To study the effects of these constraints, a set of recurrent neural network (RNN) models is trained using data from virtual mechanical experiments, based on a biaxial cruciform specimen. The models’ ability to accurately learn and predict the fundamental constitutive behaviour is then assessed using the different validation checkpoints, which include (i) statistical metrics, (ii) tests on previously unseen data, from virtual experiments based on different heterogeneous mechanical specimens, (iii) external key performance indicators (KPI) and (iv) single-element finite element analysis (FEA) tests. It was observed that the benefits of adding constraints to the training process were three-fold, resulting in (i) improved model predictive capacity, as well as (ii) enhanced extrapolation capabilities when tested on different mechanical specimens and (iii) overall improved training speed and stability. The use of independent validation KPI for data-driven constitutive modelling is highlighted and suggested as standard practice in future researches in the field.}
+}

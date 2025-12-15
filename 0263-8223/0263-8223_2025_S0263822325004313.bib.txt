@@ -1,0 +1,13 @@
+@article{ZHOU2025119266,
+title = {Crashworthiness characteristics of lotus stem inspired composite tubes},
+journal = {Composite Structures},
+volume = {368},
+pages = {119266},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119266},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004313},
+author = {Jin Zhou and Jiangwei Qi and Di Zhang and Zhibo Xin and Yugang Duan and Jun Wang and Feiping Du and Zhongwei Guan and Wesley J. Cantwell},
+keywords = {Composite, Crashworthiness, Energy absorption, Bio-inspired design, Dynamic effect},
+abstract = {This paper investigates the energy-absorbing characteristics of biomimetic multi-cell composite tubes (BMCT), inspired by the macro- and micro-structure of a lotus stem. Based on compression tests, the effect of changing lay-up, varying the geometric configuration and the dynamic loading on the crushing mode and energy absorption capability of biomimetic composite tubes have been thoroughly studied, with three lay-ups being investigated for each of the five geometric configurations. Radar diagrams have been prepared to present and compare the energy absorption characteristics of these biomimetic composite tubes. The experimental results show that the geometric structure, stacking sequence and loading condition have a significant influence on the energy absorption characteristics. Amongst all the biomimetic tube structures, the one with five ribs shows the highest specific energy absorption (SEA) of 73.3 J/g, which is almost double that of the 35.4 J/g exhibited by a simple conventional circular tube. Regarding the different lay-ups investigated, the one with a stacking sequence of [−45/90/45/0/0]s delivers the highest SEA, which is approximately 40 % higher than other lay-ups based on the same geometry. The energy absorption properties of BMCTs under dynamic crushing are reduced compared to those under quasi-static conditions, due to the rate sensitivity of the predominant failure mechanisms. This study provides the guidance for the crash-resistant design of multi-cell composite structures under extreme crush conditions.}
+}

@@ -1,0 +1,13 @@
+@article{INCI2025118571,
+title = {Surrogate model based optimization of variable stiffness composite wingbox for improved buckling load with manufacturing and failure constraints},
+journal = {Composite Structures},
+volume = {351},
+pages = {118571},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118571},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006998},
+author = {Hasan İnci and Altan Kayran},
+keywords = {Variable stiffness composite, Curvilinear fiber path, Wingbox, Buckling load, Particle swarm optimization, Whale optimization algorithm, Surrogate model, Radial basis functions},
+abstract = {The buckling load of a wingbox is maximized by applying different automatic fiber placement (AFP) strategies on the skins of the wing having NACA 4412 airfoil profile. Specifically, the effect of single, dual and three region application of AFP on the optimal buckling load is studied to provide an outlook on the improvement of the optimal buckling load by increasing the number of skin panels, between rib stations, over which distinct reference fiber path definitions are made. Buckling load optimizations with manufacturing and failure constraints are performed via two different metaheuristic optimization algorithms to ensure that the global optimum reference fiber paths are obtained. For computational efficiency, separate radial basis function based surrogate models are generated for the buckling and the failure analysis. Our results show that the application of AFP separately with distinct reference fiber path definitions in each skin panel between the rib stations, the buckling load can be improved compared to the application of the AFP to a larger section of the wing skin. For the wingbox studied, compared to the wing with quasi-isotropic skins, 94% increase in the local buckling load of the root panel is obtained with the three region AFP application.}
+}

@@ -1,0 +1,13 @@
+@article{PATHAK2025108712,
+title = {Geometrically nonlinear analysis of composite plates through asymptotically accurate isoenergetic theory},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108712},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108712},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000065},
+author = {Anup Kumar Pathak and Satwinder Jit Singh and Srikant S. Padhee},
+keywords = {Anisotropic, Asymptotically correct, Composite plates, Dimensional reduction, Efficient and accurate, Equivalent Single Layer (ESL), Isoenergetics, Multilayered, Reduced order model, Shear correction factor, Strain energy, Variational Asymptotic Method (VAM)},
+abstract = {This study introduces a novel approach for analyzing composite plates. The methodology employs the Variational Asymptotic Method (VAM) in an innovative and mathematically rigorous manner to dimensionally reduce the plate using its three-dimensional (3D) model energy. The VAM decouples the 3D plate problem into a 1D through-the-thickness analysis and a 2D planar problem. The Through-the-thickness 1D analysis is done ensuring the continuity of displacements and transverse stresses. This elegantly reduces the dimension of the plate by expressing the 3D variables in terms of 2D variables. However, the obtained reduced-order model, while accurate, is not directly suitable for 2D extremization to solve for the remaining 2D variables. To address this challenge, Concept of isoenergetics is introduced, which eliminates higher-order derivatives, thereby facilitating efficient extremization and reducing computational complexities. The validity and versatility of our proposed methodology are demonstrated through comparisons with benchmark problems from the literature and 3D finite element analysis.}
+}

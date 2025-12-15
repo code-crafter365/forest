@@ -1,0 +1,13 @@
+@article{PRETTI2025118168,
+title = {The Stress-Continuous Material Point Method: A technique to alleviate cell-crossing instability while retaining linear shape functions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118168},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118168},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004402},
+author = {Giuliano Pretti and Robert E. Bird and William M. Coombs and Charles E. Augarde and Stefano Giani},
+keywords = {Material point method, Cell-crossing instability, Low-order shape functions, Implicit quasi-static, Finite strain elasto-plasticity},
+abstract = {The Material Point Method (MPM) for solid mechanics continues to attract much interest from those wishing to solve complex non-linear mechanics problems which include large deformations. Its prominence is rising in many areas of engineering, such as geotechnics and computer graphics due to the advantages it delivers over competitor methods. In the original MPM, the background grid is comprised of the simplest linear shape functions. These have the advantage of simplicity but also are the cause of a major defect that has been studied for a number of years, the cell-crossing instability. This manifests itself as unphysical oscillations in the stress fields predicted by the MPM and its cause is precisely the simplicity of the grid shape functions. The natural answer would seem to be to use higher order shape functions, but these functions are more challenging than the linear ones in other key aspects. In this paper we present a new MPM, the Stress-Continuous MPM, that maintains the simplicity of the original MPM by using the simplest elements, but alleviates the cell-crossing instability by employing a novel penalty approach applied to element boundaries. The method has similarities and links to other stability measures developed for the MPM and used much more widely by researchers in the unfitted FEM community; these are explored in this paper. The new MPM is robustly tested on a number of numerical examples which show it to deliver an MPM formulation with linear shape functions and without severe cell-crossing issues.}
+}

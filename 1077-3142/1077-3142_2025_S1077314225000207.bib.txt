@@ -1,0 +1,13 @@
+@article{DIBENEDETTO2025104297,
+title = {Comparing Human Pose Estimation through deep learning approaches: An overview},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104297},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104297},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000207},
+author = {Gaetano Dibenedetto and Stefanos Sotiropoulos and Marco Polignano and Giuseppe Cavallo and Pasquale Lops},
+keywords = {Human Pose Estimation, Computer vision, Machine learning approaches},
+abstract = {In the everyday IoT ecosystem, many devices and systems are interconnected in an intelligent living environment to create a comfortable and efficient living space. In this scenario, approaches based on automatic recognition of actions and events can support fully autonomous digital assistants and personalized services. A pivotal component in this domain is “Human Pose Estimation”, which plays a critical role in action recognition for a wide range of applications, including home automation, healthcare, safety, and security. These systems are designed to detect human actions and deliver customized real-time responses and support. Selecting an appropriate technique for Human Pose Estimation is crucial to enhancing these systems for various applications. This choice hinges on the specific environment and can be categorized on the basis of whether the technique is designed for images or videos, single-person or multi-person scenarios, and monocular or multiview inputs. A comprehensive overview of recent research outcomes is essential to showcase the evolution of the research area, along with its underlying principles and varied application domains. Key benchmarks across these techniques are suitable and provide valuable insights into their performance. Hence, the paper summarizes these benchmarks, offering a comparative analysis of the techniques. As research in this field continues to evolve, it is critical for researchers to stay up to date with the latest developments and methodologies to promote further innovations in the field of pose estimation research. Therefore, this comprehensive overview presents a thorough examination of the subject matter, encompassing all pertinent details. Its objective is to equip researchers with the knowledge and resources necessary to investigate the topic and effectively retrieve all relevant information necessary for their investigations.}
+}

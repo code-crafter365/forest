@@ -1,0 +1,13 @@
+@article{WEI2025109268,
+title = {Carbon fiber reinforced SiBCN composite with broadband and tunable microwave absorption performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109268},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109268},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005627},
+author = {Qihong Wei and Kaili Zhang and Yuefeng Yan and Changtao Shao and Dechang Jia and Xiaoxiao Huang and Yu Zhou},
+keywords = {SiBCN, Carbon fibers, Dielectric loss, Microwave absorption},
+abstract = {Polymer-derived ceramics (PDCs) have demonstrated significant application potential in the microwave absorption field due to the remarkable high temperature stability, low density and tunable dielectric properties. However, the single PDCs microwave absorption performance is limited due to low dielectric loss ability. In this study, a novel SiBCN/carbon fibers (SiBCN/CF) composite was fabricated using PDCs and mechanical mixing processes. The conductivity, dielectric properties and microwave absorption performance of the SiBCN/CF composite could be controlled by regulating the content of CF. The impedance matching and attenuation property of SiBCN/CF have been improved due to the synergy loss of the conductive network structure of the CF, multiple phase interfaces (BN, Si3N4 and SiC) in the SiBCN ceramic and defects. The experimental results showed that the SiBCN/CF exhibits efficient microwave absorption performance with a filling content of 15 wt%. The minimum reflection loss (RLmin) value is −46.16 dB (2.5 mm), the maximum effective absorption bandwidth (EABmax) achieves 7.87 GHz (10.13–18 GHz) at 2.39 mm and the radar cross section (RCS) value is 4.18 dB·m2 at 0°. This research provides a valuable strategy for developing novel lightweight, broadband and strong microwave absorption materials.}
+}

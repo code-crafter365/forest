@@ -1,0 +1,13 @@
+@article{QIAN2025118176,
+title = {3D neuron growth and neurodevelopmental disorder modeling based on truncated hierarchical B-splines with multi-level local refinements},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118176},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118176},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004487},
+author = {Kuanren Qian and Yongjie Jessica Zhang},
+keywords = {Neuron growth, Neurodevelopmental disorder, Isogeometric analysis, Truncated hierarchical B-splines, Local refinement, Adaptive domain expansion, Phase field method},
+abstract = {3D neuron growth and neurodevelopmental disorders (NDDs) deterioration exhibit complex morphological transformations as neurites differentiate into axons and dendrites, forming intricate networks driven by tubulin concentrations and neurotrophin signals. Conventional 2D models fall short of capturing such morphological complexity, prompting the need and development of advanced 3D computational approaches. In this paper, we present a complex 3D neuron growth model based on isogeometric analysis (IGA) and the phase field method, utilizing locally refined truncated hierarchical B-splines (THB-splines). IGA offers isoparametric representation and higher-order continuity, which are essential for simulating the smooth, evolving interfaces of phase field neurites. In contrast, the phase field method can automatically handle diffuse interfaces and complex topological changes without explicit boundary tracking. This IGA-based phase field method enables accurate and efficient simulation of neurite extensions, branching, and retraction in a fully 3D setting. The THB-spline implementation supports multi-level local refinement, focusing computational resources on regions of active growth, while dynamic domain expansion adapts the simulation domain to extend with growing neurites. KD-tree-based interpolation ensures that phase field variables are accurately transferred onto newly refined meshes. NDDs associated neurite deterioration is simulated by modulating the driving force term within the phase field model to induce interface retraction. This comprehensive 3D framework enhances the accuracy of neurite morphology simulations, advancing the study of complex neuron development, network formation and NDDs.}
+}

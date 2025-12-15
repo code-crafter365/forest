@@ -1,0 +1,13 @@
+@article{KOU2025114554,
+title = {The fibrillogenesis influence the binding specificity of collagen to discoidin domain receptor 2 and cell behavior},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114554},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114554},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500061X},
+author = {Huizhi Kou and Qingqiu Han and Chengzhi Xu and Lixia Liao and Yuanjing Hou and Haibo Wang and Juntao Zhang},
+keywords = {Fibrillogenesis, Collagen, Hybrid fibril, DDR2, Cell spreading},
+abstract = {Collagen is one of the most important natural biopolymers, it plays its role as a load-bearing structure in tissues only after polymerizing into fibrils. DDR2 is a collagen-binding receptor tyrosine kinases, playing a role in the regulation of collagen-cell interactions. Here, we studied the recognition of collagen fibrils by DDR2 and the effect of fibrillogenesis on cell biological activity. Our results showed that for monomeric collagen, the binding affinity of DDR2 to mammalian porcine skin collagen is higher than that to fish collagen. When the assembly of collagen monomers into the collagen fibril, the binding affinity of DDR2 is enhanced. In contrast, the binding ability of the hybrid fibril is stronger than the corresponding black carp skin collagen fibrils, and slightly weaker than corresponding porcine skin collagen fibril. This indicates that the introduction of porcine skin collagen in the co-assembly system can regulate the binding of DDR2 to fish-sourced collagen. We also find that compared to monomers, the fibrillogenesis of collagen promotes cell interaction with the collagen substrate, and has an increased ability to induce cells spreading. Our results confirmed that the physical state of collagen impacts its binding with DDR2 and cell behavior. These findings provide new insights into cell-collagen interactions.}
+}

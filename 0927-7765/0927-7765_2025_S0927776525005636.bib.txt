@@ -1,0 +1,14 @@
+@article{LI2025115056,
+title = {Bioinspired microplate arrays for magnetically induced anisotropic solid transport},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115056},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115056},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005636},
+author = {Meng Li and Penghui Wang and Zheng Yang and Tao Wang and Liping Shi},
+keywords = {Gecko, Lamellar structure, Magnetic actuation, Solid transport, Anisotropy},
+abstract = {Abstracts
+Gecko lamellar structures, composed of slanted setae with branched spatulas, exhibit remarkable anisotropic mechanical behavior, enabling efficient movement. Inspired by this natural design, we developed a magnetic-responsive oriented microplate array (MROMA) with slanted microplates and spatular tips for achieving anisotropic solid transport under magnetic field actuation. The orientation-dependent bending of the microplates yields significantly higher mass transport and transport velocity in the forward direction compared to the reverse, demonstrating distinct anisotropic performance. Fine-tuning the spatular tip length, slant angle, and magnetic particle content further enhances the anisotropy. Application tests, including object transport on inclined substrates and through confined 3D curved tubes, demonstrate MROMA's potential for intelligent solid manipulation in biomedicine and micro-nanosystems.}
+}

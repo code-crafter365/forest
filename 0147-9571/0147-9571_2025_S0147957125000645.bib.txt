@@ -1,0 +1,13 @@
+@article{ANTIYA2025102356,
+title = {Molecular detection of enteric viruses in symptomatic and asymptomatic dogs in Gujarat, India},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {121},
+pages = {102356},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102356},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000645},
+author = {Sejal P. Antiya and Arun C. Patel and Kishan Kumar Sharma and H.C. Chauhan and Sandip S. Patel and Sushil Kumar Mohapatra and Mehul D. Shrimali and Harshkumar A. Patel},
+keywords = {Canine astrovirus (CaAstV), Canine coronavirus (CCoV), Canine parvovirus (CPV), Canine distemper virus (CDV), Clinically healthy animals, SARS-CoV-2},
+abstract = {In the recent past, canine astrovirus (CaAstV) and SARS-CoV-2 have emerged as newly identified agents contributing to canine viral gastroenteritis alongside established pathogens viz. canine coronavirus (CCoV), canine parvovirus (CPV), and canine distemper virus (CDV). To study the molecular epidemiology of these viruses in India, faecal samples (n = 168) were collected from diarrhoeic and healthy dogs and history of animals was recorded. Viruses were identified with real-time PCR using virus-specific primers. Sequencing of CaAstV and CPV positive amplicons was done for confirmation of diagnosis and to know the prevalent strains/variants of viruses in the study area, respectively. 75.60 % (127/168) of the samples were positive for intended viruses, and CPV-2 (73.80 %) was found as the most prevalent virus, followed by CDV (11.90 %), CaAstV (5.95 %), SARS-CoV-2(3.57 %) and CCoV (1.19 %). In clinically healthy dogs, CPV-2, CDV, CaAstV, SARS-CoV2 and CCoV were recorded in 57.73 %, 7.21 %, 3.09 %, 1.03 % and 0 % of samples, respectively. In diarrhoeic dogs, the prevalence of CPV-2, CDV, CaAstV, SARS-CoV2, and CCoV was found to be 95.77 %, 18.30 %, 9.86 %, 7.04 % and 2.81 %, respectively. Co-infections were present in 27.56 % (35/127) of the positive samples, CPV-2 and CDV formed the most prevalent combination. CDV and CPV infection was also seen in incompletely or fully vaccinated dogs.}
+}

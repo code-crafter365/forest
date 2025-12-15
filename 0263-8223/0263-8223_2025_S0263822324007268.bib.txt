@@ -1,0 +1,13 @@
+@article{AKHAVAN2025118598,
+title = {Periodic free vibrations of composite laminates with curvilinear fibres and CNTs},
+journal = {Composite Structures},
+volume = {351},
+pages = {118598},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118598},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007268},
+author = {Hamed Akhavan and Pedro Camacho and Pedro Ribeiro},
+keywords = {Modes of vibration, Non-linear, Hybrid composites, CNT, Tow placed, Bifurcations},
+abstract = {This article addresses the combined effect of using curvilinear fibres and carbon nanotubes (CNTs) reinforcements in the non-linear modes of vibration of laminated composite plates. To arrive at the material properties of the three-phase composite material, a two-step hierarchic procedure is followed. A modified version of the Halpin–Tsai model is employed to predict the Young’s modulus of the CNT enriched resin and expressions, deduced from equilibria of a unit cell where a fibre is embedded in resin, are applied to obtain the diverse elasticity moduli of the three-phase composite. Moderately large displacements are considered, with von Kármán strain–displacement relations. Although the presented model is an equivalent single layer one, it applies to thick plates, because a Third-order Shear Deformation Theory (TSDT) is followed. The set of autonomous non-linear equations of motion is reduced using static condensation and a modal basis with selected modes, chosen after a convergence analysis. The reduced set of equations of motion is solved by the shooting method. Numerical tests considering plates with diverse curvilinear fibre paths, CNT contents and thicknesses are carried out. The results obtained are thoroughly analysed.}
+}

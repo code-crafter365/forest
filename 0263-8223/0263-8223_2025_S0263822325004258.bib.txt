@@ -1,0 +1,13 @@
+@article{ZHAO2025119260,
+title = {Physically informed neural networks for homogenization and localization of composites with periodic microstructures},
+journal = {Composite Structures},
+volume = {367},
+pages = {119260},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119260},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004258},
+author = {Wenhui Zhao and Ruixuan Hao and Ming Zhang and Qiang Chen and Zhibo Yang and Xuefeng Chen},
+keywords = {Physics-informed machine learning, Multiscale method, Composites, Homogenization, Elasticity},
+abstract = {We propose a physics-informed multiscale deep homogenization network (MulDHN) for the homogenization and localization of composites with periodic microstructures. This framework employs the zeroth-order homogenization method, which decomposes the displacement field into macroscopic and fluctuating components, depending on the global and local coordinates, respectively. The fluctuating component is determined using neural networks that minimize the residuals of Navier’s displacement equations, trained on the local coordinates of randomly sampled material points. Periodic boundary conditions are inherently satisfied through the integration of a periodic layer, which incorporates trainable harmonic functions. The key innovation of this work lies in scaling the coordinates of collocation points by different factors before feeding them into separate sub-networks. These scale factors transform the hard-to-train high-frequency characteristics in the unit cell solution into easy-to-learn low-frequency counterparts, significantly improving the training process. To validate the proposed model, extensive numerical experiments are conducted to verify the effects of neural network hyperparameters and dataset size on the performance of MulDHN, the homogenization properties of unit cells, and local field variables. The performance of the MulDHN is demonstrated to be superior to the conventional neural networks upon comparison with the classical finite-element predictions of unit cells when the fiber–fiber interaction is significant.}
+}

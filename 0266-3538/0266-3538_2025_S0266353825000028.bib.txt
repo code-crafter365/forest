@@ -1,0 +1,13 @@
+@article{LIU2025111034,
+title = {A scalable flexible strain sensor with adaptive response capability to varying microenvironments for digital healthcare},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111034},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111034},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000028},
+author = {Jingge Liu and Junze Zhang and Jing Liu and Weiqiang Li and Hongqiang Shen and Lingxiao Wang and Yuqi Ding and Yanping Liu and Yuling Li and Jianchu Xu and Gang Li},
+keywords = {Fiber-based strain sensor, Calotropis gigantea fiber, Adaptive response capability, Varying microenvironment, Digital healthcare},
+abstract = {The potential application of wearable strain sensors in personal digital health management, including healthcare and sports exercise, has attracted broad research interest. Temperature and humidity variations in the skin-clothing microenvironment interface leading to distorted sensing performance has been increasingly recognized for new wearable sensor devices. To this end, we present a flexible fabric sensor made of Calotropis gigantea yarn and spandex elastic yarn. Using polydopamine as a bridge linking the fabric and graphene oxide, a laminated structure of reduced graphene oxide was formed on the fiber surface through in-situ reduction. Thanks to a novel strategy of crisscrossing yarns, the sensor’s sensitivity can be easily adjusted. The sensor’s electromechanical performance was simulated and analyzed using an equivalent circuit, showing good agreement with experimental data. This sensor features fast response (50 ms) and high durability (>3000 cycles). Interestingly, the sensor exhibits good permeability (762.07 g/m2 h), allowing for temperature and humidity exchange in the microenvironment, demonstrating stable sensing performance under varying temperatures (20.8°C–44.9°C) and humidity levels (from 38% to 79% relative humidity). Finally, a demonstration of wireless sensing devices for monitoring personal digital health was integrated. The developed strain sensor holds significant implications for advancing personal digital health monitoring through intelligent textiles.}
+}

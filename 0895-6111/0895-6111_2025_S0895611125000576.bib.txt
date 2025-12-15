@@ -1,0 +1,13 @@
+@article{ZHU2025102548,
+title = {A software for quantitative measurement of vessel parameters in fundus images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102548},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102548},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000576},
+author = {Xiaolong Zhu and Wenjian Li and Weihang Zhang and Jing Liu and Yue Qi and Qiuju Deng and Huiqi Li},
+keywords = {Fundus images, Retinal vessels, Feature extraction, Measuring software, Vessel quantification},
+abstract = {Retinal vessel is a unique structure that allows non-invasive observation of the microcirculatory system. Its pathological features and abnormal structural alterations are associated with cardiovascular and systemic diseases. Especially the abnormalities in caliber features, histology features, and geometric structure of retinal vessels are indicative of these diseases. However, the complex distribution and imperceptible characteristics of vasculature have hindered the measurement of vessel parameters. To this end, we design a new software (Retinal Vessel Parameters Quantitative Measurement Software, RVPQMS) to quantitatively measure the features of retinal vessels. The RVPQMS is designed with the functions of vessel segmentation, landmark localization, vessel tracking, vessel identification and parameter measurement. It enables comprehensive measurement of vessel parameters in both standard zone and whole area. To ensure the accuracy of the software, the algorithms integrated in this software are validated on both private and public datasets, and experimental results demonstrate that it has excellent performance in vessel segmentation, tracking and identification. The RVPQMS software provides thorough and quantitative measurement of retinal vessel parameters, facilitating the study of vessel features for cardiovascular and systemic diseases.}
+}

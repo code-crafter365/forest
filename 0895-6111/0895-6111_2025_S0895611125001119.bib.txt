@@ -1,0 +1,13 @@
+@article{LIU2025102602,
+title = {A deep learning-based clinical decision support system for glioma grading using ensemble learning and knowledge distillation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102602},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102602},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001119},
+author = {Yichong Liu and Zhiliang Shi and Chaoyang Xiao and Bo Wang},
+keywords = {Feature extraction, Clinical decision support system (CDSS), Ensemble learning, Knowledge distillation, Glioma grading},
+abstract = {Gliomas are the most common malignant primary brain tumors, and grading their severity, particularly the diagnosis of low-grade gliomas, remains a challenging task for clinicians and radiologists. With advancements in deep learning and medical image processing technologies, the development of Clinical Decision Support Systems (CDSS) for glioma grading offers significant benefits for clinical treatment. This study proposes a CDSS for glioma grading, integrating a novel feature extraction framework. The method is based on combining ensemble learning and knowledge distillation: teacher models were constructed through ensemble learning, while uncertainty-weighted ensemble averaging is applied during student model training to refine knowledge transfer. This approach bridges the teacher-student performance gap, enhancing grading accuracy, reliability, and clinical applicability with lightweight deployment. Experimental results show 85.96 % Accuracy (5.2 % improvement over baseline), with Precision (83.90 %), Recall (87.40 %), and F1-score (83.90 %) increasing by 7.5 %, 5.1 %, and 5.1 % respectively. The teacher-student performance gap is reduced to 3.2 %, confirming effectiveness. Furthermore, the developed CDSS not only ensures rapid and accurate glioma grading but also includes critical features influencing the grading results, seamlessly integrating a methodology for generating comprehensive diagnostic reports. Consequently, the glioma grading CDSS represents a practical clinical decision support tool capable of delivering accurate and efficient auxiliary diagnostic decisions for physicians and patients.}
+}

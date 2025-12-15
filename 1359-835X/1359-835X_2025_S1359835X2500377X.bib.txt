@@ -1,0 +1,13 @@
+@article{XU2025109083,
+title = {Data-driven prediction of mechanical properties of 3D-printed dual-material composites based on deep transfer learning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109083},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109083},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500377X},
+author = {Shiyi Xu and Haoming Yang and Tianyun Li and Yao Zhang},
+keywords = {Dual-material composites, Mechanical properties, Transfer learning, Additive manufacturing},
+abstract = {Dual-material composites manufactured by Fused Filament Fabrication (FFF) techniques are emerging as promising structural materials with superior mechanical properties. It remains challenging to establish the relationship between their complex design parameters and their mechanical properties, which are significantly influenced by structural defects like inter-filament voids induced by additive manufacturing. This work printed dual-material composites from polylactic acid (PLA), thermoplastic polyurethane (TPU), and acrylonitrile butadiene styrene (ABS) based on a design strategy that designs both the structure within each constituent material and the spatial arrangement of different constituent materials, and explored their mechanical properties obtained from three-point bending tests. Experimental results revealed that PLA-TPU and PLA-ABS composites with appropriate design parameters outperform their single-material counterpart and linear infill pattern with a 70% infill density generally leads to the best bending performance. A deep transfer learning model integrating Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), and self-attention mechanisms is developed to predict the bending performance of PLA-TPU composites with high accuracy based on limited sample data. By mapping bending stress–strain behaviors from the source domain (PLA-ABS composite) to the target domain (PLA-TPU composite), the model enables knowledge transfer across different materials. This work establishes a robust framework for predicting mechanical properties of 3D-printed dual-material composites and provides insights into the optimization of their structures and mechanical performances.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025108975,
+title = {In-situ SR-CT experimental study on rapid densification mechanisms of SiCw/Al composites: Orientation and structural arrangement of whisker},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108975},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108975},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002696},
+author = {Yuanjie Wang and Yu Xiao and Yulong Li and Xiaofang Hu and Feng Xu},
+keywords = {Synchrotron radiation computed tomography, Silicon carbide whisker, Al composite materials, Microwave sintering},
+abstract = {For Al matrix composites, SiC whiskers (SiCw), as reinforcement, have a better ability to improve the strength and toughness of the material than particles. However, the current mechanical properties of SiCw/Al composites are still not up to expectations because of more complex factors such as whisker orientation and structure distribution. The key to achieve mechanical property optimization and breakthrough is to understand the relationship among the external field energy, microstructure and sintering process during the preparation of materials. In the present paper, the whole process of SiCw/Al composites microstructure evolution was observed accurately by in situ SR-CT experiment during microwave rapid sintering process. It was revealed that the densification effect of the sample was obviously better than that when the SiC whisker and Al particle neck are perpendicular to each other. It was found that the when the SiC whiskers located in the neck of Al particles were cross-distributed, the matrix density increased more. The angle between the cross-arranged whiskers had a key influence on the densification process of the material. It provided more understanding for the preparation of high performance SiCw/Al composites and raised the possibility for the preparation of more functional materials.}
+}

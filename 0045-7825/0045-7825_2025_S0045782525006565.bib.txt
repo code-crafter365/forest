@@ -1,0 +1,13 @@
+@article{DADGARRAD2025118384,
+title = {Finite deformation analysis of flexoelectric shells},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118384},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118384},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006565},
+author = {Farzam Dadgar-Rad and Shahab Sahraee and Mokarram Hossain and Stefan Hartmann},
+keywords = {Flexoelectricity, Shell, Soft dielectric, Finite deformation, Finite element method},
+abstract = {In this work, a nonlinear shell model for the coupled mechanical and electrical analysis of thin flexoelectric polymers is developed. In addition to the classical terms, contributions from the second gradient of deformation, electro-mechanical coupling and flexoelectricity are incorporated into the free energy density of these materials. Furthermore, starting from a variational framework, a nonlinear finite element formulation in the material setting is developed to provide numerical solutions for various problems. By neglecting the electrical and flexoelectric effects, the present formulation can reflect the deformation of purely mechanical gradient shells. Conversely, by disregarding the gradient and flexoelectric effects, the present formulation is greatly capable of modeling the deformation of electro-active shells. The midsurface displacement and director difference vectors are interpolated using C1 shape functions, while C0-continuous interpolation functions are used for the thickness stretching and voltage parameters. Several numerical examples are solved to evaluate performance and robustness of the proposed formulation. The results show that the present formulation yields excellent agreement with those available in the literature. Moreover, the proposed formulation effectively captures the flexoelectric response of both initially flat and initially curved thin structures experiencing finite deformations.}
+}

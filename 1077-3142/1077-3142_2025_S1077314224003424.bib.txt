@@ -1,0 +1,13 @@
+@article{ALBALUCHI2025104261,
+title = {UAV-based person re-identification: A survey of UAV datasets, approaches, and challenges},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104261},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104261},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003424},
+author = {Yousaf Albaluchi and Biying Fu and Naser Damer and Raghavendra Ramachandra and Kiran Raja},
+keywords = {ReID, UAV, Drones, Identification, Surveillance},
+abstract = {Person re-identification (ReID) has gained significant interest due to growing public safety concerns that require advanced surveillance and identification mechanisms. While most existing ReID research relies on static surveillance cameras, the use of Unmanned Aerial Vehicles (UAVs) for surveillance has recently gained popularity. Noting the promising application of UAVs in ReID, this paper presents a comprehensive overview of UAV-based ReID, highlighting publicly available datasets, key challenges, and methodologies. We summarize and consolidate evaluations conducted across multiple studies, providing a unified perspective on the state of UAV-based ReID research. Despite their limited size and diversity, We underscore current datasets’ importance in advancing UAV-based ReID research. The survey also presents a list of all available approaches for UAV-based ReID. The survey presents challenges associated with UAV-based ReID, including environmental conditions, image quality issues, and privacy concerns. We discuss dynamic adaptation techniques, multi-model fusion, and lightweight algorithms to leverage ground-based person ReID datasets for UAV applications. Finally, we explore potential research directions, highlighting the need for diverse datasets, lightweight algorithms, and innovative approaches to tackle the unique challenges of UAV-based person ReID.}
+}

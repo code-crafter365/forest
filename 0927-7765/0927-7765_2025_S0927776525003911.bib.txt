@@ -1,0 +1,13 @@
+@article{SANTINON2025114884,
+title = {Biodegradable kappa-carrageenan and proanthocyanidin films as antiviral coatings for disposable masks},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114884},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114884},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003911},
+author = {Caroline Santinon and Karina Bispo-dos-Santos and Priscilla Paschoal Barbosa and Gabriela Fabiano {de Souza} and José Luiz Proença Modena and Marisa Masumi Beppu and Melissa Gurgel Adeodato Vieira},
+keywords = {SARS-CoV-2, Kappa-carrageenan, Proanthocyanidin, Polymeric coating},
+abstract = {The COVID-19 pandemic has underscored the urgent need for sustainable antiviral materials to reduce the use of potentially toxic compounds such as metallic nanoparticles and quaternary ammonium salts. This study focuses on developing and evaluating kappa-carrageenan films incorporating varying concentrations of proanthocyanidin (0 – 5 % w/V) as a polymeric coating for application on personal protective equipment. Films with 0.5 % proanthocyanidin demonstrated complete SARS-CoV-2 inactivation within 1 min of exposure, due to their ability to bind to viral envelope proteins, inhibit replication, and induce oxidative stress. Moreover, biodegradability tests showed approximately 80 % mass loss for all formulations after 56 days in simulated soil conditions, highlighting their environmental compatibility. The incorporation of proanthocyanidin enhanced the thermal stability of the films while increasing their thickness and roughness, suggesting improved mechanical properties. Breathability tests on coated disposable masks revealed airflow values of 69.48 ± 3.45 Pa/cm², confirming their suitability for practical biomedical applications. These findings suggest that kappa-carrageenan/proanthocyanidin films represent a promising and environmentally friendly solution for reducing viral transmission.}
+}

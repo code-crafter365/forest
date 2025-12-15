@@ -1,0 +1,13 @@
+@article{WEATHERBURN2025119177,
+title = {Biomimetic polypropylene-carbon intra-ply hybrid 3D woven composite with enhanced impact resistance},
+journal = {Composite Structures},
+volume = {366},
+pages = {119177},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119177},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003423},
+author = {Anna Weatherburn and Callum Montgomery and George Scott and Calvin Ralph and John Girkin and Cormac McGarrigle and Alistair McIlhagger and Edward Archer and Stefan Szyniszewski},
+keywords = {3D woven composite, Biomimetic, Fibre-hybrid, Tensile, Short beam shear, Charpy impact, μCT},
+abstract = {In this study, a nacre-inspired carbon-polypropylene 3D woven composite is developed. The biomimetic ‘brick-and-mortar’ design is implemented by interlacing softer polypropylene yarns with brittle carbon fibres. This novel composite was benchmarked against a standard carbon fibre 3D woven composite with identical weave architecture, examining tensile properties, impact resistance, and shear strength. The comparative analysis was supported by micrographs and μCT scans. Results showed that the hybrid composite absorbed 16% more impact energy in the weft direction than its purely carbon counterpart. The presence of polypropylene yarns increased crimp within the weave contributing to reduced tensile and shear properties. The study identifies the bulk factor of polypropylene yarns as critical in minimising crimp and structural flaws in the hybrid design. In summary, this work presents a nature-inspired hybrid composite, with an increased impact resistance but with trade-offs in tensile and shear properties.}
+}

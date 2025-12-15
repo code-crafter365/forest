@@ -1,0 +1,13 @@
+@article{SMITH2025109165,
+title = {Upcycling of unidirectional carbon-fibre/PEEK prepreg trim waste},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109165},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109165},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004592},
+author = {A.W. Smith and H. Pattery and J.P. Canart and I. Tabiai and M. Dubé},
+keywords = {Recycling, Thermoplastic composites, Strand-based composites},
+abstract = {During manufacturing of unidirectional thermoplastic prepregs, the material edges are trimmed as they feature unacceptable variations in thickness and resin content. This tape edge trim (TET) is chopped into pieces before exiting the prepregging line to facilitate disposal. This process produces a material resembling strand-based compounds referred to in the literature as randomly orientated strands. However, the chopping operation produces TET with a broad range of geometries making direct reuse by compression moulding likely to produce components with uncertain mechanical properties. Here, two different sieving methods are used to sort carbon fibre TET into batches with more consistent geometries. Sieving involving linear vertical agitation is found to result in less strand damage and overall efficient sorting compared to sieving that involves in-plane agitation. The sorted TET is compression moulded into panels which are characterized by ultrasonic inspection, microscopy and mechanical testing. A general increase in the average tensile and flexural strengths is observed for the panels manufactured using TET recovered from the largest sieves, i.e., having a higher average strand length. However, the variability of the mechanical properties remains. A brief analysis of the environmental impact of reusing the TET instead of virgin strands is presented.}
+}

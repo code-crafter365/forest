@@ -1,0 +1,13 @@
+@article{WANG2025114344,
+title = {Imparting insoluble-soluble property to Cyt c by immobilizing Cyt c in UCST-pH dual responsive polymer for highly sensitive detection of phenol},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114344},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114344},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006039},
+author = {Yuanyuan Wang and Weimin Guan and Yulin Yang and Huiling Lan and Yu Wang and Yun Wang and Juan Han and Lei Wang},
+keywords = {Enzyme immobilization, Biocatalyst, Responsive polymer, Enzyme activity, Biosensor},
+abstract = {Immobilization of enzymes in porous organic framework (POF) materials is popular strategy to stabilize enzymes. For such solid enzyme catalysis system, improving the catalytic efficiency is challenging due to the diffusion resistance from solid-liquid interface and inner pores. Here, UCST-pH dual responsive polymeric carrier (PEG-b-PAAm-b-P(GMA-co-AAc)) was synthesized to immobilize cytochrome c (Cyt c), which impart the reversibly insoluble-soluble property to the immobilized Cyt c. The PEG-b-PAAm-b-P(GMA-co-AAc) could serve as an insoluble-soluble matrix to fast and efficiently immobilize Cyt c via covalent attachment, achieving a remarkable 92 % loading efficiency within just 120 min. The obtained insoluble PEG-b-PAAm-b-P(GMA-co-AAc)-Cyt c micelles exhibited an improvement in thermal, pH stability and reusability. The completely soluble PEG-b-PAAm-b-P(GMA-co-AAc)-Cyt c conjugates accelerated substrate diffusion and then enhanced the catalytic efficiency. These excellent advantages led to low detection limit (1.99 μM), lower than the presently reported biosensors based on enzyme mimics in the colorimetric detection of phenol. This UCST-pH dual responsive window presents a new platform to efficiently control the immobilization and release of enzymes, which will achieve excellent stability and catalytic efficiency.}
+}

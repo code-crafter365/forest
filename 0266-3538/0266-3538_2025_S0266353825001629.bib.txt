@@ -1,0 +1,13 @@
+@article{HUANG2025111194,
+title = {Physical crosslinking optimized high-temperature capacitive energy storage of polyetherimide nanocomposites with ultralow C60 particles},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111194},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111194},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001629},
+author = {Wenjie Huang and Mengyu Xiao and Baoquan Wan and Zhonghua Xiang and Yuchao Li and Yong Chae Jung and Jun-Wei Zha},
+keywords = {Polyetherimide, Fullerene, High-temperature energy storage, Physical cross-linking, Carrier trap},
+abstract = {The extreme operating environments of film capacitors have created an urgent need for a new generation of polymer dielectric materials. Polymer-based composites are a more efficient option in terms of outstanding performance and large-scale industrialized production. Herein, C60 is selected as a functional filler to be combined with commercial polyetherimide (PEI) through electrostatic interactions to construct polymer nanocomposites (C60/PEI). Ultralow-filled C60/PEI nanocomposites achieve the comprehensive improvement of electrical, thermal and mechanical performance due to the physical cross-linking points acted by C60 particles. C60 shows a strong ability to inhibit electron transfer due to the unique zero-dimensional cage structure and high electron affinity, which reduces the conduction loss at high temperatures. Theoretical and experimental results show that the introduction of trace amounts of C60 particles into PEIs constructs stable carrier traps and significantly improves the high-temperature energy storage characteristics. The dielectric permittivity and breakdown strength are increased from 3.24 to 447 MV/m for PEI to 3.45 and 520 MV/m for the optimal C60/PEI nanocomposite at 150 °C, respectively. Consequently, the optimal C60/PEI nanocomposite achieves a discharged energy density (Ud) of 3.69 J/cm3 at 150 °C, which is higher than 2.65 J/cm3 of PEI. This provides a convenient and effective strategy to synergistically improve the comprehensive performance of polymer nanocomposite films for high-temperature energy storage applications.}
+}

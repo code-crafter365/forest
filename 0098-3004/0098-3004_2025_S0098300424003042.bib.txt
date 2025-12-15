@@ -1,0 +1,13 @@
+@article{NIE2025105821,
+title = {Quantitative lithology prediction from seismic data using deep learning},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105821},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105821},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003042},
+author = {Wenliang Nie and Jiayi Gu and Bo Li and Xiaotao Wen and Xiangfei Nie},
+keywords = {Quantitative lithology prediction, AdaBoost-CNN, Non-convex L1−2 regularization, Unbalanced dataset},
+abstract = {Lithology prediction is essential for understanding subsurface structures and properties. Deep learning (DL) methods, which can capture the nonlinear relationship between lithology and seismic data, have gained significant attention as an effective tool in lithology prediction. However, these methods still face many challenges such as limited well-log data, class imbalances, and the need for robust predictive models. To address these issues, we propose an adaptive boosting-convolutional neural network (AdaBoost-CNN) framework integrated with improved inverse spectral decomposition (ISD) based on non-convex L1-2 regularization. The ISD method generates high-resolution time-frequency (T-F) spectral maps from seismic data, which serve as inputs for the CNN. Furthermore, we introduce an enhanced sample weight adjustment strategy and a "CNN transfer" mechanism within the AdaBoost framework to address class imbalance and enhance training efficiency. The performance of AdaBoost–CNN was validated through field cases, and a comprehensive evaluation of the model parameters was conducted to understand their impact on performance. Field experiments demonstrated that the proposed method enhanced both the training efficiency and generalization ability of the models. Additionally, it effectively predicted lithology from seismic data and quantified lithology probabilities, thereby providing insights into the distribution of subsurface lithology.}
+}

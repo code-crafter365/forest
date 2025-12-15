@@ -1,0 +1,13 @@
+@article{GOWRACHARI2025106758,
+title = {Non-intrusive model reduction of advection-dominated hyperbolic problems using neural network shift augmented manifold transformation},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106758},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106758},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500218X},
+author = {Harshith Gowrachari and Nicola Demo and Giovanni Stabile and Gianluigi Rozza},
+keywords = {Operator learning, Automatic shift detection, Manifold transformation, Non-linear model reduction, Advection-dominated hyperbolic equations, Reduced order modelling},
+abstract = {Advection-dominated problems are predominantly noticed in nature, engineering systems, and various industrial processes. Traditional linear compression methods, such as proper orthogonal decomposition (POD) and reduced basis (RB) methods are ill-suited for these problems, due to slow Kolmogorov n-width decay. This results in inefficient and inaccurate reduced order models (ROMs). There are few non-linear approaches to accelerate the Kolmogorov n-width decay. In this work, we use a neural network shift augmented transformation technique that employs automatic shift detection. This approach leverages a deep-learning framework to derive a parameter-dependent mapping between the original manifold M and the transformed manifold M̃. We apply a linear compression method to obtain a low-dimensional linear approximation subspace of the transformed manifold M̃. Furthermore, we construct non-intrusive reduced order models on the resulting transformed linear approximation subspace and employ automatic shift detection for predictions in the online stage. We propose a complete framework, the neural network shift-augmented proper orthogonal decomposition-based reduced order model (NNsPOD-ROM) algorithm, comprising both offline and online stages for model reduction of advection-dominated problems. We test our proposed methodology on numerous experiments to evaluate its performance on the 1D linear advection equation, a higher order method benchmark case - the 2D isentropic convective vortex, and 2D two-phase flow.}
+}

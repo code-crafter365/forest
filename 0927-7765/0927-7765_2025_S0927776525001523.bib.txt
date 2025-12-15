@@ -1,0 +1,13 @@
+@article{XU2025114645,
+title = {A shape memory polynorbornene-based dynamic cell culture platform capable of providing pure mechanical strains},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114645},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114645},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001523},
+author = {Weilong Xu and Hao Li and Yanbin Lin and Di Wu and Xiuyong Liao and Yanfeng Luo},
+keywords = {Shape memory, Polynorbornene, Dynamic cell culture platform, Recovery strain, Cell orientation},
+abstract = {Shape memory polymers (SMPs) can actively generate recovery strain during shape recovery. This characteristic endows SMPs with the potential for dynamic cell culture platforms capable of providing cells with strain stimulation. However, a critical challenge encountered by current SMP-based platforms is that, besides providing recovery strain, shape recovery can alter surface topography and chemistry. Given that both surface topography and chemistry influence cell behavior, decoupling the recovery strain from the alterations in surface topography and chemistry becomes greatly important. In this work, polynorbornene (PNB), an amorphous homopolymer with a shape memory temperature close to the body temperature, was fabricated into films. We found that the shape recovery of the PNB films does not alter the surface chemistry and topography but produces pure recovery strain. The recovery strain is featured with a compressive strain (up to ∼50 %) along and a tensile strain (up to ∼40 %) perpendicular to the stretching direction, which combine to facilitate the orientation of rat mesenchymal stem cells via both passive and active modes related to the F-actin cytoskeletons. These findings confirm that PNB-based films can act as an effective dynamic cell culture platform, which adds a new alternative for smart mechanical loading in biomedical fields.}
+}

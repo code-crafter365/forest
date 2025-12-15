@@ -1,0 +1,13 @@
+@article{WU2025111162,
+title = {A study on the thermo-mechanical dynamic response characteristics of unidirectional CF/PEEK composite laminates under high strain rates},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111162},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111162},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001307},
+author = {Zhenbo Wu and Tian Zhao and Ziheng Qiu and Boang Su and Jingze Yi and Ying Li},
+keywords = {High-velocity impact, CF/PEEK composites, Thermo-mechanical response, Impact-induced heating, Energy dissipation},
+abstract = {This study systematically investigates the high-velocity impact behavior of CF/PEEK composite laminates along both the longitudinal and thickness directions using a combined theoretical, numerical, and experimental approach. Within the framework of the second law of thermodynamics, the inevitability of temperature rise and the irreversibility of stiffness degradation during impact processes were rigorously established, laying a fundamental foundation for investigating the thermo-mechanical response of semi-crystalline thermoplastic composites. The mechanisms and underlying causes of heat generation during impact were derived and validated, offering valuable insights into energy dissipation, damage evolution, and the interaction between thermal and mechanical phenomena. The finite element analysis (FEA), based on the proposed progressive damage-based heat generation theory, accurately captured both the temperature rise and stress distribution within the unidirectional CF/PEEK composite laminate specimens, demonstrating a strong correlation with the experimental data. The analysis revealed that impacts along the longitudinal direction primarily induce interfacial failure, fiber breakage, and shear cracking, whereas impacts along the transverse and thickness directions lead to inter-fiber failure (IFF), with cracks propagating at a 55° angle. This behavior is attributed to the anisotropic nature of unidirectional composites, which influences the shear stress distribution and governs the crack propagation direction. In both impact scenarios, extensive plastic deformation and brittle fracture were observed, further confirming the conversion of mechanical energy into thermal energy. These findings provide valuable insights for the structural design and optimization of composite materials subjected to extreme mechanical and thermal loading conditions.}
+}

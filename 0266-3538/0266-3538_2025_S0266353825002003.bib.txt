@@ -1,0 +1,13 @@
+@article{KANG2025111232,
+title = {Enhanced self-poled output performance of flexible and mechanically robust in situ synthesized ZnO/PVDF hybrid piezoelectric composite films for human motion monitoring},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111232},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111232},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002003},
+author = {Fan Kang and Hui He and Fangrong Guan and Hongyu Zhai and Cheng Zhang and Yujia Liu and Yue Shen and Luyun Han},
+keywords = {Hybrid network, PVDF composite film, Self-poled, β-phase nucleation, Piezoelectric nanogenerator},
+abstract = {Piezoelectric nanogenerator (PENG) has been a promising mechanical energy harvester for portable electronic and wearable devices in recent years, yet polymer-based piezoelectric composites with high flexibility and expansibility remain challenging. Herein, an enhanced self-poled strategy for the flexible AgMo@ZnO/PVDF hybrid piezoelectric composite film fabricated via the casting process is coming up to obtain the high-performance PENG. Attributed to the noncovalent crosslinking network formed with modified MoS2 (g-MoS2), high-aspect-ratio silver nanowires (AgNWs) and in-situ synthesized ZnO, the AgMo0.1@ZnO6.5/PVDF composite film is induced to crystallize and its tensile strength is as high as 62.8 MPa with the assistance of post-annealing treatment. Notably, the electroactive polar β-phase in the composite film is further stimulated to nucleate, where the relative fraction (F(β)) is increased to 83.4 %. Moreover, the composite film is endowed with ultra-high piezoelectric output (22.65V), which is about 16.5 times higher than that of neat PVDF film benefitting from the hybrid networks of enhanced induced charge and β-phase transfer. Taking the above advantages, the AgNWs-TCFs/PENG assembled with AgNWs@SiO2NPs-TCF exhibited rapid response time, high sensitivity, outstanding reliability, and stability, which can accurately monitor the plane and bending human motions. We believe this work provides a simple and feasible design idea for creating high-performance PENGs, driving the development of PVDF-based flexible piezoelectric devices.}
+}

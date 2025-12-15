@@ -1,0 +1,13 @@
+@article{HUO2025118073,
+title = {Deep mechanics prior - for the multiscale finite element method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118073},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118073},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003457},
+author = {Senlin Huo and Yong Zhao and Bingxiao Du and Zeyu Zhang and Yaqi Cao and Yiyu Du},
+keywords = {Data-driven, Deep learning, Multiscale finite element method, Physical constraints, Equivalent stiffness matrix},
+abstract = {The Multiscale Finite Element Method (MsFEM) decomposes the problem of solving partial differential equations with multiscale characteristics into two subproblems at two discrete resolution levels, i.e., the macroscopic one on a coarse mesh and the microscopic one on a fine mesh. The microscopic subproblems are used for constructing the Equivalent Stiffness Matrices (ESMs) of the coarse elements, and the calculation of them is the most time-consuming part in the MsFEM. Using a pure data-driven model that is independent of mechanical knowledge to directly predict ESMs, even with a pretty high-precision model, the outputs may still lack basic physical rationality. The core challenge lies in the strict assurance of the basic physical characteristics of the predicted ESMs, that is, the Rigid Displacement Properties (RDPs), which require the ESM to produce zero-strain energy under rigid body displacement. In terms of the mechanical essence, this requirement is closely correlated with the physical meaning of the eigenvectors and eigenvalues of the ESMs. Based on the above deep mechanics prior knowledge, a surrogate model based on Deep Learning (DL) and orthogonal decomposition techniques is developed. The inputs of the DL neural networks are the geometry parameters of the coarse element, while the outputs are eigenvectors and eigenvalues of the ESM. The dimensions of the outputs are reduced by directly specifying a specific number of zero eigenvalues and eigenvectors. The RDPs are embedded in the reconstruction calculation of the ESMs based on the outputs in a structured manner, assuring the physical reasonability of the predictions. Numerical examples demonstrate the performance of the proposed method.}
+}

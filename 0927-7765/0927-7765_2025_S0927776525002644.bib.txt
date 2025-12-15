@@ -1,0 +1,13 @@
+@article{DU2025114757,
+title = {Precision surface-immobilized peptide on graphene/chitosan composite sponge for rapid hemostasis of uncontrolled bleeding},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114757},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114757},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002644},
+author = {Fanglin Du and Yuanhang Wang and Wengjing A and Muyuan Tang and Fang Liu and Xiaojiao Pan and Xing Wang and Guofeng Li},
+keywords = {Hemostasis, Graphene/chitosan composite, Thrombin receptor-activating peptide (TRAP), Thiol-ene photoclick chemistry, Synergistic hemostasis},
+abstract = {Efficient and safe hemostasis for trauma-induced bleeding remains a critical challenge. In this study, we developed a peptide-immobilized graphene/chitosan composite sponge (GCCS-TRAP) for enhanced hemostatic performance. The thrombin receptor-activating peptide (TRAP) was precisely immobilized on the surface of a graphene/chitosan crosslinked sponge via thiol-ene photoclick chemistry. GCCS-TRAP exhibited outstanding liquid absorption capabilities, absorbing up to 30 times its own weight with a rapid absorption rate of 0.27 seconds. The sponge also demonstrated remarkable mechanical strength of 96.3 kPa. More importantly, GCCS-TRAP effectively activated platelets and the coagulation cascade, showing superior in vitro coagulation properties with a blood coagulation index of 7.1 %. In a rat femoral artery hemorrhage model, GCCS-TRAP achieved rapid hemostasis within 81.3 seconds, reducing blood loss by up to 62 % compared to commercial hemostatic materials such as chitosan-based powders, gelatin-based sponge, and polysaccharide-based powders. Additionally, GCCS-TRAP exhibited excellent biocompatibility, with minimal hemolysis and cytotoxicity. This innovative strategy of peptide immobilization via light-controlled chemistry offers a promising approach to designing next-generation hemostatic agents, optimizing peptide usage while maximizing hemostatic efficacy and safety.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025118356,
+title = {Mixed-depth physics-informed neural network with nested activation mechanism in solving partial differential equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118356},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118356},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006280},
+author = {Tianhao Wang and Guirong Liu and Eric Li and Xu Xu},
+keywords = {Physics-informed neural network, nested activation function, mixed-depth blocks, convergence, partially known physical laws},
+abstract = {Physics-informed neural networks (PINNs) have become promising tools for solving complex partial differential equations (PDEs), but traditional PINNs suffered from slow convergence, vanishing gradients, and poor handling of local physical features. This paper proposes a mixed-depth physics-informed neural network (md-PINN) for solving the complex PDEs, aiming to improve the efficiency of network structure and activation function. The contributions are two aspects: (1) the md-PINN includes the various mixed-depth blocks, each of which contains parallel connected deep sub-network and shallow sub-network. The deep sub-network captures complex physical features, ensuring a comprehensive understanding of the system; while the shallow sub-network focuses on the basic physical features, facilitating the stable training; (2) the md-PINN introduces a new nest-tanh(.) activation functions with nested mechanism in shallow sub-networks to enable efficient extraction of complex features using fewer hidden layers, reducing reliance on deep networks. By incorporating mixed-depth structures, md-PINN enables more efficient information sharing across different layer, leading to faster convergence and improved training efficiency. Theoretical analysis demonstrates that md-PINN avoids suboptimal convergence with appropriate initialization. The proposed approach is validated across multiple PDEs, including heat transfer scenarios with complex boundaries, bi-material solid mechanical problems, Allen-Cahn equation, fluid dynamics, and the higher order Kuramoto-Sivashinsky equation. Results show that md-PINN exhibits the superior capabilities in approximating and capturing intricate system features. These findings underscore the computational efficiency and potential of md-PINN in tackling real-world and complex problems.}
+}

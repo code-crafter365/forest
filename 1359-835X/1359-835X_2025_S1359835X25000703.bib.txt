@@ -1,0 +1,13 @@
+@article{LI2025108776,
+title = {Microstructure-Driven mechanical behavior and recovery mechanism of thermoplastic vulcanizates: A multi-scale analysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108776},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108776},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000703},
+author = {Chunxiao Li and Lifeng Ma and Zhiyuan Zhu and Longhao Li and Chengyuan He},
+keywords = {Thermoplastic vulcanizate (TPV), Elasticity, Micromechanics, Mechanical properties},
+abstract = {Thermoplastic vulcanizate (TPV) is a versatile material whose mechanical properties are significantly influenced by its primary phases, polypropylene (PP) and ethylene-propylene-diene monomer (EPDM). This research explores how variations in the elastic moduli of these phases affect TPV performance. Finite element modeling and experimental validation reveal that increasing the elastic modulus of PP enhances both the elastic and plastic moduli of TPV, exhibiting linear behavior at high moduli and nonlinear behavior as PP and EPDM moduli converge, reducing PP’s control over elasticity. A higher PP modulus also reduces resilience due to limited elasticity, while an increased EPDM modulus improves strength, elasticity, and resilience owing to EPDM’s exceptional elasticity. These findings emphasize the importance of optimizing phase properties to achieve targeted TPV performance, offering valuable insights for TPV design and material enhancement.}
+}

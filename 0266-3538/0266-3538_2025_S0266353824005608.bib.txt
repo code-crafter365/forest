@@ -1,0 +1,13 @@
+@article{LI2025110990,
+title = {Sequential multiscale simulation of heat transfer and experimental verification of porous phenolic resin composites under Knudsen effect},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110990},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110990},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005608},
+author = {Bo Li and Kuibao Zhang and Jun Jiang and Youan Shi and Zhonghao Ming and Tingze Chen},
+keywords = {Python, Multiscale FEM, Composites, Elementalized porous model, Knudsen effect},
+abstract = {The randomness and multi-level structures inherent to porous composites with open-pore make it difficult to establish equivalent geometric models at different scales for multi-scale simulations. This paper presents a combined experimental and simulation approach to the preparation, structural analysis and multiscale simulation of quartz fibre-reinforced phenolic composites. The elementalized open-pore porous models with the Knudsen effect, the random fibre yarn models and the random fibre felt models have been established and assembled into a composite structural model after homogenization. The thermal conductivity parameters of the porous model are calculated and transferred to the fibre yarn and fibre felt models for simulation. Thereafter, the thermal conductivity parameters of the three models are transferred to the composite structure model and simulated to obtain its equivalent thermal conductivity. The experimental and simulation results demonstrate that the introduction of the Knudsen effect can reduce the simulation error of the composite structure model by an order of magnitude. In combination with the random contact characteristics of the yarns, the sequential multiscale finite element heat transfer simulation with an error of 0.5 % can be achieved.}
+}

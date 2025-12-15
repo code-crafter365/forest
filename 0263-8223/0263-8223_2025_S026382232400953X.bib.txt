@@ -1,0 +1,13 @@
+@article{WU2025118825,
+title = {Are sutural structures in biology the optimal topological design?},
+journal = {Composite Structures},
+volume = {354},
+pages = {118825},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118825},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400953X},
+author = {Junhao Wu and Baoshou Liu and Yinan Cui},
+keywords = {Suture, Optimization, Biomaterial, Genetic algorithm},
+abstract = {Sutural structures are widely observed in biology and attract lots of attention. However, the majority of current research focuses on understanding the characteristics of sutural structures, with little research investigating whether sutural structures in biology are the optimal topological design. To disclose this mystery, this paper summarizes the characteristics of sutural structures found in nature and characterizes their shapes by several important geometric parameters. By establishing analytical models and finite element models of sutural structures, we investigate the stiffness, strength, and damping energy dissipation properties of sutural structures in biomaterials and optimized the sutural shapes based on genetic algorithm (GA) under static tensile and shear loading, as well as dynamic uniaxial loading. Under static loading, sutural structures with interlocking features demonstrate great stiffness and strength. Under dynamic loading, the frequency of the external excitation and the sutural shapes jointly determine the energy dissipation performance. We find that the sutural shapes in typical biomaterials evolve to optimal shapes to achieve certain optimal mechanical properties. Additionally, genetic algorithms provide a paradigm for the design of materials with multi-objectives, allowing for the design of sutural structures that balance various mechanical properties.}
+}

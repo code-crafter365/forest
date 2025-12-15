@@ -1,0 +1,13 @@
+@article{VARNA2025108594,
+title = {COD and CSD based model for in-plane stiffness of symmetric laminates with cracks in plies and local delaminations: Analysis of crack face sliding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108594},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108594},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400592X},
+author = {Janis Varna and Rodrigo T.S. Freire and Mohamed Sahbi Loukil and Nawres J. Al-Ramahi},
+keywords = {Laminates, Transverse cracks, Local delaminations, Thermo-elastic constants, Crack face displacements},
+abstract = {In-plane thermo-elastic constants of symmetric damaged laminates containing transverse cracks in plies and local delaminations starting from crack tip are predicted using a crack opening (COD) and crack sliding displacement (CSD) based approach. An exact elastic analysis shows that the displacement gap on the delamination crack surfaces does not enter the stiffness expressions explicitly. The delamination affects the stiffness via larger COD and CSD of the intralaminar crack. This means that the same expressions for cracked laminates with and without delaminations can be used but with different expressions for COD and CSD. Finite element method is used to analyze the CSD dependence on delamination length and crack density. The obtained approximative expressions for CSD are in a good agreement with FEM. It is shown that in cases when it depends on CSD only, the predicted shear modulus of laminates is in an excellent agreement with direct FEM calculations. The used homogenization over couples of off-axis plies (monoclinic materials) in CSD expressions for balanced laminates is validated.}
+}

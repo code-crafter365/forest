@@ -1,0 +1,13 @@
+@article{COOL2025117744,
+title = {Metamaterial design with vibroacoustic bandgaps through topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117744},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117744},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000167},
+author = {Vanessa Cool and Ole Sigmund and Niels Aage},
+keywords = {Topology optimization, Metamaterials, Bandgap optimization, Vibroacoustics, Zipper methodology},
+abstract = {Metamaterials have shown potential to achieve strong noise or vibration reduction in predefined frequency ranges. Targeting both wave types simultaneously remains, however, a cumbersome design task requiring complex geometries which often only enable a wide bandgap for one type while limited attenuation for the other. To overcome this hurdle, this work presents a 2D topology optimization framework to obtain broadband vibroacoustic bandgaps, simultaneously targeting acoustic and structural waves. Although bandgap topology optimization is a matured area of research, this work differentiates itself by including both physics simultaneously during the optimization resulting in novel vibroacoustic unit cell geometries. The intricate multi-physical metamaterial designs achieve broad frequency zones of simultaneous acoustic and structural attenuation. During the optimization, both volume and connectivity constraints are used to ensure lightweight, functional designs without material islands. Moreover, a zipper methodology is presented to enlarge the chances of achieving broad bandgaps. With both weakly and strongly coupled vibroacoustic case studies, the versatility of the framework is shown.}
+}

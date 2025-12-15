@@ -1,0 +1,13 @@
+@article{ALNAWWAR2025114647,
+title = {Investigations into the topical hemostatic and wound healing efficacy of binary Hyaluronic acid/Collagen membranes coated with tranexamic acid and vitamin K; InVitro},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114647},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114647},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001547},
+author = {Wareef H Alnawwar and Abeer Abdulaziz H. Bukhari},
+keywords = {Hyaluronic acid, Collagen, Hemostatic, Tranexamic, Vitamin K},
+abstract = {A hemostatic dressing refers to a specific category of medical dressings that have been developed for managing and controlling bleeding. A synthesized hyaluronic acid/collagen (HA/COL) membrane integrated with tranexamic acid (TRAX) and/or vitamin K (Vit K) using the lyophilization technique is fabricated, followed by physical, chemical, and biological assessment. The clotting time and coagulation variables, as prothrombin (PT), partial thromboplastin time (PPT), and international normalized ratio (INR), were also assessed. The antimicrobial properties were tested against Gram-positive & Gram-negative bacteria, yeast, and fungi. The obtained membranes exhibited porous and swellable characteristics, demonstrating their ability to encapsulate vitamin K and/or tranexamic acid effectively. The cell studies demonstrated that the samples containing vitamin K exhibited less toxicity, in contrast to the TRAX compounds. The assessment of cytotoxicity is substantiated by conducting research on wound healing and determining the IC50 values. Additionally, the samples of vitamin K exhibited rapid clotting, which was corroborated by assessing the coagulation blood factors such as PT, PTT, and INR. The antibacterial activity seen in all samples can be attributed to the presence of HA among the membrane constituents. It is advisable to integrate vitamin K into the HA/COL membrane rather than within TRAX or a combination of TRAX.}
+}

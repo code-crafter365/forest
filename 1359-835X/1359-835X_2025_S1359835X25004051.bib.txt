@@ -1,0 +1,13 @@
+@article{ALAWY2025109111,
+title = {Advanced auxetic sensors for real-time torsional and impact sensing via pellet-fed 3D printing},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109111},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109111},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004051},
+author = {A. Alawy and L.J. Sudak},
+keywords = {Auxetic structures, Piezoresistive nanocomposites, Torsional sensing, Impact localization},
+abstract = {This study presents an auxetic piezoresistive sensor fabricated via Pellet-Based Material Extrusion (Pellet-based MEX) using thermoplastic polyurethane (TPU) loaded with 10 wt% multi-walled carbon nanotubes (MWCNTs). The sensor is designed to monitor torsional and impact events in real time, offering potential use in head protection systems. Process parameters are optimized to reduce clogging, improve print fidelity, and enhance the mechanical and electrical performance. The Arrowhead auxetic sensor is designed for real-time impact detection in helmets, providing enhanced impact energy absorption and controlled rotational motion to attenuate the impact loads. A rheological model is developed to simulate nanocomposite flow behaviour during extrusion, accounting for filler alignment and melt viscosity across thermal zones. The model’s predictions are validated through scanning electron microscope (SEM) analysis. Dynamic mechanical analysis (DMA) tests are conducted to investigate the influence of nozzle diameter and printing direction on the material’s stress relaxation behaviour and the Mullins effect. Torsional behaviour is further evaluated through piezoresistive response mapping, emphasizing the auxetic structure’s performance under twisting loads and demonstrating that the Al-20 sample offers a stable and reliable piezoresistive response corresponding to torsional deformation. Digital Image Correlation (DIC) is used to assess total displacement and twist angle, confirming that higher relative density structures provide superior torque resistance. A time-of-arrival (TOA) framework is implemented to localize impact sites and distinguish between rotational and radial loading, based on resistance patterns. The integrated auxetic sensor system demonstrates effective energy absorption and supports real-time diagnostics capability, making it suitable for advanced helmet applications.}
+}

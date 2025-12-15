@@ -1,0 +1,13 @@
+@article{ZHANG2025114538,
+title = {Revealing the mechanism of two rimantadine derivatives inhibiting Aβ aggregation and destabilizing Aβ protofibrils by molecular dynamics simulation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114538},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114538},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000451},
+author = {Jiaxing Zhang and Yufan Yang and Chengyu Zhang and Yuefei Wang and Rongxin Su and Wei Qi},
+keywords = {Amyloid-β aggregation, Fibrosis inhibition, Rimantadine derivative, Replica-exchange, Molecular dynamics simulation},
+abstract = {Two rimantadine derivatives, m-aminobenzoyl rimantadine (meta) and p-aminobenzoyl rimantadine (para), have been demonstrated to effectively inhibit the aggregation of amyloid-β (Aβ) peptides. However, the exact atomic-level mechanism remains elusive. In this study, we investigated the inhibitory mechanisms of meta and para on Aβ aggregation. Using replica-exchange and microsecond classical molecular dynamics simulations, we analyzed the conformational ensembles of Aβ dimers and the structure of Aβ(1−40) protofibrils both with and without the rimantadine derivatives. Results showed that meta and para inhibit Aβ aggregation by hydrogen bonds and hydrophobic interactions with Aβ dimers. Meta mainly binds to CHC residues F19 and F20 to disrupt hydrophobic contacts, while para targets β-turns and the K28–V40 region, destabilizing the hydrophobic core and increasing structural flexibility, thus preventing stable dimer formation. Para exhibits a higher binding affinity and is more effective in inhibiting Aβ aggregation and destabilizing protofibrils. These findings provide valuable insights into the atomic-level mechanisms by which meta and para inhibit Aβ aggregation, offering promising avenues for the exploration of potential therapeutics for Alzheimer's disease (AD).}
+}

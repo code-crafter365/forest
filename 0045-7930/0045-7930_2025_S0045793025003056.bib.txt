@@ -1,0 +1,13 @@
+@article{XIE2025106845,
+title = {Phase-field modeling of melting processes in viscoelastic materials},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106845},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106845},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003056},
+author = {Hongfei Xie and Ying Meng and Kang Luo and Hongliang Yi},
+keywords = {Phase change, Viscoelastic material, Phase-field method, Log-conformation reformulation},
+abstract = {In this paper, the solid–liquid phase change problems of viscoelastic materials are solved using the spectral element method (SEM). The phase-field method is employed to simulate the melting dynamics, while the log-conformation reformulation (LCR) method is utilized to address the high Weissenberg number problem (HWNP). The reliability of the proposed numerical model is systematically validated through benchmark comparisons with literature data and finite volume method (FVM) simulations. Subsequently, a comprehensive analysis is conducted to investigate the influence of viscoelastic effects on the melting dynamics in a cavity under different Rayleigh and Weissenberg numbers. The computational results demonstrate that the viscoelastic effect significantly enhances heat transfer efficiency and accelerates the melting process. This enhancement can be attributed to the viscoelastic effects that effectively reduce flow resistance while enhancing the average kinetic energy of convective flows.}
+}

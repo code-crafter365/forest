@@ -1,0 +1,13 @@
+@article{LI2025119431,
+title = {Investigations on the failure mechanism of UHPC- aluminum honeycomb sandwich beams under three-point bending},
+journal = {Composite Structures},
+volume = {371},
+pages = {119431},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119431},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005963},
+author = {Zheng Li and Ziping Lei and Zhaijun Lu and Jiefu Liu and Feng Gao and Hao Di},
+keywords = {UHPC, Aluminum honeycomb, Sandwich structure, Three-point bending},
+abstract = {To broaden the application of lightweight honeycomb-like structures in civil engineering, this study presents a novel sandwich structure composed of Ultra-High-Performance Concrete (UHPC) face sheets and an aluminum honeycomb core. This study investigates the flexural behavior of UHPC-aluminum honeycomb sandwich beams under three-point bending to elucidate the loading capacity and failure mechanisms. Results reveal that the proposed UHPC-honeycomb sandwich construction exhibits significantly enhanced load-bearing capacity and bending stiffness compared to solid UHPC beams of equivalent mass. this research elucidates the influence of the face sheet-core strength ratio on the resulting failure mode. A high face sheet-core strength ratio promotes local buckling failure, while a low ratio leads to bending failure. An Optimal strength ratio facilitates shear failure, maximizing the structure’s energy absorption capability.Finally, the comparison on different interface connections, shear studs and adhesive bonding, in terms of failure performance is also investigated.}
+}

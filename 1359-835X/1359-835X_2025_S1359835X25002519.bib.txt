@@ -1,0 +1,13 @@
+@article{KONDARAGE2025108957,
+title = {Synthesis and characterization of MXene/nanocrystalline cellulose composite thin films for enhanced electromagnetic interference shielding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108957},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108957},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002519},
+author = {Yashodha Gayashini Kondarage and Ashen Naiduwawadu and Ishara Wijesinghe and Chathushka D. Hettige Dharmasiri and Konstantin L. Firestein and Ting Liao and Cheng Yan},
+keywords = {EMI shielding, Bio-inspired, MXene, Nanocellulose},
+abstract = {The rapid growth of electronic devices and wireless technologies has raised concerns about electromagnetic interference (EMI), which can disrupt device functionality and pose health risks. As devices become smaller and more integrated, the demand for effective EMI shielding materials has increased. Traditional metallic materials are commonly used for EMI shielding due to high electrical conductivity, but their weight and susceptibility to corrosion limit their applications. On the other hand, polymer matrix composites with conductive fillers are generally lighter and flexible but their EMI shielding performance needs to be significantly improved. In this study, Ti3C2TX MXene and nanocrystalline cellulose (CNC) composite thin films were synthesized via vacuum-assisted filtration. The resulting ultrathin (4–5 μm), flexible, and free-standing films feature a nacre-like microstructure, demonstrating an excellent EMI shielding effectiveness (SE) of 44 dB, a low density of 3.41 g cm−3, and high conductivity of 1465.25 S cm−1, exceeded the commercial standard requirement of 20 dB. Further, in this composite, EMI shielding is predominantly governed by absorption, contrasting with conventional metal-based materials prone to secondary electromagnetic interference. The exceptional performance is attributed to the synergy between MXene’s conductivity and CNC’s role in forming interfaces and OH bonds. This study introduces a novel approach to prepare flexible EMI shielding materials for electronic devices with complex geometries.}
+}

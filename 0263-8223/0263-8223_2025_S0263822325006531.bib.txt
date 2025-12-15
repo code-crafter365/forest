@@ -1,0 +1,13 @@
+@article{ZAKOWOROTNY2025119488,
+title = {Multiscale modeling of frontal polymerization in laminated and woven composites},
+journal = {Composite Structures},
+volume = {371},
+pages = {119488},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119488},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006531},
+author = {Michael Zakoworotny and Gavin DeBrun and Sameh H. Tawfick and Jeffery W. Baur and Philippe H. Geubelle},
+keywords = {Frontal polymerization, Multiscale modeling, Composite laminate, Woven composite, Thermo-chemical modeling, Homogenization},
+abstract = {Frontal polymerization (FP) of thermoset fiber-reinforced composites involves the propagation of a reaction front that cures the composite rapidly and efficiently. In this work, we present a numerical model based on a homogenized thermo-chemical framework to simulate FP in composites at the mesoscale by homogenizing the fiber and resin, and capture the impact of the composite morphology on the propagation of the polymerization front. We use homogenization principles to predict the average macroscopic front speed in the composite and compare the analytical models to the numerical solutions. The study involves two classes of composites - laminated and woven composites - and investigates the effect of the fiber volume fraction and composite design on the front speed. We find that finite-dimensional effects may cause the front speed to deviate from the homogenized prediction in composite laminates. Likewise, the front speed may exceed the homogenized prediction in woven composites due to the heterogeneity in resin distribution and the emergence of temperature overshoots at lower fiber volume fractions.}
+}

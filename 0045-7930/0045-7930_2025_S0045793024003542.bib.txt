@@ -1,0 +1,13 @@
+@article{LIU2025106523,
+title = {A critical comparison of the implementation of granular pressure gradient term in Euler–Euler simulation of gas–solid flows},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106523},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106523},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003542},
+author = {Yige Liu and Mingming He and Jianhua Chen and Wen Li and Bidan Zhao and Ji Xu and Junwu Wang},
+keywords = {Gas–solid flow, Two-fluid model, Kinetic theory for granular flow, Granular pressure, Fluidization, Multiphase flow},
+abstract = {Numerical solution of Euler–Euler model using different in-house, open source and commercial software can generate significantly different results, even when the governing equations and the initial and boundary conditions are exactly same. Unfortunately, the underlying reasons have not been identified yet. In this article, three methods for calculating the granular pressure gradient term are presented for two-fluid model of gas–solid flows and implemented implicitly or explicitly into the solver in OpenFOAM®: Method I assumes that the granular pressure gradient is equal to the elastic modulus plus the solid concentration gradient; Method II directly calculates the gradient using a difference scheme; Method III, which is proposed in this work, calculates the gradient as the sum of two partial derivatives: one related to the solid volume fraction and the other related to the granular energy. Obviously, only Methods II and III are consistent with kinetic theory of granular flow. It was found that the difference between all methods is small for bubbling fluidization. While for circulating fluidization, both Methods II and III are capable of capturing non-uniform structures and producing superior results over Method I. The contradictory conclusions made from the simulation of different fluidization regimes is due to the different contribution of the term related to the granular energy gradient. Present study concludes that the implementation method of granular pressure gradient may have a significant impact on the hydrodynamics of gas–solid flows and is probably a key factor contributing to the observed differences between different simulation software.}
+}

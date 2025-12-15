@@ -1,0 +1,13 @@
+@article{CUI2025102608,
+title = {Taming large vision model for medical image segmentation via Dual Visual Prompt Tuning},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102608},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102608},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500117X},
+author = {Ruize Cui and Lanqing Liu and Jing Zou and Xiaowei Hu and Jialun Pei and Jing Qin},
+keywords = {Visual prompting, SAM, Large model adaptation, Medical image segmentation},
+abstract = {This paper presents Dual Visual Prompt Tuning (DVPT), an innovative strategy to enhance the performance of the Segment Anything Model (SAM) for medical image segmentation. While SAM demonstrates robust generalization in natural image segmentation, its effectiveness in medical tasks is hindered by the distinct characteristics of medical targets, the presence of noise and artifacts, and insufficient task-specific data for fine-tuning. Moreover, the manual-prompting paradigm applied in SAM make it laborious when adapted to medical domain. To address these challenges, DVPT employs an fully automatic prompting paradigm and assembles both image-specific local and global guidance into SAM through two components: the Local Feature Prompt Tuning (LFPT) module, which enhances local information capture of detailed anatomical structures, and the Global Guiding Prompt (GGP) encoder, which mitigates noise interference and strengthens the identification of ambiguous boundaries within medical images. By integrating both local and global prompts within the mask decoder, the proposed DVPT yields superior segmentation accuracy. Experimental results across three medical image segmentation tasks consistently demonstrate that our method outperforms current state-of-the-art approaches. Our method significantly contributes to accurate and impactful computer-assisted diagnostics, promoting advancements in healthcare solutions. Our code can be available at https://github.com/cuiruize/DVPT.}
+}

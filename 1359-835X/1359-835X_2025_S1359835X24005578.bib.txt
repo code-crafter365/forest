@@ -1,0 +1,13 @@
+@article{JIANG2025108559,
+title = {Flexible conductive adhesives with high conductivity and infrared stealth performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108559},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108559},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005578},
+author = {Chengwei Jiang and Chunfang Zi and Jing Li and Changxiang Hao and Shaoyong Cai and Yiqi Xu and Fengyu Su and Ge Cao and Yanqing Tian},
+keywords = {(A) Metal-matrix composites (MMCs), (A) Nanoparticles, (B) Electrical properties, (B) Thermal properties},
+abstract = {While extensively employed in electronic packaging, the prevailing electrically conductive adhesives (ECAs) are currently constrained by their lack of flexibility, excessive manufacturing costs, and limited multifunctionality. In this work, the antimony-doped tin oxide flexible conductive adhesives (AFCAs) were prepared by incorporating the antimony-doped tin oxide (ATO) nanoparticles into a thermoplastic polyurethane (TPU) matrix along with silver flakes. The ATO nanoparticles acted as conductive bridges for sliver flakes to enhance the electrical conductivity and mechanical integrity of the composites. The AFCAs formulated with a mere 60 % Ag and 7 % ATO nanoparticles exhibited an exceptionally low volume resistivity of 2.01 × 10-5 Ω·cm. After 10,000 mechanical bending cycles, the resistance change of AFCAs was only 8 %. Remarkably, the AFCA films also demonstrated excellent infrared stealth capabilities by infrared thermal imaging. This study demonstrates a facile strategy to develop high-performance and multifunctional AFCAs for flexible electrics with excellent electrical stability and infrared stealth capabilities.}
+}

@@ -1,0 +1,13 @@
+@article{SUKUMAR2025117909,
+title = {Variational formulation based on duality to solve partial differential equations: Use of B-splines and machine learning approximants},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117909},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117909},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001811},
+author = {N. Sukumar and Amit Acharya},
+keywords = {Dual variational principles, Convex duality, Weak formulation, Space–time Galerkin method, B-splines, RePU neural networks},
+abstract = {Many partial differential equations (PDEs) such as Navier–Stokes equations in fluid mechanics, inelastic deformation in solids, and transient parabolic and hyperbolic equations do not have an exact, primal variational structure. Recently, a variational principle based on the dual (Lagrange multiplier) field was proposed. The essential idea in this approach is to treat the given PDEs as constraints, and to invoke an arbitrarily chosen auxiliary potential with strong convexity properties to be optimized. On requiring the vanishing of the gradient of the Lagrangian with respect to the primal variables, a mapping from the dual to the primal fields is obtained. This leads to requiring a convex dual functional to be minimized subject to Dirichlet boundary conditions on dual variables, with the guarantee that even PDEs that do not possess a variational structure in primal form can be solved via a variational principle. The vanishing of the first variation of the dual functional is, up to Dirichlet boundary conditions on dual fields, the weak form of the primal PDE problem with the dual-to-primal change of variables incorporated. We derive the dual weak form for the linear, one-dimensional, transient convection–diffusion equation. A Galerkin discretization is used to obtain the discrete equations, with the trial and test functions in one dimension chosen as linear combination of either shallow neural networks with Rectified Power Unit (RePU) activation functions or B-spline basis functions; the corresponding stiffness matrix is symmetric. For transient problems, a space–time Galerkin implementation is used with tensor-product B-splines as approximating functions. Numerical results are presented for the steady-state and transient convection–diffusion equations and transient heat conduction. The proposed method delivers sound accuracy for ODEs and PDEs and rates of convergence are established in the L2 norm and H1 seminorm for the steady-state convection–diffusion problem.}
+}

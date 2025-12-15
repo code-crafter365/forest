@@ -1,0 +1,13 @@
+@article{BRAGHIN2025118773,
+title = {Evaluation of a genetic algorithm for constrained multi-objective structural optimization in laminated glass design},
+journal = {Composite Structures},
+volume = {354},
+pages = {118773},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118773},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009012},
+author = {Andrea Braghin and Laura Galuppi and Gianni Royer-Carfagni},
+keywords = {Structural optimization, Artificial intelligence, Genetic algorithm, Laminated glass, Reduced order model},
+abstract = {We evaluate an in-house implementation of a Nondominated Sorting Genetic Algorithm II (NSGA-II) for stiffness and cost efficiency multi-objective structural optimization of laminated glass under wind and self-weight, considering accidental partial breakage according to safety standards. Variables include glass thermal/chemical treatments and thickness, and interlayer types, encoded in a binary representation subjected to mutations. Load duration affects glass strength and shear coupling of the glass plies; the “Enhanced Effective Thickness” (EET) method is the reduced order calculation model. Structural verification are handled as constraints through the Compliance Score technique, influencing selection probability via penalty functions. Dynamically changing mutation probabilities are explored to prevent premature convergence to a single part of the Pareto front. The “Technique for Order of Preference by Similarity to Ideal Solution” (TOPSIS) is discussed for selecting the best solution within the Pareto set based on design inputs. The worked problem allows evaluation of all configurations and calculation of the true Pareto set via pairwise comparison, serving as a benchmark for assessing algorithm efficiency based on population size and mutation probability type (fixed or dynamically changing). Findings confirm the great potential of genetic algorithms in multi-objective structural optimization of laminated glass.}
+}

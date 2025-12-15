@@ -1,0 +1,13 @@
+@article{HE2025109212,
+title = {Mechanical and damping properties of CoCrFeMnNi high entropy alloy reinforced Cu/MnCu laminated composites by multi-scale gradient heterostructure design},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109212},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109212},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005068},
+author = {Jun He and Xiaosong Jiang and Hongliang Sun and Rui Shu and Min Zou and Yu Jiao and Zixuan Wu and Liu Yang},
+keywords = {High entropy alloy, Laminated composites, Mechanical properties, Damping properties},
+abstract = {The application of particle-reinforced metal matrix composites (PRMMC) in structural materials is constrained by the strength-toughness contradiction arising from the significant phase contrast between the matrix and the reinforcement (coefficient of thermal expansion and modulus). In this study, heterogeneous powder gradient stacking combined with powder metallurgy technology was adopted to innovatively design CoCrFeMnNi high entropy alloy particle (HEAp) reinforced Cu/MnCu laminated composites, successfully constructing a multi-scale heterogeneous laminated structure coupled with HEAp and the laminated transition layer (Interlayer). Combining experiments and model calculations, the contributions to strength enhancement and the sources of damping increment in composites were systematically elucidated. The results demonstrate that HEAp induces a gradient strengthening effect within the dual-phase Cu/MnCu matrix due to differences in interfacial bonding strength, effectively mitigating the strength-toughness trade-off by activating diverse deformation mechanisms. Within the Interlayer, defects such as geometrically necessary dislocations, stacking faults, and twins optimize the accommodation of incompatible deformation strain at heterogeneous interfaces, promote the interaction between strain gradients and deformation mechanisms while simultaneously establishing an energy dissipation mechanism through dislocation pinning-debonding motion, cooperatively optimizing the strength-damping balance. This multi-scale gradient heterostructure provides a new strategy for developing high-performance PRMMC and holds significant potential for practical engineering applications.}
+}

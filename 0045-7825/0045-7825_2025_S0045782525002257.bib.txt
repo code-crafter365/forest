@@ -1,0 +1,13 @@
+@article{WANG2025117953,
+title = {A network model for handling boundary conditions in stochastic partial differential equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117953},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117953},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002257},
+author = {Jian Wang and Qingmiao Zhao and Witold Pedrycz and Sergey V. Ablameyko and Nikhil R. Pal},
+keywords = {Stochastic partial differential equations, Neural network, Neumann boundary condition, Uncertainty quantification},
+abstract = {Stochastic partial differential equations (SPDEs) are commonly encountered in the realms of engineering and computational science. Solving SPDEs can be regarded as quantifying the impact of stochastic inputs on system responses or quantities of interest, which constitutes performing uncertainty quantification (UQ) for SPDEs. Recently, the application of neural networks to solve SPDEs has attracted considerable attention due to their potential to outperform traditional numerical solvers in computational efficiency. However, the challenge of enhancing the accuracy of neural network approaches for UQ in SPDEs remains largely unresolved. In this study, we develop neural networks capable of flexibly addressing Neumann boundary conditions while simultaneously relaxing the smoothness requirements. By avoiding the need for higher-order derivatives in the loss function, our approach demonstrates clear advantages. Numerical experiments have confirmed that our method substantially surpasses several established neural network approaches to improve the accuracy of UQ.}
+}

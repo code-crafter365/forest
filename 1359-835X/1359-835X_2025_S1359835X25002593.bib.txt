@@ -1,0 +1,13 @@
+@article{KWON2025108965,
+title = {Cellulose nanofibrils enhanced UV curable ferromagnetic resin for 3D printing of magnetoactive soft materials},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108965},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108965},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002593},
+author = {Hyeokbae Kwon and Soyeon Kwon and Seungho Park and Sanghyuk Lee and Hyun-Taek Lee},
+keywords = {Magnetic materials, 3D printing, Cellulose nanofibrils, Magnetoactive soft actuators},
+abstract = {3D printing technology enables the efficient fabrication of complex microstructures, significantly benefiting applications in soft robotics. 3D printing technology efficiently fabricates complex microstructures, particularly benefiting applications in soft robotics. Integrates active materials into 3D printing resins enabling responses to external stimuli especially to magnetic fields. In this study, we introduce cellulose nanofibrils as a rheology modifier in ferromagnetic 3D printing resins, providing a novel approach to enhancing actuation performance. The incorporation of cellulose nanofibrils maintains settlement inhibition and restricts shear modulus increase, thereby preserving the resin’s intrinsic properties and offering improved control over rheological characteristics. The addition of cellulose nanofibrils to ferromagnetic 3D printing resins retains essential properties such as tensile strength, shear modulus, and magnetization, ensuring the functionality of the material in soft robotic applications without compromising its inherent qualities. This research advances the understanding of the impact of rheology modifiers on the performance of ferromagnetic 3D printed material. Furthermore, this study enhances magneto-mechanical actuation and provides a new perspective on the fabrication of high-performance ferromagnetic 3D printed robots.}
+}

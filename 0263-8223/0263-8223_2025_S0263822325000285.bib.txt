@@ -1,0 +1,13 @@
+@article{GU2025118863,
+title = {Stress-driven design method for porous maxillofacial prosthesis based on triply periodic minimal surface},
+journal = {Composite Structures},
+volume = {355},
+pages = {118863},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118863},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000285},
+author = {Jiasen Gu and Syed Mesum {Raza Naqvi} and Long Chao and Chen Jiao and Youwen Yang and Muhammad Ali Nasir and Zongjun Tian and Lida Shen and Dongsheng Wang and Huixin Liang},
+keywords = {Porous scaffolds, Triply periodic minimal surface, Stress-driven design, Mechanical properties, Permeability characteristics, Maxillofacial repair},
+abstract = {The human mandible exhibits significant variation among individuals, necessitating customised restoration. This study proposes a stress distribution-driven modelling algorithm for gradient triply periodic minimal surface (TPMS) structures, specifically Gyroid-type double TPMS (GTDT) structures. The design process determines stress distribution in the macroscopic repair region through finite element method (FEM) mechanical analysis. In addition, designed structures were fabricated using laser powder bed fusion (LPBF). FEM analysis, mechanical testing, permeability experiments, and in vitro experiments were performed and identified an optimal Iso Value of 1.25 for bone regeneration. The results showed that the structures produced by the stress-driven design method had higher yield strength and more uniform stress distribution and double the strength in three-point bending tests, all at comparable relative density. Compared to the solid structure, the customized prostheses designed for maxillofacial repairs using this method exhibit stress distribution and displacement behaviour more closely aligned with native bone during mastication, thereby enhancing post-operative comfort.}
+}

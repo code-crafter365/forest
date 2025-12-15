@@ -1,0 +1,13 @@
+@article{PARK2025119546,
+title = {A theoretical, experimental and numerical investigation on the dynamic deployment stability of bistable composite tape springs},
+journal = {Composite Structures},
+volume = {372},
+pages = {119546},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119546},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007111},
+author = {Jeong-Hoon Park and Yeong-Bae Kim and Geun Sung Jung and Jae Hyuk Lim},
+keywords = {Bistability, Composite tape spring, C-shape cross-section, Dynamic deployment stability},
+abstract = {This study investigates the dynamic deployment stability of bistable composite tape springs that exhibit bistability under static conditions by incorporating theoretical, experimental, and numerical approaches. To evaluate deployment stability, bistable composite tape springs with equivalent static bistability were designed using discriminant formulations derived under static conditions. Deployment tests and numerical simulations were then conducted to investigate the deployment behavior of the bistable composite tape springs. The results revealed that satisfying bistability requirements does not necessarily ensure deployment stability. To examine this phenomenon, the energy history during the deployment process was analyzed by considering both strain energy and kinetic energy to account for dynamic inertia effects. In particular, the gradual exchange between strain energy and kinetic energy, along with the corresponding slope changes in their time-history curves, was closely examined. This investigation revealed that a disruption in energy exchange within the transition sections can lead to the blossoming phenomenon. To clarify this behavior, a theoretical analysis was performed to explore the correlation between the appearance of these transition sections and the onset of instability in the energy history. Overall, this study provides deeper insights into the dynamic deployment behavior of bistable composite tape springs and highlights the need for a new discriminant model that explicitly incorporates dynamic effects.}
+}

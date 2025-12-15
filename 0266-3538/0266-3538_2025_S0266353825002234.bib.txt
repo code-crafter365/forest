@@ -1,0 +1,13 @@
+@article{YANG2025111255,
+title = {Elegant design of biobased carbon/polyaniline metacomposites for tunable epsilon-negative and epsilon-near-zero responses},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111255},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111255},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002234},
+author = {Qiuyun Yang and Yunpeng Qu and Yunlei Zhou and Junfei Ding and Qiong Peng and Xiaosi Qi and Farid Manshaii and Yao Liu},
+keywords = {Metacomposites, Polymer-matrix composites, Negative permittivity},
+abstract = {Characterized by the innovative random structure design of functional and matrix phases, metacomposites with ε′-negative (EN) and ε′-near-zero (ENZ) responses have emerged as a highly promising class of electromagnetic (EM) metamaterials. This work introduces novel biobased carbon/polyaniline (BC/PANI) metacomposites with a bilayer structure. The dual conductive network in these metacomposites consists of a three-dimensional, lignin-derived carbon porous network as the functional phase and a conductive polyaniline (PANI) network as the matrix, successfully achieving highly tunable ENZ (|ε'| < 1) and EN (ε' < 0) parameters within the radio-frequency band. Both electric dipole resonance and plasmonic oscillation contribute to the EN response in the 100 kHz-40 MHz region, as validated by the Lorentz-Drude model. The ENZ frequencies (190 kHz–418 kHz), as well as the magnitude and frequency dispersion of the EN response, are precisely regulated by the BC network and bilayer structure. The introduction of the porous BC network within the PANI matrix reduces the equivalent carrier concentration in the metacomposites, thereby lowering the absolute value of ε'. Furthermore, by leveraging the electric dipole competition mechanism at the BC/PANI-PANI bilayer interface, the frequency dispersion near the ENZ frequency is significantly minimized. The evolution of the electrical phase relationships in EN materials was elucidated using an equivalent circuit analysis method, revealing their inductive characteristics. This work enriches the category metacomposites through innovative microstructure design, providing a foundation for tunable ENZ and EN responses.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025102545,
+title = {FreqYOLO: A uterine disease detection network based on local and global frequency feature learning},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102545},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102545},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000540},
+author = {Ziying Huang and Shuangshuang Lin and Kedan Liao and Yuezhi Wang and Mei Zhang and Lixin Li and Musheng Wu and Kaixian Deng and Qing Wang},
+keywords = {Leiomyomas, Adenomyosis, Detection, Frequency feature, Anchor suppression},
+abstract = {Leiomyomas (LM) and adenomyosis (AM) are common gynecological diseases with high incidence rates and an increasing trend of affecting younger women. Accurate detection and differentiation of LM and AM in ultrasound images are crucial for selecting appropriate treatment options. Due to the heterogeneity of these two diseases, the location, size, and number of lesions often vary significantly, posing substantial challenges for sonographers to conduct manual examinations. In this study, we propose a frequency feature learning-based detection method, FreqYOLO, for detecting LM and AM in ultrasound images. Specifically, in the dual-branch feature encoder, we introduce global and local frequency features. Subsequently, we apply a Fusion Neck to perform multi-scale fusion of the global and local features, enriching the frequency information. Finally, an improved anchor suppression method is employed to output the optimal detection anchors. The proposed FreqYOLO is compared with several state-of-the-art techniques, achieving a Recall of 0.734, Precision of 0.795, F1 score of 0.763, AP50 of 0.788, and mAP of 0.487. The results demonstrate that the FreqYOLO exhibits better detection performance of detecting and differentiating LM and AM.}
+}

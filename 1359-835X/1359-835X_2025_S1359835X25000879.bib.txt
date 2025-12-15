@@ -1,0 +1,13 @@
+@article{ZHOU2025108793,
+title = {Enhancing maritime corrosion resistance of epoxy coating on steels by using rust conversion and graphene-based composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108793},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108793},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000879},
+author = {Ziyang Zhou and Zhengquan Wang and Ranming Niu and Siyu Huang and Julie M. Cairney and Xueling Fan and Eason Yi-Sheng Chen},
+keywords = {Rust conversion coating, Tannic acid, Graphene oxide, Graphene quantum dots, Nanohybrid, Anti-corrosion},
+abstract = {Rust conversion and composite coatings offer effective solutions for enhancing corrosion resistance in structural materials used in marine environments. They are both cost-effective and easy to implement. In this study, we introduce a novel coating that combines tannic acid-based iron-rust conversion with graphene-based nanocomposites, resulting in improved corrosion resistance for epoxy coatings on steel surfaces. We employed a variety of characterization techniques to assess the superior anti-corrosion and structural properties of these new coatings, including X-ray diffraction spectroscopy, Fourier-transform infrared spectroscopy, X-ray photoelectron spectroscopy, scanning electron microscopy with focused ion beam and energy dispersion X-ray spectrometer, transmission electron microscopy, electrochemical impedance spectroscopy, as well as mechanical testing. The development of the new materials holds promise for environmental benefits and widespread industrial applications of nanocomposites in the field of rust conversion coatings.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025109038,
+title = {Highly flexible and self-healing phase change hydrogel with superior solar-thermal storage and sensitive motion detection for wearable thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109038},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109038},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500332X},
+author = {Xiaoyi Li and Shiyu Wang and Zongliang Du and Xu Cheng and Haibo Wang and Xiaosheng Du},
+keywords = {Phase change hydrogel, Sensor, Energy storage, Wearable thermal management},
+abstract = {With the increasing demand for personal thermal management and health monitoring, developing flexible phase change materials (PCMs) with advanced properties is crucial. In this study, a novel flexible phase change hydrogel, P(AM-co-AA)/PDA@Ag/ES (PADE), was designed and fabricated by integrating polyacrylic resin P(AM-co-AA) and polydopamine-coated silver nanoparticles (PDA@Ag NPs) to construct a 3D metal–organic network via dynamic non-covalent bonds as the supporting material, and by empolying eutectic salts (ES), a mixture of Na2SO4·10H2O (25 %) and Na2HPO4·12H2O (75 %), as the solid–liquid PCM. The flexible PADE hydrogels demonstrated high energy storage density (182.3 J/g), robust mechanical properties, and self-adhesive behavior, making it highly suitable for wearable thermal management. The abundant dynamic hydrogen bonds formed between the P(AM-co-AA) matrix and PDA@Ag NPs imparted the PADE hydrogels with rapid self-healing capabilities. Notably, the PADE hydrogels showed excellent strain-sensing performance, characterized by a high gauge factor (GF = 4.36), high sensitivity, and rapid response, enabling precise monitoring of both subtle and intense human movements. Moreover, the incorporation of PDA@Ag NPs endowed the hydrogels with multifunctional properties, including antibacterial activity, electrical conductivity, and efficient photothermal conversion, significantly enhancing their potential for applications in smart wearable devices, flexible electronics, biomedicine, and other technological fields.}
+}

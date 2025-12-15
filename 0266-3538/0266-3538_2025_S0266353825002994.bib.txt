@@ -1,0 +1,13 @@
+@article{ZHU2025111331,
+title = {Dual dynamic crosslinked epoxy exhibiting repairability, recyclability and excellent insulation performance},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111331},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111331},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002994},
+author = {Ming-Xiao Zhu and Zhi-Yong Song and Zhao-Xin Teng and Jie-Rui Ren and Xue-Kai Xu and Yi-Fei Li},
+keywords = {Epoxy resin, Self-healing, Insulating performance, Dual dynamic crosslinked network},
+abstract = {Reversible bonds were incorporated to create insulating polymers with self-healing ability, but their low bond energy leads to reduced mechanical, thermal, and dielectric performance. In this study, two types of reversible crosslinkers with complementary characteristics, namely tetrahedral boronic ester crosslinker and 4,4′-diaminodiphenyl disulfide (4-AFD) are incorporated into epoxy resin to address the self-healing and intrinsic performance issues. The tetrahedral boronic ester crosslinker with high rate of dynamic exchange facilitates the rapid healing process, while the 4-AFD with higher crosslinking density and incorporated nanofillers ensure the outstanding mechanical strength and insulating properties. The resultant epoxy exhibits a breaking strength of ≈50.4 MPa, Young's modulus of ≈6.7 GPa, and breakdown strength higher than commonly used anhydride-cured counterparts. The dynamically crosslinked epoxy with physical and electrical-trees damages can be healed and to restore their original insulating properties under mild conditions of heating at 105 °C for 10 h. The breakdown strength exhibited a recovery efficiency of 90.2 % after aging–healing process. Moreover, the material can be degraded and recycled in ethylene glycol solution. This work provides a reference method for designing epoxy with repairability, recyclability and excellent insulating performances.}
+}

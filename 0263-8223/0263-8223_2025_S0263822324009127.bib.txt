@@ -1,0 +1,13 @@
+@article{GUO2025118784,
+title = {Compressibility and meso-mechanical behavior of polymer bonded explosives with different crystal qualities during pressing process},
+journal = {Composite Structures},
+volume = {354},
+pages = {118784},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118784},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009127},
+author = {Yuchen Guo and Pengwan Chen and Rui Liu and  ZhijianYang and Feng Zhang and Liyang Feng and Kezhen Lv and Bo Zhou and Gaoyang Hu},
+keywords = {DEM, PBX, Pressing, Mechanical behavior, Energy dissipation},
+abstract = {As the predominant component in polymer bonded explosives (PBX), explosive crystals is an important factor affecting the compressibility of PBX powder. To obtain the effects of crystal quality on the mechanical properties and meso-mechanical behavior of PBX powder during die pressing, the compaction density, Brazilian strength, as well as crack propagation and energy dissipation mechanisms were systematically studied based on experiments and Discrete Element Method (DEM) simulations. The experimental results revealed that, under identical pressure, PBX parts composed of 1,3,5,7-tetranitro-1,3,5,7-tetraazecycloctane (HMX) crystals with more internal defects and lower strength will exhibit higher density and Brazilian strength. The simulation results demonstrated that crystal fragmentation occurs throughout the pressing process. The increased Brazilian strength of PBX containing low quality crystals may be attributed to more defects and larger specific surface area of the crystals. Crystal fragmentation can effectively promote particle rearrangement, resulting in higher strain of the PBX powder. During the compression process, the lower the crystal quality, the greater their susceptibility to fracture and the reduced conversion of external work into elastic potential energy. Consequently, the increase in PBX size caused by the release of elastic potential energy after unloading is therefore minimized, resulting in improved compressibility of the PBX.}
+}

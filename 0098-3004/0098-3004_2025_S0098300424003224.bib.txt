@@ -1,0 +1,13 @@
+@article{CHEN2025105839,
+title = {A novel algorithm and software for 3D density gravity inversion},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105839},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105839},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003224},
+author = {Wenjin Chen and Xiaolong Tan and Yang Liu},
+keywords = {3D density inversion, Efficient algorithm, Spectral domain, Software},
+abstract = {In this study, we present a novel algorithm for three-dimensional density gravity inversion in the spectral domain. By applying the Fast Fourier Transform (FFT) to the observation equation and introducing an auxiliary function, we establish a general functional relationship between gravity anomalies and density. To address the ill-posed nature of the three-dimensional density inversion problem, we propose a new auxiliary function with two multiplicative factors: one to adjust density variation with depth and another to reflect the solution characteristics. Additionally, we have developed a user-friendly software interface using the scientific computing language Matlab. Both synthetic and field data are used to validate the proposed algorithm and software. Noise tests are conducted to demonstrate the efficacy and robustness of the proposed method. A comparative analysis with the smoothing and focusing methods is also performed. The results show that the proposed method outperforms the smoothing method and achieves higher resolution, although it is smoother than the focusing inversion results. Furthermore, we compare the computational times of the three methods, and the results indicate that the proposed method is the most efficient.}
+}

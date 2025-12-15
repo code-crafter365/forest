@@ -1,0 +1,13 @@
+@article{VESCOVINI2025118823,
+title = {Low-velocity impact behavior of flat and tapered Single–Double composites specimens},
+journal = {Composite Structures},
+volume = {355},
+pages = {118823},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118823},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009516},
+author = {Alessandro Vescovini and Carina Xiaochen Li and Cecilia Malverti and Bo Cheng Jin and Andrea Manes},
+keywords = {Single–Double, Low-velocity impact, Thermography, Finite Element Analysis},
+abstract = {This study examines low-velocity impact on five specimen sets produced using the card-sliding technique with non-crimp fabrics (NCFs) and adopting a Single–Double (SD) stacking sequence. Two sets of specimens are flat with a constant cross-section, fabricated with ±45° and ±30° NCF orientations, respectively. Two other sets feature a tapered cross-section with the same NCFs as the flat specimens, and the fifth set comprises tapered specimens with the same fiber orientations as one of the tapered sets but incorporates NCFs with varied areal density. The specimens undergo testing according to the ASTM international standard, with thermal transients during impacts recorded using an infrared camera. Finite Element Method (FEM) analyses are validated against and compared with experimental results. The study discusses impact behavior and failure modes, focusing on various damage mechanisms, emphasizing the effects of the tapered cross-section, different NCFs, and stacking sequence. This investigation elucidates the response of NCF composite materials to low-velocity impacts, highlights the benefits of the SD stacking sequence and card-sliding technique in tapering the laminate cross-section, and underscores their potential in reducing delamination and promoting intra-laminar failure, thereby enhancing composite durability and performance.}
+}

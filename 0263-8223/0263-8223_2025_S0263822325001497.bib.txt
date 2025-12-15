@@ -1,0 +1,13 @@
+@article{HASSAN2025118984,
+title = {Dynamic and static behaviour of geopolymer concrete for sustainable infrastructure development: Prospects, challenges, and performance review},
+journal = {Composite Structures},
+volume = {359},
+pages = {118984},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118984},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001497},
+author = {Amer Hassan and Chunwei Zhang},
+keywords = {Geopolymer concrete, Dynamic performance, Impact loads, Cyclic loads, Seismic resistance, Sustainable materials},
+abstract = {Geopolymer concrete (GPC) is increasingly recognized as a sustainable and environmental option to conventional concrete due to its utilization of industrial byproducts. This paper thoroughly investigates the dynamic and static behaviour of GPC, focusing on its mechanical properties, durability, and resistance to impact and seismic loads. Also, this article compares the experimental results reported in previous studies with a predicted model to justify the results obtained by experiments. According to the evaluation and review of previous studies, it could be summarised that no individual factor influences the structural properties of GPC. Additionally, efforts should be made to determine the interrelationship between various factors in order to facilitate the creation of a GPC that is both cost-effective and sustainable for the environment. Further, emphasis is placed on fibre reinforcement, which enhances the material’s dynamic performance. Also, the dynamic behaviour of GPC, including impact and seismic resistance, is still uncertain due to the lack of studies on this subject, and more investigation on this matter must be undertaken to generate a comprehensive picture of the dynamic behaviour of these materials before introducing them to the industry.}
+}

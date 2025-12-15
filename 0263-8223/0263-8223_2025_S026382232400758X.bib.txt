@@ -1,0 +1,13 @@
+@article{SPILKER2025118630,
+title = {A mean field homogenization model for the mechanical response of ceramic matrix composites},
+journal = {Composite Structures},
+volume = {352},
+pages = {118630},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118630},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400758X},
+author = {Kevin Spilker and Ricardo A. Lebensohn and George Jacobsen and Laurent Capolungo},
+keywords = {Mean field homogenization, Interfacial sliding, Ceramic matrix composites, SiC/SiC},
+abstract = {SiC/SiC composites offer exceptional mechanical stability at high temperatures and under irradiation. These ceramic matrix composites are therefore strong candidate materials for future nuclear energy applications. Their mechanical response, which exhibits pseudo-plasticity, is mediated by matrix cracking, fiber debonding, and fiber pull-out due to slip. This study introduces a mechanistic model for the behavior of unidirectionally reinforced SiC/SiC composites. Specifically a mean field homogenization approach is proposed to account for all deformation and degradation modes during mechanical deformation. The homogenization scheme relies on a Mori Tanaka method that is extended to consider the effects of the coating’s elasto-plastic response on the development of micromechanical fields. Further, the model proposed introduces a method to effectively account for the role of localized damage (i.e., cracks) on mechanical fields within both the fiber and the matrix. Upon validating the model against experimental data, the roles of interface sliding, coating dimensions and intrinsic elastic response, as well as of microstructure (e.g. porosity, fiber volume fraction) are discussed.}
+}

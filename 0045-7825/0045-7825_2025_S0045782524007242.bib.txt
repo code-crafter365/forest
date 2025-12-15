@@ -1,0 +1,13 @@
+@article{BOOLAKEE2025117469,
+title = {Lattice Boltzmann for linear elastodynamics: Periodic problems and Dirichlet boundary conditions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117469},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117469},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007242},
+author = {Oliver Boolakee and Martin Geier and Laura {De Lorenzis}},
+keywords = {Lattice Boltzmann method, Vectorial LBM, Elastodynamics},
+abstract = {We propose a new second-order accurate lattice Boltzmann formulation for linear elastodynamics that is stable for arbitrary combinations of material parameters under a CFL-like condition. The construction of the numerical scheme uses an equivalent first-order hyperbolic system of equations as an intermediate step, for which a vectorial lattice Boltzmann formulation is introduced. The only difference to conventional lattice Boltzmann formulations is the usage of vector-valued populations, so that all computational benefits of the algorithm are preserved. Using the asymptotic expansion technique and the notion of pre-stability structures we further establish second-order consistency as well as analytical stability estimates. Lastly, we introduce a second-order consistent initialization of the populations as well as a boundary formulation for Dirichlet boundary conditions on 2D rectangular domains. All theoretical derivations are numerically verified by convergence studies using manufactured solutions and long-term stability tests.}
+}

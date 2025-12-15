@@ -1,0 +1,13 @@
+@article{BEN2025108655,
+title = {Robust flexural performance of modified bamboo through strategic delignification and carboxymethyl cellulose modification},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108655},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108655},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006535},
+author = {Yuchen Ben and Hongyun Luo and Wen Liu and Ziyu Ba and Jie Cui and Zhaoliang Guo and Renshan Sun},
+keywords = {Modified bamboo, Strategic delignification, Flexural performance, Acoustic emission},
+abstract = {Developing sustainable structural materials from biological sources is highly essential. In this study, a simple three-step method, involving “alkali treatment − carboxymethyl cellulose (CMC) modification − convection drying” was introduced to fabricate high-performance bamboo materials. By strategically controlling the alkali treatment time at room temperature, an optimized lignin content was obtained. Meanwhile, further incorporation of green binding agent CMC facilitates the formation of hydrogen bonds, thereby improving the interfacial bonding strength. The modified bamboo exhibits robust flexural properties, with a flexural strength reaching three times that of natural bamboo, measuring at 418 MPa. By employing acoustic emission technology and fracture morphology analysis, the influence of hydrogen bonds in enhancing load transmission at the interface was revealed. This work proposes a green modification strategy for bamboo materials to enhance mechanical performance, broadening the application of bamboo in the field of green manufacturing ranging from construction to transportation.}
+}

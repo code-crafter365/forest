@@ -1,0 +1,13 @@
+@article{HILDEBRAND2025106607,
+title = {Zonal and adaptive mesh refinement for RANS-based transition models in FUN3D},
+journal = {Computers & Fluids},
+volume = {293},
+pages = {106607},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106607},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000672},
+author = {Nathaniel Hildebrand and Meelan M. Choudhari and Preethi V. Mysore and Balaji S. Venkatachari and Pedro Paredes},
+keywords = {Adaptive mesh refinement, Reynolds-averaged Navier–Stokes equations, Laminar-turbulent transition},
+abstract = {We determine how the grid resolution and topology influence the accuracy and convergence of RANS-based transition model results by analyzing the NLF-0416 and NLR-7301 airfoils at subsonic and transonic Mach numbers, respectively. Natural and separation-induced transition scenarios are analyzed using the Langtry-Menter γ-Reθt model. Multiple grid refinement techniques are investigated. First, we determine the relative effectiveness of zonal streamwise refinement near transition to turbulence for structured grids as an alternative to costly global uniform refinement. We also complement this zonal technique by globally varying the wall-normal resolution keeping the streamwise resolution fixed. The zonal streamwise refinement can accurately model separation-induced transition, but significant wall-normal resolution is needed to model natural transition that occurs on airfoils. A series of unstructured prismatic grids that have similar node counts and viscous wall spacings as the structured hexahedral grids result in solutions that are only about 1% different in terms of the lift and drag coefficients at infinite resolution according to Richardson extrapolation. We employ Mach-Hessian-based unstructured grid adaptation to natural and separation-induced transition on the NLF-0416 airfoil, which leads to both the lift and drag coefficients plateauing on coarse grids, but the converged transition locations can be inaccurate due to poor near-wall resolution. Adjoint-based grid adaptation is explored briefly, and for imposed transition with the Spalart–Allmaras model, it yields accurate solutions even for coarse grid resolutions.}
+}

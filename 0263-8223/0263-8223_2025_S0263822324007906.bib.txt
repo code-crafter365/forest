@@ -1,0 +1,13 @@
+@article{GUO2025118662,
+title = {Rheology of flexible fiber-reinforced cement pastes: Maximum packing fraction determination and structural build-up analysis},
+journal = {Composite Structures},
+volume = {352},
+pages = {118662},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118662},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007906},
+author = {Zhenbang Guo and Jingping Qiu and Duanping Huang and Kai Liu and Alex Kirichek and Chen Liu and Boyu Chen and Yingliang Zhao and Zhengyao Qu},
+keywords = {Flexible fiber, Cement paste, Maximum packing fraction, Static yield stress, Structural build-up},
+abstract = {The maximum packing fraction (φfm) of flexible fibers is an essential parameter for understanding the rheological behavior of flexible fiber-reinforced cement paste (FFRCP). However, direct measurement of φfm of flexible fibers is still lacking. In this study, a shear rheology-based method for direct measurement of φfm was proposed and the assumption of fiber conformation under shear was verified by micro-CT. Based on this, a yield stress model for FFRCP was constructed to explain the entanglement and friction effects in the fiber network. Finally, static yield stress tests and small amplitude oscillatory shear (SAOS) tests were carried out to explore the structural build-up of FFRCP. It was found that the proposed method enables direct determination of φfm through only a few viscosity-fiber content data for a given FFRCP. Furthermore, the proposed model can describe the static yield stress of FFRCP well. Finally, the relative structural build-up rate of FFRCP follows a similar trend as the relative yield stress, with a critical relative fiber volume fraction (0.299) as the boundary. Subsequently, the relative structural build-up gradually deviates from the relative yield stress due to the limiting effect of the fibers.}
+}

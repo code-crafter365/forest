@@ -1,0 +1,13 @@
+@article{AKMANOV2025118651,
+title = {Machine learning for nano-level defect detection in aligned random carbon nanotubes-reinforced electrically conductive nanocomposite},
+journal = {Composite Structures},
+volume = {352},
+pages = {118651},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118651},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007797},
+author = {Iskander S. Akmanov and Stepan V. Lomov and Mikhail Y. Spasennykh and Sergey G. Abaimov},
+keywords = {Machine learning, Structural health monitoring, Carbon nanotubes, Digital twins, Damage detection},
+abstract = {Machine learning allows fast nano-scale defect detection in polymer-impregnated aligned carbon nanotube (CNT) nanocomposites. Digital twins were populated by TEM-validated geometry; considered defects were flat cracks and close-to-spherical voids. Finite-element analysis of piezoresistive response was conducted by embedment of CNT network into matrix. Identification of a defect by change in CNT network piezoresistivity was challenged by: (1) randomness of CNTs’ shapes and placement, ML training happened on random realisations; (2) high strength of CNTs leading to the preservation of conductive paths along CNTs and changes only in conductivities of tunnelling contacts. “Artificial approximation“ was introduced to economise computer time multi-fold: ML was trained on cases with artificially degraded tunnelling conductivities within the defect. Three ML models: XGBoost, fully connected, and convolution neural networks were employed. All models managed the task for near-spherical voids, but performed poorly for flat cracks, due to the limited number of tunnelling contacts in crack volume. When trained on the mixed set of voids and cracks, both neural networks demonstrated the ability to learn the difference and detected even cracks, while XGBoost was not up to the challenge. By metrics, the convolutional neural network demonstrated the highest accuracy of predictions.}
+}

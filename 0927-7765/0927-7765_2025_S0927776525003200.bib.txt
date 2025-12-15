@@ -1,0 +1,13 @@
+@article{ZHOU2025114813,
+title = {A facile dual-drug delivery system using cellulose-based microgel/hydrogel for enhanced gastric cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114813},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114813},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003200},
+author = {Jingqiu Zhou and Zaishan Zhang and Zhili Zhang and Tao Wu and Hao Li and Xujia Hao and Xu Liu and Tianxing Gong and Dan Liu and Shibo Wei},
+keywords = {Anti-tumor, Microgel, Combination therapy, Gastric cancer, Drug delivery},
+abstract = {Gastric cancer remains a significant clinical challenge due to its high incidence, elevated mortality, frequent recurrence, and increasing chemotherapy resistance. To address these issues, we developed a thiolated carboxymethyl cellulose (CMC-SH) microgel system co-loaded with 5-fluorouracil (5-FU) and curcumin (Cur), further embedded in an injectable gelatin and dialdehyde cellulose hydrogel. Leveraging the distinct solubility profiles of 5-FU (hydrophilic) and Cur (hydrophobic), this dual-drug microgel achieved sustained drug release over four days, effectively overcoming 5-FU resistance while amplifying anticancer efficacy. In vitro characterization, including CCK-8 assays for cell viability, flow cytometry for apoptosis, Western blot analysis for protein expression, ROS assays, and JC-1 analysis for mitochondrial membrane potential, demonstrated that 5-FU+Cur/CMC-SH m@DACG significantly inhibited cancer cell proliferation, increased apoptotic rates, boosted ROS production, and disrupted mitochondrial function, suggesting a ROS-mediated apoptosis mechanism. The co-delivery of 5-FU and Cur enhanced synergistic effects and overcame drug resistance more effectively than monotherapy. In summary, this innovative CMC-SH-based microgel system provides a promising, minimally invasive platform for targeted gastric cancer therapy via endoscopic injection.}
+}

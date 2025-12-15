@@ -1,0 +1,13 @@
+@article{JANG2025108660,
+title = {Protection concept for foamed radar-absorbing sandwich composites with high-conductive film against lightning strike impacts},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108660},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108660},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006584},
+author = {Woo-Hyeok Jang and Dongjun Hong and Shanigaram Mallesh and Juhyeong Lee and Chanyeop Park and Chun-Gon Kim and Won-Ho Choi and Youngwoo Nam},
+keywords = {Functional composite, EM wave absorption, Lightning strike protection (LSP), Electrical Properties},
+abstract = {This paper presents a foamed radar-absorbing sandwich composite using Ni-plated glass fiber, serving as a dielectric loss material and a high-conductive film for lightning strike protection (LSP). Image processing found that surface damage area was reduced by 38.7 % in high-conductive films compared to those without. Furthermore, micro-X-ray CT revealed no critical damage, such as fiber breakage, deeper than the film. Moreover, specimens without high-conductive film experienced a 37.8 % decrease in −10 dB bandwidth after the lightning strike (LS) test, while high-conductive film specimens maintained a −10 dB bandwidth. The proposed structure offers high radar-absorbing performance, effectively protecting the structure from lightning.}
+}

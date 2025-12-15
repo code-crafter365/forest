@@ -1,0 +1,13 @@
+@article{LI2025114685,
+title = {Near-infrared light-responsive copper-cerium bimetallic oxide nanozyme with antibacterial and antioxidant abilities for periodontitis therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114685},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114685},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001924},
+author = {Xiaowen Li and Hao Liang and Yonghui Huang and Qiurui Hu and Lingling Liang and Jingchuan He and Qinglan Lu and Guangqi Zhou and Li Chen and Cuiping Li and Xiaojie Li},
+keywords = {Nanozyme, Enzyme-like catalytic, Photodynamic, Photothermal, Antioxidant, Periodontitis},
+abstract = {Periodontitis, a chronic inflammatory disease of the supporting tissue around teeth, is triggered by periodontal pathogens. Clinical treatments face the problem of bacterial resistance and most therapies focus on a single function, lacking the multifunctional treatment of antibacterial, antioxidant, anti-inflammatory, and osteogenic properties. In our study, we developed a copper-cerium bimetallic oxide (CuCeOx) nanozyme with near-infrared (NIR) light responsiveness for the periodontitis therapy. Under the excitation of 808 nm NIR light, CuCeOx displayed excellent photodynamic and photothermal activities, efficiently generating reactive oxygen species (ROS) and heat. After the treatment of the CuCeOx/NIR system, the inhibition rate of Porphyromonas gingivalis (P. gingivalis), the main periodontitis pathogen, reached 98.69 ± 0.23 % in vitro. Without the NIR light irradiation, CuCeOx, acting as a nanozyme, exhibited enzyme-like activity in scavenging ROS, effectively alleviating the cellular oxidative stress. Furthermore, CuCeOx significantly mitigated the cellular inflammatory response induced by lipopolysaccharide (LPS) and promoted osteogenesis under the oxidative stress condition. Notably, the CuCeOx exhibited excellent blood compatibility (hemolysis < 5 %). The efficacy of the CuCeOx/NIR system in vivo was also investigated. H&E staining results demonstrated a significant reduction in periodontal tissue inflammation following treatment. Micro-CT analysis revealed that CuCeOx effectively inhibited the alveolar bone loss. Additionally, we found CuCeOx regulated the Nrf2/HO-1 signaling pathway both in vitro and in vivo. In conclusion, the multifunctional nanomaterial CuCeOx provides a promising strategy for the treatment of periodontitis.}
+}

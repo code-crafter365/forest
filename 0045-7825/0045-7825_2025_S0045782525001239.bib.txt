@@ -1,0 +1,13 @@
+@article{CHEN2025117851,
+title = {Hemodynamics modeling with physics-informed neural networks: A progressive boundary complexity approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117851},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117851},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001239},
+author = {Xi Chen and Jianchuan Yang and Xu Liu and Yong He and Qiang Luo and Mao Chen and Wenqi Hu},
+keywords = {Hemodynamics, Physics-informed neural networks},
+abstract = {Hemodynamic analysis is essential for assessing cardiovascular health. Computational fluid dynamics (CFD) methods, while precise, are computationally expensive and lack transfer learning capabilities, requiring recalculation for varying boundaries. Machine-learning methods, despite powerful data-fitting abilities, heavily rely on labeled datasets, limiting their use in clinical settings where data is scarce. To alleviate data dependency, Physics-Informed Neural Networks (PINNs) embed physical laws directly into the loss function, allowing model parameter transfer across varying geometries. However, traditional PINNs struggle with complex domains like stenosed vessels, leading to inefficiency and reduced accuracy. To tackle this challenge, we propose the Boundary Progressive PINN (BP-PINN). By introducing boundary complexity, BP-PINN reconstructs vascular boundaries at varying smoothness levels. Training begins with simple models and progressively incorporating boundary details to capture complex flow characteristics. Without any labeled data, BP-PINN was successfully applied to 22 patient-specific cases, achieving L2 errors of 0.036 for velocity and 0.057 for pressure compared to CFD ground truth. Furthermore, compared to fractional flow reserve (FFR), the invasive gold standard for diagnosing myocardial ischemia, the non-invasive FFR predicted by BP-PINN attained the highest overall diagnostic accuracy of 90.9 %, outperforming vanilla-PINNs (81.8 %). Additionally, BP-PINN leveraged pretrained models with similar boundary complexities, enabling efficient stent preoperative planning. The proposed method evaluated the effects of five stenting strategies on the hemodynamic environment, achieving an average computation time of under 3 min per case. Finally, the framework was extended to solve heat equation, Poisson equation and Helmholtz equation in irregular domains, demonstrating superior accuracy compared to baseline methods.}
+}

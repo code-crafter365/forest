@@ -1,0 +1,13 @@
+@article{YAN2025119106,
+title = {Inverse-designed multifunctional metamaterials for broadband acoustic absorption and ventilation},
+journal = {Composite Structures},
+volume = {362},
+pages = {119106},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119106},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002715},
+author = {Jiahui Yan and Yingli Li and Guohui Yin and Gengwang Yan and Heow Pueh Lee},
+keywords = {Sound absorption, Ventilation performance, Inverse design, Deep Neural Network, Genetic Algorithm},
+abstract = {Recent advances in multifunctional acoustic metamaterials have highlighted the need for broadband sound absorption with ventilation functionality. This study introduces a Multi-order Coiled-up Channels lined with Porous Material (MCCPM) design, which integrates multi-order cavity resonances with viscous-thermal dissipation of porous materials to enhance absorption efficiency across a wide frequency range while enabling air ventilation. MCCPM system demonstrates robust absorption efficiency across variations in porous material type, incident angle, temperature and ventilation area ratio. To optimize the design process, an inverse design method is introduced, employing a Genetic Algorithm (GA)-controlled Deep Neural Network (DNN) model, which achieves a 4000-fold improvement in computational efficiency compared to traditional finite element method (FEM). By specifying the desired absorption frequency range and physical constraints, the hybrid DNN-GA approach generates weighted-optimized MCCPM structures that achieve impressive performance metrics: average sound absorption coefficients of 0.76, 0.81, and 0.77, with corresponding half-absorption bandwidth ratios of 79.5 %, 100 %, and 89.3 % across customized frequency ranges of 200–600 Hz, 600–1000 Hz, and 300–1000 Hz, respectively. This deep learning-based inverse design approach paving the way for breakthroughs in multifunctional metamaterials research, offering new avenues for applications in noise control, ventilation systems, and sustainable building technologies.}
+}

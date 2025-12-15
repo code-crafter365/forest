@@ -1,0 +1,13 @@
+@article{CADIEUX2025106800,
+title = {Wall-modeled large-eddy simulation of supersonic parachute inflation},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106800},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106800},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002609},
+author = {Francois Cadieux and Michael F. Barad},
+keywords = {Parachute, Fluid–structure interaction, Wall-modeled large-eddy simulation},
+abstract = {Supersonic parachutes have been used in nearly every robotic mission to another planetary body with an atmosphere because they are a mass-efficient ways to decelerate a payload to land on the surface. Short of performing flight tests in the upper Earth atmosphere, we currently cannot reliably predict a novel parachute system’s performance or potential failure modes, or even confidently explain it after the fact, as was the case with the Low Density Supersonic Decelerator flight tests and subsequent investigations. High-fidelity fluid–structure interaction (FSI) simulations have the potential to bridge this gap. To this end, we present several improvements to the state-of-the-art for simulating supersonic parachutes using FSI: a higher effective resolution convective flux, an immersed boundary turbulent wall layer modeling approach to capture viscous effects, and a novel method to obtain a more realistic initial parachute shape. A recent supersonic parachute flight test is simulated and compared with measurements for the purposes of model validation.}
+}

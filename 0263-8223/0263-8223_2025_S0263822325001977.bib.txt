@@ -1,0 +1,13 @@
+@article{ZHENG2025119032,
+title = {Biaxial tension–torsion loading of plain weave composites: Determination of initial and final failure envelopes and associated damage mechanisms},
+journal = {Composite Structures},
+volume = {359},
+pages = {119032},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119032},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001977},
+author = {Tao Zheng and Zhanguang Chen and Li Zhang and Zhongyu Wang and Yuhang Liu and Xinyang Sun and Shangyang Yu and Licheng Guo},
+keywords = {Plain weave composites, Biaxial tension–torsion experiment, Damage-dependent analytic method, Damage mechanisms, Failure envelopes},
+abstract = {In this paper, the mechanical properties and damage mechanisms of plain weave composites under biaxial tension–torsion loading are experimentally investigated by incorporating 3D digital image correlation (3D-DIC), optical microscopy and acoustic emission (AE). The experimental results exhibit that biaxial tension–torsion loading enhances the torsional stiffness while weakening the tensile failure load, presenting a significant tension–torsion coupling phenomenon. Moreover, the biaxial tension–torsion loading promotes matrix cracking/inter-fiber failure. Through clustering analysis, the damage signals acquired by AE can be classified into matrix cracking/inter-fiber failure, delamination and fiber fracture. A new damage-dependent analytic method for calculating the effective stresses in plain weave composites under biaxial tension–torsion loading is proposed and verified by experimental results. Combined with the initial damage determination of AE, 3D-DIC, and the proposed analytic method, the initial and final failure envelopes of plain weave composites under biaxial tension–torsion loading are determined. This study can provide effective guidance for stress field analysis and health monitoring of plain weave composites under biaxial tension–torsion loading.}
+}

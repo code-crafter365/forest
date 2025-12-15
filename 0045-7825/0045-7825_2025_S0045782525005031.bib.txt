@@ -1,0 +1,13 @@
+@article{LEE2025118231,
+title = {Fast meta-solvers for 3D complex-shape scatterers using neural operators trained on a non-scattering problem},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118231},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118231},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005031},
+author = {Youngkyu Lee and Shanqing Liu and Zongren Zou and Adar Kahana and Eli Turkel and Rishikesh Ranade and Jay Pathak and George Em Karniadakis},
+keywords = {Scientific machine learning, Wave scattering, Helmholtz equation, Neural operator, Krylov methods, DeepONet},
+abstract = {Three-dimensional target identification using scattering techniques requires high-accuracy solutions and high-speed computations for real-time predictions in critical applications. We design two classes of fast meta-solvers by combining DeepONet with relaxation methods, such as Jacobi and Gauss-Seidel, or with Krylov methods, including GMRES and BiCGStab, utilizing the trunk basis of DeepONet as a coarse-scale preconditioner. We first train a deep neural operator (DeepONet) to solve wave propagation problems described by the Helmholtz equation in a domain without scatterers but at different wavenumbers and with a complex absorbing boundary condition. We leverage the spectral bias of neural networks to account for the lower part of the spectrum in the error distribution, while the upper part is handled inexpensively using the relaxation methods or fine-scale preconditioners. The meta-solvers are then applied to solve scattering problems with different shapes of scatterers, at no extra training cost. We first demonstrate that the resulting meta-solvers are shape-agnostic, fast, and robust, whereas the standard standalone solvers may even fail to converge. We then apply both classes of meta-solvers to scattering from a submarine, a complex three-dimensional problem. We achieve very fast solutions, especially with the DeepONet-Krylov methods, which require orders of magnitude fewer iterations than classical standalone solvers.}
+}

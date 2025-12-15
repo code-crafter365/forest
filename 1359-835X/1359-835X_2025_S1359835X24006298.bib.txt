@@ -1,0 +1,13 @@
+@article{SOUDAGAR2025108631,
+title = {Implications of end cooling rates on the Mechanical, Viscoelastic, and interlaminar fracture properties of the unidirectional glass Fiber/Epoxy composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108631},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108631},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006298},
+author = {Manzoore Elahi M. Soudagar and M.A. Umarfarooq and P.S. {Shivakumar Gouda} and NR Banapurmath and N.A. {Abu Osman} and S. Ramesh and Ashok M Sajjan and Hua-Rong Wei and Yasser Fouad and Sagar Shelare and Shubham Sharma and Dražan Kozak and Jasmina Lozanovic and Teku Kalyani and Yashwant Singh Bisht},
+keywords = {Glass fibres, Fracture toughness, Interface/interphase, Mechanical properties, Microstructures},
+abstract = {This research explores the impact of different end cooling rates on the mechanical, viscoelastic, and fracture properties of Glass Epoxy (GE) composites. Unidirectional (UD) glass fiber and epoxy resin were utilized to prepare composite laminates, subjected to three distinct end cooling conditions (slow cooling, air cooling and fast cooling). The composites were characterized through tensile, flexural, viscoelastic, interlaminar shear strength (ILSS), mode I and II fracture tests. Results revealed a higher degree of cure in slow cooled samples (87.23 %) compared to air cooled (85.11 %) and fast cooled specimens (81.56 %). Results also revealed that cooling rates significantly influenced the mechanical, viscoelastic and fracture properties, with higher cooling rates improving ILSS(38.92 MPa to 46.31 MPa), mode I (256.28 J/m2 to 373.85 J/m2) and mode II (1044.19 J/m2 to1151.85 J/m2) interlaminar fracture toughness (ILFT). Tensile strength, modulus and strain at break was found to decrease with higher cooling rates. End rate of cooling (ROC) had limited effect on the flexural strength and modulus. Varied end cooling rates significantly influence the fracture behavior of glass fiber-reinforced epoxy composites under mode I and mode II loading as evidenced by SEM analysis, with fast-cooled composites exhibiting better fiber–matrix interfacial bonding and higher delamination resistance compared to other composites.}
+}

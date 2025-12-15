@@ -1,0 +1,13 @@
+@article{QI2025117675,
+title = {An efficient GPU solver for 3D topology optimization of continuous fiber-reinforced composite structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117675},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117675},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009290},
+author = {Tianyuan Qi and Junpeng Zhao and Chunjie Wang},
+keywords = {Topology optimization, Composite structures, Large-scale optimization problems, GPU acceleration, Taylor approximation, Wilson’s incompatible elements},
+abstract = {This work presents an efficient GPU solver for 3D large-scale topology optimization of continuous fiber-reinforced composite structures. A key challenge in this research area is that the element stiffness matrices differ from each other, even when Cartesian grids are employed, making the sparse matrix–vector multiplication (SpMV) computationally expensive. To address this bottleneck, a novel Taylor approximation-based element stiffness matrices computation (TA-ESMC) method is proposed, which can be applied to various element formulations. The TA-ESMC method employs a combined offline–online strategy. The offline process involves sampling of the fiber orientation space and pre-computing of the corresponding element stiffness matrices, as well as their differentials. The online process involves computing all the element stiffness matrices using the truncated Taylor expansion approach during each SpMV operation. Both the zero-order and first-order TA-ESMC methods are implemented within the context of a GPU-accelerated multigrid-preconditioned conjugate gradient (MGPCG) solver. The accuracy, efficiency, scalability, and other aspects of the proposed GPU solver are verified by examining its use with two numerical examples. This research demonstrates that, using a single NVIDIA Tesla V100 GPU, 3D topology optimization problems with 67.1 million Wilson’s incompatible elements and 201.3 million design variables can be solved with 150 iterations in approximately 9.1 and 22.9 h, respectively, using the proposed zero-order and first-order TA-ESMC methods. The proposed method is also applied to the design of an airplane bearing bracket to demonstrate its potential to solve complex engineering problems.}
+}

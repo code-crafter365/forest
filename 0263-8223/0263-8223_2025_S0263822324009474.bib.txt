@@ -1,0 +1,13 @@
+@article{DONG2025118819,
+title = {Topology optimization method for light-weight design of three-dimensional continuous fiber-reinforced polymers (CFRPs) structures},
+journal = {Composite Structures},
+volume = {354},
+pages = {118819},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118819},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009474},
+author = {Yongjia Dong and Hongling Ye and Yang Xiao and Jicheng Li and Weiwei Wang},
+keywords = {Topology optimization, Fiber orientation optimization, Continuous fiber-reinforced polymer, Light-weight design, Principal stress orientation},
+abstract = {Continuous fiber-reinforced polymers (CFRPs) exhibit excellent mechanical properties and designability, offering more opportunities for achieving better structural performance through optimization. However, the high non-convexity of the concurrent optimization model may result in a suboptimal design. In this paper, a novel topology optimization method for three-dimensional CFRP structures is proposed. The light-weight optimization model with compliance constraint is formulated and solved to obtain an optimal topology and spatial fiber orientation. A local coordinate system is established based on the vectors of principal stress and fiber orientation, the interpolation method is presented to control fiber design variables during iteration, reducing the possibility of local optima. Topology and fiber orientation design variables are updated through the method of moving asymptotes (MMA) after sensitivity analysis. Numerical examples are offered to demonstrate the applicability of proposed method. The influence of different initial fiber orientations, mesh sizes and compliance constraints on the optimization results are discussed. Furthermore, the interpolation strategy is also extended to multi-loaded problems, with effectiveness evaluated through a numerical example. The proposed method offers theoretic support for light-weight design and fiber paths planning of three-dimensional CFRP structures.}
+}

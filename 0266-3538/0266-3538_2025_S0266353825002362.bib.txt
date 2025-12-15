@@ -1,0 +1,13 @@
+@article{HAN2025111268,
+title = {Multiscale synergistic enhancement of hydrothermal durability in NBR through graphene-carbon nanotube architectures},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111268},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111268},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002362},
+author = {Ruijie Han and Pengfei Zhao and Jiaxin Zhang and Yingyuan Zhan and Yuanrui Shao and Jin Peng},
+keywords = {NBR, GN/CNTs synergy, Hydrothermal aging, Water molecular diffusion, Molecular dynamics simulation},
+abstract = {The hydrothermal failure of nitrile rubber (NBR) in geothermal sealing systems remains a critical challenge. This study fabricates graphene (GN)/carbon nanotubes (CNTs) reinforced NBR composites (GN/CNTs-NBR) via solution blending process. Through integrated analysis of water diffusion kinetics, molecular dynamics simulations, and multiscale structural characterization, we elucidate the inhibition mechanism of filler synergistic effects on hydrothermal aging behavior in rubber matrices. Experimental results demonstrate that the GN/CNTs-NBR maintains 21.7 MPa tensile strength after 170 °C/48 h aging, with a 19.3 % improvement over pristine NBR, while reducing the swelling ratio to 13.0 % (19.8 % decrease). Adsorption isotherm analysis reveals that the filler network reduces the Langmuir equilibrium constant (KL) by 17.6 % (0.14) with superior model fit (R2 = 0.98). Molecular dynamics simulations confirm a 32.4 % decrease in water molecular diffusion coefficient (0.69 × 10−7 cm2/s) and 26.3 % enhancement in Van der Waals energy compared to pristine NBR. The restricted molecular chain mobility (34.2 % MSD reduction) and hysteresis behavior analysis (28.5 % energy dissipation decrease) collectively validate the multiscale suppression mechanism of hydrothermal degradation. This work provides new insights for designing extreme-environment rubber seals.}
+}

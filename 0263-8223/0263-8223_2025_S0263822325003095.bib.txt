@@ -1,0 +1,13 @@
+@article{JANGRAVI2025119144,
+title = {Equilibrium-based 3D stress recovery of laminated anisotropic composite plates via isogeometric analysis},
+journal = {Composite Structures},
+volume = {365},
+pages = {119144},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119144},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003095},
+author = {Sajad Jangravi and Pedram Khaneh Masjedi and Alessandro Reali},
+keywords = {Isogeometric analysis, Composite plates, Stress recovery, Equilibrium},
+abstract = {Composite materials have wide-ranging applications in various engineering fields due to their unique mechanical properties and superior performance. However, the out-of-plane, through-the-thickness stresses may result in delamination failure, and most existing composite plate models are typically unable to capture them with a good accuracy-to-cost ratio. In this paper, we propose a stress recovery method based on Isogeometric Analysis (IGA) to overcome this challenge. The proposed method involves two steps: first, a displacement solution is obtained by applying the classical composite plate theory based on a Galerkin isogeometric formulation. This is followed by the computation of the in-plane stress derivatives required to accurately recover the out-of-plane stresses, directly enforcing strong-form equilibrium across the plate thickness. The governing equations employ Kirchhoff plate theory, while the equilibrium equations and numerical integration, using the composite trapezoidal rule, discretize the plate thickness into layers to extend stress recovery to three dimensions. This method requires high-order continuity; therefore, isogeometric analysis, known for its high accuracy and continuity properties, becomes a desirable option. Our efficient method shows remarkable accuracy, matching Pagano’s solution for cross-ply laminates and 3D FEM for angle-ply, symmetric, and unsymmetric across various test scenarios.}
+}

@@ -1,0 +1,13 @@
+@article{FU2025111239,
+title = {Excellent stability and repeatability of temperature self-regulating HDPE/PVDF/CNF composites at high temperature via locally anchored conductive "bridges"},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111239},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111239},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002076},
+author = {Shuo Fu and Rui Luo and Ziyang Wang and Kai Ke and Kai Zhang and Zhengying Liu and Jun Chen and Wei Yang},
+keywords = {Self-regulating heaters, Positive temperature coefficient, Conductive polymer composite, Anchored conductive network},
+abstract = {Self-regulating heaters can be fabricated by conductive polymer composites (CPCs) with positive temperature coefficient (PTC) effect. However, the melting of polymer matrix and migration of conductive fillers result in poor temperature stability and repeatability of composites at high temperatures (>100 °C) when the temperature of CPCs is close to the melting point of the matrix due to Joule heating effect, which significantly limits the application of CPCs as high temperature heaters. Herein, polyvinylidene fluoride (PVDF) was blended with high-density polyethylene (HDPE), and carbon nanofibers (CNF) were used as conductive fillers to fabricate PTC composites with an "island-bridge" structure conductive network. At high temperatures, PTC behaviors appeared due to the partial breakdown of the conductive network induced by the melting of HDPE/CNF phase ("islands"), while the migration of CNFs was prevented because the CNF "bridges" were locally anchored by the PVDF phase. The resulted HDPE/PVDF/CNF composite demonstrated stable self-heating behavior at 110 °C under a 35 V voltage and maintained consistent performance during multiple heating-cooling cycles. Thus, this work presents a novel approach for achieving stable, reliable, and repeatable high-temperature self-regulating heating devices.}
+}

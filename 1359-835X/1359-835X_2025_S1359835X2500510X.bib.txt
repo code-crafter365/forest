@@ -1,0 +1,13 @@
+@article{WANG2025109216,
+title = {A multi-scale simulation strategy for cutting three-dimensional braided composite materials},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109216},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109216},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500510X},
+author = {Zhonggang Wang and Jie Ye and Ziping Lei and Tianyu Gao and Hua Qu and Kai Liu and Zhuo Chen and Ke Yuan},
+keywords = {3D braided composites, Multi-scale method, Machining, Fracture},
+abstract = {Three-dimensional (3D) braided composites exhibit superior stability and damage tolerance under complex service conditions, attributed to their intrinsic braided architectures. However, the high-performance of these materials has been significantly hindered by poor machining quality. This study proposes a comprehensive multiscale framework to systematically analyze the machining of 3D braided composites. A machining model based on the spatial architecture of 3D braided composites was developed at the macroscopic scale, enabling precise characterization of cutting-induced damage mechanisms. Cutting mechanisms and parametric structural damage were systematically investigated. When the fiber-tool interaction aligns with the braiding orientation, localized compression-shear stresses drive rapid material fracture. In contrast, at complementary angles, bending-induced stresses dominate, leading to significant pre-fracture deformation and interfacial debonding, accompanied by surface degradation. At the macroscopic scale, the structural damage of three-dimensional braided composites during the machining was studied, through parametric analysis, a cutting depth of 0.2 mm is identified as the optimal machining parameter with a safety factor of 2.0 to ensure structural integrity. The accuracy of the multi-scale models (micro–macro) is validated by the designed experiments. This study establishes a modeling paradigm grounded in multi-scale failure mechanisms, offering a theoretical foundation for the precision machining of braided composites.}
+}

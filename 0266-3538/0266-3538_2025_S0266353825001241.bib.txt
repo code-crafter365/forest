@@ -1,0 +1,13 @@
+@article{LIU2025111156,
+title = {Bio-inspired inorganic-organic structure synergistic interfacial modification for enhancing mechanical and electromagnetic interference shielding properties of carbon fiber/epoxy composites},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111156},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111156},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001241},
+author = {Rong Liu and Jie Chen and Wei Zhao and Lihao Sun and Ye Li and Yonglin Yang and Zhigang Liu},
+keywords = {Carbon fiber, Bio-inspired, Polymer composites},
+abstract = {Carbon fiber reinforced polymer composites (CFRPs) are in huge demand in aerospace and navigation to reduce fuel consumption, but the weak mechanical and electromagnetic (EM) shielding properties remain pressing issues. Inspired by the bio-adhesion of mussels in nature, we self-polymerized organic polydopamine (PDA) layer on the carbon fiber (CF) surface as a versatile platform and successfully introduced inorganic Co3O4 nanosheets into the PDA-coated CF (PCF) surface via self-assembly process to enhance the interfacial bonding and electrical conductivity between the fiber and epoxy. The results showed that Co3O4-PDA-CF/EP outperformed unmodified CF/EP in flexural strength, interlaminar shear strength (ILSS), interfacial shear strength (IFSS), and electromagnetic interference (EMI) shielding properties, with enhancements of 59.4 %, 76.1 %, 131.5 %, and 61.1 %, respectively. Notably, the main fracture mechanism of composites gradually transfers from interfacial failure to cohesive failure. Briefly, the work provides experimental validation for developing high-performance multifunctional CFRPs and show potential application prospects in aircraft and other fields.}
+}

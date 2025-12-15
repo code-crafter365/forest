@@ -1,0 +1,13 @@
+@article{LIN2025119113,
+title = {Optimization of assembly parameters for composite bolted joints aiming at time-varying bearing reliability improvement},
+journal = {Composite Structures},
+volume = {363},
+pages = {119113},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119113},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002788},
+author = {Qingyuan Lin and Yong Zhao and Yuming Liu and Wei Pan and Yu Ren and Wencai Yu},
+keywords = {Composite bolted joints, Uncertainty analysis, Data driven prediction, Assembly parameter optimization, Reliability improvement},
+abstract = {Bolted connections are a common assembly form for composite structures. Different assembly parameters may lead to multiply differences in the strength of composite bolted joints. Low structural reliability is currently a key bottleneck that restricts the performance improvement of composite devices. In this study, the uncertainty characteristics of the washer structure parameters, interface friction coefficients and tightening process parameters under different machining methods, interface treatments and tightening control methods are analyzed through batch experimental tests. Then the data set with assembly parameters as input and structural bearing limit as output is constructed through batch virtual tightening- tensile experiments. The data-driven algorithm is used to construct a fast prediction model of the bearing limit, and the time-varying uncertainty analysis of the bearing limit and the bearing reliability evaluation method are established. Finally, the method is used to realize the bearing reliability improvement by regulating the uncertainty to optimize the assembly parameters. The uncertainties in the assembly parameters of the composite bolted joints obtained through experimental tests in this study can provide a reference for related researches. The established data-driven fast prediction model of bearing limits provides an effective tool for statistical analysis of bearing limits and bearing reliability assessment.}
+}

@@ -1,0 +1,13 @@
+@article{KRISHNANUNNI2025117938,
+title = {An adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117938},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117938},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002105},
+author = {C.G. Krishnanunni and Tan Bui-Thanh},
+keywords = {Architecture adaptation, Manifold regularization, Stability-promoting algorithm, Sequential learning},
+abstract = {This work presents a two-stage adaptive framework for progressively developing deep neural network (DNN) architectures that generalize well for a given training data set. In the first stage, a layerwise training approach is adopted where a new layer is added each time and trained independently by freezing parameters in the previous layers. We impose desirable structures on the DNN by employing manifold regularization, sparsity regularization, and physics-informed terms. We introduce a ɛ−δ− stability-promoting concept as a desirable property for a learning algorithm and show that employing manifold regularization yields a ɛ−δ stability-promoting algorithm. Further, we also derive the necessary conditions for the trainability of a newly added layer and investigate the training saturation problem. In the second stage of the algorithm (post-processing), a sequence of shallow networks is employed to extract information from the residual produced in the first stage, thereby improving the prediction accuracy. Numerical investigations on prototype regression and classification problems demonstrate that the proposed approach can outperform fully connected DNNs of the same size. Moreover, by equipping the physics-informed neural network (PINN) with the proposed adaptive architecture strategy to solve partial differential equations, we numerically show that adaptive PINNs not only are superior to standard PINNs but also produce interpretable hidden layers with provable stability. We also apply our architecture design strategy to solve inverse problems governed by elliptic partial differential equations.}
+}

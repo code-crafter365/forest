@@ -1,0 +1,13 @@
+@article{KEBAILI2025102532,
+title = {Multi-modal MRI synthesis with conditional latent diffusion models for data augmentation in tumor segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102532},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102532},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000412},
+author = {Aghiles Kebaili and Jérôme Lapuyade-Lahorgue and Pierre Vera and Su Ruan},
+keywords = {Data augmentation, Diffusion models, Multimodality, Tumor segmentation, Image generation},
+abstract = {Multimodality is often necessary for improving object segmentation tasks, especially in the case of multilabel tasks, such as tumor segmentation, which is crucial for clinical diagnosis and treatment planning. However, a major challenge in utilizing multimodality with deep learning remains: the limited availability of annotated training data, primarily due to the time-consuming acquisition process and the necessity for expert annotations. Although deep learning has significantly advanced many tasks in medical imaging, conventional augmentation techniques are often insufficient due to the inherent complexity of volumetric medical data. To address this problem, we propose an innovative slice-based latent diffusion architecture for the generation of 3D multi-modal images and their corresponding multi-label masks. Our approach enables the simultaneous generation of the image and mask in a slice-by-slice fashion, leveraging a positional encoding and a Latent Aggregation module to maintain spatial coherence and capture slice sequentiality. This method effectively reduces the computational complexity and memory demands typically associated with diffusion models. Additionally, we condition our architecture on tumor characteristics to generate a diverse array of tumor variations and enhance texture using a refining module that acts like a super-resolution mechanism, mitigating the inherent blurriness caused by data scarcity in the autoencoder. We evaluate the effectiveness of our synthesized volumes using the BRATS2021 dataset to segment the tumor with three tissue labels and compare them with other state-of-the-art diffusion models through a downstream segmentation task, demonstrating the superior performance and efficiency of our method. While our primary application is tumor segmentation, this method can be readily adapted to other modalities. Code is available here : https://github.com/Arksyd96/multi-modal-mri-and-mask-synthesis-with-conditional-slice-based-ldm.}
+}

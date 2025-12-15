@@ -1,0 +1,13 @@
+@article{FARJAS2025108815,
+title = {Analytical prediction of the thermal overheating in curing thick layers of fibre-reinforced thermosets},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108815},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108815},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001095},
+author = {Jordi Farjas and Daniel Sanchez-Rodriguez and Sihem Zaidi and Didina-Ramona-Casandra Cârstea and Ahmed Mohamed {Saleh Abd Elfatah} and Andrei Rotaru and Josep Costa},
+keywords = {Analytical model, Fibre-reinforced polymers, Composite materials manufacturing, Overheating, Overshooting, Thick laminates},
+abstract = {A recurring problem when curing thick specimen carbon-fibre-reinforced polymers is the formation of thermal gradients. Thermal gradients can lead to heterogeneous properties, overcuring and, in some cases, matrix degradation. To address this problem, we have developed a general-purpose analytical solution that allows one to predict the maximum temperature difference within a specimen when the curing reaction takes place under isothermal conditions. The analytical solution is specifically tailored to deal with standard conditions in the manufacture of composites and can be applied to different resins and prepregs. In addition, it allows one to determine the conditions for when a thermal runaway will occur. The analytical solution was validated by comparing the analytical predictions with numerical and experimental results.}
+}

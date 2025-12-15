@@ -1,0 +1,13 @@
+@article{BAGHERI2025106630,
+title = {Modeling two-phase equilibrium using smoothed particle hydrodynamics},
+journal = {Computers & Fluids},
+volume = {294},
+pages = {106630},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106630},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000908},
+author = {Mohammadreza Bagheri},
+keywords = {SPH, Smoothed particle hydrodynamics, Two-phase},
+abstract = {Smoothed Particle Hydrodynamics (SPH) is an emerging particle-based methodology that can also be used for modeling two-phase flows, currently in the early stages of development. This Lagrangian, mesh-free approach utilizes macro-scale formulations at the meso-scale, achieving computational performance comparable to micro-scale methods. This integration allows for efficient computations at larger scales than micro while facilitating detailed analysis at smaller scales than macro. This paper focuses on the study of two-phase equilibrium and droplet formation, employing the Equation of State (EOS) alongside the careful selection of an appropriate smoothing length. The majority of existing SPH literature utilizes the van der Waals (vdW) EOS for two-phase simulations. While the vdW EOS has provided foundational insights, newer models have been developed to accommodate a broader range of fluids. In this study, the Peng-Robinson EOS is employed, which separates the EOS into attractive and repulsive components, thereby enhancing modeling capabilities. This work critically examines the limitations of SPH in simulating two-phase equilibrium, deriving the smoothing length for attractive forces based on surface tension. Furthermore, it contends that employing an updated smoothing length does not accurately reflect physical realities. To the best of the author's knowledge, this research is among the few that directly integrates the Peng-Robinson Equation of State (PR EOS) and a viscosity equation of state within the SPH framework for the simulation of two-phase equilibrium.}
+}

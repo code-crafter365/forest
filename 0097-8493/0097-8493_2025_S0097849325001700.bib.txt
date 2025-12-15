@@ -1,0 +1,13 @@
+@article{BAI2025104329,
+title = {A faster single-image denoising diffusion model: Emphasizing the role of the latent image code},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104329},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104329},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001700},
+author = {Can Bai and Xianjun Han},
+keywords = {Denoising diffusion, Single image, Image generation, Latent code},
+abstract = {Stable diffusion models have produced remarkable advancements in image generation tasks, which suggests that diffusion processes are conducted in the latent space. However, approaches of this type rely heavily on extensive text–image datasets for training purposes. Various methods train on and extract the intrinsic characteristics of a single image to generate various images that conform to the distribution of the training image. Nevertheless, training directly in the image space is time-consuming. In this work, we investigate the use of the latent space representation of a single image to generate images by iteratively employing a lightweight diffusion model. In particular, we integrate the highly realistic. VQGAN and a variational autoencoder (VAE) model into a new encoder to obtain the latent code of the input image; this enables pixel-to-latent space transformations and fast training to form high-resolution images by learning a latent representation of the input image. After obtaining the latent code, we apply lightweight diffusion models that remove the standard upsampling and downsampling layers to reconstruct the latent code. The decoder receives the latent code generated through sampling and converts it to the pixel space, thereby generating high-quality images that follow the distribution of the training image. This design enables us to perceive a more realistic distribution for the input image and accelerate the inference and sampling processes. Compared with existing pixel-based single-image diffusion models, our method greatly accelerates the training and inference procedures while ensuring the quality and diversity of the generated samples.}
+}

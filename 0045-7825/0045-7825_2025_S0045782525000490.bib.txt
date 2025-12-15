@@ -1,0 +1,13 @@
+@article{DONG2025117777,
+title = {A snapshot-free reduced-order peridynamic model for accelerating fracture analysis of composites},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117777},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117777},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000490},
+author = {Han Dong and Hongjiang Wang and Jiahao Zhong and Chaohui Huang and Weizhe Wang and Yingzheng Liu},
+keywords = {Peridynamics, Reduced-order model, Fracture simulation, Crack},
+abstract = {A reduced-order peridynamic (PD) model is developed to accelerate fracture simulations of composite materials. This reduced-order PD model is constructed based on a set of projection basis functions extracted from the flexibility matrix corresponding to the initial configuration, rather than from snapshots. Thus, this approach eliminates dependence on datasets with prior knowledge, resulting in superior generalization. During the calculation, the projection basis functions are adaptively updated with the damage evolution. Several two- and three-dimensional numerical examples involving the fracture of composites are investigated to validate the numerical accuracy and computational efficiency of the model. The proposed model accurately captures various fracture characteristics while significantly improving the computational efficiency. This work presents a feasible approach for accelerating fracture simulations, which is of great significance for shortening the design cycle of composite materials and enhancing the efficiency of failure analysis.}
+}

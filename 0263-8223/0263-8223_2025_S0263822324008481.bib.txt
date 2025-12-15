@@ -1,0 +1,13 @@
+@article{ZHU2025118720,
+title = {Lightning damage analysis of composite bolted joint structures based on thermal-electrical-structural simulation},
+journal = {Composite Structures},
+volume = {352},
+pages = {118720},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118720},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008481},
+author = {Yuchen Zhu and Yuan Li and Jinru Sun and Chuang Liu and Xiangjie Xu and Kaifu Zhang and Hui Cheng},
+keywords = {Carbon fiber reinforced polymer, Interference joint structure, Lightning current strike, Electrothermal transfer process, Lightning damage mechanism},
+abstract = {To analyze the impact of connection behavior on lightning-induced ablation damage in composite bolted joints, this paper analyzes contact properties based on thermoelectric characteristics and develops a lightning ablation damage model for composite interference joint structures. A preliminary analysis of the electrothermal conduction process in the interference-fit composite joints clarifies the influence of connection behavior on lightning damage. The results indicate that a skin effect occurs near the fastener-to-CFRP interface, and both Joule heating and conductive heat significantly affect the temperature distribution in the composite bolted joint structure. A lightning current impact test was also conducted for validation and comparison. Quantitative comparisons show that the predicted in-plane damage aligns well with the experimental results, with an error of 7.37%, while the difference in thickness direction damage is more significant, with an error of 40.02%. Furthermore, the analysis of ablation damage characteristics reveals that the most severe damage occurs in the lower-middle region of the CFRP thickness due to the combined effects of interference damage and bolt preload, while damage in other areas is suppressed.}
+}

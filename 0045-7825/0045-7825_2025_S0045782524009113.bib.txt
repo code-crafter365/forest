@@ -1,0 +1,13 @@
+@article{ZENG2025117657,
+title = {Boosting efficiency and reducing graph reliance: Basis adaptation integration in Bayesian multi-fidelity networks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117657},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117657},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009113},
+author = {Xiaoshu Zeng and Gianluca Geraci and Alex A. Gorodetsky and John D. Jakeman and Roger Ghanem},
+keywords = {Surrogate models, Multi-fidelity methods, Dimension reduction, Uncertainty quantification},
+abstract = {The computational cost of high-fidelity numerical models makes outer-loop analysis, which requires repeated interrogation of the model such as uncertainty quantification, computationally demanding. Multi-fidelity methods, which construct a surrogate model using data from an ensemble of models of varying cost and accuracy, can substantially reduce the cost of outer-loop analysis. However, these methods can be difficult to apply when the model ensemble does not admit a clear hierarchy a priori and the correlations between models are low. Consequently, in this paper, we present a multi-fidelity method that leverages dimension reduction to enhance the correlation between models, thereby reducing the amount of data needed to train a surrogate from an unordered ensemble of models. Our method utilizes basis adaptation to build low-dimensional polynomial chaos expansions of each model and employs Multi-fidelity Networks to encode the relationships among models. We show that the resulting method exhibit two notable advantages over its counterpart: (1) enhanced accuracy (both reduced bias and variance); and (2) reduced dependency on the graph structure encoding relationships among models. We demonstrate the approach on an analytical test problem and a challenging finite element model for a spent nuclear fuel. Our method produces a surrogate model that is significantly more accurate than either a single-fidelity surrogate or a multi-fidelity surrogate constructed without basis adaptation.}
+}

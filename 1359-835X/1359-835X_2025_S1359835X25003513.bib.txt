@@ -1,0 +1,13 @@
+@article{ANDREW2025109057,
+title = {Innovative 2D material enhanced 3D-printed sandwich lattice sheet-embedded composites: Advancements in transient energy absorption characteristics},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109057},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109057},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003513},
+author = {J Jefferson Andrew and Muhammad Y Khalid and Wesley J Cantwell and Kamran A Khan and Prasad Potluri and Rehan Umer},
+keywords = {Sandwich lattice structures, Composite laminates, Graphene, Additive manufacturing, Low velocity impact, Energy absorption},
+abstract = {This research investigates a novel 3D-printed sandwich lattice sheet-embedded composite laminate designed for enhanced impact resistance. Additive manufacturing parameters have been established for two corrugated, nanoengineered sandwich lattice sheet geometries: triangular and curved topologies—in addition to reference bulk structures. Nanocomposite sandwich lattice sheets with varying Graphene Nano Platelet (GNP) concentrations (0–0.5 wt%) have been manufactured and integrated into glass fiber-reinforced laminates using co-infusion and co-curing techniques. This innovative approach enables seamless integration of 3D-printed, nanoengineered lattice sheets, preserving in-plane properties while localizing GNP reinforcement for enhanced energy absorption and offering a scalable, industrially compatible toughening strategy. The investigation involved analyzing the molecular composition, microstructure, and bulk properties of the constituent materials used in the lattice sheet fabrication, before subjecting the lattice sheet-integrated laminates to drop-weight impact loading. The laminates exhibited an excellent improvement in impact resistance, showing up to a ∼ 170 % increase in initial collapse load compared to baseline samples. These sandwich lattice structures effectively reduced damage propagation and displayed superior energy absorbing characteristics, notably in the case of the triangular sandwich lattice-embedded laminates. The study highlights the potential of triangular sandwich lattice sheet-embedded laminates, specifically those with optimized GNP concentrations, for applications requiring an enhanced impact resistance.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025111346,
+title = {Mode III delamination characterization for composite laminates: an improved size-independent data reduction method for edge ring crack torsion test},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111346},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111346},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003148},
+author = {Zhaobin Li and Yu Gong and Yuting Gao and Wenjuan Lin and Jianyu Zhang and Libin Zhao and Ning Hu},
+keywords = {Polymer-matrix composite, Mode III delamination, Edge ring crack torsion test, Fracture toughness, Delamination mechanism},
+abstract = {The development of test standards for mode III delamination remains challenging due to the critical sensitivity of mode III interlaminar fracture toughness (GIIIC) to initial crack length. Meanwhile, the edge ring crack torsion (ERCT) test has attracted significant attention due to its unique advantage in pure mode III condition. However, the original data reduction method suffers from a dimensional mismatch between the analytical model and specimen geometry. This paper proposes an improved data reduction method based on stress intensity factor (SIF) evaluation derived from extended finite element method (XFEM), establishing a simplified semi-analytical expression for GIIIC of ERCT test. Specimens with different thicknesses and initial crack lengths show size-independent GIIIC values when using the improved method. Moreover, the mode III failure mechanism is further analyzed. The internal delamination shapes enclosed by the delamination front reveal a uniform delamination growth path. Microscopic analysis indicates a serrated morphology in the interlaminar resin fracture. Overall, this study establishes an effective method for determining GIIIC, as well as provides a deeper mechanistic understanding of the mode III delamination behavior associated with crack nucleation.}
+}

@@ -1,0 +1,13 @@
+@article{ERBAS2025106805,
+title = {Accurate Computation of Multiphase Flows with high-density and pressure ratios using Smoothed Particle Hydrodynamics},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106805},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106805},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002658},
+author = {Murat Erbaş and Metehan Atcı and Mehmet Karaca and Atilla Bıyıkoğlu},
+keywords = {Smoothed particle hydrodynamics, Variable artificial viscosity, Particle shifting method, Shock tube, Cavitative shock tube, Shock-bubble interaction},
+abstract = {This article discusses the applications of the smoothed particle hydrodynamics (SPH) methods to propose adaptations for compressible flow problems, particularly with discontinuities: shock tube, cavitation shock tube, and shock-bubble interaction. The formulations and their parameters are obtained to solve both single-phase and multi-phase flows effectively. The effects of the variation of artificial viscosity, variation of thermal conductivity, and particle shifting on interfacial problems are examined. The model parameters are tuned to avoid spurious oscillations while reducing numerical dissipation. It is determined that a minimum artificial viscosity constant between 0.1 and 0.5 is required for a stable interface with lower dissipation. Likewise, the minimum artificial thermal conductivity is set to 0 in order to efficiently mitigate energy discontinuities and minimize the wall heating effect. Moreover, it is noted that the integration of artificial viscosity and thermal conductivity with particle shifting does not enhance computational accuracy. The local grid refinement improves interface resolution accuracy in the shock-bubble problem, demonstrating strong accordance with experimental data in the literature while minimizing computational cost, particularly at interfaces characterized by high density and pressure ratios. This paper examines various formulations for density and momentum equations to address the adverse effects of single and multi-phase flow problems with discontinuities. Previous research can address these multi-phase problems with density ratios of up to one hundred, whereas the suggested continuity-based density formulation and pressure difference-based momentum equation provide superior performance and stability for density ratios of sixteen thousand.}
+}

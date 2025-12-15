@@ -1,0 +1,13 @@
+@article{LIU2025102458,
+title = {Utilizing domain knowledge to improve the classification of intravenous contrast phase of CT scans},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {119},
+pages = {102458},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102458},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001356},
+author = {Liangchen Liu and Jianfei Liu and Bikash Santra and Christopher Parnell and Pritam Mukherjee and Tejas Mathai and Yingying Zhu and Akshaya Anand and Ronald M. Summers},
+keywords = {Multi-phase CT classification, Organ segmentation, Lightweight classification model, Data curation},
+abstract = {Multiple intravenous contrast phases of CT scans are commonly used in clinical practice to facilitate disease diagnosis. However, contrast phase information is commonly missing or incorrect due to discrepancies in CT series descriptions and imaging practices. This work aims to develop a classification algorithm to automatically determine the contrast phase of a CT scan. We hypothesize that image intensities of key organs (e.g. aorta, inferior vena cava) affected by contrast enhancement are inherent feature information to decide the contrast phase. These organs are segmented by TotalSegmentator followed by generating intensity features on each segmented organ region. Two internal and one external dataset were collected to validate the classification accuracy. In comparison with the baseline ResNet classification method that did not make use of key organs features, the proposed method achieved the comparable accuracy of 92.5% and F1 score of 92.5% in one internal dataset. The accuracy was improved from 63.9% to 79.8% and F1 score from 43.9% to 65.0% using the proposed method on the other internal dataset. The accuracy improved from 63.5% to 85.1% and the F1 score from 56.4% to 83.9% on the external dataset. Image intensity features from key organs are critical for improving the classification accuracy of contrast phases of CT scans. The classification method based on these features is robust to different scanners and imaging protocols from different institutes. Our results suggested improved classification accuracy over existing approaches, which advances the application of automatic contrast phase classification toward real clinical practice. The code for this work can be found here: (https://github.com/rsummers11/CT_Contrast_Phase_Classifier).}
+}

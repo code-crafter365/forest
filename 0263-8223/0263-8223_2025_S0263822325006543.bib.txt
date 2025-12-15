@@ -1,0 +1,13 @@
+@article{TANG2025119489,
+title = {Dynamic instability of elastically supported functionally graded porous arches reinforced with graphene platelets under a general dynamic load},
+journal = {Composite Structures},
+volume = {371},
+pages = {119489},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119489},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006543},
+author = {Hao Tang and Airong Liu and Jian Deng and Jialin Wang and Jie Yang and Shimao Qin},
+keywords = {Dynamic instability, FGP-GPLRC arch, Elastic support, Functionally graded porous graphene platelet reinforced composite (FGP-GPLRC), Parametric resonance},
+abstract = {This paper investigates the in-plane dynamic instability behavior of elastically supported functionally graded porous (FGP) circular arches reinforced with graphene platelet-reinforced composite (FGP-GPLRC) under a general radial periodic dynamic load. By expressing the dynamic load in Fourier series, a comprehensive analysis of an FGP-GPLRC arch capable of dealing with various dynamic loading conditions is developed for the first time. The practical boundary conditions that are not fully rigidly restrained are modelled by elastic supports to enable a more accurate prediction of the dynamic stability of the arches. The governing equations of motion of the arch are derived and its dynamic instability regions are analytically determined. The present analysis is validated with excellent agreement with finite element results. A comprehensive parametric analysis is conducted to examine the effects of porosity distribution pattern, porosity coefficient, GPL mass fraction, elastic support, damping ratio, static load component, and dynamic load shape on the dynamic instability of the FGP-GPLRC arch. Our results indicate that the parametric resonance instability regions of an FGP-GPLRC arch under square-wave dynamic loads are significantly larger than those under sawtooth-wave and harmonic dynamic loads.}
+}

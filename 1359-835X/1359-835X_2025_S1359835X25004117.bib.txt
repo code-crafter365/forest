@@ -1,0 +1,13 @@
+@article{LYU2025109117,
+title = {In-situ tailored repair of thermoplastic composites by overprinting of continuous carbon fibre reinforced polymer filaments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109117},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109117},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004117},
+author = {Yahui Lyu and Aonan Li and Jiang Wu and Haoqi Zhang and Dongmin Yang},
+keywords = {Thermoplastic composites, Continuous carbon fibre reinforced polymer composites, 3D overprinting, Composites repair, Customised path},
+abstract = {This study proposes an efficient and convenient in-situ repair approach for damaged thermoplastic composites by 3D overprinting. Continuous carbon fibre reinforced polyphenylene sulphide (CCF/PPS) filament was employed to overprint repair patches onto conventionally manufactured woven polyamide 6 (PA6) laminates. The process window was optimised through thermal analysis of the target polymers, with a temperature range spanning from the melting point of PA6 (216.8°C) to the crystallisation point of PPS (227.6°C). A nominated interface temperature of 220 °C was evidenced as the most effective, raising the tensile strength of repaired specimens to 205.9 MPa, an improvement of 35 % compared to open-hole laminates and a recovery of nearly 50 % of the strength lost relative to undamaged specimens. Additionally, bio-inspired spider web printing paths were tailored for static indention loading, restoring 94 % of the original laminate strength while reducing material usage by 67 % compared to conventional unidirectional patches. This novel overprinting approach offers a highly efficient and flexible solution for repairing damaged thermoplastic structures.}
+}

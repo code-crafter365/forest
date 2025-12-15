@@ -1,0 +1,13 @@
+@article{BORGELT2025106729,
+title = {Embedded LES boundary conditions for shear dominated flows},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106729},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106729},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001896},
+author = {J. Borgelt and M. Meinke and W. Schröder},
+keywords = {Embedded LES, Zonal RANS/LES, Backward-facing step, Navier–Stokes characteristic boundary condition},
+abstract = {An embedded LES method is introduced which combines the efficiency of Reynolds-averaged Navier–Stokes (RANS) models with the turbulence resolving capabilities of large-eddy simulation (LES). The turbulent scale resolved embedded LES region is reduced to a region of interest, for which boundary conditions are formulated from a preliminary RANS solution. The method is validated for simulations of detached flow in which the embedded LES region is reduced to the separation region. The outflow is placed in the high-vorticity region of the separation flow in which recirculations with local negative streamwise velocities occur. For the outflow boundary a novel Navier–Stokes characteristic boundary condition which uses information of the RANS solution is presented. The formulation allows the simulation of reversed flow and ensures well-posedness of the problem with minimal wave reflections at the exit of the domain. The outflow boundary condition is combined with a synthetic turbulence generation method employed to generate the turbulent energy spectrum at the inflow of the embedded LES region. At the wall-parallel or tangential zonal interface the embedded LES uses the entering and exiting mass flux of the preliminary RANS solution as a boundary condition. The quality of the presented method is shown for the separating flow over a curved backward-facing step with non-zero mass flux over the tangential interface.}
+}

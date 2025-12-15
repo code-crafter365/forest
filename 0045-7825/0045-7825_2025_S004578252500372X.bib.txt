@@ -1,0 +1,13 @@
+@article{YU2025118100,
+title = {Enhancing dynamic modeling of porous media with compressible fluid: A THM material point method with improved fractional step formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118100},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118100},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500372X},
+author = {Jidu Yu and Weijian Liang and Jidong Zhao},
+keywords = {Multiphysics coupling, Material point method, Large deformation, Fractional step method, Compressible fluid, Wave propagation},
+abstract = {Modeling dynamic behavior and large deformation in porous media, encompassing coupled fluid flow, solid deformation, and heat transfer, remains a critical challenge in geomechanics. While the two-phase material point method (MPM) combined with the semi-implicit fractional step method (FSM) has demonstrated efficacy for saturated porous media under large deformation, traditional FSM is constrained to incompressible fluid and divergence-free velocity condition, limiting their applicability to scenarios involving compressible fluids, such as unsaturated soils or thermo-active systems. This study presents an enhanced FSM-based MPM framework that incorporates fluid compressibility and thermal expansivity under non-isothermal conditions. Key innovations include a node-based implicit scheme to solve intermediate variables, significantly improving computational efficiency while maintaining stability. Through a suite of hydro-mechanical (HM) and thermo-hydro-mechanical (THM) coupling benchmarks, we demonstrate that fluid compressibility is essential for FSM to accurately resolve pressure shock waves induced by mechanical or thermal loading. Temporal resolution critically influences modeling of wave dynamics, with larger time steps accelerating wave attenuation. Notably, the semi-implicit FSM can achieve comparable accuracy to explicit schemes while offering superior stability in dynamic regimes, irrespective of fluid compressibility. Practical trade-offs between computational efficiency and pressure wave-capture fidelity are discussed, guiding method selection based on scenario-specific needs. Furthermore, we explore the framework’s potential extension to triphasic porous systems to highlight its versatility for geomechanical applications. The work bridges a critical gap in simulating compressible, multiphysics-coupled porous media, offering a robust tool for both academic and industrial challenges.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025118679,
+title = {Tomographic modeling and internal structure analysis of engineering textiles: A parametric approach},
+journal = {Composite Structures},
+volume = {352},
+pages = {118679},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118679},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008079},
+author = {Bin Yang and Cédric Béguin and Philippe Causse and Yuwei Feng and Jihui Wang},
+keywords = {Textile reinforcements, Mesostructural modeling, Stochastic resampling, Internal structure analysis},
+abstract = {Tomographic modeling of textiles is attractive for numerical investigation of composites due to its ability to reveal the internal architecture. However, reliability is notably dependent on geometrical modeling accuracy, which is still challenging. This paper addresses existing issues using a parametric approach that relies on statistical resampling and spatial autocorrelated prediction. The proposed strategy involves three stages: first, an explicit representation of each fiber tow is derived from the segmented images through statistical resampling in the parametric domain, which is subsequently mapped back to the physical domain according to known spatial autocorrelation. It allows depicting tow surfaces with varying levels of detail. Second, the tow trajectory is parameterized and subjected to a smoothing process, thereby identifying the local fiber orientation as its tangent vector. Finally, the normal cross-sections of tows are solved as intersecting implicit planes with a parametric tubular surface thanks to the parametric representation. This allows evaluating the spatial architectural variability in tows with notable waviness. Examinations were performed by contrasting the proposed approach with existing techniques. This new approach demonstrated better consistency with the ground truth while bringing additional benefits to the geometry reconstruction.}
+}

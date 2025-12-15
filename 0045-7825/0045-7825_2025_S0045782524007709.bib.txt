@@ -1,0 +1,13 @@
+@article{CARDOSOCOELHO2025117516,
+title = {A composite Bayesian optimisation framework for material and structural design},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117516},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117516},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007709},
+author = {R.P. {Cardoso Coelho} and A. Francisca {Carvalho Alves} and T.M. {Nogueira Pires} and F.M. {Andrade Pires}},
+keywords = {Material design, Structural design, Inverse problems, Derivative-free optimisation, Bayesian optimisation},
+abstract = {In this contribution, a new design framework leveraging Bayesian optimisation is developed to enhance the efficiency and quality of material and structural design processes. The proposed framework comprises two main steps. The first step involves efficiently exploring the design space with a minimum number of sampled points to mitigate computational costs. In the subsequent step, a composite Bayesian optimisation strategy is employed to evaluate the objective function and identify the next candidate for sampling. By building a surrogate model for numerical simulation responses in a fixed-size latent response space and using techniques like Principal Component Analysis for dimensionality reduction, the framework effectively exploits the composition aspect of the objective function. Unlike traditional methods that rely on random sampling across the design space, our Bayesian optimisation approach uses a dynamic, adaptive sampling strategy. This method significantly reduces the number of required experiments while effectively managing uncertainty. We evaluate the framework’s performance across various design scenarios and conduct a critical comparative analysis against well-established data-driven approaches. These scenarios include linear and nonlinear material and structural behaviours, addressing multi-objective optimisation and data variability. Our findings demonstrate substantial improvements in performance and quality, particularly in nonlinear settings. This underscores the framework’s potential to advance design methodologies in material and structural engineering.}
+}

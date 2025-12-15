@@ -1,0 +1,13 @@
+@article{YANG2025108570,
+title = {Effect of micro-scale fibre uncertainties on the mechanical behaviour of natural/synthetic hybrid fibre composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108570},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108570},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005682},
+author = {Nenglong Yang and Zhenmin Zou and Constantinos Soutis and Prasad Potluri and Kali Babu Katnam},
+keywords = {A. Hybrid, Natural fibre composites, B. Mechanical properties, C. Micro-mechanics},
+abstract = {This paper investigates how uncertainties in natural/synthetic hybrid fibre composites—specifically fibre distribution, diameter, and elastic properties—affect the lamina properties and micro-stress distributions. Using a representative volume element model and Monte Carlo simulations, the study examines unidirectional flax/E-glass/epoxy and flax/epoxy composite laminae. Flax fibre uncertainties are modelled as normal distributions with a 20% coefficient of variation. Results reveal that these uncertainties minimally influence the homogenised properties of flax/epoxy laminae. However, in flax/E-glass/epoxy laminae, E-glass fibres significantly alter homogenised properties, with fibre elastic properties uncertainties having a greater effect. These uncertainties also influence matrix stress fields in flax/epoxy laminae, primarily due to uncertainties in fibre elastic properties. Although the influence is smaller in flax/E-glass laminae, it remains significant, as hybridisation can increase von Mises stress and potentially cause early resin cracking. This stochastic approach highlights the importance of micro-scale fibre uncertainties for damage analysis despite their limited influence on homogenised properties.}
+}

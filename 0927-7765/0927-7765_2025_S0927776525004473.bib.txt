@@ -1,0 +1,13 @@
+@article{ELBELTAGI2025114940,
+title = {Cancer cell membrane-coated quercetin-MXene-Au nanoparticles for smart drug delivery and enhanced photothermal therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114940},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114940},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004473},
+author = {Shehab Elbeltagi and Mohammed Al-Zharani and Fahd A. Nasr and A.M. Ismail and Hagar M. El-Tohamy and Khaled M. Abdelbased and Zienab E. Eldin and Nada S. Al-Theyab},
+keywords = {Cancer cell membrane, Chem-PTT, Drug Delivery Systems, And molecular docking},
+abstract = {Cellmembrane-coated nanoparticles (NPs) have garnered significant attention because of their extended circulation time and ability to target similar cells through homotypic interactions. Herein, we fabricated cancer cell membrane (CCM)-coated quercetin (Q)-MXene-Au NPs, forming Q-MX-Au@CCM, as a promising approach for drug delivery (DD) and improved photothermal therapy (PTT). The Q-MX-Au@CCM nanocomposites serve as multifunctional nanoplatforms with a large surface area and excellent responsiveness to near-infrared (NIR) light thereby enhancing their efficacy in tumor treatment. TEM analysis revealed that Q-MX-Au@CCM had an average particle size of 87.4 nm and a zeta potential of −28.9 mV. MXene-Au demonstrated excellent PT properties, achieving a PT conversion efficiency of 68.5 %. The MTT assay demonstrated significant cytotoxicity of MCF-7 breast cancer cells, with the chemo-PTT approach showing an IC50 value of 12.5 µg/mL and resulting a high apoptosis rate. Cellular internalization studies showed enhanced uptake of both MX-Au and Q-MX-Au@CCM NPs in MCF-7 cells under NIR. The pro-apoptotic efficacy of Q and Q-MX-Au@CCM was further confirmed with Western blot analysis of key apoptotic markers, Bax and BCl-2. Q-MX-Au@CCM showed the most pronounced effects, significantly increasing Bax expression (0.75 ± 0.06) and decreasing BCl-2 expression (0.27 ± 0.011). In vivo studies using a xenograft model in BALB/c mice indicated that chemo-PTT resulted in the lowest tumor weight (0.08 g) and volume (46.3 mm3). Molecular docking studies showed strong binding affinity between MXene and Adora2a (binding energy: −12.9 kcal/mol), with key interactions including two hydrogen bonds (HB): one between the oxygen of Q and HIS273 (2.94 Å), and another between the HB of Q and the oxygen of ALA78 (2.46 Å), supporting the molecular basis for the enhanced therapeutic performance of Q-MX-Au@CCM.}
+}

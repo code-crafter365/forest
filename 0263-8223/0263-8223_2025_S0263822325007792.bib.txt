@@ -1,0 +1,13 @@
+@article{KANG2025119614,
+title = {Photopolymerization additive manufacturing of highly stretchable CNT nanocomposites for 3D-architectured sensor applications},
+journal = {Composite Structures},
+volume = {372},
+pages = {119614},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119614},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007792},
+author = {Jiwan Kang and Mingyu Kang and Soonjae Pyo and Keun Park},
+keywords = {Carbon nanotubes, Conductive polymer composites, Additive manufacturing, Digital light processing (DLP), Triply periodic minimal surface (TPMS)},
+abstract = {Additive manufacturing (AM) has emerged as a transformative technology for fabricating electrically conductive polymer nanocomposites incorporating carbon nanotubes (CNTs). This study presents the AM technology of highly stretchable and electrically conductive CNT nanocomposites with complex 3D architectures, optimized for digital light processing type vat photopolymerization. Multi-walled CNTs were uniformly dispersed in an aliphatic urethane diacrylate photopolymer resin at concentrations ranging from 0.1 to 0.9 wt%, significantly enhancing electrical conductivity and mechanical flexibility simultaneously. Systematic printability evaluations were then conducted to determine optimal printing conditions, effectively accommodating CNT fillers while minimizing adverse effects such as light scattering. Comprehensive characterizations revealed exceptional performance at 0.9 wt% CNT loading, achieving high elongation (223 %) and improved electrical conductivity (1.64 × 10−3 S/m), surpassing previously reported values. To demonstrate practical applicability, the optimized CNT nanocomposite was used to fabricate triply periodic minimal surface (TPMS)-based piezoresistive sensors, exhibiting a highly linear sensitivity of 0.251 kPa−1 and reliable performance up to 70 % compression (57 kPa). Furthermore, these TPMS-structured sensors were successfully integrated into a smart insole platform, enabling real-time monitoring of plantar pressure distribution during various human motions and postures. The developed approach presents significant opportunities for the AM of functional CNT nanocomposites, combining superior stretchability, conductivity, and geometric complexity for next-generation flexible electronic applications.}
+}

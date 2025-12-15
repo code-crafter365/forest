@@ -1,0 +1,13 @@
+@article{ZHANG2025119247,
+title = {A novel mesoscopic modeling method of triaxial woven fabric composites considering yarn-yarn contact geometry},
+journal = {Composite Structures},
+volume = {367},
+pages = {119247},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119247},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500412X},
+author = {Honghua Zhang and Renbo Su and Xinyang He and Chengzu Li and Yifan Zhi and Wei Li},
+keywords = {Meso scale, Unit cell, Triaxial woven fabric composites, Contact geometry, Mechanical properties},
+abstract = {This paper presents a high-fidelity mesoscopic triaxial woven fabric composites model with realistic contact surface morphology is designed parametrically from the contact region at the yarn interweaving position for avoiding volumetric interpenetration of the yarns. Additionally, the geometry of yarn-yarn contact is parametrically characterized. The geometrical features of the model are validated by the results extracted from micro-CT reconstruction. The introduction of experimental methodology for the direct observation of the actual contact surface morphology has validated the parametric characterization of the contact geometry. A Python script is developed to automate the addition of periodic boundary conditions and the accuracy of the elastic property prediction is evaluated experimentally. The results demonstrate that triaxial woven fabric composites modeling approach achieves fine mesoscale characterization and high elastic property prediction accuracy. The comparison results of two different contact surface morphology models highlight the significance of yarn-yarn contact morphology features in textile structure modeling.}
+}

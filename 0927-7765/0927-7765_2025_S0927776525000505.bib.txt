@@ -1,0 +1,13 @@
+@article{SHLAR2025114543,
+title = {Layered double hydroxides for a synthesis of hierarchical nanostructures: Surface-induced crystallization of antlerite microrods conversed to reusable antimicrobial CuO},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114543},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114543},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000505},
+author = {Ilya Shlar and Yanna Gurianov and Elena Poverenov},
+keywords = {Layered double hydroxide (LDH), Copper hydroxysulfate, Surface-induced synthesis, CuO, Antibacterial, Nanostructure},
+abstract = {A novel strategy for high-yield synthesis of hierarchical metal-oxide nanostructures utilizing layered double hydroxides (LDHs) was developed. LDHs were found to induce surface crystallization of copper hydroxysulfate leading to highly crystalline microrods of antlerite (Cu3(OH)4SO4) via the intermediate stage of brochantite (Cu4(OH)6SO4) in a process that obeys Ostwald's rule of stages. The resultant microrods were converted into hierarchical 3D CuO nanostructures through a straightforward and scalable process. The prepared nanostructures demonstrated total eradication of gram negative (Escherichia coli) and gram positive (Bacillus Cereus) bacteria, with maintained efficacy over reuse cycles. No leaching of antimicrobial material from the nanostructures was obtained, confirming their structural stability and resistance to dissolution. The structures were studied by field emission scanning electron microscopy, X-ray powder diffraction, and Fourier-transform infrared spectroscopy. Two-chamber experiments reinforced the involvement of a surface-induced nucleation mechanism in antlerite formation. The use of LDH for surface-induced nucleation and formation of hierarchical nanostructures, provides innovative cost-effective and simple synthetic approach that eliminates the need for laborious intermediate purification steps. This method can be extended to other metal-based nanostructures, paving the way for new applications in advanced material synthesis.}
+}

@@ -1,0 +1,13 @@
+@article{CUI2025119268,
+title = {Deformation response and enhanced energy absorption capacity of a novel re-entrant honeycomb with hybrid structures and bi-material under in-plane compression},
+journal = {Composite Structures},
+volume = {367},
+pages = {119268},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119268},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004337},
+author = {C.Y. Cui and T. Chen and Y.T. Qiao and X.Y. Kuang and L.X. Hua and X.G. Cui and H.F. Yan},
+keywords = {Re-entrant diamond-enhanced honeycomb (RE-DEH), Bi-material structure, Compression response, Auxetic performance, Energy absorption capability},
+abstract = {Re-entrant hybrid honeycomb attracts significant attention due to its excellent in-plane compression performance, yet achieving a balance between energy absorption and auxetic effects remains a significant challenge. To address this, we propose a novel re-entrant diamond-enhanced honeycomb (RE-DEH) that combines two geometric designs: the re-entrant honeycomb (REH) and diamond-enhanced honeycomb (DEH). Compared to REH with identical wall thicknesses, the RE-DEH demonstrates significantly higher specific stiffness and Specific Energy Absorption (SEA). Additionally, a parametric study of the geometric configuration reveals that the inclination angle a of the REH is the dominant factor governing both energy absorption capacity and Poisson’s ratio. Further optimization using a bi-material configuration − where modified PLA materials of varying stiffness are applied to REH and DEH regions − reduces the magnitude of the average Poisson’s ratio by 50 % (from −0.36 to −0.54) while maintaining low relative density. Simultaneously, this design increases the SEA to 1.20 J/g, representing a 23.71 % enhancement over single-material counterparts. Therefore, the bi-material structure design is an effective strategy to overcome the trade-off between the energy absorption and auxetic effect, providing a new approach for the optimization of honeycomb structure.}
+}

@@ -1,0 +1,13 @@
+@article{ISLAM2025108599,
+title = {Data-driven optimization of additive composite manufacturing using automated fibre placement: A study on process parameters effects and interactions},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108599},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108599},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005979},
+author = {Faisal Islam and Matthew J. Donough and Ebrahim Oromiehie and Andrew W. Phillips and Nigel A. {St John} and B. Gangadhara Prusty},
+keywords = {Thermoplastic carbon fibre reinforced polymer (CFRP) composites, Shear strength, Automated fibre placement, Automated composites manufacturing},
+abstract = {The influence of process parameters and their interactions on the interlaminar shear strength (ILSS) of additively manufactured CF-PEEK composites was investigated. The composites were made using a hot gas torch (HGT)-based automated fibre placement (AFP) process. Experimental short beam shear (SBS) tests and FEA numerical simulations with bonding models were conducted to generate data. Various process parameter combinations were analysed using full-factorial statistical assessment. Results show that ILSS increases with decreasing deposition speeds and increasing HGT temperatures, with consolidation forces having a milder effect. A strong interaction effect between parameters was observed, and the effect of HGT temperature on ILSS depends on material deposition speed. The optimum ILSS were at low deposition speeds (76 mm/s) with high HGT temperatures (900 °C or 950 °C), also evident in the fracture surfaces. This database can aid smart production planning in additive manufacturing of composites by optimizing process parameters for maximum interlaminar strength.}
+}

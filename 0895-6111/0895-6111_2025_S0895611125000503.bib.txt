@@ -1,0 +1,13 @@
+@article{SUN2025102541,
+title = {Automatic semantic segmentation of the osseous structures of the paranasal sinuses},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102541},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102541},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000503},
+author = {Yichun Sun and Alejandro Guerrero-López and Julián D. Arias-Londoño and Juan I. Godino-Llorente},
+keywords = {Automatic semantic segmentation, CT, Osseous structures, Paranasal sinuses, U-Net, Neuronavigation, Robot-assisted surgery},
+abstract = {Endoscopic sinus and skull base surgeries require the use of precise neuronavigation techniques, which may take advantage of accurate delimitation of surrounding structures. This delimitation is critical for robotic-assisted surgery procedures to limit volumes of no resection. In this respect, an accurate segmentation of the osseous structures of the paranasal sinuses is a relevant issue to protect critical anatomic structures during these surgeries. Currently, manual segmentation of these structures is a labour-intensive task and requires wide expertise, often leading to inconsistencies. This is due to the lack of publicly available automatic models specifically tailored for the automatic delineation of the complex osseous structures of the paranasal sinuses. To address this gap, we introduce an open source dataset and a UNet SwinTR model for the segmentation of these complex structures. The initial model was trained on nine complete ex vivo CT scans of the paranasal region and then improved with semi-supervised learning techniques. When tested on an external dataset recorded under different conditions, it achieved a DICE score of 98.25 ± 0.9. These results underscore the effectiveness of the model and its potential for broader research applications. By providing both the dataset and the model publicly available, this work aims to catalyse further research that could improve the precision of clinical interventions of endoscopic sinus and skull-based surgeries.}
+}

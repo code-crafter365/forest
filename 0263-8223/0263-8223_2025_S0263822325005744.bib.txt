@@ -1,0 +1,13 @@
+@article{WANG2025119409,
+title = {Honeycomb-cored hierarchical acoustic metamaterials: A synergistically coupled architecture for enhanced broadband sound absorption},
+journal = {Composite Structures},
+volume = {370},
+pages = {119409},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119409},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005744},
+author = {Xinte Wang and Xinbiao Xiao and Jian Han and Yuanpeng He},
+keywords = {Acoustic metamaterials, Sound absorption, Honeycomb structure, Helmholtz resonance, Hierarchical design},
+abstract = {This study proposes an innovative hierarchical honeycomb-cored acoustic metamaterial (HHAM) featuring a synergistically coupled architecture, specifically engineered to enhance broadband sound absorption, particularly in the low-frequency range. The HHAM integrates a hierarchical honeycomb structure with Helmholtz resonance units, leveraging coherent coupling effects and hierarchical scaling to overcome the limitations of traditional sound-absorbing materials, including narrow bandwidth and poor low-frequency performance. By combining the lightweight, high-strength properties of honeycomb composites with the energy dissipation mechanisms of Helmholtz resonators, the proposed metamaterial achieves near-perfect absorption across 33 % of the 200–800 Hz frequency range and delivers broadband half-absorption over 62 % of the spectrum. Numerical simulations, analytical modeling, and experimental validation demonstrate that the hierarchical design not only enhances sound absorption performance but also facilitates tunable absorption characteristics through parameter optimization. The findings underscore the potential of hierarchical honeycomb composites for noise control applications, presenting a novel paradigm for designing multifunctional acoustic metamaterials characterized by high efficiency, broad performance, and structural flexibility. This work emphasizes the significance of composite structures in advancing acoustic engineering and establishes a foundation for future research on hierarchical material systems.}
+}

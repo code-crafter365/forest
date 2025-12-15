@@ -1,0 +1,13 @@
+@article{YU2025108663,
+title = {Supercritical N2-induced lightweight high-strength chloroprene rubber foam with excellent flame-retardant and smoke suppression},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108663},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108663},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006614},
+author = {Shaopeng Yu and Ya Liu and Jiangyong Cao and Shibao Wen and ZhenXiu Zhang},
+keywords = {Chloroprene Foam, Supercritical N, Foaming behaviors, Flame-retardant property, Mechanical property},
+abstract = {The development of efficient and environmentally friendly rubber foams is crucial for reducing fire hazards and protecting lives and property. Herein, this study developed a green microcellular foaming method for lightweight and high-strength chloroprene rubber (CR) flame-retardant foams. A strategy that actively releases H2O and rapidly forms carbon to stop flames is proposed by low-toxicity smoke suppression aluminum hydroxide (ATH) and readily carburizable Zinc borate (ZB) as flame retardants. Based on the quantitative information of the cellular structure, the effects of ATH and ZB on the foaming behaviors of CR foams were investigated. Thanks to its excellent compounding effect, a significant increase in the limiting oxygen index up to 36.5 % is achieved with a density of 0.263 g/cm3. It also demonstrated excellent smoke suppression with a low total smoke production of 0.19 m2, a reduction of 96.6 % compared to pure CR foam. In addition, the incorporation of ATH and ZB effectively improves its mechanical properties and thermal conductivity. This study provides a new path manufacture CR foam with excellent overall performance, which effectively improve the overall safety and energy efficiency of the building.}
+}

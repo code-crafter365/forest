@@ -1,0 +1,13 @@
+@article{SATO2025118725,
+title = {Stiffness degradation of woven roving GFRP due to shear and compression fatigue damage},
+journal = {Composite Structures},
+volume = {353},
+pages = {118725},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118725},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008535},
+author = {Akihiko Sato and Yasuo Kitane and Kunitomo Sugiura and Yoshinao Goi},
+keywords = {GFRP, Fatigue, Stiffness degradation, Shear, Compression},
+abstract = {Woven roving GFRP is widely used in the structural members of GFRP bridges which are subject to compression or shear stress. However, it is not revealed well about fatigue strength and stiffness degradation under these loading conditions. This study aims to clarify the fatigue strength and residual stiffness of woven roving GFRP under in-plane shear and compression cyclic loading. The specimens were tested at 45 degrees to the fiber direction in the cyclic tensile test, while the compression fatigue test was adjusted to prevent buckling. It is revealed that the in-plane fatigue limit corresponds to the principal strain of about 3700×10−6. The compression fatigue limit was 40% of the static compression strength. In-plane shear fatigue damage is predominantly due to matrix cracks, and the stiffness degradation appears in Region I, II, and III. The shear stiffness decreased by 20% before the fatigue failure. On the other hand, in the compression fatigue test, matrix cracks hardly occur, and delamination is dominant. The stiffness degradation of Region I is very limited in compression, and stiffness decreased about 10% before the fatigue failure. Moreover, theoretical models are proposed to express the residual stiffness, and they agree well with the experimental value.}
+}

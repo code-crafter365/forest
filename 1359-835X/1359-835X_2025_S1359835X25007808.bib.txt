@@ -1,0 +1,12 @@
+@article{FENG2025109485,
+title = {3D dynamic revelation of powder metallurgy mechanisms in metal matrix composites: In situ CT Analyzing sintering behavior differences between elemental and alloy powders},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109485},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109485},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007808},
+author = {X.M. Feng and Z. Yu and J.F. Zhang and H. Wu and J. Wang and B. Deng and Z.Y. Liu and B.L. Xiao and Z.Y. Ma},
+keywords = {Synchrotron X-ray tomography, In situ 3D characterization, Vacuum hot pressing sintering, Microstructural evolution},
+abstract = {Vacuum hot-press sintering (VHPS) is a key technology for preparing particle-reinforced metal matrix composites (PRMMCs) using powder metallurgy (PM), but porosity and reinforcement agglomeration hinder process optimization and performance improvement. This study is the first to use synchrotron radiation in situ computed tomography to dynamically observe the VHPS of SiCp/Al. Through deep learning-assisted image segmentation, SiC were accurately identified, overcoming the challenge of low contrast. Significant differences in pore evolution and pressure response were observed between elemental and alloy powders. Elemental powders exhibit surface liquid phase enrichment in heating process, promoting pore filling and bonding, while alloy powders retain liquid internally, limiting densification. Alloy powders achieved densification at lower pressures, while the elemental powders required higher pressures. A method to evaluate SiC distribution uniformity was established, revealing more uniform distribution in alloy powders. The influence of powder type on forming process provides guidance for optimizing raw materials and processing parameters to enhance the metallurgical quality of SiCp/Al. Furthermore, this study established a dynamic analysis methodology for the VHPS process of PRMMCs based on in situ 3D characterization, providing a universal theoretical foundation for their process design.}
+}

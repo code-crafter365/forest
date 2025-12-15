@@ -1,0 +1,13 @@
+@article{GAO2025117844,
+title = {Advanced deep learning framework for multi-scale prediction of mechanical properties from microstructural features in polycrystalline materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117844},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117844},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001161},
+author = {Zihao Gao and Changsheng Zhu and Canglong Wang and Yafeng Shu and Shuo Liu and Jintao Miao and Lei Yang},
+keywords = {Deep learning, Denoising diffusion probabilistic model, Graph attention network, Multi-scale prediction of mechanical properties},
+abstract = {The intricate relationship between the microstructure of materials and their mechanical properties remains a significant challenge in the field of materials science. This study introduces a novel deep learning framework aimed at predicting mechanical properties from both global and local perspectives. Taking the dual-phase Ti-6Al-4V alloy as an example, we first predict stress–strain curves and yield strength under complex microstructural conditions to describe global mechanical behavior, followed by an analysis of the distribution of the local stress field and stress concentration phenomena. To achieve this, we employ an improved graph attention network (IGAT), which effectively captures complex intergranular relationships and enables accurate predictions of global properties by integrating node features with graph structural information. Additionally, a three-dimensional conditional denoising diffusion probabilistic model (3D-cDDPM) was developed for local stress field analysis, generating detailed stress field distributions through an iterative denoising process and capturing stress concentration phenomena in critical microstructural regions. The results demonstrate that this framework effectively predicts multiscale mechanical responses in various microstructural configurations. The IGAT model achieves a mean relative error (MRE) of 0. 399% on the set of tests for global performance prediction, outperforming both the graph convolutional network (GCN) and the three-dimensional convolutional neural network (3D-CNN). For local stress field predictions, the 3D-cDDPM maintains an error range of 0.4% to 7%, with the generated stress distribution maps closely matching the ground truth. This work advances the development of material design and performance optimization methods, providing critical insights into the integration of computational modeling with materials science.}
+}

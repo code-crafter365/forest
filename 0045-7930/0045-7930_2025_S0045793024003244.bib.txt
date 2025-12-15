@@ -1,0 +1,13 @@
+@article{GUERMOND2025106493,
+title = {A high-order explicit Runge-Kutta approximation technique for the shallow water equations},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106493},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106493},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003244},
+author = {Jean-Luc Guermond and Matthias Maier and Eric J. Tovar},
+keywords = {Shallow water equations, Well-balanced, Invariant-domain-preserving, Explicit Runge–Kutta, High-order accuracy, Convex limiting, Positivity-preserving},
+abstract = {We introduce a high-order space–time approximation of the Shallow Water Equations with sources that is invariant-domain preserving (IDP), well-balanced with respect to rest states, and employs a novel explicit Runge–Kutta (ERK) introduced in Ern and Guermond (SIAM J. Sci. Comput. 44(5), A3366–A3392, 2022) for systems of non-linear conservation equations. The resulting method is then numerically illustrated through verification and validation.}
+}

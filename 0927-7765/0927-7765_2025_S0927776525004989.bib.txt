@@ -1,0 +1,13 @@
+@article{PADHA2025114991,
+title = {TiO₂/PANI-based sensing electrode for ethanol detection in human sweat to monitor liver functioning},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114991},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114991},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004989},
+author = {Bhavya Padha and Isha Yadav and Sandeep Arya},
+keywords = {VOC, Ethanol sensing, TiO, PANI},
+abstract = {Wearable sensors for detecting ethanol volatile organic compounds (VOCs) in sweat offer a non-invasive approach to monitor liver health. In line with this goal, a titanium dioxide/polyaniline (TiO2/PANI) nanocomposite-based sensor electrode was developed for real-time ethanol detection under standard conditions (300 K, 1 atm). The thin film, deposited on a conductive fabric, was characterized for phase, structure, and morphology. Electrochemical tests showed high sensitivity, with a detection limit of 23.62 ppb and quantification of 71.59 ppb. The sensor demonstrated excellent reproducibility, stability, and selectivity across various ethanol concentrations. It effectively distinguished between sweat samples from healthy and liver-affected individuals and maintained performance over 100 days under varying humidity and temperature.}
+}

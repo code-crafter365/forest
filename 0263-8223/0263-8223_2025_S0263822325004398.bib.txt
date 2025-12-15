@@ -1,0 +1,13 @@
+@article{JENKINS2025119274,
+title = {Developing a continuum damage model for ceramic matrix composites using genetic programming based symbolic regression},
+journal = {Composite Structures},
+volume = {369},
+pages = {119274},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119274},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004398},
+author = {William Jenkins and Hunter Gross and Kaitlin Detwiler and Gregory Morscher and Craig Przybyla and Jacob Hochhalter},
+keywords = {Ceramic-matrix composites (CMCs), Computational modeling, Damage mechanics, Mechanical testing},
+abstract = {Modeling damage in continuous fiber reinforced ceramic matrix composites (CMCs) needs improvement before CMCs can be widely adopted in critical aerospace applications. While damage mechanisms in CMCs are dependent on the microstructure, we develop a continuum damage model (CDM) that homogenizes governing microstructural mechanisms for application at the engineering scale. The CDM operates on the ply-level, under 2D plane stress assumptions, derived using a thermodynamics-based approach. We employ genetic programming based symbolic regression (GPSR) to learn individual components of the unknown damage model tensor from SiC/SiC tensile testing data. Known elastic material behavior is separated such that GPSR specifically learns the corresponding damage tensor. Training constraints based on mechanics knowledge are enforced to promote the evolution of models that are physically valid and interpretable. The resulting damage model fits well to training data and provides physical insight into the laminate damage mechanisms and interactions.}
+}

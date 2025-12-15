@@ -1,0 +1,13 @@
+@article{YIN2025104556,
+title = {Swin Transformer-based maritime objects instance segmentation with dual attention and multi-scale fusion},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104556},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104556},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002796},
+author = {Haoke Yin and Changdong Yu and Chengshang Wu and Kexin Dai and Junfeng Shi and Yifan Xu and Yuan Zhu},
+keywords = {Instance segmentation, Maritime perception, Swin Transformer, Visual perception, Deep learning},
+abstract = {The rapid development of marine environmental sensing technologies has significantly advanced applications such as unmanned surface vehicles (USVs), maritime surveillance, and autonomous navigation, all of which increasingly require precise and robust instance-level segmentation of maritime objects. However, real-world maritime scenes pose substantial challenges, including dynamic backgrounds, scale variation, and the frequent occurrence of small objects. To address these issues, we propose DAMFFNet, a one-stage instance segmentation framework based on the Swin Transformer backbone architecture. First, we introduce a Dual Attention Module (DAM) that effectively suppresses background interference and enhances salient feature representation in complex marine environments. Second, we design a Bottom-up Path Aggregation Module (BPAM) to facilitate fine-grained multi-scale feature fusion, which significantly improves segmentation accuracy, particularly for small and scale-variant objects. Third, we construct MOISD, a new large-scale maritime instance segmentation dataset comprising 7,938 high-resolution images with pixel-level annotations across 12 representative object categories under diverse sea states and lighting conditions. Extensive experiments conducted on both the MOISD and the public MariShipInsSeg datasets demonstrate that DAMFFNet outperforms existing methods in complex background and small-object segmentation tasks, achieving an AP of 82.71% on the MOISD dataset while maintaining an inference speed of 83 ms, thus establishing an effective balance between segmentation precision and computational efficiency.}
+}

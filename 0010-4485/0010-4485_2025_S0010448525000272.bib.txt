@@ -1,0 +1,13 @@
+@article{WANG2025103865,
+title = {Mid-surface mesh abstraction for thin-walled structures based on virtual topology},
+journal = {Computer-Aided Design},
+volume = {183},
+pages = {103865},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103865},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000272},
+author = {Feiqi Wang and Haidong Wang and Xiang Zhao and Qi Ran and Guidong Wang and Huan Zhang and Xin Hu and She Li and Xiangyang Cui},
+keywords = {Mid-surface mesh, Virtual topology, Thin-walled structures, Maximum volume decomposition},
+abstract = {The objective of this study is to propose a virtual topology-based mid-surface mesh abstraction method. Firstly, the complex model is decomposed into simpler volumes, and virtual topology operations are performed on unilateral faces of these simpler volumes. Subsequently, virtual topology meshes of unilateral faces are generated. With these virtual topology meshes served as initial meshes, mid-surface meshes of the simpler volumes can be effectively acquired with high accuracy by using the new-developed local mesh projection algorithm. With the combination of the mid-surface meshes of the simpler volumes, the mid-surface mesh of the original solid model can be established. Key features of the proposed method include: (1) reducing model complexity through model decomposition, (2) enhancing initial mesh quality using virtual topology operations, (3) by utilizing local mesh projection algorithms, high-quality mid-surface meshes can be easily accessible without the need for complex mesh partitioning, compared to traditional CAT methods which accurately control the type and size of mid-surface meshes, and (4) reducing human–computer interaction in the process of converting mid-surface meshes to thin-walled structures. Finally the effectiveness and feasibility of the proposed method has been demonstrated through several cases.}
+}

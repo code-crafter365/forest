@@ -1,0 +1,13 @@
+@article{JAVILI2025117925,
+title = {On a canonical interface model with application to micro-heterogeneous elastic solids},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117925},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117925},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001975},
+author = {Ali Javili and Fredrik Larsson and Kenneth Runesson and Paul Steinmann},
+keywords = {Canonical interface model, General interface model, Computational homogenization},
+abstract = {Finite-thickness interphases between different constituents in heterogeneous materials are often replaced by a zero-thickness interface model. Due to increasing area-to-volume ratio with decreasing size of microstructures, interfaces introduce a physical length into the effective response at the macroscale. The most commonly studied interface models are the cohesive interface model and the elastic interface model. The cohesive interface model allows for a displacement jump across the interface, in contrast to the elastic interface model that requires displacement continuity across the interface. The classical general interface model assumes that the interface displacement itself must coincide with the displacement average across the interface. The recently proposed extended general interface model defines the interface displacement kinematically via the weighted average of displacement across the interface. Here, we propose a canonical interface model based on a variationally consistent approach, which encompasses all previous interface models. We implement our model with the finite element method and illustrate its consequences through a series of numerical examples. Moreover, variationally consistent homogenization is employed to upscale an elastic composite with particles surrounded by a canonical interface and embedded in a matrix. The numerical results highlight the significance of the canonical interface model on the overall response of composites, at times leading to counter-intuitive behavior at the macroscale.}
+}

@@ -1,0 +1,13 @@
+@article{HONG2025119031,
+title = {Design optimization of 3D printed kirigami-inspired composite metamaterials for quasi-zero stiffness using deep reinforcement learning integrated with bayesian optimization},
+journal = {Composite Structures},
+volume = {359},
+pages = {119031},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119031},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001965},
+author = {Hyunsoo Hong and Samuel Kim and Wonvin Kim and Wonki Kim and Jae-moon Jeong and Seong Su Kim},
+keywords = {Composite, 3D printing, Metamaterial, Optimization, Machine learning},
+abstract = {Metamaterials, renowned for their distinctive properties such as zero Poisson’s ratio, negative mass, and zero thermal expansion, attract significant attention in aerospace, photonics, and stealth technology. Recent studies focus on using metamaterials for vibration isolation, achieving remarkable performance at low frequencies due to their quasi-zero stiffness characteristics. However, despite the need for these metamaterials to support loads, research has been limited to the design geometry aimed solely at exhibiting quasi-zero stiffness properties. Therefore, this study developed kirigami-inspired composite metamaterials for low-frequency vibration reduction, optimizing them by considering both quasi-zero stiffness and structural safety simultaneously. Structural optimization was performed using finite element analysis and deep reinforcement learning integrated with Bayesian optimization. The optimized model was fabricated using carbon-fiber-reinforced composite material via 3D printing. The fabricated model’s quasi-zero stiffness characteristics were verified through compression experiments, and its outstanding vibration reduction performance was confirmed through vibration experiments.}
+}

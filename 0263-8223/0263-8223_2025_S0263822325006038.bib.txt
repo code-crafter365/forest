@@ -1,0 +1,13 @@
+@article{BONDSMAN2025119438,
+title = {Uncertainty quantification of modal characteristics in cross-laminated timber arising from uncertainties in mechanical properties},
+journal = {Composite Structures},
+volume = {371},
+pages = {119438},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119438},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006038},
+author = {Benjamin Bondsman},
+keywords = {Uncertainty quantification, Cross-laminated timber, Mechanical properties, Natural frequencies, Modal parameters},
+abstract = {Uncertainty in the mechanical properties and modal characteristics of Cross-Laminated Timber (CLT) significantly impacts its predictive design and analysis. While previous studies have focused on identifying sensitive mechanical properties of CLT using model updating, the uncertainty quantification of these properties and their influence on natural frequencies and modes remain underexplored. This study uses mechanical properties of beam-like CLT substructures, determined through model updating with experimental modal analysis as a reference, to generate probabilistic and stochastic properties, including wood density, longitudinal Young’s modulus, interior shear moduli, and cross-sectional rolling shear modulus. Gaussian processes, Latin hypercube sampling, and Monte Carlo sampling techniques are applied to propagate these distributions into a finite element model to assess their effects on natural frequencies and vibration modes. The variability in input properties is used to evaluate how uncertainty affects the output frequencies and modes. Results are presented in terms of normal distributions and relative differences in frequencies across different modes and techniques. A local sensitivity analysis assesses the impact of individual properties on natural frequencies and modes, with linear regression used to explore relationships between wood density and other properties. The article also includes algebraic derivations and an implementation algorithm for practical application.}
+}

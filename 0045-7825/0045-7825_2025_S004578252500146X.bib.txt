@@ -1,0 +1,10 @@
+@article{2025117874,
+title = {Editorial Board},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117874},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/S0045-7825(25)00146-X},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500146X}
+}

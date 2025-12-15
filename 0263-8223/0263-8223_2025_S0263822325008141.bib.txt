@@ -1,0 +1,13 @@
+@article{RANA2025119649,
+title = {Fine-scale model of concrete composite for long-term cycling transient loads incorporating nonlinear hardening and softening effects},
+journal = {Composite Structures},
+volume = {373},
+pages = {119649},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119649},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008141},
+author = {Himanshu Rana and Adnan Ibrahimbegovic},
+keywords = {Embedded discontinuity, Cohesive links, Coupled damage-plasticity, Cyclic loading, Gaussian processes, Bayesian optimization},
+abstract = {Concrete modeling under long-term cyclic transient loading has always been a challenging task due to the highly heterogeneous nature of the material. In this context, the present study proposes a fine-scale model of concrete by representing it as a two-phase material composed of aggregates and mortar. For this, the material domain is discretized into Voronoi cells connected by cohesive links using Delaunay triangulation, and an aggregate assignment algorithm is proposed to associate these links to either aggregates or mortar. Following this, the cohesive links representing mortar are modeled as 2D Timoshenko beam elements incorporating a distinct nonlinear kinematic hardening model along with isotropic softening model, separately in tension, compression, and shear. Softening in the material is introduced using the Embedded Discontinuity Finite Element Method (EDFEM) to model localized discontinuities. In contrast, the cohesive links associated with aggregates are modeled as elastic 2D Timoshenko beam elements. Lastly, compressive cyclic and three-point bending tests are performed on the concrete specimen, and the results are compared with experimental data reported in the literature, showing very good agreement with the experiments. Additionally, an active Bayesian Optimization (BO) procedure is performed to determine the optimal set of parameters for the three-point bending test by minimizing the Mean Squared Error (MSE) of energy between the present model and the experimental results.}
+}

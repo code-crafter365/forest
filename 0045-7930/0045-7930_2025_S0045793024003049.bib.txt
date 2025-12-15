@@ -1,0 +1,13 @@
+@article{SANDERSE2025106473,
+title = {Energy-consistent discretization of viscous dissipation with application to natural convection flow},
+journal = {Computers & Fluids},
+volume = {286},
+pages = {106473},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106473},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003049},
+author = {B. Sanderse and F.X. Trias},
+keywords = {Viscous dissipation, Energy conservation, Staggered grid, Natural convection, Rayleigh–Bénard, Gebhart number},
+abstract = {A new energy-consistent discretization of the viscous dissipation function in incompressible flows is proposed. It is implied by choosing a discretization of the diffusive terms and a discretization of the local kinetic energy equation and by requiring that continuous identities like the product rule are mimicked discretely. The proposed viscous dissipation function has a quadratic, strictly dissipative form, for both simplified (constant viscosity) stress tensors and general stress tensors. The proposed expression is not only useful in evaluating energy budgets in turbulent flows, but also in natural convection flows, where it appears in the internal energy equation and is responsible for viscous heating. The viscous dissipation function is such that a consistent total energy balance is obtained: the ‘implied’ presence as sink in the kinetic energy equation is exactly balanced by explicitly adding it as source term in the internal energy equation. Numerical experiments of Rayleigh–Bénard convection (RBC) and Rayleigh–Taylor instabilities confirm that with the proposed dissipation function, the energy exchange between kinetic and internal energy is exactly preserved. The experiments show furthermore that viscous dissipation does not affect the critical Rayleigh number at which instabilities form, but it does significantly impact the development of instabilities once they occur. Consequently, the value of the Nusselt number on the cold plate becomes larger than on the hot plate, with the difference increasing with increasing Gebhart number. Finally, 3D simulations of turbulent RBC show that energy balances are exactly satisfied even for very coarse grids. Therefore, the proposed discretization also forms an excellent starting point for testing sub-grid scale models and is a useful tool to assess energy budgets in any turbulence simulation, with or without the presence of natural convection.}
+}

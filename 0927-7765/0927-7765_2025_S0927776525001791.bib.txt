@@ -1,0 +1,13 @@
+@article{SHUAI2025114672,
+title = {Bionic menisci with integrated material–structure–functionality for gouty arthritis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114672},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114672},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001791},
+author = {Cijun Shuai and Shun Hu and Kangdong Wang and Gao Pan and Shuping Peng and Shengli Mi and Qi Zhong},
+keywords = {Meniscus, Gouty arthritis, Nanozyme, Selective laser sintering, Bionic design},
+abstract = {Gouty arthritis may cause meniscal damage, necessitating surgery for meniscus replacement. However, the meniscus remains at risk of urate crystal accumulation and oxidative stress post-surgery. To tackle this challenge, we developed tri-level bionic menisci that achieve an integrated material-structure-functionality design. Its gradient network mimics natural structures, providing biomechanical adaptation and functioning as a porous catalyst carrier to load multifunctional nanozymes to eliminate excess uric acid and oxyradicals. Specifically, we utilized 3D printing to incorporate Pt-CeO2 nanozymes within the meniscus scaffold and designed a bionic structure driven by biomechanical data of the articular cavity. The Pt-CeO2 demonstrated significant catalytic efficacy in promoting the oxidation of uric acid while concurrently scavenging reactive oxygen and nitrogen species. DFT+U calculations revealed the synergistic catalytic mechanism at Pt-Ov-Ce sites. We elucidated the catalytic therapeutic mechanism of the bionic menisci. Furthermore, we developed a regulatory model capable of modulating intra-articular uric acid concentration to accommodate the varied requirements of different patients. These findings underscore the potential of the bionic menisci in personalized treatment for gouty arthritis.}
+}

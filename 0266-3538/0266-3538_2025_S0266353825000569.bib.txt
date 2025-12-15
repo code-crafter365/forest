@@ -1,0 +1,13 @@
+@article{ZHAO2025111088,
+title = {3D phase gradient induced surface wave torsion metastructure for anomalous electromagnetic damage tolerance},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111088},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111088},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000569},
+author = {Yiming Zhao and Jianwei Zhang and Xianrui Sun and Xinyuan Lv and Yonglyu He and Yulin Zhang and Qifeng Jin and Suli Xing},
+keywords = {Electromagnetic absorption, Surface electromagnetic wave twisting, Phase gradient metasurface, Electromagnetic damage tolerance},
+abstract = {An innovative design freedom named as induce surface electromagnetic wave twisting was proposed in this work to address the electromagnetic absorption efficiency degradation of wave-absorbing structures under external impact damage modes. Phase gradient metasurfaces with different patterns and construction materials were smoothly transitioned along three spatial dimensions to induce the generation and directional transmission of surface waves. Besides, periodic 3D spiral waveguide channels were constructed through delicate design of gaps inside different patterns which was confirmed effective absorption of large angle oblique incident waves via theoretical calculations. Reflection loss less than −10 dB in 4–18 GHz frequency band when the penetrating damage proportion less than 40 % at an incident angle of 0–45°. A symmetric model was further proposed to reveal special energy absorption and conversion mechanisms. Our study provides a novel design freedom for damage tolerant electromagnetic absorption structures.}
+}

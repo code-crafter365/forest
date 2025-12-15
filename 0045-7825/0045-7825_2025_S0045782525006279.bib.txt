@@ -1,0 +1,13 @@
+@article{ZHU2025118355,
+title = {Uncertain constitutive model for metals in the presence of inherent defects},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118355},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118355},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006279},
+author = {Jiazheng Zhu and Xiaojun Wang and Yanru Mu},
+keywords = {Uncertain constitutive model, Multiscale uncertainty, Inherent defects, Point defect, Dislocation slip, Interval mathematics},
+abstract = {The constitutive model of metals is one of the most important elements in solid mechanics, as the mechanical behavior at different spatial scales is uncertain, and the constitutive model is inevitably subject to uncertainty of defects. The complexity of metal microstructure, coupled with the high cost of numerical simulation, poses a challenge in establishing the correlation between macro and micro uncertainties in metals. This article proposes a new uncertain constitutive model for hexagonal close packing (HCP) polycrystal, integrating Point defect and dislocation into micro-uncertainty analysis and developing a multiscale framework for calculating the uncertain constitutive model of metal. Building on density functional theory and microcrystalline plasticity theory, interval forms are employed as variables for micro-uncertainty, allowing for accurate quantification of uncertainties in parameters such as initial dislocation density. By constructing a surrogate model for cross-scale uncertainty propagation, the performance envelope of metals can be determined. The framework is then applied to engineering case study of α-phase pure titanium to calculate system responses.}
+}

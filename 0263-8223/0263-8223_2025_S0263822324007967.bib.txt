@@ -1,0 +1,13 @@
+@article{ZHU2025118668,
+title = {Interfacial dynamic impermeable crack analysis in dissimilar piezoelectric materials by a new interaction integral},
+journal = {Composite Structures},
+volume = {352},
+pages = {118668},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118668},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007967},
+author = {Shuai Zhu and Hongjun Yu and Zhiyong Wang},
+keywords = {Piezoelectric, Dynamic fracture, Interfacial crack, Interaction integral, Inhomogeneous},
+abstract = {Dynamic intensity factors (IFs) provide an important parameter for assessing the failure risk of an interfacial crack for piezoelectric composites exposed to electromechanical impact loadings. In the present research, a new dynamic interaction integral (I-integral) is built for computing the dynamic stress IFs (SIFs) and electric displacement IF (EDIF) of an interfacial crack located in dissimilar inhomogeneous piezoelectric media. Through proper selection of auxiliary variables, the domain expression of I-integral for the inhomogeneous piezoelectric bi-materials does not need to take into account any derivative term for any piezoelectric material property. Further, after rigorous theoretical derivation, the resulting I-integral is still valid for complex models where the integration domain contains other multiple interfaces, regardless of whether the extra materials are straight or curved. Incorporating the modified extended finite element method, the accuracy is confirmed by checking the dynamic IFs extracted from the I-integral with referenced results. The domain-independence is tested by varying ranges of integration domains for inhomogeneous piezoelectric bi-materials and multi-interface piezoelectric composites. Finally, typical examples are employed to discuss the influences of the direction and magnitude of electric impact loading, combination of polarizations, inhomogeneous degree of piezoelectric bi-materials and complex distribution of diverse material properties on the dynamic IFs.}
+}

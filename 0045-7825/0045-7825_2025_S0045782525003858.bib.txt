@@ -1,0 +1,13 @@
+@article{BAHMANI2025118113,
+title = {A resolution independent neural operator},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118113},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118113},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003858},
+author = {Bahador Bahmani and Somdatta Goswami and Ioannis G. Kevrekidis and Michael D. Shields},
+keywords = {Point-cloud data, Dictionary learning, Implicit neural representation, Deep operator network (DeepONet), Neural operator, Scientific machine learning},
+abstract = {The Deep operator network (DeepONet) is a powerful yet simple neural operator architecture that utilizes two deep neural networks to learn mappings between infinite-dimensional function spaces. This architecture is highly flexible, allowing the evaluation of the solution field at any location within the desired domain. However, it imposes a strict constraint on the input space, requiring all input functions to be discretized at the same locations; this limits its practical applications. In this work, we introduce a general framework for operator learning from input–output data with arbitrary number and locations of sensors. This begins by introducing a resolution-independent DeepONet (RI-DeepONet), enabling it to handle input functions that are arbitrarily, but sufficiently finely, discretized. To this end, we propose two dictionary learning algorithms to adaptively learn a set of appropriate continuous basis functions, parameterized as implicit neural representations (INRs), from correlated signals defined on arbitrary point cloud data. These basis functions are then used to project arbitrary input function data as a point cloud onto an embedding space (i.e., a vector space of finite dimensions) with dimensionality equal to the dictionary size, which can be directly used by DeepONet without any architectural changes. In particular, we utilize sinusoidal representation networks (SIRENs) as trainable INR basis functions. The introduced dictionary learning algorithms are then used in a similar way to learn an appropriate dictionary of basis functions for the output function data, which defines a new neural operator architecture referred to as the Resolution Independent Neural Operator (RINO). In the RINO, the operator learning task simplifies to learning a mapping from the coefficients of input basis functions to the coefficients of output basis functions. We demonstrate the robustness and applicability of RINO in handling arbitrarily (but sufficiently richly) sampled input and output functions during both training and inference through several numerical examples.}
+}

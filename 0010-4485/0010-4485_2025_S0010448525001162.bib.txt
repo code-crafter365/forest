@@ -1,0 +1,13 @@
+@article{LIU2025103955,
+title = {Principal stress field-guided optimization for rib structure generation},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103955},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103955},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001162},
+author = {Longdu Liu and Xiangjun Wu and Jiqiang Huang and Lingxin Cao and Xiaokang Liu and Changhe Tu and Lin Lu},
+keywords = {Principal stress field, Centroidal Voronoi tessellation, Rib structure},
+abstract = {Shell structures are widely used in architecture and engineering for their efficient load-bearing behavior. However, large-span, thin-shell designs often suffer from insufficient stiffness and strength. Rib-reinforced shells can enhance both stiffness and spatial efficiency, but they commonly rely on inefficient principal-stress-field (PSF)–guided quadrilateral partitioning. We present a direct computational framework that optimizes rib layouts from the PSF without intermediate partitioning. Our approach uses centroidal Voronoi tessellation to generate ribs directly on the optimized principal stress field, enabling adaptive rib refinement on arbitrary freeform surfaces. We also optimize rib cross-sectional profiles to minimize material usage while preserving structural performance, improving both mechanical efficiency and sustainability. Numerical simulations and physical experiments show that, under equivalent load and volume constraints, structures optimized with our method achieve a 78% reduction in deformation compared to conventional approaches, validating the effectiveness of the framework.}
+}

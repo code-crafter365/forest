@@ -1,0 +1,13 @@
+@article{YUN2025119162,
+title = {Equivalent modeling for the prediction of mechanical behaviors of composite sandwich structures with thick cell walls},
+journal = {Composite Structures},
+volume = {364},
+pages = {119162},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119162},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003277},
+author = {Jaeho Yun and Seungjun Ryu and Jinsol Kim and Yongha Kim and Do-Won Kim},
+keywords = {Composite sandwich structure, Thick cell wall, Equivalent mechanical property, Ritz method, Homogeneous method, Aerospace application},
+abstract = {An equivalent model is proposed for the prediction of the mechanical behaviors of a honeycomb core with thick cell walls, including the calculation of failure strength. The method was derived from the homogeneous method used to investigate the mechanical behaviors of composite sandwich structures. We validated the method’s utility through the finite element method and experimentally. A parametric analysis was performed to examine the mechanical properties of a composite sandwich structure with thick cell walls using the proposed method. These results were used to compile information about the mechanical characteristics of the structure for aerospace applications. In conclusion, the method is demonstrated to be well suited for its intended applications due to its relative simplicity and computational efficiency.}
+}

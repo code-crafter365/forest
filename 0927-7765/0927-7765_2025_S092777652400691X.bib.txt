@@ -1,0 +1,13 @@
+@article{SHAFQAT2025114432,
+title = {Formation of alginate gel stabilized silica nanoparticles for encapsulation and topical delivery of minoxidil},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114432},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114432},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400691X},
+author = {Syed Salman Shafqat and Breia Ammen and Syeda Amna Masood and Asma Mukhtar and Muhammad Faizan Nazar and Muhammad Asim Khan and Abdulrahman A. Almehizia and Muhammad Yasir Siddique and Maria Nosheen and Muhammad Nadeem Zafar},
+keywords = {Minoxidil, Silica nanoparticles, Alopecia, Skin permeation, Alginate},
+abstract = {Silica nanoparticles-embedded smart-gels are efficient drug carrier systems due to their structural flexibility, high porosity, and ease of formulation development. Herein, the extent of interaction of minoxidil (MXD), a potent vasodilator prodrug, with silica nanoparticles (SiNPs) and alginate (ALG) was investigated. The SiNPs were prepared by extracting silica from rice husk ash, and these SiNPs were further used to prepare MXD-loaded-SiNPs (MXD-SiNPs) by loading them with an appropriate amount of MXD. The as-prepared MXD-SiNPs were encapsulated in ALG polymer by freeze-gelation method and evaluated by various characterization techniques. The amorphous nature of the SiNPs was confirmed by XRD examination, while the nature of physical interaction and encapsulation of the drug in the SiNPs and ALG gel was examined by FTIR analysis. TEM analysis revealed that the MXD-SiNPs had a monodisperse collection of spherical nanoparticles, while the particle size (∼150 nm) of as-prepared formulation was determined from DLS studies. The drug entrapment efficiency was 86 % and the loading efficiency was 22 %. The as-developed MXD-SiNPs@ALG gel formulation exhibited sustained release over 12 h compared to pure MXD and MXD-SiNPs. These results suggest that the newly developed formulation has several advantageous properties that make it suitable for cutaneous administration of the drug.}
+}

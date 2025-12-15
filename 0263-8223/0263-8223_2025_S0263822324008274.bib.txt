@@ -1,0 +1,13 @@
+@article{LIU2025118699,
+title = {Finite element submodeling technique-based fatigue analysis and reliability modeling of wind turbine blade trailing edge},
+journal = {Composite Structures},
+volume = {352},
+pages = {118699},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118699},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008274},
+author = {Zheng Liu and Jinlong Liang and Zhenfeng He and Xin Liu and Haodong Liu and Zhenjiang Shao},
+keywords = {Finite element simulation method, Submodeling technique, Fatigue analysis, Fatigue reliability modeling, Wind turbine blade trailing edge},
+abstract = {Wind turbine blades play a critical role in wind turbine systems, with the trailing edge bearing significant mechanical loads. During operational cycles, the adhesively bonded composite trailing edge may fracture, delaminate, or buckle, posing a safety risk for wind turbine systems. While finite element simulation is commonly used to evaluate blade fatigue performance due to the challenges associated with full-scale structural tests in terms of costs and time, current methodologies mainly focus on the overall fatigue characteristics of blades, neglecting specialized analyses. A finite element submodeling approach is presented here to address this research gap by analyzing wind turbine blade trailing edges for fatigue and reliability. Specifically, a finite element submodelingmethodis proposedtoanalyzelocal fatiguefailuresof wind turbine blades. This approach is validated through fatigue testing on conventional composite bonded specimens. Subsequently, failure analyses and life predictions are conducted on the trailing edges to investigate their fatigue behavior, followed by an exploration of the impact of submodeling techniques on the analysis results. Furthermore, considering material and dimensional uncertainties, a fatigue reliability model for trailing edges is developed. The results demonstrate that this approach effectively overcomes the limitations of overall blade finite element analysis by enabling localized fatigue analysis of the trailing edge, providing valuable insights for improving wind turbine blade design optimization.}
+}

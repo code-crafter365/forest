@@ -1,0 +1,13 @@
+@article{BAI2025118734,
+title = {Ballistic response of an airbag with parallel ribs under spherical projectile impact},
+journal = {Composite Structures},
+volume = {353},
+pages = {118734},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118734},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008626},
+author = {Jiaqi Bai and Shaobo Qi and Yachen Xie and Mengqi Yuan and Menglu Li},
+keywords = {Airbag, Dynamic response, Structural design, Ballistic performance},
+abstract = {The airbag-type inflatable structure with ribs was developed, composited from thermoplastic polyurethane (TPU) membranes. Ballistic impact tests were conducted on pre-inflated airbags to assess the airbag’s dynamic response. A set of Split Hopkinson Tensile Bar (SHTB) experiments were conducted on TPU membranes at strain rates ranging from 3000 to 12,000 s−1 to derive a strain-rate dependent constitutive model for TPU under ballistic impact conditions. Based on the fluid cavity inflation method, a finite element model was employed to analyze the structural response of the airbag. Based on the principle of energy conservation, an innovative theoretical model for the impact of airbags considering internal pressure has been established. The results indicate a strong agreement between the numerical, theoretical, and experimental results concerning the impact process and ballistic limit. It was observed that as the internal pressure rises, the ballistic limit of the airbag decreases. The theoretical model indicates that with an increase in internal pressure and the spacing of the center ribs, the initial strain energy of the membrane increases, leading to a decrease in the kinetic energy dissipation of the airbag to the projectile and subsequently reducing the ballistic limit of the airbag. This research provides a theoretical foundation and basis for the structural design and analysis of energy dissipation patterns in inflatable structures. It expands the potential applications of inflatable composite structures in the field of ballistics.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025111321,
+title = {Heterojunction engineering of large-sized Ti3C2Tx MXene with ZnO for enhanced high-frequency microwave absorption and thermal conductivity},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111321},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111321},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002891},
+author = {Rui Zhang and Peng Zu and Yonggang Yan and Gang Zhang},
+keywords = {Large-size TiCT MXene nanolayers, ZnO/TiCT MXene heterostructured fillers, High-frequency microwave absorption, Thermal management, Composites},
+abstract = {Polymer composites with superior electromagnetic wave (EMW) absorption properties, such as strong attenuation and broadband absorption, as well as excellent thermal conductivity, are ideal for the preparation of high-frequency, high-power electronic devices. Hence, we designed ZnO/Ti3C2Tx MXene heterostructured nanofillers by loading surface-modified ZnO nanoparticles onto large-sized Ti3C2Tx MXene nanolayers using electrostatic interactions. Subsequently, PVDF/ZnO/Ti3C2Tx MXene (PZM) composites were prepared by blending and hot-press molding process with polyvinylidene difluoride (PVDF) resin. By optimizing the doping ratio of ZnO to Ti3C2Tx MXene in heterogeneous interface engineering, the high-frequency microwave absorption and thermal conductivity of the composites were precisely tuned. When the mass ratio of ZnO to Ti3C2Tx MXene is 3:2 (PZM-3), PZM shows the best attenuation of electromagnetic waves, with a minimum reflection loss of −47.2 dB at a thickness of only 2.5 mm, and an effective absorption bandwidth of 4.2 GHz (11.12–15.32 GHz). This bandwidth covers almost all operating band of high-frequency microwave communication equipment up to 18 GHz. Meanwhile, its thermal conductivity increases by 120 % compared to pristine PVDF resin. Most surprisingly, when the mass ratio of ZnO to Ti3C2Tx MXene is 2:3 (PZM-4), the PZM composites exhibit the best thermal conductivity, which increases by 555 %. Furthermore, radar cross section (RCS) was used to simulate the EMW absorption characteristics of PZM composites in practical application scenarios, confirming that PZM composites have a strong EMW loss capability. This work provides a new path for practical application and deep expansion in the field of efficient microwave absorption and thermal management in complex frequency bands, especially in the high-frequency domain.}
+}

@@ -1,0 +1,13 @@
+@article{FAN2025119746,
+title = {Dynamic analysis of a semi-rigid composite laminated parabolic shell reflector for deployable antennas},
+journal = {Composite Structures},
+volume = {374},
+pages = {119746},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119746},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009110},
+author = {Xiaodong Fan and Chuang Shi and Rongqiang Liu and Ming Li and Runchao Zhao and Chunlong Wang and Hongwei Guo},
+keywords = {Parabolic shells, Deployable antennas, Plates and shells theory, Pillowing effect, Semi-rigid reflector, Aerospace mechanisms, Dynamic modeling},
+abstract = {The large deployable mesh reflector represents the state-of-the-art in the field of space deployable antennas; however, its performance is constrained by the pillowing effect, which degrades surface accuracy and limits the large-scale development of deployable mesh reflectors. In this study, a deployable high-strain composite laminated parabolic shell reflector configuration is proposed to mitigate the pillowing effect of existing large deployable mesh reflectors. Further, a dynamic theoretical model of the composite laminated parabolic shell is developed based on the first-order shear deformation shell theory and solved using the Rayleigh–Ritz method in combination with the orthogonal Chebyshev series method. A systematic parametric analysis is conducted, considering laminate design, material properties, and geometric parameters. A composite laminated thin-shell component is fabricated using T700/7901 UD fiber-reinforced composites through an autoclave forming process. A modal test system is designed, and modal tests are performed. The maximum deviation between experimental measurements, FEM simulations, and theoretical calculations is less than 4.81%, demonstrating excellent agreement. Although the proposed design shows significant potential for future space applications, the present study is limited to laboratory-scale validation; its performance under full-scale deployment and extreme space environments remains to be investigated in future work.}
+}

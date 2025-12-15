@@ -1,0 +1,13 @@
+@article{WENG2025111272,
+title = {MXene-assisted facile recycling of waste fibers with alginate into fireproof and insulating composites},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111272},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111272},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002404},
+author = {Lin Weng and Xiaolin Zhang and Jiayi Han and Shasha Tian and Saidi Yang},
+keywords = {Fiber waste, Alginate fiber, Flame retardant performance, Recycle},
+abstract = {The soaring consumer demand for textiles has led to significant environmental challenges regarding textile waste disposal, as current methods such as landfilling and incineration are ineffective in addressing textile waste while minimizing environmental impact. In this study, waste polyester and cotton fibers were effectively recycled into a composite material through the incorporation of MXene dispersion and alginate fiber, utilizing a sustainable and energy-efficient opening-carding-needle punching technique. The flammability tests combined with infrared thermal imaging analysis demonstrated the excellent self-extinguishing performance and thermal insulation properties of the prepared composite felt. The composite felt released abundant non-flammable CO2/H2O gases, and maintained its fibrous skeleton integrity throughout combustion, effectively suppressing the diffusion of smoke and heat. The combustion residue char was found to contain calcium salt and titanium oxides, which, upon in-depth investigation, acted as an effective barrier. Combined with non-flammable gaseous phases, it impeded the permeation of radicals and oxygen, successfully interrupting the combustion process. The proposed recycling method demonstrated superior recovery efficiency and cost-effectiveness compared to alternative processes. It not only minimized resource wastage but also generated a high-value product, thereby significantly reducing environmental pollution.}
+}

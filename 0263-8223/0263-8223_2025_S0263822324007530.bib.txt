@@ -1,0 +1,13 @@
+@article{KUANG2025118625,
+title = {Quantum computing with error mitigation for data-driven computational homogenization},
+journal = {Composite Structures},
+volume = {351},
+pages = {118625},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118625},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007530},
+author = {Zengtao Kuang and Yongchun Xu and Qun Huang and Jie Yang and Chafik El Kihal and Heng Hu},
+keywords = {Quantum computing, Data-driven computational homogenization, Error mitigation, Zero-noise extrapolation, Distance calculation},
+abstract = {As a crossover frontier of physics and mechanics, quantum computing is showing its great potential in computational mechanics. However, quantum hardware noise remains a critical barrier to achieving accurate simulation results due to the limitation of the current hardware. In this paper, we integrate error-mitigated quantum computing in data-driven computational homogenization, where the zero-noise extrapolation (ZNE) technique is employed to improve the reliability of quantum computing. Specifically, ZNE is utilized to mitigate the quantum hardware noise in two quantum algorithms for distance calculation, namely a Swap-based algorithm and an H-based algorithm, thereby improving the overall accuracy of data-driven computational homogenization. Multiscale simulations of a 2D composite L-shaped beam and a 3D composite cylindrical shell are conducted with the quantum computer simulator Qiskit, and the results validate the effectiveness of the proposed method. We believe this work presents a promising step towards using quantum computing in computational mechanics.}
+}

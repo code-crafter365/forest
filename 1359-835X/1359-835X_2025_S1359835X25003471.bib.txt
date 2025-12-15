@@ -1,0 +1,13 @@
+@article{SCHREYER2025109053,
+title = {Characterization and modeling of the anisotropic flow behavior of long carbon fiber reinforced thermoplastic compression molding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109053},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109053},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003471},
+author = {Louis Schreyer and Constantin Krauß and Benedikt Marian Scheuring and Andrew Hrymak and Luise Kärger},
+keywords = {Squeeze flow, Rheology, Anisotropic viscosity, LFT-D},
+abstract = {The anisotropic rheological properties of compression-molded long carbon fiber reinforced polyamide 6 are examined using isothermal squeeze flow tests between two parallel plates at various temperatures and compression velocities. Due to the aligned initial fiber orientation state, the material exhibits strongly anisotropic flow behavior independent of the temperature and compression velocity. However, the material’s stress response is dependent on the shear rate and temperature, which are both investigated. In addition, lofting effects during heating are discussed. A two-dimensional model for non-lubricated squeeze flow that considers shear thinning behavior and the coupling between fiber orientation and flow is developed to capture the anisotropic viscous material behavior. The Mori–Tanaka-based fiber orientation evolution equation describes the fiber reorientation. The material properties are determined using state-of-the-art optimization techniques in a two-step procedure. First, the material parameters describing the shear thinning and anisotropic flow behavior are determined, followed by the temperature-dependent parameters. The obtained material properties agree well with the experimentally observed temperature and shear rate dependence. The material’s anisotropic nature, expressed by an ellipse-like deformation, is also well represented. Finally, the sensitivity of the anisotropy ratio on the velocity field for different shear thinning behavior is investigated.}
+}

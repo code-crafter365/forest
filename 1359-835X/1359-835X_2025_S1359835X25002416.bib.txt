@@ -1,0 +1,13 @@
+@article{TANG2025108947,
+title = {Dopamine-assisted functionalized cuprous oxide induced high biocompatibility and antibacterial polyethylene fibers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108947},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108947},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002416},
+author = {Ning Tang and Jinqi Wang and Xin Dai and Gongxun Zhai and Senlong Yu and Hao Yu and Hengxue Xiang and Meifang Zhu},
+keywords = {CuO, Halloysite nanotubes, Polyethylene fibers, Antibacterial activity},
+abstract = {In response to the growing challenge of bacterial contamination, the development of antibacterial fibers with high efficacy and low toxicity has become a critical area of research. These fibers are typically produced by incorporating antibacterial agents into the fiber matrix through surface modification techniques. However, existing coating technologies encounter difficulties such as non-uniformity and weak adhesion, often resulting from the incompatibility between organic and inorganic interfaces. Drawing inspiration from mussel adhesion chemistry, self-polymerizing polydopamine was employed to immobilize halloysite nanotubes (HNTs) and nano-cuprous oxide (Cu2O) onto the surface of high-density polyethylene (HDPE) fibers. Additionally, cetyltrimethylammonium bromide (CTAB) was introduced to enhance the dispersion and stability of Cu2O on the HNT surface. The resulting antibacterial fibers inactivate bacteria through a combination of copper ion and quaternary ammonium salt adsorption, physical disruption by HNTs, and sustained release of Cu2+ ions. Notably, these fibers demonstrate exceptional long-term antibacterial efficacy, achieving a 99.99 % inactivation rate against E. coli and B. subtilis even after washing 50 cycles. Moreover, the antibacterial PE fibers exhibit a tensile strength of 32.5 ± 2.3 MPa and a water contact angle of 95.3 ± 0.6°, effectively preventing bacterial adhesion. The multi-layered structural design enhances both stability and adaptability, suggesting promising potential for applications in the biomedical field.}
+}

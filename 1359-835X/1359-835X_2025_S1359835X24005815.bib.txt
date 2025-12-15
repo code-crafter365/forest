@@ -1,0 +1,13 @@
+@article{KADHIM2025108583,
+title = {High-performance biodegradable dielectric composite: Towards minimizing electronic waste},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108583},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108583},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005815},
+author = {Mohsin A. Kadhim and Xinyu Yan and Ruolin Han and Ruilu Guo and Qifang Li and Zheng Zhou and Guangxin Chen},
+keywords = {Energy materials, Environmental degradation, Mechanical properties, Polymer-matrix composites},
+abstract = {Polymer-based dielectric capacitors are crucial in modern electronics due to their wide capacitance range, high operating voltage, lightweight nature, and graceful failure reliability. However, the predominant use of nondegradable dielectric polymers raises environmental concerns. This study addresses this issue by preparing flexible biodegradable dielectric composite films of poly(butylene adipate-co-terephthalate) (PBAT) incorporating varying amounts of nitrogen-doped and non-doped biochar derived from banana peel waste. It was found that the incorporation of biochar in the nanocomposite improved various properties such as dielectric properties, biodegradability, mechanical strength, and thermal stability. The PBAT nanocomposite with 10 wt% N-doped biochar exhibited an 83 % rise in dielectric constant compared to pure PBAT while maintaining a low dielectric loss of 0.071 at 1000 Hz. This approach offers a cost-effective and environmentally sustainable method, showing potential for advancing next-generation disposable electronic materials with enhanced performance attributes.}
+}

@@ -1,0 +1,13 @@
+@article{MAGISANO2025118579,
+title = {Optimal lamination angles via exact and efficient differentiation of the geometrically nonlinear finite element solution},
+journal = {Composite Structures},
+volume = {351},
+pages = {118579},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118579},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007074},
+author = {Domenico Magisano and Leonardo Leonetti and Giovanni Garcea},
+keywords = {Optimization, Stacking sequence, Composites, Geometric nonlinearity, Finite elements},
+abstract = {Laminates allow tailoring the fiber orientations in the layers to obtain the desired mechanical response. The optimal layup design is a challenging task in the case of finite deformations and buckling. For an assigned design, an incremental-iterative finite element analysis is needed to compute the structural response. Gradient-based methods are very often the most efficient optimization tools. Their bottleneck is the gradient evaluation, generally possible only approximately by finite differences. This article shows how to compute the exact gradient of the geometrically nonlinear finite element solution with respect to the stacking sequence. The strategy relies on the implicit differentiation of the nonlinear discrete equations of a control equilibrium point corresponding to an assigned displacement. This provides the load factor gradient by a single fast-solution linear system with the already factorized tangent stiffness matrix, regardless of the number of design variables, and scalar products involving the partial derivatives of the discrete internal force vector, calculated in an exact and efficient way. Several applications demonstrate the efficiency and robustness of the approach.}
+}

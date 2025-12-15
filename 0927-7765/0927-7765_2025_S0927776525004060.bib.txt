@@ -1,0 +1,13 @@
+@article{TARANOVA2025114899,
+title = {Lateral flow immunosensing of Salmonella cells in milk: Advantage of gold nanoflowers as labels},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114899},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114899},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004060},
+author = {Nadezhda A. Taranova and Nadezhda A. Byzova and Boris B. Dzantiev and Anatoly V. Zherdev},
+keywords = {, Immunochromatographic assay, Gold nanoflowers, Dairy products},
+abstract = {Salmonella, as a widespread dangerous pathogen, is an important controlled object for ensuring food safety. For timely decision-making, rapid, simple, and highly sensitive techniques of its detection are in demand. The first two requirements are successfully met by lateral flow immunoassay (LFIA), but its sensitivity in common implementation needs improvement. A novel LFIA for S. Typhimurium is based on the use of non-spherical gold nanoparticles (nanoflowers) is developed. Under found optimal conditions, its limit of detection (LOD) is 3.3·104 cells mL−1 and the cut-off for visual assessment of results is 5·104 cells mL−1. The nanoflowers provide 10-fold lowering the LOD as compared to gold nanoparticles obtained by citrate reduction, traditional markers for LFIA. The correlation between quantitative results of the proposed and common LFIAs was 0.938. The developed LFIA was applied to test three kinds of commercial milk; the degree of Salmonella revealing was in the range from 74 % to 115 %. The reached improvement in sensitivity provides the opportunity for more rapid characterization of food samples, which indicates perspectives for the proposed change of the LFIA marker.}
+}

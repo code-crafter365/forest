@@ -1,0 +1,13 @@
+@article{LIU2025117848,
+title = {Univariate conditional variational autoencoder for morphogenic pattern design in frontal polymerization-based manufacturing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117848},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117848},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001203},
+author = {Qibang Liu and Pengfei Cai and Diab Abueidda and Sagar Vyas and Seid Koric and Rafael Gomez-Bombarelli and Philippe Geubelle},
+keywords = {Frontal polymerization, Manufacturing, Inverse design, Variational autoencoder, Deep learning, Deep generative model},
+abstract = {Under some initial and boundary conditions, the rapid reaction-thermal diffusion process taking place during frontal polymerization (FP) destabilizes the planar mode of front propagation, leading to spatially varying, complex hierarchical patterns in thermoset polymeric materials. Although modern reaction–diffusion models can predict the patterns resulting from unstable FP, the inverse design of patterns, which aims to retrieve process conditions that produce a desired pattern, remains an open challenge due to the non-unique and non-intuitive mapping between process conditions and manufactured patterns. In this work, we propose a probabilistic generative model named univariate conditional variational autoencoder (UcVAE) for the inverse design of hierarchical patterns in FP-based manufacturing. Unlike the cVAE, which encodes both the design space and the design target, the UcVAE encodes only the design space. In the encoder of the UcVAE, the number of training parameters is significantly reduced compared to the cVAE, resulting in a shorter training time while maintaining comparable performance. Given desired pattern images, the trained UcVAE can generate multiple process condition solutions that produce high-fidelity hierarchical patterns.}
+}

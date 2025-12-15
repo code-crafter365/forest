@@ -1,0 +1,13 @@
+@article{AMMENDOLEA2025118652,
+title = {An efficient moving-mesh strategy for predicting crack propagation in unidirectional composites: Application to materials reinforced with aligned CNTs},
+journal = {Composite Structures},
+volume = {352},
+pages = {118652},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118652},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007803},
+author = {Domenico Ammendolea and Francesco Fabbrocino and Lorenzo Leonetti and Paolo Lonetti and Arturo Pascuzzo},
+keywords = {Composite materials, Carbon nanotubes, Moving mesh technique, Interaction Integral method, Crack propagation analysis},
+abstract = {This paper presents an efficient numerical approach for reproducing the process of crack propagation inside unidirectional composites subjected to general loading conditions, with special reference to epoxy materials enhanced with embedded aligned CNTs. This approach involves a traditional FE framework improved by the Moving Mesh (MM) technique based on the Arbitrary Lagrangian-Eulerian (ALE) formulation and the Interaction Integral Method (M−integral). The MM serves as a powerful numerical tool to simulate the discrete crack advance with minimal remeshing, thus reducing the computational complexities. Instead, the M−Integral method, formulated for generally anisotropic materials, has been employed to extract the mixed-mode Stress Intensity Factors (SIFs), which are necessary to define the crack onset condition and propagation direction on the basis of the modified Maximum Hoop Stress Criterion. The proposed strategy includes the extended rule of mixtures to evaluate the homogenized elastic properties of nano-reinforced composites. The validity of the proposed methodology has been assessed through comparisons with experimental data and numerical results available in the literature.}
+}

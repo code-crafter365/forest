@@ -1,0 +1,13 @@
+@article{LI2025117842,
+title = {Bayesian model updating with variational inference and Gaussian copula model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117842},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117842},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001148},
+author = {Qiang Li and Pinghe Ni and Xiuli Du and Qiang Han},
+keywords = {Bayesian model updating, Variational inference, Variational copula inference, Gaussian copula model, Structural response prediction},
+abstract = {Bayesian model updating based on variational inference (VI-BMU) methods have attracted widespread attention due to their excellent computational tractability. Traditional VI-BMU methods often employ the mean-field assumption, which simplifies computation by treating model parameters as independent. Recent advances in variational inference have introduced more flexible variational distributions, enabling accurate modeling of parameter dependencies. To further address the limitations of traditional VI-BMU methods, this paper introduces a novel Bayesian model updating framework based on variational inference and Gaussian copula model (VGC-BMU). This framework incorporates Gaussian copula model to simulate the dependency relationships between model parameters, significantly improving the accuracy of posterior distribution estimation. The theoretical relationship between the VGC-BMU and traditional VI-BMU is derived, and the necessity and advantages of parameter dependency modeling are elucidated. Moreover, a simplified computational approach is developed by introducing Jacobian matrix transformations and parameter expansion techniques to address the high computational complexity of the VGC-BMU. The method's capability to identify parameter dependencies is first demonstrated through two simple numerical models. Subsequently, two engineering case studies—a four-story shear frame model and a steel pedestrian bridge model—are selected to evaluate the performance of VGC-BMU in parameter identification and dependency modeling. The results demonstrate that VGC-BMU significantly improves parameter identification accuracy compared to traditional VI-BMU methods. Furthermore, VGC-BMU exhibits superior accuracy and robustness in response prediction by incorporating parameter dependency modeling, making it a more effective and reliable approach for engineering applications.}
+}

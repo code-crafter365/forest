@@ -1,0 +1,13 @@
+@article{SHARABORIN2025106577,
+title = {Break-up of the Taylor bubble},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106577},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106577},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000374},
+author = {Evgenii L. Sharaborin and Oleg A. Rogozin and Aslan R. Kasimov},
+keywords = {Taylor bubble, Direct numerical simulation, Gas–liquid channel flow, Thin film, Nonlinear instability, Pendant drop, Capillary waves},
+abstract = {High-resolution direct numerical simulation is used to study the motion of a Taylor bubble in a cylindrical microtube under conditions that lead to the bubble break-up. It is observed that the initial bubble elongates and deforms such that its front part retains a bullet-like shape while its back part forms a skirt shape. Subsequently, the carrier fluid surrounded by the skirt penetrates into the bubble forming a finger that transitions into a bulb shape. The bulb then increases in size until it touches the near-wall liquid film and as a result splits the bubble into two comparable daughter bubbles. Various dynamical features of this break-up process are explored and described in detail.}
+}

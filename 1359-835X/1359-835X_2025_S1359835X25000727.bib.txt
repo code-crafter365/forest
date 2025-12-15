@@ -1,0 +1,13 @@
+@article{TAO2025108778,
+title = {A unified mechanics model of direct-ink-writing printed flexible sensor benefits the accurate force control of soft manipulator},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108778},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108778},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000727},
+author = {Yin Tao and Peishi Yu and Xin Zhang and Linhai Huang and Yuxiang Zhao and Maoyang Li and Junhua Zhao},
+keywords = {Flexible composites, Structure-sensing component, Strain measurement, Strain-feedback control},
+abstract = {High-precision strain feedback is crucial for both monitoring and control of structure-sensing assembly, but remains a big challenge especially for soft components due to the transferring loss and reinforcement effect. Here we propose a closed-loop solution from unified mechanics model for sensor-assembly design to hybrid additive manufacturing of structure-sensing component. As a result, the strains of soft component from surface to interior are detected with high accuracy, thereby removing the barriers for the strain-based control. Benefit from the proposed mechanics model, the high-precision strains at the fingertips with printed sensors are detected with a reduction for measurement error from 37% to 7%. Consequently, the grip postures can be adjusted according to the feedback strain to accurately control the pinching forces, which successfully pick up fragile objects without damage. This mechanics-model-based strain-feedback control strategy provides insight for achieving intelligent soft equipment with the demand of high-precision control of postures and forces.}
+}

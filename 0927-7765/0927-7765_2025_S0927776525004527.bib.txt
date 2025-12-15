@@ -1,0 +1,13 @@
+@article{SUN2025114945,
+title = {Naphthalene-containing octreotide radioligand elevates selectivity and radionuclide therapy for somatostatin receptor 2-positive tumor},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114945},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114945},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004527},
+author = {Juan Sun and Jiangtao Yang and Jiakun Guo and Bin Xu and Lei Tao and Xingyu Zhao and Guanglin Wang and Fenghua Meng and Zhiyuan Zhong},
+keywords = {Peptide receptor radionuclide therapy, Targeted delivery, Neuroendocrine tumor, Albumin, Theranostics},
+abstract = {Peptide receptor radionuclide therapy (PRRT) with proven targeting ability has emerged as a new paradigm for clinical tumor therapy. The selective binding of octreotide to somatostatin receptor 2 (SSTR2) renders the successful development of 177Lu-DOTATATE for SSTR2-positive neuroendocrine tumor patients. Here, we find that naphthalene-containing octreotide radioligand (OCT(naph)) induces elevated tumor uptake and radionuclide therapy for SSTR2-positive tumor over DOTATATE. 177Lu-OCT(naph) demonstrated high radiochemical purity and radiostability, and increased binding affinity to human serum albumin, which led to prolonged blood circulation time and a peak accumulation of 20.8 ± 3.2 %ID/g, 1.6-fold of that for 177Lu-DOTATATE, in SSTR2+ HCT-116 tumor. A single injection of 177Lu-OCT(naph) at 7.4 MBq while induced no apparent toxicity effectively suppressed tumor growth, significantly outperforming 177Lu-DOTATATE. Overall, 177Lu-OCT(naph) with optimized albumin binding appears as a potentially better radionuclide therapy for SSTR2-positive tumors.}
+}

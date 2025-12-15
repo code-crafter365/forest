@@ -1,0 +1,13 @@
+@article{GUO2025119541,
+title = {Reinforced design and temperature-varying compressive performance investigation of aperiodic honeycomb metamaterials},
+journal = {Composite Structures},
+volume = {372},
+pages = {119541},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119541},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007068},
+author = {Xiao Lin Guo and Bo Hua Sun},
+keywords = {Aperiodic, Metamaterials, Honeycomb, Unit cells, Energy absorption},
+abstract = {Compared to conventional periodic honeycomb metamaterials, aperiodic honeycomb metamaterials with monolithic tiling gain attention for their superior mechanical performance, which is affected by local geometric features. This study designed and created four aperiodic honeycomb metamaterials using 3D printing technology to enhance cell stiffness, and analyzed their compressive mechanical properties, deformation characteristics and energy absorption under changing temperatures through experiments and simulations. Results show that the aperiodic honeycomb metamaterial with ‘hat’ cells has better mechanical performance. Under compressive loading, the non- uniform movement of concave angles across different cells enables coordinated bending deformation. Adding support beams at concave nodal points boosts the peak load, stiffness and energy absorption. Notably, the internal design of the unit cell regulates the deformation response of multi-angle unit cells. When diagonal support beams are inside the cells, a bidirectional bending - resistant mechanism forms, homogenizing the stress distribution. This increases the compressive modulus, peak load and energy absorption by 8,6,3 times respectively. Near the material’s glass transition temperature (Tg), the structure’s load-bearing capacity drops sharply due to material softening. However, the ‘hat’-ACBD honeycomb metamaterial still shows significant energy absorption. The unit cell design is crucial for structural performance. This study offers valuable guidance for designing high-performance, environmentally adaptive aperiodic honeycomb metamaterials.}
+}

@@ -1,0 +1,13 @@
+@article{XU2025108899,
+title = {On residual tensile strength after lightning strikes},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108899},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108899},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001939},
+author = {X. Xu and S.L.J. Millen and D. Mitchard and M.R. Wisnom},
+keywords = {Delamination, Lightning strike, Tension after Lightning Strikes (TAL), Finite Element Analysis (FEA)},
+abstract = {The study of post lightning strike residual strength is still relatively underdeveloped in the literature. Different approaches including in-plane compression or flexural testing have been used, but in-plane tensile loading post-strike has not been studied in detail. Although previous attempts have been made to determine the residual strength using Compression-After-Lightning (CAL) tests on composite laminates, these have been limited and not readily applicable under tensile loads. Therefore, this work completes Tension-After-Lightning (TAL) testing at 75 kA on composite laminates, a more realistic peak current than previously reported for TAL tests, to assess the knock-down in strength post-strike. The measured average TAL failure stress was 716 MPa, a reduction of 23 % from the baseline tensile failure stress of 929 MPa in the literature. This confirms a similar knock-down factor reported at lower peak currents (e.g. 50 kA), but the new TAL specimen geometry ensures that the lightning damage is contained within both the lightning and TAL specimen widths. In addition, a new Finite Element (FE) based virtual test was conducted, considering 0° ply splitting, and validated with the TAL tests herein. The TAL simulation predicted the residual tensile failure stress well, within 6 % of the measured value.}
+}

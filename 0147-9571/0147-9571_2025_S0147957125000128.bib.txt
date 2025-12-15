@@ -1,0 +1,20 @@
+@article{OCHE2025102304,
+title = {Survey on the prevalence of trypanosomosis in small ruminants and on tsetse distribution in Dedesa and Bedele districts, Buno Bedele Zone, Ethiopia},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {117},
+pages = {102304},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102304},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000128},
+author = {Tsegaye Wolde Oche and Yigremachew Kasahun},
+keywords = {Buno Bedele, Hematological, Prevalence, Small ruminants, Trypanosomosis},
+abstract = {Background
+African animal trypanosomosis (AAT) is one of the most serious diseases with ongoing detrimental effects on animal health and food production.
+Methods
+A cross-sectional study was conducted in the Bedele and Dedesa districts of Buno Bedele Zone, Southwest Ethiopia, to determine the prevalence of trypanosomosis and its vector distributions in small ruminants. Blood samples collected from a total of 384 small ruminants were examined for trypanosomosis via hematological analysis. For the tsetse distribution survey, 72 traps were deployed in the designated districts.
+Results
+Among the small ruminants examined with hematological techniques (n = 384), 16 (8 sheep and 8 goats) were infected with trypanosomes. The overall prevalence of trypanosomosis was 4.17 %. Only two species of trypanosomes, namely, T. vivax and T. congolense, were observed in this study, with equal prevalence rates (2.08 %). The mean PCV ± SD of the parasitemic small ruminants (24.37 ± 5.66) was significantly lower than that of the aparasitemic (27.48 ± 4.38) small ruminants. A total of 369 flies were caught (Glossina tachinoides (74.5 %) and G. morsitans (25.5 %)), with an overall mean apparent density of 2.56 flies per trap per day.
+Conclusions
+Overall, these results indicate that this disease is prevalent in these animals, and maintaining their health may play a significant role in defending the disease's spread. Greater emphasis needs to be given to controlling this disease in these ruminants, and the role of these animals as carriers of the disease needs to be considered in future planning and strategies of African animal trypanosomosis control activities.}
+}

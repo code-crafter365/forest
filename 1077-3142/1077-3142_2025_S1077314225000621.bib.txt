@@ -1,0 +1,13 @@
+@article{FENG2025104339,
+title = {Local Consistency Guidance: Personalized Stylization Method of Face Video},
+journal = {Computer Vision and Image Understanding},
+volume = {257},
+pages = {104339},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104339},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000621},
+author = {Wancheng Feng and Yingchao Liu and Jiaming Pei and Guangliang Cheng and Lukun Wang},
+keywords = {Face video stylization, Diffusion, personalized, Local Consistency Guidance, Local-Cross Attention, Local Style Transfer},
+abstract = {Face video stylization aims to transform real face videos into specific reference styles. Although image stylization has achieved remarkable results, maintaining continuity and accurately preserving original facial expressions in video stylization remains a significant challenge. This work introduces a novel approach for face video stylization that ensures consistent quality across the entire video by leveraging local consistency. Specifically, the framework builds upon existing diffusion models and employs local consistency as a guiding principle. It integrates a Local-Cross Attention (LCA) module to maintain style consistency between frames and a Local Style Transfer (LST) module to ensure seamless video continuity. Comparative experiments were conducted, along with qualitative and quantitative analyses using frame consistency, SSIM, FID, LPIPS, user studies, and flow similarity parameters. An ablation experiment section is also included. The experimental results demonstrate that the proposed approach effectively achieves continuous video stylization by applying local consistency guidance. Additionally, the Local Consistency Guidance (LCG) method shows strong performance in achieving continuous video stylization. After extensive investigation, this work achieves state-of-the-art results in the field of video stylization. Further information is available on the project homepage at https://lcgfacevideostylization.github.io/github.io/.}
+}

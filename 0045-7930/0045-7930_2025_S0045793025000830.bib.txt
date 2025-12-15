@@ -1,0 +1,13 @@
+@article{DECOSMO2025106623,
+title = {Validation of a low-dissipation Finite-Volume solver for implicit Large-Eddy Simulation},
+journal = {Computers & Fluids},
+volume = {295},
+pages = {106623},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106623},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000830},
+author = {Giove {De Cosmo} and Luca {di Mare} and Mauro Carnevale},
+keywords = {CFD, Finite-volume method, Turbulence modelling, Implicit large-eddy simulation, Numerical dissipation, Wall-bounded flows},
+abstract = {In the field of turbulent flow modelling, implicit Large-Eddy Simulation (iLES) is appealing for its low cost and ease of implementation. Such advantages rely on the absence of a sub-grid scale model, since the dissipation of the numerical scheme is assumed to match the behaviour of unresolved turbulence. The implementation of an iLES model in traditional Unsteady-RANS codes for Computational Fluid Dynamics is not a straightforward exercise, as most of the classical schemes used for the discretisation of the Navier–Stokes equations prove too dissipative. This work presents a low-dissipation fix for the traditional Flux-Difference Splitting scheme of Roe in the context of Finite-Volume discretisations. The fix consists in selectively scaling the eigenvalues of the Roe matrix to lower the numerical dissipation as needed, by means of a scalar parameter. The low-dissipation version of the Roe scheme is implemented in an existing Finite-Volume compressible wall-resolved URANS code, to obtain an iLES model. The solver is first verified on a fundamental test case, i.e. vortex transport in uniform flow. The scalar parameter is then properly calibrated on the decay of Homogeneous Isotropic Turbulence, to ensure physical meaningfulness. A robust validation of the iLES model is finally presented on realistic turbulent flows. Results show that a relatively simple fix can achieve excellent agreement with the benchmark DNS data on a flat-wall channel flow and a bumped-wall channel flow.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025118551,
+title = {Fabrication and multiscale heat transfer modeling of high thermal conductivity Cf/HfB2-SiC composites},
+journal = {Composite Structures},
+volume = {351},
+pages = {118551},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118551},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006792},
+author = {Fushuai Wang and Chi Zhang and Xinhui Geng and Qiang Gao and Liancai Xun and Wuju Wang and Xinghong Zhang and Ping Hu},
+keywords = {High thermal conductivity composites, Ultra-high temperature ceramics, Multiscale heat transfer model, 3D X-ray computed tomography, Representative volume element},
+abstract = {With the increasing Mach numbers of hypersonic vehicles, extreme aerothermal environments impose substantial challenges on vehicle materials. High thermal conductivity materials facilitate rapid heat redistribution to diminish localized thermal accumulation and reduce material thermal damage, providing a viable route for further enhancing the operational temperature of materials. Here, we successfully fabricate high thermal conductivity Cf/HfB2-SiC composites through the solid–liquid combination process, achieving an x-direction thermal conductivity of 161.11 W/(m·K), which represents an order of magnitude improvement over traditional carbon fiber-reinforced ultra-high temperature ceramic composites. 3D X-ray computed tomography (CT) is employed to analyze the structural composition of the high thermal conductivity Cf/HfB2-SiC composites, and the Gaussian Mixture Model is applied to segment the CT images, thus establishing a mesoscale representative volume element (RVE) model based on CT. Combining theoretical models and finite element analysis, we propose a multiscale heat transfer model for high thermal conductivity Cf/HfB2-SiC composites, which effectively investigates the heat transfer mechanisms of the composites. The fabrication and multiscale heat transfer modeling of high thermal conductivity Cf/HfB2-SiC composites provide a theoretical basis and guidance for enhancing material performance and design optimization.}
+}

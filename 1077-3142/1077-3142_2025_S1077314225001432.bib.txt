@@ -1,0 +1,13 @@
+@article{MO2025104420,
+title = {Deep semantic segmentation for drivable area detection on unstructured roads},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104420},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104420},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001432},
+author = {Xiangjun Mo and Yonghui Feng and Yihe Liu},
+keywords = {Neural networks, Unstructured road, Drivable area detection, Semantic segmentation, Autonomous driving},
+abstract = {Drivable area detection on unstructured roads is crucial for autonomous driving, as it provides path planning constraints for end-to-end models and enhances driving safety. This paper proposes a deep learning approach for drivable area detection on unstructured roads using semantic segmentation. The deep learning approach is based on the DeepLabv3+ network and incorporates a Unit Attention Module following the Atrous Spatial Pyramid Pooling Module in the encoder. The Unit Attention Module combines a dual attention module and a spatial attention module. It enhances the adaptive weighting of semantic information in key channels and spatial locations, thereby improving the overall segmentation accuracy of drivable areas on unstructured roads. Evaluations on the India Driving Dataset demonstrate that the proposed network consistently surpasses most comparative methods, achieving a mean IoU of 85.99% and a mean pixel accuracy of 92.01%.}
+}

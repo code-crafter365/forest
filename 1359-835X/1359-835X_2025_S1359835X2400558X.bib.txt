@@ -1,0 +1,13 @@
+@article{HASEBE2025108560,
+title = {Prediction of compression after impact strength from surface profile of low-velocity impact damaged CFRP laminates using machine learning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108560},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108560},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400558X},
+author = {Saki Hasebe and Ryo Higuchi and Tomohiro Yokozeki and Shin-ichi Takeda},
+keywords = {A. carbon fiber, A. laminate, B. compression after impact},
+abstract = {Recently, Composite materials have been increasingly used in various actual structures, leading to active research on their damage and residual material properties. Therefore, the residual compressive strength of carbon fiber reinforced plastic subjected to low-velocity impacts has been considered. In particular, we determined the complexity of impact conditions that can occur in practical applications and the difficulty of obtaining internal damage information from experimental specimens. In addition, we applied machine learning to investigate the essential features calculated from surface profile data after the impact tests. This learning revealed that features representing changes in the contour of the specimen surface had high contributions. Therefore, the surface damages, such as fiber breakage and major matrix cracks, also influence the CAI strength.}
+}

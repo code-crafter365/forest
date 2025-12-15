@@ -1,0 +1,13 @@
+@article{XIONG2025114897,
+title = {High-entropy nanozyme biosensors: Machine learning-assisted design and stimulus-responsive applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114897},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114897},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004047},
+author = {Wei-Guang Xiong and Miao-Miao Song and Da-Gui Zhang and Shi-Bin Wang and Ai-Zheng Chen},
+keywords = {High-entropy, Biomarker detection, Catalysis, Active sites, Machine learning},
+abstract = {High-entropy nanozymes (HENs) have emerged as a revolutionary class of bio-inspired catalysts that integrate multi-enzyme mimetic activities with environmental responsiveness, creating transformative opportunities for next-generation biosensing technologies. This review systematically examines recent breakthroughs in the rational design of programmable catalytic systems and stimulus-responsive HENs architectures. We critically analyze innovative synthetic strategies, including cation-exchange templating, microwave-assisted solvothermal synthesis, and laser ablation techniques, which enable precise control over compositional complexity and surface topological features. Particular emphasis is placed on elucidating the synergistic mechanisms of multi-metallic coordination and defect engineering that enhance catalytic efficiency in biological microenvironments. Advanced applications are discussed in the context of ultra-sensitive detection of critical biomarkers such as dopamine and alkaline phosphatase, demonstrating their potential for point-of-care diagnostic implementations. While addressing current challenges in biocompatibility optimization and standardized manufacturing protocols, we propose novel solutions incorporating surface functionalization paradigms and machine learning-driven design optimization. Looking forward, the strategic integration of HENs with artificial intelligence-enhanced biosensing platforms and multimodal detection systems is envisioned to pioneer new frontiers in precision medicine and intelligent diagnostic paradigms, potentially revolutionizing disease surveillance and personalized healthcare solutions.}
+}

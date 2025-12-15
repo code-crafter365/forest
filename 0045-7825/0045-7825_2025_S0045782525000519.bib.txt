@@ -1,0 +1,13 @@
+@article{WULFINGHOFF2025117779,
+title = {Empirically corrected cluster cubature (E3C)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117779},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117779},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000519},
+author = {Stephan Wulfinghoff},
+keywords = {Computational homogenization, Magnetism, Model order reduction, Hyper-reduction},
+abstract = {In computational homogenization, the microscopic problem is regularly solved via Galerkin-projection methods to speed up the computation. By evaluating the involved integrals by hyper-reduction techniques, a very high efficiency can be achieved. Here, a novel hyper-reduction method is proposed and applied to magnetostatics. The method combines the ideas of microstructural clustering with the empirical identification/correction of a reduced set of integration points, not being taken from the set of finite element integration points. The results show that the macroscopic response (2D) is hardly distinguishable from the finite element results already for 12 integration points at a phase contrast of ∼1000 for a porous microstructure. The online costs (but also the offline costs) are thus found to be particularly low. Further, a two-scale example is discussed and the code is made available online.}
+}

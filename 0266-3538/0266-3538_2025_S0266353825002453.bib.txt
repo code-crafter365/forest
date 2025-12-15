@@ -1,0 +1,13 @@
+@article{ZHANG2025111277,
+title = {A pressure modulation approach to enhance mechanical properties of 3D-printed continuous fiber-reinforced composites},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111277},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111277},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002453},
+author = {Junming Zhang and Weidong Yang and Peng Wang and Yonglin Chen and Yiu-Wing Mai and Yan Li},
+keywords = {3D printing, Printing process modeling, Transverse tensile properties, Pressure modulation},
+abstract = {3D-printed continuous fiber-reinforced composites (CFRCs) have significant potential for applications in the aerospace and automotive industries. However, their mechanical performance is often compromised by defects such as interlayer voids, weak interfaces, and insufficient impregnation arising from the layer-by-layer printing process. In this study, we propose a pressure modulation approach to enhance the mechanical properties of 3D printed CFRCs. The pressure-driven intimate contact and impregnation behavior during printing were modeled to reveal the relationship between the printing pressure and the defects. Then, a multi-scale finite element model was developed to link these defects to mechanical performance. Furthermore, we optimized the printing pressure by adjusting the printing layer height, which significantly reduced defects and led to a nine-fold increase in the transverse tensile strength of 3D-printed CFRCs. The experimental results of CFRCs printed at different layer heights validate the proposed model, demonstrating that increasing printing pressure enhances intimate contact and impregnation, hence improving the mechanical performance of 3D-printed CFRCs. This study proposes a pressure modulation approach to enhance the mechanical performance of 3D-printed CFRCs, enabling their broader application in the aerospace and automotive industries.}
+}

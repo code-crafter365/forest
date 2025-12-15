@@ -1,0 +1,13 @@
+@article{XU2025105997,
+title = {A self-attention convolutional long and short-term memory network for correcting sea surface wind field forecasts to facilitate sea ice drift prediction},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105997},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105997},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001475},
+author = {Qing Xu and Qilin Jia and Yongqing Li and Hao Zhang and Peng Ren},
+keywords = {Sea ice drift prediction, Sea surface wind fields, Intelligent correction, Self-attention mechanism, Convolutional long short-term memory network},
+abstract = {Accurate and timely correction of numerically forecasted sea surface wind fields is essential for sea ice drift prediction. However, current oceanic element prediction systems face two major challenges. The numerically forecasted sea surface wind fields are timely, but their accuracy is often limited. In contrast, reanalysis sea surface wind fields are more accurate but lack timeliness, limiting their applicability in urgent requirements. To address these challenges, a self-attention convolutional long and short-term memory network (SaCLN) has been developed for intelligently correcting the numerically forecasted sea surface wind fields. This approach combines the timeliness of the numerically forecasted wind fields with the accuracy of reanalysis wind fields to generate corrected wind fields that closely approximate the reanalysis wind fields. This network consists of a self-attention network and a convolutional long and short-term memory network (CLN). The self-attention network captures the global spatial correlations of a numerically forecasted sea surface wind field sequence. The CLN extracts the spatial and temporal characteristics of an attention weighted wind field sequence. The trained SaCLN model can effectively generate accurate and timely corrected wind fields, thereby enhancing the accuracy of sea ice drift prediction. The effectiveness of the SaCLN was validated through experiments predicting the drift of Arctic sea ice and Antarctic icebergs. Experimental results show that the drift results based on wind fields corrected by the SaCLN are more accurate than those based on numerically forecasted sea surface wind fields. This method has demonstrated its effectiveness in sea ice drift prediction, assisting researchers in better addressing the challenges posed by sea ice variability.}
+}

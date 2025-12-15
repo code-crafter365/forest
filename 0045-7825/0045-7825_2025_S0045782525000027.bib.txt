@@ -1,0 +1,13 @@
+@article{SCHEWE2025117730,
+title = {Towards the simulation of metal deposition with the Particle Finite Element Method and a phase transformation model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117730},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117730},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000027},
+author = {Markus Schewe and Isabelle Noll and Thorsten Bartel and Andreas Menzel},
+keywords = {Particle Finite Element Method, Adaptive remeshing, Phase transformation, Solidification, Additive manufacturing, Laser directed energy deposition},
+abstract = {The present paper establishes a simulation framework for modelling the deposition and solidification of steel melt in Directed Energy Deposition with a Laser Beam (DED-LB) by using the Particle Finite Element Method (PFEM). Unlike traditional finite element methods, the remeshing framework makes it possible to resolve the interaction between molten metal and substrate upon deposition, solidification and cooling, which provides a framework for accurately predicting residual stresses and distortion in the final part. The material model incorporates a liquid–solid phase transformation described by phase fractions, allowing for a precise definition of transformation stretches, latent heat and fundamental changes in the constitutive behaviour, whereas a purely temperature dependent phase evolution keeps the numerical cost manageable. While focusing on a two-dimensional (2d) simulation for simplicity and observability of the mesh adaptation, the methodology is extensible to a 3d setting. Key advancements include refined remeshing techniques of the connection zone and a large strain melt and solidification material model. The simulation results demonstrate the potential of the proposed framework for capturing critical aspects of DED-LB processes, laying the basis for extensive process simulations.}
+}

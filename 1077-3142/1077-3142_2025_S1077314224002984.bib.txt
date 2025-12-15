@@ -1,0 +1,13 @@
+@article{LV2025104217,
+title = {Enhanced local multi-windows attention network for lightweight image super-resolution},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104217},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104217},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224002984},
+author = {Yanheng Lv and Lulu Pan and Ke Xu and Guo Li and Wenbo Zhang and Lingxiao Li and Le Lei},
+keywords = {Super-resolution, Local multi-windows attention, Spatial gated network},
+abstract = {Since the global self-attention mechanism can capture long-distance dependencies well, Transformer-based methods have achieved remarkable performance in many vision tasks, including single-image super-resolution (SISR). However, there are strong local self-similarities in images, if the global self-attention mechanism is still used for image processing, it may lead to excessive use of computing resources on parts of the image with weak correlation. Especially in the high-resolution large-size image, the global self-attention will lead to a large number of redundant calculations. To solve this problem, we propose the Enhanced Local Multi-windows Attention Network (ELMA), which contains two main designs. First, different from the traditional self-attention based on square window partition, we propose a Multi-windows Self-Attention (M-WSA) which uses a new window partitioning mechanism to obtain different types of local long-distance dependencies. Compared with original self-attention mechanisms commonly used in other SR networks, M-WSA reduces computational complexity and achieves superior performance through analysis and experiments. Secondly, we propose a Spatial Gated Network (SGN) as a feed-forward network, which can effectively overcome the problem of intermediate channel redundancy in traditional MLP, thereby improving the parameter utilization and computational efficiency of the network. Meanwhile, SGN introduces spatial information into the feed-forward network that traditional MLP cannot obtain. It can better understand and use the spatial structure information in the image, and enhances the network performance and generalization ability. Extensive experiments show that ELMA achieves competitive performance compared to state-of-the-art methods while maintaining fewer parameters and computational costs.}
+}

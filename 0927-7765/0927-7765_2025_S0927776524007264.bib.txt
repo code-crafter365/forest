@@ -1,0 +1,11 @@
+@article{YANG2025114467,
+title = {Corrigendum to ‘Multifunctional composite soluble microneedle patch based on “one stone, three birds” strategy for promoting the healing of infectious wounds’ [Colloids Surf. B: Biointerfaces, vol. 241 (2024) 114049]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114467},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114467},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007264},
+author = {Weili Yang and Min Cao and Wenxin Wang and Ningning Diao and Xiaowei Liu and Yue Hu and Xinxin Wang and Tianying Sun and Chunjing Guo and Daquan Chen}
+}

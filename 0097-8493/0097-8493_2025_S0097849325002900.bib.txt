@@ -1,0 +1,13 @@
+@article{COSINAYERBE2025104449,
+title = {Including reflections in real-time voxel-based global illumination},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104449},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104449},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002900},
+author = {Alejandro Cosin-Ayerbe and Gustavo Patow},
+keywords = {Computing methodologies, Rendering, Ray tracing, Visibility, Global illumination},
+abstract = {Despite advances in rendering techniques, achieving high-quality real-time global illumination remains a significant challenge in Computer Graphics. While offline methods produce photorealistic lighting effects by accurately simulating light transport, real-time approaches struggle with the computational complexity of global illumination, particularly when handling dynamic scenes and moving light sources. Existing solutions often rely on precomputed data structures or approximate techniques, which either lack flexibility or introduce artifacts that degrade visual fidelity. In this work, we build upon previous research on a voxel-based real-time global illumination method to efficiently incorporate reflections and interreflections for both static and dynamic objects. Our approach leverages a voxelized scene representation, combined with a strategy for ray tracing camera-visible reflections, to ensure accurate materials while maintaining high performance. Key contributions include: (i) a high-quality material system capable of diffuse, glossy, and specular interreflections for both static and dynamic scene objects (ii) a highly-performant screen-space material model with a low memory consumption; and (iii) an open-source full implementation for further research and development. Our method outperforms state-of-the-art academic and industrial techniques, achieving higher quality and better temporal stability without requiring excessive computational resources. By enabling real-time global illumination with reflections, our work lays the foundation for more advanced rendering systems, ultimately moving closer to the visual fidelity of offline rendering while maintaining interactivity.}
+}

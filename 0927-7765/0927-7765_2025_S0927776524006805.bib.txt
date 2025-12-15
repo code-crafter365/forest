@@ -1,0 +1,13 @@
+@article{LI2025114421,
+title = {A poly (vinyl alcohol) coated core-shell nanoparticle with a tunable surface for pH and glutathione dual-responsive drug delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114421},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114421},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006805},
+author = {Jiagen Li and Yuhang Hou and Hao Wu and Chunxia Chen and Xiaohong Fu and Jun Liu and Lu Li and Shuyong Shang and Guowei Deng},
+keywords = {Core-shell nanocarriers, Poly(vinyl alcohol), Dual-responsive drug delivery, Tumor-targeted therapy, Boronic ester bond},
+abstract = {The surface characteristics of nanoparticles play a pivotal role in modulating the efficiency and functionality of drug delivery systems, particularly when addressing the complex challenges of targeted therapeutics. This study presents the development of a core-shell nanoparticle system (PMAA@DOX-PVA), incorporating poly(vinyl alcohol) (PVA) as a dynamic shell component to establish dual responsiveness to pH and glutathione levels. The hydrophilic PVA shell is covalently conjugated to the poly (methylacrylic acid) (PMAA) core via a boronic ester bond, establishing a robust platform for controlled release with tunable surface properties. Notably, our findings demonstrate a remarkable enhancement in drug loading efficiency from a modest 8 % (PMAA@DOX) to an impressive 18 % (PMAA@DOX-PVA-0.2). Furthermore, under physiological conditions (pH 7.4), the drug leakage after 62 hours is significantly reduced, dropping from 37 % (PMAA@DOX) to 21 % (PMAA@DOX-PVA-0.2). This suggests a potential improvement in stability during blood circulation. Intriguingly, the PVA ratio was found to influence drug release profiles under different environments distinctly. The possible mechanism was proposed offering insight into this tunable behavior. In vitro cytotoxicity assays on A549 cancer cells reveal that the blank carriers exhibit excellent biocompatibility, while the PVA-coated nanoparticles significantly boost anti-tumor efficacy. Collectively, these results present a promising strategy for designing core-shell nanoparticles with customizable surface properties, paving the way for next-generation, multifunctional drug delivery systems in diverse biomedical applications.}
+}

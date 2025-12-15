@@ -1,0 +1,13 @@
+@article{XING2025117928,
+title = {Deep learning-based surrogate capacity models and multi-objective fragility estimates for reinforced concrete frames},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117928},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117928},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002002},
+author = {Lili Xing and Paolo Gardoni and Ge Song and Ying Zhou},
+keywords = {surrogate capacity models, deep neural network, Transformer, reinforced concrete frames, sensitivity analysis, fragility estimate},
+abstract = {This paper proposes surrogate capacity models for reinforced concrete frames (RCFs) using deep neural networks (DNNs) and Transformers to address the strong nonlinearity in structural deformation. After validating the finite element modeling method, an extensive stochastic finite element analysis is conducted to construct a comprehensive capacity database. The hyperparameters for the DNN architecture are initially determined, balancing accuracy with model complexity to finalize the surrogate capacity models. However, due to the strong nonlinearity in deformation-related surrogate models, lower accuracies are observed, which are further improved by applying a logarithmic transformation and the more advanced Transformer model. Despite these enhancements, the accuracy achieved by standard DNNs remains the most optimal, indicating their suitability for this task. Considering uncertainties in input features and neural network hyperparameters, fragility estimates for example RCFs are rapidly predicted using the surrogate capacity models. The fragility assessment indicates that the peak deformation is strongly influenced by structural nonlinearity among all output responses.}
+}

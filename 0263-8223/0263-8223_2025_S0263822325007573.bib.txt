@@ -1,0 +1,13 @@
+@article{DOTTAVIO2025119592,
+title = {New Reissner’s Mixed Variational Theorems for highly accurate transverse stress fields},
+journal = {Composite Structures},
+volume = {373},
+pages = {119592},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119592},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007573},
+author = {Michele D’Ottavio and Luciano Demasi},
+keywords = {Mixed approaches, Reissner’s Mixed Variational Theorem, Multilayered plate models, Interlaminar continuity, Transverse stresses, Variable-kinematics modeling},
+abstract = {Reissner’s Mixed Variational Theorem (RMVT) is a mixed formulation dedicated to the analysis of composite multilayered structures. It extends the classical displacement-based approach upon allowing the introduction of unconstrained approximations for the transverse stress field. If transverse stress approximations are introduced that meet the interlaminar continuity conditions, models with low-order kinematics show a more accurate in-plane response thanks to a proper definition of shear correction factors. However, an improvement of the transverse stress response with the standard RMVT requires adopting high-order approximations, thus increased computational cost. One reason is that this variational statement necessitates the interlaminar continuity of the work-conjugated displacement and transverse traction fields to be a priori enforced. This paper presents for the first time alternative variants of RMVT, in which only the interlaminar continuity of the transverse tractions is required while that of the displacement field is relaxed and resolved in weak sense. The new variational framework is used to build and assess variable-kinematics plate models formulated by the already established Generalized Unified Formulation. Transverse stress fields are primary variables and directly obtained from the solution vector, i.e., computed without any post-processing procedure, for thick laminated and sandwich plates with “soft” and “hard” cores. The models with relaxed kinematic continuity are shown to provide very accurate transverse stress fields even with low-order kinematics assumptions, at a similar or even lower computational cost with respect to previously established RMVT models.}
+}

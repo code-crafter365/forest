@@ -1,0 +1,13 @@
+@article{LI2025114409,
+title = {Transferrin-targeting pH-responsive and biodegradable mesoporous silica nanohybrid for nitric oxide-sensitized chemotherapy of cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114409},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114409},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006684},
+author = {Ting Li and Di Cheng and Xiu Xu and Bin Wang and Wenqian Xing and Yufang Xu and Xuhong Qian and Youjun Yang and Weiping Zhu},
+keywords = {PH-responsive, Biodegradable mesoporous organosilica, Nitric oxide sensitization, Drug-resistant inhibition},
+abstract = {Weakly acidic pH, low oxygen and high glutathione levels are the main characteristics of tumor cells. Taking advantage of the unique acidic microenvironment of tumor cells, acid-responsive mesoporous organosilica nanoparticles (AMON) were designed for nitric oxide (NO)-sensitized chemotherapy of tumors. AMON served as a nanocarrier co-loaded with a nitric oxide donor (NOD) and chemotherapeutic drug doxorubicin (DOX). Transferrin (Tf) was modified on the surface as a targeting ligand to form NOD&DOX@AMON. In vitro experiments showed that AMON could be completely degraded under acidic conditions (pH 5.0) after 48 h. NOD&DOX@AMON entered cells via transferrin receptor-mediated internalization and degraded in the acidic microenvironment to release its payloads. NOD released NO in presence of one-electron reducing substances like Glutathione (GSH) and ascorbic acid, inhibiting P-glycoprotein(P-gp) function and thereby increasing the intracellular concentration of DOX. In vivo distribution studies revealed that the nanohybrids accumulated maximally in tumor tissue 12 h after intravenous injection and exhibited significant inhibitory effects on HepG2 xenograft tumors. Western blot experiments demonstrated that NOD&DOX@AMON could inhibit the expression of drug resistance-associated proteins and was expected to be employed as a therapeutic approach for drug-resistant ttumors.}
+}

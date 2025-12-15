@@ -1,0 +1,13 @@
+@article{TORRES2025108759,
+title = {Experimental strategies to improve composite delamination response by promoting dissipation mechanisms at different length scales},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108759},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108759},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000533},
+author = {L. Torres and K. Saavedra and F. Daghia},
+keywords = {Delamination, Interfaces, Bridging, Cohesive lengths},
+abstract = {This work explores different strategies to improve the delamination response of carbon fibers reinforced composite materials. In particular, it targets the creation of bridging ligaments to provide an extra dissipation mechanism with a long cohesive length. Two types of interlaminar inserts are considered: glass fiber mat and 3D printed TPU patterns. The delamination response is evaluated with respect to the baseline using both DCB (Double Cantilever Beam) and CDP (Climbing Drum Peel) tests. The process zone size and the microscale fracture mechanisms are also observed. Although an overall improvement of the delamination response is observed for all inserts, it strongly depend on the type of insert and test. CDP result in less ligament creation than DCB tests while TPU patterns reach higher energy release rates but, in some cases, a more unstable propagation than mat inserts.}
+}

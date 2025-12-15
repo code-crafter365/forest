@@ -1,0 +1,13 @@
+@article{YANG2025106548,
+title = {Perturbed polynomial reconstructed seventh-order hybrid WENO scheme with improved accuracy and resolution},
+journal = {Computers & Fluids},
+volume = {289},
+pages = {106548},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106548},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500009X},
+author = {Tao Yang and Dazhi Sun and Qijun Zhao and Guoqing Zhao and Xi Chen},
+keywords = {Seventh-order WENO scheme, Troubled cell indicator, Perturbed polynomial reconstruction, High-resolution},
+abstract = {Non-polynomial reconstructions can be employed to enhance the performance of the WENO-type schemes by optimizing the inherent hyper-parameter. In contrast to the non-polynomial RBF-based and the Gauss-Kriging reconstructions, the perturbed polynomial reconstruction exhibits good portability and expandability. In this work, a novel seventh-order WENO scheme, denoted as the HPWENO7 scheme, is proposed by incorporating the concept of the perturbed polynomial reconstructions into the standard seventh-order WENO7-JS scheme (Jiang and Shu, 1996, [6]). Firstly, a refined troubled cell indicator is developed to categorize the global stencils as either smooth or non-smooth. Subsequently, perturbed polynomial reconstruction with double free-parameters, the values of which can be adjusted automatically according to the features of local regions, is developed to optimize the fluxes within the four-point candidate stencils. Adaptive optimization of the free-parameter values enables a minimum one-order improvement in accuracy. Finally, the novel HPWENO7 scheme is proposed by combining the seventh-order upstream central scheme for smooth stencils with the perturbed polynomial reconstruction optimized candidate fluxes for non-smooth stencils. Numerical examples show that the HPWENO7 scheme achieves fifth-order of accuracy in the four-point candidate stencils, providing sharper solutions for discontinuities and significantly higher resolution for small-scale vortex structures around the discontinuities.}
+}

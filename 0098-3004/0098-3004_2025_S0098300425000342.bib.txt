@@ -1,0 +1,13 @@
+@article{WANG2025105884,
+title = {Edge-guided segmentation of digital rock images: Integrating a pretrained edge aware path with the main segmentation path},
+journal = {Computers & Geosciences},
+volume = {197},
+pages = {105884},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105884},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000342},
+author = {Ziqiang Wang and Zhiyu Hou and Danping Cao},
+keywords = {Digital rock physics, Image segmentation, Dual-path model, Edge feature},
+abstract = {Accurate segmentation of digital rock images is pivotal in digital rock analysis, as it significantly influences the outcomes of subsequent numerical simulations and parameter calculations. Traditional deep learning models for semantic segmentation often require extensive datasets for effective training, but acquiring rock samples used to be costly, hindering dataset expansion. Typical single-path segmentation models primarily focus on extracting semantic features, which may limit segmentation accuracy, especially for fine-grained segmentation of minor features. Incorporating edge feature information relevant to matrix and pore segmentation can improve segmentation accuracy while optimizing limited data resources. Therefore, a dual-path deep learning segmentation model introducing an additional edge-aware pathway to improve segmentation accuracy, because the edge features obtained from the edge-aware pathway are not only utilized as prior information alongside the original image to guide more effective feature extraction but also integrated into the decoding module to offer boundary constraint support for the image information restoration process. As an example of SegNet, the improved SegNet has shown improvements of 9.58%, 16.44%, 10.98%, and 7.57% in Dice, IoU, Precision, and Recall metrics, respectively, and the relative errors of elastic properties in terms of bulk modulus, shear modulus, and P- and S- wave velocities decrease by 7.06%, 12.13%, 4.22%, and 6.71%, respectively, and its performance better than the powerful DeepLabv3+ model. The similar improvement is observed in ResSegNet, UNet and ResUNet as introducing edge information, which demonstrates excellent performance on small datasets and lower computational costs and dataset requirements.}
+}

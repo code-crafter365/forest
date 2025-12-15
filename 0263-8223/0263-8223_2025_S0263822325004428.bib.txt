@@ -1,0 +1,13 @@
+@article{MONTENEGRO2025119277,
+title = {AntiVibCorkSTF: eco-friendly vibration attenuator using cork and shear thickening fluids},
+journal = {Composite Structures},
+volume = {368},
+pages = {119277},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119277},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004428},
+author = {Miguel Montenegro and Rui A.S. Moreira and Laura Campo-Deaño and Francisco J. Galindo-Rosales},
+keywords = {Eco-friendly, Cork, Shear thickening, Vibration, Modal analysis},
+abstract = {Vibration is a common issue in daily life, often caused by machine operation, and can lead to material fatigue, accelerated wear of components, noise, and loosening of connection mechanisms. In industrial processes, excessive vibration can affect machining precision and human comfort. Most conventional damping materials, such as viscoelastic pads or sheets, are not eco-friendly and have limited effectiveness under varying conditions, e.g., frequency and temperature dependencies. Cork, a natural cellular material, exhibits inherent damping capabilities, making it a sustainable alternative. This study develops a tuneable nonlinear energy-dissipating material, specifically a vibration attenuator constructed from environmentally friendly composite materials (AntiVibCorkSTF). The design integrates micro-agglomerated cork with an eco-friendly shear thickening fluid (STF), formulated as a dense suspension of precipitated calcium carbonate in glycerol. Three different composite configurations were prepared and tested: (i) an STF-filled cork composite with an engraved microfluidic pattern, (ii) an identical pattern engraved in the agglomerated cork without the STF, and (iii) a pristine cork layer core without engraving. The experimental study followed an Experimental Modal Analysis (EMA) procedure, where dynamic loading was applied using an electrodynamic shaker, and velocity response was measured via laser vibrometry. Modal parameters, including natural frequencies, mode shapes, and damping coefficients, were evaluated from Frequency Response Functions (Mobility). Results indicate that STF-filled composites exhibit higher natural frequencies than their non-STF counterparts, despite the additional mass introduced by the fluid. This behaviour suggests a stiffening effect attributed to the non-Newtonian rheology of STFs, leading to improved flexural rigidity. These findings underscore the potential of AntiVibCorkSTF composites for both mechanical and acoustic vibration applications, while also highlighting the challenges in accurately predicting their dynamic response due to the lack of a constitutive model for STFs.}
+}

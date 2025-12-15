@@ -1,0 +1,12 @@
+@article{TOBIN2025108901,
+title = {Effect of automated tape placement pass frequency on matrix-dominated mechanical properties and microstructure of wound CF/PEEK},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108901},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108901},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001952},
+author = {E. Tobin and H. Ma and R.M. O’Higgins and P.M. Weaver},
+abstract = {Matrix-dominated properties, including Interlaminar Shear Strength, of carbon fibre/PEEK laminates manufactured by laser-assisted automated tape placement are highly influenced by processing parameters selected during manufacturing. In this study, both experimental analysis and a simulation of the thermal characteristics during manufacturing were utilised to determine the influence of processing parameters and laser pass frequency on the quality of the manufactured component. Two cylindrical mandrels with different diameters were used to vary the pass frequency along with various placement rates. While it was determined through mechanical simulations that the geometry of the mandrel did not cause subsequent variations in matrix-dominated mechanical properties, mechanical testing contradicted this finding. Increasing the pass frequency was determined to reduce the void content and increase the Interlaminar Shear Strength. Increasing pass frequency resulted in the substrate temperature remaining near the glass transition temperature for the matrix, with similar effects achieved to that of a heated tool, facilitating further void compaction and increasing the Interlaminar Shear Strength.}
+}

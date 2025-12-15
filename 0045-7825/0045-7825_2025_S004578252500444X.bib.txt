@@ -1,0 +1,13 @@
+@article{RADISIC2025118172,
+title = {Influence of cellular mechano-calcium feedback in numerical models of cardiac electromechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118172},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118172},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500444X},
+author = {Irena Radišić and Francesco Regazzoni and Michele Bucelli and Stefano Pagani and Luca Dede’ and Alfio Quarteroni},
+keywords = {Computational modeling, Cardiac electromechanics, Mechano-electric feedback, Mechano-calcium feedback, Eikonal model},
+abstract = {Multiphysics and multiscale mathematical models enable the non-invasive study of cardiac function. These models often rely on simplifying assumptions that neglect certain biophysical processes to balance fidelity and computational cost. In this work, we propose an eikonal-based framework that incorporates mechano-calcium feedback – the effect of mechanical deformation on calcium–troponin buffering – while introducing only negligible computational overhead. To assess the impact of mechano-calcium feedback at the organ level, we develop a bidirectionally coupled cellular electromechanical model and integrate it into two cardiac multiscale frameworks: a monodomain-driven model that accounts for geometric feedback on electrophysiology and the proposed eikonal-based approach, which instead neglects geometric feedback. By ensuring consistent cellular model calibration across all scenarios, we isolate the role of mechano-calcium feedback and systematically compare its effects against models without it. Our results indicate that, under baseline conditions, mechano-calcium feedback has minimal influence on overall cardiac function. However, its effects become more pronounced in altered force generation scenarios, such as inotropic modulation. Furthermore, we demonstrate that the eikonal-based framework, despite omitting other types of mechano-electric feedback, effectively captures the role of mechano-calcium feedback while achieving an order-of-magnitude speedup over the monodomain-driven model, reinforcing its utility in computational cardiology.}
+}

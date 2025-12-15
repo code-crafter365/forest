@@ -1,0 +1,13 @@
+@article{AHAMED2025102615,
+title = {IgCONDA-PET: Weakly-supervised PET anomaly detection using implicitly-guided attention-conditional counterfactual diffusion modeling — a multi-center, multi-cancer, and multi-tracer study},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102615},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102615},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001247},
+author = {Shadab Ahamed and Arman Rahmim},
+keywords = {Positron emission tomography, Diffusion model, Anomaly detection, Implicit-guidance, Attention-conditioning},
+abstract = {Minimizing the need for pixel-level annotated data to train PET lesion detection and segmentation networks is highly desired and can be transformative, given time and cost constraints associated with expert annotations. Current unsupervised or weakly-supervised anomaly detection methods rely on autoencoder or generative adversarial networks (GANs) trained only on healthy data. While these approaches reduce annotation dependency, GAN-based methods are notably more challenging to train than non-GAN alternatives (such as autoencoders) due to issues such as the simultaneous optimization of two competing networks, mode collapse, and training instability. In this paper, we present the weakly-supervised Implicitly guided COuNterfactual diffusion model for Detecting Anomalies in PET images (IgCONDA-PET). The solution is developed and validated using PET scans from six retrospective cohorts consisting of a total of 2652 cases (multi-cancer, multi-tracer) containing both local and public datasets (spanning multiple centers). The training is conditioned on image class labels (healthy vs. unhealthy) via attention modules, and we employ implicit diffusion guidance. We perform counterfactual generation which facilitates “unhealthy-to-healthy” domain translation by generating a synthetic, healthy version of an unhealthy input image, enabling the detection of anomalies through the calculated differences. The performance of our method was compared against several other deep learning based weakly-supervised or unsupervised methods as well as traditional methods like 41% SUVmax thresholding. We also highlight the importance of incorporating attention modules in our network for the detection of small anomalies. The code is publicly available at: https://github.com/ahxmeds/IgCONDA-PET.git.}
+}

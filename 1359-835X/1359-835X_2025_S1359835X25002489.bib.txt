@@ -1,0 +1,13 @@
+@article{MIAO2025108954,
+title = {Interlayer interface reinforcement strategy of glass fiber for preparing isotropic high-performance photocurable 3D printing polymer composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108954},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108954},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002489},
+author = {Jia-Tao Miao and Binjie Yang and Xinxin Sang and Lixin Wu and Meiying Ge},
+keywords = {3D printing, Glass fiber modification, Interlayer interface reinforcement, Anisotropy},
+abstract = {Photocuring 3D printing has been demonstrated to be a rapid fabrication process for the elaborate and customized three-dimensional structures. Nevertheless, the inferior and anisotropic mechanical properties of the printed structures need to be further researched. In this work, glass fiber (GF) was added as a reinforcing material to construct a photosensitive resin system applicable for digital light processing (DLP) 3D printing. The effects of GF content and print layer thickness on the mechanical properties and anisotropy were systematically studied. Meanwhile, modified GF (GF-KH570) was prepared by the silane coupling agent KH570 to introduce double bonds that can participate in the photocuring reaction to enhance the bonding force between fibers and the resin matrix. The results show that the tensile strength of the 3D printed GF-KH570-reinforced composite reaches up to 74.5 MPa, which is 67.0 % and 16.0 % higher than that of the pure resin and the GF-reinforced composite. With suitable layer thickness, GF penetrates different print layers to play a nailing role between layers, strengthening the interlayer bonding force. The anisotropy of the mechanical properties of the 3D printed GF-KH570-reinforced composite is reduced to 4.2 %, which can be considered as isotropic. A series of complex high-precision structures were fabricated by DLP 3D printing, and their practical application value was verified by loading tests. This work puts forward an interlayer interface reinforcement strategy that can simultaneously improve the mechanical properties and reduce the anisotropy of photocurable resins, which will greatly improve the in-service reliability of these materials and expand their application fields.}
+}

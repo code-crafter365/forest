@@ -1,0 +1,13 @@
+@article{REN2025119023,
+title = {A novel formulation for efficient flutter analysis of rotating composite blades based on referenced nodal coordinate formulation},
+journal = {Composite Structures},
+volume = {359},
+pages = {119023},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119023},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001886},
+author = {Shuangxing Ren and Lei Hou and Tengfei Yuan and Faisal Z. Duraihem and Emad Mahrous Awwad and Nasser.A. Saeed},
+keywords = {Aero engine blades, Rotating graphene platelets, Referenced nodal coordinate formulation, Flutter analysis},
+abstract = {A precise and cost-effective method for flutter analysis is essential for the structural design of aero engine blades. This paper presents an efficient approach that first determines the reference flutter dynamic pressure via the eigenvalue method, followed by a rapid evaluation of the vibration response through the referenced nodal coordinate formulation (RNCF), which is particularly suitable for high-speed rotation, to assess flutter occurrence. The blade is modeled as a rotating plate made of graphene platelet-reinforced metal foam (GPLRMF). The effective material properties are derived from the modified Halpin-Tsai model and the effect of metal foam. The correctness of the structural model is confirmed by comparison with published results. The efficiency is demonstrated by its computational speed, being approximately ten times faster than the absolute nodal coordinate formulation (ANCF). The proposed formulation offers an accurate and efficient tool for obtaining the vibration response and assessing the occurrence of flutter.}
+}

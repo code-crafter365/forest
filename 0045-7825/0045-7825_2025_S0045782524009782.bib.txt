@@ -1,0 +1,13 @@
+@article{BEIRAODAVEIGA2025117722,
+title = {SUPG-stabilized time-DG finite and virtual elements for the time-dependent advection–diffusion equation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117722},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117722},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009782},
+author = {L. {Beirão da Veiga} and F. Dassi and S. Gómez},
+keywords = {Finite element method, Virtual element method, Upwind-discontinuous Galerkin, Streamline-upwind Petrov–Galerkin, Inf–sup stability, Advection–diffusion equation},
+abstract = {We carry out a stability and convergence analysis for the fully discrete scheme obtained by combining a finite or virtual element spatial discretization with the upwind-discontinuous Galerkin time-stepping applied to the time-dependent advection–diffusion equation. A space–time streamline-upwind Petrov–Galerkin term is used to stabilize the method. More precisely, we show that the method is inf–sup stable with constant independent of the diffusion coefficient, which ensures the robustness of the method in the convection- and diffusion-dominated regimes. Moreover, we prove optimal convergence rates in both regimes for the error in the energy norm. An important feature of the presented analysis is the control in the full L2(0,T;L2(Ω)) norm without the need of introducing an artificial reaction term in the model. We finally present some numerical experiments in (3+1)-dimensions that validate our theoretical results.}
+}

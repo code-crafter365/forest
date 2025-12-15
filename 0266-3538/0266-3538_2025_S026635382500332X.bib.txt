@@ -1,0 +1,13 @@
+@article{SUN2025111364,
+title = {A mesoscopic modeling scheme for 3D virtual testing of woven prepregs during forming processes},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111364},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111364},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500332X},
+author = {Deyong Sun and Meiyu Liu and Chongrui Tang and Yuncong Feng and Qingbin Zheng and Weizhao Zhang},
+keywords = {Woven composite prepreg, Mesoscopic modeling, Finite element modeling, Transversely hyperelastic model, 3D deformation modes},
+abstract = {Accurate simulation of the forming processes of woven prepregs at the macroscale requires input of comprehensive material parameters that are typically obtained through extensive experimental characterization, which is resource-intensive and time-consuming. As improvement, an innovative finite element analysis (FEA) modeling scheme was developed at mesoscale for 3D virtual testing of the composite prepregs’ properties under the complex process condition. This modeling scheme was realized through the commercial finite element analysis software Abaqus/Explicit with a user-defined material subroutine (VUMAT). This modeling scheme employs micro-CT based geometry reconstruction, continuum elements and a transversely isotropic hyperelastic constitutive model to simulate yarns as continuous bodies. Physically meaningful parameters are input to the constitutive model to elucidate the deformation mechanism. A finite element (FE) homogenization technique based on reaction force was also established to facilitate correct meso-to-macro transfer of material properties for multiscale simulation, as well as comparison with experimental data, for the fabric composites. Once completed, simulation results from this FEA modeling scheme were validated against a series of experiments typically utilized to characterize prepregs being formed, including uniaxial tension, bias-extension and out-of-plane compaction. The validation demonstrates that this modeling scheme can accurately capture key 3D deformation of the woven composite prepregs at mesoscale under various process conditions, providing a comprehensive tool to numerically identify forming behavior of the prepregs while minimizing the expensive experiments.}
+}

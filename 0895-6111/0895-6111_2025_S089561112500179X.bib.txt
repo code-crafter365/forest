@@ -1,0 +1,13 @@
+@article{WANG2025102670,
+title = {Hallucinated domain generalization network with domain-aware dynamic representation for medical image segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {126},
+pages = {102670},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102670},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500179X},
+author = {Minjun Wang and Houjin Chen and Yanfeng Li and Jia Sun and Luyifu Chen and Peng Liang},
+keywords = {Domain generalization, Medical image segmentation, Dynamic representation},
+abstract = {Due to variations in medical image acquisition protocols, segmentation models often exhibit degraded performance when applied to unseen domains. We argue that such degradation primarily stems from overfitting to source domains and insufficient dynamic adaptability to target domains. To address this issue, we propose a hallucinated domain generalization network with domain-aware dynamic representation for medical image segmentation, which introduces a novel ”hallucination during training, dynamic representation during testing” scheme to effectively improve generalization. Specifically, we design an uncertainty-aware dynamic hallucination module that achieves adaptive transformation through Bézier curves and estimates potential domain shift by introducing the uncertainty-aware offset variable driven by channel-wise variance, generating diverse synthetic images. This approach breaks the limitations of source domain distributions while preserving original anatomical structures, effectively alleviating the model’s overfitting to the specific styles of source domains. Furthermore, we develop a domain-aware dynamic representation module that treats source domain knowledge as a foundation for understanding unknown domains. Concretely, we obtain unbiased estimates of global style prototypes through domain-wise statistical aggregation and the momentum update strategy. Then, input features are mapped to the unified source domain space through global style prototypes and similarity weights, mitigating performance degradation caused by domain shift during the testing phase. Extensive experiments on four heterogeneously distributed fundus image datasets and six multi-center prostate MRI datasets demonstrate that our approach outperforms state-of-the-art methods.}
+}

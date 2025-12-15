@@ -1,0 +1,13 @@
+@article{ZHANG2025104393,
+title = {Boosting few-shot point cloud segmentation with intra-class correlation and iterative prototype fusion},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104393},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104393},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500116X},
+author = {Xindan Zhang and Ying Li and Xinnian Zhang},
+keywords = {3D semantic segmentation, Few-shot learning},
+abstract = {Semantic segmentation of 3D point clouds is often limited by the challenge of obtaining labeled data. Few-shot point cloud segmentation methods, which can learn previously unseen categories, help reduce reliance on labeled datasets. However, existing methods are susceptible to correlation noise and suffer from significant discrepancies between support prototypes and query features. To address these issues, we first introduce an intra-class correlation enhancement module for filtering correlation noise driven by inter-class similarity and intra-class diversity. Second, to better represent the target classes, we propose an iterative prototype fusion module that adapts the query point cloud feature space, mitigating the problem of object variations in the support set and query set. Extensive experiments on S3DIS and ScanNet benchmark datasets demonstrate that our approach achieves competitive performance with state-of-the-art methods.}
+}

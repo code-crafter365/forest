@@ -1,0 +1,13 @@
+@article{LI2025103954,
+title = {Self-supervised representation of non-standard mechanical parts and fine-tuning method integrating macro process knowledge},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103954},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103954},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001150},
+author = {Zirui Li and Maolin Cai and Jiaxin Chen and Fangwei Ning and Zhongliang Xie and Xiaomeng Tong},
+keywords = {Non-standard mechanical parts, Graph neural networks, Transfer learning, Information representation},
+abstract = {In the context of the geometric complexity and process knowledge diversity of non-standard mechanical parts (NSMPs), conventional structured data representation methods cannot effectively express the features of parts. This results in difficulty of part retrieval and low efficiency of process knowledge reuse. To address this problem, we established a multi-layer attributed graph that integrated geometric structure and macro process knowledge to represent NSMPs, and proposed methods for generating geometrically similar samples as well as macro process similar samples. Then, we proposed a pre-training model based on a graph convolutional encoder to embed the geometric structure of parts, which was transferred to supervised classification tasks. In addition, a fine-tuning model incorporating a graph pooling encoder is further introduced, integrating macro process knowledge. This approach enables users to efficiently retrieve parts suitable for design and process reuse through the cosine similarity of embedding, thereby improving the efficiency and accuracy of part retrieval and process reuse. The experimental results show that the pre-training model excels in embedding representation and sample differentiation. Specifically, its transfer learning accuracy in classification tasks reaches 92.6%. Furthermore, we applied fine-tuning to macro process reuse, where the experimentally determined similarity threshold is 0.952, achieving a judgment accuracy of 94.1%.}
+}

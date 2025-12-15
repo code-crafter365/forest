@@ -1,0 +1,13 @@
+@article{REN2025114257,
+title = {Fe3O4 nanomotors loaded with siRNA are used for tumor therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114257},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114257},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005162},
+author = {Jiaoyu Ren and Yanyan Cuan},
+keywords = {Tumor, Ferroptosis, Nanomotors, siRNA},
+abstract = {Excessive iron ion accumulation in cells can trigger apoptosis; however, the balance of iron ions in cells minimizes the effect of excessive iron accumulation. Here, we report a biocompatible nanomotor that reduces the ability of cells to clear iron ions using loaded siRNA. First, catalase and polydopamine were loaded onto Fe3O4 particles by layer-by-layer self-assembly technology to endow the particles with a self-propulsion ability. A nanomotor (NP-siRNA) loaded with siRNA was then prepared by electrostatic action. Nanoparticles (NP) can achieve self-actuation in an aqueous solution with a magnetic field and H2O2 and have good movement ability in water, PBS, and FBS solutions, resulting in greater contact with tumor cells. The results show that the nanomotor has good in vivo and in vitro anti-tumor effects, and good biocompatibility.}
+}

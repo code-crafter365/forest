@@ -1,0 +1,13 @@
+@article{RYABUKHINA2025114746,
+title = {Plasma protein corona of liposomes loaded with a phospholipid–allocolchicinoid conjugate enhances their anti-inflammatory potential},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114746},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114746},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500253X},
+author = {Ekaterina Ryabukhina and Maria Kobanenko and Daria Tretiakova and Ekaterina Shchegravina and Sergey Khaidukov and Anna Alekseeva and Ivan Boldyrev and Viktor Zgoda and Olga Tikhonova and Alexey Yu. Fedorov and Natalia Onishchenko and Elena Vodovozova},
+keywords = {Liposome, Allocolchicinoid-lipid conjugate, Protein corona, Anti-inflammatory effect},
+abstract = {Today colchicine is considered as a possible new treatment for cardiovascular diseases. Its physiological effects have been shown to be primarily due to the intra-leukocyte concentrations. Nanoparticulate formulations could help accumulation of colchicine in phagocytic cells. Previously we formulated liposomes loaded with a colchicine analog in the form of an enzyme-responsive conjugate with phosphatidylcholine (aC-PC) and showed acceptable stability of the formulation in human plasma. Here, we investigated how protein coronas formed on a series of aC-PC-bearing liposomes in human plasma affected their interactions with leukocytes and endothelial cells. Liposome–protein complexes were analyzed by shotgun proteomics. Liposomes 25C with the highest load of aC-PC (25 %) were distinguished by a three times more massive protein corona and specific profile of proteins, including enrichment with ApoD and galectin-3-binding protein, which may affect the inflammation-associated signaling. Differences in the protein coronas did not noticeably affect liposome uptake by cultured monocytes and endotheliocytes, although the level of uptake decreased in the presence of plasma proteins. Nor did the composition of liposomes affect the course of phagocytosis by leukocytes in the blood ex vivo. The effects of protein coronas were manifested in the suppression of the production of inflammatory chemokine MCP-1 (and to a much lesser extent IL-8) by stimulated peripheral blood monocytes about 1.5 times compared with naked liposomes. In the case of liposomes 25C the inhibition was complete. These liposomes are considered the most promising for further preclinical studies.}
+}

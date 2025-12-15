@@ -1,0 +1,13 @@
+@article{MENG2025117668,
+title = {A unified computational framework for modelling continuous and discontinuous media and their interactions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117668},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117668},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009228},
+author = {Jingjing Meng and Xue Zhang and Liang Wang and Chuangbing Zhou},
+keywords = {Continuous and discontinuous modelling, Unified model, FEM-DEM coupling, Monolithic algorithms},
+abstract = {Accurately modelling the interactions between continuous and discontinuous materials is essential for advancing engineering solutions across a wide range of fields. Owing to fundamental differences in the governing equations of discontinuous and continuous numerical models, distinct solution schemes have been developed, presenting challenges for their coupling. This paper proposes a unified scheme for modelling continuous and discontinuous materials, integrating them monolithically by adopting a variational framework for an implicit Discrete Element Method (DEM) and the Finite Element Method (FEM). The seamlessly coupled FEM-DEM model is formulated as a convex optimisation problem, which can be transformed into a standard second-order cone program (SOCP) and solved efficiently using modern optimisation algorithms. The proposed approach has been validated through a series of numerical examples. Additionally, a numerical model test on granular flow against an elastic barrier has been conducted, demonstrating the scheme's capability in modelling the impact dynamics of granular flows and the resulting deformation and stress distribution in structures, which has significant implications for engineering design involving granular material handling.}
+}

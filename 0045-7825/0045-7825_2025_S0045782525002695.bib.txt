@@ -1,0 +1,13 @@
+@article{LIU2025117997,
+title = {Stochastic fracture and fatigue analysis in elasto-plastic materials via virtual modelling techniques},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117997},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117997},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002695},
+author = {Yiyang Liu and Yuan Feng and Di Wu and Xiaojun Chen and Chengwei Yang and Wei Gao},
+keywords = {Stochastic fatigue analysis, Phase field method, Machine Learning, Elasto-plastic materials},
+abstract = {This study presents a stochastic elasto-plastic fracture and fatigue analysis framework, leveraging the phase field method to address the complex fatigue phenomenon. Fatigue behaviour in elasto-plastic materials, governed by the intricate process of plastic damage accumulation, remains pivotal for precisely evaluating structural load-bearing capacities. Transitioning from static fracture analysis to fatigue presents additional challenges, particularly in capturing the cyclic loading effects and progressive damage accumulation, which significantly increase computational demands. These challenges are further exacerbated by system uncertainties, including variations in geometric configurations, material properties, and external loads. To address these difficulties, the proposed framework adopts the predictive capabilities of virtual modelling to systematically elucidate the interdependencies between fatigue responses and uncertain system inputs, providing an efficient alternative to conventional time-consuming numerical simulations. The integration of S-spline polynomial kernel into the extended support vector regression model enhances the training process of the virtual model and demonstrates unparalleled robustness in tackling the challenges of elasto-plastic fracture and fatigue phenomena. Comprehensive numerical investigations, benchmarked against experimental and numerical data, validate the framework's exceptional accuracy and computational efficiency, establishing its versatility for safety and reliability evaluations across static and fatigue scenarios.}
+}

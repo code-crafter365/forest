@@ -1,0 +1,13 @@
+@article{VENKATACHARI2025106831,
+title = {Near-body mesh adaptation for transitional flows using OVERFLOW},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106831},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106831},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002919},
+author = {B. Venkatachari and M. Donello and J. Derlaga and M. Choudhari},
+keywords = {Boundary-layer transition, Transition modeling, Mesh adaptation},
+abstract = {Accurate modeling of boundary-layer transition is an important aspect of developing greener air transport technologies. In that regard, transition models based on auxiliary transport equations offer a robust approach that is easily integrated into the Reynolds-averaged Navier-Stokes (RANS) solvers. Recent workshops under NATO and AIAA have identified the verification of transport-equations-based transition modeling as a critical aspect of reducing the scatter between the predictions of different CFD codes. Follow-on work has highlighted the need for highly dense grids to achieve an asymptotic convergence of transition related flow metrics. The present work examines the role of automatic near-body mesh adaptation in the NASA OVERFLOW CFD solver to enable verification studies in an efficient manner, and for establishing best practices for designing grids for the RANS-based transition models. We propose a sensor function based on a suitably augmented form of the second undivided difference of vorticity magnitude for error-based mesh adaptation of transitional flows. Directly relevant to the Langtry-Menter γ−Reθttransition model, the proposed sensor function is evaluated in the context of canonical configurations consisting of the flat plate and the S809 and NLR-7301 airfoils. The efficacy of the mesh adaptation approach is assessed for flow conditions involving multiple transition scenarios such as natural transition, separation-induced transition, and shock-induced transition. The results indicate that the predicted flow metrics based on the adapted meshes approach the reference predictions based on hand-crafted and uniformly refined meshes, while yielding modest yet significant savings in total grid count. Areas for further improvement in the grid adaptation methodology are also highlighted.}
+}

@@ -1,0 +1,13 @@
+@article{HAO2025111273,
+title = {Construction of “octopus"-like POSS nanostructure triggerring interpenetrating network for high-performance epoxy thermosets and CFRP composites},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111273},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111273},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002416},
+author = {Mengyuan Hao and Jiaming Yang and Chengxi Zhu and Yonggang Zhang and Xin Qian and Jianhai Zhi and Li Liu and Yudong Huang},
+keywords = {Epoxy resin, Synergistic toughening and strengthening, Polyhedral oligomeric silsesquioxane, Physical entanglement, CFRP composite},
+abstract = {Simultaneously toughening and strengthening epoxy thermosets remains the critical challenge in the advancement of high-performance matrices used in advanced carbon fiber reinforced polymers (CFRPs). In this research, a series of “octopus"-like nano-POSS fillers with diverse side-chain structures were synthesized and incorporated as the toughening core in an in-situ interpenetrating network (IPN). This approach aims to achieve synergistic toughening and strengthening through multiple mechanisms, primarily including particle debonding and plastic shear deformation. Firstly, the critical impacts of side-chain structures in POSS on structure-related parameters were systematically investigated, with particular emphasis on physical entanglement and spatial hindrance. It was confirmed that extended flexible linear segments within POSS promoted robust physical entanglement, effectively increasing the cross-link density of the system and thereby enhancing its energy absorption capabilities. As a result, the maximum tensile strength and impact toughness of the matrix reached 105 MPa and 40.3 kJ/m2, respectively, representing a 19.3 % increase in tensile strength and a remarkable 155.1 % improvement in impact toughness compared to pure epoxy. Significant improvements in flexural properties, impact toughness, and interlaminar shear strength (ILSS) of CFRPs have been demonstrated, effectively validating their performance enhancements. Specifically, for the E/V/OCPC composite, the flexural strength and impact toughness were elevated to 473 MPa and 53.8 kJ/m2, marking respective improvements of 20.1 % and 47.0 % over EP composites. The considerable enhancement in the properties of the matrix and composites underscores the efficacy of constructing homogeneous synergistic toughening systems and optimizing the physical entanglement of nanofillers in developing advanced composites with superior performance.}
+}

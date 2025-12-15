@@ -1,0 +1,12 @@
+@article{SATO2025109145,
+title = {State-freezing X-ray CT for fiber-level observation of consolidation phenomenon in composite lay-up defects},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109145},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109145},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004397},
+author = {Masato Sato and Shu Minakuchi},
+abstract = {A new approach called state-freezing X-ray CT is developed to observe the detailed consolidation behavior of composite gap/overlap, major internal defects in automated lay-up. The main idea is freezing and preserving the state of the specimen in the middle of the curing cycle by cooling the curing specimen with cold water, which enables long exposure imaging using high spatial resolution X-ray CT. In addition, 10 µm-diameter tungsten wires are embedded around gap/overlap to track the movement of fibers. This paper first describes the detailed procedure of the developed state-freezing X-ray CT and then applies it to a gap specimen to elucidate the consolidation mechanism at the fiber level. Interesting consolidation behaviors observed in the experiment, such as fiber flow in two directions and deformation relaxation, are discussed using the finite element analysis. A comparison of the consolidation mechanisms between gap and overlap specimens is also presented, showing that majority of the flow deformation occurs in the early stages of consolidation in both cases, despite differences in the dominant flow direction and the presence of resin-rich regions. The results obtained suggest the possibility of reducing flow deformation due to gaps and overlaps by optimizing the heating rate and timing of pressurization.}
+}

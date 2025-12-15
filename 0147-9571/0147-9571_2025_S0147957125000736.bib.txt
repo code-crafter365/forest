@@ -1,0 +1,13 @@
+@article{BALLESTEROSGARCIA2025102365,
+title = {Seroprevalence of Leishmania spp. in pigs farms (Sus scrofa domesticus): Epidemiological insights and zoonotic implications},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {121},
+pages = {102365},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102365},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000736},
+author = {Orla Ballesteros-García and Lola Martínez-Sáez and Ana Lesta and Pablo Jesús Marín-García and Ana Martínez-Guillen and Lola Llobat},
+keywords = {Immune response, , Pig, Seroprevalence, },
+abstract = {Leishmaniasis is a zoonotic disease caused by the Leishmania spp. an intracellular parasite which are transmitted by phlebotomine sand flies. Dogs have traditionally been considered the primary reservoir for Leishmania infantum, predominant agent in the Mediterrenean region. However, this parasite has also been identified in different host species, including wild animals and livestock. The role of farm pigs in the epidemiology of leishmaniasis remains unclear. The objective of this study has been to assess the seroprevalence of Leishmania spp. in farm pigs (Sus scrofa domesticus) from intensive farms in the Eastern Spain, a Mediterranean region. To carry out this study, a total of 94 pigs were tested for Leishmania spp. antibodies by serological test, and epidemiological data were collected regarding sex, age, reproductive status, farm type, and location. The overall seroprevalence of Leishmania spp. was 4.3 %, with a higher prevalence in weaned piglets (2.1 %) compared to new-born piglets and adults (1.1 %). A higher of seroprevalence was found in farrow-to-wean farms than in finishing farms. For the first time, Leishmania spp. antibodies have been detected in farm pigs of Europe, suggesting that these animals could play a role in the maintenance and transmission of this parasite in endemic areas. The results highlight the importance of further studies related to the epidemiology of leishmaniasis including in livestock, and the potential implementation of vector control strategies in farms to reduce transmission risk.}
+}

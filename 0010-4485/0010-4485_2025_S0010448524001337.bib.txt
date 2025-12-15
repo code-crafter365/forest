@@ -1,0 +1,13 @@
+@article{ZHANG2025103806,
+title = {eCAD-Net: Editable Parametric CAD Models Reconstruction from Dumb B-Rep Models Using Deep Neural Networks},
+journal = {Computer-Aided Design},
+volume = {178},
+pages = {103806},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103806},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001337},
+author = {Chao Zhang and Arnaud Polette and Romain Pinquié and Gregorio Carasi and Henri {De Charnace} and Jean-Philippe Pernot},
+keywords = {Editable CAD models, Parametric modeling, CAD model reconstruction, Deep neural networks},
+abstract = {This paper introduces a novel framework capable of reconstructing editable parametric CAD models from dumb B-Rep models. First, each B-Rep model is represented with a network-friendly formalism based on UV-graph, which is then used as input of eCAD-Net, the new deep neural network-based algorithm that predicts feature-based CAD modeling sequences from the graph. Then, the sequences are scaled and fine-tuned using a feature matching algorithm that retrieves the exact parameter values from the input dumb CAD model. The output sequences are then converted in a series of CAD modeling operations to create an editable parametric CAD model in any CAD modeler. A cleaned dataset is used to learn and validate the proposed approach, and is provided with the article. The experimental results show that our approach outperforms existing methods on such reconstruction tasks, and it outputs editable parametric CAD models compatible with existing CAD modelers and ready for use in downstream engineering applications.}
+}

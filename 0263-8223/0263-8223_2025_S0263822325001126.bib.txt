@@ -1,0 +1,13 @@
+@article{XU2025118947,
+title = {Design and energy absorption performance of a new jigsaw-inspired multi-directional self-locking system},
+journal = {Composite Structures},
+volume = {357},
+pages = {118947},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118947},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001126},
+author = {Yao-Yao Xu and Jin-Shui Yang and Hao Han and Peng Yin and Shuang Li and Xu-Chang Liu and Hong-Ze Li and Jing Gao},
+keywords = {Self-locking system, Multi-directional, Energy absorption, Deformation modes},
+abstract = {The self-locking system interlocks with the adjacent cell without additional constraints upon loading, featuring convenient assembly and easy replacement after damage. However, conventional self-locking systems typically offer limited single-directional self-locking performance. In this study, inspired by the jigsaw puzzle, a jigsaw-inspired multi-directional self-locking system (JMSS) comprising concave and convex cells is designed. Thanks to the excellent symmetry of the system, the cells become fully interlocked when loaded in all directions on the surface, and the JMSS exhibits multi-directional load-bearing and energy absorbing capabilities. The deformation modes and energy absorption characteristics of two types of single cells and the JMSS are obtained through quasi-static compression tests, and their results are compared, demonstrating that the JMSS exhibits superior mechanical properties and energy absorption characteristics. Methods of foam-filling and tube-filling are used to explore the enhancement effects of both methods for single cells and the JMSS. Finally, the impact of geometric parameters on the mechanical properties of the system is assessed and compared with the traditional systems, demonstrating that JMSS possesses better multi-directional self-locking properties.}
+}

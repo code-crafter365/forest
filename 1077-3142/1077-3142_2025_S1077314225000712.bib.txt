@@ -1,0 +1,13 @@
+@article{ZUO2025104348,
+title = {Structure perception and edge refinement network for monocular depth estimation},
+journal = {Computer Vision and Image Understanding},
+volume = {256},
+pages = {104348},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104348},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000712},
+author = {Shuangquan Zuo and Yun Xiao and Xuanhong Wang and Hao Lv and Hongwei Chen},
+keywords = {Deep learning, Monocular depth estimation, Multi-scale features, Mixed attention},
+abstract = {Monocular depth estimation is fundamental for scene understanding and visual downstream tasks. In recent years, with the development of deep learning, increasing complex networks and powerful mechanisms have significantly improved the performance of monocular depth estimation. Nevertheless, predicting dense pixel depths from a single RGB image remains challenging due to the ill-posed issues and inherent ambiguity. Two unresolved issues persist: (1) Depth features are limited in perceiving the scene structure accurately, leading to inaccurate region estimation. (2) Low-level features, which are rich in details, are not fully utilized, causing the missing of details and ambiguous edges. The crux to accurate dense depth restoration is to efficiently handle global scene structure as well as local details. To solve these two issues, we propose the Scene perception and Edge refinement network for Monocular Depth Estimation (SE-MDE). Specifically, we carefully design a depth-enhanced encoder (DEE) to effectively perceive the overall structure of the scene while refining the feature responses of different regions. Meanwhile, we introduce a dense edge-guided network (DENet) that maximizes the utilization of low-level features to enhance the depth of details and edges. Extensive experiments validate the effectiveness of our method, with several experimental results on the NYU v2 indoor dataset and KITTI outdoor dataset demonstrate the state-of-the-art performance of the proposed method.}
+}

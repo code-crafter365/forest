@@ -1,0 +1,13 @@
+@article{ZHANG2025111238,
+title = {Stiffness prediction of nanofiber reinforced polymer composites: A micromechanics framework integrating load transfer theory and Mori-Tanaka method},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111238},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111238},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002064},
+author = {Xuyao Zhang and Weiguo Li and Ying Li},
+keywords = {Load transfer, Stiffness prediction, Nanofiber reinforced polymer composites, Analytical modeling},
+abstract = {The low modulus of the polymer matrix imposes significant constraints on load transfer, which frequently impedes the full realization of the superior mechanical properties of nanofiber, leading to a discrepancy where theoretical predictions consistently overestimate experimental results. In this study, we introduced an effective modulus of nanofibers, grounded in the stress transfer mechanism. This enables a more accurate characterization of the fiber's actual reinforcement capability. By integrating this concept with the classical Mori-Tanaka method, a micromechanics framework for stiffness prediction was constructed. The accuracy of the framework is rigorously validated against existing experimental data, affirming its reliability and practicality. Additionally, we extended the applicability of the micromechanics framework to high-temperature environments by incorporating temperature dependent material parameters. This study provides a straightforward and efficient tool for predicting the modulus of nanofiber reinforced polymer composites. Furthermore, through systematic parametric analyses, some profound insights into the complex interactions among fiber reinforcement effects, fiber aspect ratios, and matrix moduli were proposed, which lay a solid foundation for the rational design of advanced composites with optimized performance.}
+}

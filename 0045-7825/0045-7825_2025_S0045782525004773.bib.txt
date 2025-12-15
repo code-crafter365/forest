@@ -1,0 +1,13 @@
+@article{WANG2025118205,
+title = {Co-design of magnetic soft robots with large deformation and contacts via material point method and topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118205},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118205},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004773},
+author = {Liwei Wang},
+keywords = {Co-design, soft robotics, material point method, locomotion, active materials, hard magnetic soft materials},
+abstract = {Magnetic soft robots embedded with hard magnetic particles enable untethered actuation via external magnetic fields, offering remote, rapid, and precise control, which is highly promising for biomedical applications. However, designing such systems is challenging due to the complex interplay of magneto-elastic dynamics, large deformation, solid contacts, time-varying stimuli, and posture-dependent loading. While these challenges are particularly prominent in magnetic soft robots, they are also fundamental and common to responsive materials in general. As a result, most existing research relies on heuristics and trial-and-error methods or focuses on the independent design of stimuli or structures under static conditions. We propose a topology optimization framework for magnetic soft robots that simultaneously designs structures, location-specific material magnetization, and time-varying magnetic stimuli, accounting for large deformations, dynamic motion, and solid contacts. This is achieved by integrating generalized topology optimization with the magneto-elastic material point method, which supports GPU-accelerated parallel simulations and automatic differentiation for sensitivity analysis. We applied this framework to design magnetic robots for various tasks, including multi-task shape morphing and locomotion, in both 2D and 3D. The method autonomously generates optimized robotic systems to achieve target behaviors without requiring human heuristics. Despite the nonlinear physics and large design space, it demonstrates high computational efficiency, completing all cases within minutes. While we focus on magnetic soft robots in this study, the proposed method can be readily extended to other co-design problems involving stimuli-responsive materials with large deformations and complex dynamics. The framework provides a computational foundation for the autonomous co-design of active soft materials in applications such as metasurfaces, drug delivery, and minimally invasive procedures.}
+}

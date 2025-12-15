@@ -1,0 +1,13 @@
+@article{FATHIANNASAB2025114909,
+title = {Unveiling the hidden risks of human exposure to nanomedicine and nanopollutants: Nanoparticle-induced blood barrier disruption and tissue toxicity},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114909},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114909},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004163},
+author = {Mohammad-Hosein Fathian-Nasab and Mohammad-Amin Manavi and Mohadeseh Gelivarisarshari and Seyed-Mojtaba Daghighi and Cordian Beyer and Maryam Baeeri and Nima Sanadgol},
+keywords = {Nanomedicine, Blood-brain barrier, Blood-testis barrier, Blood-placental barrier, Blood-ocular barrier, Tissue toxicity},
+abstract = {The development of nanoparticles (NPs) has been a result of the expanding applications of nanotechnology, which play crucial roles in diagnostics, treatments, and theranostics within medical sciences. Despite their promising applications in medicine and industry, NPs can cross blood-organ barriers, resulting in structural and functional disruptions in the affected organs. Gaining insight into how NPs interact with biological barriers is crucial for reducing potential threats to human health. This study seeks to clarify the key mechanisms through which NPs cause toxicity and to investigate their harmful effects on organs (including the brain, testes, fetus, eyes, and lungs) after penetrating their respective biological barriers. We reviewed existing reports in this area and found that the toxic effects of nanoparticles such as titanium dioxide, poly(amidoamine) dendrimers, cerium oxide, copper, and zinc oxide on blood barriers have been studied more extensively than other NPs. Our results provide valuable insights into the potentially toxic effects of NPs on blood barriers and highlight key molecular pathways involved, such as inflammation, redox imbalance, genotoxicity, organelle dysfunction, and tight junction dysfunction in this process. We emphasize the urgent need for future research to focus on developing safer and more effective NP-based therapies (particularly for sensitive organs such as the brain and eyes) by extending our understanding of the mechanisms underlying their toxicity. Our findings offer important evidence for researchers, pharmaceutical companies, and regulatory agencies, encouraging them to develop clear guidelines and regulations for the safe use and disposal of nanoparticles in health-related applications.}
+}

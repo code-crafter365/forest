@@ -1,0 +1,13 @@
+@article{RESTREPOGARCIA2025103820,
+title = {An Enriched Polyhedral-based Simulation for the Contact Modeling with Form Defects and Mechanical Loads},
+journal = {Computer-Aided Design},
+volume = {180},
+pages = {103820},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103820},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001477},
+author = {Carlos Andrés {Restrepo García} and Yann Ledoux and Nabil Anwer and Vincent Delos and Laurent Pierre and Denis Teissandier},
+keywords = {Geometrical tolerancing, Contact modeling, Form defects, Polyhedra, Sliding contact},
+abstract = {Contact modeling is an important activity in the geometrical and tolerancing management. The research on contact modeling using methods based on sets of constraints has focused on the stack-up functions or graph reductions for the accumulation of geometric variations. Even when the Skin Model paradigm is used to simulate form deviations on mating surfaces, the impact of disregarding those deviations has not been formally discriminated. In this paper, an enriched polyhedral-based approach for the contact modeling of mechanisms is proposed. The contact is simulated through a rigid body model with no frictional forces based on the screw theory. In this method, the external loadings on the mechanism are translated into an additional half-space in the polyhedron that imposes an additional restriction to the polyhedron operand. By explicitly including the external mechanical loadings, the impact of the form deviations on a functional condition can be discriminated precisely. In this paper, a case study of a sliding contact between two mating parts of a spectrometer is presented to further illustrate the method advantages.}
+}

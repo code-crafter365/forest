@@ -1,0 +1,13 @@
+@article{IKNE2025104555,
+title = {eMotion-GAN: A motion-based GAN for photorealistic and facial expression preserving frontal view synthesis},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104555},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104555},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002784},
+author = {Omar Ikne and Benjamin Allaert and Ioan Marius Bilasco and Hazem Wannous},
+keywords = {Facial expressions, Frontal view synthesis, Optical flow, Motion warping, Generative adversarial networks},
+abstract = {Facial expression recognition (FER) systems frequently suffer significant performance degradation when confronted with head pose variations, a pervasive challenge in real-world applications ranging from healthcare monitoring to human–computer interaction. While existing frontal view synthesis (FVS) methods attempt to address this issue, they predominantly operate in the appearance domain, often introducing artifacts that distort the subtle motion patterns crucial for accurate expression analysis. We present eMotion-GAN, a two-stage generative motion-domain framework that fundamentally rethinks frontalization by decomposing facial dynamics into two distinct components: (1) expression-related motion stemming from muscle activity, and (2) pose-related motion acting as noise. We conducted extensive evaluations using several widely recognized dynamic FER datasets, which encompass sequences exhibiting various degrees of head pose variations in both intensity and orientation. Our results demonstrate the effectiveness of our approach in significantly reducing the FER performance gap between frontal and non-frontal faces. Specifically, we achieved a FER improvement of up to +5% for small pose variations and up to +20% improvement for larger pose variations. Code and pre-trained models are available at: https://github.com/o-ikne/eMotion-GAN.git.}
+}

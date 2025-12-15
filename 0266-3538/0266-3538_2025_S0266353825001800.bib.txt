@@ -1,0 +1,13 @@
+@article{JAKUBCZAK2025111212,
+title = {Enhancement of numerical model of low-velocity impact response of fibre metal laminates by adaptation of non-homogenous cohesive zone model and microstructural anisotropy of metal layers},
+journal = {Composites Science and Technology},
+volume = {268},
+pages = {111212},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111212},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001800},
+author = {Patryk Jakubczak and Piotr Podolak and Katarzyna Biruk-Urban and Jarosław Bieniaś},
+keywords = {Fibre metal laminates (FML), Low-velocity impact (LVI), Cohesive zone model (CZM), Finite element analysis (FEA), Damage analysis},
+abstract = {This study enhances the numerical modelling of low-velocity impact (LVI) in fibre metal laminates (FMLs) by incorporating a non-homogeneous cohesive zone model (CZM) and accounting for the microstructural anisotropy of metal layers. Traditional CZM implementations often assume uniform crack energy values along fibre orientation, disregarding variations in delamination propagation paths and anisotropic properties of rolled metal sheets. To address these limitations, this research introduces an anisotropic CZM (ACZM) and an anisotropic metal layer model (AML) to improve damage prediction fidelity. The proposed approach is validated through four compared finite element analyses (FEA) of CARALL laminates subjected to LVI (conventional, and modified in terms of non-homogenous micro-mechanical properties of FML components), also comparing numerical predictions with experimental drop-weight impact tests. Results demonstrate that ACZM stabilizes force-time responses and enhances the accuracy of delamination pattern, while AML improves impact resistance predictions, though it slightly reduces laminate stiffness. A combined ACZM-AML model exhibits the lowest prediction error (nearly five percent) while maintaining computational efficiency. The study confirms that accounting for interfacial variability and metal layer anisotropy significantly refines LVI simulations, providing more accurate insights into delamination initiation and propagation in FMLs.}
+}

@@ -1,0 +1,13 @@
+@article{TRUSCA2025104292,
+title = {DM-Align: Leveraging the power of natural language instructions to make changes to images},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104292},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104292},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000153},
+author = {Maria-Mihaela Trusca and Tinne Tuytelaars and Marie-Francine Moens},
+keywords = {Text-guided visual–textual reasoning and generation, Text-based image editing, Word alignments, Diffusion masking, Image segmentation},
+abstract = {Text-based semantic image editing assumes the manipulation of an image using a natural language instruction. Although recent works are capable of generating creative and qualitative images, the problem is still mostly approached as a black box sensitive to generating unexpected outputs. Therefore, we propose a novel model to enhance the text-based control of an image editor by explicitly reasoning about which parts of the image to alter or preserve. It relies on word alignments between a description of the original source image and the instruction that reflects the needed updates, and the input image. The proposed Diffusion Masking with word Alignments (DM-Align) allows the editing of an image in a transparent and explainable way. It is evaluated on a subset of the Bison dataset and a self-defined dataset dubbed Dream. When comparing to state-of-the-art baselines, quantitative and qualitative results show that DM-Align has superior performance in image editing conditioned on language instructions, well preserves the background of the image and can better cope with long text instructions.}
+}

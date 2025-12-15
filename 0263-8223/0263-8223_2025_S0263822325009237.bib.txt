@@ -1,0 +1,13 @@
+@article{CHEN2025119758,
+title = {Molecular dynamics insights into temperature-dependent interfacial properties and failure behaviors of carbon fiber/epoxy composites},
+journal = {Composite Structures},
+volume = {374},
+pages = {119758},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119758},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009237},
+author = {Jingjing Chen and Bo Li and Bohong Gu and Baozhong Sun},
+keywords = {Carbon fiber, Epoxy resin, Interface, Temperature dependence, Multiscale damages, Molecular dynamics},
+abstract = {Understanding the temperature-dependent mechanical properties and failure mechanisms is essential for optimizing the design of aircraft structural components. This study investigates the interfacial properties and failure behaviors of carbon fiber/epoxy composites across a temperature range from 173 K to 453 K by employing experiments and molecular dynamics (MD) simulations. Macroscale analysis indicates that the flexural modulus and strength decrease by 88.16 % and 94.51 % in three-point bending tests conducted at 453 K compared with those at 173 K. At the mesoscale, fiber breakage and resin cracking are the dominant failure modes at low temperatures, whereas interfacial delamination becomes predominant at high temperatures. Nanoscale simulations reveal that temperature-induced damage accumulates progressively within the microstructure. The carbon fiber-epoxy resin interface is especially susceptible to delamination under high temperatures owing to enhanced molecular mobility and structural disorder. The microstructure exhibits increased instability under tensile loading, suggesting the potential initiation of cracks and subsequent failure in the tensile regions of macroscopic components.}
+}

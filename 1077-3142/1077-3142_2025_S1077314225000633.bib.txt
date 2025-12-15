@@ -1,0 +1,13 @@
+@article{VERMA2025104340,
+title = {Syntactically and semantically enhanced captioning network via hybrid attention and POS tagging prompt},
+journal = {Computer Vision and Image Understanding},
+volume = {255},
+pages = {104340},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104340},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000633},
+author = {Deepali Verma and Tanima Dutta},
+keywords = {Deep neural network, Hybrid attention, Hierarchical decoder, Part-of-speech, Video captioning},
+abstract = {Video captioning has become a thriving research area, with current methods relying on static visuals or motion information. However, videos contain a complex interplay between multiple objects with unique temporal patterns. Traditional techniques struggle to capture this intricate connection, leading to inaccurate captions due to the gap between video features and generated text. Analyzing these temporal variations and identifying relevant objects remains a challenge. This paper proposes SySCapNet, a novel deep-learning architecture for video captioning, designed to address this limitation. SySCapNet effectively captures objects involved in motions and extracts spatio-temporal action features. This information, along with visual features and motion data, guides the caption generation process. We introduce a groundbreaking hybrid attention module that leverages both visual saliency and spatio-temporal dynamics to extract highly detailed and semantically meaningful features. Furthermore, we incorporate part-of-speech tagging to guide the network in disambiguating words and understanding their grammatical roles. Extensive evaluations on benchmark datasets demonstrate that SySCapNet achieves superior performance compared to existing methods. The generated captions are not only informative but also grammatically correct and rich in context, surpassing the limitations of basic AI descriptions.}
+}

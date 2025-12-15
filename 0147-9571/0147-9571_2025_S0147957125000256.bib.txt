@@ -1,0 +1,13 @@
+@article{SALHI2025102317,
+title = {First report on the seroprevalence of Egg Drop Syndrome Virus-76 in laying hen flocks in Algeria},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {118},
+pages = {102317},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102317},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000256},
+author = {Omar Salhi and Samia Ameziane and Mohamed Rahal and Mustapha Nabi and Meriem Tahraoui and Chafik Redha Messaï and Aziz Lounas and Nassim Ouchene and Nadjet Amina {Khelifi Touhami}},
+keywords = {Egg Drop Syndrome, Egg-laying fall, Epidemiological, ELISA, Risk factors},
+abstract = {Egg Drop Syndrome (EDS-76), caused by an avian hemagglutinating adenovirus, results in economic losses by reducing egg production and eggshell quality. This study investigated EDS-76 occurrence in 35 Algerian commercial laying hen flocks (10,000–150,000 birds, aged 24–62 weeks), identified risk factors, and assessed diagnostic methods. A total of 1400 birds were sampled, and their serum was analyzed using indirect ELISA to evaluate seroprevalence and contributing factors. Out of 35 tested flocks, 19 (54.28 %) were seropositive. Highest prevalence (48.57 %, p < 0.01) was observed in summer. Significant strain differences were observed (p < 0.01), with ISA Brown showing the highest prevalence (42.85 %) and Hy-line the lowest (14.28 %). Higher bird density per cage (>5 birds) was associated with increased prevalence (85.71 %, p < 0.0001), as was inadequate hygiene (65.71 %, p < 0.001). Vaccination had a protective effect, reducing prevalence (40 % vs. 73.33 %, p < 0.0001). High mortality rates (>5 %) and severe (>40 %) or prolonged (>3 weeks) egg-laying drops significantly increased risk (p < 0.03). Abnormal eggshell quality was strongly linked to high prevalence (80 %, p < 0.0001). Timing of egg-laying drops also mattered, with the peak laying period showing the highest prevalence (57.14 %, p < 0.04). To prevent and manage EDS-76, it is crucial to enhance biosecurity and hygiene, reduce bird density, implement tailored vaccination programs, and conduct regular serological surveillance. Optimized management during summer, farmer awareness, and targeted national policies will help minimize economic losses and improve productivity in commercial laying hen flocks.}
+}

@@ -1,0 +1,13 @@
+@article{MILLER2025118297,
+title = {A coupled multiscale model of the human cornea accounting for the collagenous microstructure and the extracellular matrix},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118297},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118297},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005699},
+author = {Christopher Miller and Maria Laura {De Bellis} and Anna Pandolfi},
+keywords = {Cornea, Biological composite, Continuum, Microstructural modeling, Collagen, Crosslinks},
+abstract = {The cornea is an ocular tissue that forms the clear outermost layer of the eye. Its highly specialized content and organization provide the cornea with mechanical properties that allow it to maintain its spherical shape under the action of intraocular pressure, a factor vital to its function within the eye’s refractive system. We propose a coupled multiscale finite element model of the human cornea, where the tissue microstructure is upscaled in terms of a nonlinear trusswork of discrete structural elements, accounting for the stroma’s distinctive collagen-crosslink lamellar architecture, and superpose it with continuum solid elements describing the non-collagenous extracellular matrix. As such, the cornea is regarded as a biological composite material with strongly nonlinear properties within a finite kinematics framework. The constitutive description is applied to a patient-specific geometry derived from corneal topography images, model parameters are calibrated to experimental pressure-inflation data, thus providing mechanical behavior representative of the healthy cornea, and the influence of the geometric discretization is also investigated. Most importantly, the presented framework is applied to the evolution of keratoconus, a pathology characterized by the localized protrusion and thinning of the cornea. We demonstrate that the outlined model, despite using relatively simplistic methods, albeit in a novel and innovative way, reproduces the formation of a conus to an extent more closely resembling clinical observations than previously reported approaches.}
+}

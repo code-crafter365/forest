@@ -1,0 +1,13 @@
+@article{MOHAMMADIAN2025117723,
+title = {A multi-GPU based high-performance computing framework in elastodynamics simulation using octree meshes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117723},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117723},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009794},
+author = {Shayan Mohammadian and Ankit S. Kumar and Chongmin Song},
+keywords = {GPU computing, High performance computing, Seismic wave propagation, CUDA, Octree mesh, Scaled boundary finite element method},
+abstract = {This paper proposes a high-performance computing framework for large-scale elastodynamic analysis utilizing Graphics Processor Units (GPUs). The study adopts an octree algorithm for automatic mesh generation. The scaled boundary finite element method (SBFEM) is employed with the octree mesh, eliminating hanging nodes between octree cells with different sizes. This approach significantly reduces the computational cost and memory requirement by exploiting the limited number of master cells in a balanced octree grid, and is advantageous for GPU computation. The parallelization is achieved through mesh-partitioning techniques and message-passing-interface (MPI) directives, complemented by the NVIDIA Collective Communication Library (NCCL) for optimal point-to-point communication between GPUs in high-performance computing (HPC) facilities. The HPC framework is implemented for both explicit and implicit dynamic analysis. The preconditioned conjugate gradient method is employed for the equation solution in the implicit analysis. Numerical examples are presented for validation of the implementation and for demonstrating the capabilities of the GPU implementation. An image-based 3D model representing a portion of the Moon’s complex surface is simulated with a layered structure comprising of approximately 440 million degrees of freedom. Using the explicit solver, a speed-up of 865 is achieved on a single computational node equipped with eight NVIDIA A100 GPUs in parallel. A 3D virtual city comprising of approximately 61 million degrees of freedom is modelled using the implicit solver.}
+}

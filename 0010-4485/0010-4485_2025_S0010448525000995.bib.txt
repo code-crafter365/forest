@@ -1,0 +1,13 @@
+@article{LIU2025103938,
+title = {ANIR: Adaptive Neural Implicit Representation for 3D shape reconstruction and generation},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103938},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103938},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000995},
+author = {Kun Liu and Yan Zhang and Yanwen Guo and Jie Guo},
+keywords = {Shape reconstruction, Shape generation, Shape representation, Diffusion models, Generative models},
+abstract = {Localized neural implicit representations have shown great potential in reconstructing and generating high-quality 3D shapes. However, current works usually decompose shapes in a deterministic manner by uniformly sampling points and encoding these points to latent code. In contrast, we utilize learnable positions and associated latent codes for each of these positions. By adopt the transformer encoder–decoder architecture, we can extract position of interest from a given 3D surface and encode latent feature for each position. The learned positions enable the allocation of more latent vectors to complex areas and fewer in flatter areas, resulting in greater flexibility and efficiency with a limited number of latent vectors. In addition, we show that our proposed representation is compatible with generative models. By decomposing the generation of latent positions and code vectors, we can utilize the diffusion models to generate proposed representation and extract high-quality 3D shapes. Experiments show our method achieve better reconstruction performance compared to existing methods using the same number of latent vectors, and comparable result with SOTA generative models. We show our model can generative novel shapes under various conditions, including category-conditioned, text-conditioned, image-conditioned, and unconditional generation.}
+}

@@ -1,0 +1,13 @@
+@article{BALDE2025115064,
+title = {In vitro anti-inflammatory effects of alginate sulfate and optimization of alginate sulfate/PVA/CA-based microneedle system},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115064},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115064},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005715},
+author = {Akshad Balde and Rasool Abdul Nazeer},
+keywords = {Alginate sulfate, Oxidative stress, Inflammation, Microneedle patch, Protein delivery},
+abstract = {Polymeric modification and transdermal delivery are rapidly growing fields. In this study, alginate sulfate (AlgS) was synthesized with varying degrees of sulfation using chlorosulfonic acid. The results indicated a greater level of sulfation for the reaction with increased chlorosulfonic content. Moreover, spectroscopic investigation revealed characteristic functional peaks indicating the successful integration of the sulfate group. The results of anti-inflammatory tests showed that AlgS-3 (prepared with 5 % chlorosulfonic acid v/v) exhibited greater anti-inflammatory properties within the concentration range of 0.5–2 % w/v. In addition, both murine and human fibroblast cells demonstrated that the formulated AlgS-3 exhibited no toxicity and effectively inhibited elevated nitrite levels at greater concentrations. Furthermore, when the AlgS-3 concentration was increased to 2 % w/v, the levels of inflammatory mediators were decreased in fibroblast cells. To further explore advanced delivery systems, microneedle patches were prepared with AlgS-3 and poly-vinyl alcohol crosslinked with citric acid and optimized using response surface methodology. The optimized microneedle formulations (7.83 % w/v PVA; 1.84 % w/v AlgS-3; 3.46 % w/v citric acid; 500 μm microneedle length) demonstrated high encapsulation efficiency of the model protein BSA. Protein release studies revealed a sustained release profile, with approximately 80 % of BSA released within one hr. Cytotoxicity assays on murine and human fibroblast cells confirmed the biocompatibility of the microneedle patches, with cell viability exceeding 90 %. These AlgS/PVA microneedles are designed for localized transdermal delivery in inflammatory skin and joint disorders. Compared to conventional anti-inflammatory materials, they can offer enhanced biocompatibility, reduced systemic toxicity, and sustained protein release for improved therapeutic outcomes.}
+}

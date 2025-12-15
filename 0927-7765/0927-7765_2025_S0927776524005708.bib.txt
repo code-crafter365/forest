@@ -1,0 +1,13 @@
+@article{DECASTILHO2025114311,
+title = {Mono- and di-rhamnolipids mixtures from Pseudomonas aeruginosa for use in extreme conditions of pre- and post-salt oil reservoirs compared with synthetic surfactants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114311},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114311},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005708},
+author = {Lívia Vieira Araujo {de Castilho} and Alan Magalhães Duarte and Ilson Paranhos Pasqualino and Joab Sampaio {de Sousa} and Fábio C.S. Nogueira and José Gregório Cabrera Gomez and Lucy Seldin and Denise Maria Guimarães Freire},
+keywords = {Biosurfactants, Rhamnolipids, Enhanced oil recovery, Post-salt, Pre-salt, Interfacial tension},
+abstract = {Rhamnolipids are multipurpose molecules known as natural glycolipid biosurfactants that are often biosynthesized by Pseudomonas aeruginosa strains. They are readily biodegradable, have less impact on the environment and are less toxic than conventional surfactants. They can be applied in ex situ microbial enhanced oil recovery. However, there is still a lack of knowledge concerning the drastic environmental conditions of post and pre-salt reservoirs. In this study, different mixtures with different proportions of homologs of rhamnolipids from two genetically modified strains (GMOs) of P. aeruginosa and a non-GMO strain compared to commercial surfactants (Arquad C-50 and/or Ultrasperse II®) regarding their efficiency under high pressure, temperature and salinity conditions. Wettability reversal and interfacial tension tests were performed together with central composite rotational designs. Both genetically modified P. aeruginosa strains produced mainly di-rhamnolipids, whereas the non-GMO strain produced approximately 50 % mono- and 50 % di-rhamnolipids. Rhamnolipids and Arquad C-50 reversed 100 % of the wettability under pre-salt and post-salt conditions, whereas Ultrasperse II® achieved 73.3 % and 34.2 % (100 ppm) wettability, respectively. Interfacial tension presented the lowest values for rhamnolipids, with values of 0.4 mN/m and 0.5 mN/m, whereas Ultrasperse II® presented values of 2.6 and 2.5 mN/m, respectively under post-salt and pre-salt conditions at the +1 level of the tested variables. All rhamnolipid congeners tested here were more effective under post and pre-salt reservoirs conditions than commercial surfactants, thus expanding their potential for use not only in environmental bioremediation but also in oil industry processes.}
+}

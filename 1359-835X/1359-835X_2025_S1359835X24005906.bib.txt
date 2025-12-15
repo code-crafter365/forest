@@ -1,0 +1,13 @@
+@article{MAY2025108592,
+title = {A new ISO standard for the experimental characterization of in-plane permeability of fibrous reinforcements},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108592},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108592},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005906},
+author = {D. May and S.G. Advani and M. Duhovic and A. Endruweit and E. Fauster and A. George and P.-J. Liotier and C. Lira and S.V. Lomov and M.F. Pucci and S. Schmeer and D. Abliz and D.C. Berg and C. Binetruy and M. Bodaghi and S. Comas-Cardona and M. Etchells and Q. Govignon and A. Koorevaar and V. Michaud and C.H. Park and R. Schubnel and P. Sousa and R. Ravel and M. Rouhi and E. Syerko and R. Umer and M. Vollmer and A. Yong},
+keywords = {A. Fabrics/textiles, B. permeability, C. Process Modeling, E. Resin transfer molding, E. Resin flow},
+abstract = {During Liquid Composite Molding, a fibrous reinforcement is impregnated with liquid resin. Process design requires knowledge of the reinforcement permeability for fluid flow, but until recently, there has been no standard available for its measurement. In 2023, following decades of benchmarking activities and a standardization project, an ISO standard for the experimental characterization of in-plane permeability of fibrous reinforcements for liquid composite molding was finally published. It focuses on the experimental characterization of unsaturated in-plane permeability and specifies the requirements for test equipment, methods and data analysis. Given the deficiency of standardized procedures within the composites industry, this paper intends to provide an example of the steps towards standardization and summarizes lessons learned. It illustrates the research milestones that led to the establishment of the standard, promotes the standard by detailing its general content and notable features and finally gives explanations and reasoning behind the developed guidelines.}
+}

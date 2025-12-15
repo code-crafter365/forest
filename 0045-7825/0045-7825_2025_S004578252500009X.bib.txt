@@ -1,0 +1,13 @@
+@article{MALLY2025117737,
+title = {Tree–cotree-based tearing and interconnecting for 3D magnetostatics: A dual–primal approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117737},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117737},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500009X},
+author = {Mario Mally and Bernard Kapidani and Melina Merkel and Sebastian Schöps and Rafael Vázquez},
+keywords = {IGA, IETI, Dual–primal, Tree–cotree gauging, Magnetostatics},
+abstract = {The simulation of electromagnetic devices with complex geometries and large-scale discrete systems benefits from advanced computational methods like IsoGeometric Analysis and Domain Decomposition. In this paper, we employ both concepts in an Isogeometric Tearing and Interconnecting method to enable the use of parallel computations for magnetostatic problems. We address the underlying non-uniqueness by using a graph-theoretic approach, the tree–cotree decomposition. The classical tree–cotree gauging is adapted to be feasible for parallelization, which requires that all local subsystems are uniquely solvable. Our contribution consists of an explicit algorithm for constructing compatible trees and combining it with a dual–primal approach to enable parallelization. The correctness of the proposed approach is proved and verified by numerical experiments, showing its accuracy, scalability and optimal convergence.}
+}

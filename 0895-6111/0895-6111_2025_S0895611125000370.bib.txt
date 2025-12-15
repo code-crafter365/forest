@@ -1,0 +1,13 @@
+@article{ORELLANA2025102528,
+title = {Automatic colon segmentation on T1-FS MR images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102528},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102528},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000370},
+author = {Bernat Orellana and Isabel Navazo and Pere Brunet and Eva Monclús and Álvaro Bendezú and Fernando Azpiroz},
+keywords = {Medical image analysis, MRI colon segmentation, Multimodality registration, Gastroenterology, Colon contents},
+abstract = {The volume and distribution of the colonic contents provides valuable insights into the effects of diet on gut microbiotica involving both clinical diagnosis and research. In terms of Magnetic Resonance Imaging modalities, T2-weighted images allow the segmentation of the colon lumen, while fecal and gas contents can be only distinguished on the T1-weighted Fat-Sat modality. However, the manual segmentation of T1-weighted Fat-Sat is challenging, and no automatic segmentation methods are known. This paper proposed a non-supervised algorithm providing an accurate T1-weighted Fat-Sat colon segmentation via the registration of an existing colon segmentation in T2-weighted modality. The algorithm consists of two phases. It starts with a registration process based on a classical deformable registration method, followed by a novel Iterative Colon Registration process that utilizes a mesh deformation approach. This approach is guided by a probabilistic model that provides the likelihood of the colon boundary, followed by a shape preservation process of the colon segmentation on T2-weighted images. The iterative process converges to achieve an optimal fit for colon segmentation in T1-weighted Fat-Sat images. The segmentation algorithm has been tested on multiple datasets (154 scans) and acquisition machines (3) as part of the proof of concept for the proposed methodology. The quantitative evaluation was based on two metrics: the percentage of ground truth labeled feces correctly identified by our proposal (93±5%), and the volume variation between the existing colon segmentation in the T2-weighted modality and the colon segmentation computed in T1-weighted Fat-Sat images. Quantitative and medical evaluations demonstrated a degree of accuracy, usability, and stability concerning the acquisition hardware, making the algorithm suitable for clinical application and research.}
+}

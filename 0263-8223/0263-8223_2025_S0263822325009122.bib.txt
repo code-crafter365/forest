@@ -1,0 +1,13 @@
+@article{LI2025119747,
+title = {A few-shot explainable machine learning based framework for designing impact resistance in composite sandwich structures},
+journal = {Composite Structures},
+volume = {374},
+pages = {119747},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119747},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009122},
+author = {Zhongyu Li and Xinyu Ma and Yiqun Liu and Chunming Ji and Xingquan Wang and Jianfeng Wang and Bing Wang},
+keywords = {Lightweight design, Sandwich structure, Explainable machine learning, Small data, Multi-objective optimization},
+abstract = {Composite sandwich structures, due to its superior mechanical properties and lightweight performance, are considered ideal materials for safety components in electric vehicles. Machine learning provides a compelling solution to design it rapidly. However, the limited data availability and extensive design parameters pose significant challenges to its impact resistance design. To address these, we propose a few-shot explainable machine learning based framework (FEMF), a novel framework that seamlessly integrates data augmentation method, explainable machine learning prediction models and multi-objective genetic algorithm optimization. Our approach introduces three core innovations: (1) a constraint-enhanced Wasserstein GAN with gradient penalty (WGAN-GP) is proposed for data augmentation; (2) several machine learning techniques are employed to uncover the intricate nonlinear relationships between the impact resistance and material parameters; (3) explainability analysis is used for impact resistance optimization strategy. Experiments demonstrate that the adapted WGAN-GP enlarges the data size and its diversity with the Wasserstein distance of 10.3638. Only small data are needed to perform inverse design. Based on the explainability analysis, the number of design parameters was reduced from 33 to 13, achieving an average reduction of 23% in optimization time. A comparative analysis with simulation and other algorithms demonstrated the effectiveness and superiority of FEMF.}
+}

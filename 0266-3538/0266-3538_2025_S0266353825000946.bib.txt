@@ -1,0 +1,13 @@
+@article{DELBARIANINEJAD2025111126,
+title = {On the development of mode II interlaminar damage-tolerant additive manufactured continuous fiber-reinforced polymers: An interlaminar hybridization strategy},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111126},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111126},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000946},
+author = {Ali Delbariani-Nejad and Lin Ye and Yi Xiong},
+keywords = {Hybridization, Damage-tolerant design, Delamination, Interlaminar fracture toughness, Toughening mechanisms},
+abstract = {Weak interlaminar bonding in 3D-printed continuous fiber-reinforced polymers (CFRP) results from inadequate interdiffusion during fabrication, leading to delamination, which is the most catastrophic failure mode. This poses a significant limitation in the application of 3D-printed CFRP. While recent studies have focused primarily on characterizing fracture toughness, a substantial gap remains in developing innovative interlaminar damage-tolerant designs. The main contribution of this study is to implement an interlaminar hybridization strategy using a co-extrusion process that integrates carbon fibers, known for their low toughness, with Kevlar, which offers superior fracture toughness, to improve resistance to mode II delamination propagation. End-notched flexure (ENF) tests are conducted to characterize the initiation and propagation fracture toughness at pure carbon (C//C), pure Kevlar (K//K), and hybrid (C//K) interfaces using the compliance calibration method (CCM), direct beam theory (DBT), and compliance-based beam theory (CBBM). The most significant finding is that hybridization results in a remarkable difference of 709% in propagation toughness at the C//K interface, demonstrating a rising R-curve compared to the unstable delamination growth observed at the C//C interface.Fractographic analysis indicates that extensive Kevlar bridging behind the crack tip is the primary toughening mechanism. Furthermore, hybridization creates an intrinsic fracture process zone ahead of the crack, significantly enhancing energy absorption. The interaction between carbon and Kevlar, which leads to carbon pull-out, is identified as a positive side effect of hybridization. These findings provide critical insights into interlaminar bonding mechanisms influenced by hybridization, highlighting the potential for next-generation 3D-printed composites in real applications employing a damage-tolerant design philosophy.}
+}

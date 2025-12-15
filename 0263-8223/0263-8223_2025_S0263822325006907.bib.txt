@@ -1,0 +1,13 @@
+@article{GAO2025119525,
+title = {Recent advances in machine learning-assisted design of additive manufacturing metastructures: a review},
+journal = {Composite Structures},
+volume = {372},
+pages = {119525},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119525},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006907},
+author = {Shuailong Gao and Yingjian Sun and Li Xi and Tian Zhao and Yixing Huang and Rujie He and Xiao Kang and Ying Li},
+keywords = {Machine learning, Metastructures, Structural design, Additive manufacturing},
+abstract = {Additive manufacturing has mitigated the fabrication challenges of metastructures, but achieving optimal performance and determining the corresponding structural parameters continue to pose a significant challenge. This review highlighted recent advancements in the design of additive manufacturing metastructures by machine learning models. It outlined machine learning-based design frameworks and various computational systems to reveal the relationships between structural parameters and their associated properties. The results showed that machine learning can significantly assist the design of metastructures fabricated from diverse additive manufacturing materials, including polymers, metals, and resins. In particular, generative adversarial networks and artificial neural networks were proposed and showed great potential. However, the predictability of machine learning model was constrained by the quantity and quality of available data. Integrating machine learning with physical knowledge was shown to provide valuable insights and improve design reliability. Finally, this review summarized and analyzed challenges and perspectives on the application of machine learning models. Overall, this review offers new perspectives and methodologies to accelerate the design of metastructures, explore innovative structural, and establish connections between structural parameters and performance.}
+}

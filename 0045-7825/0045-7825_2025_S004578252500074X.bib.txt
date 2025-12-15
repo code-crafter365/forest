@@ -1,0 +1,13 @@
+@article{SAMEER2025117802,
+title = {Dynamic particle packing to generate complex geometries},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117802},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117802},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500074X},
+author = {Muhammad Sameer and C. {Fred Higgs}},
+keywords = {Discrete element method, Sphere packing, Dynamic and geometric methods, Contact model, Bond model, Explicit time integration, Bonded-particle structure},
+abstract = {Analyzing the discrete nature of solid structures is crucial, particularly in situations where system behavior relies on material discontinuities, such as fracture and wear, along with their subsequent effects. It is not only essential to investigate when failure or discontinuity occurs within a material, but also how it unfolds and impacts its surroundings. While numerical methods serve as effective tools for analyzing structural behavior, continuum-based approaches may not provide a comprehensive view when dealing with discontinuities in a material. Discrete models provide the capability to simulate these discontinuities by bonding discrete elements (particles) together, thereby also simulating continuum behavior. However, the challenge lies in packing these particles within a complex-shaped structure. The dynamic packing approach excels in generating a tightly packed, randomly arranged bonded-particle structure with consistent mechanical behavior. However, it struggles when it comes to generating complex geometries. Conversely, the geometric approach is proficient at generating complex structures but lacks the reliability needed to simulate engineering materials. The method outlined in this paper represents the first attempt to dynamically pack particles within a complex geometry while maintaining all the necessary mechanical properties to accurately model isotropic engineering materials. Such precision in structure and methodology is vital for calibrating the bonds, ensuring that the bonded-particle structure behaves similarly to real materials. As an example, several bonded-particle structures are generated and tested to demonstrate the complexity of their shapes and their realistic mechanical behavior.}
+}

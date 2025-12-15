@@ -1,0 +1,11 @@
+@article{QAYYUM2025109100,
+title = {Corrigendum to “On the printability and inter-layer adhesion in 3D printing of continuous carbon fibre reinforced PEEK composite using tape and filament” [Compos. Part A: Appl. Sci. Manufact. 190 (2025) 108654]},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109100},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109100},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500394X},
+author = {Junaid Ahmad Qayyum and Aonan Li and Jiang Wu and Yahui Lyu and Vasileios Koutsos and Haoqi Zhang and Norbert Radacsi and Dongmin Yang}
+}

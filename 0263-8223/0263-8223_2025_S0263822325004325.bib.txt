@@ -1,0 +1,13 @@
+@article{ZHANG2025119267,
+title = {Equivalent model establishment based on the equivalent mechanical parameters optimization considering the modal behavior for curved concave hexagonal honeycomb sandwich structures},
+journal = {Composite Structures},
+volume = {367},
+pages = {119267},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119267},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004325},
+author = {Xu Zhang and Yaorui Tong and Yan Fang and Wei Li},
+keywords = {Curved concave hexagonal honeycomb sandwich structure, Equivalent model, Modal behavior, Equivalent mechanical parameters optimization},
+abstract = {The curved sandwich structure has more uniform stress distribution and superior fluid dynamics performance, and the concave hexagonal honeycomb presents excellent anti-vibration and energy absorption. Establishing an equivalent model can significantly improve the efficiency of optimization design and performance analysis, and the reliability and precision of the model are directly associated with the accuracy of equivalent mechanical parameters of the honeycomb core. Modal behavior analysis can prevent the structural damage and failure caused by the resonance, and is particularly important to the dynamic design of sandwich structures. Hence, an equivalent model establishment method considering the influence of the modal behavior on the equivalent mechanical parameters is developed for the curved sandwich structure with concave hexagonal honeycomb. A preliminary equivalent model is established by combining the derived equivalent mechanical parameters along the in-plane and out-of-plane directions of the core with the sandwich panel theory. Three-point bending tests are performed on curved concave hexagonal honeycomb sandwich structures with photosensitive resin core and carbon fiber face sheets, and the test data are compared with the finite element results of actual models and preliminary equivalent models. The equivalent mechanical parameters of the core (i.e., the material properties of the core’s equivalent model) are optimized by a genetic algorithm to minimize the average relative error between the first four modal frequencies of the equivalent model and those of the actual model, and the accuracy improvement of modified equivalent model is further understood through modal analysis. The results show that the simulated load–displacement curves of actual model and preliminary equivalent model are basically consistent with the test data of the actual model, and optimizing the equivalent mechanical parameters of the core, in which the modal behavior is considered, significantly reduces the relative errors between the equivalent model and actual model.}
+}

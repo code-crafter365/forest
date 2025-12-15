@@ -1,0 +1,13 @@
+@article{TANG2025103897,
+title = {DNN-based Parameterization for B-Spline Curve Approximation},
+journal = {Computer-Aided Design},
+volume = {186-187},
+pages = {103897},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103897},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000594},
+author = {Wenqiang Tang and Zhouwang Yang},
+keywords = {Parameterization, Curve approximation, Nonlinear optimization, Deep neural network},
+abstract = {B-spline curve parameterization is a complex nonlinear and non-convex optimization problem. Traditional optimization methods often struggle with local minima and are computationally expensive, especially in high-dimensional spaces. We proposes a deep neural network (DNN)-based method to efficiently solve the parameterization problem in B-spline curve approximation. The designed parameterization network (PNet) maps the initial parameterization to an optimized one, transforming the problem into a search for suitable network parameters in a high-dimensional feature space. Due to the over-parameterization nature of DNNs, PNet is robust to initial conditions and less prone to local minima. Furthermore, the smooth regularization and top-K loss function are introduced to further enhance optimization performance. Experimental results show that PNet achieves high-precision approximation with remarkable efficiency, even for large-scale point clouds.}
+}

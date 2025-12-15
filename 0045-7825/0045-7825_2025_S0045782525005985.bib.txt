@@ -1,0 +1,13 @@
+@article{GU2025118326,
+title = {Thermo-mechanical fatigue damage constrained topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118326},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118326},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005985},
+author = {Jinyu Gu and Xinqing Li and Yingjun Wang and Hang Xu},
+keywords = {Fatigue damage, Thermo-mechanical loads, Topology optimization, Morrow criterion, Experimental validation},
+abstract = {Structures in extreme thermal environments are susceptible to thermo-mechanical fatigue damage under cyclic thermal and mechanical loading. To effectively address this issue via structural optimization design, this study proposes a thermo-mechanical fatigue damage-constrained topology optimization (TMFDCTO) method, aiming to achieve lightweight designs while rigorously accounting for fatigue damage induced by coupled thermal and mechanical loads. A nonlinear fatigue damage analysis framework is established, incorporating a temperature-dependent Basquin equation to quantify thermal effects on S-N curve degradation. Then Morrow criterion is employed to evaluate nonlinear fatigue damage accumulation under non-proportional thermo-mechanical loading conditions. The TMFDCTO formulation integrates a modified p-norm aggregation function to efficiently handle the inherent multi-constraint nature of fatigue damage optimization. Additionally, sensitivity equations are derived for both the volume objective function and the thermo-mechanical fatigue damage constraint function with respect to design variables. Meanwhile, several 2D and 3D numerical examples are tested to demonstrate the feasibility and effectiveness of the proposed TMFDCTO method. Finally, experimental validation under thermo-elastic loading is conducted using laser-cut MBB beam prototypes, with comparative analysis between simulation and experimental results confirming the effectiveness of the TMFDCTO method. The experimental results demonstrate that the TMFDCTO method enhances fatigue life by 12.02% to 613.25% compared to the method that does not account for thermal loading effects.}
+}

@@ -1,0 +1,13 @@
+@article{MAGISANO2025118083,
+title = {Accurate 3D stress recovery in elastic laminated plates using 5-DOF and 7-DOF finite element plate models with warping},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118083},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118083},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500355X},
+author = {Domenico Magisano and Leonardo Leonetti and Giovanni Garcea},
+keywords = {Plates, Laminates, Stress recovery, Warping, Finite element analysis},
+abstract = {This paper presents an efficient and accurate methodology for computing displacement and stress fields in laminated thick plates using two-dimensional models. The approach begins with a novel one-dimensional finite element analysis across the thickness to derive transverse shear warping functions for a given layup. This preliminary analysis ensures accuracy for generic laminations, including asymmetric configurations and those exhibiting coupling between transverse shear components. The derived warping functions enable the formulation of two plate models with 5 and 7 degrees of freedom (DOFs) per node. The 5-DOF model is an enhanced Mindlin-Reissner formulation linking warping to transverse shear strains via reduction factors, offering reliable performance for moderately thick plates and typical stiffness contrasts between layers. The 7-DOF model, on the other hand, introduces independent DOFs to amplify the warping functions, eliminating reduction factors and achieving a superior accuracy for very thick plates and for extreme stiffness contrasts between layers. Both models are implemented using quadratic MITC finite elements, generalized to accommodate the independent warping amplitudes of the 7-DOF model. Additionally, the preliminary section analysis can be repurposed as a fast, point-wise post-processing tool to enhance the accuracy of reconstructed transverse shear stresses and to recover an accurate thickness stress. The numerical investigation demonstrates the reliability of the proposed models for analyzing laminated plates across a wide range of thicknesses and layups.}
+}

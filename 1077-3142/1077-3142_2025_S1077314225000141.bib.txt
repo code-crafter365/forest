@@ -1,0 +1,13 @@
+@article{CHANG2025104291,
+title = {Rebalanced supervised contrastive learning with prototypes for long-tailed visual recognition},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104291},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104291},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000141},
+author = {Xuhui Chang and Junhai Zhai and Shaoxin Qiu and Zhengrong Sun},
+keywords = {Long-tailed recognition, Imbalance learning, Supervised contrastive learning, Prototypes},
+abstract = {In the real world, data often follows a long-tailed distribution, resulting in head classes receiving more attention while tail classes are frequently overlooked. Although supervised contrastive learning (SCL) performs well on balanced datasets, it struggles to distinguish features between tail classes in the latent space when dealing with long-tailed data. To address this issue, we propose Rebalanced Supervised Contrastive Learning (ReCL), which can effectively enhance the separability of tail classes features. Compared with two state-of-the-art methods, Contrastive Learning based hybrid networks (Hybrid-SC) and Targeted Supervised Contrastive Learning (TSC), ReCL has two distinctive characteristics: (1) ReCL enhances the clarity of classification boundaries between tail classes by encouraging samples to align more closely with their corresponding prototypes. (2) ReCL does not require targets generation, thereby conserving computational resources. Our method significantly improves the recognition of tail classes, demonstrating competitive accuracy across multiple long-tailed datasets. Our code has been uploaded to https://github.com/cxh981110/ReCL.}
+}

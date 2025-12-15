@@ -1,0 +1,13 @@
+@article{MOGHIMIARDEKANI2025109244,
+title = {Hygroscopic effect on fatigue behaviour of natural fibre reinforced thermoset and thermoplastic composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109244},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109244},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500538X},
+author = {Ali Moghimi-ardekani and Jianqun Hao and Jan Ivens and Aart Willem {van Vuure}},
+keywords = {Natural fibre composites, Fatigue behaviour, Hygroscopic effect, Thermoplastic, Thermoset},
+abstract = {This study evaluates the fatigue performance of various thermoset and thermoplastic composites reinforced with unidirectional flax fibre under hygroscopic conditions. Quasi-static testing was conducted to assess the impact of humidity on the mechanical modulus of these composites. The flexural and tensile testing results revealed that, at higher humidity levels (85%RH) compared to standard conditions (50%RH), flexural modulus exhibits a stronger drop than tensile modulus, likely due to compressive deformation. Moreover, the flax fibre composites incorporating thermoset matrices, including epoxy and partially bio-based unsaturated polyester, demonstrate a shorter fatigue life at 85%RH relative to 50%RH. In contrast, thermoplastic-based flax fibre composites, such as with POM, PA11, and MAPP matrices, show improved fatigue resistance as humidity increases from 50%RH to 85%RH. These findings are supported by creep tests, which reveal an increase in the creep lifespan of thermoplastic composites at higher humidity. Furthermore, the fatigue data reveal that residual strain, loss factor, and hysteresis energy increase with increasing humidity. Stiffness during fatigue diminishes at 85%RH compared to 50%RH, but it doesn’t degrade during the cycling.}
+}

@@ -1,0 +1,13 @@
+@article{KECHAOU2025104305,
+title = {Adversarial Semi-supervised domain adaptation for semantic segmentation: A new role for labeled target samples},
+journal = {Computer Vision and Image Understanding},
+volume = {253},
+pages = {104305},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104305},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000281},
+author = {Marwa Kechaou and Mokhtar Z. Alaya and Romain Hérault and Gilles Gasso},
+keywords = {Domain Adaptation, Semantic Segmentation, Semi-supervised learning, Adversarial learning},
+abstract = {Adversarial learning baselines for domain adaptation (DA) approaches in the context of semantic segmentation are under explored in semi-supervised framework. These baselines involve solely the available labeled target samples in the supervision loss. In this work, we propose to enhance their usefulness on both semantic segmentation and the single domain classifier neural networks. We design new training objective losses for cases when labeled target data behave as source samples or as real target samples. The underlying rationale is that considering the set of labeled target samples as part of source domain helps reducing the domain discrepancy and, hence, improves the contribution of the adversarial loss. To support our approach, we consider a complementary method that mixes source and labeled target data, then applies the same adaptation process. We further propose an unsupervised selection procedure using entropy to optimize the choice of labeled target samples for adaptation. We illustrate our findings through extensive experiments on the benchmarks GTA5, SYNTHIA, and Cityscapes. The empirical evaluation highlights competitive performance of our proposed approach.}
+}

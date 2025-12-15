@@ -1,0 +1,13 @@
+@article{LI2025117732,
+title = {D-FNO: A decomposed Fourier neural operator for large-scale parametric partial differential equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117732},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117732},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000040},
+author = {Kangjie Li and Wenjing Ye},
+keywords = {Neural operator, Fourier neural operator, Surrogate model, Partial differential equation},
+abstract = {Partial differential equations (PDEs) are fundamental in understanding various phenomena in physics, engineering, and other disciplines. Recent advances in machine learning techniques, such as Fourier neural operators (FNOs), have shown potential in rapidly solving parametric PDEs. By establishing a data-driven supervised learning framework, the mapping from the parameter space to the solution space in parametric PDEs can be achieved. Nevertheless, training FNOs remains time-consuming for large-scale three-dimensional (3D) problems due to the considerable computational complexity associated with the fast Fourier transform (FFT), characterized by a time complexity of O(N3logN), where N is the grid size in a single dimension. Given that numerous problems exhibit a low-rank representation, this paper introduces the decomposed Fourier neural operator (D-FNO), which improves the efficiency of FNOs by leveraging tensor decomposition and the separable nature of the FFT. By decomposing the high-dimensional latent representation into a series of rank-1 tensor products, the three-dimensional FFT is replaced by a series of one-dimensional FFT, thereby reducing the time complexity from O(N3logN) to O(PNlogN) in 3D problems, where P is the decomposition term. Experiments demonstrate the effectiveness of the D-FNO in solving 2D Poisson, Darcy flow, Navier-Stokes, Hyper-elastic and 3D elastic wave propagation parametric equations. The results show substantial improvements in training and inference times compared to the FNO and factorized FNO methods (F-FNO), all while maintaining comparable accuracy. Additionally, the impact of key hyperparameters on the performance of the method is studied. This work highlights the potential of the D-FNO in tackling large-scale, 3D problems, emphasizing its efficiency benefits and scalability.}
+}

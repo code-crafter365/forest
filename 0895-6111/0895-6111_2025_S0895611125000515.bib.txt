@@ -1,0 +1,13 @@
+@article{XIN2025102542,
+title = {A novel diagnosis method utilizing MDBO-SVM and imaging genetics for Alzheimer's disease},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102542},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102542},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000515},
+author = {Yu Xin and Jinhua Sheng and Qiao Zhang and Yan Song and Luyun Wang and Ze Yang},
+keywords = {Alzheimer’s disease, Mild cognitive impairment, Imaging genomics, Classification},
+abstract = {Alzheimer's disease (AD) is the most common neurodegenerative disorder, yet its underlying mechanisms remain elusive. Early and accurate diagnosis is crucial for timely intervention and disease management. In this paper, a multi-strategy improved dung beetle optimizer (MDBO) was proposed to establish a new framework for AD diagnosis. The unique aspect of this algorithm lies in its integration of the Osprey Optimization Algorithm, Lévy flight, and adaptive t-distribution. This combination endows MDBO with superior global search capabilities and the ability to avoid local optima. Then, we presented a novel fitness function for integrating imaging genetics data. In experiments, MDBO demonstrated outstanding performance on the CEC2017 benchmark functions, proving its effectiveness in optimization problems. Furthermore, it was used to classify individuals with AD, mild cognitive impairment (MCI), and control normal (CN) using limited features. In the multi-classification of CN, MCI, and AD, the algorithm achieved excellent results, with an average accuracy of 81.7 % and a best accuracy of 92 %. Overall, the proposed MDBO algorithm provides a more comprehensive and efficient diagnostic tool, offering new possibilities for early intervention and disease progression control.}
+}

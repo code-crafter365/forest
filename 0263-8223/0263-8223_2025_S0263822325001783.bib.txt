@@ -1,0 +1,13 @@
+@article{COLUCCIA2025119013,
+title = {Functionally graded lattice structures for energy absorption: Numerical analysis and experimental validation},
+journal = {Composite Structures},
+volume = {360},
+pages = {119013},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119013},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001783},
+author = {Antonio Coluccia and Guillaume Meyer and Stefania Liseni and Christian Mittelstedt and Giorgio {De Pasquale}},
+keywords = {Lattice structures, Energy absorption, Lightweight structures, Additive manufacturing, Numerical modeling, Cellular materials},
+abstract = {Lattice structures show a high potential in fields where high structural performances are necessary, such as automotive and aerospace engineering. These structures offer excellent stiffness and strength, while being able to keep their weight limited: main outcome of such characteristics are appreciable specific mechanical properties. Since lattice structures are mostly produced using additive manufacturing, a large number of shapes and topologies are available. Moreover, it is possible to control geometrical features, like thickness of the struts, eventual reinforcements and in general the local relative density of the structure, through mathematical and analytical considerations. The principal aim of the model developed in this paper is the control over the thickness of the struts of a lattice structure: samples made of lattice with different topologies are object to a functionally grading process able to redefine the thickness of each strut of the sample based on homogenizing the stress state; as a main result, energy absorption and specific energy absorption levels are increased. Two grading processes are presented: the first one considers relative density into the relationship for the reformulation of the thickness value, together with an average level of the Von Mises stress, while the second only considers the stresses. A validating experimental campaign has been finally performed: graded samples, with both processes, and ungraded samples are produced via L-PBF (laser powder bed fusion) and tested under compression in order to compare their energy absorption levels.}
+}

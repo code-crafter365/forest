@@ -1,0 +1,13 @@
+@article{CHENG2025111157,
+title = {Multiscale enhancements in Z-pin reinforcement performance through curing parameters},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111157},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111157},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001253},
+author = {Jisiyuan Cheng and Yingjie Xu and Weihong Zhang and Weiwei Liu},
+keywords = {Z-pin, Laminates, Curing, Multiscale analysis, Bridging behavior, Reinforcement efficiency},
+abstract = {Z-pinning is employed by composite laminates to enhance interlaminar performances. Z-pinned composites are then cured to obtain a vastly enhanced interlaminar fracture toughness. However, rare research has focused on the curing effects on the mechanical performances of Z-pinned laminates. This paper presents a multiscale experimental and simulation investigation of the curing effects on the individual Z-pin bridging behaviors and the mode Ⅰ interlaminar fracture of multi-pinned laminates by changing holding temperatures and times of cure. The results reveal that a low holding temperature for a long time decreases the cure-induced Z-pin/composite interfacial cracks, thus generating larger Z-pin energy dissipation and a better specimen's load-carrying capacity. Compared with 403 K for 150 min, the Z-pin energy dissipation and interlaminar fracture toughness increased by 32.22 % and 38.82 % by holding at 383 K for 200 min. Mesoscale and macroscale models were developed to predict the cure-induced Z-pin interfacial conditions, Z-pin bridging behaviors, and reinforcement efficiency. Combining the experiments and numerical illustration, this paper presents the possibility of optimizing the Z-pinning performances through the curing profiles.}
+}

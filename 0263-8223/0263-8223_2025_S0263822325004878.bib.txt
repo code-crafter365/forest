@@ -1,0 +1,13 @@
+@article{BAO2025119322,
+title = {Numerical analysis of ultrahigh velocity impact of micro abrasive particles on Cf/SiC composites},
+journal = {Composite Structures},
+volume = {368},
+pages = {119322},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119322},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004878},
+author = {Hankun Bao and Dun Liu and Yifei Zhang and Hongtao Zhu and Chuanzhen Huang and Yue Dai and Jize Zhao and Ruyi Zhao and Weijie Zhang},
+keywords = {Ultrahigh impact, Micro particles, Ceramic matrix composites, Damage},
+abstract = {The present study provides an innovative finite element modeling approach to investigate the material removal behavior of distinct shaped abrasive particles impacting different regions and damage mechanisms of Cf/SiC under ultrahigh velocity abrasive particles impact. The simulation results indicate that among the four investigated abrasive shapes, the polygonal prisms abrasives exhibit the best material removal capability, achieving removal rates of 0.440, 0.538, and 0.589 in the matrix region, fiber region, and fiber–matrix interface region, respectively-all exceedingly twice those of spherical abrasives. The study analyzed the reasons why polygonal prisms abrasives exhibit optimal material removal capability from two perspectives: the sphericity and roundness of abrasive particles, and the stress contour plots during abrasive impact on the material. Additionally, compared to pure fiber and matrix regions, the interface between fiber and matrix is more prone to material damage, particularly when using spherical abrasives. Further analyses‌‌ reveal that the main reason for crack damage along the fiber bundle direction is that the Cf/SiC interface layer increases energy dissipation through crack deflection.}
+}

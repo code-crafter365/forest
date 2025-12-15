@@ -1,0 +1,13 @@
+@article{YU2025108672,
+title = {Microcellular foaming of high-hardness TPU/MOF nanocomposites through combined heterogeneous nucleation and gas enrichment effects},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108672},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108672},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006705},
+author = {Weitai Yu and Caicong Li and Wentao Zhai and Jun Wang},
+keywords = {Thermoplastic polyurethane, High hardness, Temperature rising foaming, Metal organic framework, Gas solubility},
+abstract = {High-hardness thermoplastic polyurethane (HD-TPU) are utilized in advanced engineering applications due to their superior strength, flexibility, and abrasion resistance. However, the high content of hard segments reduced the gas solubility, making it difficult to generate uniform microcellular foams. In this study, the metal–organic framework (MOF) zeolitic imidazolate framework-8 (ZIF-8) was employed as both a heterogeneous nucleating agent and a gas enrichment “nano-reservoir” to enhance HD-TPU foamability. Dopamine modification was applied to greatly improve ZIF-8 dispersion in HD-TPU. ZIF-8 significantly enhanced the CO2 solubility in the TPU/MOF composites. The dual effects of MOF facilitate the preparation of microcellular HD-TPU/ZIF-8 foams with uniform cell size distribution after low-pressure saturation (3–5 MPa). Cell density and expansion ratio were increased by 50 and 1.5 times, respectively. The cyclic compression performance of HD-TPU/ZIF-8 foams was significantly enhanced. This study presents a novel method for preparing high-performance HD-TPU microcellular foams by introducing porous nanoparticles.}
+}

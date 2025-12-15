@@ -1,0 +1,13 @@
+@article{BO2025119696,
+title = {Deep virtual model assisted dynamic buckling and reliability analysis of stiffened perovskite solar cells under high-dimensional and categorical factors},
+journal = {Composite Structures},
+volume = {373},
+pages = {119696},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119696},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500861X},
+author = {Luo Bo and Jize Zhang and Shaoyu Zhao and Jie Yang},
+keywords = {Perovskite solar cells, Carbon nanotube reinforced composite stiffeners, Stochastic triaxial nonlinear dynamic buckling analysis, High-dimensional uncertainties, Categorical inputs, Deep learning},
+abstract = {The perovskite solar cell (PSC) emerges as one of the most burgeoning photovoltaic contenders, igniting tremendous research passion within academia and industry. This study addresses the critical yet challenging issue of nonlinear dynamic buckling and reliability analysis for the PSC with agglomerated carbon nanotube reinforced composite (CNTRC) stiffeners under triaxial impacts, simultaneously tackling high-dimensional uncertainties and various categorical factors for the first time. A deep virtual modelling technique, namely Tree-structured Parzen Estimator enhanced Gated Additive Tree Ensemble (TPE-GATE), is newly developed to depict the sophisticated relationship among high-dimensional and heterogenous categorical inputs, and the focused composite nonlinear failure response and reliability accurately and efficiently, circumventing extensive triaxial simulations across vast combinatorial spaces. Statistical information and risk probabilities regarding buckling behaviour are effectively furnished with the deep virtual model, which is essential for safety assessments and serviceability limit state design of the stiffened PSC. In numerical experiments, the superiority of TPE-GATE over popular meta-models is quantitatively demonstrated. Furthermore, parametric studies examining various critical factors influencing deterministic and stochastic failure responses are efficiently conducted using TPE-GATE. Ultimately, unique findings will facilitate informed decision-making and preventive strategies to enhance impact-carrying capacity, reliability-based safety design, and robust optimization of advanced solar composites.}
+}

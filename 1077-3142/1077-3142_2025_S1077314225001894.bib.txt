@@ -1,0 +1,13 @@
+@article{LI2025104466,
+title = {Adaptive illumination and noise-free detail recovery via visual decomposition for low-light image enhancement},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104466},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104466},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001894},
+author = {Tianqi Li and Pingping Liu and Qiuzhan Zhou and Tongshun Zhang},
+keywords = {Low-light image enhancement, Biological visual inspired model, Visual decomposition network, Detail enhancement and denoising},
+abstract = {Existing low-light image enhancement methods often struggle with precise brightness control and frequently introduce noise during the enhancement process. To address these limitations, we propose BVILLIE, a novel biologically inspired visual model. BVILLIE employs a visual decomposition network that separates low-light images into low-frequency and high-frequency components, with the low-frequency path focused on brightness management and the high-frequency path enhancing details without amplifying noise. In the low-frequency path, inspired by the biological visual system’s adaptive response to varying light conditions, BVILLIE incorporates a custom-designed luminance curve based on the Naka–Rushton equation. This equation models the nonlinear response of retinal neurons to light intensity, simulating human perceptual adaptation to different brightness levels. Additionally, a convolutional enhancement module corrects color shifts resulting from luminance adjustments. In the high-frequency path, an innovative fusion module integrates a preliminary denoiser with an adaptive enhancement mechanism to improve detail preservation and texture refinement. Extensive experiments across multiple benchmark datasets demonstrate that BVILLIE significantly outperforms state-of-the-art techniques. For instance, on the LOLv2-Real dataset, BVILLIE achieves a PSNR of 25.335 dB, SSIM of 0.866, LPIPS of 0.106, and LOE of 0.208. These results, consistently observed across various metrics, highlight BVILLIE’s superior performance in terms of image quality, perceptual similarity, preservation of lightness order, detail enhancement, and noise suppression.}
+}

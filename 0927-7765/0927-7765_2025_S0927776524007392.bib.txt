@@ -1,0 +1,13 @@
+@article{GUO2025114480,
+title = {Cascade of phase transitions in a dipeptide supramolecular assembly triggered by a single fatty acid},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114480},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114480},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007392},
+author = {Kaifeng Guo and Liang Gao and Jinbo Fei},
+keywords = {Supramolecular assembly, Short peptide, Phase transition, Competitive pathways, Biomolecule condensate},
+abstract = {Significant progress has been achieved with diversity of short peptide supramolecular assemblies. However, their programmable phase modulation by single stimulus remains a great challenge. Herein, we demonstrate a dipeptide supramolecular system undergoes sequentially coupled phase transitions upon hydrogen bonding association and dissociation triggered by a single fatty acid. To be specific, fatty acid at a low specific ratio mediates gel-crystal transformation of the dipeptide supramolecular assembly by rearrangement of hydrogen bonding interactions. Moreover, fatty acid at a high specific ratio induces crystal-sol transition by protonation of the dipeptide, generating strong electrostatic repulsion to cleave hydrogen bonding interactions. Remarkably, the cascade of phase transitions enables spontaneous solid-liquid separation of the dipeptide from one dispersion phase and further dissolution in another in a capture and release fashion. In contrast, it is not facilitated by individual phase transition. Our work creates competitive pathways to achieve integration of phase transitions in a simple dipeptide supramolecular system. It is useful to deeply understand the dynamic and complex biomolecular condensates in nature and with important implications for efficient collection of biomolecules.}
+}

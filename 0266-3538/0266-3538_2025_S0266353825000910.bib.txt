@@ -1,0 +1,13 @@
+@article{SZPOGANICZ2025111123,
+title = {Comparative analysis of NOL-ring tensile strength in towpreg and slit-tape for filament winding: Influence of resin viscosity, tack, and consolidation},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111123},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111123},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000910},
+author = {Eduardo Szpoganicz and Fabian Hübner and Marius Luik and Jeremias Thomas and Florian Max and Andreas Scherer and Tobias Dickhut and Holger Ruckdäschel},
+keywords = {NOL-Rings, Filament winding, Carbon-fiber, Towpregs, Slit-tapes, Cryogenics},
+abstract = {This study investigates the tensile strength of carbon-fiber reinforced polymer (CFRP) specimens manufactured via filament winding with varying winding parameters. NOL-rings (Naval Ordnance Laboratories) were processed using unidirectional CFRP material, and the performance of towpregs was compared to slit-tapes of different widths and temperature settings. To establish a benchmark, autoclave-cured prepregs were laminated into flat rectangular samples. The manufacturing process revealed significant variations in laminate strength and ply consolidation, analyzed through optical micrographs and profile analysis. Tensile strengths of the NOL-rings ranged from 1430 MPa to 1800 MPa, with towpregs performing better due to higher tackiness and improved consolidation, compared to slit-tapes with no applied temperature. However, both were still bellow the 2100 MPa strength of autoclave-cured reference samples. Finite element analysis showed that the NOL-ring geometry induces bending stresses, even in an idealized part, reducing the theoretical tensile strength to 1900 MPa. Additionally, in-situ cryogenic testing using liquid nitrogen was reported for the first time for NOL-ring specimens, revealed a significant increase in strength to 2200 MPa, attributed to the stiffening effect at low temperatures. This work introduces a novel approach by correlating ply consolidation with slit-tapes, towpregs, and winding parameters, linking prepreg tackiness to tensile performance, and presenting additionally testing of NOL-rings at 77 K, thus providing understanding of their behavior in cryogenic environments.}
+}

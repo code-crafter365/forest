@@ -1,0 +1,13 @@
+@article{HOU2025108528,
+title = {The moisture absorption of additively manufactured short carbon fibre reinforced polyamide},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108528},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108528},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005268},
+author = {Yingwei Hou and Ajit Panesar},
+keywords = {3D printing, Polymer-matrix composites, Moisture, Microstructure},
+abstract = {Polymer composites are commonly exposed to moisture and undergo reductions in mechanical properties. It is challenging to describe the moisture absorption dynamics of 3D printed parts due to manufacture-induced microstructures. This work investigates the moisture absorption of printed short carbon fibre reinforced polyamide (SFRP) with varied microstructures and its impact on mechanical properties. The printed SFRP have inferior microstructures and diffusivity increases with the number of interlayer interfaces by up to 119%, which is 258% higher than that of compression moulded composite. The yield stress and tensile modulus of SFRP decrease by up to 59% and 79%, respectively. This deterioration is irreversible and more significant than injection moulded samples as the microstructure is permanently degraded by moisture. Additionally, the shear moduli of printed polyamide and SFRP decrease by up to 63% and 74%, respectively. The results are crucial for prediction, evaluation, and maintenance of 3D printed applications in humid conditions.}
+}

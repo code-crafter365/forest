@@ -1,0 +1,13 @@
+@article{VANNGUYEN2025118245,
+title = {TAEN: a model-constrained Tikhonov autoencoder network for forward and inverse problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118245},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118245},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005171},
+author = {Hai {Van Nguyen} and Tan Bui-Thanh and Clint Dawson},
+keywords = {Forward problem, Inverse problem, Randomization, Model-constrained autoencoder, Deep learning, Partial differential equations},
+abstract = {Efficient real-time solvers for forward and inverse problems are essential in engineering and science applications. Machine learning surrogate models have emerged as promising alternatives to traditional methods, offering substantially reduced computational time. Nevertheless, these models typically demand extensive training datasets to achieve robust generalization across diverse scenarios. While physics-based approaches can partially mitigate this data dependency and ensure physics-interpretable solutions, addressing scarce data regimes remains a challenge. Both purely data-driven and physics-based machine learning approaches demonstrate severe overfitting issues when trained with insufficient data. We propose a novel model-constrained Tikhonov autoencoder neural network framework, called TAEN, capable of learning both forward and inverse surrogate models using a single arbitrary observational sample. We develop comprehensive theoretical foundations including forward and inverse inference error bounds for the proposed approach for linear cases. For comparative analysis, we derive equivalent formulations for pure data-driven and model-constrained approach counterparts. At the heart of our approach is a data randomization strategy with theoretical justification, which functions as a generative mechanism for exploring the training data space, enabling effective training of both forward and inverse surrogate models even with a single observation, while regularizing the learning process. We validate our approach through extensive numerical experiments on two challenging inverse problems: 2D heat conductivity inversion and initial condition reconstruction for time-dependent 2D Navier–Stokes equations. Results demonstrate that TAEN achieves accuracy comparable to traditional Tikhonov solvers and numerical forward solvers for both inverse and forward problems, respectively, while delivering orders of magnitude computational speedups.}
+}

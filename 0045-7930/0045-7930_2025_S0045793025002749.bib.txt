@@ -1,0 +1,13 @@
+@article{NOGUEIRASONDERMANN2025106814,
+title = {A comprehensive numerical study of transient two-phase flow for slug capturing simulations},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106814},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106814},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002749},
+author = {Carina {Nogueira Sondermann} and Raphael Viggiano and Felipe {Bastos de Freitas Rachid} and Gustavo {Cesar Rachid Bodstein} and Eduardo Pereyra},
+keywords = {Slug capturing, Two-fluid model, Transient simulation, Numerical methods, Benchmark problems},
+abstract = {Numerical simulations of intermittent two-phase flow are important to monitor and predict the behavior of the flow along a pipe. Previous works have proved that the transient one-dimensional two-fluid model is capable of capturing slugs as a result of the flow dynamics. Building on previous studies, this work extends and enhances the methodology by implementing and studying in detail the two-fluid model, in combination with different numerical solutions. The mathematical model has five equations, is unconditionally hyperbolic, and is fully tested for benchmark problems. From this analysis, the numerical model that presents the best results is used to calculate intermittent flow through the slug capturing approach. Moreover, a strategy to model the gas velocity in the slug body based on the instantaneous velocity relaxation is proposed. The results demonstrate that the numerical model is robust, capable of performing slug capturing simulations, and represents the physics of the flow.}
+}

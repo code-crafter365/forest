@@ -1,0 +1,13 @@
+@article{SMARZEWSKI2025119471,
+title = {Mechanical properties and durability of ultra-high performance concrete containing steel fibers},
+journal = {Composite Structures},
+volume = {371},
+pages = {119471},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119471},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006361},
+author = {Piotr Smarzewski},
+keywords = {Ultra-high performance concrete, Steel fibers, Fracture energy, Toughness, Modulus of elasticity, Frost resistance},
+abstract = {This study investigates the long-term mechanical, physical, and durability properties of ultra-high performance concrete (UHPC) with steel fiber addition. Tests included porosity, water absorption, density, compressive, tensile, and flexural strength, fracture energy, energy absorption, toughness indices, static and dynamic elastic moduli, ultrasonic pulse velocity (UPV), and frost resistance. Digital image correlation (DIC) was used to analyze cracking, damage progression, and failure modes. Steel fiber reinforcement significantly enhanced compressive strength at 730 days and flexural and splitting tensile strengths at 28, 56, and 730 days. Notable gains in fracture energy and energy absorption were observed at 28 days. Slight improvements in elastic moduli and slight reductions in UPV were recorded for fiber-reinforced mixes. After 180 freeze–thaw cycles, increased mass loss was noted with higher fiber content, indicating reduced frost resistance, likely due to higher porosity and water absorption compared to fiber-free UHPC. The results demonstrate that durable UHPC can be produced without heat treatment or high-pressure compaction, using coarse aggregate, natural sand, and standard-grade steel fibers. This approach offers a practical and economical alternative for UHPC production with enhanced long-term mechanical performance.}
+}

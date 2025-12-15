@@ -1,0 +1,13 @@
+@article{TAHIR2025114351,
+title = {Development of paroxetine loaded nanotransferosomal gel for intranasal delivery with enhanced antidepressant activity in rats},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114351},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114351},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006106},
+author = {Asma Tahir and Sidra Aslam and Saba Sohail and Fakhar {ud Din} and Ali H. Alamri and Ahmed A. Lahiq and Shaker T. Alsharif and Abdullah Asiri},
+keywords = {Major depressive disorder, Intranasal route, Paroxetine, Lipopolysaccharide induced depression model, Transfersomes, Nanoparticles},
+abstract = {The aim of this study was to develop paroxetine (PXT) loaded nanotransferosomal gel (PXT-NTFG) for intranasal brain delivery. The process involved fabricating PXT-NTFs (paroxetine-loaded nanotransferosomes) through a thin film hydration method and optimizing them based on parameters such as particle size (PS), zeta potential (ZP), polydispersity index (PDI), and entrapment efficiency (EE). The optimized PXT-NTFs exhibited uniform morphology with a PS of 158.30 ± 2.73 nm, low PDI (0.142 ± 0.072), high ZP (21.00 ± 0.75 mV), and excellent EE (88.09 ± 3.40 %). Characterization through various techniques confirmed the incorporation of PXT into the nanotransferosomes and its conversion to amorphous state. Moreover, PXT-NTFG was formulated with suitable viscosity and mucoadhesive properties. In vitro release studies demonstrated sustained drug release from PXT-NTFG at different pH levels as compared to PXT-NTFs and NTF dispersion. Similarly, ex vivo experiments showed 4 folds enhanced drug permeation from PXT-NTFG when compared with PXT conventional gel. Stability studies indicated that the optimized PXT-NTFs remained stable for four months at 4°C and 25°C. Additionally, improved behavioral outcomes, increased neuronal survival rates, and upregulated brain-derived neurotrophic factor (BDNF) expression was observed in lipopolysaccharide (LPS) induced depressed Sprague-Dawley rats after treatment with PXT-NTFG as compared to PXT-dispersion treated and untreated LPS-control groups. Notably, the formulation led to a significant reduction in brain and plasma TNF-α levels. In conclusion, intranasal PXT-NTFG is a promising formulation with sustained drug release, improved brain targeting and enhanced antidepressant activity.}
+}

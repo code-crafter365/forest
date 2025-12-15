@@ -1,0 +1,13 @@
+@article{SUN2025114565,
+title = {A novel NIR-dependent IDO-inhibiting ethosomes treatment melanoma through PTT/PDT/immunotherapy synergy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114565},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114565},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000724},
+author = {Changzhen Sun and Qingqing He and Xun Yang and Jianv Wang and Dengmei Xia and Tong Xia and Hongye Liao and Xia Xiong and Yongmei Liao and Hongping Shen and Qin Sun and Yuan Yuan and Yuanmin He and Li Liu},
+keywords = {ICD, IDO, Phototherapy, Immunotherapy, Melanoma},
+abstract = {Phototherapy is a treatment method that uses the characteristics of different bands of light to treat diseases. Tumor immunotherapy, on the other hand, treats tumors by regulating the body’s immune system. The combination of phototherapy and immunotherapy can significantly enhance the treatment of melanoma. In this study, we prepared and characterized INEs, a novel ethosome composed of the photosensitizer IR251 and the Indoleamine-2, 3-dioxygenase (IDO) inhibitor NLG919. INEs demonstrated excellent phototherapeutic properties, strong phototoxicity, and a notable ability to inhibit IDO. Under 808 nm laser irradiation, INEs effectively induced immunogenic cell death (ICD) in melanoma cells. In vivo experiments demonstrated that INEs injection into primary tumors triggered ICD, promoted maturation of DC cells, and activated naive T cells, leading to the production of effector T cells (specifically CD4+ and CD8+ T cells) that targeted and killed tumor cells. Both primary and distant tumors were treated simultaneously with favorable biosafety. In conclusion, INEs represent a promising strategy for melanoma treatment by a combination of phototherapy and immunotherapy with high safety. This study provides new insights and a theoretical basis for the clinical treatment of melanoma.}
+}

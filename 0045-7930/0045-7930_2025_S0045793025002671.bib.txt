@@ -1,0 +1,13 @@
+@article{ZOU2025106807,
+title = {A simple form of target ENO nonlinear interpolation scheme},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106807},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106807},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002671},
+author = {Yicong Zou and Yidao Dong and Jiaxian Qin and Mingtao Liu and Wei Liu and Tiegang Tang},
+keywords = {TENO, WCNS, Compressible flow, Conservation law},
+abstract = {Accurately capturing multiscale structures and discontinuities in compressible flows requires schemes with high resolution and minimal oscillations. Fu et al. (2016) proposed a class of Targeted Essentially Non-Oscillatory (TENO) schemes with excellent resolution and robustness. However, the nonlinear weights in the TENO scheme are more complex than in the classical WENO scheme. This study proposes a simple form of fifth-order TENO nonlinear interpolation scheme that eliminates the need for exponentiation and divisions, significantly enhancing computational efficiency. A mapping relationship between the dissipation control parameters of the new scheme and the original TENO scheme is provided, ensuring similar numerical performance. To evaluate the new scheme, it is implemented within the framework of the Weighted Compact Nonlinear Scheme (WCNS) as a form of Target Compact Nonlinear Scheme (TCNS). Numerical results show that the new scheme offers an average computational cost reduction of 26.2% compared to the original TENO scheme. The computational cost of the present scheme is 0.84-1.15 times that of the classical JS-type scheme (Liu et al., 1994), varying with test cases. This work provides a new perspective on the TENO scheme, focusing on the cutoff condition rather than the nonlinear weights.}
+}

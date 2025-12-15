@@ -1,0 +1,13 @@
+@article{LI2025118834,
+title = {Uniform winding path generation for Non-Axisymmetric mandrels},
+journal = {Composite Structures},
+volume = {355},
+pages = {118834},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118834},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009620},
+author = {Shuo Li and Zhuo Meng and Yujing Zhang and Yize Sun},
+keywords = {Uniform winding paths generation, Non-axisymmetric mandrel, Uniform fiber coverage, Uniform fiber distribution, Fiber winding},
+abstract = {Creating a continuous and uniform winding path may be a challenging task due to the complex surface characteristics, resulting in limitations in designing winding paths for non-axisymmetric mandrel. A design method is proposed to generate uniform winding path for non-axisymmetric mandrel by transforming the mandrel surface into discrete triangle meshes. This method involves generating winding paths in three parts: the basic path, the replication paths, and the transitional paths. Firstly, the variable winding angle of basic path is obtained according to the mandrel cross-sectional characteristics to generate the basic path with uniform fiber coverage; Secondly, the cross-sectional equidistant points are calculated according to the position of basic path on the mandrel cross-section, and the replication paths through the equidistant points are generated based on dichotomy principle to obtain uniform fiber distribution in the circumferential direction of mandrel; Thirdly, according to the required winding pattern, each transitional path is generated to connect its two corresponding replication paths. Finally, the continuous winding path is formed by the basic path, replication paths, and transitional paths. The method is applied to different non-axisymmetric mandrels, and the results show that this method can flexibly generate uniform winding paths with desired winding angle and winding pattern.}
+}

@@ -1,0 +1,13 @@
+@article{ZHU2025108860,
+title = {MXene/copper nanowires composite fabric with biomimetic leaf-like hierarchical structure for electromagnetic interference shielding, dual-driven heating, infrared stealth and self-cleaning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108860},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108860},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500154X},
+author = {Yunyan Zhu and Meimei Chen and Jiatong Yan and Rui Tan and Chuanxi Lin and Shan Jiang and Weijie Wang and Hongyan Xiao and Erhui Ren and Hong Tang and Ronghui Guo},
+keywords = {EMI shielding composite fabric, Dual-driven heating, Infrared stealth, Self-cleaning},
+abstract = {Electromagnetic interference (EMI) shielding fabrics are favored as smart wearable electronic devices in both civilian and military fields. However, it is still a challenge to achieve multifunctional integration in EMI shielding fabrics such as excellent EMI shielding, dual-driven heating and infrared stealth simultaneously. Herein, a multi-functional EMI shielding composite fabric inspired by the hierarchical structure of leaves was fabricated by loading MXene and copper nanowires (CuNWs) via vacuum-assisted filtration and dip-coating with 1H,1H,2H,2H-perfluorooctyltriethoxysilane (PFOTES). The continuous and interconnected conductive network constructed from 2D MXene nanosheets (mesophyll) and 1D CuNWs (veins) enables the composite fabric to exhibit outstanding EMI shielding effectiveness (53.2 dB), Joule heating performance at low voltage (up to 81.4 ℃ at 1.5 V), photothermal performance (98.6 ℃at 190 mW/cm2) and infrared stealth performance (the highest temperature difference of 37.9 ℃ between it and original fabric). The hydrophobic treatment by PFOTES imparts the composite fabric with a desirable water contact angle of 128.7° to achieve superior self-cleaning capability. And the hydrophobic coating established thereby also effectively enhances stability and durability of the multiple performances during use. The composite fabric has attractive potential for the application in EMI shielding, thermal management and infrared stealth, and is expected to become an ideal candidate for future intelligent electromagnetic protective clothing.}
+}

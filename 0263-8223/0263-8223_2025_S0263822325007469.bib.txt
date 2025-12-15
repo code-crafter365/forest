@@ -1,0 +1,13 @@
+@article{XIONG2025119581,
+title = {Characterization and prediction of temperature-dependent elastoplastic behavior in CF/PPS incorporating progressive hardening},
+journal = {Composite Structures},
+volume = {372},
+pages = {119581},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119581},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007469},
+author = {Pingping Xiong and Yao Wang and Ende Ge and YiTian Mao and JiuChuan Gao and Laishui Zhou and Zhenchao Qi},
+keywords = {Thermoplastic composites, Neuro networks, Mechanical behavior characterization and prediction, Constitutive model, Parameter identification},
+abstract = {Carbon fiber reinforced polyphenylene sulfide composite (CF/PPS), as a novel FRTP, exhibits temperature-dependent mechanical properties in its matrix. To address this, this study employs a cross-scale modeling approach combining experiments, simulations, and physics-informed neural networks to characterize the temperature-related plastic behavior of CF/PPS and establish a macroscopic mechanical performance prediction model. Key contributions include: 1) Development of a temperature-dependent constitutive model for PPS elastoplastic behavior incorporating progressive hardening and thermal softening, achieving precise identification of hardening parameters. 2) Establishment of an SC-Hill48 yield criterion suitable for CF/PPS, enabling homogenized mechanical behavior characterization and revealing the continuous variation of yield parameters with temperature. 3) Creation of a physics-informed neural network model that efficiently predicts the macroscopic elastoplastic mechanical properties of unidirectional CF/PPS from constituent parameters, with validity demonstrated through laminate tensile/drilling simulations and experiments. This research provides theoretical support and methodological references for modeling temperature-dependent mechanical behavior and engineering applications (e.g., drilling process optimization) of thermoplastic composites.}
+}

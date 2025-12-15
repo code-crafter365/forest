@@ -1,0 +1,13 @@
+@article{KUROSAWA2025114807,
+title = {Triton X-100 modulates lipid bilayer fluidity in opposing ways at the hydrophilic interface and hydrophobic interior, hindering water transport},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114807},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114807},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003145},
+author = {Yuya Kurosawa and Tomohiro Tsuchida and Satoru Goto},
+keywords = {Adjuvant, Triton X-100, Raft, Fluidity, Osmotic Stress},
+abstract = {Adjuvants enhance immune responses in vaccines, yet their molecular mechanisms remain unclear. This study explores the interaction between nonionic surfactants in adjuvants and phase-separated gel-phase lipid bilayers composed of hydrogenated phosphatidylcholine (HSPC). Using small unilamellar vesicles (SUVs), we examined the effects of Triton X-100 (TX100) on membrane dynamics through fluorescence polarization, fluorescence wavelength shifts, infrared spectroscopy, and osmotic response assays. We investigated the interaction of TX100 with HSPC membranes. TX100 penetrate the hydrophilic interface of the HSPC membrane where 8-anilinonaphthalene-1-sulfonic acid (ANS) was localized, increasing its fluidity. On the contrary, TX100 decreased the fluidity of the hydrophobic inner region of the HSPC membrane. In addition, the osmotic pressure resistance of HSPC membranes was improved by TX100. This action may induce biomembrane behavior related to antigen presentation, including endocytosis.}
+}

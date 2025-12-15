@@ -1,0 +1,13 @@
+@article{QIN2025105790,
+title = {Automatic recognition of debris rock lithology based on unsupervised semantic segmentation},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105790},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105790},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002735},
+author = {Shengda Qin and Qing Wang and Qihong Zeng and Maolin Ye and Anqi Fu and Guanzhou Chen},
+keywords = {Lithology recognition, Deep learning, Unsupervised learning, High-resolution remote sensing images},
+abstract = {Accurate identification of lithology in debris rock is crucial for optimizing resource development in geological exploration and the oil and gas industry. The traditional approach, which depends on experts manually analyzing remote sensing images, is not only laborious but also vulnerable to subjectivity. In contrast, supervised learning, although highly automated, is limited by the need for large-scale annotated data and sample imbalance issues. In our proposed unsupervised semantic segmentation method, automatic segmentation of rock images not only improves the efficiency and accuracy of lithology recognition but also reduces human errors, providing an effective solution for automated lithology analysis. We collected a large amount of debris rock data from the Qingshuihe-Karazha using remote sensing satellites and used an improved FCN network combined with super-pixel segmentation to generate pseudo labels instead of manual labeling, achieving unsupervised segmentation. We compared this method with traditional K-Means, ISODATA, and CNN + K-Means pseudo-label generation methods. By calculating evaluation metrics named ARE, AMI, and FMI, which are used for unsupervised semantic segmentation methods, we found that our method maintains high consistency and robustness in various image sizes, especially when the size of debris rock images is large, and its stability is superior. At the same time, we addressed the boundary issues caused by the need for block division in the lithology image of ultra-large debris rocks, as well as the problem of a large number of similar blocks after block division. The efficiency and accuracy of this method in lithology identification were determined, providing more convenient and efficient data processing methods for geological researchers.}
+}

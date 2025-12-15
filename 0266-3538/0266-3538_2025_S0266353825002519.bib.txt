@@ -1,0 +1,13 @@
+@article{WOODGATE2025111283,
+title = {Raman spectroscopic stress mapping of carbon nanotube coated single high modulus carbon fibres in compression},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111283},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111283},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002519},
+author = {Cameron G. Woodgate and David B. Anthony and Richard S. Trask and Milo S.P. Shaffer and Stephen J. Eichhorn},
+keywords = {Carbon fibres, Carbon nanotubes, Interface, Fibre/matrix bond, Raman spectroscopy},
+abstract = {Single walled carbon nanotubes (SWCNTs) can be introduced onto the surface of carbon fibres to modulate stress transfer, introduce functionality, or act as local mechanical sensors. This study explores the effects of such a coating on the micromechanics of single fibre epoxy composites, under compression, using in situ Raman spectroscopy to obtain local and spatial stress maps. These maps can be analysed to quantify interfacial shear stress and show that the introduction of the SWCNTs increases the maximum interfacial shear stress of this carbon fibre epoxy system (M55/M46-DGEBA) from 23 MPa to 45 MPa. There is a corresponding decrease in the critical stress transfer length (from 420 μm to 252 μm), verified by optically measuring mean fragment lengths. The use of SWCNTs as a means to enhance the compressive properties of bulk carbon fibre-based composites is discussed, in the light of these new micromechanics results.}
+}

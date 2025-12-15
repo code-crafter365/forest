@@ -1,0 +1,13 @@
+@article{ZHANG2025114360,
+title = {Advances in the application of carbon dots-based fluorescent probes in disease biomarker detection},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114360},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114360},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006192},
+author = {Haoqi Zhang and Qingmei Zhang and Naihui Li and Guoqing Yang and Zewei Cheng and Xiujuan Du and Lingxiang Sun and Wei Wang and Bing Li},
+keywords = {CDs, Fluorescent probe, Disease biomarker, Sensing},
+abstract = {Carbon dots (CDs), as an emerging nanomaterial, have shown tremendous potential in disease biomarker detection. CDs can selectively interact with different target molecules, enabling highly sensitive and specific detection of these biomolecules. Compared to traditional detection methods, CDs sensors offer advantages such as rapid response, high detection sensitivity, and low cost. In this review, we summarize the latest advances in the application of CDs fluorescence probes for the detection of disease biomarkers, including sensing mechanisms, and their applications in the selective detection of metal ions, amino acids, enzymes, proteins, other biomolecules, as well as bacteria and viruses. We discuss the current challenges and issues associated with the practical application of CDs-based fluorescent probes. Furthermore, we propose future directions for the development of CDs. We hope that this review will provide new insights for researchers in the field of disease biomarker detection.}
+}

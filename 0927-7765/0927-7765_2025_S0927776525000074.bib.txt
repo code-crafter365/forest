@@ -1,0 +1,13 @@
+@article{WEN2025114500,
+title = {The latest applications of exosome-mediated drug delivery in anticancer therapies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114500},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114500},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000074},
+author = {Zhiwei Wen and Wei Zhang and Wei Wu},
+keywords = {exosomes, anticancer drugs, molecular delivery, cancer treatment},
+abstract = {In recent years, the significant role of anticancer drugs in cancer treatment has garnered considerable attention. However, the application of these drugs is largely limited by their short half-life in blood circulation, low cellular uptake efficiency, and off-target effects. Exosomes, which serve as crucial messengers in intercellular communication, exhibit unique advantages in molecular delivery compared to traditional synthetic carriers, thereby offering new possibilities for modern drug delivery systems. Exosomes possess organotropic functions and are naturally produced by cells, making them promising candidates for natural drug delivery systems with organotropic properties and minimal side effects. These naturally derived carriers can achieve stable, efficient, and selective delivery of anticancer drugs, thereby enhancing the efficacy and potential of anticancer agents in cancer immunotherapy. This review provides a concise overview of the unique characteristics of exosomes related to anticancer drug delivery, strategies for utilizing exosomes as carriers in cancer therapy, and the latest advancements in the field.}
+}

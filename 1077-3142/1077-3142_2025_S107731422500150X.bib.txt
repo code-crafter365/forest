@@ -1,0 +1,13 @@
+@article{KHALEGHI2025104427,
+title = {GraPLUS: Graph-based Placement Using Semantics for image composition},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104427},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104427},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500150X},
+author = {Mir Mohammad Khaleghi and Mehran Safayani and Abdolreza Mirzaei},
+keywords = {Object placement, Scene graphs, Language models, Graph neural networks, Image composition, Attention mechanism},
+abstract = {We present GraPLUS (Graph-based Placement Using Semantics), a novel framework for plausible object placement in images that leverages scene graphs and large language models. Our approach uniquely combines graph-structured scene representation with semantic understanding to determine contextually appropriate object positions. The framework employs GPT-2 to transform categorical node and edge labels into rich semantic embeddings that capture both definitional characteristics and typical spatial contexts, enabling a nuanced understanding of object relationships and placement patterns. GraPLUS achieves a placement accuracy of 92.1% and an FID score of 28.83 on the OPA dataset, outperforming state-of-the-art methods by 8.3% while maintaining competitive visual quality. In human evaluation studies involving 964 samples assessed by 38 participants, our method was preferred in 51.8% of cases, significantly outperforming previous approaches (25.8% and 22.4% for the next best methods). The framework’s key innovations include: (i) leveraging pre-trained scene graph models that transfer knowledge from other domains, eliminating the need to train feature extraction parameters from scratch, (ii) edge-aware graph neural networks that process scene semantics through structured relationships, (iii) a cross-modal attention mechanism that aligns categorical embeddings with enhanced scene features, and (iv) a multiobjective training strategy incorporating semantic consistency constraints. Extensive experiments demonstrate GraPLUS’s superior performance in both placement plausibility and spatial precision, with particular strengths in maintaining object proportions and contextual relationships across diverse scene types.}
+}

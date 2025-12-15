@@ -1,0 +1,13 @@
+@article{HE2025119670,
+title = {Bio-inspired hybrid design and mechanical properties of 3D compression-twist coupling chiral lattice with functional integration},
+journal = {Composite Structures},
+volume = {373},
+pages = {119670},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119670},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008359},
+author = {Pengpeng He and Yintang Wen and Xi Liang and Xiaoli Du and Yankai Feng and Yue Di and Yuyan Zhang},
+keywords = {Bio-inspired hybrid design, Additive manufacturing, Mechanical metamaterials, Compression-twist coupling effect, Functional integration},
+abstract = {Current lattice structures lack twist characteristics and remain insufficiently studied under large deformations, limiting their potential in advanced engineering, particularly mode conversion. Inspired by the chiral double-helix of DNA, we propose a configuration integrating spatial helical chirality with body-centered cubic (BCC) topology, creating a new class of three-dimensional chiral lattices. This study focuses on the four-helix-chiral hybrid (FHC-BCC) unit cell, examining its large-deformation mechanical response via quasi-static compression experiments and finite element simulations. Specimens were fabricated using selective laser melting (SLM) and tested on a universal testing machine. Parametric analysis shows the hybrid configuration sustains stable twisting, enhances energy absorption, and maintains parallel ligament orientation during deformation. Increasing strut diameter d raises relative density, improves energy dissipation, and enables linear modulation of twist evolution, while increasing layer number N augments densification strain and refines compression-twist coupling for programmable twist control. These results highlight the role of geometric-topological synergy in tuning mechanical performance and broaden the design space for multifunctional metamaterials. The proposed architecture provides a viable route to high-performance, functionally integrated lattice systems with tunable mode conversion capability.}
+}

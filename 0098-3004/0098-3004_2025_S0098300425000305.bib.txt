@@ -1,0 +1,13 @@
+@article{XIE2025105880,
+title = {An integrated neighborhood and scale information network for open-pit mine change detection in high-resolution remote sensing images},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105880},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105880},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000305},
+author = {Zilin Xie and Kangning Li and Jinbao Jiang and Jinzhong Yang and Xiaojun Qiao and Deshuai Yuan and Cheng Nie},
+keywords = {Change detection (CD), Open-pit mines, Neighborhood information, Scale information, High-resolution (HR) remote sensing},
+abstract = {The open-pit mine change detection (CD) in high-resolution remote sensing images plays a crucial role in mineral development and environmental protection. Recent advancements in deep learning have significantly promoted the open-pit mine CD. However, the existing deep-learning-based CD methods encounter challenges in effectively integrating neighborhood and scale information from high-resolution remote sensing images, resulting in insufficient performance. Therefore, according to exploration of the influence patterns of neighborhood and scale information, this paper proposed an integrated neighborhood and scale information network (INSINet) dedicated to open-pit mine CD in high-resolution remote sensing images. Specifically, INSINet introduces 8-neighborhood-image information to expend the receptive field, which improves the recognition of boundary regions in center images. Drawing on techniques of skip connection, deep supervision, and attention mechanism, the multi-path deep supervised attention module is designed to enhance multi-scale information for fusion and change feature extraction. Experimental results demonstrate that incorporating neighborhood and scale information increases the F1 score of INSINet by 6.40%, with improvements of 3.08% and 3.32% respectively. INSINet outperforms existing methods, achieving an overall accuracy of 97.69%, an intersection over union of 71.26%, and an F1-score of 83.22%. INSINet shows significance for open-pit mine CD in high-resolution remote sensing images.}
+}

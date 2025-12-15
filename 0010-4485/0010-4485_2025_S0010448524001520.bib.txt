@@ -1,0 +1,13 @@
+@article{ZHENG2025103825,
+title = {Feature-aware Singularity Structure Optimization for Hex Mesh},
+journal = {Computer-Aided Design},
+volume = {180},
+pages = {103825},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103825},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001520},
+author = {Xiaopeng Zheng and Junyi Duan and Na Lei and Zhongxuan Luo},
+keywords = {Hex mesh, Sheet operation, Singularity structure optimization, Feature-aware},
+abstract = {Hexahedral (Hex) mesh topology optimization holds significant importance in various engineering and scientific applications. Most of the previous algorithms just use collapse operations in most cases, and less frequently use inflation operations, limited by the flexibility as well as the complexity of inflation operations in complex singularity structures, which restricts efficacy of methods. Furthermore, the singularities from previous optimization methods are located in the interior, which cannot be aligned to the features. In this paper, we verify that sheet collapse and inflation operations are capable of representing all hex mesh topology operations. Moreover, we introduce a feature-aware hex mesh optimization algorithm via sheet operations. The algorithm employs a greedy collapse strategy to simplify singularities, utilizes inflation operations to optimize high-degree singularities, and aligns singularities with feature lines. The sheet inflation algorithm we propose obtains the initial surface from an edge and is capable of generating simple surfaces even in complex topological structures. The experiments demonstrate the superior performance of our algorithm in feature preservation and optimization capability.}
+}

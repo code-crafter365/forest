@@ -1,0 +1,13 @@
+@article{FENG2025110984,
+title = {High performance and multi-UV curable materials adaptable photothermal nanoparticles for near-infrared-responsive digital light processing based 4D printing},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110984},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110984},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005542},
+author = {Shiwei Feng and Jingjing Cui and Yunlong Guo and Weizi Gao and Yongding Sun and Chen Liang and Zhe Lu and Biao Zhang},
+keywords = {4D printing, WO NPs, Photothermal, Highly performance, Digital light processing},
+abstract = {Integration of functional nanomaterials into 3D printing polymers expands the versatility of 4D printing. However, high performance and multi-UV curable materials adaptable nanoparticles for 4D printing are still urgently needed to avoid printing complications and deformation limitations caused by high filler loadings. Here, high performance oxygen-deficient tungsten oxide nanoparticles (WO3-x NPs) are synthesized via a straightforward hydrothermal method, and the resulting nanoparticles (NPs) exhibit excellent photothermal property which can rapidly increase from room temperature to 562.6 °C in less than 2 s via near-infrared (NIR) light irradiation. Moreover, these NPs can also be well dispersed in a wide range of photocurable polymers, such as UV curable hydrogel, shape memory polymer, and dual-curing polymer, forming variety of nanocomposite systems. The formed nanocomposite systems can be manufactured into complex 3D structures via digital light processing based 4D printing. Just trace WO3-x NPs in nanocomposite systems (<2 wt‰) can help realize the controllable photothermal properties of the printed structures, which are capable of arbitrary spatial deformation, remote-controlled distortion, and on-demand reinforcement in response to NIR irradiation, presenting a succinct and impactful approach to broadening the application scope of light-controlled DLP-based 4D printing.}
+}

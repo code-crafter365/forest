@@ -1,0 +1,13 @@
+@article{YU2025103810,
+title = {Minimal surface-guided higher-order mesh generation for CAD models},
+journal = {Computer-Aided Design},
+volume = {178},
+pages = {103810},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103810},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001374},
+author = {Kaixin Yu and Bohan Wang and Xuejuan Chen and Ying He and Jianjun Chen},
+keywords = {Higher-order mesh generation, Curvilinear mesh, Mesh optimization, Minimal surface},
+abstract = {This paper presents a novel method for generating higher-order meshes for CAD surfaces by leveraging minimal surface theory to improve element shapes. We explore the concept of higher-order mesh distortion through deformation gradients and introduce an energy function designed to minimize the surface area of these meshes, providing a theoretical justification for its effectiveness in untangling. The process of mesh generation starts with segmenting CAD surfaces into linear elements, followed by the insertion of higher-order nodes within these elements. These nodes are then projected onto the CAD surface to form the initial higher-order elements. By optimizing energy functions related to minimal surfaces and the projection distances, we achieve high-quality, geometrically accurate higher-order surface meshes. Our method has been validated on complex geometries, showcasing its potential in creating effective higher-order meshes for industrial CAD models.}
+}

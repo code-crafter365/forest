@@ -1,0 +1,13 @@
+@article{ZARAGKAS2025119720,
+title = {Multi-Level testing and numerical validation of CF-LMPAEK thermoplastic composites for aerospace structural applications},
+journal = {Composite Structures},
+volume = {374},
+pages = {119720},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119720},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008852},
+author = {Thomas Zaragkas and George Sotiriadis and Vassilis Kostopoulos and Spyridon Psarras},
+keywords = {Thermoplastic composites, Building block approach testing, FEM modelling},
+abstract = {This study presents a comprehensive experimental building block approach for characterizing the recently developed TC1225 thermoplastic composite (TPC) material which utilizes the high-engineered LMPAEK matrix that can offer several beneficial characteristics of already existed TPC matrices, using in-house developed testing methodologies, with the goal of designing reliable multi-stiffened panels for aerospace applications. Buildinguponprevious work, we investigate the upper-levels of the testing pyramid, focusing on adhesive properties, component behavior, and panel performance. The adhesion capabilities between components were thoroughly examined through Mode-I and Mode-II fracture tests, revealing significant limitations. At the component level, skin-stiffener and skin-stiffener-frame subassemblies were subjected to compression, where bucklingwas monitored via 3D Digital Image Correlation (DIC) and damage mechanisms were identified through Acoustic Emission (AE). Advanced numerical modellingdemonstrated excellent correlation with experimental results, particularly in predicting buckling initiation and damage progression. The models accurately captured the dominant failure mechanisms. The TC1225 material exhibited superior in-plane loading performance, with damage primarily accumulating in the stiffener and adhesive. We introduced two novel methodologies for DICand AEquantitative comparison with FEM findings, enhancing model validation accuracy. This integrated testing and modelling approach provides a validated framework for predicting the performance of TPC stiffened panels.}
+}

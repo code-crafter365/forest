@@ -1,0 +1,13 @@
+@article{PINONGOMEZ2025114589,
+title = {Formulation and heat stability of self-assembled O/W food-grade microemulsions formulated with bile salts or tween 80 as surfactants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114589},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114589},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000967},
+author = {Liliana Piñon-Gómez and Néstor Gutiérrez-Méndez and José C. Rodríguez-Figueroa and Martha Y. Leal-Ramos and Maria R. Peralta-Pérez and Martha Ruiz-Gutiérrez and León R. Hernández-Ochoa and Diego E. Carballo-Carballo and Blanca E. Sánchez-Ramírez},
+keywords = {Microemulsions, Bile salts, Tween 80, Food-grade microemulsions, Microemulsion thermostability, Self-assembled emulsions},
+abstract = {Recently, there has been a growing interest in developing food-grade (F-G) microemulsions (MEMs) with potential applications in the food industry, such as a green solvent for extracting bioactive compounds or as a vehicle to solubilize low-polar bioactive compounds. Therefore, this work aimed to create F-G MEMs using a low-energy titration method, bile salt or tween 80 as surfactants, and F-G ingredients like acetic acid, olive oil, limonene, and coconut oil. For this purpose, 56 formulations were assessed, from which 14 created oil-in-water (O/W) one-phase Winsor type IV microemulsions. All the F-G MEMs were transparent (turbidity ≤ 0.17 %) with watery densities (1.00 – 1.034 g/cm3) and viscosities (∼1–5 mPa･s). The MEMs formulated with bile salts had a neutral pH (7.75) and could only solubilize small lipids like limonene (2 % maximum). In contrast, those MEMs using tween 80 as surfactant showed an acidic pH (∼1–5.9) and could solubilize triglyceride-based lipids (0.2 % maximum) and limonene (4 % maximum) at surfactant concentrations as low as 1 %. The F-G MEMs were successfully created using the low-energy titration method, although the time to form each MEM varied significantly. The MEMs formulated with bile salts were self-assembled in ∼12 h, whereas the formation of MEMs with tween 80 required up to 28 days. Nevertheless, once the MEMs were formed, they presented extraordinary stability to high-shear stirring (15,600 rpm for 5 min) and heating (up to 150 ºC) without turning cloudy or showing a phase separation.}
+}

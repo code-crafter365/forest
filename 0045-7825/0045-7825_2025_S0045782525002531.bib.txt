@@ -1,0 +1,13 @@
+@article{CAMARGO2025117981,
+title = {Minimum-residual a posteriori error estimates for HDG discretizations of the Helmholtz equation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117981},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117981},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002531},
+author = {Liliana Camargo and Sergio Rojas and Patrick Vega},
+keywords = {Hybridizable discontinuous Galerkin method, Residual minimization, Postprocessing, Superconvergence, A posteriori error analysis, Adaptive mesh refinement},
+abstract = {We propose and analyze two a posteriori error indicators for hybridizable discontinuous Galerkin (HDG) discretizations of the Helmholtz equation. These indicators are built to minimize the residual associated with a local superconvergent postprocessing scheme for the primal variable, measured in a dual norm of an enlarged discrete test space. The residual minimization is reformulated into equivalent local saddle-point problems, yielding a superconvergent postprocessed approximation of the primal variable in the asymptotic regime for sufficiently regular exact solutions and a built-in residual representation with minimal computational effort. Both error indicators are based on frequency-dependent postprocessing schemes and verify reliability and efficiency estimates for a frequency-weighted H1-error for the scalar unknown and the L2-error for the flux. We illustrate our theoretical findings through ad-hoc numerical experiments.}
+}

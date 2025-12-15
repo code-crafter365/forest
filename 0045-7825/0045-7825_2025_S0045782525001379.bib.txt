@@ -1,0 +1,13 @@
+@article{SILVA2025117865,
+title = {Addressing concave boundaries in two-dimensional pointwise contact detection under the common-normal concept},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117865},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117865},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001379},
+author = {Lucas da Silva and Marina Vendl Craveiro and Alfredo {Gay Neto}},
+keywords = {Master-master, Contact detection, Local contact search, Concave, Two-dimensional contact},
+abstract = {Contact search, the step where pairs of interacting points are identified, is crucial in computer methods for contact mechanics. This work explores the properties of contact pairs in a specific approach known as master-master method, combined with a hybrid-barrier enforcement method. The scope is on two-dimensional non-conformal contact, modeled as pointwise. Line-to-line and other instances of flat contact, for which a distribution of pressure over a region of finite size better represents their physics, are avoided. The main goal is to overcome the non-uniqueness of solutions when considering concave geometries. The bodies are defined by parameterized plane curves composed of strictly convex segments that represent either convex or concave boundaries. In the master-master approach, contact pairs are characterized by the common normal concept. Within this framework, contact pairs are classified into four types: convex-convex, matchable convex-concave, non-matchable convex-concave, and concave-concave. The Hessian of the squared distance function is analyzed for each type to further characterize them. Characterization using the Hessian matrix reveals that convex-convex and matchable convex-concave pairs are local minimizers of the squared distance function, while the other two types are either saddle points or maximizers. This enables a demonstration of the uniqueness of solutions for convex bodies. In the convex-concave case, projecting the concave boundary onto the convex one results in a univariate restricted objective function that distinguishes matchable pairs as minimizers and non-matchable pairs as maximizers. This function is used to propose a robust search algorithm that includes subdividing the domain into intervals with at most one minimizer, enabling the practical use of iterative minimization techniques to find all desired contact solutions. An algorithm for contact search that accommodates concave geometries is especially valuable in multibody applications.}
+}

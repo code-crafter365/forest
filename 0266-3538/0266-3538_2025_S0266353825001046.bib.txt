@@ -1,0 +1,13 @@
+@article{TAN2025111136,
+title = {Hierarchical mxene/Fe3O4/cellulose nanofiber composites with layer-by-layer architecture for high-performance electromagnetic interference shielding},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111136},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111136},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001046},
+author = {Xiaoxuan Tan and Yang He and Chunhong Wang and Yu Zhang and Wenshu Wang and Hanyu Li and Rongrong Yu},
+keywords = {Electromagnetic interference shielding, Layer-by-layer structure, Magnetic nanofibers, MXene, Multiple electromagnetic loss mechanism},
+abstract = {The proliferation of electronic devices has made electromagnetic interference (EMI) shielding increasingly critical for both device performance and human health protection. Here, we demonstrate a hierarchical composite film that achieves exceptional EMI shielding through the synergistic integration of magnetic nanofibers and MXene nanosheets. By combining electrospinning and layer-by-layer assembly, we fabricate a composite structure where Fe3O4-loaded cellulose/PAN nanofibers alternate with Ti3C2Tx MXene layers, creating multiple heterogeneous interfaces for enhanced electromagnetic wave attenuation. The engineered architecture promotes multiple electromagnetic loss mechanisms through interface polarization, magnetic losses, and multiple internal reflections. The optimized composite exhibits remarkable performance metrics: achieving a thickness-specific shielding efficiency of 118 dB/mm at just 0.18 mm thickness, significantly surpassing current commercial standards. At 0.64 mm thickness, the electromagnetic shielding effectiveness reaches 33.2 dB, effectively blocking over 99.9 % of electromagnetic radiation. Notably, the composite demonstrates exceptional mechanical durability, retaining 96.8 % of its shielding effectiveness after 300 bending cycles. The integration of renewable cellulose and magnetic components with highly conductive MXene not only enhances electromagnetic wave attenuation but also promotes environmental sustainability. This combination of ultra-thin profile, superior shielding performance, and mechanical flexibility, coupled with eco-friendly material selection, provides a promising pathway for EMI protection.}
+}

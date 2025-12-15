@@ -1,0 +1,13 @@
+@article{XU2025119439,
+title = {Improving weld microstructure and performance of Al-Mg-Si aluminum alloys joints through dual-wavelength hybrid near-infrared and blue laser welding},
+journal = {Composite Structures},
+volume = {370},
+pages = {119439},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119439},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500604X},
+author = {C. Xu and J.M. Yu and Q.L. Zhu and Z.Y. Zhang and X. Li and Z.H. Zhang and X.N. Wang and Z.R. Hu and Q.W. Chen and H. Nagaumi},
+keywords = {Al-Mg-Si alloy, Welding structures, Blue laser, Hybrid welding, Microstructure, Mechanical properties},
+abstract = {The increasing demand for high-performance dissimilar alloy welding structures in advanced manufacturing, particularly in aerospace and automotive industries, has spurred innovations in welding technologies. This study pioneers the application of a hybrid near-infrared (NIR, 1064 nm) and blue (450 nm) laser system for welding dissimilar Al-Mg-Si alloys, addressing critical challenges in energy coupling and solidification control. Key findings indicate that the dual-wavelength system enhances energy absorption and molten pool dynamics, optimizing weld morphology. The hybrid approach accelerates solidification rates and reduces the G/R ratio, promoting equiaxed grain formation and refining microstructures, particularly in the 1700 W NIR + 500 W blue configuration, which achieved a minimum grain size of ∼ 38 μm. Elemental distribution was improved, minimizing segregation and enhancing matrix cohesion. Additionally, the introduction of blue laser energy effectively reduced porosity by lowering viscosity and facilitating gas escape, leading to more stable welds. Mechanical testing revealed increased tensile strength (up to 290 MPa) and refined fracture morphologies, underscoring the benefits of grain refinement. The hybrid system also enables tailored control over the partially melted zone and fusion line characteristics, essential for welding dissimilar alloys with varying thermal properties. This research not only addresses critical gaps in dual-wavelength welding but also lays the groundwork for high-performance applications in dissimilar alloy composite structures.}
+}

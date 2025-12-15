@@ -1,0 +1,13 @@
+@article{HU2025114794,
+title = {Synthesis and study on treatment mechanism of galactosyl metalloporphyrin targeting hepatocarcinoma},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114794},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114794},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003017},
+author = {Wei Hu and Jie Zhou and Jing Huang and Yanhua Yu},
+keywords = {Porphyrin, Targeted therapy, Drug tracing, Treatment mechanism, Hepatocarcinoma},
+abstract = {Tetra-antennary galactosyl metalloporphyrin ZnTPPGal targeting hepatocarcinoma was synthesized. ZnTPPGal exhibited excellent fluorescent properties and high mortality (IC50 0.91 × 10−5 M ± 2.59) to HepG2 cells, showing good potential in drug tracing and targeted therapy. Relative quantitation proteomics analysis revealed that ZnTPPGal induced 475 differentially expressed proteins (DEPs) including 174 upregulated and 301 downregulated (Ratio > 1.5 or < 0.67). ZnTPPGal could inhibit cell survival and activate apoptosis mainly through endoplasmic reticulum stress pathway and mitochondrial dependent pathway, while did not activate autophagy. Functional proteins of EGFR, ASK1, Cat D, Rho, JNK, RagB and Rheb could be used as potential candidate proteins for hepatocarcinoma treatment and drug development.}
+}

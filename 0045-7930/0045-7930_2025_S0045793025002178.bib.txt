@@ -1,0 +1,13 @@
+@article{VALERO2025106757,
+title = {Improved State Estimation for turbulent flows combining Ensemble Data Assimilation and Machine Learning},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106757},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106757},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002178},
+author = {Miguel M. Valero and Marcello Meldi},
+keywords = {EnKF, ML, RFR, IBM, Wall turbulence},
+abstract = {A novel strategy is proposed to improve the accuracy of state estimation and the reconstruction from low-fidelity models and sparse data from sensors. This strategy combines ensemble Data Assimilation (DA) and Machine Learning (ML) tools, exploiting their complementary features. ML techniques rely on the data produced by DA methods during analysis phases to train physics-informed corrective algorithms, which are then coupled with the low-fidelity models when data from sensors is unavailable. The methodology is validated via the analysis of the turbulent plane channel flow test case for Reτ≈550. Here, the low-fidelity model consists of coarse-grained simulations coupled with the Immersed Boundary Method (IBM), while observation is sampled by a highly refined body-fitted calculation. The analysis demonstrates the capabilities of the algorithm based on DA and ML to accurately predict the flow features with significantly reduced computational costs. This approach exhibits potential for future synergistic applications of DA and ML, leveraging the robustness and efficiency of ML models alongside the physical interpretability ensured by DA algorithms.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025117976,
+title = {Space–time isogeometric topology optimization with additive manufacturing constraints},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117976},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117976},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002488},
+author = {Li Yang and Weiming Wang and Ye Ji and Chun-Gang Zhu and Charlie C.L. Wang},
+keywords = {Isogeometric analysis, Space–time topology optimization, Heat conduction equation, Additive manufacturing, Layer thickness},
+abstract = {This paper presents a novel space–time isogeometric topology optimization (ITO) framework for additive manufacturing, enabling concurrent optimization of structural shape and fabrication sequence with accurate geometric representation. The method integrates a density distribution function with a pseudo-time function to optimize build sequences for complex structures, with an objective function that minimizes compliance under external loads and accounts for self-weight effects during fabrication. Density values and virtual heat conduction coefficients are defined at B-spline control points to serve as design variables. A heat conduction-based formulation is employed to generate the pseudo-time function so that prevents the generation of isolated or floating material regions. A layer thickness constraint, defined by the pseudo-time gradient, further enhances manufacturability. The approach has been validated in 2D and 3D examples, demonstrating its effectiveness in managing objectives of entire structure’s stiffness and self-weight of intermediate structures.}
+}

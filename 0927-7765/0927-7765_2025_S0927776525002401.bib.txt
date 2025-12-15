@@ -1,0 +1,13 @@
+@article{FORTE2025114733,
+title = {Optimization of aerosolizable and bioactive essential oils-based nanoemulsions: Physico-chemical and biological characterization},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114733},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114733},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002401},
+author = {Jacopo Forte and Eleonora D'Intino and Floriana Cappiello and Carlo Vetrano and Maria Gioia Fabiano and Agnese Viscido and Maria Grazia Ammendolia and Bruno Casciaro and Federica Rinaldi and Maria Carafa and Maria Luisa Mangoni and Carlotta Marianecci},
+keywords = {Drug Delivery, Nanoemulsions, Essential oil, Antimicrobial activity, Gram-negative bacteria},
+abstract = {Antibiotic resistance is one of the major threats to public health, with an increasing number of deaths annually and respiratory tract infections are considered a leading cause of global death, particularly in vulnerable populations. It is therefore extremely urgent to find new therapeutic strategies to overcome this problem and one of these is represented by the design of aerosolizable nanoformulations (NEs). In this work we designed NEs composed by a mixture of Rosmarinus officinalis and Thymus vulgaris essential oils aiming to obtain an active nanocarrier capable and useful to entrap different active compounds. The formulation, NEs-1, was deeply characterized in terms of dynamic light scattering, ζ-potential measurements, stability studies, antimicrobial activity and cytotoxicity. Our results showed that NEs-1 exhibited useful physico-chemical properties for nose-to lung applications, as well as significant biological activity. However, at the selected oil concentration, it induced cytotoxic effects on eukaryotic cells. We subsequently identified the optimum oil concentration, and the formulation was then optimized to obtain NEs-2, nanoemulsions with similar physico-chemical properties to NEs-1. NEs-2 was furthermore characterized by morphological analysis, in terms of resistance to nebulization process and stability in simulated biological fluid such as nasal and artificial sputum. Moreover, NEs-2 demonstrated the ability to slow down the growth of E. coli and K. pneumoniae, confirming its potential as a bioactive carrier with the aim of encapsulating antimicrobial molecules and increasing their effectiveness and reducing their adverse effects.}
+}

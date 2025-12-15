@@ -1,0 +1,13 @@
+@article{RODRIGUEZGONZALEZ2025114640,
+title = {Achievements in 3D printing of silica-based materials for bone tissue engineering},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114640},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114640},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500147X},
+author = {Raquel Rodríguez-González and Luis M. Delgado and Román A. Pérez},
+keywords = {Silica, 3D Printing, Calcium silicate, Bioactive glass, Sol-gel, Bone},
+abstract = {Silica-based materials have been commonly studied in the field of bone tissue regeneration, due to their high bioactivity and osteogenic properties. There are two main strategies to obtain silica-based materials, a melt-quenching process using high temperatures, or a sol-gel reaction which can be carried out at mild conditions. Both techniques allow the preparation of calcium silicates and bioactive glasses, but pure silica can only be prepared through the sol-gel method. Furthermore, current clinical treatments require personalized scaffolds and these materials can be combined with the use of 3D printing techniques to obtain patient-specific scaffolds in a fast and precise fabrication process. This review focuses on the different silica-based 3D printable materials available nowadays as well as their physical, chemical and biological properties. Using high temperature, composites can be developed using Fused Deposition Modelling (FDM), while pure silica scaffolds can be prepared through Selective Laser Sintering (SLS) using silica particles. Moreover, silica particles can be 3D printed when combining polymeric binders and SLS, Stereolitography (SLA) or Direct Ink Writing (DIW); however, binder has to be removed at high temperatures after 3D printing. Alternatively, 3D printable silica materials can be obtained at mild temperatures through DIW or SLA, in this case only allowing the printing of composites or hybrids so far, with different proportions of silica. The properties of the resultant materials as well as the main advantages and disadvantages of the printing approaches are summarized in this review, together with the future perspectives in the field of silica 3D printed scaffolds.}
+}

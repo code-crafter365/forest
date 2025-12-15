@@ -1,0 +1,13 @@
+@article{RAJA2025118811,
+title = {A method for realizing continuous tungsten fiber-reinforced steel matrix composites by wire-arc-based directed energy deposition},
+journal = {Composite Structures},
+volume = {354},
+pages = {118811},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118811},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009395},
+author = {Sathesh Raja and Umesh Melkani and Ritam Sarma and Sajan Kapil and Nelson Muthu},
+keywords = {Metal matrix composites, Continuous tungsten fiber reinforcement, Wire arc additive manufacturing, Hybrid additive manufacturing},
+abstract = {Wire-arc-based directed energy deposition (DED) has enabled the onsite fabrication of large-scale metallic components. Low carbon steels are one of the common materials used for large-scale structures. However, to strengthen the low carbon steel, an appropriate heat treatment method is required, which is challenging to adapt for large-scale components. An alternative approach to improve strength is to reinforce the steel with stronger materials. This work presents a hybrid manufacturing approach (additive + subtractive) to realize continuous fiber-reinforced metal matrix composites. Wire-arc-based DED was adopted to deposit metal matrix followed by a subtractive method to create grooves for accurate placement of continuous fibers for the fabrication of each layer. The method was successfully implemented for the fabrication of a low carbon steel composite reinforced with 1.2 mm tungsten fibers and was tested under different loading conditions. Tensile and compressive yield strengths are improved by 151 % and 264 %, respectively. The flexural load resistance is improved by 152 % and the fracture toughness is increased by 153 %. The developed metal matrix composite shields gamma radiation with 40 % more effectiveness. Hence, fabricated composites may find potential applications as structural members in defense and nuclear industries.}
+}

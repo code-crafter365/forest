@@ -1,0 +1,13 @@
+@article{CHARAKLIAS2025119124,
+title = {A variable stiffness structure with an embedded periodic metallic mesh},
+journal = {Composite Structures},
+volume = {364},
+pages = {119124},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119124},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002892},
+author = {Dimitrios Charaklias and Dayuan Qiang and Robert Dorey and Iman Mohagheghian},
+keywords = {Variable stiffness structures, Active structural control, Periodic Metallic Mesh, Electro-thermo-mechanical modelling},
+abstract = {This study investigates the performance of a multi-layered variable stiffness structure with an embedded metallic mesh as a heating source. A combined experimental and numerical approach was employed to assess the heating efficiency, temperature distribution, and stiffness modulation. The embedded metallic mesh, with seamless junctions and an 11 % fill factor, achieved uniform temperature distribution, heating rate of 6.4 °C/sec and induced a 30 % reduction in stiffness at an applied current of 5 A. However, localised overheating led to matrix damage in the form of thermal hotspots. To mitigate this, a modulated current input was introduced using a 50 % duty cycle square pulse at frequencies ranging from 1 Hz to 10 Hz. This modulation successfully reduced peak hotspot temperatures by 30 %, prevented matrix degradation, and improved initial system response time while maintaining the desired temperature profile. Furthermore, numerical simulations were conducted to evaluate the impact of various metallic mesh topologies, each maintaining a constant fill factor. The results indicate that topology plays a significant role in heating efficiency, particularly at lower current densities. These findings offer critical insights into the design of advanced variable stiffness materials with large stiffness variation and fast response dynamics.}
+}

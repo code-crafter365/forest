@@ -1,0 +1,13 @@
+@article{PACHECO2025118240,
+title = {Consistent splitting SAV schemes for finite element approximations of incompressible flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118240},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118240},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005122},
+author = {Douglas R.Q. Pacheco},
+keywords = {Fractional-step methods, SAV schemes, Incompressible Navier–Stokes, IMEX methods, Splitting schemes, BDF2},
+abstract = {Consistent splitting schemes are among the most accurate pressure segregation methods, incurring no splitting errors or spurious boundary conditions. Nevertheless, their theoretical properties are still only partially understood, especially when finite elements are used for the spatial discretisation. This work proposes a simple scalar auxiliary variable (SAV) technique that, when combined with standard finite elements in space, guarantees unconditional stability for first- and second-order consistent splitting schemes. The framework is implicit-explicit (IMEX) and only requires solving (vector-valued) linear transport equations and a pressure Poisson problem per time step. Furthermore, pressure stability is attained with respect to a stronger norm than in classical projection schemes, which allows circumventing the inf-sup condition and using, for example, equal-order velocity-pressure pairs. The accuracy of the new framework is assessed through numerical examples.}
+}

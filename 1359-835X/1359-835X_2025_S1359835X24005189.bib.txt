@@ -1,0 +1,13 @@
+@article{SIMAAFROOKHTEH2025108520,
+title = {Crystallinity of neat and carbon fiber-reinforced polyamide-6 processed at different cooling rates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108520},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108520},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005189},
+author = {Sepehr Simaafrookhteh and Thijs {Van Thillo} and Stepan V. Lomov and Jan Ivens},
+keywords = {Crystallinity, Carbon Fiber/Polyamide-6 (CF/PA6) Composite, Cooling Rate Effects, Compression Molding, Injection Molding},
+abstract = {The cooling rate of the manufacturing process can significantly alter the performance of the semi-crystalline polymers and composites by influencing their degree of crystallinity (DOC). To this end, the research studies the cooling rate effect on the crystallization of injection-molded polyamide-6 (PA6) and carbon fiber-reinforced PA6 (CF/PA6) compression-molded laminates. DSC, mDSC, and XRD techniques are used and compared for DOC characterization while highlighting the challenges and possible erroneous results when using DSC and XRD. mDSC results after careful drying and storage and due to the capacity of the technique to separate the reversing and non-reversing signals showed consistent results, while the XRD underestimated the DOC. Based on mDSC, different cooling methods of the compression molding process induced DOCs in the 36–50 % range for the CF/PA6 laminates, whereas changing the mold temperature of the injection molding process resulted in PA6 films with DOC of 28–35 %.}
+}

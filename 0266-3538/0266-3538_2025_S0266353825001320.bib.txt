@@ -1,0 +1,13 @@
+@article{MA2025111164,
+title = {Curcumin encapsulated zeolitic imidazolate frameworks modified polyetheretherketone promotes osteogenic capacity through immunomodulation},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111164},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111164},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001320},
+author = {Sihan Ma and Heyi Gong and Duo Sun and Xin Fang and Xiao Han and Yue Liu and Yadi Su and Junqi Wang and Yu Wang and Jinghui Zhao},
+keywords = {Polyetheretherketone, Nanostructure, Surface modification, Osseointegration, Osteoimmunomodulatory},
+abstract = {Controlling the immune response and enhancing osteogenesis are essential for the long-term success of biomaterial implantation. Although polyetheretherketone (PEEK) is widely used in orthopedic implants, its inherent bioinertness and poor osteogenic capacity limit its use in clinical applications. In this study, curcumin (CCM) and zeolitic imidazolate frameworks-8 nanoparticles (ZIF-8 NPs) were introduced onto PEEK substrate to obtain the SPEEK-CCM@ZIF-8 (SPZC) system, which enhances osseointegration through early immunomodulation. SPEEK-CCM@ZIF-8 induces macrophage polarization towards M2 phenotype to reduce inflammation, promotes osteogenic differentiation capacity of bone marrow mesenchymal stem cells (BMSCs), and enhances the osseointegration and osteogenic capacity of PEEK implants. In vivo evaluation further confirmed the enhanced osteointegration effect of SPZC. Our results suggest that the CCM@ZIF-8 coating confers good osteogenic capacity to PEEK and that SPZC will have great potential as an implant.}
+}

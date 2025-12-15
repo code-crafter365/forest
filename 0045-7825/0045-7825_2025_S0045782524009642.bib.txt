@@ -1,0 +1,13 @@
+@article{BARNAFI2025117710,
+title = {Modeling of cardiac fibers as oriented liquid crystals},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117710},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117710},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009642},
+author = {Nicolás A. Barnafi and Axel Osses},
+keywords = {Cardiac modeling, Nematic liquid crystals, Computational cardiology, Finite elements},
+abstract = {In this work we propose a mathematical model that describes the orientation of ventricular cardiac fibers. These fibers are commonly computed as the normalized gradient of certain harmonic potentials, so our work consisted in finding the equations that such a vector field satisfies, considering the unitary norm constraint. The resulting equations belong to the Frank–Oseen theory of nematic liquid crystals, which yield a bulk of mathematical properties to the cardiac fibers, such as the characterization of singularities. The numerical methods available in literature are computationally expensive and not sufficiently robust for the complex geometries obtained from the human heart, so we also propose a preconditioned projected gradient descent scheme that circumvents these difficulties in the tested scenarios. The resulting model further confirms recent experimental observations of liquid crystal behavior of soft tissue, and provides an accurate mathematical description of such behavior.}
+}

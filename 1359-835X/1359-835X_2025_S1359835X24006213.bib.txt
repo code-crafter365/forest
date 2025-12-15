@@ -1,0 +1,13 @@
+@article{ZHANG2025108623,
+title = {Interlaminar toughening and self-healing mechanism for hard-and-soft layered composite laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108623},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108623},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006213},
+author = {Xiaoyu Zhang and Guojun Zhao and Jin Lai and T.X. Yu and Xin Zhang},
+keywords = {Interlaminar toughness, Thermoplastic, Self-healing, Toughening effect},
+abstract = {This paper finds a simple and cost-effective design to create high interlaminar toughness and self-healing Euplectella Aspergillum based bio-inspired composite laminates with thermoplastic polymer poly(ethylene-co-methacrylic acid) (EMAA). Three different configuration strategies containing hard/soft structures are proposed and mode I interlaminar toughness is determined to investigate the toughening effect and self-healing behavior. The results show that configuration and fiber types have great influence on toughening and self-healing efficiency. The novel configuration can achieve an improvement of over 600% in toughness for carbon fiber reinforced plastic (CFRP) and close to 100% for healing efficiency in the case of glass fiber reinforced plastic (GFRP) laminates. All the proposed configurations eliminate unstable delamination crack propagation process observed in CFRP woven laminates. In addition, repeated self-healing behavior is studied and self-healing efficiency remains stable after three damage-healing cycles. This study reveals toughening and self-healing behaviors of different configurations and provides novel strategies for laminate design.}
+}

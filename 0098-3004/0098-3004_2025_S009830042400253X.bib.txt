@@ -1,0 +1,13 @@
+@article{ZHU2025105770,
+title = {New fast imaging techniques for electrical source transient electromagnetic data: Approaches and application},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105770},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105770},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042400253X},
+author = {Yu-lian Zhu and Wei-ying Chen and Wan-ting Song and Si-xu Han},
+keywords = {Electrical source, Transient electromagnetic, Imaging, Apparent resistivity, time‒depth conversion},
+abstract = {The rapid imaging of electrical source transient electromagnetic (TEM) data involves two essential processes: the calculation of apparent resistivity and the conversion of time to depth. Traditionally, the definition of full-time apparent resistivity is defined by considering solely the vertical magnetic field, which is predicated on the monotonic relationship between the resistivity and the electromagnetic field response. Based on the concept of peak time, we have developed distinct methodologies for calculating the apparent resistivity for both the horizontal electric field (ex) and the vertical induced voltage (vz), which demonstrated accuracy across the entire time range examined. We also introduced a formula to address discrepancies in apparent resistivity arising from the non-dipole size effect of the source, thereby ensuring that the algorithm can adapt to any transmitting and receiving configuration. Furthermore, we provided straightforward and precise time-depth conversion equations applicable to both ex and vz, which facilitate the rapid imaging of observational data. Multiple numerical examples were employed to illustrate the effectiveness and robustness of this approach. Finally, we applied this imaging technique to the data processing of actual measured data from a survey area conducted in Ningxia Province, and the imaging results accurately reflected the distribution of the electrical structure of the subsurface strata. The innovative imaging technique presented in this study holds considerable potential for the expedited processing and analysis of ground-based and semi-aerial electrical source transient electromagnetic survey data, which are widely employed in contemporary applications.}
+}

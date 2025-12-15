@@ -1,0 +1,13 @@
+@article{ELDERFIELD2025119332,
+title = {3D printed bistable composite lattice shells with tailorable coiled geometries},
+journal = {Composite Structures},
+volume = {370},
+pages = {119332},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119332},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004970},
+author = {Nicholas Elderfield and Aghna Mukherjee and Paolo Ermanni and Joanna C.H. Wong},
+keywords = {Deployable boom, Additive manufacturing, Homogenization, Flexural rigidity, Bistability, Variable angle tow (VAT)},
+abstract = {This investigation presents, to the authors’ best knowledge, the first 3D printed continuous fiber-reinforced polymer composite deployable booms. The precise material placement capabilities of the fused filament fabrication (FFF) process are leveraged to produce cylindrical bistable slit tube booms with lattice architectures. The influences of fiber angles, lattice density, and initial shell curvature on the existence and form of stable coiled configurations as well as flexural rigidity properties are investigated. A computational procedure for automatically generating finite element models directly from material deposition paths is presented, with predicted shell behaviors showing strong agreement with experimental results using both homogenization and full-scale modeling approaches. Lattice shell architectures are revealed to exhibit higher flexural rigidity properties than continuum architectures on an equal-mass basis. Finally, bistable slit tube booms that can coil into unique stable configurations via the tailoring of material deposition paths are demonstrated.}
+}

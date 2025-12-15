@@ -1,0 +1,13 @@
+@article{SAIKI2025118672,
+title = {Comparative analysis of modal, static, and buckling behaviors in thin-walled composite cylinders: A detailed study},
+journal = {Composite Structures},
+volume = {352},
+pages = {118672},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118672},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008006},
+author = {Lucas Eiji de Castro Saiki and Guilherme Ferreira Gomes},
+keywords = {Delamination, Composite structures, Composite materials, Damage assessment, Static analysis, Modal analysis, Buckling analysis},
+abstract = {This investigation delves into the dynamics of buckling, modal, and static analyses within delaminated composite cylinders, integral to sectors such as aerospace, automotive, naval, and civil engineering. The escalating dependence on composite materials, attributed to their exceptional strength-to-weight ratio and adaptability in design, necessitates a deep dive into their failure modes, with a focus on delamination. Employing a systematic analytical framework, this study delineates the intricate impact of delamination on the structural integrity of composite cylinders, underscoring the synergy between buckling behavior, modal characteristics, and static performance. The methodology includes simulating a series of identical tubes, each with varying degrees of delamination, to perform a comparative analysis across three distinct tests. The procedural stages include specifying the parameters for cylinder construction and delamination, applying numerical modeling techniques for static, modal, and buckling analyses, and conducting a comprehensive correlation analysis of the outcomes. The results indicate that while fiber angles have a negligible impact on modal and buckling results, a 0°orientation significantly increases the likelihood of structural collapse in static analysis. Additionally, the correlation study among the analyses underscores the independence of results, necessitating thorough verifications in cylindrical structure development or maintenance validations. Notably, the position along the axis, the angle, and the aspect ratio of delamination are critical parameters influencing static outcomes. This research not only broadens our understanding of composite material behavior but also emphasizes the need for advanced analytical models to predict and mitigate failures, thus enhancing material design and the reliability of engineering systems.}
+}

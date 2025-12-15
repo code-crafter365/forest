@@ -1,0 +1,13 @@
+@article{QIN2025114803,
+title = {Low-cost dual-channel probe for accurate point-of-care serodiagnosis of acute pancreatitis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114803},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114803},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003108},
+author = {Lili Qin and Xulin Chen and Zhongjie Pan and Yuquan Li and Wengui Huang and Min Chen and Yafen Huang and Mengbin Qin and Xianquan Liao and Zheng Wei and Wei Liu},
+keywords = {Dual-channel, Photothermal, Acute pancreatitis, HS, Serodiagnostic},
+abstract = {Multi-channel probes are important tools for accurate serodiagnostics. Yet, their use generally relies on expensive integrated equipment, which hinders their wide use in point-of-care diagnostics. In this study, we report a low-cost dual-channel probe Cu-S-ALG for the accurate quantification of H2S in serum by using inexpensive incandescent lamp and mobile phone with near-infrared camera as signal excitation and collection devices respectively. With thiol addition, the Cu-S-ALG nanogel is stabler than the conversional Cu-based nanogels in the presence of H2S, which makes it a low-cost and reliable sensor. Meanwhile, this sensor requires less expensive instrumentation than traditional multi-channel sensors (< €500 vs > €4000). Further using serum H2S level as a biomarker, we constructed test strips and optimal thresholds, achieving accurate point-of-care serodiagnostics of acute pancreatitis with reliable precision rate of 95.83 %, which is significantly higher than the conversional single signal methods (77.50 – 83.00 %).}
+}

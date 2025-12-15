@@ -1,0 +1,13 @@
+@article{ZHANG2025119166,
+title = {Re-entrant thermal-responsive metamaterials with widely tunable thermal expansion},
+journal = {Composite Structures},
+volume = {364},
+pages = {119166},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119166},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003319},
+author = {Yi Zhang and Wei Zhong Jiang and Xiang Yu Zhang and Jun Wen Shi and Yi Chao Qu and Jun Dong and Xin Ren},
+keywords = {Auxetic re-entrant honeycomb, Mechanical metamaterials, Thermal-responsive metamaterial, Thermostat metal strip, Thermal deformation},
+abstract = {Auxetic metamaterials have been widely used in sensing, flexible medical devices, and energy absorption, due to their extraordinary physical properties. However, the active tunability of their deformation shapes and mechanical performances remains a significant challenge, which limits the functional applications. Here, we fabricate several auxetic re-entrant honeycombs integrated with thermostat metal strips to achieve arbitrary thermal shape morphing at a wide temperature range. The findings indicate that the maximum positive and negative thermal strains achieved are 45 % and 37 %, respectively. In addition, we introduce a customizable thermal deformation strategy by tessellating the unit cells with different thermo-responsive characteristics, including isotropic or anisotropic thermal expansions. An Ashby plot of thermal strain vs. temperature span among current thermo-responsive metamaterials is concluded to quantitatively compare the capacities that actively tune their thermal morphing configurations. The uniaxial thermal strain range in finite elements is substantially expanded to –47 % to 94 % at a wide working temperature range. Various potential functionalities and applications are illustrated including the tunable bandgap for vibration isolation, multisignal conversion in sensing devices, and thermal actuators.}
+}

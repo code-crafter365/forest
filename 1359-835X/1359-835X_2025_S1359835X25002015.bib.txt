@@ -1,0 +1,13 @@
+@article{ZHANG2025108907,
+title = {Homogenous nanofiber skeleton-reinforced shape memory polyimide aerogel composites with high deformability and rapid recovery},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108907},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108907},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002015},
+author = {Yufan Zhang and Xiang Wang and Minhao Guo and Le Li and Tianxi Liu},
+keywords = {Polymer aerogel composites, Homogeneous reinforcement, Shape memory polymer, Deformation tolerance},
+abstract = {Shape memory polymer aerogels have garnered significant attention for intelligent applications, yet their practical implementation remains constrained by inadequate deformation tolerance and sluggish recovery kinetics. To address these challenges, we present a homogeneous reinforcement strategy for constructing polyimide aerogel composites reinforced with an interpenetrating nanofiber skeleton. Through precise regulation of hierarchical pore architecture, strong interface interactions, and enhanced recovery stress, the engineered aerogel composite demonstrates remarkable enhancements in both structural and functional properties. The optimized aerogel composite exhibits exceptional thermal stability, superior deformation tolerance, and fast shape recovery response. Particularly noteworthy is its unprecedented shape recovery capability, enabling it to reliably and fully recover from complex and large deformations within 5 s. This advancement not only establishes a new paradigm for designing high-performance shape memory polymer aerogels but also significantly expands their potential utilization in cutting-edge technological applications.}
+}

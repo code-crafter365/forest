@@ -1,0 +1,13 @@
+@article{DEVILLIERS2025117780,
+title = {Continuum-kinematics-inspired peridynamics for transverse isotropy},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117780},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117780},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000520},
+author = {A.M. {de Villiers} and J. Stadler and G. Limbert and A.T. McBride and A. Javili and P. Steinmann},
+keywords = {Peridynamics, Anisotropy, Nonlocal mechanics, Nonlinear kinematics, Rational mechanics},
+abstract = {Accounting for the combined effects of mechanical anisotropy and nonlocality is critical for capturing a wide range of material behaviour. Continuum-kinematics-inspired peridynamics (CPD) provides the essential underpinning theoretical and numerical framework to realise this objective. The formalism of rational mechanics is employed here to rigorously extend CPD to the important case of transverse isotropy at finite deformations while retaining the fundamental deformation measures of length, area and volume intrinsic to classical continuum mechanics. Details of the anisotropic contribution to the potential energy density due to length, area and volume elements are given. A series of numerical examples serve to elucidate the theory presented.}
+}

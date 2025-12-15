@@ -1,0 +1,13 @@
+@article{CASTILLOSANCHEZ2025106704,
+title = {Computational fluid dynamics simulations of suspensions of spherical particles using tensorial constitutive equations},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106704},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106704},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001641},
+author = {Hugo A. Castillo-Sánchez and Jurriaan Gillissen and Roberto Lange and Antonio Castelo},
+keywords = {CFD, HiGFlow, Finite-difference-method, Computational-rheology, Suspension, Shear-thickening, Complex-fluids, Foam-extend, Finite-volume-method},
+abstract = {In the present work, we implement full tensorial constitutive equations for suspensions of spherical particles into the HiGFlow system, which is a recently developed Computational Fluid Dynamics (CFD) software that is able to simulate Newtonian, Generalised-Newtonian and viscoelastic flows using finite differences in tree-based grids. We provide here a brief introduction to each of the implemented constitutive equations that were developed to describe the rheological behaviour of rate-independent suspensions homogeneous flows. We tested our solvers by carrying out simulations of these models in three relevant flow configurations (simple shear, shear reversal and oscillatory flows), and our simulation results were validated by comparing them with results reported in the literature and with those predicted by the foam-extend system, a community-driven fork of the popular OpenFOAM open source library for CFD. Lastly, we carry out simulations in a geometry in which these models have not been tested before; the lid-driven cavity. For this case, we report here novel results, where we offer an in-depth analysis of the rheological behaviour of the suspension in the cavity flow with weak inertia, including contour maps of both the stress and second-order orientation moment tensors that assist the reader in visualising the particle dynamics. A direct comparison of our cavity results with simulations obtained using the FENE-P viscoelastic constitutive model is also provided, where we found that while the magnitude of the value of the particle normal stress τxx is amplified in compression regions, the viscoelastic normal stress σxx is more dominant in extensional regions.}
+}

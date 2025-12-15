@@ -1,0 +1,13 @@
+@article{DENG2025114952,
+title = {Size-adjustable nanoparticles co-target macrophages and endothelial cells for enhanced atherosclerosis therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114952},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114952},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500459X},
+author = {Yiping Deng and Xin Deng and Yao Li and Ji Tian and Mengxi Wu and Jun Tang and Xiaoya Liang and Xi Yang and Xinghui He and Yilin Liu and Zihan Liu and Xiangyu Zhou and Tao Li and Chunhong Li},
+keywords = {Size-adjustable nanoparticles, Co-target, Atherosclerosis, Macrophages, Endothelial cells},
+abstract = {In the pathological process of atherosclerosis (AS), macrophages and dysfunctional endothelial cells form an inflammation-injury axis through inflammatory amplification, oxidative stress, and interaction of signaling pathways. The synergistic targeted intervention of the two cells is the key to improve the plaque microenvironment and achieve disease reversal. However, the lipid core under the vascular intima hinders the penetration of large-sized nanoparticles into dysfunctional macrophages in the plaque, making it hard to block the vicious circle between macrophages and endothelial cells. To this end, we engineered a size-adjustable nanoparticle (CS/PArg@Cur-HSA), which was consisted of a small-sized curcumin (Cur)-human serum albumin (HSA) (Cur-HSA) complex as the core, and its surface was coated with cell-penetrating peptide poly(arginine) (PArg), further encapsulating it with chondroitin sulfate (CS) as a targeting ligand. In vitro experiments demonstrated that CS/PArg@Cur-HSA significantly enhanced targeting ability to macrophages, inhibited the polarization of macrophages to the pro-inflammatory phenotype, and reduced the formation of foam cells induced by oxidized low-density lipoprotein (ox-LDL). While it also enhanced the anti-inflammatory capacity of endothelial cells and improved endothelial function. In vivo evaluation revealed that the preparation significantly reduced the plaque accumulation, ameliorated intraplaque lipid deposition and inflammatory cell infiltration, and retarded disease progression through synergistic modulation. This study provided a new strategy for the application of size-adjustable nano-drug delivery systems in AS therapy.}
+}

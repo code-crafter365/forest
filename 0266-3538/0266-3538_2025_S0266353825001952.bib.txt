@@ -1,0 +1,13 @@
+@article{XU2025111227,
+title = {Enhancing performance for additively manufactured optimal CFRP structures},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111227},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111227},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001952},
+author = {Yanan Xu and Lin Ye and Chi Wu and Jianguang Fang and Guangyong Sun and Yuan Chen and Ziyan Man and Grant P. Steven and Qing Li},
+keywords = {Carbon fiber reinforced polymer, Topology optimization, Filament path optimization, Additive manufacturing, Vacuum-assisted thermal post-processing},
+abstract = {While additive manufacturing (AM) has been widely applied for carbon fiber reinforced polymer (CFRP) composite structures and exhibited compelling advantages especially in realizing topologically optimized design, there exist certain inherent problems, such as relatively low fiber volume fraction and high porosity, somehow compromising its material properties. This study aims to enhance mechanical performances of optimized 3D printed CFRP structures and develop a vacuum-assisted thermal post-processing technique. First, a level set method is employed to carry out concurrent topological and filament path optimization dedicated to CFRP additive manufacturing. Both the optimized and empirical CFRP structures are fabricated by 3D printing to appraise the advantages of topology optimization that incorporates a fast marching technique with improved manufacturability. Second, to further enhance the structural characteristics, the printed CFRP structures are post-processed with a pressure of 1 atm under different heating conditions. Third, the structures with and without the postprocessing procedures are remodeled and analyzed based on micro-computed tomography (μCT) scan data. It is found that the errors between the remodeled simulations and experimental tests are all below 10 %. It is shown that the topology optimization enables to improve the stiffness per unit mass (SPUM) by 47.0–52.1 %, and vacuum-assisted thermal post-processing can further reduce the structural deformation ranging from 10.8 % to 26.8 %, indicating the superiority of reprocessing of additively manufactured CFRP structures with equivalent material cost.}
+}

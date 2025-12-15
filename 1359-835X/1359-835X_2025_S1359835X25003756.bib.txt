@@ -1,0 +1,13 @@
+@article{MCARTHUR2025109081,
+title = {Assessing the effectiveness of rework in automated fibre placement-produced composite laminates: A quantitative approach using out-of-plane waviness},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109081},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109081},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003756},
+author = {Stig McArthur and Shaun McKnight and Iain Bomphray and Jörn Mehnen},
+keywords = {Automated Fibre Placement, Defect, Rework, Ultrasonic-NDT},
+abstract = {This research investigates the effectiveness of reworking techniques for gap and overlap defects in Automated Fibre Placement (AFP) produced laminates, transcending conventional cosmetic assessments. Employing a novel Benchtop-AFP setup and ultrasonic Non-Destructive Testing (NDT), the study examined the internal structure of pristine, defective, and reworked composite specimens. A linear ultrasonic phased array roller probe captured through-thickness B-scans, revealing out-of-plane ply waviness. Artificially generated double gap/overlap defects were manually reworked using documented best practices. A remedial approach removed defective tows with minimal interference, followed by redeposition of correctly aligned tows. Ply topology was analysed using metrics including Root Mean Squared (RMS) waviness, peak-to-peak waviness, and average waviness height. Results demonstrated that reworked specimens exhibit residual out-of-plane waviness, with RMS waviness positioned between pristine and defective specimens. Notably, reworked specimens showed increased peak-to-peak waviness compared to pristine samples. Significant variability was observed, with some reworked specimens approaching pristine characteristics while others remained closer to defective states. This study emphasises the need to optimise rework procedures and establish robust quality control metrics in advanced composite manufacturing. The research also validates ultrasonic NDT’s effectiveness in characterizing out-of-plane defects and highlights the potential of cost-effective Benchtop-AFP setups for future research and development.}
+}

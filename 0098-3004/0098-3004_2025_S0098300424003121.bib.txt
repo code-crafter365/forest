@@ -1,0 +1,13 @@
+@article{ORE2025105829,
+title = {Evaluating key parameters impacting the performance of Seis Seg Diff model for seismic facies classification},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105829},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105829},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003121},
+author = {Tobi Ore and Dengliang Gao},
+keywords = {Seismic facies, Diffusion model, Deep learning, Seismic segmentation, Semi-supervised learning},
+abstract = {Facies are a body of rock that is distinct from adjacent rock units based on observable characteristics such as composition and texture. They are sought out in subsurface characterization tasks because of the valuable information they provide about past environments and geological processes. In seismic data, facies express distinct reflection patterns and are traditionally interpreted manually using seismic attributes. However, manual interpretation is typically time-consuming and biased by the interpreter. Automatic interpretation methods that capitalize on the predictive ability of deep learning have been proposed with relative success. However, these methods are data-intensive with practical deployment limitations. SeisSegDiff is a novel model that draws from the representations learned by diffusion models to classify the facies accurately with limited training data. In this paper, we investigate the quality of the representations learned by the diffusion model and the impact of the model hyperparameters on its performance. We found that for a diffusion denoising encoder-decoder network, the middle decoder blocks [5–13] at the later time steps of the diffusion process [0–250] had the most informative representations for the facies discrimination. For the few shot capability, the model had a mIoU of 0.75 when it was trained with only 3 inlines and its performance consequently increased for more training cross sections with 0.83 when trained with 5 inlines and crosslines, outperforming the state-of-the-art with only ∼2% training data. Furthermore, we found that the model is robust in the presence of faults but struggles with regions with complex salt structures. Our results demonstrate that well designed SeisSegDiff model parameters can greatly speed up subsurface characterization tasks in practical field settings with real seismic and well data. We anticipate the model to be a starting point for more sophisticated applications of the diffusion model for geophysical data interpretation and processing. For example, the learned representations from the diffusion model can lend themselves to the development of a global reservoir property inversion model.}
+}

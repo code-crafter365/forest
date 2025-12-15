@@ -1,0 +1,13 @@
+@article{GO2025117845,
+title = {Accurate, scalable, and efficient Bayesian optimal experimental design with derivative-informed neural operators},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117845},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117845},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001173},
+author = {Jinwoo Go and Peng Chen},
+keywords = {Optimal experimental design, Bayesian inverse problem, Derivative-informed neural operators, Dimension reduction, Uncertainty quantification, Greedy algorithm},
+abstract = {We consider optimal experimental design (OED) problems in selecting the most informative observation sensors to estimate model parameters in a Bayesian framework. Such problems are computationally prohibitive when the parameter-to-observable (PtO) map is expensive to evaluate, the parameters are high-dimensional, and the optimization for sensor selection is combinatorial and high-dimensional. To address these challenges, we develop an accurate, scalable, and efficient computational framework based on derivative-informed neural operators (DINO). We propose to use derivative-informed dimension reduction to reduce the parameter dimensions, based on which we train DINO with derivative information as an accurate and efficient surrogate for the PtO map and its derivative. Moreover, we derive DINO-enabled efficient formulations in computing the maximum a posteriori (MAP) point, the eigenvalues of approximate posterior covariance, and three commonly used optimality criteria for the OED problems. Furthermore, we provide detailed error analysis for the approximations of the MAP point, the eigenvalues, and the optimality criteria. We also propose a modified swapping greedy algorithm for the sensor selection optimization and demonstrate that the proposed computational framework is scalable to preserve the accuracy for increasing parameter dimensions and achieves high computational efficiency, with an over 1000× speedup accounting for both offline construction and online evaluation costs, compared to high-fidelity Bayesian OED solutions for a three-dimensional nonlinear convection–diffusion–reaction example with tens of thousands of parameters at the same resolution.}
+}

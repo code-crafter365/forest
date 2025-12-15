@@ -1,0 +1,13 @@
+@article{HAJLAOUI2025105756,
+title = {Backpropagation-based inference for spatial interpolation to estimate the blastability index in an open pit mine},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105756},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105756},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002395},
+author = {Yakin Hajlaoui and Richard Labib and Jean-François Plante and Michel Gamache},
+keywords = {Blastability index, Machine learning, Spatial interpolation, Gaussian processes, Inverse distance weighting, Back-propagation, Neural networks},
+abstract = {The blastability index (BI) is a measure that indicates the resistance of rock to fragmentation when blasting. With novel technologies, miners are now able to collect and calculate BI at different depths while drilling. In this research, we propose an approach to estimate the BI at multiple depths for new areas using only spatial locations and observed BI measurements of previously drilled holes. Spatial interpolation techniques are investigated. This study introduces a novel treatment for Gaussian Processes (GPs) and Inverse Distance Weighting (IDW). Variography is leveraged to ensure an appropriate fit between the data and the spatial component. The parameters controlling anisotropy are constrained to intervals chosen to reflect the observed anisotropy. Gradient descent with back-propagation is used for optimization. The proposed approach improves the performance of GP and IDW at predicting BI. The similarities between the IDW variant proposed and a single-layer neural network are discussed.}
+}

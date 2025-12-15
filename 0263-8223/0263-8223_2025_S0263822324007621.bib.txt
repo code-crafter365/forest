@@ -1,0 +1,13 @@
+@article{LI2025118634,
+title = {Tunable mechanical properties of the 3D anticircular-curve transversal-isotropic auxetic structure},
+journal = {Composite Structures},
+volume = {351},
+pages = {118634},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118634},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007621},
+author = {Guo-Feng Li and Hai-Tao Liu},
+keywords = {Transverse isotropy, Tunable Poisson’s ratio, Tunable Young’s modulus, Periodic boundary conditions},
+abstract = {This work studies a three-dimensional anticircular-curve transversal-isotropic auxetic structure (3D-ATAS) with tunable Poisson’s ratio (υ) and tunable Young’s modulus (E) on the basis of hexagonal symmetry in the transverse plane using the anti-deformation method by the design of inclined rods as circular-curve rods in the opposite direction of the deformation (under compressive loading). By using the energy method, expressions of υ and E of 3D-ATAS are acquired, and based on the periodic boundary conditions, υ and E of 3D-ATAS are parametrically researched through numerical simulation and uniaxial compression experiments. The effects of anticircular-curve rod thickness t, anticircular-curve rod width b, and anticircular-curve cross-section angle θ to υ and E of 3D-ATAS are investigated. The tunable ranges of υ and E of 3D-ATAS are predicted, and the wide range of E is attained. Compared with the 3D circular-curve transversal-isotropic auxetic structure, E of 3D-ATAS is significantly enhanced in different directions, and the maximum enhanced up to 10 times. In the same way, both υ and E of 3D-ATAS are transversal-isotropic.}
+}

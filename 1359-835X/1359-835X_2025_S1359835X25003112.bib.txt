@@ -1,0 +1,13 @@
+@article{CHEN2025109017,
+title = {Ag nanoparticles uniformly anchored on attapulgite nanosheets synergistically improve the tribological properties of BF/PTFE fabric composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109017},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109017},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003112},
+author = {Hao Chen and Zhaozhu Zhang and Yaohui He and Chaoying Liao and Yue Zhang and Mingming Yang and Fanjie Chu and Junya Yuan},
+keywords = {BF/PTFE liner composite, AT-NS/Ag hybrids, Synergistic effect, Tribology},
+abstract = {Liner composites (LC) are susceptible to damage under the rigours of heavy loads. Attapulgite, as a one-dimensional clay mineral, has been used as a reinforcing filler for fabric composites to overcome this defect due to its friction chemistry and rolling effect. Attapulgite nanosheets, as a novel two-dimensional material, have both the characteristics of clay and the ability to exploit the susceptibility of two-dimensional materials to interlayer slip. Therefore, in this work, a nanosheet (AT-NS) with uniform size was synthesized and applied for the first time in the field of friction. The AT-NS surface was loaded with AgNPs to construct AT-NS/Ag hybrids in order to achieve synergistic effects between 0D and 2D materials in the hybrid filler. The interlayer slip of the 2D AT-NS counteracted part of the shear force, and the AT-NS as well as its released Ag nanoparticles participated in the formation of the transfer film. For the tribological property tests of the composites, the wear rate and friction coefficient of the AT-NS/Ag1 composites with 2.0 wt% addition were reduced by 89.59 % and 9.5 % at 87.4 Mpa, respectively.}
+}

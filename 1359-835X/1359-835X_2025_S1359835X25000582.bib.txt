@@ -1,0 +1,13 @@
+@article{ZHANG2025108764,
+title = {A controllable and fast carbonization strategy under air conditions and its application in electromagnetic interference (EMI) shielding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108764},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108764},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000582},
+author = {Yan Zhang and Jiayu Lu and Jin Yu and Wei Wang and Shimin Zhai and Yihao Yu and Dongming Qi},
+keywords = {Carbonization, Short-time strategy, Air condition, Electromagnetic interference shielding},
+abstract = {Carbonized cotton fabric possesses lightweight softness, stable chemical structure and can be used as wearable electronic skin. However, conventional carbonization method relies on high temperature, oxygen-free or inert gas atmosphere with long time consumption. In this study, a hybrid intumescent flame retardant (IFR) coating was introduced on the surface of cotton fabric. When they were placed directly into the heated muffle furnace at air atmosphere, the IFR coating would quickly react with the cotton fiber to form char residue and release non-inflammable gases, providing an inert atmosphere microenvironment for the pyrolysis and carbonization of cotton fabric substrate. The influence factors of temperature and carbonization time were studied comprehensively. Especially, carbonizing for only 15 min at 900 °C shows a value of 26.33 dB. Besides, such fabrics perform the ability for photo-thermal conversion and fire resistance performance. This simple and feasible carbonization strategy holds great promise for large-scale production of flexible conductive fabrics.}
+}

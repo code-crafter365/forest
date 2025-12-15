@@ -1,0 +1,13 @@
+@article{GAO2025114361,
+title = {Synergistic catecholamine and coordination chemistry for enhanced bioactivity and secondary grafting activity of zirconia dental implants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114361},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114361},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006209},
+author = {Peng Gao and Qihong Zhang and Yingyue Sun and Huan Cheng and Shuyi Wu and Yinyan Zhang and Wen Si and Haobo Sun and Ningyao Sun and Jing Yang and Kaiyong Cai and Lei Lu and Jinsong Liu},
+keywords = {Zirconia implant, Surface modification, Osteogenesis, Bacteriostasis},
+abstract = {The inherent bioinertness of zirconia (ZrO2) hinders its early bone integration, presenting a significant obstacle to its widespread use in dental implant technologies. Addressing this, we developed a surface coating leveraging the synergistic effects of catecholamine and coordination chemistry inspired by the mussel byssus cuticle. This coating, named PDPA@Sr, is enriched with strontium ions and amine groups, resulting from a simple immersion of polydopamine (PD)-coated ZrO2 in an alkaline strontium chloride and poly(allylamine) (PA) solution. Compared to conventional mussel-inspired PD coatings, PDPA@Sr demonstrates enhanced aesthetic properties and mechanical stability. The continuous release of strontium ions from the coating significantly enhances osteogenesis, while the abundant surface amine groups offer notable antibacterial effects. More importantly, these amine groups also enable a variety of chemical modifications, including electrostatic adsorption, carbodiimide chemistry, Michael addition, Schiff base formation, and click chemistry, thus providing a multifaceted platform for the advanced surface modification of ZrO2 implants.}
+}

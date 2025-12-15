@@ -1,0 +1,13 @@
+@article{WANG2025114788,
+title = {Amifostine-loaded Prussian blue nanoparticles for simultaneous efficient radioprotection and deep decorporation of radiocesium},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114788},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114788},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002954},
+author = {Boyan Wang and Yuchen Liu and Chengqi Li and Meiyun Xu and Daoben Hua},
+keywords = {Prussian blue, Amifostine, Radiocesium, Decorporation, Radioprotection},
+abstract = {Radiocesium is highly water-soluble and easily accumulates in agricultural products and seafood. Ingestion of radiocesium results in internal irradiation, significantly increasing the risk of tissue and organ damage as well as carcinogenesis. In this paper, we develop a strategy for simultaneous radioprotection and decorporation of radiocesium by amifostine-loaded Prussian blue (Am@PB) nanoparticles. The nanoparticles are prepared through chemical coordination between amine/phosphate groups of amifostine and Fe (II)/Fe (III) sites of Prussian blue (PB). Am@PB nanoparticles mitigate radiation-induced damage to peripheral blood cells and organs, improving the survival rate of irradiated mice. This is due to the synergistic effects of the nano-enzymatic activity of PB component and the high reducibility of sulfhydryl groups generated through amifostine hydrolysis by alkaline phosphatase. Furthermore, the deep excretion of cesium is achieved via feces along the metabolic pathway of Am@PB, leading to an enhanced decorporation efficiency of over 50 % compared to orally administered commercial PB. This work provides a design strategy for efficient radioprotective decorporation agents with potential applications in the treatment of internal radiocesium contamination.}
+}

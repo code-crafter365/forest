@@ -1,0 +1,12 @@
+@article{ALTUN2025109492,
+title = {Examining paint adhesion Performances on Fiber-Reinforced composites through atmospheric and Low-Pressure plasma treatments for sustainable Aviation Developments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109492},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109492},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007870},
+author = {Beyza Altun and Murat Tanışlı and Adem Can Uşak and Ahmetcan Alkoç and Mete Bakır and Naime Akbaşoğlu Ünlü and Suat Pat},
+keywords = {Composite, Surface Treatment, Atmospheric Pressure Plasma, Low-Pressure Plasma, Adhesion},
+abstract = {The aerospace industry has traditionally relied on mechanically and chemically intensive surface treatment techniques to enhance the performance of structural materials. These methods often involve hazardous substances, posing significant environmental and operational challenges. As a sustainable alternative, plasma treatment has emerged as a promising surface engineering strategy capable of improving adhesion strength, durability, and mechanical performance without the use of harmful chemicals. In this study, the surface characteristics of two widely used aerospace-grade composite systems—glass fiber-reinforced epoxy composites and carbon fiber-reinforced bismaleimide composites—were evaluated before and after plasma treatment. Two plasma modalities were investigated: atmospheric-pressure air plasma and low-pressure argon plasma. A comparative analysis of these treatment approaches is presented, offering a novel contribution to the existing body of knowledge on plasma-based surface modification. Surface characterization techniques included Atomic Force Microscopy (AFM) for topographical analysis, water contact angle measurements to assess surface wettability, surface roughness evaluations, and cross-cut adhesion tests. Plasma treatment increased surface energy by up to 40 %, significantly enhancing the coating adhesion. Surface roughness values as low as 15 nm were achieved, and under optimized conditions, both plasma treatments resulted in GT0-grade adhesion. These findings demonstrate that plasma-based surface modification can significantly enhance the interfacial properties of coatings on composite materials, supporting its suitability for aerospace applications.}
+}

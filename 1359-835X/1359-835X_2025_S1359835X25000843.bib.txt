@@ -1,0 +1,13 @@
+@article{ZHOU2025108790,
+title = {MoS2 nanosheet/CF network: Realizing high-efficiency electromagnetic protection and enhanced thermal conductivity via structure–function integration},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108790},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108790},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000843},
+author = {Jiaqi Zhou and Xiaomin Yuan and Na Sun and Shuhan Yan and Xiumei Zhang and Baoming Wang and Bo Zhu and Xun Cai and Kun Qiao},
+keywords = {MoS nanosheet/CF network, B. Adhesion, B. Thermal properties, Electromagnetic protection},
+abstract = {Carbon fiber reinforced polymer (CFRP) composites that possess both electromagnetic interference (EMI) shielding and thermal conductivity (TC) performances, along with high mechanical strength, are ideal for applications in aerospace and semiconductor industries. In this work, we have successfully integrated a MoS2 nanosheet/CF network into a structure-functional composite. The interconnection of nanosheets with the resin forms a mechanical interlock, thereby enhancing the interfacial performance of the composite and optimizing its structure, resulting in a 54.64 % increase in interlaminar shear strength (ILSS) to 91.16 MPa. The composite also demonstrates excellent multifunctionality. The high thermal and electrical conductivity of MoS2 enables the CFs to facilitate the effective transfer of electrons and phonons within the matrix, resulting in a 68.52 % increase in TC. Additionally, the optimized interfacial bonding, along with the synergistic effect of good interfacial polarization and conduction losses, leads to a 53.8 % improvement in EMI shielding performance. Furthermore, the MoS2 nanosheet/CF network demonstrates superior electromagnetic wave (EMW) absorption performance, achieving a minimum reflection loss (RLmin) of −52.74 dB at a thickness of 1.3 mm and an effective absorption bandwidth (EAB) of 3.92 GHz at 1.2 mm. This approach provides an effective pathway for realizing structure-functional integrated composites.}
+}

@@ -1,0 +1,13 @@
+@article{SONG2025119230,
+title = {Compressive behavior and energy absorption of novel body-centered cubic lattice metamaterials incorporating simple cubic truss units},
+journal = {Composite Structures},
+volume = {367},
+pages = {119230},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119230},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003952},
+author = {Xuehao Song and Chengjun Zeng and Junqi Hu and Wei Zhao and Liwu Liu and Yanju Liu and Jinsong Leng},
+keywords = {Mechanical metamaterials, Body-centered cubic lattices, Compressive properties, Energy absorption, Timoshenko beam},
+abstract = {To enhance the compressive performance and energy absorption capabilities of conventional body-centered cubic (BCC) lattice structures, this study introduces a novel body-centered cubic (NBCC) lattice metamaterial incorporating simple cubic (SC) truss units. The NBCC design aims to achieve superior load-bearing capacity and improved energy dissipation under compressive loading conditions. Theoretical models based on Euler-Bernoulli and Timoshenko beam theories were developed to predict the equivalent elastic modulus and Poisson’s ratio of the NBCC lattice metamaterials. Comprehensive finite element simulations and compression tests were conducted to systematically evaluate the compressive behavior and energy absorption characteristics of the metamaterials. Key parameters, including the edge length and beam diameter of the SC truss units, were varied to assess their impact on themechanical performance of the metamaterials. Results indicate that increasing edge length yields higher equivalent elastic modulus, while specific energy absorption exhibits a peak-valley pattern accompanied by a tendency for premature failure. Conversely, enlarging the beam diameter enhances both the elastic modulus and specific energy absorption, albeit with increased fluctuations in the stress–strain response. This study provides valuable insights for the design and optimization of lattice metamaterials for advanced engineering applications.}
+}

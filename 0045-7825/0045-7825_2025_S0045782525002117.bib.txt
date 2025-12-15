@@ -1,0 +1,13 @@
+@article{KELLY2025117939,
+title = {Thermodynamically-Informed Iterative Neural Operators for heterogeneous elastic localization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117939},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117939},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002117},
+author = {Conlain Kelly and Surya R. Kalidindi},
+keywords = {Machine learning, Neural operators, Deep equilibrium models, Materials informatics, Continuum mechanics},
+abstract = {Engineering problems frequently require solution of governing equations with spatially-varying, discontinuous coefficients. Mapping large ensembles of coefficient fields to solutions can become a major computational bottleneck using traditional numerical solvers, even for linear elliptic problems. Machine learning surrogates such as neural operators often struggle to fit these maps due to sharp transitions and high contrast in the coefficient fields. Furthermore, in design applications any available training data is by definition less informative due to distribution shifts between known and novel designs. In this work, we focus on a canonical problem in computational mechanics: prediction of local elastic deformation fields over heterogeneous material structures subjected to periodic boundary conditions. We construct a hybrid approximation for the coefficient-to-solution map using a Thermodynamically-informed Iterative Neural Operator (TherINO). Rather than using coefficient fields as direct inputs and iterating over a learned latent space, we employ thermodynamic encodings – drawn from the constitutive equations – and iterate over the solution space itself. Through an extensive series of case studies, we elucidate the advantages of these design choices in terms of efficiency, accuracy, and flexibility. We also analyze the model’s stability and extrapolation properties on out-of-distribution coefficient fields and demonstrate an improved speed–accuracy tradeoff for predicting elastic quantities of interest.}
+}

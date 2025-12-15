@@ -1,0 +1,13 @@
+@article{WANG2025111299,
+title = {Bioinspired vascular-bundle electromagnetic management composites for low-frequency wave transmission and high-frequency wave absorption},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111299},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111299},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002672},
+author = {Jun Wang and Yu Zhang and Xiayu Gao and Xiaogang Su and Shaoliang Huang and Yaqing Liu},
+keywords = {EMW absorption, EMW transmission, Metastructures, Aerogel, Honeycomb},
+abstract = {The advancement of modern detection systems presents increasing challenges for stealth technology, particularly in addressing the spectral conflict between electromagnetic wave (EMW) absorption bands and transmission windows. Inspired by the dual-channel transport system of vascular bundles in plant phloem-xylem networks, we have developed a frequency-selective stealth material system based on a variety of composite materials, which is called the Absorption-Transport Multifunctional Structure (ATMS). The honeycomb sandwich interlayer, mimicking the structure of plant fibers, provides mechanical support while enabling low-loss transmission of EMWs. Meanwhile, Aerogel and carbon film metasurfaces, analogous to sieve-tube molecules in plant fibers, facilitate EMWs absorption. The unique architecture, featuring an ordered three-dimensional network at both macroscopic and microscopic scales, enables efficient management of EMWs. ATMS demonstrates frequency-selective behavior, characterized by minimal insertion loss and high transmittance in the low-frequency band (2.0–2.56 GHz), along with pronounced absorption efficiency in the high-frequency band (9.16–11.93 GHz). Moreover, ATMS demonstrates remarkable angular stability and energy absorption capability. The bioinspired structure overcomes the conventional trade-off between absorption and transmission by geometrically decoupling the microwave propagation paths. Both full-wave simulations and experimental measurements validate these advantages. The bioinspired design paradigm opens new avenues for the development of high-performance materials in EMW management.}
+}

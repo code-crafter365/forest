@@ -1,0 +1,13 @@
+@article{DHOLARIYA2025115058,
+title = {Idasanutlin-ionizable lipid nanocomplex for enhanced solubility, stability, and anticancer activity in p53 sensitive lung cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115058},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115058},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500565X},
+author = {Bhoomi Dholariya and Akanksha Patel and Rhema Khairnar and Henis Patel and Sunil Kumar and Ketan Patel},
+keywords = {Idasanutlin, Non-small cell lung cancer, P53, MDM2 inhibitor, DLin-DMA, Hydrophobic ion-pairing complex},
+abstract = {Lung cancer is a leading cause of cancer-related mortality worldwide due to increasing incidence and poor clinical outcomes. Over 50 % of human cancers involve alterations in the tumor suppressor protein p53, mostly resulting in loss of function. Idasanutlin (IDA), a hydrophobic, anionic molecule, is a potent MDM2 inhibitor capable of restoring p53 activity in cancers retaining wild-type (WT) p53. This study aimed to develop an IDA loaded lipid Nanocomplex (IDLIN) for enhancing solubility, stability and loading efficiency followed by systematically testing its effectiveness in non-small cell lung cancer (NSCLC). We hypothesized that incorporating a hydrophobic ion-pairing agent would enhance IDA encapsulation by forming a lipophilic complex. A self-nanoemulsifying drug delivery system (SNEDDS) was formulated using a hydrophobic nanocomplex of IDA and a cationic ionizable lipid, DLin-DMA, resulting in significantly improved physical stability and loading efficiency. IDLIN exhibited a mean droplet size of 81.17 ± 0.485 nm, polydispersity index of 0.122 ± 0.009, and zeta potential of −3.18 ± 0.956 mV at physiological pH and + 11.37 ± 0.404 mV at tumor microenvironment mimicking pH. IDLIN demonstrated potent anticancer activity in NSCLC cell lines A549, H460, and PC9. IDLIN resisted drug precipitation, inhibited colony formation, and was well tolerated for intravenous administration, showing negligible hemolysis. Western blot analysis revealed upregulation of p53 and MDM2 proteins in IDLIN-treated cells. In 3D tumor spheroid models, IDLIN significantly inhibited tumor growth compared to control. This study presents IDLIN as a promising nanoformulation for delivery of IDA, demonstrating therapeutic potential in NSCLC treatment.}
+}

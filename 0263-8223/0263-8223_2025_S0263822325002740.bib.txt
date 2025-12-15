@@ -1,0 +1,13 @@
+@article{WANG2025119109,
+title = {Composite pipes failure under combined axisymmetric and asymmetric loading: Semi-analytical solution and stress superposition},
+journal = {Composite Structures},
+volume = {363},
+pages = {119109},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119109},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002740},
+author = {T. Wang and O. Menshykov and M. Menshykova},
+keywords = {Layered structures, Elastic behaviour, Failure criterion, 3-D elasticity solution},
+abstract = {This study introduces the innovative two-level semi-analytical solution to predict failure in thick-walled composite pipes under complex loading conditions, including combined axial, pressure, torsion, and bending loads. Rooted in 3D elasticity theory, the model uses a stress superposition method to calculate stresses in composite pipes under combined symmetric and asymmetric loads, demonstrating appropriate agreement with FE models developed for validation. A comprehensive parametric study examines the influence of winding angle, stacking sequence, and load magnitude on failure behaviour, utilizing three distinct failure criteria. The results unveil significant coupling effects between design parameters and loading conditions, providing crucial insights into failure modes and their locations. The developed analytical model and maximum load diagram serve as powerful and efficient tools for engineers, enabling sophisticated failure analysis and optimal design under complex loading conditions. In particular, it was found that combinations of low and medium winding angles offer superior anti-failure performance.}
+}

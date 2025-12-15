@@ -1,0 +1,13 @@
+@article{NGUYEN2025104400,
+title = {SHREC 2025: Retrieval of Optimal Objects for Multi-modal Enhanced Language and Spatial Assistance (ROOMELSA)},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104400},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104400},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002419},
+author = {Trong-Thuan Nguyen and Viet-Tham Huynh and Quang-Thuc Nguyen and Hoang-Phuc Nguyen and Long Le Bao and Thai Hoang Minh and Minh Nguyen Anh and Thang Nguyen Tien and Phat Nguyen Thuan and Huy Nguyen Phong and Bao Huynh Thai and Vinh-Tiep Nguyen and Duc-Vu Nguyen and Phu-Hoa Pham and Minh-Huy Le-Hoang and Nguyen-Khang Le and Minh-Chinh Nguyen and Minh-Quan Ho and Ngoc-Long Tran and Hien-Long Le-Hoang and Man-Khoi Tran and Anh-Duong Tran and Kim Nguyen and Quan Nguyen Hung and Dat Phan Thanh and Hoang Tran Van and Tien Huynh Viet and Nhan Nguyen Viet Thien and Dinh-Khoi Vo and Van-Loc Nguyen and Trung-Nghia Le and Tam V. Nguyen and Minh-Triet Tran},
+keywords = {3D Object Retrieval, Multimodal Vision–Language, Scene Grounding},
+abstract = {Recent 3D retrieval systems are typically designed for simple, controlled scenarios, such as identifying an object from a cropped image or a brief description. However, real-world scenarios are more complex, often requiring the recognition of an object in a cluttered scene based on a vague, free-form description. To this end, we present ROOMELSA, a new benchmark designed to evaluate a model’s ability to interpret natural language. Specifically, ROOMELSA attends to a specific region within a panoramic room image and accurately retrieves the corresponding 3D model from a large database. In addition, our ROOMELSA dataset includes over 1,600 apartment scenes, nearly 5,200 rooms, and more than 44,000 targeted queries. Empirically, while coarse object retrieval is largely solved, only one top-performing model consistently ranked the correct match first across nearly all test cases. Notably, a lightweight CLIP-based model also performed well, although it struggled with subtle variations in materials, part structures, and contextual cues, resulting in occasional errors. Notably, these findings highlight the importance of tightly integrating visual and language understanding. By bridging the gap between scene-level grounding and fine-grained 3D retrieval, ROOMELSA establishes a new benchmark for advancing robust, real-world 3D recognition systems.}
+}

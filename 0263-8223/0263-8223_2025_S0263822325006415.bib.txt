@@ -1,0 +1,13 @@
+@article{ZHAO2025119476,
+title = {Lightweight modified paper-based composites with tunable dielectric properties based on high-aspect-ratio conductive dipoles},
+journal = {Composite Structures},
+volume = {371},
+pages = {119476},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119476},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006415},
+author = {Xiaojiao Zhao and Weihao Tu and Xin Xiu and Zhengsheng Huang and Sicheng Liu and Kang Guan and Jin Long and Jian Hu and Yi Wang and Wenquan Che},
+keywords = {Modified paper-based composites, Conductive dipoles, Aspect Ratio, Screen-printing, Broadband absorption},
+abstract = {Paper-based composites with tunable dielectric properties offer significant potential for lightweight, flexible broadband electromagnetic (EM) wave absorption. This study introduces a novel modified paper-based composite (MPC) featuring precisely controlled conductive dipoles, screen-printed onto lightweight aramid paper. By controlling the total dipole volume and spatial distribution density, we identify the aspect ratio (AR) as the critical structural parameter governing dielectric behavior. Through complementary experimental measurements and finite-element simulations, we demonstrate that increasing dipole AR from 1 to 200 significantly enhances frequency-dependent dielectric tunability across the S–Ku bands, yielding a remarkably wide permittivity range (ε′ from − 21.3 to 124.7, ε″ from 388.8 to 0.62). The underlying mechanisms of this tunability are elucidated through circuit model theory and effective medium approximations. Based on these insights, a multilayer MPC-based absorber is designed and fabricated, exhibiting exceptional performance: a broad relative absorption bandwidth of 136.8 % (3–16 GHz, reflection coefficient < − 10 dB), ultra-thin electrical thickness of 0.097λ at 2 GHz (14.5 mm), and a low density (60 kg/m3).Our research establishes the geometric anisotropy of conductive elements as a powerful and precise mechanism for tailoring the dielectric response of paper-based composites, opening new pathways for designing next-generation EM wave-absorbing materials.}
+}

@@ -1,0 +1,13 @@
+@article{DORAZIO2025119647,
+title = {A novel and flexible path planning algorithm for robotic filament winding of non-axisymmetric tubular structures},
+journal = {Composite Structures},
+volume = {373},
+pages = {119647},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119647},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008128},
+author = {Francesco D’Orazio and Federico Cottini and Fabio Spazzini and Valentina Furlan and Hermes Giberti},
+keywords = {Robotic filament winding, Non-axisymmetric tubular structures, Discrete path planning algorithm, STL, Composites materials},
+abstract = {With the increasing automation and use of composite materials in manufacturing processes, one of the most interesting and attractive technologies is Filament Winding. While this technology is already widely used with the support of robotic systems for the production of large and typically axisymmetric components, the same cannot be said when looking at the market for smaller and more complex objects. The real lack in this area is the development of robust and flexible algorithms capable of planning a path on complex real objects whose main information is derived from STL files. In this work, a new discrete algorithm for path planning based on IPS and NIS is proposed. This algorithm exploits information derived from STL geometries and friction to actively control the winding angle and to plan the trajectory with more flexibility. Its non-iterative approach ensures less computational effort, and the generated trajectory simplifies the transport condition along the geodesic direction used in previous algorithms. The algorithm was first validated with an analytically defined geometry (with errors below 2%) and subsequently its application was extended to geometries of varying degrees of complexity, demonstrating its robustness and accuracy. A non-axisymmetric tubular structure was used as a case study. Tests performed for different winding angles (45°to 80°) demonstrated the feasibility of the process based on the new algorithm. The results obtained with errors generally below 5°testify to the stability and accuracy of the solution.}
+}

@@ -1,0 +1,13 @@
+@article{MARTINEZMARTINEZ2025118044,
+title = {Accelerating cell topology optimisation by leveraging similarity in the parametric input space},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118044},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118044},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003160},
+author = {A. Martínez-Martínez and D. Muñoz and J.M. Navarro-Jiménez and O. Allix and F. Chinesta and J.J. Ródenas and E. Nadal},
+keywords = {Machine Learning, High-resolution Topology Optimisation, Finite Element Analysis, Trabecular structures, Metric definition, Parametric space exploration, Data acquisition},
+abstract = {The design of high-resolution topology-optimised (TO) structures is important for many industrial and medical applications because of their better mechanical performance under different load conditions. Traditional density-based TO methods, like the Solid Isotropic Material with Penalisation (SIMP) method, can produce detailed designs but are very computationally expensive, especially for fine meshes. While surrogate models using neural networks can speed up the process, they often lack generality and can create discontinuities, making them less effective for solving new problems. This study addresses these issues by introducing a method to speed up cell-level TO within a 2-Level framework, where large structures are built by combining optimised square cells. A data-driven instance-based model provides a better starting point for the standard SIMP-based optimiser, placing it closer to a local minimum and reducing computation time. To avoid the generality problems of other methods, the instance-based model uses a dataset expanded through two strategies: context-based data creation, which generates specific samples for the problem, and data augmentation, which increases dataset size without extra computation. Two similarity metrics, vector-based and energy-based, are used to measure how close the input parameters are. Both metrics are effective, but the energy-based metric is expected to work better in 3D cases, where higher-dimensional input spaces make other approaches less reliable. This methodology addresses important challenges associated with existing instance-based models, enhancing the speed and applicability of high-resolution TO.}
+}

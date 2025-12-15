@@ -1,0 +1,13 @@
+@article{PANDEY2025117514,
+title = {A multi-level adaptive mesh refinement strategy for unified phase field fracture modeling using unstructured conformal simplices},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117514},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117514},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007680},
+author = {Anshul Pandey and Sachin Kumar},
+keywords = {PFCZM, Adaptive refinement, Maubach's refinement, Newest vertex bisection},
+abstract = {The phase field model (PFM) has emerged as a popular computational framework for analyzing and simulating complex fracture problems. Despite PFM's inherent capacity to model relatively complex fracture phenomena such as nucleation, branching, deflection, etc., the computational costs involved in the analysis are quite high. Hence, a multi-level adaptive mesh refinement framework is proposed for a unified phase field model (PFCZM) to improve the computational efficiency. The proposed adaptive framework can be implemented for structured as well as unstructured meshes, making it suitable for analyzing complex fracture problems. This framework adaptively generates local mesh refinement at the discrete crack tip, based on an active element error indicator, until the damage is initiated, hence completely avoiding the pre-requisite of local mesh refinement. Further, the gradient of energy degradation and the gradient of dissipated fracture energy based error indicators are proposed to capture the fracture domain and regions ahead of the crack tip, respectively. The Newest vertex and Maubach's refinement routines are implemented as the element level-based hierarchical refinement strategies. Unlike recently proposed adaptive strategies for PFCZM involving elements with hanging nodes, the proposed adaptive framework inherently addresses the conformity and reflectivity of the discretized domain efficiently. The robustness and accuracy of the framework is checked against four benchmark fracture problems, demonstrating a significant reduction in computational costs with sufficient accuracy.}
+}

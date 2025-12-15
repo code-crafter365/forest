@@ -1,0 +1,13 @@
+@article{CAO2025119150,
+title = {Optimisation of large-Scale composite blade layup using coupled finite element method and machine learning},
+journal = {Composite Structures},
+volume = {364},
+pages = {119150},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119150},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003150},
+author = {Zhongliang Cao and Yang Zhang and Xianfeng Wang and Chen Liu},
+keywords = {Composite blades, Layup design, Surrogate model, Multiobjective optimisation},
+abstract = {This study focuses on the layup design of composite blades to enhance the mechanical properties of blades by adjusting the layup angle. The objective is to apply a generalised regression neural network (GRNN) to construct a surrogate model for multi-objective optimisation of composite blades. Four objectives are considered: the maximum displacement of the blade tip (to be minimised) and three metrics measuring the difference between the intrinsic frequency and the excitation frequency, called ‘resonance margin’ (to be maximised). Most of the lay-up angles of the composite blade are fixed and only two directions are considered as variables. Subsequently, the study incorporates the Non-dominated Sequential Genetic Algorithm II (NSGA-II) for multi-objective optimisation. The optimisation scheme achieves a dual enhancement of blade stiffness and resonance margin. After optimisation, the maximum displacement of the blade tip is reduced by about 32% compared with the pre-optimisation. The first three resonance margins are improved, especially the second order resonance margin is increased from 8.15% to 35.18%. The R2 value of the GRNN model of the blade is greater than 0.95. The high-precision surrogate model achieves accurate prediction of the mechanical properties of the blade. The trade-off of various properties of composite blades was achieved by NSGA-II algorithm.}
+}

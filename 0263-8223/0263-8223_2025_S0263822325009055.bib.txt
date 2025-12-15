@@ -1,0 +1,13 @@
+@article{CARRERA2025119740,
+title = {The component-wise to evaluate homogenized methods in layer-wise approaches for honeycomb sandwich panels},
+journal = {Composite Structures},
+volume = {374},
+pages = {119740},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119740},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009055},
+author = {Erasmo Carrera and Karim Abu Salem and Riccardo Augello},
+keywords = {Honeycomb, Sandwich, Cuf, Layer-wise, Homogenization},
+abstract = {This paper proposes an unprecedented ‘component-wise’ one-dimensional beam finite element model to investigate the reliability of analytical homogenization models in predicting the equivalent orthotropic properties of honeycomb cores in static and dynamic sandwich structures analyses. Classical and advanced schemes are considered, each introducing different levels of refinement in representing the mechanics of the core. Two representative honeycomb configurations are analysed to assess the sensitivity of the models to variations in cell topology, wall thickness, and boundary conditions. Equivalent properties derived from homogenization are implemented in a Layer-Wise (LW) formulation and compared against high-fidelity Component-Wise (CW) models that explicitly resolve the real core geometry. Both LW and CW approaches are formulated within the Carrera Unified Formulation, ensuring a consistent methodological framework. The study includes static analyses under bending and torsion and modal analyses. Results show that homogenized LW models can reproduce some global trends but fail to capture local effects and heterogeneous stiffness distributions, leading to significant deviations in both static and dynamic responses. By contrast, CW models consistently provide accurate predictions by preserving the intrinsic variability of the stiffness field. These findings highlight the intrinsic limitations of homogenization when applied to complex honeycomb structures and demonstrate that CW models offer a more powerful and reliable to assess actual mechanical response of sandwich panels, in the widest range of loading and boundary conditions. While homogenization remains useful for initial global assessment and preliminary design, the advancement proposed here is the recognition of CW formulations as the necessary reference to evaluate, validate, and ultimately improve homogenized approaches in the analysis of advanced and complex sandwich panels.}
+}

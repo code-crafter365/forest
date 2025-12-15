@@ -1,0 +1,13 @@
+@article{SELVARATNAM2025104256,
+title = {3D Reconstruction in Robotics: A Comprehensive Review},
+journal = {Computers & Graphics},
+volume = {130},
+pages = {104256},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104256},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000974},
+author = {Dharmendra Selvaratnam and Dena Bazazian},
+keywords = {3D reconstruction, Robotics, Computer vision, Computer graphics},
+abstract = {In this paper, we delve into the swiftly progressing domain of 3D reconstruction within robotics, a field of critical importance in contemporary research. The inherent potential of robots to engage with and understand their environment is significantly enhanced by integrating 3D reconstruction techniques, which draw inspiration from the complex processes of natural evolution and human perception. This study not only highlights the importance of 3D reconstruction methodologies in the broader context of technological advancement but also outlines their pivotal contributions to the field of robotics. Humans have evolved over millions of years to adapt to their surroundings through natural selection, enabling them to perceive the world. 3D reconstruction methods are inspired by natural processes to replicate objects, providing more detailed information about the perceived object. With this approach to object perception, robotics plays a crucial role in utilising these techniques to interact with the real world. Our study illustrates recent advancements in applying 3D reconstruction methods within robotics and discusses necessary improvements and applications for future research in the field.}
+}

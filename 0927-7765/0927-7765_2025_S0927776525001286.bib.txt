@@ -1,0 +1,13 @@
+@article{SAHU2025114621,
+title = {Effect of diffusion in the model tissue on biocorrosion of Mg alloys},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114621},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114621},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001286},
+author = {Manas Ranjan Sahu and Akiko Yamamoto},
+keywords = {In vitro model tissue, WE43, AZ31, Biodegradable metals, Electrochemical impedance spectroscopy, Potentiodynamic polarization},
+abstract = {Current in vitro test fails in predicting the in vivo corrosion behaviour of Mg and its alloys. The diffusion of ions and gases through the tissue remains the critical factor influencing the discrepancy between the in vitro and in vivo corrosion rates. To overcome this, the in vitro model tissue with different diffusion rate was developed by the addition of appropriate concentrations of a thickener to the cell culture medium. The corrosion behaviour of WE43 and AZ31 alloys were analysed by immersion studies up to 28 days, electrochemical impedance spectroscopy, and potentiodynamic polarization studies. Both the immersion and electrochemical tests demonstrated the decrease in the corrosion rate of Mg alloys by the addition of thickener. The corrosion rate of WE43 decreased with increase in the thickener concentration whereas those of AZ31 was not obviously influenced by the thickener concentration. This low susceptibility of AZ31 against the change in diffusion rate might be attributed to its slower charge transfer process, as confirmed by the smaller Icorr and larger Rct values. Immersion in the model tissue reduced Ca and P concentrations in the insoluble salt layer on WE43. The lower susceptibility of AZ31 in the model tissue suggests the stability of AZ31 corrosion behaviour in the different tissue with different diffusion rate, which even derives from the difference in the individual patient's pathological condition. The developed model tissue provides an important information on the biocorrosion behaviour of various Mg alloys in consideration of biodegradable implant application.}
+}

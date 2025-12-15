@@ -1,0 +1,13 @@
+@article{GIANI2025118081,
+title = {On shells of revolution with random profiles},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118081},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118081},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003536},
+author = {Stefano Giani and Harri Hakula and Duc Khuat},
+keywords = {Random domain, Uncertainty quantification, Shells of revolution, Finite element method},
+abstract = {Thin structures and shells in particular are well-known to be highly sensitive to manufacturing imperfections such as perturbations on the profile of a shell of revolution. The main result of this study is that one cannot expect to apply standard models for perturbations, such as Karhunen–Loève expansions, without careful consideration on how the applied model depends on the regularity of the random field. Through theoretical analysis and numerical experiments it is demonstrated that the chosen model does impose restrictions on the types of imperfections one can study. If the conditions are satisfied, the standard computational techniques such as stochastic collocation are applicable also in this problem domain. The efficacy of the simple approach is shown in the special case of symmetric concentrated loads. All classes of shell geometries have been considered in both clamped and sensitive configurations.}
+}

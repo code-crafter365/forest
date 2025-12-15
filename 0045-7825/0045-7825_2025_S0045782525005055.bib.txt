@@ -1,0 +1,13 @@
+@article{BELLNAVAS2025118233,
+title = {A fully variational numerical method for structural topology optimization based on a Cahn-Hilliard model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118233},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118233},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005055},
+author = {E. Bell-Navas and D. Portillo and I. Romero},
+keywords = {Topology optimization, Variational method, Cahn-Hilliard equations, Finite elements},
+abstract = {We formulate a novel numerical method suitable for the solution of topology optimization problems in solid mechanics. The most salient feature of the new approach is that the space and time discrete equations of the numerical method can be obtained as the optimality conditions of a single incremental potential. The governing equations define a gradient flow of the mass in the domain that maximizes the stiffness of the proposed solid, while exactly preserving the mass of the allocated material. Moreover, we propose a change of variables in the model equations that constrains the value of the density within admissible bounds and a continuation strategy that speeds up the evolution of the flow. The proposed strategy results in a robust and efficient topology optimization method that is exactly mass-preserving, does not employ Lagrange multipliers, and is fully variational.}
+}

@@ -1,0 +1,13 @@
+@article{LV2025108703,
+title = {Unification and parameterization of 2D woven FRP and sensitivity analysis of their in-plane moduli and strength respect to diverse constituent parameters},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108703},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108703},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24007012},
+author = {Tiantong Lv and Xihai Zhang and Ke Duan and Xuanyi Liu and Dengfeng Wang and Xuejing Du},
+keywords = {Fabrics/textiles, Parameterization, Multiscale, Damage evolution},
+abstract = {This study presents a parameterization method for 2D woven fiber-reinforced polymers (FRPs), accounting for the extensive variations unique to twill and satin weaves, which have received limited attention in the literature. By incorporating a user-defined elastoplastic-damage constitutive model for the matrix and a fiber bundle elastic-damage model based on the 3D Hashin failure criterion, this approach enables accurate virtual testing across diverse weave patterns, manufacturing parameters, and hybrid yarn compositions. Validation on representative specimens—including plain, 1/3 and 2/2 twill, and 5-harness 2-shift and 8-harness 3-shift satin weaves in carbon, carbon & glass, and carbon & Kevlar fiber composites—demonstrates model reliability. Building on this, a comprehensive parametric study is conducted to elucidate the effects of weave configuration, manufacturing settings, and material hybridization on tensile and shear performance. This framework provides an effective approach to understanding the structural and mechanical complexities of 2D woven FRPs, highlighting correlations and distinctions in their performance.}
+}

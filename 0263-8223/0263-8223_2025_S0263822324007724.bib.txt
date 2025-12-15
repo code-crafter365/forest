@@ -1,0 +1,13 @@
+@article{WU2025118644,
+title = {A novel cellular structure with center-symmetric cell walls for morphing applications},
+journal = {Composite Structures},
+volume = {352},
+pages = {118644},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118644},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007724},
+author = {Dezhi Wu and Guang Yang and Jianguo Tao and Yue Wang and Hong Xiao and Hongwei Guo},
+keywords = {Zero Poisson’s ratio, Cellular structure, Stiffness anisotropy, Morphing skin},
+abstract = {Cellular structures are potential candidates for the supporting framework of flexible morphing skins. Unlike traditional zero Poisson’s ratio (ZPR) cellular structures with axisymmetric cell walls, this paper proposes a novel cellular structure with center-symmetric cell walls. The in-plane mechanical properties of this novel structure are explored through theoretical analysis and substantiated by both finite element simulations and experimental tests. Compared to the classic accordion honeycomb structure, the elastic modulus in the x-direction of the novel structure is reduced by an average of 58%, the strain amplification rate is increased by 122%, and the in-plane stiffness anisotropy is improved by 200%. These findings suggest that the proposed structure offers far superior stiffness anisotropy and large deformation potential, making it more suitable for morphing applications than the traditional ZPR cellular structures.}
+}

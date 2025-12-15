@@ -1,0 +1,13 @@
+@article{BIAN2025114544,
+title = {Fabrication of piezoelectric/conductive composite nerve conduits for peripheral nerve regeneration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114544},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114544},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000517},
+author = {Taotao Bian and Yuhui Jiang and Jie Cao and Wenpin Wu and Luzhong Zhang and Yumin Yang},
+keywords = {Piezoelectric, Conductive, Nerve conduit, Peripheral nerve regeneration},
+abstract = {Due to the complex regenerative microenvironment after peripheral nerve injury (PNI), developing a piezoelectric/conductive composite nerve guidance conduit (NGC) for repairing nerve defects remains a great challenge. The conductivity and piezoelectricity have been separately demonstrated to enhance the repair of PNI, yet there is a paucity of studies investigating the synergistic effects of both functions. Herein, a piezoelectric/conductive nerve conduit composed of chitosan (CS), reduced graphene oxide (rGO), and poly-L-lactic acid (PLLA) was fabricated, which provided the conductivity, mechanical support and piezoelectricity. Tensile strength, conductivity, antibacterial activity, and cell viability of piezoelectric/conductive composite NGCs were evaluated. Piezoelectric/conductive composite NGCs exhibited electrical signal output capability and conductive performance. Moreover, rGO significantly promoted cell proliferation and adhesion. Overall, the piezoelectric/conductive CS/rGO/PLLA nerve conduit shows great promise as a potential treatment of PNI.}
+}

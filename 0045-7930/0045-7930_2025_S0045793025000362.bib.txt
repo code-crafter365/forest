@@ -1,0 +1,13 @@
+@article{NI2025106576,
+title = {A reconstruction technique for high-order variational finite volume schemes based on conjugate gradient method},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106576},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106576},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000362},
+author = {Fangkun Ni and Jianhua Pan and Wei-Gang Zeng and Yu-Xin Ren},
+keywords = {Conjugate gradient method, Variational finite volume method, Unstructured grids, High-order method},
+abstract = {This paper proposes a novel reconstruction technique based on conjugate gradient method for the variational finite volume schemes. Compared with the Gauss-Seidel or Jacobi iteration based variational finite volume schemes, the conjugate gradient method based variational finite volume schemes not only have a superior convergence rate but also are cell-wise parallel and suit for computational devices like graphic processing units. Benchmark cases including 2-D and 3-D, steady and unsteady, inviscid and viscous cases demonstrate the effectiveness and high efficiency of the proposed technique.}
+}

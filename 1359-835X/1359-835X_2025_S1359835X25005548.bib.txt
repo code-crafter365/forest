@@ -1,0 +1,13 @@
+@article{ZHANG2025109260,
+title = {Biomimetic cellular-structured SiC-B4C reinforced graphite composites with synergistic mechanical robustness and adaptive oxidation resistance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109260},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109260},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005548},
+author = {Biao Zhang and Zhilei Wei and Xiangyang Xu and Wenqi Xie and Hongyan Xia and Kai He and Lei Yang and Zhongqi Shi},
+keywords = {Biomimetic composite, Component regulation, Mechanical properties, Oxidation protection adaptability},
+abstract = {High mechanical load-carrying capability and oxidation resistance performance are crucial to structural materials used in extreme conditions. However, these features are often difficult to achieve simultaneously in conventional graphite/ceramic composites. Herein, inspired by the structural–functional feature of plant cells, the biomimetic cellular-structured SiC-B4C reinforced graphite microbead (G@SiC-B4C) composites are fabricated via Si-mediated reactive spark plasma sintering (RSPS), achieving co-enhanced mechanical robustness and adaptive oxidation resistance. By coupling three-dimensional continuous ceramic cytoderm with well-bonded phase interface, the composites yield exceptional flexural strength (222 MPa) and fracture toughness (3.79 MPa·m1/2) at optimized ceramic contents (9 vol% B4C, 30 vol% SiC). Temperature-adaptive oxidation resistance is mediated by dynamic oxide layers: B4C-derived B2O3 seals defects below 1200 °C, reducing mass loss rate by 83 % (0.52 → 0.09 mg·cm−2·h−1), while SiC-generated SiO2 dominates protection above 1200 °C. Dual-stage oxidation kinetics at 1400 °C, initial parabolic O2 diffusion through damaged B2O3 oxide layer, followed by linear reaction-controlled kinetics governed by stabilized SiO2 barrier, demonstrate component adaptability. Optimal B4C content (9–14 vol%) balances intermediate-temperature self-sealing via B2O3 layer and high-temperature self-healing through SiO2 barrier. The biomimetic dual-phase ceramic reinforced graphite composites establish a paradigm for extreme-environment structural materials in aerospace and nuclear systems.}
+}

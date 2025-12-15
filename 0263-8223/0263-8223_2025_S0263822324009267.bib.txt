@@ -1,0 +1,13 @@
+@article{LI2025118798,
+title = {Fracture from mode I dominated to mixed mode I-II in CFRP repaired steel pipes},
+journal = {Composite Structures},
+volume = {354},
+pages = {118798},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118798},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009267},
+author = {Huayang Li and Jiayu Wu and Feng-Chen An and Guan Lin and Jian-Fei Chen},
+keywords = {CFRP repaired steel pipes, Mixed mode fracture, Cohesive zone model, Griffith theory of fracture, Rapid crack propagation},
+abstract = {External wrapping of carbon fiber-reinforced polymer (CFRP) for the repair of steel pipes with slot-type defects has gained increasing acceptance. Interface debonding between the CFRP and the steel pipe is a common failure mode in this repair system, yet the fracture mechanism remains poorly understood. This paper presents an experimental and theoretical study aiming to elucidate the failure mechanism. A new bonded joint was designed for the experiment, and the debonding process was monitored by the strain distribution of the CFRP using distributed optical fiber sensors (DOFS). Stick-slip fracture behavior was observed in joints bonded with high-strength structural adhesives. Based on the experimental results, theoretical models are developed to describe the debonding process in three stages: elastic stage, rapid crack propagation (RCP) stage, and steady-state crack propagation (SSCP) stage. Using a linear elastic-brittle traction-separation relation, the interface debonding during the elastic and RCP stages is characterized by mode I dominated fracture, analyzed using a cohesive zone model. Mixed mode I-II fracture during the SSCP stage is analyzed using Griffith theory of fracture, with partitioning of the total energy release rate into its mode I and mode II components. The theoretical model aligns well with the experimental results, validating the model’s accuracy.}
+}

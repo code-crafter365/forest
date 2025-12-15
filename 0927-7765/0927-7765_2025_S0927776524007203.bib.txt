@@ -1,0 +1,13 @@
+@article{ANUTHUM2025114461,
+title = {Sensitive electrochemical detection of glycated hemoglobin (HbA1c) using cobalt metal-organic framework/two-dimensional molybdenum diselenide nanocomposite-based immunosensors amplified by polyoxometalate/DNA aptamer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114461},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114461},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007203},
+author = {Siriporn Anuthum and Phakorn Papan and Arnat Pasena and Saranphong Yimklan and Chanchanok Aramrat and Padchanee Sangthong and Jaroon Jakmunee and Kontad Ounnunkad},
+keywords = {Sandwich-like electrochemical immunosensor, Glycated hemoglobin, Diabetes, Aptamer, Polyoxometalate},
+abstract = {Clinical diagnosis and long-term diabetes management are advanced by monitoring glycated hemoglobin A1c (HbA1c) levels. New sensitive sandwich-like immunosensors for the diagnosis of early diabetes toward detecting HbA1c and hemoglobin (Hb) are demonstrated for the first time. DNA aptamers are used for signal amplification in the sensors for the detection of HbA1c and Hb. The immunosensors are constructed by coating with a cobalt-based metal-organic framework (Co-MOF)/two-dimensional molybdenum diselenide (2D MoSe2) composite onto a working electrode of an ItalSens screen-printed electrode (SPE) inserted into a Sensit/Smart Potentiostat affixed to a smartphone. After the immobilization of the antibodies, the detection is obtained by incubating the resultant SPEs in target solutions and then detecting the response of Keggin-type polyoxometalate (POM) bound on the DNA aptamer chains. In the selected potential window, the POM (silicotungstic acid, H4[α−SiW12O40]) used in this study exhibits the electron-transfer processes I and II ([α-SiW12O40]4−/5− and [α-SiW12O40]5−/6−, respectively) in the acidic buffer electrolyte. Our proposed device demonstrates exceptional performance in the recovery test of %HbA1c in healthy human plasma samples. The sensitivity, selectivity, and stability of this immunosensor are exceedingly outstanding, which makes it one of the potential analytical devices for diagnosing early diabetes by a %HbA1c assay.}
+}

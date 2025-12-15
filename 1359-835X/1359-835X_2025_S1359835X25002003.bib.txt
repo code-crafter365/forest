@@ -1,0 +1,13 @@
+@article{ALVES2025108906,
+title = {Direct Ink Writing of ATZ composites toughened with in-situ grown strontium hexaluminate platelets},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108906},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108906},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002003},
+author = {Manuel F.R.P. Alves and Narciso R.M. Lévaro and M.S. Faria and Susana M. Olhero},
+keywords = {Alumina-toughened-zirconia, Direct ink writing/robocasting, Strontium hexaluminates, Platelets, Mechanical properties, Printability},
+abstract = {In the present work, dense and tough alumina toughened zirconia (ATZ) composites reinforced with strontium hexaluminate platelets (S6A) were developed by Direct Ink Writing. To avoid the issues related with the direct addition of high aspect ratio particles, the S6A platelets were grown in situ during the sintering step. The influence of the S6A precursor addition on the printability of the ATZ paste and subsequently on the densification, microstructure and mechanical properties of the printed parts were studied. Proper printability was attained for pastes with 40 vol% of solids in the presence of different amounts of S6A precursors. Good dispersibility of the S6A platelets was observed in the sintered microstructures, for all considered concentrations (2.5, 5 and 7.5 vol%). Samples reinforced with S6A platelets exhibited densities around 98–99 %, while the best trade-off between flexural strength (768 MPa), fracture toughness (8.5 MPa√m) and hardness (14.3 GPa) was attained for the ATZ containing 5 vol% of S6A.}
+}

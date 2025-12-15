@@ -1,0 +1,13 @@
+@article{KRYEEM2025104228,
+title = {Action assessment in rehabilitation: Leveraging machine learning and vision-based analysis},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104228},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104228},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003096},
+author = {Alaa Kryeem and Noy Boutboul and Itai Bear and Shmuel Raz and Dana Eluz and Dorit Itah and Hagit Hel-Or and Ilan Shimshoni},
+keywords = {Healthcare, Activity recognition, Rehabilitation},
+abstract = {Post-hip replacement rehabilitation often depends on exercises under medical supervision. Yet, the lack of therapists, financial limits, and inconsistent evaluations call for a more user-friendly, accessible approach. Our proposed solution is a scalable, affordable system based on computer vision, leveraging machine learning and 2D cameras to provide tailored monitoring. This system is designed to address the shortcomings of conventional rehab methods, facilitating effective healthcare at home. The system’s key feature is the use of DTAN deep learning approach to synchronize exercise data over time, which guarantees precise analysis and evaluation. We also introduce a ‘Golden Feature’—a spatio-temporal element that embodies the essential movement of the exercise, serving as the foundation for aligning signals and identifying crucial exercise intervals. The system employs automated feature extraction and selection, offering valuable insights into the execution of exercises and enhancing the system’s precision. Moreover, it includes a multi-label ML model that not only predicts exercise scores but also forecasts therapists’ feedback for exercises performed partially. Performance of the proposed system is shown to be predict exercise scores with accuracy between 82% and 95%. Due to the automatic feature selection, and alignment methods, the proposed framework is easily scalable to additional exercises.}
+}

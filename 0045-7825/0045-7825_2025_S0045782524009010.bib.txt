@@ -1,0 +1,13 @@
+@article{PINTI2025117647,
+title = {Graph Laplacian-based Bayesian multi-fidelity modeling},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117647},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117647},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009010},
+author = {Orazio Pinti and Jeremy M. Budd and Franca Hoffmann and Assad A. Oberai},
+keywords = {Multi-fidelity modeling, Bayesian inference, Uncertainty quantification, Semi-supervised learning, Graph-based learning},
+abstract = {We present a novel probabilistic approach for generating multi-fidelity data while accounting for errors inherent in both low- and high-fidelity data. In this approach a graph Laplacian constructed from the low-fidelity data is used to define a multivariate Gaussian prior density for the coordinates of the true data points. In addition, few high-fidelity data points are used to construct a conjugate likelihood term. Thereafter, Bayes rule is applied to derive an explicit expression for the posterior density which is also multivariate Gaussian. The maximum a posteriori (MAP) estimate of this density is selected to be the optimal multi-fidelity estimate. It is shown that the MAP estimate and the covariance of the posterior density can be determined through the solution of linear systems of equations. Thereafter, two methods, one based on spectral truncation and another based on a low-rank approximation, are developed to solve these equations efficiently. The multi-fidelity approach is tested on a variety of problems in solid and fluid mechanics with data that represents vectors of quantities of interest and discretized spatial fields in one and two dimensions. The results demonstrate that by utilizing a small fraction of high-fidelity data, the multi-fidelity approach can significantly improve the accuracy of a large collection of low-fidelity data points.}
+}

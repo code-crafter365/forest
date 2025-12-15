@@ -1,0 +1,13 @@
+@article{CHEN2025108801,
+title = {Two-step phase-separated ANF/polyimide aerogel fibers with tunable in situ core-sheath structure for wearable heat-insulated fabrics},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108801},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108801},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000958},
+author = {Zhilin Chen and Xianbo Hou and Jia Chen and Shuyan Nie and Shaowei Zhu and Tao Liu and Liming Chen},
+keywords = {Polyimide aerogels, Fiber fabrics, Core-sheath structure, Thermal insulation},
+abstract = {Aerogel fibers have exhibited crucial application prospects in wearable heat-insulated fabrics. However, developing aerogel fibers with robust mechanical performance and high flexibility remains challenging due to their inherent fragility caused by high porosity. Herein, aramid nanofibers (ANF) reinforced polyimide (PI) aerogel fibers (ANF/PIAFs) are presented with tunable in situ core-sheath structure for super-flexible and super-toughness wearable heat-insulated fabrics by a novel two-step (2Step) phase separation strategy. The results demonstrate that the formation of sheath thickness and pore morphology of aerogel fibers can be tuned by the phase separation steps. Attributed to the core-sheath structure and the entanglement of chains with the introduction of ANF nanofibers, the tough and flexible ANF/PIAFs demonstrate improved tensile modulus (748.53 MPa), tensile strength (51.94 MPa) and fracture energy (18.28 MJ/m3) by 2.5 times, 11.5 times, and 288.2 times compared with the unprocessed PI aerogel fibers. Moreover, the addition of ANF effectively inhibits the shrinkage of aerogel fibers, which maintains the high thermal insulation ability (0.034 W/(m·K)). The strategy outlined in this study introduces a novel and universal method for fabricating aerogel fibers with a core-sheath structure using the improved phase separation technique, demonstrating the promising potential for applications in flexible thermal-insulated fabrics.}
+}

@@ -1,0 +1,10 @@
+@article{2025102413,
+title = {Editorial Board},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {123},
+pages = {102413},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/S0147-9571(25)00121-3},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001213}
+}

@@ -1,0 +1,13 @@
+@article{GAO2025104470,
+title = {Physics-guided human interaction generation via motion diffusion model},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104470},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104470},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001936},
+author = {Dahua Gao and Wenlong Wang and Xinyu Liu and Yuxi Hu and Danhua Liu},
+keywords = {Text-driven motion synthesis, Diffusion model, Physical principle, Human interactive motions},
+abstract = {Denoising diffusion model significantly boosts the generation of two-person interactions conditioned on textual descriptions. However, due to the complexity of interactions and the diversity of textual descriptions, motion generation still faces two critical challenges: The self-induced motion and the increasing error accumulation with more denoised steps. To address these issues, we propose a novel Physics-guided human Interaction generation framework based on motion diffusion model, named PhyInter. It can synthesize contextually appropriate motion, automatically learn the dynamic states of the other participant without additional annotation, and also optimize the errors of generation by guiding the next denoising diffusion step. Specifically, PhyInter integrates physical principles from two perspectives: (1) Defining a stochastic differential equation based on human kinematics to model the physical states of interaction; (2) Employing an interactive attention module to share physical information between intra- and inter-human motions. Additionally, we design a sampling strategy to facilitate motion generation and avoid unnecessary computation, ensuring realistic, physically-plausible interactions. Extensive experiments demonstrate that our method surpasses previous approaches on the InterHuman dataset, achieving the state-of-the-art performance.}
+}

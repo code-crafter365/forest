@@ -1,0 +1,13 @@
+@article{GUPTA2025105918,
+title = {Processing pipeline for fully-automated computation of 3D glacier surface flow time series},
+journal = {Computers & Geosciences},
+volume = {200},
+pages = {105918},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105918},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000688},
+author = {Ayush Gupta and Balaji Devaraju and Ashutosh Tiwari},
+keywords = {Glacier surface flow, Synthetic aperture radar, Offset-Tracking, Normalized cross correlation stacking, Himalayan glaciers},
+abstract = {To comprehend glacier dynamics for a region, a time-series study of glacier change is essential. Most of the existing research focus on understanding the long-term changes in glaciers to understand how glaciers adapt to a warming climate. However, generation of a large time series data often requires a substantial amount of computational time and resources, and no automated pipelines exist for calculating glacier surface flow. We address these problems by building an automated pipeline for efficient processing of satellite SAR images, generating extensive time series data for tracking glacier changes. This pipeline employs Sentinel-1 (S-1) interferometric wide swath SAR data to produce seasonal time series of glacier surface displacements over prolonged durations. The pipeline utilizes the ISCE framework for SAR data processing, and introduces a robust offset tracking module designed to perform offset tracking across an image time-series through Normalized cross correlation (NCC) stacking. It performs offset tracking on both ascending and descending S-1 images to compute displacements in both azimuth and range directions. These displacements are later utilized to compute northward, eastward, and vertical surface displacements between consecutive time-steps through weighted least squares, with optimal weights designed to make the model more robust. We demonstrate the proposed pipeline over three valley-type glaciers (Bara Shigri, Geepang Gath, and Samudra Tapu) located in the Chandra basin, Himachal Pradesh, India, generating 3D surface displacement time series from 2017 to 2022. The software, automating the entire process of glacier surface displacement time-series computation, is open access, and can be employed to monitor varieties of glaciers using current and upcoming SAR sensors with frequent revisits.}
+}

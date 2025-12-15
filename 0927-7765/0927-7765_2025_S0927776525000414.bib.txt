@@ -1,0 +1,13 @@
+@article{GUO2025114534,
+title = {Hollow mesoporous silica nanoparticles for drug formulation and delivery: Opportunities for cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114534},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114534},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000414},
+author = {Huiqi Guo and Xia Zhao and Yanping Duan and Jingzhuan Shi},
+keywords = {Hollow mesoporous silica nanoparticles, Nanocarriers, Targeting, Controlled release, Drug delivery},
+abstract = {The advantages of large surface area, high volume ratio, good biocompatibility, and controllable surface functionalization make hollow mesoporous silica nanoparticles (HMSNs) an ideal drug carrier. HMSNs can achieve high efficiency, targeting, and controlled release by adjusting the microstructure and surface modification of its particles, which makes it broad application prospects in the field of medical therapy, especially in cancer therapy. Numerous studies have shown that preparation method, shape, particle size, hollow inner diameter, aperture and wall thickness of the HMSNs, the characteristics of the drugs, the interaction between the drugs and the carriers, and the external environment all closely affect the drug delivery, release, and efficacy. The external environment includes temperature, pH value, light intensity, magnetic field intensity, enzyme type and concentration, etc. This review summarizes the research progress of HMSNs as carrier materials in the past five years, analyzes the existing problems in the application process and presents the development prospects of HMSNs.}
+}

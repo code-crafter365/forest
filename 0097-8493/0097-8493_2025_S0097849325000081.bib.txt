@@ -1,0 +1,13 @@
+@article{LIN2025104169,
+title = {Visualizing NBA information via storylines},
+journal = {Computers & Graphics},
+volume = {127},
+pages = {104169},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104169},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000081},
+author = {Jie Lin and Chuan-Kai Yang and Chiun-How Kao},
+keywords = {Sports visualization, Sports analysis, Storylines, Game reconstruction, Story-telling visualization},
+abstract = {Sports visualization analysis is an important area within visualization studies. However, there is a lack of tools tailored for NBA writers among existing systems. Creating these tools would improve understanding of the game’s complex dynamics, particularly player interactions. We propose a visualization system to improve understanding of complex NBA game data. Featuring multiple modules, it allows users to analyze the game from various perspectives. This paper highlights the system’s use of storylines to examine player interactions, enhancing the extraction of valuable insights. The study shows that our design enhances personalized in-game data analysis, improving the understanding and aiding in identifying critical moments.}
+}

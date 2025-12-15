@@ -1,0 +1,13 @@
+@article{WANG2025117677,
+title = {Development and application of a fluid mechanics analysis framework based on complex network theory},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117677},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117677},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009319},
+author = {Zihao Wang and Guiyong Zhang and Tiezhi Sun and Bo Zhou},
+keywords = {Network theory, Dimensionality reduction, Clustering, Sparsification, Flow modeling},
+abstract = {This paper presents a comprehensive framework for spatiotemporal flow field analysis based on complex network theory, emphasizing dimensionality reduction, spatiotemporal feature identification, modeling, and sparsification. The framework first redefines transient flow fields using graph theory and applies clustering techniques to discretize the flow field into different vortex structures, achieving dimensionality reduction. By leveraging the structural relationships between nodes and edges in the network, this method establishes the physical correlations between vortices. It effectively describes flow characteristics by transforming the time evolution of physical properties into the motion of network nodes, modeling both the static and dynamic aspects of the flow field. A community detection approach based on dynamically linked node attributes reveals different flow states and their evolution patterns. Moreover, the model, implemented through network dynamics, successfully predicts unsteady forces and provides complete flow field information. The use of superpixel-based sparse representation of the flow field strikes a balance between simplicity and the preservation of key flow features. This approach highlights the growing importance of sparsity in vortex and flow state identification while also emphasizing the delicate balance between data simplification and accuracy during modeling. This innovative method significantly simplifies flow field analysis and offers a comprehensive insight into its dynamic behavior, providing a promising framework for understanding and characterizing complex transient flow phenomena.}
+}

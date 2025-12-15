@@ -1,0 +1,13 @@
+@article{DOLAI2025106536,
+title = {A hybrid phase field-volume of fluid method for simulating dynamically evolving interfaces in multiphase flows},
+journal = {Computers & Fluids},
+volume = {289},
+pages = {106536},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106536},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003670},
+author = {Atin Kumar Dolai and Vinod Pandey and Gautam Biswas and Suman Chakraborty},
+keywords = {Phase field, Volume of fluid, Dynamic interface, Multiphase flow},
+abstract = {Moving boundary problems are ubiquitous in a plethora of applications encompassing nature and engineering, featuring interfaces that dynamically evolve with space and time. Despite the advancements in high performance computing over the recent years, the reported computational techniques for addressing such classes of problems continue to be challenged by a physically-consistent representation of the phase boundary topology. This deficit stems from the fact that whereas the established interface capturing techniques such as the volume of fluid (VOF) and the level set (LS) and a combination thereof (CLS-VOF) introduce mathematical variables for constructing the physical interface, the numerical parameters controlling the same may not necessarily connect with the fundamental thermodynamic considerations. On the other hand, the thermodynamically routed approaches such as phase field methods render to be computationally expensive while addressing an experimentally tractable physical problem where it may be difficult to map the experimental and simulation parameters. Bridging this gap, here we report a new hybrid interface capturing scheme that aims to amalgamate the computationally efficient interface construction approach for the VOF method and the thermodynamically-premised free energy-based diffuse interface description of the phase-field method. This enables the use of a standard second-order convection-diffusion scheme to apply a mass-conservative phase field formalism with standardized numerical parameters for interfacial advection and diffusion as opposed to the otherwise compulsive requirement of a fourth order differential equation for describing the phase field space for complying with the mass conservation constraint. We illustrate the efficacy of our method by benchmarking with reference to the established results on bubble dynamics, Rayleigh Taylor instability and film boiling. Our findings indicate the potential efficacy of this new approach as a balance between physical consistency and computational economy.}
+}

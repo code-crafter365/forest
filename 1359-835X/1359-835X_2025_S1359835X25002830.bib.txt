@@ -1,0 +1,13 @@
+@article{SUN2025108989,
+title = {Lunar regolith simulant-derived 3D-printed geopolymers with optimized mechanical and thermal management properties},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108989},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108989},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002830},
+author = {Yifan Sun and Siqi Ma and Qingze Chen and Guoliang Chen and Peigang He and Yaming Wang and Jun Qiu and Dechang Jia},
+keywords = {Lunar regolith simulant-based geopolymers, Zig-zag layered porous structure, Mechanical reinforcement, Radiation thermal management},
+abstract = {Lunar soil, as an in-situ resource, holds significant potential for constructing bases and habitats on the Moon. However, such constructions face challenges including limited mechanical strength and extreme temperature fluctuations ranging from −170 °C to +133 °C between lunar day and night. In this study, we developed a 3D-printed geopolymer derived from lunar regolith simulant with an optimized zig-zag structure, exhibiting exceptional mechanical performance and thermal stability. The designed structure achieved remarkable damage tolerance, with a compressive strength exceeding 12.6 MPa at ∼ 80 vol% porosity and a fracture strain of 3.8 %. Finite element method (FEM) simulations revealed that the triangular frame and wavy interlayers enhanced both stiffness and toughness. Additionally, by incorporating strategically placed holes and extending the thermal diffusion path, we significantly improved the thermal insulation of the structure, achieving an ultralow thermal conductivity of 0.24 W/(m K). Furthermore, an iron-free geopolymer coating reduced overheating under sunlight by 51.5 °C, underscoring the material’s potential for space applications.}
+}

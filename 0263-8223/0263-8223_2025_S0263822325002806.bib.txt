@@ -1,0 +1,13 @@
+@article{LIU2025119115,
+title = {A carbon fiber composite corrugated resonator metamaterial with excellent sound absorption and mechanical strength},
+journal = {Composite Structures},
+volume = {363},
+pages = {119115},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119115},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002806},
+author = {Qi Liu and Jin-Shui Yang and Yuan-Yuan Tang and Yao-Yao Xu and Hao Han and Yong-Le Fan and Shuang Li and Lin-Zhi Wu},
+keywords = {Carbon fiber, Sandwich material, Mechanical strength, Sound absorption},
+abstract = {To achieve low-frequency broadband sound absorption and enhanced mechanical strength, this study proposes a novel carbon fiber composite corrugated resonator metamaterial (CCRM). The CCRM is designed based on principle of the Helmholtz Resonator (HR) and fabricated by using computer numerical control (CNC) cutting technology. The sound absorption coefficient reaches up to 0.9 in the frequency range of 500–1000 Hz. The absorbed wavelength is 13 times the thickness of the structure. Experimental, theoretical, and numerical analyses confirm that the broadband absorption is due to the parallel coupling of the resonators. Additionally, uniaxial compression tests demonstrate the CCRM’s superior specific stiffness, specific strength, and sound absorption-to-thickness ratio, which is highlighting the mechanical robustness. By revealing the dependences of sound absorption performance on the geometric parameters and arrangement of the HR structures, this study provides a foundational exploration for the development of new multifunctional acoustic metamaterials. The optimized design of CCRM shows great potential for applications in complex engineering environments such as aerospace, railways, and automotive industries.}
+}

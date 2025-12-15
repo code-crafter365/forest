@@ -1,0 +1,13 @@
+@article{WANG2025115092,
+title = {Injectable biomimetic nano-hydrogel composite based on copper selenide nanoparticles and carboxymethyl chitosan for synergistic chemo-photothermal cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115092},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115092},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005995},
+author = {Yuanpeng Wang and Yuping Yang and Jiachi Ma and Juanjuan Wang and Liang Chu and Qingkang Wang and Siyu Sun and Xin Wang and Chensong Zhang},
+keywords = {Biomimetic nanoparticles, Nano-hydrogel composite, Combination therapy},
+abstract = {This study reports the synthesis and characterization of an injectable nano-hydrogel composite (m@NPs-HG) based on selenium nanoparticles (Se NPs) and carboxymethyl chitosan (CMCS) nanoparticles for enhanced cancer therapy. Selenium nanoparticles were stabilized using CMCS to form copper selenide nanoparticles (CSe NPs), while doxorubicin (DOX)-loaded CMCS nanoparticles (CD NPs) were encapsulated within cancer cell membranes to generate biomimetic nanoparticles (m@NPs). Subsequently, CSe NPs and m@NPs were integrated into a hydrogel via crosslinking with CuCl2, resulting in the formation of m@NPs-HG. The composite exhibited remarkable photothermal conversion capability, efficient cellular uptake, and robust reactive oxygen species (ROS) generation. In vitro experiments demonstrated significant induction of apoptosis and cytotoxicity in H22 and HepG2 cancer cells. The in vivo anti-tumor efficacy was evaluated in H22 tumor-bearing mice, revealing that m@NPs-HG combined with laser irradiation effectively suppressed tumor growth while exhibiting minimal systemic toxicity. Hemolysis and biodistribution studies further confirmed the excellent biocompatibility and targeting ability of the composite system. This study concludes that the m@NPs-HG system represents a promising theranostic platform for cancer treatment.}
+}

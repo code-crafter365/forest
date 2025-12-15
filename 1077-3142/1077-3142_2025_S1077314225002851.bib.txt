@@ -1,0 +1,13 @@
+@article{CHEN2025104562,
+title = {SPSC-Net: Shared parallel space-channel attention mechanism transformer network for cell sequence image segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104562},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104562},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002851},
+author = {Shengwen Chen and Haixing Song and Huiling Feng and Jieyuan Hu and Qiuyi Bai and Fuyun He},
+keywords = {Cell sequence images, Cell segmentation, Cell tracking, Multi-resolution cascaded decoder, Transformer},
+abstract = {In recent years, Transformer networks have achieved significant success in the field of computer vision, mainly due to their self-attention mechanism, which calculates the attention weights of each element in the input sequence to all other elements. This allows the Transformer to consider the information of the entire sequence, effectively capturing global contextual information, thereby excelling in modeling long-distance dependencies. To overcome the high computational cost of the self-attention mechanism and its insufficient consideration of channel information, this study proposes a shared parallel space-channel attention mechanism, known as the SPSC module. This module integrates spatial and channel attention, effectively capturing global attention and enhancing feature representation through a sharing mechanism. Additionally, hierarchical feature design and overlapping patch design are introduced to further strengthen the spatial and channel dimensions of feature representation. Concurrently, Haar wavelet down sampling is employed to replace the patch embedding part of the base network, utilizing its multi-scale analysis capability to enhance the model’s ability to capture image hierarchy and detail information. In the decoder design, a multi-resolution Transformer cascade decoder based on the SPSC module is used. This design significantly enhances the performance of the Transformer model in cell image segmentation tasks. Experimental results indicate that the proposed SPSC-Net model significantly outperforms other methods in segmentation performance across multiple cell datasets. Furthermore, the importance of each module in the model is verified through ablation studies.}
+}

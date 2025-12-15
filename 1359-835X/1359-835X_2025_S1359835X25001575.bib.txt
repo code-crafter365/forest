@@ -1,0 +1,13 @@
+@article{ANNAMALAI2025108863,
+title = {On the extension of in-plane permeability calibration to out-of-plane measurements: Advancements in additively manufactured textile-structured porous media for liquid composite moulding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108863},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108863},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001575},
+author = {Prabakaran Annamalai and Venkatesh Gangipamula and Demeke Abay Ashebir and Md Abdus Sattar and Stepan V. Lomov and David May and Masoud Bodaghi and Mostafa Nikzad},
+keywords = {Textile-structured porous media, 3D printing, Resin transfer moulding (RTM), Permeability},
+abstract = {The introduction of ISO 4410:2023 for in-plane permeability established reliable measurement standards for composite manufacturing, yet no reference medium exists for through-thickness permeability. This study extends in-plane calibration to through-thickness measurements using textile-structured porous media fabricated via advanced 3D printing techniques such as SLA, FDM, and MJF. The SLA-fabricated medium, with dimensional tolerances below 2% and a coefficient of variation under 2% for in-plane permeability, forms the study’s foundation. 3D CFD models with varied channel sizes, mirroring experimental designs, were developed to simulate fluid flow in both in-plane and through-thickness directions under different inlet pressures. Simulation results, including velocity and pressure, align strongly with experimental permeability data, demonstrating accuracy and consistency. This work enhances the understanding of permeability in 3D-printed porous media and provides a framework for standardization and industrial applications in composite manufacturing.}
+}

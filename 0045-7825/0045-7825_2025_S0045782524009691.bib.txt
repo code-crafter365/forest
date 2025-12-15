@@ -1,0 +1,13 @@
+@article{REN2025117715,
+title = {Characterize the pairwise deformation gradient without least squares in 2D: Application in the NMMD model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117715},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117715},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009691},
+author = {Yudong Ren and Jianbing Chen and Guangda Lu},
+keywords = {Deformation gradient, Material bond, Least squares, Nonlocal macro–meso-scale damage model},
+abstract = {The pointwise deformation gradient estimated from least squares is essential in material point-based models, e.g., to enrich the constitutive models as well as the failure criteria, and an average procedure is necessary to implement it onto the material bonds. In the current paper, a pairwise deformation gradient defined on material bonds rather than material points is introduced and characterized without least squares in 2D problems. To solve this underdetermined mathematical problem, a mesoscopic structure consisting of material bonds linked to a material point within a certain distance is introduced and two equations are supplemented, i.e., the volumetric strain and rigid body rotation strain can be estimated by integrating the stretch rate and shear deformation rate of material bonds within the influence domain. Then the components of a 2D pairwise deformation gradient can be evaluated with only the estimated strains and differences of displacement vectors at two endpoints, and thus a mapping from the bonds’ deformation to the pairwise deformation gradient is established. The effectiveness and properties of the proposed mapping are demonstrated with a numerical experiment. With the aid of the proposed mapping, the damage driving force decomposition in the nonlocal macro–meso-scale damage (NMMD) model can be achieved on the meso scale. The numerical results from the previous macroscopic formulation and the current mesoscopic scheme are compared to further validate the effectiveness of the proposed mapping. In addition, the relation between the deviatoric stretch and shear deformation of material bond is illustrated and the necessity of the spectral decomposition is clarified.}
+}

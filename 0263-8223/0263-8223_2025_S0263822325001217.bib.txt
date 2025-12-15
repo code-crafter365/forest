@@ -1,0 +1,13 @@
+@article{ZHANG2025118956,
+title = {Investigation on failure behavior of 2.5D woven composites in temperature environments by a novel multiscale mechanical-thermal elastoplastic model},
+journal = {Composite Structures},
+volume = {357},
+pages = {118956},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118956},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001217},
+author = {Wenyu Zhang and Junhua Guo and Huabing Wen and Weidong Wen and Chun Guo and Yifan Zhang and Zhirong Yang and Wantao Guo},
+keywords = {2.5D woven composites, Multiscale analysis, Progressive damage model, Thermo-plasticity, Anisotropic elastoplasticity},
+abstract = {2.5D woven composites (2.5DWC) are widely used in aerospace and are often accompanied by complex thermal environments, and many multiscale mechanical models have been proposed to predict the mechanical response and damage behavior in thermal environments. Existing multiscale models make it difficult to consider nonlinear mechanical problems at the yarn level, especially plastic behavior in thermal environments. Herein, a novel multiscale mechanical-thermal elastoplastic progressive damage model for 2.5DWC is proposed to predict the mechanical properties under temperature environment. Different from the traditional hierarchical multiscale approach, this model treats the yarn at mesoscale as a transverse isotropic elastoplastic material, and mechanical-thermal progressive damage models are developed for resin, yarn and carbon fibers, respectively, to characterize the mechanical behaviors of the components at microscale and mesoscale. Subsequently, the effect of temperature on the mechanical properties of 2.5DWC is analyzed based on a homogenization approach, in which the RVE with different volume fractions is used as a bridge to convey the plastic behavior of microscale and mesoscale yarns. Finally, the fracture morphology and stress–strain relationship of the material in a real temperature environment are used to verify the reasonability of the prediction results. This work provides support for advancing the in-depth application of 2.5DWC in aerospace.}
+}

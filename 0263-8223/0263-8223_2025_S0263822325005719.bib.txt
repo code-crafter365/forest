@@ -1,0 +1,13 @@
+@article{LIN2025119406,
+title = {Effect of high performance composite macrofiber on the shear behavior of reinforced beams without stirrups},
+journal = {Composite Structures},
+volume = {370},
+pages = {119406},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119406},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005719},
+author = {Chen Lin and Zhanchong Shi and Terje Kanstad and Guomin Ji},
+keywords = {Composite macrofiber, Concrete beams, Shear behavior, Finite element model, Digital image correlation, Theoretical analysis},
+abstract = {Although numerous studies have investigated the effectiveness of steel fibers as shear reinforcement in concrete structures. The present study investigates a novel high-performance composite macrofiber (HPCF) for shear reinforcement in reinforced beams, encouraging its use in construction. Three groups of longitudinally reinforced beams, lacking shear reinforcement but containing varying HPCF contents, were fabricated. A multi-method validation approach was adopted, including four-point bending test, nonlinear finite element (FE) modeling, and theoretical analysis based on current design codes. Full-field strain and crack evolution were monitored using Digital Image Correlation (DIC), enabling a detailed evaluation of crack initiation and width development. Results revealed that a relatively low fraction of HPCF significantly enhanced beam’s shear capacity. The validated FE models were further used to explore the influence of longitudinal (ρL) and shear (ρV) reinforcement ratios on the shear behavior of beams with HPCF. Finally, safety margins of using HPCF as only shear reinforcement were evaluated using theoretical models outlined in different design codes. Although formulated only for steel fibers, FprEC2:2022 is shown to perform well also for HPCF. Overall, the experimental, numerical and theoretical findings support the feasibility of using HPCF as a reliable alternative to traditional shear reinforcement in concrete beams.}
+}

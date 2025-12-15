@@ -1,0 +1,13 @@
+@article{LI2025111098,
+title = {A strategy for fabricating short carbon fiber aerogel towards thermal conduction application},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111098},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111098},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000661},
+author = {Jia-Hao Li and Xue-Qin Gao and Wei-Chen Zhou and Chen Ye and Cong Deng},
+keywords = {Short carbon fiber, Graphene, Natural rubber, Thermal conduction},
+abstract = {Highly oriented short carbon fibers (SCFs) provide an ideal unidirectional channel for phonon transfer. However, this advantage has been difficult to fully harness due to the lack of effective methods for fabricating a well-oriented, three-dimensional interconnected SCF network. In this study, we present a novel approach to create highly oriented SCF aerogels (SCFAs) and demonstrate their application in enhancing the thermal conductivity of natural rubber (NR). By utilizing graphene oxide (GO) sheets as anchoring points, a structured network of highly oriented SCFs is established via the ice templating exclusion effect. The non-covalent interactions between GO and SCFs facilitate the formation of an ordered, interconnected SCFA network after freeze-drying. At a low filler loading of 6.9 vol%, the resulting NR/SCFA composite achieves an in-plane thermal conductivity (λ∥) of 4.69 W m−1 K−1, representing a 30-fold enhancement over pristine NR. Moreover, the composite retains excellent mechanical properties, including a tensile strength of 15.7 MPa and an elongation at break of 1024.3 %. Even after 100 compression cycles, it maintains a compressive stress exceeding 1.5 MPa, making it suitable for both tensile-dominated wearable devices and compression-dominated thermal interface materials. This work introduces an efficient strategy for constructing ordered SCFAs and demonstrates their potential for use in polymer composites.}
+}

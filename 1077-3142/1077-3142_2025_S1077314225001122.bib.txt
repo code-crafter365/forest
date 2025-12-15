@@ -1,0 +1,13 @@
+@article{LIU2025104389,
+title = {Multi-scale feature fusion based SAM for high-quality few-shot medical image segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104389},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104389},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001122},
+author = {Shangwang Liu and Ruonan Xu},
+keywords = {Low-rank adaptive, Weighted attention, Feature fusion, Few-shot segmentation, Multi-organ segmentation},
+abstract = {Applying the Segmentation Everything Model (SAM) to the field of medical image segmentation is a great challenge due to the significant differences between natural and medical images. Direct fine-tuning of SAM using medical images requires a large amount of exhaustively annotated medical image data. This paper aims to propose a new method, High-quality Few-shot Segmentation Everything Model (HF-SAM), to address these issues and achieve efficient medical image segmentation. We proposed HF-SAM, which requires only a small number of medical images for model training and does not need precise medical cues for fine-tuning SAM. HF-SAM employs Low-rank adaptive (LoRA) technology to fine-tune SAM by leveraging the lack of large local details in the image embedding of SAM’s mask decoder and the complementarity between high-level global and low-level local features. Additionally, we propose an Adaptive Weighted Feature Fusion Module (AWFFM) and a two-step skip-feature fusion decoding process. The AWFFM integrates low-level local information into high-level global features without suppressing global information, while the two-step skip-feature fusion decoding process enhances SAM’s ability to capture fine-grained information and local details. Experimental results show that HF-SAM achieves Dice scores of 79.50% on the Synapse dataset and 88.68% on the ACDC dataset. These results outperform existing traditional methods, semi-supervised methods, and other SAM variants in few-shot medical image segmentation. By combining low-rank adaptive technology and the adaptive weighted feature fusion module, HF-SAM effectively addresses the adaptability issues of SAM in medical image segmentation and demonstrates excellent segmentation performance with few samples. This method provides a new solution for the field of medical image segmentation and holds significant application value. The code of HF-SAM is available at https://github.com/1683194873xrn/HF-SAM.}
+}

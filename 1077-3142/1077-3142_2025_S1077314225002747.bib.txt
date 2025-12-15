@@ -1,0 +1,13 @@
+@article{GAO2025104551,
+title = {SCESS-Net: Semantic consistency enhancement and segment selection network for audio–visual event localization},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104551},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104551},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002747},
+author = {Jichen Gao and Suiping Zhou and Hang Yu and Chenyang Li and Xiaoxi Hu},
+keywords = {Audio–visual learning, Multi-modal learning, Event localization, Attention-based network},
+abstract = {As a central task in multi-modal learning, audio–visual event localization seeks to identify consistent event information within visual–audio segments and to identify event categories. Some works do not consider the impact of visual features on audio features and the issue of segment information loss in selecting semantically consistent segments. To address the aforementioned issues, we introduce a network that enhances the multi-task learning performance of visual–audio modalities and resolves the semantic inconsistency present in audio–visual segments by employing bi-directional collaborative guided attention and semantic consistency enhancement. Firstly, we introduce a bi-directional collaborative guided attention module, which integrates multi-modal linear pooling and spatial-channel attention to bolster the semantic information of both audio and visual features across the visual-guided audio attention and audio-guided visual attention pathways. Subsequently, we propose an innovative multi-modal similarity learning model that addresses the issue of information loss during the filtering of low-similarity segments, which is a common problem in existing approaches. By incorporating multi-modal feature random masking, this model is capable of learning robust audio–visual relationships. Lastly, we capture global semantic information across the entire video in the temporal dimension, and enhance semantic consistency of events by using differential semantics between global semantics and audio–visual segment semantics. The experimental results on the AVE dataset indicate that our network has achieved superior performance.}
+}

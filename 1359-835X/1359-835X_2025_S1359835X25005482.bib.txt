@@ -1,0 +1,13 @@
+@article{ZHANG2025109254,
+title = {Micro-nano diamond reinforced phenolic-derived carbon composites: Promoted structural evolution and performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109254},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109254},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005482},
+author = {Chaoyang Zhang and Yanhui Wang and Shengyao Su and Menghui Zhao and Lixiang Zhao and Lezhu Zhang and Mingyang Dong and Jianbing Zang},
+keywords = {Micro-nano diamond, Carbon bond, Carbon structure evolution, Phenolic resin derived carbon},
+abstract = {Glassy carbon with a curved fullerene-like structure, derived from thermosetting resin, holds great promise as bonding material for diamond grinding wheels particularly in dry grinding applications. In this study, a novel sp2 carbon bonded micro-nanodiamond (MND) composite was fabricated using phenolic resin (PR) as the carbon bond precursor. The influence of MND on the pyrolysis behavior of PR and the evolution of the carbon structure below 1000 ℃ was systematically investigated. Results showed that MND promoted the decomposition of methylene bridges and phenolic hydroxyl groups, thereby facilitating the formation of curved carbon layers and fullerene-like structures in the PR-derived carbon. Additionally, smaller MND grit sizes significantly enhanced the bending strength and wear resistance of the composites, which was attributed to improved interfacial bonding and the catalytic effect of diamond in forming a more ordered carbon structure. These findings offer important guidance for the rational design of high-performance carbon-bonded diamond grinding wheels and shed new light on the advancement of dry grinding technologies in semiconductor processing.}
+}

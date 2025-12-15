@@ -1,0 +1,13 @@
+@article{KUMAR2025118602,
+title = {A comprehensive study on porosity modelling and its impact on fracture behavior of edge cracked FG structures using XIGA},
+journal = {Composite Structures},
+volume = {351},
+pages = {118602},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118602},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400730X},
+author = {Sushant Kumar and Gagandeep Bhardwaj and Neeraj Grover},
+keywords = {Porosity, Functionally Graded Structure, Edge Crack, SIF, Fracture, Power law},
+abstract = {In the present work, the fracture analysis of functionally graded (FG) porous structure containing an edge cracked is carried out in the presence of different types of porosity distributions using extended isogeometric analysis (XIGA). Firstly, the different types of porosity distribution functions are mathematically modeled in the porous FG structure across the length of the domain. The effective properties of the porous FG structure are computed using power law. Also, an additional term of porosity is incorporated in the power law to include the effect of porosity in the FG structure. The effective properties are computed across the length of the structure in the presence of different types of porosity distributions. Further, a pre-existing crack is modeled in the domain to study its influence on the fracture behaviour of porous FG structure using XIGA. To validate the accuracy, the results for the non-porous FG structure are compared with the available results in the literature (with the analytical and numerical solution), and they are found in good agreement (percentage error in the range of 0.04–––1.78%). Moreover, the comparative study is performed to investigate the influence of different types of porosity distributions on the fracture behaviour of FG structure.}
+}

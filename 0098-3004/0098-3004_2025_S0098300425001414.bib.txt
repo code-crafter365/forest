@@ -1,0 +1,12 @@
+@article{PENG2025105991,
+title = {TwoStream-EQT: A microseismic phase picking model combining time and frequency domain inputs},
+journal = {Computers & Geosciences},
+volume = {204},
+pages = {105991},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105991},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001414},
+author = {Ling Peng and Lei Li and S. Mostafa Mousavi and Xiaobao Zeng and Gregory C. Beroza},
+abstract = {Seismic event detection, phase picking, and phase association are the most fundamental and critical steps in seismic network data processing. We propose a two-stream neural network that integrates the time domain and time-frequency domain representations for microseismic phase detection and picking. This model builds on the EQTransformer (EQT) by incorporating an additional time-frequency stream using a Short-Time Fourier Transform as input. This preserves the original time-domain network structure, while enabling the fusion of features from both domains through lateral interactions. We explore two feature-fusion strategies: fixed weighting addition and a cross-attention mechanism, resulting in two two-stream EQT (TS-EQT) models: AddTwoStream-EQT (ATS-EQT) and CrossTwoStream-EQT (CTS-EQT). We enhance the data through a multi-model average picking strategy to reduce the labeling errors. We train the models with the STEAD dataset and test them on the STEAD, DiTing and Geysers datasets. We find that the TS-EQT models are superior to the original EQT model in both learning ability and generalization performance. The cross-attention mechanism feature fusion strategy is superior to the fixed weighting addition strategy. Specifically, ATS-EQT detects 45 % more events than EQT on the Geysers microseismic dataset, the number of P-wave and S-wave picks increases by about 44 % and 48 %, respectively. CTS-EQT detects 48 % more events, and the number of P-wave and S-wave picks increases by about 52 % and 56 %, respectively. This study verifies that the frequency domain features improve the training of the original model and suggests the potential of two-stream approaches for other geophysical tasks.}
+}

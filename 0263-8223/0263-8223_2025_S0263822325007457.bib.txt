@@ -1,0 +1,13 @@
+@article{MOU2025119580,
+title = {A triple-ANN prediction framework for axial compression performance of CFRP thin-walled C-columns with variable cross-section},
+journal = {Composite Structures},
+volume = {372},
+pages = {119580},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119580},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007457},
+author = {Haolei Mou and Jia Zhang and Zhenyu Feng},
+keywords = {Crashworthiness, CFRP thin-walled C-columns, Variable cross-section, Axial compression performance, Artificial neural network, Machine learning},
+abstract = {This study proposes a triple artificial neural network (ANN) framework to predict the axial compression performance of carbon fiber reinforced plastic (CFRP) thin-walled C-columns with variable cross-section. Datasets from validated finite element models were used to train and test three specialized ANN models: ANN1 for predicting crashworthiness indicators, ANN2 for predicting failure modes, and ANN3 for predicting force–displacement curves. The framework integrated regression and classification, optimized through grid search hyperparameter tuning and k-fold cross-validation for robust accuracy. ANN models demonstrated excellent prediction accuracy: ANN1 achieved mean absolute percentage error (MAPE) less than 3% and coefficients of determination (R2) exceeding 0.96 for all crashworthiness indicators; ANN2 attained 98.57% classification accuracy with 100% recall rate for the breaking failure mode; and ANN3 effectively captured the variation in force with displacement, maintaining errors for initial peak crushing force and energy absorption within 10%. These models address distinct engineering needs: ANN1 enables rapid evaluation of structural crashworthiness, ANN2 ensures reliable detection of unsafe failure modes, and ANN3 provides detailed dynamic response analysis. The ANN framework accurately predicts the axial compression performance of CFRP thin-walled C-columns, providing an efficient data-driven tool for crashworthiness research in energy-absorbing components.}
+}

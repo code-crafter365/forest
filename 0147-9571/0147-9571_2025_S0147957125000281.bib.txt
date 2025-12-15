@@ -1,0 +1,13 @@
+@article{TASNIM2025102320,
+title = {Beta-lactamase-producing Escherichia coli in migratory geese at West Texas recreational parks},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {118},
+pages = {102320},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102320},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000281},
+author = {Yamima Tasnim and Md. Kaisar Rahman and Cherissa Abdul-Hamid and Babafela Awosile},
+keywords = {Migratory geese, Antimicrobial resistance, Beta-lactamase, Whole-genome sequence, One health},
+abstract = {This study aimed to determine the prevalence, and the genomic characteristics of beta-lactamase-Resistant Escherichia coli isolated from the feces of migratory geese at one health interface in West Texas. A descriptive study was conducted. We collected geese feces (n = 165), water (n = 118), and soil (n = 74) from 22 recreational parks in West Texas. We used Chromogenic agar to isolate extended-spectrum beta-lactamase (ESBL)-Resistant-E. coli. We used the whole genome sequencing (WGS) method to determine the genomic characteristics of selected E. coli isolates. Among 357 samples, 12.61 % (95 %CI: 9.34–16.50) were positive for ESBL- Resistant-E. coli. From WGS of 20 E. coli isolates, 19 isolates harbored at least 1 beta-lactamase gene including blaCTX-M-1, blaCTX-M-65, blaCTX-M-14, blaCTX-M-15, blaCTX-M-27, blaCTX-M-55, blaCTX-M-32, blaTEM-1A, blaTEM-1B. Most of the isolates carried genes conferring resistance to tetracyclines-(tet(A), tet(B)), aminoglycosides-(aac(3)-IIa, aph(6)-Id, aph(3′)-Ia, aadA1), sulfonamides-(sul1,sul2), amphenicol-(floR), trimethoprim-(dfrA1, dfrA14, dfrA17) and streptogramin-B(MLSB) agent-(mph(A)). 13 isolates showed chromosomal mutations in the promoter region G of the ampC beta-lactamase gene. We detected sixteen incompatibility plasmid groups and 60 virulence genes, which are related to adherence, exotoxin, invasion, and nutrition/metabolic factors. Genome analysis showed that all isolates were genetically similar to human E. coli isolates. The study showed that migratory geese at recreational parks can be reservoirs of resistant bacteria with diverse serotypes and sequence types of E. coli isolates. Based on the findings, the detection of a multidrug-resistant E. coli strain reinforces the importance of adequate hygiene practices for humans and pet animals after visiting recreational parks.}
+}

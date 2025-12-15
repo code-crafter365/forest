@@ -1,0 +1,11 @@
+@article{EVSTRATOVA2025114282,
+title = {Recombinant collagen coating 3D printed PEGDA hydrogel tube loading with differentiable BMSCs to repair bile duct injury: The deficiency of engineering approaches in tissue engineering research},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114282},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114282},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005411},
+author = {Ekaterina Evstratova and Anna Smirnova and Elizabeth Skornyakova and Denis Baranovskii and Ilya Klabukov}
+}

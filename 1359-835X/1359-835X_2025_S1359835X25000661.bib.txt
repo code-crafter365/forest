@@ -1,0 +1,13 @@
+@article{GAO2025108772,
+title = {Construction of multifunctional coatings of polyester fabric for flame retardancy and personal thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108772},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108772},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000661},
+author = {Jing Gao and Liangyuan Qi and Chuanshen Wang and Zefan Feng and Liang Chen and Suhong Li and Yuan Hu and Weiyi Xing},
+keywords = {Coating, Polyester fabric, Flame retardancy, Personal thermal management, Smoke suppression},
+abstract = {With the increasing frequency of extreme weather events, there is a rising demand for personal thermal management fabrics. However, polyester fabrics are highly flammable and prone to dripping during combustion, necessitating flame retardant treatments. In this study, flame retardant-conductive-hydrophobic sandwich structure coatings were developed using a sol–gel process combined with a spraying technique. The FR PET-C/PDMS exhibited a char length of 108 mm in the UL-94 test, and the Limiting Oxygen Index (LOI) reached 22.5 %. Thermogravimetric analysis (TGA) revealed that the char yield under air atmosphere was 16.3 %, while the peak Heat Release Rate (pHRR) in Microscale Combustion Calorimetry (MCC) was reduced by 38.3 % compared to pure PET. In a Joule thermal performance test, the coated fabric achieved a maximum temperature of 45.2°C at 10 V, demonstrating its potential for use in personal thermal management devices. The water contact angle (WCA) test indicated a WCA of approximately 123° and a slip angle (SA) of 7.5° for FR PET-C/PDMS. Scanning electron microscopy (SEM), Raman spectroscopy, Fourier transform infrared (FT-IR) spectroscopy, and thermogravimetric analysis coupled with infrared spectrometry (TGA-FTIR) were employed to investigate the flame retardant mechanisms of the functional coating. This study provides a straightforward method for fabricating multifunctional coatings with promising applications in personal thermal management, such as in camping tents.}
+}

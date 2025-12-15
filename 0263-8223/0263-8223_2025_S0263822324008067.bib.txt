@@ -1,0 +1,13 @@
+@article{HUO2025118678,
+title = {Bi-directional homogenization method for the design of multi-scale mechanical metamaterials},
+journal = {Composite Structures},
+volume = {353},
+pages = {118678},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118678},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008067},
+author = {Senlin Huo and Bingxiao Du and Yong Zhao and Xiaoqian Chen},
+keywords = {Functionally graded structures, Homogenization, Multi-scale, Auxetic metamaterials, Topology optimization},
+abstract = {Inverse Homogenization (IH) is a classical concept for the Topology Optimization (TO) of metamaterials. Traditional IH design methods are mainly the single-scale TO within a Representative Volume Element (RVE), suffering from challenges like design inefficiency and under-utilization of the design space. To address the problems, a Bi-Directional Homogenization (BDH) method based on the multi-scale TO principle is proposed for the design of mechanical metamaterials. The general design framework includes a forward homogenization process from the microscale to the mesoscale, and an inverse design process from the macroscale to the mesoscale. Firstly, at the microscale, the Graded Microstructures (GMs) are generated via a multi-cut level set method. Then, by varying the relative densities, the microstructure instances are sampled and the mesoscopic equivalent properties are computed using the homogenization method. After that, a spectral decomposition-based interpolation model is used to predict the relationship between the relative densities and the elastic tensors. These preparations allow for the mesoscopic optimization of the GMs distribution, and the reconstruction of the graded multi-scale metamaterial structures by using a mapping transformation on the density field. Various types of auxetic metamaterials are performed to demonstrate the effectiveness and versatility of the proposed method.}
+}

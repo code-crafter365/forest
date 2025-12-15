@@ -1,0 +1,13 @@
+@article{SHUKLA2025114687,
+title = {Optimizing near-infrared-activated gold nanostructures for targeted combination cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114687},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114687},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001948},
+author = {Nutan Shukla and Ratnesh Das and Carol Yazbleydy Cárdenas Rodriguez and Elizaveta Mukhanova and Alexander Soldatov and Aadil Bathla and Indu kumari and Nitin Hauserao and Sabrina Belbekhouche},
+keywords = {Gold nanorods, Gold nanostars, Photothermal therapy, Targeted cancer therapy, Localized surface plasmon resonance},
+abstract = {The application of near-infrared (NIR)-activated gold nanostructures, particularly gold nanostars (AuNSs) and gold nanorods (AuNRs), has emerged as a promising strategy in targeted combination cancer therapy (Figure 1). These nanostructures leverage their unique localized surface plasmon resonance (LSPR) properties, which enable effective absorption and conversion of NIR light into heat, facilitating photothermal therapy (PTT) to selectively destroy cancer cells. Recent advancements in the synthesis and functionalization of AuNSs and AuNRs have enhanced their biocompatibility, stability, and therapeutic efficacy. This review highlights the mechanisms by which these gold nanostructures can be optimized for synergistic effects when combined with other therapeutic modalities such as chemotherapy and photodynamic therapy (PDT). We discuss the importance of surface modifications that improve tumor targeting and retention, as well as the potential to overcome limitations associated with conventional therapies. The integration of AuNSs and AuNRs into multi-faceted treatment regimens represents a significant step forward in the development of effective cancer therapies, aiming to maximize therapeutic outcomes while minimizing side effects.}
+}

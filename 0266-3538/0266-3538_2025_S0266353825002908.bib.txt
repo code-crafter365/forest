@@ -1,0 +1,13 @@
+@article{WANG2025111322,
+title = {Anti-overload performance in micro-nanocavity graphene/paraffin phase change energy storage materials for electronic thermal management},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111322},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111322},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002908},
+author = {Yuhao Wang and Junhong Yu and Wentian Huang and Jinming Cai and Jianbo Hu},
+keywords = {Micro-nanocavity graphene/paraffin nanocomposites, Overload environment, Thermal management, Anti-overload performance},
+abstract = {Micro-nanocavity graphene/paraffin nanocomposites (MNGPNs) are extensively used in electronic engineering applications due to their excellent thermal management performance. Unfortunately, current evaluations of the thermal management performances of MNGPNs are restricted in the lab condition, ignoring the anti-overload performance under a complex impact-loading environment in practical scenarios. Here, the thermal management characteristics of MNGPNs under impact loadings were investigated by application impact experiments and numerical simulations. The result reveals that MNGPNs present obvious thermal coupling under the application overload environment (0 g–2000 g) which is different from thermodynamic coupling under high strain rates impact loading (>10000 g). Specifically, through testing on the recovered samples, we discover that the application impact loading leads to the weakening of heat transfer both along the in-plane and out-of-plane directions while the heat transfer along the out-of-plane first strengthened and then weakened under high strain rates impact loading. Meanwhile, the phase transition response time of MNGPNs is delayed and the enthalpy of phase transition is reduced under the application impact loading, but the enthalpy remains stable under high strain rates conditions. This work provides a valuable perspective to evaluate the anti-overload capacity of MNGPNs in practical applications.}
+}

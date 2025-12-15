@@ -1,0 +1,13 @@
+@article{NAKAO2025114612,
+title = {Synergistic effects of hydrophilic residues in the transmembrane region on lipid scrambling activity of dimeric helices},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114612},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114612},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001195},
+author = {Hiroyuki Nakao and Toshiki Tsujii and Hiroaki Saito and Keisuke Ikeda and Minoru Nakano},
+keywords = {Flip-flop, Phospholipid, Peptide},
+abstract = {Phospholipid scramblases promote lipid transbilayer movement (flip-flop) in the plasma membrane, which is involved in a wide range of cellular functions, such as phagocytosis and blood coagulation. One structural characteristic of scramblases and model lipid scrambling peptides is the presence of hydrophilic residues in their transmembrane domains. These hydrophilic regions are considered the active sites through which lipid polar headgroups pass during the translocation process. However, how the structural arrangement of hydrophilic residues results in strong lipid scrambling activities in scramblases needs to be investigated, because the effects of a single hydrophilic residue on lipid scrambling are much lower than the activity of natural scramblases. Here, we developed double-spanning transmembrane peptides containing varying numbers of Gln residues. A combination of lipid vesicle experiments and molecular dynamics simulations indicates that lipid scrambling activities are synergistically enhanced by the proximity between planes created by Gln residues aligned parallel to the helix and that interactions between Gln and Trp residues stabilize the strongly active structures. The contribution of Gln residues to lipid scrambling activity suggests that the alignment and proximity of hydrophilic residues in the transmembrane region is one of the mechanisms of lipid scrambling by natural scramblases. This study provides clues for the energetic and structural mechanisms of lipid scrambling and for the design of artificial phospholipid scramblases.}
+}

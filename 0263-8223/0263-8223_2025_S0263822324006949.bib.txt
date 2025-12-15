@@ -1,0 +1,13 @@
+@article{ZIAPKOFF2025118566,
+title = {Characterization and modelling of the damping properties of composite structures based on flax fibers},
+journal = {Composite Structures},
+volume = {352},
+pages = {118566},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118566},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006949},
+author = {M. Ziapkoff and L. Duigou and G. Robin and J.M. Cadou and E.M. Daya},
+keywords = {Vibration, Damping, Composite, Flax-fiber, Solver HON, Identification, Fractional derivative Zener, Generalized Maxwell, Maxwell-type Zener},
+abstract = {In this paper, an experimental-numerical modelling is proposed to determine the damping properties of composite structures based on flax fibers. Assuming that these properties are due to a viscoelastic behavior of each layer and each direction of these structures, three viscoelastic models were considered : the Maxwell-type Zener (ZM) model, the generalized Maxwell (GM) model, and the fractional derivative Zener (ZF) model. As well known, the viscoelastic models involve complex modulus and frequency dependence. So, the free vibration problem of these composite structures is complex and non-linear one. This nonlinear problem is solved by an high order Newton method (HON method) which permits to determine damping properties (damped frequency and the structural loss factor). Using experimental tests, an identification method, based on the HON and the Nelder–Mead methods, is applied to identify the rheological parameters of the proposed viscoelastic models. The comparison between experimental and numerical results demonstrates the efficiency of the proposed experimental–numerical method : all parameters for the three models are successfully identified. From, the results, only the GM or ZF models seem to be suitable for representing the viscoelastic behavior of flax/epoxy composite structures.}
+}

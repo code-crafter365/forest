@@ -1,0 +1,13 @@
+@article{DING2025119328,
+title = {Efficient genetic optimization strategy for high temperature broadband absorption/transmittance rasorber},
+journal = {Composite Structures},
+volume = {369},
+pages = {119328},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119328},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004933},
+author = {Shaozhuo Ding and Yiping Li and Rubing Zhang},
+keywords = {Radome, Frequency-selective-rasorber, Genetic algorithm, High-temperature},
+abstract = {Frequency-selective-rasorber (FSR) radomes have demonstrated remarkable capabilities in transmitting and absorbing electromagnetic waves. However, with an increase in aircraft flight speeds, FSR radomes struggle to withstand the high-temperature environments generated during flights. Meanwhile, traditional high-temperature frequency-selective-surface (FSS) radomes will fail in stealth against multi-base station radar detection systems. To address these challenges, this paper presents the innovative development of a high-temperature resistant integrated casting quartz fiber matrix. A topological pattern and slit square ring pattern were integrated using an enhanced genetic algorithm, resulting in a transmittance above 70 % within the range of 1.67–2.19 GHz at a thickness of 4.6 mm; its absorptivity within the range of 9.25–18 GHz exceeded 90 %. Notably, the absorption bandwidth of 11 GHz (>80 %) and the passband bandwidth of 2.38 GHz (>50 %) at 700 °C were achieved, leading to the development of a thin FSR that integrates high-temperature resistance, absorption, and transmission. Consequently,this study creates avenues for the integration of military communication and stealth technology, presenting a promising application prospect for the development of new stealth radomes.}
+}

@@ -1,0 +1,13 @@
+@article{WENG2025109078,
+title = {Preparation of micro-nano PBO fiber/polytetrafluoroethylene composite papers with excellent dielectric properties for high frequency wave-transparent applications},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109078},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109078},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003720},
+author = {Xiaoyu Weng and Yu Song and Zhiyuan Xiong and Jian Hu and Jin Long},
+keywords = {PBO fibers, Polytetrafluoroethylene, Paper-making, Wave-transparent material},
+abstract = {Poly(p-phenylene benzobisoxazole) (PBO)/Polytetrafluoroethylene (PTFE) composite materials exhibit substantial potential for wave-transparent applications due to the excellent dielectric properties of raw materials. In this work, we reported a facile paper-making method for preparing large-area micro-nano PBO/PTFE composite papers with uniform and compact structure by compounding PBO chopped fibers (PCFs), PBO nanofibers (PNFs), and PTFE. Notably, the simultaneous formation of an interconnected PBO fiber network and PTFE matrix promotes optimal structural uniformity, while the introduction of PNFs between PCFs and PTFE acts as an interface compatibilizer that effectively reduces interface defects in the papers. These structural advantages contribute to the composite papers’ exceptional dielectric properties (dielectric constant as low as 2.142 and dielectric loss as low as 0.001 at 10 GHz) and high wave-transmission efficiency (exceed 95.8 % across 2–22 GHz). Meanwhile, the composite papers feature favorable thermo-mechanical property and UV aging resistance, demonstrating their high potential in wave-transparent applications.}
+}

@@ -1,0 +1,13 @@
+@article{MILLER2025106833,
+title = {Versatile mixed methods for weakly-compressible flows},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106833},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106833},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002932},
+author = {Edward A. Miller and David M. Williams},
+keywords = {Mixed methods, Compressible Navier–Stokes, Non-linear stability, Finite element methods, Versatile},
+abstract = {Versatile mixed finite element methods were originally developed by Chen and Williams for isothermal incompressible flows in “Versatile mixed methods for the incompressible Navier–Stokes equations,” Computers & Mathematics with Applications, Volume 80, 2020. Thereafter, these methods were extended by Miller, Chen, and Williams to non-isothermal incompressible flows in “Versatile mixed methods for non-isothermal incompressible flows,” Computers & Mathematics with Applications, Volume 125, 2022. The main advantage of these methods lies in their flexibility. Unlike traditional mixed methods, they retain the divergence terms in the momentum and temperature equations. As a result, the favorable properties of the schemes are maintained even in the presence of non-zero divergence. This makes them an ideal candidate for an extension to compressible flows, in which the divergence does not generally vanish. In the present article, we finally construct the compressible extension of the methods. In addition, we demonstrate the excellent performance of the resulting methods for weakly-compressible flows that arise near the incompressible limit, as well as moderately-compressible flows that arise near Mach 0.5.}
+}

@@ -1,0 +1,13 @@
+@article{KLEIN2025114278,
+title = {Soft surface-enhanced Raman scattering sensing platform based on an oil-in-water emulsion stabilized by silver nanoparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114278},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114278},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400537X},
+author = {Hagai Klein and Raz Cohen and Karthik Ananth Mani and Reut Amar Feldbaum and Avital Ben-Haim and Einat Zelinger and Narsingh R. Nirala and Divagar Muthukumar and Abraham J. Domb and Giorgi Shtenberg and Guy Mechrez},
+keywords = {Pickering emulsions, Silver nanoparticles, 4-aminothiophenol, Surface enhance raman spectroscopy},
+abstract = {Pickering emulsions are excellent candidates for developing soft biosensors utilized for detecting native biomolecules such as peptides and proteins through the Surface-Enhanced Raman Spectroscopy (SERS) transduction mechanism. Here, we have developed a SERS sensor based on oil-in-water Pickering emulsions stabilized by Ag nanoparticles (Ag-NPs) with the Raman active molecule (4-Aminothiphenol, 4ATP) adsorbed to their surface. The structural properties and composition of the Pickering emulsion were tuned to meet the demands of the maximal optical response. Our results show that the obtained SERS signals of the main studied Pickering emulsion (water: oil ratio 7:3, 1 wt% Ag-NPs) outperformed colloidal dispersions with the same Ag-NPs concentration by 10-fold at any studied content of 4ATP. The superior optical response of the Pickering emulsion compared to the colloidal dispersion can thus pave the way for the detection of a large variety of analytes at high sensitivity by a soft sensing device. This study innovates by comparing the SERS signals of Raman-active Ag-NPs when they are assembled at the oil/water interface of an emulsion to the case where the NPs are individually dispersed in the medium. The findings shed light on the edit value of utilizing Raman-active Pickering stabilizers for biosensing applications.}
+}

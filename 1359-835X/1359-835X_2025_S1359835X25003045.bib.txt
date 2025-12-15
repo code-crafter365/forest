@@ -1,0 +1,13 @@
+@article{SIMONINI2025109010,
+title = {Poly(butylene adipate-co-terephthalate) as a new healing agent for epoxy/basalt composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109010},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109010},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003045},
+author = {Laura Simonini and Daniele Rigotti and Jeevan Kishore {Reddy Pidapa} and Alessandro Pegoretti},
+keywords = {Basalt, Thermoplastic, Interface, Self-healing, Composite},
+abstract = {The aim of this work was to demonstrate that interfacial healing in epoxy/basalt composites can be achieved by coating basalt fibres with thermoplastic polymer poly(butylene adipate-co-terephthalate) (PBAT). As a reference healing agent, the widely studied polycaprolactone (PCL) was also used to coat the basalt fibres. The two polymers were applied by fluid coating from polymer solutions at different coating speeds. Scanning electron microscopy revealed smooth and high quality coatings for both polymers at low coating speeds. At higher coating speeds (>20 mm/s), PCL behaved like a Newtonian fluid, forming droplet-like structures. PBAT, on the other hand, behaved like a non-Newtonian shear-thinning fluid, forming droplets at speeds above 80 mm/s. Contact angle measurements showed a significant reduction in contact angle hysteresis (θH) for fibers coated with both polymers compared to uncoated, with PBAT exhibiting the lowest θH and a smoother surface. The coated fibers were then combined with an epoxy matrix to form microcomposites and tested in a microdebonding configuration to measure the interfacial shear strength (IFSS). Moreover, the fiber/matrix interface was healed by a 30 min thermal treatment at 80 °C for PCL and at 120 °C for PBAT and healing efficiency (HE) parameter was evaluated by repeating the microdebonding test. With the new PBAT coating HE values up to 89.5 % were obtained, very similar to the HE values of up to 93.8 % achieved with the reference PCL coating. In conclusion, PBAT coating resulted to be a promising alternative candidate to PCL to reach interfacial healing in basalt fibers reinforced epoxy composites.}
+}

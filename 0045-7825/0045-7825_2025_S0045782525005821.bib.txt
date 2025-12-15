@@ -1,0 +1,13 @@
+@article{XIAO2025118310,
+title = {Geometric learning for computational mechanics Part IV: Efficient mesh-based plasticity from a domain-specific foundation model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118310},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118310},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005821},
+author = {Mian Xiao and Jarett Poliner and WaiChing Sun},
+keywords = {Plasticity, Mesh, Triangulation, Generative artificial intelligence},
+abstract = {Classical plasticity models typically rely on equations to express constitutive behaviors such as yield surfaces and elastic energy. However, deducing these equation-based models requires extensive trial-and-error and strong intuitions. While neural networks may enable the parameterization of material models, they require additional costs for supervised learning and may lead to slower inference. In this paper, we introduce a generative artificial intelligence approach that does not require additional supervised learning to recover the yield surface. Instead, a generative latent diffusion model allows us to deduce yield points with maximum likelihood in the stress space, allowing the model to generalize from sparse or incomplete experimental data. A new projection-based stress update algorithm designed specifically for the mesh-based models enables parallelized integration without the numerical instability or high computational cost of traditional return mapping schemes. Numerical benchmarks–ranging from classical plasticity models to data from discrete dislocation dynamics simulations of single-crystal copper–demonstrate that the proposed framework improves robustness, scalability, and inference accuracy. This work contributes a new class of data-driven plasticity models that are computationally efficient and well-suited for complex, path-dependent material behaviors.}
+}

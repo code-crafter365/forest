@@ -1,0 +1,13 @@
+@article{GUO2025111107,
+title = {Core-double shell Ba0.5Sr0.5TiO3@SiO2@Polyethylene imine nanoparticles with built-in electric field toward enhancing dielectric energy storage},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111107},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111107},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000752},
+author = {Zihao Guo and Zhihao Sun and Peng Wang and Jingyu Bi and Guangshen Li and Jianshu Wang and Ying Sha and Zhicheng Shi and Lei Qian},
+keywords = {Core-double shell structure, Built-in electric field, Energy storage density, Dielectric nanocomposites, Finite element analysis},
+abstract = {In this work, a negatively charged SiO2 inner shell and a positively charged polyethylene imine (PEI) outer shell have coated onto a Ba0.5Sr0.5TiO3 (BST) nanoparticle to fabricate core-double shell structure with a built-in electric field. This innovative structure is subsequently incorporated into poly(vinylidene fluoride-co-hexafluoropropylene) (P(VDF-HFP)) and polymethyl methacrylate (PMMA) hybrid organic matrix to prepare composite films with enhanced dielectric energy storage properties. The SiO2 inner shell effectively mitigates the uneven electric field distribution caused by dielectric constant mismatch, and the PEI organic outer shell is designed to enhance the interfacial compatibility. Additionally, the dual shell structure exhibits a significant synergistic effect resulting from the built-in electric field, which successfully impedes the acceleration of internal charges and growth of electrical trees. COMSOL Multiphysics simulation results confirm that the core-double shell structure effectively alleviates the electric field distortion, leading to improved breakdown strength. Notably, the composite film demonstrates an energy storage density of 12.72 J/cm3 under an electric field of 498.96 kV/mm with a low loading of 0.5 wt%, achieving 1.98 times that of the pure matrix. These findings provide valuable insights and directions for advanced polymer-based composite dielectric films with high energy storage densities.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025118065,
+title = {Conditional uncertainty propagation of stochastic dynamical structures considering measurement conditions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118065},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118065},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003378},
+author = {Feng Wu and Yuelin Zhao and Li Zhu},
+keywords = {Stochastic structural dynamics, Safety analysis, Conditional uncertainty propagation, Key conditional quotient, Generalized quasi-Monte Carlo method},
+abstract = {How to accurately quantify the uncertainty of stochastic dynamical responses affected by uncertain loads and structural parameters is an important issue in structural safety and reliability analysis. In this paper, the conditional uncertainty propagation problem for the dynamical response of stochastic structures considering the measurement data with random error is studied in depth. A method for extracting the key measurement condition, which holds the most reference value for the uncertainty quantification of response, from the measurement data is proposed. Considering the key measurement condition and employing the principle of probability conservation and conditional probability theory, the quotient-form expressions for the conditional mean, conditional variance, and conditional probability density function of the stochastic structural dynamical response are derived and are referred to as the key conditional quotients (KCQ). A numerical method combining the non-equal weighted generalized Monte Carlo method, Dirac function smoothing technique, and online-offline coupled computational strategy is developed for calculating KCQs. Three linear/nonlinear stochastic dynamical examples are used to verify that the proposed KCQ method can efficiently and accurately quantify the uncertainty of the structural response considering measurement conditions. The examples also compare the traditional non-conditional uncertainty propagation results with the conditional uncertainty propagation results given by KCQs, indicating that considering measurement conditions can significantly reduce the uncertainty of the stochastic dynamical responses, providing a more refined statistical basis for structural safety and reliability analysis.}
+}

@@ -1,0 +1,13 @@
+@article{LAROSE2025117601,
+title = {Spline-based solution transfer with potential applications for space–time methods in 2D+t},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117601},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117601},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008557},
+author = {Logan Larose and Jude T. Anderson and David M. Williams},
+keywords = {Solution transfer, Space–time, Finite element methods, Hsieh–Clough–Tocher splines, High order, Visualization},
+abstract = {This work introduces a new solution-transfer process for slab-based space–time finite element methods. The new transfer process is based on Hsieh–Clough–Tocher (HCT) splines and satisfies the following requirements: (i) it maintains high-order accuracy up to 4th order, (ii) it preserves a discrete maximum principle, (iii) it asymptotically enforces mass conservation, and (iv) it constructs a smooth, continuous surrogate solution between space–time slabs. While many existing transfer methods meet the first three requirements, the fourth requirement is crucial for enabling visualization and boundary condition enforcement for space–time applications. In this paper, we derive an error bound for our HCT spline-based transfer process. Additionally, we conduct numerical experiments quantifying the conservative nature and order of accuracy of the transfer process. Lastly, we present a qualitative evaluation of the visualization properties of the smooth surrogate solution.}
+}

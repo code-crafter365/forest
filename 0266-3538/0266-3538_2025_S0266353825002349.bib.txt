@@ -1,0 +1,13 @@
+@article{XIA2025111266,
+title = {Thermoelectrically coupled investigation on the sensing capacities of CNT-based nanocomposite temperature sensor across the glass-transition range},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111266},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111266},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002349},
+author = {Xiaodong Xia and Jianchen Tang and Juanjuan Zhang and Shen Gong and George J. Weng},
+keywords = {Temperature sensing capacity, Nanocomposite temperature sensor, Glass transition process, Temperature-dependent tunneling},
+abstract = {Unlike the room-temperature sensing performance, the sensing capacities over a wide temperature measuring range tend to encounter the glass transition temperature. This remains a critical issue for the lightweight CNT-based nanocomposite temperature sensors (CNCTS). In this research, a novel thermoelectrically coupled homogenization theory is developed to investigate this phenomenon. First, an equivalent scheme is adopted for the wavy and bending CNTs. The temperature-dependent electric constitutive relations are obtained with consideration of thermal expansion and variable range hopping. Then, the tunneling effect at the interphase is derived under the temperature-dependent tunneling distance and electron mobility. The progressive evolution of glass-transition process is also determined based on the irreversible thermodynamics. Next, a hierarchical homogenization scheme is utilized to evaluate the temperature-dependent conductivity and sensing capacities of the composite. A temperature-dependent percolation threshold is derived across the glass-transition range. On this basis, the predicted temperature sensing capacities are calibrated with experiments under various CNT volume fractions. It is disclosed that the high absolute values of temperature sensing capacities can be obtained at a low CNT volume fraction. It is also demonstrated that the temperature sensing capacities of CNCTS can be tuned by the microstructural parameters, including CNT aspect ratio, waviness configuration and thermal expansion. This research can provide guidance for optimizing the microstructure of extremely sensitive temperature sensor across the glass-transition range.}
+}

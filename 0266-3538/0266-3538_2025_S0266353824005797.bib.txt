@@ -1,0 +1,13 @@
+@article{WANG2025111008,
+title = {Enhancing TC4/CFRTP joint strength through oscillating laser joining: An investigation into interfacial heat and mass transfer behaviors},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111008},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111008},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005797},
+author = {Lu Wang and Yu Huang and Hui Wang and Youmin Rong and Guojun Zhang},
+keywords = {Laser joining, Carbon fiber reinforced thermoplastic (CFRTP), Oscillating laser beam, Heat and mass transfer, Joint strength},
+abstract = {This study elucidates the reinforcement mechanisms of TC4/carbon fiber reinforced thermoplastic (CFRTP) joints using an oscillating laser beam based on the analysis of interfacial heat and mass transfer behaviors. Under the same laser line energy, oscillating laser joined (OLJ) TC4/CFRTP joints exhibited superior joint morphology, a more stable joining process, and increased joint strength compared to laser direct joined (LDJ) joints. At a laser line energy of 50 J/mm (500 W, 10 mm/s), the oscillating laser beam increased joint strength from 970 N to 1578.75 N, representing a 62.76 % improvement. Analysis of experimental and simulation results indicated that the primary mechanism driving this enhancement is the altered heat transfer behavior caused by the oscillating laser beam. Spatially, the laser beam action distance is reduced at the center of the joining area while expanding on both sides. Temporally, the pyrolysis duration of CFRTP at the interface is shortened, while the melting duration is extended. Consequently, the pyrolysis zone diminishes or disappears entirely, whereas the melting zone expands. Both LDJ and OLJ joints exhibit similar mass transfer behavior, forming a 6 μm thick element diffusion layer containing CTi0.42V1.58 and TiOS at the interface. In conclusion, the oscillating laser beam promotes uniform energy distribution, enhancing CFRTP melting without pyrolysis, thereby strengthening joints without compromising processing efficiency.}
+}

@@ -1,0 +1,13 @@
+@article{DONG2025118086,
+title = {Strength-based concurrent topology and fiber orientation optimization considering different failure modes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118086},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118086},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003585},
+author = {Yongjia Dong and Hongling Ye and Jicheng Li and Sujun Wang and Weiwei Wang},
+keywords = {Topology optimization, Fiber orientation optimization, Hashin criterion, Strength constraints, Light-weight design},
+abstract = {The designability of Continuous fiber-reinforced polymers (CFRPs) and the advance in additive manufacturing create more opportunities for tailorable topology and fiber-paths, thereby enhancing structural performance. However, challenges for structural optimization imposed by the complex failure modes of composite require further resolution. This study develops a novel strength-based optimization method for light-weight design of CFRP components. The global strength constraint considering failure modes is formulated based on the Hashin criterion and p-norm function. Multi-constrained lightweight design framework considering structural compliance and strength is established to optimize the structural topology and fiber orientation simultaneously. A fiber orientation filtering scheme is proposed to reduce the effect of stress concentration caused by discontinuous fiber orientation on optimization. Comprehensive numerical case studies validate the efficacy and stability of the developed methodology. Comparative analysis among the designs with Hashin criterion, Tsai-Wu criterion and stiffness-based is conducted to demonstrate the applicability and superiority of the presented approach. The effect of different aggregation coefficient, stress relaxation coefficient and initial fiber orientations on the optimization results are discussed. The developed methodology provides a theoretical foundation for multi-scale optimization of CFRP structures while mitigating the risk of structural failure.}
+}

@@ -1,0 +1,13 @@
+@article{REHMAN2025102493,
+title = {Opportunistic AI for enhanced cardiovascular disease risk stratification using abdominal CT scans},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102493},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102493},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000023},
+author = {Azka Rehman and Jaewon Kim and Lee Hyeokjong and Jooyoung Chang and Sang Min Park},
+keywords = {Cardiovascular disease risk prediction, Abdominal CT imaging, Opportunistic screening, Deep learning, Cox proportional hazards model},
+abstract = {This study introduces the Deep Learning-based Cardiovascular Disease Incident (DL-CVDi) score, a novel biomarker derived from routine abdominal CT scans, optimized to predict cardiovascular disease (CVD) risk using deep survival learning. CT imaging, frequently used for diagnosing various conditions, contains opportunistic biomarkers that can be leveraged beyond their initial diagnostic purpose. Using a Cox proportional hazards-based survival loss, the DL-CVDi score captures complex, non-linear relationships between anatomical features and CVD risk. Clinical validation demonstrated that participants with high DL-CVDi scores had a significantly elevated risk of CVD incidents (hazard ratio [HR]: 2.75, 95% CI: 1.27–5.95, p-trend <0.005) after adjusting for traditional risk factors. Additionally, the DL-CVDi score improved the concordance of baseline models, such as age and sex (from 0.662 to 0.700) and the Framingham Risk Score (from 0.697 to 0.742). Given its reliance on widely available abdominal CT data, the DL-CVDi score has substantial potential as an opportunistic screening tool for CVD risk in diverse clinical settings. Future research should validate these findings across multi-ethnic cohorts and explore its utility in patients with comorbid conditions, establishing the DL-CVDi score as a valuable addition to current CVD risk assessment strategies.}
+}

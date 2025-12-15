@@ -1,0 +1,13 @@
+@article{CARSTENSEN2025117477,
+title = {Comparison of guaranteed lower eigenvalue bounds with three skeletal schemes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117477},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117477},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400731X},
+author = {Carsten Carstensen and Benedikt Gräßle and Emilie Pirch},
+keywords = {A posteriori error control, Eigenvalues, Guaranteed lower bounds, Adaptive algorithm, Competition, Higher order, HHO, Weak Galerkin, HDG},
+abstract = {Specially tailored skeletal schemes enable cell and face variables linked with a stabilisation and a fine-tuned parameter can provide guaranteed lower eigenvalue bounds for the Laplacian. This paper briefly presents a unified derivation of skeletal higher-order methods from Carstensen, Zhai, and Zhang (2020), Carstensen, Ern, and Puttkammer (2021), and Carstensen, Gräßle, and Tran (2024). It suggests a paradigm shift from conditional to unconditional lower eigenvalue bounds. Adaptive mesh-refining leads to optimal convergence rates in computational benchmark examples and underlines the superiority of higher-order methods.}
+}

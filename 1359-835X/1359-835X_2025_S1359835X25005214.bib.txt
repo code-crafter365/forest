@@ -1,0 +1,13 @@
+@article{CHEN2025109227,
+title = {Mesoporous silica-loaded phosphorus-modified hexadecanol nanocomposites for flame-retardant and shape-stabilized phase change materials},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109227},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109227},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005214},
+author = {Yajie Chen and Junhua Liu and Xiaohong Li and Zhijun Zhang and Zhiwei Li},
+keywords = {Nanocomposites, Phase change materials, Flame retardancy, Leakage-proof, Flame retardant mechanism},
+abstract = {Latent heat storage using organic phase change materials (PCMs) provides effective thermal management but faces critical limitations of liquid leakage and flammability. To address these challenges, this study developed leakage-proof and flame-retardant PCMs through a dual strategy: (1) synthesizing phosphorus-modified hexadecanol (PHD) via phosphorylation to enhance flame retardancy, and (2) encapsulating PHD within mesoporous silica nanospheres (SiO2-PHD) to prevent leakage. The optimized nanocomposite, SiO2-2PHD, exhibits excellent shape stability and a high latent heat value of 145.4 J/g, with no leakage observed after 50 solid–liquid phase change cycles. Furthermore, SiO2-2PHD demonstrates superior flame retardancy when incorporated into epoxy resin at 10 wt%, evidenced by a 24.3 % increase in limiting oxygen index, reductions of 52.4 % in peak heat release rate, and 32.3 % in total smoke production. The integrated phosphorylation and nanoencapsulation approach successfully overcome the leakage and flammability limitations in hexadecanol-based PCMs, providing a robust solution for safe thermal energy storage.}
+}

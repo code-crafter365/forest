@@ -1,0 +1,12 @@
+@article{TOBIN2025109266,
+title = {Effect of tool material on the short beam strength of in-situ manufactured CF/PEEK laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109266},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109266},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005603},
+author = {E. Tobin and R.M. O’Higgins and P.M. Weaver},
+abstract = {The thermal history of CF/PEEK laminates manufactured by laser-assisted automated tape placement has a significant influence on their matrix-dominated properties, including void content and crystallinity. While a heated tool can mitigate effects associated with rapid cooling of a laminate manufactured by laser-assisted automatic tape placement, it can incur a significant energy cost. In this study, the influence of tool material diffusivity on laminate properties is investigated, as is the effect of tool emissivity on the first ply placed. By changing the tool material from steel to epoxy, there is increased heat retention within the laminate, reducing matrix viscosity, which facilitates interlaminar bonding. It was found that the short beam strength increases by 8%. The use of an epoxy tool reduced the overall void content within a laminate and also resulted in a more uniform void content. Furthermore, an epoxy tool reduced the average void size. The degree of crystallinity was also found to be more uniform when using an epoxy tool. Scanning electron microscopy was used to determine PEEK’s crystalline morphology, with more spherulites and transcrystallinity observed in specimens manufactured on an epoxy tool rather than on a steel tool.}
+}

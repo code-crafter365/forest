@@ -1,0 +1,13 @@
+@article{LIN2025119648,
+title = {Simple analytical modeling of residual flexural properties of hybrid PEEK thermoplastic composite laminate under kerosene flame exposure},
+journal = {Composite Structures},
+volume = {373},
+pages = {119648},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119648},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500813X},
+author = {Lanhui Lin and Benoit Vieille and Christophe Bouvet and Tanguy Davin},
+keywords = {Thermoplastic composite, High temperature, Post-fire flexural properties, Porosity ratio, Two-layer modeling},
+abstract = {The present work aims to propose a simple two-layer analytical model to determine the residual bending properties of hybrid carbon/glass fibers reinforced PEEK (CG/PEEK) laminates under localized kerosene flame exposure (1100 °C and 116 kW/m2 by a burner bench). It is intended to better understand the relationship between thermally-induced damages and the residual bending properties and also to predict the changes of the flexural properties as a function of flame exposure time. On the one hand, the influence of porosity induced by isothermal heating conditions (temperature ranging from the melting one to the point of resin decomposition) on post-heat flexural properties is examined, which allows the effects of different phase transitions of the PEEK matrix to be dissociated. The residual flexural strength and stiffness of thermally degraded laminates decrease rapidly with the increasing amount of porosity as function of exposure temperature and heating time (400 – 450 – 500 – 525 – 550℃ for 300 – 600 – 900 s). These isothermal tests allow master curves to be formulated that show the correlations between porosity ratio and residual flexural properties. These master curves, combined with through-thickness observations, are expected to provide a comprehensive interpretation of the post-fire flexural behavior of different layers. On the other hand, by means of a two-layer (char layer and decomposition layer) model considering different distances from the flame, it is possible to determine the residual bending properties of post-fire CG/PEEK laminates as a function of the flame exposure times. The proposed analytical model shows a good agreement with the experimental results (obtained in the preliminary study), and the important role of the char layer and its residual properties under long-time flame exposures are highlighted.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025114841,
+title = {Injectable nanosuspension based on orthoester for synergistic chemo-photothermal/gas therapy in localized cancer treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114841},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114841},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003480},
+author = {Yuping Yang and Ziyun Zhang and Zuoao Shi and Zihan Liang and Qirong Yang and Xuefeng Yang and Guoqing Yan and Xin Wang and Rupei Tang},
+keywords = {Orthoester, Nano-suspension, Biomimetic nanoparticles, Photothermal therapy, Gas therapy},
+abstract = {Localized drug delivery system possesses significant potential for enhancing therapeutic efficacy by maximizing drug accumulation at tumor sites while minimizing systemic toxicity. In this study, we developed an injectable pH-responsive nanosuspension (OE-I-m@MTA) integrating chemotherapy, photothermal therapy, and nitric oxide (NO)-mediated gas therapy. An orthoester compound (OE) was synthesized as a liquid excipient. Mitoxantrone (MIT) and the NO donor L-arginine (L-Arg) were loaded into mesoporous silica nanoparticles (MSN), which were further encapsulated by H22 tumor cell membranes to give a biomimetic nanoparticles (m@MTA). Subsequently, m@MTA and indocyanine green (ICG) were dispersed within the OE matrix to form an injectable nanosuspension (OE-I-m@MTA). Upon peritumoral injection, the OE component demonstrated dual advantages: pH-responsive dissolution in the acidic tumor microenvironment and enhanced tissue permeability, synergistically promoting deep tumor penetration of the biomimetic nanoparticles. Under 808 nm laser irradiation, OE-I-m@MTA exhibited triple therapeutic effects, effectively inhibiting the proliferation of cancer cells. This multimodal approach achieved remarkable tumor suppression, with a tumor growth inhibition rate of 93.86 %. The orthoester based nanosuspension provide a novel combinatorial therapeutic paradigm for localized cancer treatment.}
+}

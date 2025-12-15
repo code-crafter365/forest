@@ -1,0 +1,13 @@
+@article{ZHANG2025103925,
+title = {Reinforcement learning-based parametric CAD models reconstruction from 2D orthographic drawings},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103925},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103925},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000867},
+author = {Chao Zhang and Arnaud Polette and Romain Pinquié and Mirai Iida and Henri De Charnace and Jean-Philippe Pernot},
+keywords = {CAD model reconstruction, Parametric modeling, 2D drawings, Reinforcement learning, Neural networks},
+abstract = {This paper introduces a reinforcement learning-based approach for reconstructing 3D parametric CAD models from 2D orthographic drawings. First, the 2D drawings are parsed to extract their constituent vertices and edges. These entities are subsequently converted into a newly defined loop-path representation, generating a list of loop-path pairs along with their associated parameters and candidates for the reconstruction process. The core of the approach is a DQN-based agent trained to select the sequences of loop-path pairs, which are then used to reconstruct the parametric CAD models in any CAD modeler. A parallel environment leveraging a neural network is proposed to accelerate the training process and eliminate the need for calls to an external CAD modeler to compute the rewards, which would otherwise break the training loop. The proposed approach reconstructs 3D parametric CAD models in less than a second, and it outperforms existing methods against traditional metrics on two datasets. The reconstructed CAD models are fully editable and can be easily modified for downstream applications. While the loop-path representation supports extrusion, revolution and sweep operations, experimental results on the two selected datasets highlight the superiority of the RL-based approach in handling sketch-extrude modeling operations.}
+}

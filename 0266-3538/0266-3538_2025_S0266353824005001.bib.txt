@@ -1,0 +1,13 @@
+@article{ZOU2025110930,
+title = {Array infrared thermography for visualization of defects in bonded fiber reinforced polymer joints},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110930},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110930},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005001},
+author = {Xingxing Zou and Mengyao Li and Hao Xu and Xiaofeng Lu},
+keywords = {Array infrared thermography (array IRT), Bonded joint, Defect, Fiber reinforced polymer (FRP)},
+abstract = {Fiber reinforced polymer (FRP) is widely used in new and existing structures, however, interfacial defects in the bonded joints pose a significant threat to structural integrity. Therefore, detection of interfacial defects is imperative for ensuring structural safety. This study proposes array infrared thermography (IRT) as a novel non-destructive evaluation method to visualize interfacial defects. Array IRT provides uniform heat excitation within the spatial domain, which overcomes the problem of heat concentration by conventional IRT. Forty-five bonded FRP plate specimens were tested using array IRT, results of which show that interfacial defects can be accurately detected within (8h + 8) s (where h is the thickness of the upper layer of FRP in mm). Array IRT achieves high accuracy in detecting shapes, particularly sharp corners of defects. A pre-processing method was proposed to eliminate the twisted angles of thermal camera and to more clearly show the defects in the thermograms. A database containing tested thermograms and the corresponding predefined defects was established. Intelligent algorithms - UNet, Deeplabv3, and YOLOv8 - were used to segment the defected regions for array IRT analysis, results of which show a precision of 95.8 %, 94.4 %, and 94.1 %, respectively.}
+}

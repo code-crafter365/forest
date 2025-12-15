@@ -1,0 +1,13 @@
+@article{TIAN2025104456,
+title = {UniMultNet: Action recognition method based on multi-scale feature fusion and video-text constraint guidance},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104456},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104456},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001791},
+author = {Qiuhong Tian and Fei Zeng and Junxiao Ning and Lizao Zhang},
+keywords = {Multi-scale, Local–global feature fusion, Video-text},
+abstract = {Existing methods in action recognition primarily focus on the extraction of local and global features but neglect their complementarity. Moreover, the difference in spatial distribution between visual and textual features frequently results in information loss in mainstream fusion methods. To address these issues, this paper proposes an action recognition method based on multi-scale feature fusion and video-text constraint guidance (UniMultNet), designed to ensure the effective fusion of local and global features as well as a tight coupling of visual and textual information. The UniMultNet consists of two principal components: the Local-Global Feature Fusion Block (LGFB) and the Cross-Modal Adaptive Constraint Fusion Module (ACCF). The LGFB utilizes a self-attention mechanism to aggregate multi-scale information and capture correlations between local and global features, while the ACCF employs constraint learning strategies to learn global representations of visual-textual interactions, thereby supervising the learning process of visual features. Extensive experiments on several benchmark datasets (MOD-20, HMDB-51, UCF-101, and Something V1 & V2) demonstrate that UniMultNet achieves significant improvements in accuracy, ranging from 0.3% to 1.04%, compared to state-of-the-art methods.}
+}

@@ -1,0 +1,12 @@
+@article{XUE2025104598,
+title = {A configurable global context reconstruction hybrid detector for enhanced small object detection in UAV aerial imagery},
+journal = {Computer Vision and Image Understanding},
+pages = {104598},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104598},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225003212},
+author = {Hongcheng Xue and Tong Gao and Zhan Tang and Yuantian Xia and Longhe Wang and Lin Li},
+keywords = {UAV aerial imagery, Small object detection, Efficient reparameter encoder, Linear additive attention, Multi-scale feature fusion},
+abstract = {To address the challenge of balancing detection accuracy and efficiency for small objects in complex aerial scenes, we propose a Configurable Global Context Reconstruction Hybrid Detector (GCRH) to enhance overall detection performance. The GCRH framework consists of three key components. First, the Efficient Re-parameterized Encoder (ERE) reduces the computational overhead of multi-head self-attention through re-parameterization while maintaining the integrity and independence of global–local feature interactions. Second, the Global-Aware Feature Pyramid Network (GAFPN) reconstructs and injects global contextual semantics, cascading selective feature fusion to distribute this semantic information across feature layers, thereby alleviating small-object feature degradation and cross-level semantic inconsistency. Finally, two configurable model variants are provided, allowing the control of high-resolution feature layers to balance detection accuracy and inference efficiency. Experiments on the VisDrone2019 and TinyPerson datasets demonstrate that GCRH achieves an effective trade-off between precision and efficiency, validating its applicability to small object detection in aerial imagery. The code is available at: https://github.com/Mundane-X/GCRH.}
+}

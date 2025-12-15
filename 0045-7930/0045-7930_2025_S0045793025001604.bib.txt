@@ -1,0 +1,13 @@
+@article{SATYADHARMA2025106700,
+title = {Numerical error estimation with physics informed neural network},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106700},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106700},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001604},
+author = {Adhika Satyadharma and Heng-Chuan Kan and Ming-Jyh Chern and Chun-Ying Yu},
+keywords = {Physics-informed neural network, Verification and validation, Uncertainty quantification, Computational fluid dynamics, Numerical error},
+abstract = {Quantifying numerical error has been a major issue in computational fluid dynamics, mostly due to its most dominant term, the discretization error. Practically, this is the influence of the mesh and time step, which can substantially affect the final result. However, due to its nature, quantifying discretization error typically requires several fine mesh simulations, which can be very expensive to perform. In this research, we propose a new way to calculate numerical error as a whole, which is done by utilizing physics-informed neural network (PINN). By simultaneously referencing the discrete simulation data and the continuous governing equation, PINN can detect any disagreement between the two and convert it into an estimate of the numerical error. This study explains this framework and demonstrates it on several cases, including a one-dimensional heat conduction, problem set with the method of manufactured solutions and a cavity flow simulation at Reynolds number 1000. While it can be challenging to implement this framework on very fine mesh and it can only evaluate a single type of variable at a time, it does offer two major benefits. The results show that our proposed framework can reliably and accurately estimate the numerical error across a variety of mesh sizes, from a fine mesh to a very coarse mesh, even if the data are outside the asymptotic range. It also requires only a single simulation dataset, eliminating the need to perform several fine mesh simulations and proper mesh refinements.}
+}

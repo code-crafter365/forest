@@ -1,0 +1,13 @@
+@article{CANOTERRIZA2025102289,
+title = {Assessment of SARS-CoV-2 exposure in exotic pets in Spain},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {116},
+pages = {102289},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102289},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957124001668},
+author = {David Cano-Terriza and Leira Fernández-Bastit and Júlia Vergara-Alert and Daniel B. Váquez-Calero and Sabrina Castro-Scholten and Javier Caballero-Gómez and Ignacio García-Bocanegra and Joaquim Segalés},
+keywords = {COVID-19, SARS-CoV-2, Coronavirus, One Health, Zoonoses, Pets},
+abstract = {Evidence of SARS-CoV-2 infections in different animal species raises concerns about the potential for animal reservoirs and transmission to humans. Here, we evaluate the exposure of exotic pet species to this virus throughout the early years of the pandemic (2020 – 2022) in southern Spain. A total of 180 exotic pets (126 domestic rabbits, 31 ferrets, and 23 rodents) were analyzed for antibodies against SARS-CoV-2 using two different ELISAs. ELISA-positive sera were subsequently tested for specific neutralizing antibodies (nAbs) using the virus neutralization test (VNT). Only one brown rat (Rattus norvegicus), representing 0.6 % of the total, tested positive by ELISA, yet showed negative result for SARS-CoV-2 nAbs by VNT. Our results suggest a very limited risk of SARS-CoV-2 transmission among humans and sympatric exotic pet species in the study region. However, the virus's potential for interspecies transmission emphasizes the need for ongoing surveillance, especially in settings with frequent human-animal interactions, to avoid potential virus evolution, the emergence of new animal reservoirs, and spillover events.}
+}

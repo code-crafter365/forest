@@ -1,0 +1,13 @@
+@article{QU2025114898,
+title = {Intranasal delivery of temozolomide and disulfiram in situ gel combined with copper for enhanced glioblastoma therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114898},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114898},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004059},
+author = {Ying Qu and Jingjing Zhao and Long Ma and Xue Wang and Feifei Sun and Yizhe Li and Yihua Wu and Guozhi Zhao and Shijia Liu and Wenqing Ma and Tao Li and Zhongxi Zhao},
+keywords = {Glioblastoma, Nose-to-brain drug delivery, Temozolomide, Disulfiram+Cu, Antitumor immune},
+abstract = {Combination therapies show promise for glioblastoma (GBM) treatment, however, insufficient drug accumulation in the brain and significant toxic side effects continue to pose critical challenges to therapeutic efficacy. Here, we report an intranasal ion-sensitive hydrogel (IHG) platform for efficient co-delivery of TMZ and disulfiram (DSF) to GBM via the nose-to-brain pathway. The optimized IHG formulation demonstrates superior gelation properties, sustained drug release, and enhanced brain accumulation, achieving remarkable drug targeting efficiency (468.9 %) and direct transport percentage (80.3 %). Within the tumor microenvironment, in situ-generated TMZ and the chelation product of DSF and copper ions (CuET) synergistically induce DNA damage and apoptosis, thereby enhancing tumor cell sensitivity to TMZ. Furthermore, tdIHG+Cu induces robust immunogenic cell death, stimulates CXCL10 release, mediates dendritic cell maturation, and promotes CD8+ T cell infiltration, thereby establishing a potent antitumor immune response. This approach not only demonstrates superior therapeutic efficy against GBM progression through enhanced intracranial drug accumulation and optimized drug ratios, but also minimizes systemic toxicity via localized delivery. Our findings offer a potentially clinical translatable strategy worth further investigation.}
+}

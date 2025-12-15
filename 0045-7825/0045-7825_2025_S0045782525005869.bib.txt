@@ -1,0 +1,13 @@
+@article{SUVIN2025118314,
+title = {Adaptive scaled boundary finite element method for fracture in thermo-poroelastic media using phase field model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118314},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118314},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005869},
+author = {V.S. Suvin and Dakshith Ruvin Wijesinghe and Ean Tat Ooi and Chongmin Song and Sundararajan Natarajan},
+keywords = {Thermo-poroelasticity, Thermo-poroelastic fracture, Phase field model, Scaled boundary finite element method, Quadtree decomposition, Adaptive refinement},
+abstract = {This study develops a numerical framework for thermo-poroelastic fracture analysis using the Scaled Boundary Finite Element Method (SBFEM) and adaptive phase-field modelling. The framework integrates the equilibrium, mass balance, and heat transfer equations, solving them as a coupled system, while fracture evolution is handled using a phase-field approach in a staggered manner. By formulating the SBFEM on polygons with an arbitrary number of sides, adaptive quadtree meshing can be deployed without introducing hanging nodes. Scaled boundary shape functions are used to interpolate field variables, and material properties are smoothly transitioned between fully fractured and intact regions based on phase-field values. The framework is validated through numerical examples, and a mesh convergence study is conducted to determine the minimum element size required for adaptive thermal crack modelling. An image-based quadtree mesh is used for initial mesh generation, enabling the analysis of real-world problems such as underground coal gasification with or without fractures from a scanned image. Finally, a heterogeneous domain is studied to examine crack propagation behaviour in complex material distributions.}
+}

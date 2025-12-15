@@ -1,0 +1,13 @@
+@article{MOGHADDASI2025119148,
+title = {Nonlinear dynamics of simply supported, thin laminated circular cylindrical shells coupled to large-amplitude sloshing fluid},
+journal = {Composite Structures},
+volume = {365},
+pages = {119148},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119148},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003137},
+author = {Hamid Reza Moghaddasi and Sumeet Chakraborty and Marco Amabili},
+keywords = {Nonlinear dynamics, Circular cylindrical shells, Fluid-filled shells, Nonlinear sloshing, Lagrange multipliers},
+abstract = {This study investigates the nonlinear vibrations of thin laminated elastic shells with simply supported boundary conditions, subjected to large-amplitude sloshing fluid, within the framework of the Flügge-Lur’e-Byrne nonlinear shell theory. The fluid is modeled by the potential flow theory using the Laplace equation in the fluid domain, and nonlinear boundary conditions are applied at the free surface. The Lagrange multipliers method is employed to minimize the energy functional, incorporating nonlinear constraints at the fluid boundary. A harmonic excitation is applied at the mid-height of the shell, and the transient vibrations are analyzed. Results indicate that nonlinear sloshing reduces the beating action in the time-domain response but increases the radial shell deformation compared to the linear case. The effects of fluid level and nonlinearity at the fluid surface are also explored through frequency–response analysis, revealing that nonlinear sloshing significantly alters the frequency response curve, particularly for large fluid-filling ratios in flexible shells. However, the effect on the fluid free-surface profile is minimal when compared to linear slosh modeling. In contrast, stiff shells exhibit a pronounced effect of nonlinear sloshing on the fluid free-surface elevations.}
+}

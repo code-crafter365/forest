@@ -1,0 +1,13 @@
+@article{YAN2025114764,
+title = {Characterization of platelet adhesion forces by atomic force microscope under magneto-thermal conditions},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114764},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114764},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002711},
+author = {Xiaotong Yan and Xilong Zhang and Kai Yue and Anqi Wang and Weishen Zhong and Genpei Zhang},
+keywords = {Platelet adhesion, Interaction force, Magneto-thermal conditions, Magnetic field, Temperature},
+abstract = {Magnetic hyperthermia inhibits platelet (PLT) aggregation and thrombus formation, emerging as a new therapeutic strategy for thrombolysis. It is crucial to have a good understanding of PLT adhesion forces under magneto-thermal conditions to prevent thrombosis formation and improve the efficiency of thrombolytic treatment. The effects of temperature, non-thermal magnetic field (MF) exposure, and combined magneto-thermal conditions on the interaction forces between PLT and various materials (PLT-PLT, PLT-HUVEC, PLT-collagen, and PLT-RBC) were measured using a modified atomic force microscope. The viscoelastic modulus and morphology of PLTs were assessed by atomic force microscope and scanning electron microscopy, and the concentrations of GPIIb/IIIa glycoproteins on the PLT surface and reactive oxygen species within PLTs were quantified to elucidate the mechanisms driving PLT adhesion changes induced by external fields. The results indicate that the interaction forces for all pairs peak at 37 °C and decrease with rising temperatures. High temperatures (>37 °C) inhibit PLT interactions by reducing GPIIb/IIIa receptor activity, thereby lowering thrombosis risk. At 47 °C, PLTs rupture into small spherical vesicles, with significant activity reduction and functional damage. Moreover, MF strength positively correlates with the interaction forces of all pairs at a given temperature, with the most pronounced effect observed in PLT-PLT interactions. Elevated MF strength enhances PLT interaction forces by activating reactive oxygen species and GPIIb/IIIa, as well as increasing the viscoelasticity of the PLT membrane. Additionally, the presence of an MF delays PLT morphological transformation at temperatures exceeding 37 °C.}
+}

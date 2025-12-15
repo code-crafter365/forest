@@ -1,0 +1,13 @@
+@article{LIU2025118592,
+title = {Investigation of the dynamic compression behavior of 3D braided composites based on a virtual fiber embedding method},
+journal = {Composite Structures},
+volume = {351},
+pages = {118592},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118592},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007207},
+author = {Shengkai Liu and Aoxin Wang and Bicheng Sun and Siqi Liu and Meiqi Hu and Qian Jiang and Liwei Wu},
+keywords = {Virtual fiber, Embedded technique, 3D braiding, Compressive behavior, Damage mechanics},
+abstract = {The three-dimensional braided composites (3DBCs) possess a complex spatial structure, which can lead to microscopic deformation of fibers under high-speed impact. This paper proposes a quasi-fiber scale model using virtual fiber-embedded (VFE) method to simulate the impact behavior and failure of 3DBCs. The results reveal that the maximum eccentricity of the VFE model yarn cross-section is 0.318, representing a 194% improvement compared to solid yarns. According to the characteristics of damage, it can be deduced that interactions among fibers play a pivotal role in determining the failure behavior of composites, particularly concerning non-linear changes. The modulus, strength and the time of initial damage rise with an increasing braiding angle, whereas the resin stress, yarn stress, and degree of damage exhibit opposite trends. The stress distribution over the braiding path shows that the main load-bearing component at 20° braiding angles is internal yarns, whereas the surface yarns take precedence at 40°. The maximum deformation of the yarn cross-section always occurs at the center of the shear band, with a maximum eccentricity of 0.456 at 20° braiding angles. The deformation in yarn flexing and cross-section flattening cause an uneven distribution of stress and strain, leading to localized damage and ultimately catastrophic destruction.}
+}

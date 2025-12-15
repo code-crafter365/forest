@@ -1,0 +1,13 @@
+@article{WANG2025119532,
+title = {Sequential approximate optimization of curvilinear fiber paths for enhanced vibration performance in composite shells},
+journal = {Composite Structures},
+volume = {372},
+pages = {119532},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119532},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500697X},
+author = {Xin Wang and Shinya Honda and Katsuhiko Sasaki and Ryo Takeda},
+keywords = {Composite laminates, Variable stiffness composites, Radial basis function neural network, Sequential approximate optimization, Vibration optimization, Tailored fiber placement},
+abstract = {This study investigates the optimization of curvilinear fiber paths in carbon fiber composite shell structures to enhance their fundamental frequency, compared to the optimally designed conventional straight fiber configuration. A radial basis function neural network-based sequential approximate optimization (RBFNN-SAO) approach is applied. Compared with direct optimization techniques, the RBFNN-SAO method demonstrates slightly better accuracy and similar computational efficiency due to its adaptive sampling strategy for precisely approximating complex response surfaces. Contour lines of Gaussian surfaces implicitly define the fiber paths, which are then mapped onto three-dimensional shell geometries. This representation allows the paths to be characterized with 12 design parameters. Experimental validation and finite element simulations confirm that, under fully free boundary conditions, the optimized curvilinear fiber design increases the fundamental frequency thickness ratio by approximately 43.74% in experimental tests and 48.18% in numerical simulations compared to the optimized straight–fiber configuration. This study is the first to apply RBFNN-SAO to free-form curvilinear fiber path optimization in composite laminated shells. It achieves substantial improvements in vibration performance with fewer design parameters, establishing a robust, practical design framework with considerable potential for broader engineering applications.}
+}

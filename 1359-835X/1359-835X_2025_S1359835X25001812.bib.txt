@@ -1,0 +1,13 @@
+@article{CAO2025108887,
+title = {Upcycling aluminum-plastic packaging waste into high thermal conductivity and fire safety composite},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108887},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108887},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001812},
+author = {Yixuan Cao and Siming Shen and Liang Li and Dawei Luo and Xiaotong Wang and Fujie Wang and Zhepeng Di and Enhui Liu and Shuangqiao Yang},
+keywords = {Aluminum-plastic packaging waste, Thermal management materials, Flame retardancy, Expandable graphite, Expanded graphite},
+abstract = {Aluminum-plastic multilayer films are widely used in packaging applications. However, such metal/polymer composites are challenging to recycle. And existing separation and recovery methods face problems such as low purity, poor performance and secondary pollution. This study proposes a strategy to directly recycle aluminum-plastic packaging waste (APPW) into materials with high thermal conductivity and excellent fire-safe performance. The melt fluidity and processability of APPW were effectively restored by solid-state shear milling (S3M). Expandable graphite (EG) and Expanded graphite (EGx) introduced, acting as a “bridge” between Al flakes present in APPW, forming a continuous Al-EG-EGx thermal conductivity network. Finite element simulations demonstrated that the introduction of Aluminum hydroxide (ATH) reduces the space available for Al and EG, promoting the development of the Al-EG-EGx network. Consequently, the composite achieved a thermal conductivity of 3.43 W/m·K with only 15 wt% graphite content. Moreover, ATH synergized with EG (EGx) to significantly enhance fire-safe performance, reducing the total heat release (THR) and total smoke production (TSP) by 48.2 % and 69.6 %, while achieving an impressive limiting oxygen index (LOI) of 54.7 % and V-0 rating in UL94. Meanwhile, tensile and flexural strengths increased by 50.5 % and 54.6 %. Our work offers a novel solution for recycling metal/polymer composite waste, transforming unrecyclable materials into value-added composites for applications in thermal management of electronic devices.}
+}

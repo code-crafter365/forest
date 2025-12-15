@@ -1,0 +1,13 @@
+@article{CIBIK2025117526,
+title = {Adaptive parameter selection in nudging based data assimilation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117526},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117526},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007801},
+author = {Aytekin Çıbık and Rui Fang and William Layton and Farjana Siddiqua},
+keywords = {Nudging, Adaptive algorithm, FEM, Data assimilation},
+abstract = {Data assimilation combines (imperfect) knowledge of a flow’s physical laws with (noisy, time-lagged, and otherwise imperfect) observations to produce a more accurate prediction of flow statistics. Assimilation by nudging (from 1964), while non-optimal, is easy to implement and its analysis is clear and well-established. Nudging’s uniform in time accuracy has even been established under conditions on the nudging parameter χ and the density of observational locations, H, Larios et al. (2019). One remaining issue is that nudging requires the user to select a key parameter. The conditions required for this parameter, derived through á priori (worst case) analysis are severe (Section 2.1 herein) and far beyond those found to be effective in computational experience. One resolution, developed herein, is self-adaptive parameter selection. This report develops, analyzes, tests, and compares two methods of self-adaptation of nudging parameters. One combines analysis and response to local flow behavior. The other is based only on response to flow behavior. The comparison finds both are easily implemented and yields effective values of the nudging parameter much smaller than those of á priori analysis.}
+}

@@ -1,0 +1,13 @@
+@article{YAN2025118020,
+title = {Floating projection topology optimization framework for efficient design of bi-connected 3D acoustic metamaterials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {118020},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118020},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002920},
+author = {Gengwang Yan and Yingli Li and Weibai Li and Jiahui Yan and Song Yao and Xiaodong Huang},
+keywords = {Topological optimization, Acoustic metamaterial, Bi-connectivity, Bandgap, Wave manipulation},
+abstract = {Phononic crystals (PnCs) and acoustic metamaterials (AMs) are advanced functional materials engineered to achieve broad bandgaps for wave manipulation through optimized spatial distribution. Despite significant progress, the efficient design of three-dimensional AMs with bi-connected topologies remains a major challenge using conventional topology optimization methods. The novel floating projection topology optimization (FPTO) framework integrated with the Method of Moving Asymptotes (MMA) solver is developed to create and maximize bandgaps between specific dispersion curves. A key innovation of our approach is the incorporation of effective permeability constraints derived from homogenization theory, which ensures sufficient bi-connectivity of air/solid domains essential for practical applications. The optimized topologies exhibiting various-order bandgaps correlate with the equivalent number of air cavities, as revealed through eigenmode analysis and complex band structures. We thoroughly examined the optimization process across various mesh resolutions and permeability constraints to establish robust design guidelines. Both numerical calculations and experimental measurements of sound transmission loss (STL) validate the effectiveness of the optimized topologies for sound attenuation. Additionally, specific wave propagation paths can be engineered by introducing strategic defect features into the perfect lattices. This FPTO framework provides a robust platform for bandgap optimization and inverse design of PnCs and AMs, enabling the development of sophisticated acoustic devices.}
+}

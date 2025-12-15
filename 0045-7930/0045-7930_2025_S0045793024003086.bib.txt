@@ -1,0 +1,13 @@
+@article{RIBEIRO2025106477,
+title = {Blade-resolved and actuator line simulations of rotor wakes},
+journal = {Computers & Fluids},
+volume = {287},
+pages = {106477},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106477},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003086},
+author = {André F.P. Ribeiro and Thomas Leweke and Aliza Abraham and Jens N. Sørensen and Robert F. Mikkelsen},
+keywords = {Instability, Wind turbine wake, Leapfrogging},
+abstract = {This work concerns high-fidelity numerical simulations of a rotor wake, with focus on the tip vortices and their stability. Blade-resolved and actuator line lattice-Boltzmann simulations are performed on a symmetric baseline rotor, as well as on a rotor with asymmetries. The asymmetry has the purpose of destabilizing the tip vortices to enhance wake recovery and hence the performance of potential downstream turbines. Limitations in the actuator line method are highlighted, and we show the potential of addressing these limitations with a so-called “preset” actuator line, where the forces are extracted from blade-resolved simulations, or an analytical load model, which as input only requires the thrust and power coefficients. Simulations agree well with experimental results and leapfrogging is captured, even with a coarse actuator line simulation. The asymmetric rotor is shown to improve power in the far-wake by 12%.}
+}

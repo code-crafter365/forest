@@ -1,0 +1,13 @@
+@article{CARDENAS2025105883,
+title = {Deep learning contribution to the automatic picking of surface-wave dispersion for the characterization of railway earthworks},
+journal = {Computers & Geosciences},
+volume = {198},
+pages = {105883},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105883},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000330},
+author = {J. Cárdenas and A. Burzawa and N. Radic and L. Bodet and R. Vidal and K. Diop and M. Dangeard and A. Dhemaied},
+keywords = {Geophysics, Surface waves, Seismic wavefield modeling, Automatic dispersion picking, Deep learning, Explainability},
+abstract = {Railway Trackbed (RT), which collectively describes the subgrade structures that support rail tracks, is of great importance to the effective maintenance and rehabilitation of the rail network. Therefore, a comprehensive understanding of the mechanical condition of Railway Earthwork (RE) is necessary. The development of non-destructive and efficient methods for the characterization of REs is a priority. Previous studies have investigated the potential of surface waves for the characterization of RE. Preliminary results indicate that this approach is effective, particularly when using high yield acquisition setup such as landstreamer. However, these instruments generate an amount of data that necessitates optimized and automated processing. The potential of Deep Learning (DL) to automate the processing of surface wave data is being explored. In this study, the primary objective is to identify the energy maxima and propagation modes in dispersion images. A supervised convolutional neural network (CNN), designated as ‘U-Net’, was selected to perform segmentation tasks. This model, called ‘U2-pick’, integrates two U-net architectures: one for maxima identification and another for propagation mode identification. The training dataset was constructed using synthetic data that is representative of a French High-Speed-Line (HSL) RE structure. The preliminary outcomes on the synthetic datasets are encouraging, demonstrating accurate identification of energy maxima and mode classification. However, the predictions made on field datasets revealed that while the energy peaks were identified with a high degree of accuracy, the mode assignment proved to be less satisfactory, especially in the case of higher modes. Finally, a comparison of the accuracy and picking time was performed using more standard tools like maxima search, semi-automatic, and Machine Learning (ML) tools.}
+}

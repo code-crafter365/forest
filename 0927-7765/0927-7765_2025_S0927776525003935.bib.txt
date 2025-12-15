@@ -1,0 +1,13 @@
+@article{ECKERMANN2025114886,
+title = {Probiotics-embedded polymer films for oral health: Development, characterization, and therapeutic potential},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114886},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114886},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003935},
+author = {Charlotte Eckermann and Christof Johannes Klein and Florian Schäfer and Marc Thiel and Agnes-Valencia Weiss and Christian Motz and Karen Lienkamp and Matthias Hannig and Marc Schneider},
+keywords = {Oral microbiome, Lactobacillus rhamnosus, Lactobacillus reuteri, Microencapsulation, Mucoadhesive polymer films, Periodontitis},
+abstract = {The oral microbiome plays a crucial role in maintaining homeostasis, and microbial imbalances contribute to diseases such as periodontitis. Probiotic strains such as Lactobacillus rhamnosus and Lactobacillus reuteri have shown potential in restoring microbial balance in the oral cavity. However, their application remains challenging due to limited survival and adherence under intraoral conditions. Thus, we aimed to develop and evaluate mucoadhesive polymer films for local probiotic delivery. L. rhamnosus and L. reuteri were microencapsulated via spray drying and embedded in films composed of hydroxypropyl methylcellulose-polyvinyl alcohol (HPMC–PVA) and foamed polyvinyl alcohol (PVA). The films were characterized in terms of bacterial viability, tensile strength, folding endurance, and mucoadhesive properties. A proof-of-concept in vivo study was conducted by intraorally exposing enamel samples to two volunteers for eight hours, followed by confocal imaging and morphological analysis of adherent bacteria. Microencapsulation preserved high bacterial viability. The resulting films exhibited suitable mechanical properties and strong mucoadhesion. Biological evaluation revealed clear effects: films containing microencapsulated bacteria led to a statistically significant increase in adherent rod-shaped lactobacilli and a consistent reduction in coccoid bacteria associated with dysbiosis. The foamed PVA formulation showed the most pronounced modulation of the enamel-associated microbiota. These findings demonstrate that probiotic films can enable both bacterial stabilization and effective oral delivery. The system enhances colonization by beneficial bacteria while reducing potentially pathogenic cocci. This approach presents a promising strategy for microbiome-based prevention of oral diseases and merits further clinical investigation.}
+}

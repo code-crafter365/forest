@@ -1,0 +1,13 @@
+@article{CHENG2025117537,
+title = {Isogeometric topology optimization (ITO) of fiber reinforced composite structures considering stress constraint and load uncertainties},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117537},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117537},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007916},
+author = {Jin Cheng and Hengrui Fu and Zhenyu Liu and Jianrong Tan},
+keywords = {Fiber reinforced composite structure, Isogeometric topology optimization (ITO), Isogeometric analysis (IGA), Non-Uniform Rational B-Splines (NURBS): Stress constraint, Load uncertainty},
+abstract = {A novel Isogeometric topology optimization (ITO) method considering stress constraint and load uncertainties is proposed for the fiber reinforced composite structures. Firstly, with the density and fiber orientations at the control points of Non-Uniform Rational B-Splines (NURBS) defined as design variables while the magnitudes and direction angles of uncertain external loads described as interval variables, the ITO model for the fiber reinforced composite structures is constructed to minimize the structural compliance under the constraints on both material usage and global failure coefficient. To accurately calculate the material properties and stress distribution within fiber reinforced composite structures, the Gauss subdivision and the Tsai-Hill criterion combined with the P-norm function are introduced. Further, the critical loads leading to the worst structural performance are determined based on the weighted Sigmoid penalty of the stress constraint for balancing the performance requirements of high stiffness and high strength. Finally, the ITO model is solved by integrating all the proposed innovations with the Method of Moving Asymptotes (MMA). The validity and effectiveness of the proposed ITO method are validated by both numerical and engineering examples.}
+}

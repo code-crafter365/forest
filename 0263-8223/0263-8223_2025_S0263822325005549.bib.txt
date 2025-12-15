@@ -1,0 +1,13 @@
+@article{ELNASSAR2025119389,
+title = {FRCM confinement of concrete columns: a review of strength and ductility enhancements},
+journal = {Composite Structures},
+volume = {370},
+pages = {119389},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119389},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005549},
+author = {Zeinah Elnassar and Farid Abed and Ahmed El Refai and Tamer El-Maaddawy},
+keywords = {Fiber-reinforced cementitious matrix, Textile reinforced mortar, Repair, Strengthening, Columns, Confinement, Concentric loading, Seismic, Ductility},
+abstract = {Fiber reinforced cementitious matrix (FRCM) systems have recently emerged as a promising method for strengthening concrete columns, offering notable gains in strength and ductility due to their mechanical performance and compatibility with concrete substrates. This paper presents a comprehensive review of the behavior of concrete compression elements confined with FRCM systems, based on data from 66 experimental studies – 36 on plain concrete (PC) and 30 on reinforced concrete (RC) columns – covering over 1036 PC and 294 RC tests. Specimens were categorized by slenderness, loading conditions, cross-sectional shape, concrete type, FRCM configuration, and reinforcement ratio. The analysis highlights the improved capacity and ductility of FRCM-confined columns under various conditions, including seismic and fire exposure. Among the fabrics studied, polyphenylene benzobisoxazole (PBO) fabric showed superior bonding and performance, while FRCM systems incorporating modified high-strength matrices delivered outstanding strength and deformation capacity. Key parameters such as concrete compressive strength, number of FRCM layers, cross-sectional geometry, and mortar properties were found to significantly influence confinement effectiveness. Columns with higher concrete strength or noncircular sections exhibited reduced benefits, while smaller or lower-strength columns demonstrated greater improvements. In addition, the review critically examines existing design methods and predictive equations for FRCM-confined columns. Finally, directions for future research are outlined, emphasizing key parameters that require further investigation to enhance the reliability and efficiency of FRCM systems in structural strengthening applications.}
+}

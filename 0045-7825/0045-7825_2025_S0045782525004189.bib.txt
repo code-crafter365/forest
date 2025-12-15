@@ -1,0 +1,13 @@
+@article{COUTOCARNEIRO2025118146,
+title = {Multiscale contact homogenisation through the method of multiscale virtual power: Computational implementation and numerical aspects},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118146},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118146},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004189},
+author = {António M. {Couto Carneiro} and Rodrigo {Pinto Carvalho} and Eduardo A. {de Souza Neto} and Francisco M. {Andrade Pires}},
+keywords = {Multiscale modelling, Contact, Computational homogenisation, Roughness, Friction},
+abstract = {In this work, the Surface-Surface (SS) and Surface-Volume (SV) multiscale contact models proposed by Couto Carneiro et al. (2024), derived from the Method of Multiscale Virtual Power, are extended beyond their original mathematical formulation. A finite element-based scheme is developed to enable the contact homogenisation of heterogeneous contact interfaces, leveraging these multiscale contact models. A comprehensive analysis of the computational implementation strategy underpinning the framework is conducted, providing valuable insights into its practical applications. The underlying equilibrium problems are solved using a dual mortar-based finite element discretisation combined with standard quasi-static or dynamic time integration schemes. Special attention is given to ensuring traction admissibility, which is achieved by prescribing remote traction distributions that satisfy specific relations with the solution fields. This process is reformulated as a nonlinear problem, tackled through a global solution algorithm with two iterative cycles: an outer loop for traction computation and an inner loop for finite element equilibrium resolution. Performance is significantly enhanced by employing acceleration techniques such as Broyden’s method and strategically initialising both iterative procedures. Numerical results validate the physical admissibility of the solutions, demonstrate strong agreement with existing literature, and showcase the models’ capability to handle complex applications involving nonlinear materials and intricate interface interactions. This work highlights the potential of the SS and SV approaches to address challenging multiscale contact problems effectively.}
+}

@@ -1,0 +1,13 @@
+@article{LEE2025109034,
+title = {Understanding the enhancement mechanisms of thermal ablation resistance of CNT/epoxy nanocomposites: A molecular dynamics simulation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109034},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109034},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003288},
+author = {Jihun Lee and Gyu Hee Lee and Haolin Wang and Hyunseong Shin},
+keywords = {Polymer-matrix composites (PMCs), Interphase, High-temperature properties, Ablation resistance},
+abstract = {Experimental studies have confirmed that composites reinforced with carbon nanotubes (CNTs) exhibit superior ablation resistance. However, theoretical studies on the microscopic mechanisms responsible for improvement in the ablation resistance of composites are insufficient. These theoretical studies are essential for elucidating the microscopic mechanisms and enabling effective investigations of the ablation resistance enhancement of composites. In this study, molecular dynamics (MD) simulations were performed using a reactive force field (ReaxFF) to evaluate the ablation resistance enhancement of CNT/epoxy nanocomposites. Specifically, the ablation resistance of the nanocomposites was evaluated based on the orientation of the CNT, and the microscopic mechanisms governing the ablation resistance of the CNT/epoxy nanocomposites were investigated. Notably, computational analysis revealed that the relatively dense interphase plays a pivotal role in enhancing the ablation resistance of CNT/epoxy nanocomposites. The microscopic mechanisms investigated in this study are expected to provide valuable insights for improving the ablation resistance of CNT/epoxy nanocomposites.}
+}

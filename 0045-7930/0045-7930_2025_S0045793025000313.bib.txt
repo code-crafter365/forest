@@ -1,0 +1,13 @@
+@article{KURIOKA2025106571,
+title = {Improved particle level set method with higher-order kernel function correction: Enhancing accuracy and conservation},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106571},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106571},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000313},
+author = {Shunsuke Kurioka and Changhong Hu},
+keywords = {Moving interface, Multiphase flow, High-order interface capturing, Particle level set, Higher-order kernel function, Mass conservation},
+abstract = {This paper proposes an improved Particle Level Set (PLS) method that enhances accuracy and mass conservation by correcting the position information of Lagrangian particles placed on the interface using high-order kernel functions. This method, referred to as the PLS/KC (improved Particle Level Set method with high-order Kernel function Correction), accurately captures moving interfaces in multiphase flow simulations on fixed Eulerian grids. The innovation and practical significance of the proposed method are highlighted as follows: (1) correction values for the level set function are calculated with high precision using high-order kernel functions instead of conventional linear interpolation, (2) advection of the level set function is achieved with compact low-order schemes rather than computationally complex high-order advection schemes traditionally recommended, (3) the correction process using kernel functions is easily extendable to three-dimensional applications, and (4) fine interface tracking below the mesh resolution is performed with high accuracy while maintaining mass conservation. The proposed method was validated through numerical experiments using widely adopted two-dimensional and three-dimensional rigid body rotation and interface stretching tests. The numerical results demonstrated that the new method outperforms conventional techniques in accurately capturing moving interfaces and improving mass conservation. Additionally, the proposed method was implemented into a fluid simulation code and evaluated using a dam break benchmark. The results showed good agreement with experimental data, demonstrating the method's effectiveness for practical applications in free-surface interface capturing.}
+}

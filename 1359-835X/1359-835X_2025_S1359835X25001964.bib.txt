@@ -1,0 +1,13 @@
+@article{GU2025108902,
+title = {Effects of porogen content on curing process and performances of needled fiber preform reinforced phenolic aerogel composite using process simulation and comprehensive experiments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108902},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108902},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001964},
+author = {Yizhuo Gu and Ruiqi Guo and Yubo Zhou and Shaokai Wang and Min Li},
+keywords = {Phenolic aerogel, Needled fiber preform, Porogen, Process simulation},
+abstract = {A type of needled quartz/carbon fiber preform reinforced phenolic aerogel composite (NQCF/PR) was fabricated by impregnating fiber preform with precursor solution, followed by sol–gel polymerization and porogen drying. Porogen serves as pore-forming agent, shaping aerogel’s pore structure and influencing mechanical and thermal properties of aerogel composites. By adjusting porogen content, optimal pore structure and material properties can be tailored to meet specific requirements. However, evaporation of porogen during sol–gel polymerization could lead to reduction in porogen content and cause deviations from expected outcomes. In this study, impact of porogen content on curing process was investigated through process simulation incorporating resin curing and porogen evaporation kinetic models. Effects of porogen content on temperature distribution, resin curing degree and porogen conversion degree in a large hemispherical aerogel composite component were analyzed. The coupling of curing temperature, resin curing degree and residual porogen content induces variations in aerogel structure, and affects material performance. Experimental results show that as porogen content increases, compressive performance of NQCF/PR decreases significantly, while thermal insulation performance initially increases and then declines. Among these, NQCF/PR with 85 wt% porogen content achieves an optimal balance of lightweight properties (0.23 g/cm3), excellent thermal insulation (0.066 W/m·K), and compressive strength (0.27 MPa).}
+}

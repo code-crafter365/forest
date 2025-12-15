@@ -1,0 +1,13 @@
+@article{YUCONG2025108502,
+title = {Ultrahigh room and high − temperature mechanical properties of SiCf/SiC composites prepared by hybrid CVI and PIP methods: Effects of PIP temperature},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108502},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108502},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005001},
+author = {Wei Yucong and Ye Fang and Zhang Yi and Guo Guangda and Cao Yuchen and Cheng Laifei},
+keywords = {SiC/SiC composites, CVI−PIP hybrid method, Room and high−temperature, Ultrahigh mechanical properties, PIP temperature, Interfacial shear strength},
+abstract = {Unidirectional (UD) SiCf/SiC composites were prepared using chemical vapor infiltration (CVI)-polymer infiltration and pyrolysis (PIP) hybrid procedure at different PIP temperatures of 1100 °C (1100PIP), 1300 °C (1300PIP), and 1500 °C (1500PIP). The effect of PIP temperature on the microstructure of each component was studied. Results showed that SiC fiber strength and interfacial shear strength (IFSS) were the main factors affecting the mechanical properties of the composite. At 1100 °C, the fiber was thermally stable and IFSS was high, due to which 1100PIP achieved ultrahigh mechanical performance with tensile strength of 901.0 ± 87.7 MPa, flexural strength of 2186.5 ± 192.5 MPa, and toughness of 80.6 ± 12.0 MPa·m1/2. At 1300 °C, IFSS decreased slightly, due to the crystallization of BN interphase. Hence, the mechanical performance of 1300PIP decreased slightly to 789.8 ± 42.9 MPa, 1935.9 ± 163.2 MPa, and 58.2 ± 4.0 MPa·m1/2, respectively. At 1500 °C, severe fiber ceramization and decrease in IFSS caused severe decline in mechanical performance to about half of that of 1100PIP. The crack could be deflected not only at the fiber/BN (F/B) interface, but also at the CVI SiC/PIP SiC (C/P) interface, due to the existence of free carbon layers at the C/P interface, which played an important role in improving the strength and toughness of the composite. 1300PIP also showed excellent strength at high − temperature. At 1350 °C and 1500 °C, its flexural strengths were as high as 1529.0 ± 73.0 MPa and 1223.1 ± 81.1 MPa, respectively. The thermal conductivity and thermal expansion coefficient were also tested. Their values were mainly affected by the grain size and thermal stabilities of the SiC fiber and PIP matrix.}
+}

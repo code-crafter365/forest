@@ -1,0 +1,13 @@
+@article{HOU2025118682,
+title = {Mode I crack propagation in polydimethylsiloxane-short carbon fiber composites},
+journal = {Composite Structures},
+volume = {352},
+pages = {118682},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118682},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008109},
+author = {Nan Hou and Qiang Guo and Fahmi Zaïri and Ning Ding},
+keywords = {PDMS-carbon fiber composites, Toughening mechanisms, Interfacial debonding, Mullins effect, Crack propagation behavior},
+abstract = {This paper presents a comprehensive analysis of reinforcement toughening and failure mechanisms in polydimethylsiloxane (PDMS)-carbon fiber (CF) composites employing an approach combining experiments and numerical simulations. Through a series of meticulously designed mechanical experiments, the behavior of the composite material under varying conditions is thoroughly examined. The introduction of CFs enhances the stiffness of the material while also leading to debonding and an increased Mullins effect. A constitutive model replicating the observed reinforcement and damage behavior is implemented. Our investigation extends to the analysis of crack growth through both numerical simulations and microscopic morphological examinations. A cohesive zone model is subsequently utilized to simulate crack propagation, providing enhanced understanding of the relationship between structural characteristics and mechanical behaviors. The process of crack propagation subjects the materials to cycles of loading and unloading, highlighted by the reinforcing action of CF pinning and stress transfer, alongside toughening mechanisms attributed to a variety of dissipative processes: interfacial debonding damage, energy loss due to CF pull-out, the Mullins effect, and viscous energy dissipation. This study elucidates the complex mechanical interplay within PDMS-CF composites and suggests pathways for their design optimization, significantly broadening their applicability in numerous domains.}
+}

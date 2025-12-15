@@ -1,0 +1,13 @@
+@article{BASAVARAJU2025119524,
+title = {Investigation of CeVO4-decoracated activated carbon-nanocomposite as a bifunctional electrode material for vanadium flow battery and supercapacitor applications},
+journal = {Composite Structures},
+volume = {371},
+pages = {119524},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119524},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006890},
+author = {Sharath Kumar Basavaraju and Gireeshkumar Basavaraj Chavati and Malashri Boraiah Sannaobaiah and Handanahally Basavarajaiah Muralidhara and Arthoba Nayaka Yanjerappa and Krishna Venkatesh},
+keywords = {Biomass, Activated carbon, Cerium vanadate, Redox flow battery, Supercapacitor},
+abstract = {This work reports on the synthesis of cerium vanadate activated carbon nanocomposite (CVO-ACs), a versatile multifunctional electrocatalyst for vanadium redox battery (VRFB) and supercapacitor studies to address energy demand. Spectroscopic analysis confirms the formation of composite and reveled the absence of impurities. The combined synergetic effect of cerium vanadate distributed in and out of the highly porous activated carbon substrate, facilities the easy flow of electrons during faradic reactions and enhances the stability of material. Performance evaluation of VRFB cell using CVO-ACs modified graphite felt displayed a maximum coulombic efficiency (CE) of 94.5 % with discharge capacity of 1400 mAh at a current density of 60–15 mA/cm2. The cell also exhibited 85.2 % retention in CE at the end of 150th cycle, accounts for the superior stability of the cell. In the context of supercapacitor, CVO-ACs electrode material in 1 M KOH electrolyte, demonstrated maximum specific capacitance of 1140F/g at 5 mV/s and 994F/g at 4 A/g. In life cycle studies, the electrode exhibited a CE of 96 % CE and 80 % retention in CE at the end 3,500 cycle was observed. All these results highlight the superior performance and stability of the electrode material in energy storage systems.}
+}

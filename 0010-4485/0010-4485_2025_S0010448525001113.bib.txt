@@ -1,0 +1,13 @@
+@article{LUO2025103950,
+title = {Soap Film-Inspired Subdivisional Lattice Structure Construction},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103950},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103950},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001113},
+author = {Guoyue Luo and Qiang Zou},
+keywords = {Computer-aided design, Lattice structures, Geometric modeling, Boundary evaluation, Soap film, Subdivision surfaces},
+abstract = {Lattice structures, distinguished by their customizable geometries at the microscale and outstanding mechanical performance, have found widespread application across various industries. One fundamental process in their design and manufacturing is constructing boundary representation (B-rep) models, which are essential for running advanced applications like simulation, optimization, and process planning. However, this construction process presents significant challenges due to the high complexity of lattice structures, particularly in generating nodal shapes where robustness and smoothness issues can arise from the complex intersections between struts. To address these challenges, this paper proposes a novel approach for lattice structure construction by cutting struts and filling void regions with subdivisional nodal shapes. Inspired by soap films, the method generates smooth, shape-preserving control meshes using Laplacian fairing and subdivides them through the point-normal Loop (PN-Loop) subdivision scheme to obtain subdivisional nodal shapes. The proposed method ensures robust model construction with reduced shape deviations, enhanced surface fairness, and smooth transitions between subdivisional nodal shapes and retained struts. The effectiveness of the method has been demonstrated by a series of examples and comparisons. The code and associated data have been made available at: https://github.com/Qiang-Zou/Subdiv-Lattice.}
+}

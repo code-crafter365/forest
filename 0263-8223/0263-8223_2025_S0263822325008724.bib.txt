@@ -1,0 +1,13 @@
+@article{CAO2025119707,
+title = {A novel mechanisms-based investigation on non-uniform curing fields and fiber–matrix interfacial behavior via self-sensing fibers},
+journal = {Composite Structures},
+volume = {374},
+pages = {119707},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119707},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008724},
+author = {Zihe Cao and Dongfeng Cao and Kunyang Li and Hao Li and Wei Cai and Haixiao Hu and Shuxin Li},
+keywords = {Composite fiber–matrix interface, Cure mechanisms, Multi-field coupling, 3D modelling, Numerical simulations},
+abstract = {Composites consisting of fiber and matrix are naturally heterogeneous materials and the fiber–matrix interfacial behavior is extremely important to their performance. This work presents a novel mechanisms-based investigation on non-uniform curing process and fiber–matrix interfacial behavior via self-sensing fibers. Upgraded experimental study was conducted to investigate the multi-field coupling mechanisms of non-uniform curing process and the influence on matrix −fiber interfacial behavior. The complex non-uniform multi-fields coupling curing process was characterized by thermal-chemical and physical–mechanical interactive models and implemented in the finite element analysis. Numerical simulations were performed to investigate the evolution of non-uniform temperature and degree of cure fields as well as the strain transfer mechanism between matrix and self-sensing FBG fibers. The simulation results indicated that the conventional matrix-fiber interface model widely used for composite laminates can lead to significant errors compared to experimental results. Therefore, a new mechanisms-based matrix-fiber cohesive-tie interfacial model is proposed, and the simulation results successfully predicted the non-uniform multi-field coupling mechanisms.}
+}

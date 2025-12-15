@@ -1,0 +1,13 @@
+@article{SEZEN2025114920,
+title = {Supramolecular nanosponges featuring hydrazone bonds: A smart solution for pH-triggered drug delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114920},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114920},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004278},
+author = {Serap Sezen and Atefeh Zarepour and Ali Zarrabi and Feray {Bakan Misirlioglu}},
+keywords = {Cyclodextrin nanosponge, Doxorubicin, Drug delivery system, pH-responsive},
+abstract = {Cyclodextrin nanosponges (CD NSs) are smart materials, serving as drug delivery vehicles, increasing the effectiveness of anti-cancer drugs while reducing their side effects as they respond to the external forces. Here, a novel class of pH-responsive CD NSs was developed by oxidation of CD, followed by the crosslinking with adipic acid dihydrazide, forming pH-sensitive hydrazone bonds inside the NS then loaded with Doxorubicin (Dox) as a model drug. Characterizations indicated that CD NSs were successfully synthesized, having a spherical shape, thermally stable, amorphous structure, acceptable size distribution, and almost neutral surface charge. The NSs encapsulated approximately 58 % of Dox, while the release profile was found to be pH-dependent; almost 1.5 times higher Dox was released when pH was switched from neutral (pH 7.4) to acidic (pH 5.5). It was shown that NS was not toxic to both MCF-7 and L929 cells. IC50 values for each specimen were found to be 2.12 μM for free Dox and 0.82 μM for encapsulated Dox, respectively. Thus, NS-Dox was able to protect L929 cells from Dox-mediated toxicity. Moreover, NS-Dox showed a similar internalization pattern with free Dox, while both reached the nucleus after 6 h of incubation. In addition, cellular uptake of Dox was significantly enhanced by encapsulation altered from 38 % for Dox to 69 % for NS-Dox after 2 h of incubation. In the light of these findings, we propose that this new type of pH-responsive CD NS is a cost-effective and promising alternative as a pH-responsive smart material to be a drug delivery vehicle, which could be useful for cancer therapy.}
+}

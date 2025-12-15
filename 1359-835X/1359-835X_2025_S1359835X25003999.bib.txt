@@ -1,0 +1,13 @@
+@article{ZHAO2025109105,
+title = {Facile fabrication of graphene@silicon carbide nanoparticle/aramid nanofiber composite films with enhanced thermal conductivity, flame retardancy and mechanical durability},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109105},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109105},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003999},
+author = {Zhao Zhao and Jing Chen and Bingfei Nan and Yuanlie Yu},
+keywords = {Thermal conductivity, Graphene, Silicon carbide, Aramid nanofibers, Flame retardancy},
+abstract = {Two-dimensional (2D) thermally conductive fillers, such as graphene and boron nitride, demonstrated great potential in thermal management materials due to their unique physical and chemical properties. However, fabricating composite films with excellent through-plane thermal conductivity remains challenging because of the intrinsic anisotropy of 2D materials. Herein, a heterostructure (GS) composed of silicon carbide (SiC) nanoparticle and graphene with high thermal conductivity was fabricated by a one-pot ball milling strategy. The as-obtained GS composite was then hybridized with aramid nanofibers (ANFs) to enhance the thermal conductivity, flame retardancy, and mechanical properties of ANF based films. The experimental results reveal that the ANF/GS composite film achieves an in-plane thermal conductivity of 4.94 W/(m·K), which can be attributed to strong π-π stacking interactions between graphene and ANF network. Simultaneously, SiC nanoparticles create bridging connections between graphene layers, establishing vertical phonon transport pathways that increase the through-plane thermal conductivity of ANF/GS composite film to 0.45 W/(m·K), approximately 3.8 times of that of the pure ANF film. Furthermore, the GS can also function as a high-temperature oxidation barrier and mechanical reinforcement framework, endowing the ANF/GS composite films with exceptional flame retardancy, flexibility and mechanical strength. These properties make the ANF/GS composite films very promising as thermal management materials for practical applications.}
+}

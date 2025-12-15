@@ -1,0 +1,13 @@
+@article{WANG2025111050,
+title = {The prediction of homogenized effective properties of continuous fiber composites based on a deep transfer learning approach},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111050},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111050},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000181},
+author = {Zefei Wang and Sen Wang and Changwen Ma and Zhuoyun Yang},
+keywords = {Continuous fiber composites, Homogenization method, Deep transfer learning, Equivalent property prediction},
+abstract = {The homogenization method based on the representative volume element can effectively mitigate the computational challenges posed by the significant scale differences in composite materials. In the structural design of Continuous Fiber Composites (CFCs), a wide range of variable parameters must be considered to meet the demands of practical applications. This paper proposes a rapid prediction method for the equivalent properties of CFCs based on deep transfer learning. First, the influence of fiber volume fraction and fiber distribution randomness on the equivalent properties was studied through extensive numerical simulation models. Next, a Residual Convolutional Neural Network (ResNet) was utilized to handle multimodal inputs of CFCs' cross-sectional images and material properties, aiming to learn the highly nonlinear relationship between them and their equivalent properties. Finally, to ensure that the trained model could be quickly adapted to composite materials with mechanical properties transitioning from a small region of the property space to another, a transfer learning approach was utilized to fine-tune specific parts of the model. This method enables the prediction of equivalent properties of various composite materials with shorter training time and fewer samples, thereby supporting multi-scale simulation analysis and structural design of composite materials.}
+}

@@ -1,0 +1,13 @@
+@article{BOON2025117759,
+title = {Neural network solvers for parametrized elasticity problems that conserve linear and angular momentum},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117759},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117759},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000313},
+author = {Wietse M. Boon and Nicola R. Franco and Alessio Fumagalli},
+keywords = {Parametrized PDEs, Neural network solvers, Momentum conservation, Weak symmetry},
+abstract = {We consider a mixed formulation of parametrized elasticity problems in terms of stress, displacement, and rotation. The latter two variables act as Lagrange multipliers to enforce the conservation of linear and angular momentum. The resulting system is computationally demanding to solve directly, especially if various instances of the model parameters need to be investigated. We therefore propose a reduced order modeling strategy that efficiently produces an approximate solution, while guaranteeing conservation of linear and angular momentum in the computed stress. First, we obtain a stress field that balances the body and the boundary forces by solving a triangular system, generated with the use of a spanning tree in the grid. Second, a trained neural network is employed to rapidly compute a correction without affecting the conservation equations. The displacement and rotation fields can be obtained by post-processing. The potential of the approach is highlighted by three numerical test cases, including a three-dimensional and a non-linear model.}
+}

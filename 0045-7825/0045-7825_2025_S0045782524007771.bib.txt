@@ -1,0 +1,13 @@
+@article{ARMITIJUBER2025117523,
+title = {A multigrid two-scale modeling approach for nonlinear multiphysical systems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117523},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117523},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007771},
+author = {Alaa Armiti-Juber and Tim Ricken},
+keywords = {Nonlinear multiphysical systems, Two-scale modeling, Poro-elastic materials, Linearization, Upscaling, Finite-element method},
+abstract = {High fidelity modeling of multiphysical systems is typically achieved using nonlinear coupled differential equations, often with multiscale model coefficients. These simulations are performed using finite-element methods with implicit time stepping. Within each time step, nonlinearities are numerically linearized using Newton-like iterative solvers, which increases the computational complexity. For multiscale systems fulfilling a scale-separation criterion, this complexity can be mitigated by upscaling the high fidelity models to describe the effective behavior of the system alone. To extend the validity of these models to systems with partial scale-separation, we propose a Multi-Grid Two-Scale (MGTS) modeling approach. This approach consists of the nonlinear upscaled models as a coarse-scale model and a linear fine-scale corrector. The derivation of the corrector is based on linearizing the high-fidelity models about their upscaled versions. This approach has the ability to capture most of the fine-scale perturbations, while maintaining a reduced computational complexity as a consequence of restricting the iterative solvers to coarse-scale grids in the upscaled domain. Additionally, the coarse- and fine-scale models are only weakly coupled, enabling a parallelization-in-time feature of the MGTS model. We apply the MGTS approach to a nonlinear model for fluid-saturated poro-elastic materials in thin domains. The performance of the MGTS approach is demonstrated by executing several numerical experiments based on the finite-element method.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025114716,
+title = {Sulfonated covalent organic frameworks (COF)/polyethersulfone (PES) membrane with enhanced hemocompatibility for blood oxygenation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114716},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114716},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002231},
+author = {Yue Huang and Lunhao Zhi and Chong Cheng and Qiang Wei and Shudong Sun and Changsheng Zhao},
+keywords = {Membrane oxygenator, Covalent organic frameworks (COF), Gas exchange, Antithrombotic},
+abstract = {In extracorporeal membrane oxygenation (ECMO) treatment, designing membrane with self-anticoagulant properties can solve problems resulting from the adverse effect of anticoagulants. In this study, 2,4,6-Triformylphloroglucinol (Tp) and 2,5-Diaminobenzenesulfonic acid (Pa-SO3H) were applied to grow a sulfonated COF film in situ on the polyethersulfone (PES) membrane. The introduction of sulfonic groups increased the hydrophilicity and electronegativity of the TpPa COF film, improved its anti-protein adhesion properties, maintained the normal morphology of blood cells, and endowed the COF film with antithrombotic properties. In the porcine blood circulation test, the duration to increase So2 (O2 saturation) from ∼75–95 % in TpPa-SO3H COF/PES membrane (M-TpPa-SO3H) was 70 min shorter than that in TpPa COF/PES membrane (M-TpPa). This preparation method is applicable to the preparation of not only flat membranes, but also hollow fiber membranes. These findings emphasize the potential of M-TpPa-SO3H in ECMO applications, providing superior antithrombotic property and CO2 efflux potential.}
+}

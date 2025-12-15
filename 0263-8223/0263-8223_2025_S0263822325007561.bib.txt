@@ -1,0 +1,13 @@
+@article{BOHM2025119591,
+title = {Design of hybrid glass fibre reinforced composite structures for improved dynamic crushing performance},
+journal = {Composite Structures},
+volume = {372},
+pages = {119591},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119591},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007561},
+author = {Holger Böhm and Jonas Richter and Jinbong Kim and Mungyu Jeong and Andreas Hornig and Maik Gude},
+keywords = {Thermoplastic composite, Hybrid composite, Crushing response, Splaying failure},
+abstract = {In this study, the dynamic axial crushing behaviour of tubular specimens with varying geometric shape and dimensions made of glass fibre reinforced polyamide 6 composites containing either a fibre mat or a continuous bidirectional fibre reinforcement is experimentally analysed. In addition, the influence of hybridisation on the crushing behaviour is investigated using two different layer-by-layer configurations in order to increase the crushing performance compared to the source composites. All four composite configurations exhibited comparable damage and failure mechanisms, which are crucial for energy absorption. It is shown that hybrid composite specimens show more stable and efficient crushing behaviour, demonstrating up to a 26% increase in specific energy absorption and up to 33% enhancement in crush efficiency compared to both non-hybrid source materials. In particular, the hybrid configuration with a single layer of continuous bidirectional fibre reinforcement exhibits a significant improvement. The results demonstrate that hybridisation improves energy absorption and dynamic crushing performance, providing a basis for the potential use of recycled and recovered fibres in fibre mat-reinforced composites.}
+}

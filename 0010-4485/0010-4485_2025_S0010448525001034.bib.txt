@@ -1,0 +1,13 @@
+@article{ZHANG2025103942,
+title = {B-spline curve interpolation to ordered points through shape quality optimization},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103942},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103942},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001034},
+author = {Jingyu Zhang and Qiuyang Song and Pengbo Bo and Jianrui Ding and Caiming Zhang},
+keywords = {B-spline curve, Data parametrization, Curve interpolation, Curve approximation, Curve fairness},
+abstract = {B-spline curve interpolation to sequential data points is a fundamental problem in various applications and has been extensively studied. However, little attention has been given to optimizing the shape quality of the interpolation curve for each specific dataset. In this paper, we propose a novel approach to B-spline curve interpolation that directly enhances shape quality by minimizing a curve-quality evaluation function, jointly optimizing the control points, location parameters, and knot vectors. The key challenge lies in satisfying the necessary constraints to ensure the existence of a B-spline interpolation curve. To address this, we reformulate the problem as an unconstrained optimization, which inherently enforces these constraints. The interpolation curve is derived by perturbing an approximation curve to eliminate its distance error while preserving its optimized shape quality. To theoretically justify this process, we establish a formal connection between the approximation and interpolation curves, proving that the distance error between them is bounded by a factor of the approximation error with respect to the data points. Experimental results and comparisons with existing methods demonstrate the effectiveness and robustness of our approach in producing high-quality interpolation curves.}
+}

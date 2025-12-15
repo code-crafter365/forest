@@ -1,0 +1,13 @@
+@article{PALMERI2025118593,
+title = {A multi-objective optimization approach to design bistable collapsible tubular mast},
+journal = {Composite Structures},
+volume = {351},
+pages = {118593},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118593},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007219},
+author = {Flavia Palmeri and Susanna Laurenzi},
+keywords = {Deployable composite booms, Collapsible tubular mast, Bistability, Bending stiffness analytical model, Multi-objective optimization},
+abstract = {The collapsible tubular mast (CTM) is a deployable structure made of two omega shaped shells, with each omega composed of three arc segments. In the bistable CTM (Bi-CTM), in addition to the strain energy well associated with the stable deployed state, another strain energy well can be found corresponding to the stable coiled state. The arcs’ geometries influence the existence of the second strain energy well and the associated stable coiled radius, responsible for the boom’s packaging efficiency. Besides packaging efficiency, factors like bending stiffness are also contingent on the geometries of the arcs, leading to significant trade-offs among these metrics. In this work, we propose a multi-objective optimization (MOO) to find optimal compromises that balance these conflicting requirements of a CTM. Particularly, a coupling analytical models and evolutionary algorithms (EA) technique is presented, utilizing and bench-marking various state-of-the-art EAs. The MOO approach gives as output the Pareto front, a set of the non-dominated design points, which showcases different trade-offs solutions tailorable for specific space-applications. Different design points are presented and discussed based on higher-level considerations.}
+}

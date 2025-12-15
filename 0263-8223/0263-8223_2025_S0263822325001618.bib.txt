@@ -1,0 +1,13 @@
+@article{SZPOGANICZ2025118996,
+title = {Effect of prepreg ply thickness and orientation on tensile properties and damage onset in carbon-fiber composites for cryogenic environments},
+journal = {Composite Structures},
+volume = {359},
+pages = {118996},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118996},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001618},
+author = {Eduardo Szpoganicz and Fabian Hübner and Uwe Beier and Matthias Geistbeck and Maximilian Korff and Ling Chen and Youhong Tang and Tobias Dickhut and Holger Ruckdäschel},
+keywords = {CFRP composites, Ply thickness, Ply orientation, Cryogenics, Damage onset},
+abstract = {This study addresses the effects of laminate design on the damage and failure behaviour of carbon-fiber reinforced composites with varying ply thicknesses and stacking configurations under cryogenic temperatures. The aim was to observe the ultimate tensile performance and in-situ onset of damage at 296 and 77 K environments, combining microscopy and simulation analyses. Laminates with fiber areal weights of 140, 70 and 45 g/m2 were stacked in 2 different quasi-isotropic configurations. The results show that ultimate tensile properties are improved at 77 K, though failure strain slightly decreases. Thinner ply laminates with 70 and 45 g/m2 showed a 15–20 % improvement in cryogenic tensile failure-strain, while damage onset shifted from 0.5 % to 0.8 % of strain. Adding off-axis plies improved laminates by 10–15 %, preventing damage onset up to failure. Microscopy and simulation analyses showed good agreement with the in-situ signal for the onset of damage, indicating matching levels of delamination failure initiation measured at 77 K. No transverse microcracks were observed, and permeation measurements showed no significant leakage increase after delamination onset. Ultimately, this work introduces a novel integrated approach by combining in-situ cryogenic testing, damage onset methodology, fractography, simulation analysis, and gas permeation measurements.}
+}

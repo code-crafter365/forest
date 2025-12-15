@@ -1,0 +1,13 @@
+@article{CHEN2025110965,
+title = {Safe and negligible-loss overcurrent protection: A novel macromolecular voltage stabilizer for conductive polymer composites},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110965},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110965},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005359},
+author = {Xuhuang Chen and Jiaqi Gao and Yinghao Qi and Chuanchuan Dai and Zhaoxin Li and Yu Wu and Peng Yu and Siwen Bi},
+keywords = {Positive temperature coefficient, Macromolecular voltage stabilizer, Instability voltage threshold, Reproducibility, Tunnel effect},
+abstract = {The balance between safety issues and low loads remains a major obstacle toward large-scale applications of conductive polymer composites (CPCs) based over-current protection. Elevating the conductive filler concentration in CPCs is a potential strategy to reduce initial resistivity for decreased load, but compromise positive temperature coefficient (PTC) performance and voltage breakdown strength. Here, a novel type of macromolecular voltage stabilizer is synthesized by fluorine rubber and ferrocene to optimize the comprehensive properties of CPCs with low resistivity. The voltage stabilizer provides CPCs with a high voltage breakdown strength of up to 54V with maintaining an extremely low initial resistivity. Such CPCs also have an enhanced PTC intensity, improved instability voltage threshold, suppressed NTC effect, and good reproducibility up on/off switching. Based on tunnel effect, these improved properties can be interpreted by the reduction of charge transfer impact on the degradation of the polymer matrix. This work suggests the great potential of using these unique additives and theoretical investigations for overcurrent protection or insulating material.}
+}

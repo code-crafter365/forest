@@ -1,0 +1,13 @@
+@article{LIU2025119410,
+title = {Correlation characteristics of steady-state rolling resistance of non-pneumatic tires caused by nonlinear viscoelasticity},
+journal = {Composite Structures},
+volume = {371},
+pages = {119410},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119410},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005756},
+author = {Weidong Liu and Shuo Liu and Qiushi Zhang},
+keywords = {Rolling resistance, Non-pneumatic tires, Steady-state temperature, Simulation, Semi-empirical model, Hysteresis loss},
+abstract = {Rolling resistance (RR), primarily attributed to the hysteresis losses of viscoelastic materials, is a significant factor influencing the fuel efficiency of vehicles, with the lost energy ultimately dissipated as heat. Presently, no precise approach exists to simulate the steady-state temperature field (SSTF) and the steady-state rolling resistance (SSRR) for non-pneumatic tires (NPTs). Consequently, this paper establishes a thermal-mechanical coupled simulation system based on explicit algorithms to address the RR. The hysteresis damping force is analyzed using the brush tire model and equivalent tire system model, leading to the development of a semi-empirical model for SSRR that incorporates temperature effects. By combining vertical stiffness, RR, and temperature tests conducted on a solid rubber tire and a self-designed and manufactured non-pneumatic tire (LSL-tire), the maximum solving errors of the simulation system and the semi-empirical model were validated to be 6.3% and 2.15%, respectively. Data analysis reveals that the SSRR and SSTF are positively correlated with load and velocity while showing a negative correlation with dynamic vertical stiffness. However, the effect of velocity on both RR and stiffness is minimal. Investigating the RR of NPTs requires careful consideration of the effects of temperature on both the hyperelastic and viscoelastic properties of the material.}
+}

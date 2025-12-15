@@ -1,0 +1,13 @@
+@article{TOK2025114792,
+title = {Corona-like nanostructures: Quantum dots meet pleural fluid proteins/peptides for theranostic applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114792},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114792},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002991},
+author = {Kerem Tok and Faezeh Ghorbanizamani and Hichem Moulahoum and Firat Baris Barlas and Emine Guler Celik and Dilara Gürsoy and Rza Memmedov and Tevfik Ilker Akcam and Kutsal Turhan and Figen Zihnioglu and Suna Timur},
+keywords = {Quantum Dot, Pleural Fluid, Protein/peptide Corona, Nanostructures, Nanotheranostics},
+abstract = {The incorporation of protein and peptide components into nanoparticles is a revolutionary advancement in nanotheranostics, particularly in the domain of personalised medicine. This study delves into the creation of multifunctional theranostic nanoparticles by conjugating quantum dots (QDs) with proteins and peptides sourced from the pleural fluid of lung cancer patients. Our objective is to enhance the targeting and therapeutic potential of QDs through the formation of corona-like nanostructures. Pleural fluids from lung cancer patients were pooled and precipitated to enrich protein and peptide fractions. These enriched fractions, alongside untreated pooled pleural fluid, were utilized to coat QDs, forming corona-like nanostructures. Comprehensive characterization revealed robust interactions between QDs and pleural fluid proteins/peptides, resulting in heightened fluorescence and stability. Targeted in vitro assays on lung cancer cells (A549) and normal epithelial lung cells (BEAS-2B) demonstrated selective cancer cell targeting and improved therapeutic efficacy. Furthermore, combining these nanostructures with radiotherapy markedly increased cancer cell death compared to radiotherapy alone. This pioneering approach underscores the significant potential of pleural fluid-derived protein/peptide-coated QDs in developing targeted, effective multifunctional nanostructures. By leveraging the unique properties of pleural fluid proteins/peptides and QDs, this study opens new avenues for personalized medicine, poised to revolutionize cancer therapy applications.}
+}

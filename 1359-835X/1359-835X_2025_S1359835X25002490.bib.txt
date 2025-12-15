@@ -1,0 +1,13 @@
+@article{ZHOU2025108955,
+title = {Enhanced interfacial strength in carbon-nanotubes-reinforced Al matrix composites via an interface substitution strategy},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108955},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108955},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002490},
+author = {Weiwei Zhou and Zhenxing Zhou and Mingqi Dong and Yuchi Fan and Keiichi Shirasu and Go Yamamoto and Naoyuki Nomura},
+keywords = {Carbon nanotubes, Al matrix composites, Interface substitution, Interfacial strength},
+abstract = {The foremost concern when fabricating carbon nanotube (CNTs)-reinforced Al matrix composites is achieving appropriate interfacial bonding while avoiding intrinsic structural damage. In this study, an interface substitution strategy was developed for replacing the CNT-Al interface with a sandwiched CNT-ceramic-Al interface, thereby enhancing interfacial connections. A uniform, continuous SiO2 layer was deposited on the CNT surface via a sol–gel process, followed by powder metallurgy routines to fabricate SiO2@CNTs/Al composites, in which the CNTs exhibited minimal structural damage and remained well-dispersed without interfacial reactions. An in situ pullout test demonstrated a high interfacial strength of 32.5 MPa for the SiO2@CNT-Al interface, attributed to the enhanced residual compressive stress and interfacial wettability. Consequently, the composite strength was significantly enhanced with CNTs addition, aligning well with predictions from the shear lag model. This interface substitution strategy underscored the feasibility of tuning the CNT-metal interfacial states and highlighted the potential for designing advanced nanocarbon/Al composites.}
+}

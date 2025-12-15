@@ -1,0 +1,13 @@
+@article{GU2025114436,
+title = {Different mesoporous carbon carriers for the improvement of solubility and physical stability of poorly soluble drugs},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114436},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114436},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006957},
+author = {Wei Gu and Qinfu Zhao and Ye He and Shengyu Wang and Yuanqi Yang and Yian Li and Shuaipeng Feng and Siling Wang},
+keywords = {Hollow carbon mesoporous nanoparticles, Mesoporous carbon nanoparticles, Physical stability,  dissolution, Water–insoluble drug},
+abstract = {Mesoporous carriers have gained significant attention for enhancing the solubility and bioavailability of Biopharmaceutics Classification System (BCS) Class II drugs. However, the contribution of mesoporous carriers with varying morphologies to the physical stability of these drugs is not well-defined. In this work, mesoporous carbon nanoparticles (MCN) and hollow carbon mesoporous nanoparticles (HMC) were prepared, while the weakly acidic Indomethacin (IMC) and alkaline Celecoxib (CXB) were incorporated into these carriers in the amorphous state by the solvent evaporation method. Notably, HMC demonstrated superior drug loading efficiencies (approximately 43 %) for both IMC and CXB owning to its hollow structure. The mesoporous drug loading systems significantly enhanced dissolution rates in comparison with both self-made amorphous drugs and raw drugs. Furthermore, under accelerated and long-term storage conditions, the mesoporous carriers effectively prevented drugs loaded from crystallization, maintaining constant dissolution profiles for over 12 months. Intriguingly, CXB exhibited a slower rate of crystallization after loading into the mesoporous carriers, likely due to the formation of hydrogen bonds between the carbonaceous carrier material and the amino groups of CXB. Compared with loaded drugs, the self-made amorphous drugs exhibited a crystallinity increase beyond 60 % within the initial month. Collectively, these findings highlighted the potential of mesoporous carbon carriers to elevate the dissolution behaviors of BCS Class II drugs while preserving the physical stability of the loaded amorphous drugs.}
+}

@@ -1,0 +1,13 @@
+@article{ROHEMGUALBERTO2025118590,
+title = {Investigation of the degradation over steel/GFRP single lap joint: UV radiation and immersion at different temperatures},
+journal = {Composite Structures},
+volume = {351},
+pages = {118590},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118590},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007189},
+author = {Hiasmim {Rohem Gualberto} and João {Marciano Laredo dos Reis} and Mônica {Calixto de Andrade} and Hector {Reynaldo Meneses Costa} and Domenio {de Souza Faria} and Julian {David Hunt} and Felipe {do Carmo Amorim}},
+keywords = {Single lap joints, Steel/GFRP, Degradation, Immersion},
+abstract = {Adhesive joints with composite components are used in various fields and under diverse environmental conditions. Exposure to UV radiation, temperature fluctuations, and immersion in different mediums can influence their performance. This study focuses on the degradation of steel/GFRP (glass fiber reinforced polymer) adhesive joints by immersing them in distilled and salt water at three different temperatures (40 °C, room temperature, and 4 °C), with and without prior exposure to UV radiation. Water absorption over time was evaluated under different degradation conditions, studying the absorption of the joints, composite, and adhesive, both individually and in combination. Mechanical shear tests on the joints and three-point bending tests on the composites were conducted, along with an assessment of failure modes influenced by water absorption and UV degradation. The results indicate that immersion temperature affects water absorption, post-curing, and the stiffness of the matrix and polymers, while UV radiation promotes post-curing and facilitates water absorption. The combined degradation conditions exhibit different effects on the materials compared to individual degradation, highlighting the complexity of service environmental conditions.}
+}

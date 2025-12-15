@@ -1,0 +1,13 @@
+@article{CHU2025118665,
+title = {Effective flexoelectric properties of inclusion-based composites based on strain gradient theory and homogenization technique},
+journal = {Composite Structures},
+volume = {352},
+pages = {118665},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118665},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007931},
+author = {Liangliang Chu and Fuqi Zhou and Guansuo Dui},
+keywords = {Flexoelectricity, Inclusion-based composites, Stress polarization tensor, Strain gradient elasticity, Homogenization scheme},
+abstract = {This study focuses on enhancing flexoelectricity in composites and develops a new micromechanical analytical framework to determine the effective electromechanical properties of inclusion-based flexoelectric composites within the context of SGE. Initially, we specialize in studying isotropic materials and derive the governing Navier equations for the problem. Subsequently, we streamline these differential equations by introducing a Laplacian-type gradient state variable, departing from higher-order gradient-enrichment treatments. The study employs Green’s functions and stress polarization tensors for spherical inhomogeneities, deriving homogenized material properties through volumetric averages of microscopic properties weighted by displacement localization operators. The analytical scheme’s relevance is validated against results from reference models and experimental data. Effective composite properties are evaluated using numerical methods, with an emphasis on assessing the impact of reinforcement on these properties. Our findings lay the foundation for developing a micromechanical method to predict the electromechanical behavior of composites. Specifically, we demonstrate the efficacy of our proposed theory by deriving effective flexoelectric properties of particulate composites.}
+}

@@ -1,0 +1,13 @@
+@article{HAN2025118102,
+title = {A manufacturable fiber placement method for continuously fitting optimized discrete fiber orientations based on B-spline equidistant curves},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118102},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118102},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003743},
+author = {Chengxiang Han and Xiangkui Zhang and Ping Hu and Guojun Zheng and Xuefeng Zhu and Guozhe Shen},
+keywords = {B-spline, Composite structure, Equidistant curves, Fiber path design, Continuous fitting},
+abstract = {Equidistant fiber placement structures exhibit significant advantages in both mechanical performance and manufacturability. This paper addresses the challenge of forming continuous, manufacturable fiber paths from discrete fiber optimization results. Leveraging the ability of B-splines to represent complex shapes and offer local control, we propose a method that uses B-spline as the base curve for equidistant curves to fit discrete fiber orientations into continuous fiber paths. This method calculates the difference between the discrete optimized orientations and the tangent directions of the equidistant curves using vector inner product. Subsequently, an iterative optimization algorithm is employed to adjust the tangent directions of the equidistant curves to closely approximate the discrete optimization results, thereby generating equidistant fiber paths. This paper proposes single curve and double curve fitting models for B-spline equidistant curve fitting, aiming to provide an optimization solution that balances structural performance with manufacturing requirements, catering to the diverse needs of engineering applications. Several numerical examples are provided, with comparisons conducted between the proposed fitting method and the traditional uniform lamination approach. The results demonstrate that the fiber layup structures obtained using the proposed methods outperform those based on traditional uniform layups, fitting the discrete optimization results into continuous paths and enhancing the structural performance.}
+}

@@ -1,0 +1,13 @@
+@article{YUAN2025104253,
+title = {Building extraction from remote sensing images with deep learning: A survey on vision techniques},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104253},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104253},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003345},
+author = {Yuan Yuan and Xiaofeng Shi and Junyu Gao},
+keywords = {Building extraction, Deep learning, Review, Semantic segmentation, Polygon generation},
+abstract = {Building extraction from remote sensing images is a hot topic in the fields of computer vision and remote sensing. In recent years, driven by deep learning, the accuracy of building extraction has been improved significantly. This survey offers a review of recent deep learning-based building extraction methods, systematically covering concepts like representation learning, efficient data utilization, multi-source fusion, and polygonal outputs, which have been rarely addressed in previous surveys comprehensively, thereby complementing existing research. Specifically, we first briefly introduce the relevant preliminaries and the challenges of building extraction with deep learning. Then we construct a systematic and instructive taxonomy from two perspectives: (1) representation and learning-oriented perspective and (2) input and output-oriented perspective. With this taxonomy, the recent building extraction methods are summarized. Furthermore, we introduce the key attributes of extensive publicly available benchmark datasets, the performance of some state-of-the-art models and the free-available products. Finally, we prospect the future research directions from three aspects.}
+}

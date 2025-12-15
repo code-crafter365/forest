@@ -1,0 +1,13 @@
+@article{CECCACCI2025106496,
+title = {Direct numerical simulations of two-dimensional channel flow with a gap deformity and slip wall},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106496},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106496},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302400327X},
+author = {Silvia Ceccacci and Sophie A.W. Calabretto and Christian Thomas and James P. Denier},
+keywords = {Channel flow, Separated flows, Surface slip},
+abstract = {The effect of surface slip on the dynamics of flow separation induced by a Gaussian-shaped gap deformity in a two-dimensional channel was numerically investigated for Reynolds numbers Re∈[100,6000]. Two gap deformations, denoted wide and narrow, were modelled with dimensions sufficient to generate localised pockets of reversed flow when the channel walls were fully no-slip. The wide gap induces a more intense region of separated flow than the narrow gap but less than that exhibited by similar-sized bumps in a channel (Ceccacci et al., 2022). In addition, the size and magnitude of the separation bubble within each gap deformity plateaued for Reynolds numbers Re>3000. Surface slip with slip length, λ, was modelled via a Navier-slip boundary condition. Applying the slip condition to the gap concavity reduces the magnitude and thickness of the separation bubble within the deformation and, for a slip length λ≈0.1, eliminates separated flow for both gap configurations, which is less than the requirements for the bump configuration (Ceccacci et al., 2022). Moreover, limiting slip to the gap region, achieved the same flow separation control, as that realised by applying slip to the entire wall.}
+}

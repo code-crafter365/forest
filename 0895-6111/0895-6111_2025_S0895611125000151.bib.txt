@@ -1,0 +1,13 @@
+@article{LEE2025102506,
+title = {Meta-learning guidance for robust medical image synthesis: Addressing the real-world misalignment and corruptions},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102506},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102506},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000151},
+author = {Jaehun Lee and Daniel Kim and Taehun Kim and Mohammed A. Al-masni and Yoseob Han and Dong-Hyun Kim and Kanghyun Ryu},
+keywords = {Medical Image Synthesis, Deep Learning, Misalignment, Meta-Learning Guidance, Multi-modal Medical Imaging},
+abstract = {Deep learning-based image synthesis for medical imaging is currently an active research topic with various clinically relevant applications. Recently, methods allowing training with misaligned data have started to emerge, yet current solution lack robustness and cannot handle other corruptions in the dataset. In this work, we propose a solution to this problem for training synthesis network for datasets affected by mis-registration, artifacts, and deformations. Our proposed method consists of three key innovations: meta-learning inspired re-weighting scheme to directly decrease the influence of corrupted instances in a mini-batch by assigning lower weights in the loss function, non-local feature-based loss function, and joint training of image synthesis network together with spatial transformer (STN)-based registration networks with specially designed regularization. Efficacy of our method is validated in a controlled synthetic scenario, as well as public dataset with such corruptions. This work introduces a new framework that may be applicable to challenging scenarios and other more difficult datasets.}
+}

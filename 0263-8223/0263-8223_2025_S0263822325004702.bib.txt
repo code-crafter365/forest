@@ -1,0 +1,13 @@
+@article{LI2025119305,
+title = {Response of fibre metal interpenetrating composite plate under impact loading: Experiment and numerical simulation},
+journal = {Composite Structures},
+volume = {368},
+pages = {119305},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119305},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004702},
+author = {Bo Li and Gang Ma and Guowei Zhuo and Kai Zhang and Long Ma},
+keywords = {Dynamic response, 3D interpenetrating phase, Damage mechanism, Energy absorption, Finite element simulation},
+abstract = {Fiber Metal Laminates (FML) have excellent mechanical properties and impact resistance, making them widely used in modern engineering fields such as aerospace, vehicle, and shipbuilding. However, the susceptibility to delamination damage is a major disadvantage of FML. In this study, carbon/aramid fibres were combined with a perforated metal matrix in a 3D interpenetrating manner to prepare the Fibre Metal Interpenetrating Composite Plate (FMICP) with excellent interlayer integrity. An impact experiment was carried out on an FMICP sample. Combined with finite element analysis, the analysis was carried out with the aim of investigating the impact response and failure modes of the FMICP, with a focus on analysing the effects of the impact velocity, the area of the impact, and the style of the metal-based perforating on the energy-absorbing capacity of the sample. The results showed that the percentage of impact energy absorbed by different materials was ranked as metal layer, fibre layer, and resin layer. The shape of the perforation in the metal base changed the path and rate of impact stress transfer, with elliptical perforated metal bases having a better rate of energy transfer dissipation as well as energy storage capacity, followed by circular-rectangular, and rectangular being the worst.}
+}

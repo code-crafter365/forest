@@ -1,0 +1,13 @@
+@article{RODE2025115034,
+title = {Enhancing oral bioavailability of pazopanib via co-amorphous system: Formulation, characterization, pharmacokinetics and toxicity evaluation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115034},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115034},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005417},
+author = {Khushi Rode and Indrani Maji and Anish Dhuri and Bharath Manoharan and Tanmoy Kanp and Ezhilmathe Athavan and Sharon Munagalasetty and Hara Prasad Padhy and Chandraiah Godugu and Vasundhra Bhandari and Pankaj Kumar Singh},
+keywords = {Pazopanib, Naringin, Co-amorphous system, Molecular docking, Pharmacokinetic profile},
+abstract = {Pazopanib (PZ) is an oral tyrosine kinase inhibitor and the first line of treatment for patients with renal cell carcinoma. The low solubility, poor bioavailability, and high hepatotoxicity of PZ hamper its potential use. The present research aims to improve the bioavailability and reduce hepatotoxicity of PZ by fabricating a co-amorphous system (CAM) using naringin (NGN) to form Pazopanib Naringin Co-amorphous system (PZ-NGN-CAM). NGN was used as a co-former as it is a natural flavonoid and was anticipated to have subsequent improvement in solubility and permeability due to its superior glass-forming ability and P-gp inhibition potential. The potential of NGN for forming CAM with PZ was confirmed by molecular docking and PXRD studies. The amorphous nature of developed PZ-NGN-CAM was confirmed by solid-state characterization studies involving DSC, PXRD, FTIR, and SEM. Moreover, the solubility of PZ-NGN-CAM was enhanced by 2.87-fold at pH 6.8 and 1.85-fold at pH 1.2 compared to PZ. The 1H NMR and 2D NOESY revealed a significant correlation between the NH2 of PZ and the phenolic hydroxyl protons of NGN, suggesting strong intermolecular interactions existed. The in-vitro dissolution study demonstrated rapid release of PZ-NGN-CAM, yielding 104 ± 6.9 % release at pH 6.8 (360 min) and 126 ± 1.7 % release at pH 1.2 (120 min). A 2.23-fold enhancement was seen in PZ-NGN-CAM's apparent permeability (Papp). The in-vivo pharmacokinetic study showed a 1.26-fold improvement in the bioavailability of PZ-NGN-CAM. Furthermore, the acute toxicity study demonstrated an enhanced hepatoprotective effect, which indicated that the developed PZ-NGN-CAM could be a better alternative for improving the solubility and bioavailability of PZ.}
+}

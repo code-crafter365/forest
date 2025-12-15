@@ -1,0 +1,13 @@
+@article{SHUMUYE2025119051,
+title = {Impact of nano zinc oxide and preloading on the distribution of pores and cracks in engineered geopolymer composites},
+journal = {Composite Structures},
+volume = {360},
+pages = {119051},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119051},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002168},
+author = {Eskinder Desta Shumuye and Chenxi Liu and Saeid Mehrpay and Biqin Dong and Guohao Fang and Zike Wang},
+keywords = {Strain measurements, Pores, Image correlation, XCT, DVC, Mechanical properties},
+abstract = {This paper introduces a streamlined method for assessing porosity in engineered geopolymer composite (EGC) materials, with and without nanoparticles doping, under varying loading conditions. Using a combination of X-ray computed tomography (XCT) and mercury intrusion porosimetry (MIP), the proposed approach simplifies the analysis by leveraging basic features of commercial software, avoiding the need for complex image processing or MIP. Additionally, digital volume correlation (DVC) is employed to assess stress distribution in the composite samples after loading. The study demonstrates the multi-scale capabilities of XCT by scanning samples at different resolutions and loading stages, providing a comprehensive view of material behavior. The study also explores the impact of zinc oxide (ZnO) nanoparticles on the mechanical properties of EGC. The results show that an optimal ZnO content of 1.5 % enhances the composite’s compressive strength (103.8 MPa), tensile strength (8.38 MPa), and tensile strain capacity (8.1 %). The pore structure is significantly influenced by preloading stages and factors such as fiber orientation and nanoparticle dispersion. DVC and volumetric strain analysis reveal that higher loading amounts reduce pore volume due to improved particle packing and pore refinement. This highlights the potential of XCT as a simple, cost-effective tool for porosity analysis, providing an efficient alternative to labor-intensive methods and offering significant environmental benefits.}
+}

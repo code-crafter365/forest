@@ -1,0 +1,13 @@
+@article{LIANG2025114267,
+title = {Novel targeting liposomes with enhanced endosomal escape for co-delivery of doxorubicin and curcumin},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114267},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114267},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005265},
+author = {Ju Liang and Ying Liang and Fuqing Yan and Mengyi Zhang and Wenlan Wu},
+keywords = {Liposomes, Co-delivery, Endosomal escape, Glycyrrhetinic acid, Hepatocellular carcinoma},
+abstract = {Effective endosomal escape is crucial for enhancing the efficiency of nanodrug delivery systems. In this study, we developed a novel liposomal system utilizing acid-sensitive N-(3-amino-propyl) imidazole cholesterol (IM-Chol), specifically designed for the targeted co-delivery of doxorubicin (DOX) and curcumin (CUR) to hepatocellular carcinoma (HCC). Designated as GA-IM-LIP@DOX/CUR, this liposomal system incorporates glycyrrhetinic acid (GA) to improve target specificity toward HCC cells. Notably, both drugs exhibited pH-sensitive release profiles, facilitating precise drug release within acidic environments. Our investigation into cellular uptake demonstrated that modified liposomes, GA-IM-LIP@FITC and IM-LIP@FITC, achieved progressively enhanced intracellular accumulation of FITC compared to unmodified liposomes. Competitive inhibition assays utilizing free GA further validated the targeting efficacy of GA. Moreover, the GA-IM-LIP@FITC and IM-LIP@FITC groups exhibited rapid endosomal escape of FITC within the first two hours, in contrast to delayed escape observed in the LIP@FITC group, confirming that the protonation of IM-Chol promotes drug release into the cytosol. In vivo studies substantiated that GA-IM-LIP@DOX/CUR effectively inhibited tumor growth. This research provides significant insights into the design and functionality of the GA-IM-LIP@DOX/CUR liposomal system, underscoring its potential to enhance drug delivery strategies in the treatment of HCC.}
+}

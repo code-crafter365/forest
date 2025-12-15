@@ -1,0 +1,13 @@
+@article{YUAN2025119563,
+title = {Local failure analysis of ring-stiffened composite hulls under hydrostatic pressure},
+journal = {Composite Structures},
+volume = {372},
+pages = {119563},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119563},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007287},
+author = {Kaifeng Yuan and Zhenmeng Xia and Linzhi Wu},
+keywords = {Ring-stiffened composite hulls, Hydrostatic pressure, Local failure, Imperfection sensitivity},
+abstract = {In this paper, ring-stiffened composite hulls (RSCHs) exhibiting local failure characteristics were theoretically designed and hydrostatically tested. Nevertheless, experimental results revealed that the ultimate load predicted solely by linear elastic theory exceeded the actual failure load by at least 1.57 times. Numerical methods considering were used to explore the reasons for this difference, Specifically, based on the randomness of the measured imperfections, the perturbation load method was selected to verify the failure load of RSCHs. Furthermore, to account for multi-mode buckling phenomena, a coupled mode imperfection (CMI) method incorporating higher-order mode imperfections was proposed. Through appropriate setting of imperfection amplitudes and coupling orders, this method has achieved good forecasting. Unlike the progressive damage process caused by buckling deformation in an unstiffened composite hull (USCH), RSCHs with equivalent skin thickness first reached strength limits in local regions. Structural buckling then occurred in these regions due to material stiffness degradation, ultimately leading to abrupt implosion from excessive radial deformation. Imperfection sensitivity of both RSCHs and USCH, along with the length dependence of the knockdown factor (KDF) for USCH, were also quantitatively investigated. This work can provide a basis to accurately predict the load-carrying capacity of stiffened hulls in engineering applications.}
+}

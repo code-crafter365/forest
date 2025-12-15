@@ -1,0 +1,13 @@
+@article{BERA2025115053,
+title = {Unlocking the potential of lipid nanoparticles for enhanced glioma therapy: Recent advancements and future perspectives},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115053},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115053},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005600},
+author = {Shiuli Bera and Shayeri Chatterjee Ganguly and Priya Manna and Moumita Kundu},
+keywords = {Lipid nanoparticles, Enhanced therapy, Glioma, Blood-brain barrier, Central nervous system},
+abstract = {The most prevalent malignant CNS tumor is glioma, which exhibits a poor survival rate due to several limitations in its successful therapy. The existence of the blood-brain barrier, tumor heterogeneity, complex tumor microenvironment, and glioma stem cells are significant challenges in glioma therapy. This review article provides insight into the major hurdles of glioma therapy. The article's primary focus is to explore lipid nanocarriers' potential role in overcoming these glioma therapy hurdles. Various types of lipid nano-systems have been discussed here. Moreover, this article explains the promise of smart lipid nanoparticles in successful glioma therapy. It also reviews the advanced applications of lipid nanocarriers in glioma, including brain-specific drug delivery, overcoming chemoresistance, radioresistance, and immunotherapy resistance, combined therapy with photodynamic therapy and hyperthermia. This article also highlights the current status of the clinical application of lipid nanoparticles in glioma treatment, emphasizing the need for research in this field to achieve improved therapeutic outcomes for glioma patients.}
+}

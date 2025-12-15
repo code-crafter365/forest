@@ -1,0 +1,12 @@
+@article{XU2025119839,
+title = {A critical review on numerical modeling of cutting-induced damages for CFRP composites},
+journal = {Composite Structures},
+pages = {119839},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119839},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010049},
+author = {Jinyang Xu and S. Samsudeensadham and Anand Prakash Jaiswal and Gergely Magyar and Tamás Lukács and Norbert Geier and Vijayan Krishnaraj and Jiaxin Shen and Zhe Shi and Ming Chen},
+keywords = {CFRP cutting, Numerical modeling, FE simulation, Failure criteria, Cutting damages},
+abstract = {Machining carbon fiber reinforced polymers (CFRPs) is facing huge challenges due to the generation of crucial damages, posing a fatal impact on structural performance and accuracy. To date, numerous studies have been performed to address the damage issues associated with cutting CFRPs through experimental and numerical ways. However, no review articles are reported so far to summarize the state-of-the-art advances achieved in the numerical modeling of cutting-induced damages for CFRPs. To fill this gap, this paper firstly overviews the fundamental characteristics of cutting-induced damages for CFRPs and then summarizes the potential numerical methods applied for CFRP machining. A particular focus is placed on detailing progress of the constitutive models, failure criteria, definition of tool-chip interaction and frictional behavior for CFRP machining. Moreover, a rigorous literature survey was conducted to report the recent advances in the modeling of orthogonal cutting damages and drilling-induced damages for CFRP composites. The thermo-mechanical effects and parametric effects on the cutting-induced damages as well as the numerical quantification/assessment are illustrated. Eventually, the future perspectives concerning the numerical prediction and estimation of cutting-induced damages for CFRPs are outlined. The paper can benefit both academia and industry to realize damage-free cutting of CFRP composites.}
+}

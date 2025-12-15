@@ -1,0 +1,13 @@
+@article{ZHANG2025117952,
+title = {AEK-MFIS: An adaptive ensemble of Kriging models based on multi-fidelity simulations and importance sampling for small failure probabilities},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117952},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117952},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002245},
+author = {Wei Zhang and Zhonglai Wang and Haoyu Wang and Zhangwei Li and Yunfei Wang and Ziyi Zhao},
+keywords = {Reliability analysis, Small failure probability, Ensemble of Kriging models, Active learning function, Stopping criterion},
+abstract = {The reliability analysis methods based on the surrogate model significantly reduce the number of true performance function calls. However, existing reliability analysis methods ignore Low-Fidelity (LF) information in the assessment of reliability analysis, which consequently leads to the difficulty in efficiently and accurately estimating the small failure probabilities with time-consuming High-Fidelity (HF) finite element simulation. To address this challenge, a novel reliability analysis named AEK-MFIS is presented in this paper, which aims at reducing the times of HF simulation calls while providing the accurate estimation result for small failure probabilities. The proposed AEK-MFIS comprises the following strategies: (1) based on the Kalman Filter (KF) and Multi-Fidelity (MF) Kriging model, a novel ensemble of Kriging (EK) models is introduced to fuse information from different fidelities; (2) to select the best points in a more accurate and efficient way, a novel active learning function named Global Error-based Active Learning Function (GEALF) is presented; (3) a new stopping criterion is constructed based on the EK prediction, which aims at avoiding the pre-mature or late-mature for evaluating the small failure probabilities. Six examples involving two numerical and four engineering examples are introduced to elaborate and validate the effectiveness of the proposed method for estimating the small failure probabilities.}
+}

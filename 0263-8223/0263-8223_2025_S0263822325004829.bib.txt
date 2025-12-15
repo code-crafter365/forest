@@ -1,0 +1,13 @@
+@article{ZHOU2025119317,
+title = {Bond behavior of CFRP-concrete bonded joints with randomly distributed defects: Experimental and numerical studies},
+journal = {Composite Structures},
+volume = {369},
+pages = {119317},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119317},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004829},
+author = {Hao Zhou and Caijin Yi and Yan Yang and Ya Ou and Ningbo Wang},
+keywords = {Bond Behavior, CFRP-Concrete, Random Interfacial Defects, Fracture Energy},
+abstract = {Externally bonded (EB) carbon fiber reinforced polymers (CFRP) have been widely used in strengthening reinforced concrete (RC) structures. However, the CFRP-concrete interface is prone to exhibit randomly distributed defects caused by improper bonding during the installation or interface deterioration caused by external loads during service life. This paper presents experimental and numerical studies aiming at investigating the effect of randomly distributed interfacial defects on the bond behavior of CFRP-concrete bonded joints. A total of 9 specimens considering 3 interfacial defects patterns with random sizes and positions were tested using a single-shear pull-off test. Then the failure mode, load–displacement curves and strain distribution on the CFRP laminate were analyzed and compared with 3 reference specimens. Besides, finite element analysis employing nonlinear spring element and concrete damage plasticity are attempted to investigate effect of interfacial defects on the bond behavior. Results showed that with the considered randomly distributed defects, the load-carrying and ultimate displacement of the bonded joints can be as much as 54.20% and 45.29% higher than that of bonded joints without defects. Such increases might be attributed to the deeper fracture surface that cutting more coarse aggregates within the concrete substrate, which cannot be simulated with the presented FEAs.}
+}

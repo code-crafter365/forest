@@ -1,0 +1,13 @@
+@article{JIANG2025102596,
+title = {SNA-SKAN: Unpaired learning for SDOCT speckle noise removal based on self noise assist and kolmogorov-arnold network},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102596},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102596},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001053},
+author = {Zhencun Jiang and Kangrui Ren and Zixiong Hao and Zhongjie Wang},
+keywords = {Optical coherence tomography, Unpaired learning, Image denoising, KAN, GAN},
+abstract = {Optical Coherence Tomography (OCT) will inevitably be contaminated by speckle noise when imaging, resulting in a decrease in the visual quality of images and affecting clinical diagnosis. Existing unsupervised denoising methods often rely on complex model architectures or extensive data preprocessing. This paper proposes an unpaired Spectral-Domain OCT (SDOCT) denoising framework named SNA-SKAN. The Self Noise Assist (SNA) module leverages wavelet transform and singular value decomposition to extract noise components directly from noisy OCT images. These components are then fused into a new noise representation, which guides the neural network in effectively learning speckle noise patterns. Furthermore, to more effectively model speckle noise in OCT images, this paper exploits the Kolmogorov-Arnold Network (KAN) for its superior capacity to represent complex distributions, and proposes a KAN-based speckle noise generation network (SKAN). The SNA-SKAN framework is built upon the Generative Adversarial Network (GAN) architecture, employing a single generator and a single discriminator. Extensive experiments conducted on an unpaired public dataset for training and two public datasets for evaluation demonstrate that the proposed method outperforms existing unsupervised methods and state-of-the-art unpaired methods, in terms of denoising capability and detail preservation. SNA-SKAN can achieve efficient OCT denoising while preserving edges and details, demonstrating strong potential to meet clinical needs. The code is publicly available at: https://github.com/zhencunjiang/SNA-SKAN.}
+}

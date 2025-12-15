@@ -1,0 +1,13 @@
+@article{MENON2025118403,
+title = {Anant-Net: Breaking the curse of dimensionality with scalable and interpretable neural surrogate for high-dimensional PDEs},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118403},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118403},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006759},
+author = {Sidharth S. Menon and Ameya D. Jagtap},
+keywords = {High-dimensional PDEs, Scalable and interpretable architecture, Physics-informed neural surrogates, Kolmogorov-arnold networks (KAN)},
+abstract = {High-dimensional partial differential equations (PDEs) arise in diverse scientific and engineering applications but remain computationally intractable due to the curse of dimensionality. Traditional numerical methods struggle with the exponential growth in computational complexity, particularly on hypercubic domains, where the number of required collocation points increases rapidly with dimensionality. Here, we introduce Anant-Net, an efficient neural surrogate that overcomes this challenge, enabling the solution of PDEs in high dimensions. Unlike hyperspheres, where the internal volume diminishes as dimensionality increases, hypercubes retain or expand their volume (for unit or larger length), making high-dimensional computations significantly more demanding. Anant-Net efficiently incorporates high-dimensional boundary conditions and minimizes the PDE residual at high-dimensional collocation points. To enhance interpretability, we integrate Kolmogorov-Arnold networks into the Anant-Net architecture. We benchmark Anant-Net’s performance on several linear and nonlinear high-dimensional equations, including the Poisson, Sine-Gordon, and Allen-Cahn equations, as well as transient heat equations, demonstrating high accuracy and robustness across randomly sampled test points from high-dimensional spaces. Importantly, Anant-Net achieves these results with remarkable efficiency, solving 300-dimensional problems on a single GPU within a few hours. We also compare Anant-Net’s results for accuracy and runtime with other state-of-the-art methods. Our findings establish Anant-Net as an accurate, interpretable, and scalable framework for efficiently solving high-dimensional PDEs. The Anant-Net code is available at https://github.com/ParamIntelligence/Anant-Net.}
+}

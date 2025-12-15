@@ -1,0 +1,13 @@
+@article{REN2025119194,
+title = {Machine learning based on finite element method to predict engineering constants of weft plain knitted composites},
+journal = {Composite Structures},
+volume = {365},
+pages = {119194},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119194},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003599},
+author = {Haipeng Ren and Jiale Liu and Yang Liu and Xungai Wang},
+keywords = {Knitted composites, Machine learning, Multiscale FEM model, Engineering constants, SHAP analysis},
+abstract = {Knitted-fabric reinforced polymer composites have become an important member of modern engineering materials due to their high flexibility, high strength, lightweight and good damage tolerance. However, the elastic properties of knitted composites are affected by the complex geometry of the knitted fabric, the type of material and the knitting process. Conventional calculation methods for obtaining elastic properties of knitted composites based on a large number of experiments are time-consuming and labour-intensive. In this study of weft plain knitted composites, the finite element method (FEM) and machine learning (ML) were used jointly to replace the conventional computational models. Different weft plain knitted fabric geometrical features were pre-obtained by Pycatia and Catia, and a database of engineering constants for weft plain knitted composites was obtained based on finite element multiscale analysis. Then three machine learning models (SVR, RF, ANN) were trained to predict the engineering constants of weft plain knitted composites and the effect of input features on elastic properties was investigated based on SHAP (Shapley Additive exPlanations) analysis. Mechanical tests were also performed to verify the accuracy of the machine-learning models. The results show that the R2 of all three machine learning models was higher than 0.98 and the predicted values were highly consistent with the experimental values. This study provided an accurate and efficient method for predicting the engineering constants of weft plain knitted composites, which will help in the design and optimization of advanced composites.}
+}

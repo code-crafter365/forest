@@ -1,0 +1,13 @@
+@article{ZENG2025109221,
+title = {Poly(Ionic Liquid) matrices embedded with liquid metal particles: A versatile solution for high-power density thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109221},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109221},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005159},
+author = {Jianhui Zeng and Taoying Rao and Ting Liang and Yimin Yao and Chaoyang Wang and Jian-Bin Xu and Liejun Li and Rong Sun},
+keywords = {Thermal interface material, Polymer composite, Poly(ionic liquid), Liquid metal},
+abstract = {Amid the global surge in generative AI and the resulting compute revolution, thermal management has emerged to be a pivotal determinant of its success. Innovation in thermal interface materials (TIMs) now represents a strategic frontier in shaping the trajectory of the Fourth Industrial Revolution. Conventional silicone-based TIMs face a performance dilemma comprising thermal cycling-induced interfacial delamination, aging-related increases in interfacial thermal resistance. Building on previous work that introduced poly(ionic liquid)s (PILs) as a novel alternative to silicones, this study further optimizes the molecular structure of PILs. Incorporation of ethoxy groups significantly enhances the mechanical compliance of PIL while maintaining high adhesion strength. Robust hydrogen bonding between ethoxy groups in PIL and liquid metal enables a high loading of 82 vol% without leakage, achieving a thermal conductivity of nearly 5 W m−1 K−1. Meanwhile, strong interfacial adhesion yields a interface contact thermal resistance of 0.74 ± 0.12 × 10-6 m2·K/W between the PIL/LM composite and Si, lower than that of silicone-based TIMs. The noncovalent self-healing of the PIL matrix effectively prevents crack formation in TIMs during aging. This work advances the application of PILs in TIMs and provides strategies for performance optimization, paving the way for their practical deployment as viable matrix alternatives.}
+}

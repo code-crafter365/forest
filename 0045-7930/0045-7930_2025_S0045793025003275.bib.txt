@@ -1,0 +1,13 @@
+@article{GU2025106867,
+title = {JS-type and Z-type weights for fourth-order central-upwind weighted essentially non-oscillatory schemes},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106867},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106867},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003275},
+author = {Jiaxi Gu and Xinjuan Chen and Kwanghyuk Park and Jae-Hun Jung},
+keywords = {Weighted essentially non-oscillatory scheme, Central-upwind, Smoothness indicators, Downwind substencil},
+abstract = {The central-upwind weighted essentially non-oscillatory (WENO) scheme introduces the downwind substencil to reconstruct the numerical flux, where the smoothness indicator for the downwind substencil is of critical importance in maintaining high order in smooth regions and preserving the essentially non-oscillatory behavior in shock capturing. In this study, we design the smoothness indicator for the downwind substencil by simply summing up all local smoothness indicators and taking the average, which includes the regularity information of the whole stencil. Accordingly the JS-type and Z-type nonlinear weights, based on simple local smoothness indicators, are developed for the fourth-order central-upwind WENO scheme. The accuracy, robustness, and high-resolution properties of our proposed schemes are demonstrated in a variety of one- and two-dimensional problems.}
+}

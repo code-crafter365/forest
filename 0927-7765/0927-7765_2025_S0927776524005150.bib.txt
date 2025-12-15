@@ -1,0 +1,13 @@
+@article{JIAOJIAO2025114256,
+title = {Ultrasound assisted enzymatic synthesis of OPO structured lipids bycovalent organic framework immobilizedlipase},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114256},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114256},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005150},
+author = {Xia Jiaojiao and Feng Ting and Suo Hongbo and Yan Lishi and Zou Bin},
+keywords = {Lipase, Immobilized enzyme, Ultrasonic treatment, 1, 3-dioleoyl-2-palmitoylglycerol},
+abstract = {In this study, the covalent organic framework immobilized Rhizomucor miehie lipase COF@RML as a novel biocatalyst was applied in the enzymatic synthesis of OPO structured lipids (1, 3-dioleoyl-2-palmitoylglycerol). The impact of reaction medium, substrate molar ratio, enzyme addition amount, reaction time and temperature on the enzymatic synthesis of OPO structured lipids were studied. Furthermore, the effects of ultrasonic power and ultrasonic time on the synthesis of OPO structural lipids were studied. The results showed that ultrasonication could increase the yeild of OPO structured lipids by improving substrate mass transfer and enzyme particle dispersion. The optimal process for the synthesis of OPO structured lipids was obtained. When the ultrasonic power was set at 90 W, ultrasonic time at 12 minutes, enzyme addition amount at 10 wt%, substrate molar ratio at 1:8, reaction temperature at 45 °C, and reaction time at 6 hours, the yield of OPO structured lipids reached a remarkable 51.27 %. Finally, the commercial lipase Lipozyme RM IM was compared with the COF@RML. The findings indicated that COF@RML immobilized enzyme had better application value in the synthesis of OPO structured lipids.}
+}

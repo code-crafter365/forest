@@ -1,0 +1,13 @@
+@article{YAMAMOTO2025108536,
+title = {Fused filament fabrication and mechanical characterization of hybrid reinforced polypropylene composites with talc fillers and cellulose nanofibers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108536},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108536},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005347},
+author = {Tatsuto Yamamoto and Chao Luo and Kouta Ide and Kenji Aoki and Yang-Kai Jian and Yu-Hsi Huang and Yasutomo Uetsuji},
+keywords = {3D printing, Polypropylene, Cellulose nanofiber, Multiscale FEA},
+abstract = {Hybrid reinforced composites with talc fillers and cellulose nanofibers (CNFs) were proposed as a new fused filament fabrication for polypropylene (PP). The effect of filler addition was clarified by experiments and multiscale finite element method (FEM). PP filaments with talc and CNF dispersion were fabricated using maleic anhydride-modified PP. Mechanical properties of printed PP composites were clarified by tensile tests and micro-ball impact tests. The experimentals were in good agreement with the multiscale FEM developed through three-step homogenization. The effects of voids due to poor filling and interfaces between solidified filaments formed by printing were quantified, and the mechanism of property degradation was elucidated. The multiscale FEM indicated that the Young’s modulus and maximum stress had a good linearity with talc content. It was suggested that this linear relationship can be used for efficient design of hybrid PP composites.}
+}

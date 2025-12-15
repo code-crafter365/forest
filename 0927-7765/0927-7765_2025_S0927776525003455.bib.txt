@@ -1,0 +1,20 @@
+@article{LI2025114838,
+title = {miR-126-loaded ZIF-8 nanoparticles as a dual-functional approach for accelerating vascularized bone regeneration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114838},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114838},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003455},
+author = {Long Li and Yuyang Zhang and Yujie Liu and Zetao Wang and Luyao Cheng and Yuhan Du and Yangyi Nie and Jing Long and Cairong Li and Yuanchi Zhang and Wei Zhang and Lin Yang and Yuxiao Lai},
+keywords = {MiRNA delivery, ZIF-8, Angiogenesis, Osteogenesis},
+abstract = {Background
+Bone defects pose a significant clinical challenge due to their high morbidity and long-term disability. Simultaneous enhancement of osteogenesis and angiogenesis holds promise for accelerating bone regeneration. MicroRNAs (miRNAs), particularly miR-126, are critical regulators of angiogenesis; however, their therapeutic application requires efficient delivery systems. Designing miRNA carriers with intrinsic osteogenic activity remains a pivotal yet underexplored strategy.
+Methods
+Zeolitic imidazolate framework-8 (ZIF-8) was developed as a nanocarrier to deliver proangiogenic miR-126. The miR-126@ZIF-8 nanocomposites were synthesized via a one-pot method, and their physicochemical properties, miRNA loading efficiency, and cytotoxicity were systematically characterized. Cellular uptake, miR-126 release kinetics, and Zn2 + dissolution was evaluated in vitro. Angiogenic and osteogenic effects were assessed through gene expression analysis, capillary-like tube formation assays, and mineralization studies.
+Results and discussion
+The miR-126@ZIF-8 nanoparticles exhibited a high miRNA loading capacity, efficient cellular internalization, and minimal cytotoxicity. Upon intracellular delivery, the nanoparticles decomposed to release miR-126 and Zn2+, synergistically enhancing angiogenic (e.g., VEGF, HIF-1α) and osteogenic (e.g., RUNX2, OCN) gene expression. Functional assays demonstrated significant improvements in endothelial cell tube formation and osteoblast mineralization compared to controls.
+Conclusion
+Our work presents miR-126@ZIF-8 as a novel dual-functional platform that simultaneously promotes angiogenesis and osteogenesis. By combining the proangiogenic action of miR-126 with the osteoinductive potential of Zn2+, our nanocomposite offers a promising strategy for vascularized bone regeneration for the repair of bone defects.}
+}

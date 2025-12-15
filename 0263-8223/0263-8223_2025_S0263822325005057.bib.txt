@@ -1,0 +1,13 @@
+@article{GUO2025119340,
+title = {Effect of bushing installation speed on fatigue performance of composite open-hole laminates},
+journal = {Composite Structures},
+volume = {370},
+pages = {119340},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119340},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005057},
+author = {Yingjiang Guo and Zengqiang Cao and Lu Yan and Jiajun Li and Yuejie Cao and Guo Zheng and Jianping Qiu and Lubin Huo},
+keywords = {Carbon fiber reinforced polymer, Interference bushing, Installation speed, Fatigue life, Finite element analysis},
+abstract = {Interference bushings are commonly used to reinforce and repair open-hole CFRP (carbon fiber reinforced polymer) structures. This study examines the effect of bushing installation speed on the fatigue performance of composite structures. Quantitative control experiments were conducted across various installation speeds using a high-speed device designed to minimize inertial forces, followed by fatigue testing on the installed samples. Additionally, a three-dimensional finite element model was developed to simulate the bushing installation, accounting for strain rate effects and the progressive damage modes of CFRP laminates. The results show that, within the studied installation speed range, the fatigue life of CFRP open-hole laminates improves as installation speed increases. Higher installation speeds result in lower installation resistance and more uniform bushing expansion, which collectively reduce interference damage around the holes in CFRP specimens. Consequently, less damage correlates with an extended fatigue life.}
+}

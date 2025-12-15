@@ -1,0 +1,13 @@
+@article{KELIDARI2025114939,
+title = {Preparation and therapeutic implications of essential oil-based nanoemulsions: A review},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114939},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114939},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004461},
+author = {Mohammad Kelidari and Zohreh Abdi-Moghadam and Tahmineh Esfandiari Sabzevar and Mohammad Khajenouri and Abolfazl Shakeri},
+keywords = {Nanoemulsions, Essential oils, Oregano, Thyme, Eucalyptus},
+abstract = {Essential oils (EOs) possess significant therapeutic potential, but their clinical and industrial applications are hindered by low water solubility, volatility, and instability. Nanoemulsion-based formulations have emerged as promising delivery systems to overcome these limitations. This review provides an updated overview of the preparation strategies—including high-energy and low-energy methods—used for EO nanoemulsions, with a focus on their physicochemical characteristics and biological activities such as antioxidant, antimicrobial, antifungal, and anti-inflammatory effects. Specific applications of nanoemulsions formulated with EOs from Origanum, Thymus, Mentha, and Eucalyptus species are discussed. Moreover, challenges in clinical translation, safety, and regulatory considerations are highlighted. Comparative insights into different EO types and preparation methods are also summarized, offering a mechanistic understanding of their therapeutic potential. Future studies are needed to evaluate long-term toxicity, optimize formulation scalability, and explore clinical applications of EO nanoemulsions in targeted drug delivery.}
+}

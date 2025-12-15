@@ -1,0 +1,13 @@
+@article{SEN2025118958,
+title = {Influence of geometry on in-plane and out-of-plane wave propagation of 2D hexagonal and re-entrant lattices},
+journal = {Composite Structures},
+volume = {359},
+pages = {118958},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118958},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001230},
+author = {Somraj Sen and Arindam Das and Indrajit Pahari and Arnab Banerjee},
+keywords = {2D metamaterial, Hexagonal and re-entrant lattice grid, Spectral element method, Wave propagation, Group velocity and directivity of wave, Roton-like dispersion},
+abstract = {The evaluation of the dispersion characteristics, including iso-frequency contours, group velocity maps, and directivity plots, are presented for 2D periodic lattices with varying internal angles. This study delves into the wave propagation behavior of various lattices to understand the emergence of wave directionality through variations in geometry, particularly internal angles, considering both in-plane and out-of-plane deformations. The spectral element formulation is used to model each lattice member considering space frame elements. The Bloch–Floquet theorem is employed to establish the dispersion relationships after defining the periodicity of unit cells. Detailed analysis manifests that isofrequency contours become more concave as internal angles decrease, indicating high directionality in re-entrant lattices. This is confirmed by directivity plots and group velocity maps. Modes, namely axial, flexural, and torsional modes are identified for the regular hexagonal lattice. Further, Dirac cones are observed for the hexagonal lattice. Notably, a directional roton-like phenomenon is discovered, displaying both negative and positive group velocities for specific wave packets. These findings have potential applications for wave manipulation and control, particularly in acoustics and vibration control.}
+}

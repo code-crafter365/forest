@@ -1,0 +1,13 @@
+@article{ZHANG2025102531,
+title = {SpineMamba: Enhancing 3D spinal segmentation in clinical imaging through residual visual Mamba layers and shape priors},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102531},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102531},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000400},
+author = {Zhiqing Zhang and Tianyong Liu and Guojia Fan and Na Li and Bin Li and Yao Pu and Qianjin Feng and Shoujun Zhou},
+keywords = {3D spinal segmentation, Mamba layer, Shape prior module, Multi-modality},
+abstract = {Accurate segmentation of three-dimensional (3D) clinical medical images is critical for the diagnosis and treatment of spinal diseases. However, the complexity of spinal anatomy and the inherent uncertainties of current imaging technologies pose significant challenges for the semantic segmentation of spinal images. Although convolutional neural networks (CNNs) and Transformer-based models have achieved remarkable progress in spinal segmentation, their limitations in modeling long-range dependencies hinder further improvements in segmentation accuracy. To address these challenges, we propose a novel framework, SpineMamba, which incorporates a residual visual Mamba layer capable of effectively capturing and modeling the deep semantic features and long-range spatial dependencies in 3D spinal data. To further enhance the structural semantic understanding of the vertebrae, we also propose a novel spinal shape prior module that captures specific anatomical information about the spine from medical images, significantly enhancing the model’s ability to extract structural semantic information of the vertebrae. Extensive comparative and ablation experiments across three datasets demonstrate that SpineMamba outperforms existing state-of-the-art models. On two computed tomography (CT) datasets, the average Dice similarity coefficients achieved are 94.40±4% and 88.28±3%, respectively, while on a magnetic resonance (MR) dataset, the model achieves a Dice score of 86.95±10%. Notably, SpineMamba surpasses the widely recognized nnU-Net in segmentation accuracy, with a maximum improvement of 3.63 percentage points. These results highlight the precision, robustness, and exceptional generalization capability of SpineMamba.}
+}

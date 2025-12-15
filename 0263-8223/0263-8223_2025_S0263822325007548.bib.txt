@@ -1,0 +1,13 @@
+@article{WANG2025119589,
+title = {A reliable framework for assessing the impact resistance and post-impact damage tolerance of 3D hybrid composites against high-energy fragments and hailstones},
+journal = {Composite Structures},
+volume = {372},
+pages = {119589},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119589},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007548},
+author = {Ke Wang and Farid Taheri},
+keywords = {3DFML, 3D hybrid composites, Fabrication method, Impact resistance, Compression after impact, Damage tolerance, Numerical simulation, Finite element, Analytical method},
+abstract = {The feasibility of using a recently developed 3D Hybrid Composite for aircraft applications is numerically investigated using the Smoothed Particle Hydrodynamics (SPH) method. The study focuses on assessing the impact resistance and damage tolerance of the composite under conditions specified by aerospace certification standards, including impacts from high-energy fragments and hailstones. The primary objective is to develop a robust, cost-effective, and reliable computational framework for predicting the ballistic limits and minimum Compression After Impact (CAI) load capacity of 3DHC materials during the design phase—thus reducing reliance on costly and time-consuming experiments. To this end, two practical tools are introduced: (1) a design chart for estimating ballistic limits of the novel 3DHC under various projectile types, and (2) an empirical method for quickly predicting the minimum CAI load capacity based on projectile and panel dimensions. These methods are validated against in-house experimental data. Results demonstrate that the combined approach offers engineers a fast and reasonably accurate means to evaluate the performance of 3DHC panels under critical impact scenarios relevant to aerospace structural design. Notably, simulations reveal that successive impacts from large hailstones can induce buckling-related degradation in CAI load-bearing capacity.}
+}

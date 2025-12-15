@@ -1,0 +1,13 @@
+@article{LEE2025118979,
+title = {Magnesium wire/polylactic acid composite degradation in in vitro condition and its effect on mechanical behaviour},
+journal = {Composite Structures},
+volume = {358},
+pages = {118979},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118979},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001448},
+author = {Ho Seok Lee and Jia-le Che and Seung-Hwan Chang},
+keywords = {Biodegradable composite, Magnesium (Mg) wire, Mechanical property degradation, Microscopic observation, Bone healing},
+abstract = {This study investigated the degradation behaviour of Mg wire/polylactic acid (PLA) composites used for healing bone fractures in the human body. Phytic acid (PA) was coated on Mg wires. Its effect on the corrosion resistance of biodegradable composite specimens was determined by immersing the composite in phosphate-buffered saline solution, which simulates an in vitro condition, for 1, 4, 7, 14, 21, 28, and 35 days. Correlations between the mass loss, PBS absorption, and mechanical property degradation rates were experimentally identified. It was experimentally verified that the phytic acid treatment of Mg wires successfully maintained the bending properties of Mg wire/PLA composite (77.1 ± 5.1 % and 58.4 ± 3.1 % for flexural modulus and strength relative to the intact specimen for 14 days, respectively) than those for the case of the virgin specimens, which had large reduction after 14 days of exposure. The material degradation mechanism was identified by correlating the experimental results with microscopic observations of specimen cross sections using scanning electron microscopy and energy-dispersive X-ray spectroscopy analyses according to the exposure time to the PBS solution.}
+}

@@ -1,0 +1,13 @@
+@article{SELVARAJ2025118816,
+title = {A localised continuum damage mechanics model for fibre failure in explicit integration},
+journal = {Composite Structures},
+volume = {355},
+pages = {118816},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118816},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009449},
+author = {Jagan Selvaraj and Timothee Chastel and Stephen R. Hallett},
+keywords = {Continuum Damage Mechanics, Finite Element Analysis, Polymer matrix composites},
+abstract = {In finite element analyses, Continuum Damage Mechanics (CDM) typically models failure by smearing the damage over the volume of each element. Although this works well when the mesh sizes are small and closer to size of the cracks, numerical accuracy of CDM at larger mesh sizes and length-scales is limited. For instance, fibre failure in laminated composite materials is accompanied by a large amount of energy release over a small volume and the numerical accuracy in modelling this localised phenomenon is tied to the spatial resolution of the mesh. To overcome this inherent mesh dependency in damage propagation, a localisation band is introduced within the continuum elements such that elastic and damage regions can be separated using kinematic enhancement, without modelling geometric discontinuities. This separation enables cracks to be modelled as localised features and thus the stress concentrations and damage propagation are modelled more accurately than conventional CDM. This framework is here combined with a higher-order continuum element such that improved predictions can be obtained for the damage initiation stress compared to linear elements. This combined method is demonstrated using Over-height Compact Tension (OCT) and Open-Hole Tensile (OHT) tests where the dominant mechanism is fibre failure. The results are compared against experiments as well as ply-level discrete crack models.}
+}

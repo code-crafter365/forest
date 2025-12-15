@@ -1,0 +1,13 @@
+@article{NI2025118817,
+title = {Shear stiffness model for an innovative Y-shaped connector with UHPC grout in composite structures},
+journal = {Composite Structures},
+volume = {354},
+pages = {118817},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118817},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009450},
+author = {Yulong Ni and Menghan Hu and Zhenlei Jia and Qiang Han},
+keywords = {Precast concrete deck panels (PCDPs), Y-shaped connector, Push-out tests, Shear performance, Shear stiffness model},
+abstract = {Precast concrete deck panels (PCDPs) with shear pockets offer several advantages to accelerate bridge construction. In this paper, a Y-shaped connector was proposed, which was placed intermittently in the ultra-high-performance concrete (UHPC) shear pockets of PCDPs in composite structures. To assess the shear behavior of the Y-shaped connector, push-out tests were performed by varying plate width and thickness, diameter of the penetrating rebar and perfobond hole, and type of grout. The load-slip curves, failure modes, strain analysis, and shear behaviors were investigated. Then, validated finite element (FE) models were established to investigate the relationship between the shear stiffness and number of perfobond holes. Finally, the shear stiffness model of the Y-shaped connector considering the end-bearing resistance of the UHPC was proposed. The test results show that the Y-shaped connector with UHPC grout has excellent shear performance compared to the specimen with normal concrete (NC) grout. The shear stiffness of the Y-shaped connector is greatly influenced by the effective width of the perfobond plate. The shear stiffness of the Y-shaped connector increases significantly with the number of perfobond holes. The analytical model has a precise prediction for the shear stiffness of the Y-shaped connector.}
+}

@@ -1,0 +1,13 @@
+@article{MALIK2025102494,
+title = {Efficient diagnosis of retinal disorders using dual-branch semi-supervised learning (DB-SSL): An enhanced multi-class classification approach},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102494},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102494},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000035},
+author = {Muhammad Hammad Malik and Zishuo Wan and Yu Gao and Da-Wei Ding},
+keywords = {Retinal disease diagnoses, Deep learning, Semi-supervised learning, Multi-class classification, Color fundus photography},
+abstract = {The early diagnosis of retinal disorders is essential in preventing permanent or partial blindness. Identifying these conditions promptly guarantees early treatment and prevents blindness. However, the challenge lies in accurately diagnosing these conditions, especially with limited labeled data. This study aims to enhance the diagnostic accuracy of retinal disorders using a novel Dual-Branch Semi-Supervised Learning (DB-SSL) approach that leverages both labeled and unlabeled data for multi-class classification of eye diseases. Employing Color Fundus Photography (CFP), our research integrates a Convolutional Neural Network (CNN) that integrates features from two parallel branches. This framework effectively handles the complexity of ocular imaging by utilizing self-training-based semi-supervised learning to explore relationships within unlabeled data. We propose and evaluate six CNN models: ResNet50, DenseNet121, MobileNetV2, EfficientNetB0, SqueezeNet1_0, and a hybrid of ResNet50 and MobileNetV2 on their ability to classify four key eye conditions: cataract, diabetic retinopathy, glaucoma, and normal, using a large, diverse OIH dataset containing 4217 fundus images. Among the evaluated models, ResNet50 emerged as the most accurate, achieving 93.14 % accuracy on unseen data. The model demonstrates robustness with a sensitivity of 93 % and specificity of 98.37 %, along with a precision and F1 Score of 93 % each, and a Cohen’s Kappa of 90.85 %. Additionally, it exhibits an AUC score of 97.75 % nearing perfection. Systematically removing certain components from the ResNet50 model further validates its efficacy. Our findings underscore the potential of advanced CNN architectures combined with semi-supervised learning in enhancing the accuracy of eye disease classification systems, particularly in resource-constrained environments where the procurement of large labeled datasets is challenging and expensive. This approach is well-suited for integration into Clinical Decision Support Systems (CDSS), providing valuable diagnostic assistance in real-world clinical settings.}
+}

@@ -1,0 +1,13 @@
+@article{DELPILARDEURQUIJOVENTURA2025118608,
+title = {Mode I delamination monitoring in carbon nanotubes-glass fiber/epoxy composites using simultaneous electrical self-sensing and acoustic emission techniques},
+journal = {Composite Structures},
+volume = {351},
+pages = {118608},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118608},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007360},
+author = {María {del Pilar de Urquijo-Ventura} and Julio {Alejandro Rodríguez-González} and Carlos Rubio-González},
+keywords = {Multiwall carbon nanotubes, Glass fiber reinforced polymer, mode I delamination, Electrical resistance, Acoustic emission},
+abstract = {The aim of this work is to demonstrate that simultaneous electrical resistance (ER) and acoustic emission (AE) techniques are a viable complementary procedures for in-situ mode I delamination monitoring of glass fiber/epoxy composite laminates containing multiwall carbon nanotubes (MWCNTs). The incorporation of MWCNTs was made by the spray-coating technique and composite laminates were manufactured by means of VARI process. The manufactured laminates were cut into double cantilever beam (DCB) specimens for fracture testing and simultaneous ER and AE measurements were carried out under mode I fracture loading condition. The results showed that the ER signal of the DCB specimens follows the load–displacement (P-δ) curve from initiation to growth of delamination failure, confirming the electrical self-sensing capability of the embedded MWCNT electrical network into the laminate. The correlation of AE events with the P-δ curves of the laminates with and without MWCNTs also allowed to detect the mode I delamination initiation and propagation. Although both the ER and AE techniques demonstrated their capability to determine mode I interlaminar fracture toughness and are in agreement with the results of ASTM standard, the presence of MWCNTs into laminates for self-sensing was more favorable since provided mechanical, electrical and sensing capabilities for SHM applications.}
+}

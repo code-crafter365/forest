@@ -1,0 +1,13 @@
+@article{LI2025119191,
+title = {Study on the nonlinear rolling behavior of small-scale thin-walled composite deployable structures},
+journal = {Composite Structures},
+volume = {364},
+pages = {119191},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119191},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003563},
+author = {Yuxin Li and Haitao Luo and Kuo Zhang and Teijun Wang and Changshuai Yu},
+keywords = {Solar Sail, Composite Booms, Thin-Walled Structure, Mechanical Behavior, Rolling Experiment},
+abstract = {In solar sail systems, achieving a high stowage-to-deployment ratio requires the use of ultrathin-walled booms to support expansive sail membranes, but these thin structures also introduce significant nonlinear behaviors during both deployment and rolling processes. This study investigates the mechanical behavior of small-scale thin-walled composite deployable structures (STWCDS) during the rolling process through a comprehensive approach that includes theoretical modeling, numerical simulations, and experimental validation. The theoretical model integrates conventional elastic strain definitions and cross-sectional geometries with additional nonlinear correction terms, accurately describing the transition from a flat configuration to a coiled state. Finite element simulations, considering geometric nonlinearities and contact interactions, were used to analyze maximum strain, strain energy, and stress distribution in both the upper and lower sections of the structure. Results indicate that the lower section consistently experiences higher maximum stress, making it more vulnerable to stress concentration and potential failure. Furthermore, the strain at the inflection points effectively captures the overall strain variation pattern, serving as a critical reference for design optimization. Experimental rolling tests on specimens measured strain values, demonstrating a strong correlation with theoretical and simulation predictions. This work thus provides essential insights for optimizing STWCDS in high-performance solar sail systems.}
+}

@@ -1,0 +1,13 @@
+@article{QIAN2025114251,
+title = {Antigenic peptide-tobacco mosaic virus conjugates as a fungal vaccine candidate},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114251},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114251},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005101},
+author = {Wei Qian and Jinzhao Ou and Jiaodan Jin and Kejia Li and Xiaoyan Ju and Meng Zhu and Ye Tian and Zhongwei Niu},
+keywords = {Conjugate vaccine, Tobacco mosaic virus, Antigenic peptides, Fungal infection},
+abstract = {Fungal infections are becoming an increasingly serious challenge in clinic due to the increase in drug resistance and the lack of anti-fungal drugs. Vaccination is a useful approach to prevent fungal infections. However, the balance between effectiveness and side effects presents a challenge in vaccine development. In this work, we designed a plant virus-based conjugate vaccine. The non-infectiveness and innate immunogenicity of plant viruses make this vaccine both safe and effective. By conjugating a fungal antigenic peptide to the tobacco mosaic virus (TMV), the resultant vaccine improved the uptake efficiency of antigenic peptides by antigen-presenting cells and enhanced the ability to target lymph nodes. The results of in vivo vaccination in mice showed a significant increase of antigen-specific IgG antibody levels induced by the TMV conjugate vaccine. This work suggests that TMV conjugate vaccines may become a potential vaccine candidate for preventing fungal infections.}
+}

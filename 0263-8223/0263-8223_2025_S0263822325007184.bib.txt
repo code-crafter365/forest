@@ -1,0 +1,13 @@
+@article{SONG2025119553,
+title = {Compression performance of warp-knitted flexible fabrics inspired by the bristle structure},
+journal = {Composite Structures},
+volume = {371},
+pages = {119553},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119553},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007184},
+author = {Wenxiang Song and Xiaotao Ma and Xiaofeng Yu and Chaoyu Chen and Zhijia Dong and Pibo Ma},
+keywords = {Warp-knitted spacer fabric, Compression property, Finite element analysis, Bristle structure fiber},
+abstract = {Biomimetic structural materials, as a new type of material developed based on biomimetic principles through studying and mimicking the unique structures or functions of organisms, are increasingly becoming the focus of extensive research due to their remarkable structural characteristics and exceptional performance. This study delves into the delicate bristle structure fibers found on the legs of bees, drawing inspiration from them to design and successfully fabricate two types of biomimetic bristle-structured warp-knitted fabrics, namely PFA and PFB. By conducting an in-depth analysis of the fine structures of these fabrics, we systematically quantify and evaluate their compressive properties and geometric transformations during compression using a combination of finite element simulations and experimental. Furthermore, comprehensive experimental studies were undertaken to investigate the characteristics of biomimetic bristle-structured fabrics across various compressive strains and strengths, encompassing compressive fatigue properties after enduring 1000 cycles under 20% strain, as well as their 24-hour compressive creep behavior under diverse strain conditions. By combining experimental with finite element analysis, we reveal the Von Mises stress distribution characteristics of the biomimetic bristle fibers during compression, providing significant support for understanding the compressive behavior and underlying mechanisms of the biomimetic bristle-structured fabrics. Finally, experiments validate the energy absorption characteristics of the biomimetic bristle-structured fabrics. This study not only significantly expands the application scope of biomimetic principles in the design of textile structural fabrics but also lays a solid foundation for further research on the energy absorption performance of biomimetic bristle structure warp-knitted fabrics.}
+}

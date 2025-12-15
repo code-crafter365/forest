@@ -1,0 +1,13 @@
+@article{SUN2025111159,
+title = {A novel strategy for designing high-performance self-healing polysiloxane-polyurea composites enhanced by dopamine-grafted cellulose nanofibers and Zn2+},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111159},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111159},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001277},
+author = {Nan Sun and Xi Ma and Bitun Wang and Jie Zheng and Xihua Wang and Zhiguo Li and Zengtao Chen and Yang Liu},
+keywords = {Cooperative effects, DA-CNF, Hydrogen bonds, Metal ion coordination bonds, Self-healing},
+abstract = {Inspired by natural mussels, a novel dopamine-grafted cellulose nanofiber (DA-CNF) functional filler and Zn2+ were incorporated into polysiloxane-polyurea to create advanced composites for Internet of Things applications. Through experimental characterization, molecular dynamics (MD) simulations and finite element (FE) analysis, we thoroughly investigated the mechanism by which DA-CNF and Zn2+ improve the mechanical and self-healing properties of the polymer. The innovative synergistic effect of extra-added dynamic hydrogen bonds and metal ion coordination bonds between the filler and matrix simultaneously enhanced mechanical strength and self-healing efficiency, overcoming the traditional trade-off problem in conventional polymers. The results showed that the tensile strength and healing efficiency of DA-CNF/PU@Zn2+ were 198.89 % and 104.77 % of the value of the control sample, respectively. This performance significantly surpasses that of previously reported self-healing polydimethylsiloxane-based materials. In the EMI shielding tests for Internet of Things applications, the conductive composite film fabricated with DA-CNF/PU@Zn2+ and silver nanowires (AgNWs) effectively addresses the issues of resource waste and device stability. These findings offer a new strategy for designing high-performance self-healing composite materials with significant potential for applications in electronics, aerospace, automotive and wearable devices.}
+}

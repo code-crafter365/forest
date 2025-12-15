@@ -1,0 +1,13 @@
+@article{PERMANA2025114416,
+title = {Iron-responsive nanoparticle-loaded bilayer dissolving microneedles for selective and controlled transdermal delivery of deferasirox in β-thalassemia major treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114416},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114416},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006751},
+author = {Andi Dian Permana and Sitti Nurkhadijah Maharani and Anugerah Yaumil Ramadhani Aziz and Indianty Dwi Ramadhany and Achmad Himawan and  Habibie and Rangga Meidianto Asri and Muhammad Nur Amir and Rina Masadah},
+keywords = {Deferasirox, ß-thalassemia major, Iron responsive nanoparticles, Dissolving microneedles},
+abstract = {Deferasirox (DFX) is widely used to manage β-thalassemia major (β-TM), but its oral administration is limited by low bioavailability and side effects. To address these challenges, we developed iron-responsive nanoparticles (NP-IR) of DFX using ferrocene as the iron-responsive material, incorporated into dissolving microneedles (DMN) for transdermal delivery. The NP-IR measured 276.67 ± 7.80 nm with an entrapment efficiency of 47.54 ± 3.68 %. FTIR analysis confirmed DFX incorporation, while reduced crystallinity suggested enhanced formulation. In vitro testing demonstrated controlled DFX release in the presence of iron, highlighting its targeted responsiveness. The DMN containing NP-IR, composed of polyvinyl pyrrolidone and polyvinyl alcohol, showed less than 10 % height reduction and successfully penetrated the fourth layer of Parafilm®, simulating human skin penetration. Ex vivo studies validated effective DFX delivery through rat skin with high iron selectivity, while in vivo experiments in an iron overload rat model revealed sustained, controlled release, outperforming oral administration and potentially ehancing DFX efficacy in β-TM treatment.}
+}

@@ -1,0 +1,13 @@
+@article{LAI2025119443,
+title = {Beetle elytra-inspired shear-stiffening warp-knitted spacer fabric composites with enhanced impact resistance},
+journal = {Composite Structures},
+volume = {370},
+pages = {119443},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119443},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006087},
+author = {Shuyu Lai and Chunyu Zhao and Liping Gong and Shuai Liu and Junjie Yang and Dongpeng Wang and Guilin Mei and Weihua Li and Xinglong Gong},
+keywords = {Fabric-reinforced composites, Shear-stiffening materials, Impact resistance, Bio-inspired design},
+abstract = {Fabric-reinforced composites are a class of advanced materials that integrate high-strength textile reinforcements within stretchable matrices to enhance mechanical performance. However, conventional reinforcements, such as fiber bundles or planar fabrics, have intrinsic structural limitations. These limitations reduce their effectiveness under complex impact loading, restricting their use in demanding engineering environments. Inspired by beetle elytra, a shear-stiffening gel (SSG) reinforced warp-knitted spacer fabric (WKSF) composite was developed to enhance interfacial bonding and improve impact resistance. The composite exhibits excellent performance under drop-hammer, penetrating, and ballistic impacts. To investigate the underlying mechanisms, Particle Image Velocimetry (PIV) was applied to visualize the backside velocity field during impact, offering direct insight into dynamic deformation. Additionally, a finite element model was established to simulate the non-penetrating impact response, enabling detailed analysis of stress distribution and energy dissipation in regions inaccessible to experiments. This work provides a transformative approach for the development of high-performance fabric composites, paving the way for the next generation of shear-stiffening materials in protective applications.}
+}

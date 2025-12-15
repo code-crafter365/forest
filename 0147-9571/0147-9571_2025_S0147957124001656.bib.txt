@@ -1,0 +1,13 @@
+@article{PARASANA2025102288,
+title = {Profiling of antimicrobial resistance genes from Staphylococcus pseudintermedius isolated from dogs with pyoderma using whole genome sequencing},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {116},
+pages = {102288},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102288},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957124001656},
+author = {D.K. Parasana and I.H. Kalyani and A.V. Kachchhi and P.G. Koringa and P.M. Makwana and D.R. Patel and U.V. Ramani and B.B. Javia and S.N. Ghodasara},
+keywords = {AMR, Methicillin resistance, MLST, Plasmid, , Whole genome sequencing},
+abstract = {Staphylococcus pseudintermedius is considered as a most common cause of canine pyoderma. Antimicrobial resistance is considered as a global public health concern. The main aim of the study was to evaluate the distribution of Antimicrobial resistance genes in S. pseudintermedius isolates using whole genome sequencing. In the current work, Antimicrobial susceptibility testing and Whole genome sequencing was performed on Five S. pseudintermedius isolates recovered from canine pyoderma cases presented at Veterinary Clinical Complex, Navsari. Bioinformatics analysis of sequencing data was performed to detect Antimicrobial resistance genes, plasmids and mobile genetic elements in S. pseudintermedius isolates. All S. pseudintermedius isolates shows resistance towards amikacin, ampicillin, cefpodoxime, cephalexin, erythromycin and trimethoprim. Higher sensitivity was observed against clindamycin (4/5, 80 %). A total 15 AMR genes, one plasmid (repUS43), two insertion sequences (ISLgar5 and IS256) and one Integrative Conjugative Element (Tn6009) were detected using whole genome sequencing analysis. This study aids us to know about relationship between antimicrobial resistance and presence of AMR genes, plasmids and mobile genetic elements.}
+}

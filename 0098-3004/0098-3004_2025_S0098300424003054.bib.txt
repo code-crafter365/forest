@@ -1,0 +1,13 @@
+@article{CROUCHER2025105822,
+title = {Improved modelling of fluid production and reinjection in geothermal reservoirs},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105822},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105822},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003054},
+author = {Adrian Croucher and John O’Sullivan and Michael O’Sullivan},
+keywords = {Multiphase flow simulation, Geothermal, Source terms, Waiwera},
+abstract = {Models of geothermal reservoirs used for power generation need to simulate the production of multiphase fluid via a complex network of sources, as well as the reinjection of some of this fluid back into the system. The use of standard numerical methods to model such systems with interacting sources typically gives poor non-linear solver convergence and impractical limitations on time-step sizes. However, these issues can be overcome by modifying the Jacobian matrix used in the non-linear equation solution, adding extra terms to represent the interactions between sources. This approach has been incorporated into the Waiwera parallel, open-source geothermal flow simulator. The improved performance offered by this method is demonstrated through test problems and a real geothermal reservoir model.}
+}

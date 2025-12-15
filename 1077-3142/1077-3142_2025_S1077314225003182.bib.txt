@@ -1,0 +1,12 @@
+@article{KALAPOS2025104595,
+title = {Exploring joint embedding predictive architectures for pretraining convolutional neural networks},
+journal = {Computer Vision and Image Understanding},
+pages = {104595},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104595},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225003182},
+author = {András Kalapos and Bálint Gyires-Tóth},
+keywords = {Self-supervised learning, Computer vision, Convolutional neural networks, Semantic segmentation, Data efficiency},
+abstract = {Joint Embedding Predictive Architectures present a novel intermediate approach to visual self-supervised learning combining mechanisms from instance discrimination and masked modeling. CNN-JEPA adapts this approach to convolutional neural networks and demonstrates its computational efficiency and accuracy on image classification benchmarks. In this study, we investigate CNN-JEPA, adapt it for semantic segmentation, and propose a learning objective that improves image-level representation learning through a joint embedding predictive architecture. We conduct an extensive evaluation, comparing it with other SSL methods by analyzing data efficiency and computational demands across downstream classification and segmentation benchmarks. Our results show that its classification and segmentation accuracy outperforms similar masked modeling methods such as I-JEPA and SparK with a ResNet-50 or a similarly sized ViT-Small encoder. Furthermore, CNN-JEPA requires fewer computational resources during pretraining, demonstrates excellent data efficiency in data-limited downstream segmentation, and achieves competitive accuracy with successful instance discrimination-based SSL methods for pretraining encoders on ImageNet.}
+}

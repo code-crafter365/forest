@@ -1,0 +1,13 @@
+@article{AZAD2025119478,
+title = {An integrated multi-task transfer learning for damage detection, localization, and severity assessment of laminated composite plate},
+journal = {Composite Structures},
+volume = {371},
+pages = {119478},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119478},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006439},
+author = {Muhammad Muzammil Azad and Jaehyun Jung and Heung Soo Kim and Olivier Munyaneza and Jung Woo Sohn and Bin Huang},
+keywords = {Damage detection, Damage localization, Transfer learning, Multi-task learning, Damage severity assessment, Convolutional neural network},
+abstract = {Accurate damage assessment in laminated composites is vital for ensuring safety and efficiency in aerospace, automobile and marine applications. However, conventional approaches typically rely on extensive preprocessing of raw data and are restricted to addressing only one task at a time using separate models. This study aims to present a comprehensive framework that performs damage detection, localization, and severity assessment simultaneously. It proposes using raw Lamb wave data within an integrated multi-task transfer learning (IMTTL) framework that addresses all three aspects concurrently using a 1D convolutional neural network (1D-CNN) as the core model. In the proposed method, damage detection is conducted using a 1D-CNN model applied directly to raw data from laminated composites, eliminating the need for signal preprocessing and manual feature extraction. As such, the transfer learning concept is utilized in the IMTTL model, where the pre-trained damage detection model is fine-tuned for damage localization and severity assessment. The proposed method is validated across three distinct damage severity levels at nine different locations. Additionally, Bayesian optimization was employed to optimize the hyperparameters of the IMTTL framework. The optimized IMTTL model achieved 100.00% accuracy in damage detection, an R2 of 93.82% for damage localization, and 87.04% accuracy in severity assessment. These results demonstrate that the proposed method offers an effective solution for laminated composite plates with integrated damage detection, localization, and severity assessment.}
+}

@@ -1,0 +1,13 @@
+@article{HAQ2025114410,
+title = {Doped magnetic nanoparticles: From synthesis to applied technological frontiers},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114410},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114410},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006696},
+author = {Faizan ul Haq and Aasma Batool and Sobia Niazi and Imran Mahmood Khan and Ali Raza and Khubaib Ali and Junsong Yang and Zhouping Wang},
+keywords = {Magnetic Nanoparticles, Doping, Synthesis, Properties, Applications},
+abstract = {Doped magnetic nanoparticles (DMNPs) have become a fascinating class of nanomaterials with important implications in science and technology. The comprehensive review focuses on the synthetic methods, types of doping elements, distinctive properties, and extensive applications of DMNPs. The synthesis section highlights different methods, highlighting their benefits and drawbacks, such as chemical precipitation, co-precipitation, thermal breakdown, sol-gel, and other processes. Strategies for increasing the stability and functioning of DMNP are also reviewed, including surface functionalization and ligand exchange. An in-depth study is done to clarify how doping materials including transition metals, non-metals, and rare earth elements affect the chemical stability and magnetic characteristics of DMNP. Applications in various fields, such as biomedicine (MRI contrast agents, medication transport, antibacterial activity), environmental remediation (water purification, heavy metal removal), and sensing technologies, heavily rely on these features. DMNPs offer much potential in a variety of disciplines. Still, there are several challenges to their adoption, including regulatory and safety concerns, cost-effectiveness issues, and scalability issues. More research is required to overcome these difficulties and maximize the use of MDNPs for ensuring food safety.}
+}

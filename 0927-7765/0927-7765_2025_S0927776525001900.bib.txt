@@ -1,0 +1,13 @@
+@article{NIE2025114683,
+title = {Dopamine-conjugated hyaluronic acid hydrogel interpenetrated by genipin crosslinked quaternary ammonium chitosan for potential biomedical adhesives applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114683},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114683},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001900},
+author = {Lei Nie and Ling Wang and Shuxin Hu and Zheng Wei and Xiaoyue Ding and Yuanyuan Lu and Hengmin Tang and Peng Ding},
+keywords = {Genipin, Chitosan, Hyaluronic acid, Hydrogel, Adhesives},
+abstract = {Multifunctional hydrogel adhesives have emerged as promising candidates for advanced biomedical applications, particularly in surgical suture alternatives, hemostatic management, and regenerative wound care. This study developed an interpenetrating polymer network (IPN) hydrogel adhesive system through the synergistic integration of dopamine-functionalized hyaluronic acid (HA-DA) and genipin-crosslinked quaternary ammonium chitosan (QCS). The successful preparation of HA-DA and QCS was confirmed via 1H nuclear magnetic resonance (1H NMR) and Fourier transform infrared (FT-IR) analysis. The fabricated hydrogel adhesives exhibited the interconnected microstructure, suitable mechanical strength, and elastic solid properties. Additionally, the hydrogel adhesives exhibited expected self-healing abilities and injectability. The hydrogels displayed strong adhesion on different matrix and tissues. The quaternary ammonium group pendants in the hydrogel network result in the excellent antibacterial activity of hydrogels against Escherichia coli and Staphylococcus aureus. Furthermore, hemolysis test, fluorescence images, CCK-8 assay, and wound scratch assay demonstrated that the hydrogel adhesives possessed good hemocompatibility, biocompatibility, and cell migration ability. These multifunctional characteristics, combining structural integrity, rapid self-repair, surgical-grade adhesion, antimicrobial protection, hemocompatibility, and cytocompatibility, establish this IPN hydrogel as a promising candidate for biomedical adhesives.}
+}

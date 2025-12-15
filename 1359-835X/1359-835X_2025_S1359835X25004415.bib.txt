@@ -1,0 +1,13 @@
+@article{AI2025109147,
+title = {Biodegradable PBAT/PPC-P blown film with enhanced mechanical and barrier performances via in-situ reaction compatibilization},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109147},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109147},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004415},
+author = {Jizhi Ai and Siyuan Li and Yang Zhao and Min Xiao and Dongmei Han and Sheng Huang and Shuanjin Wang and Yuezhong Meng},
+keywords = {Poly(butylene adipate-co-terephthalate) (PBAT), Poly(propylene carbonate-co-phthalate) (PPC-P), Biodegradable blown film, In-situ reactive compatibilization},
+abstract = {Biodegradable polymer poly(butylene adipate-butylene terephthalate) (PBAT) exhibits several limitations when used in food packaging and agricultural films, including poor barrier properties, low strength, rapid degradation and high production costs. To address these challenges, PBAT/PPC-P/ADR blend films are developed through one-step melt blending and blown film technology, incorporating PPC-P (poly(propylene carbonate-co-phthalate)) as a modifier and ADR (epoxy chain extender) as an in-situ reactive compatibilizer. The impact of ADR content on the rheological perperties, thermal behavior, crystallization performance, phase morphology and mechanical properties of the blends and resulting blown films are systematically investigated. The findings reveal that the addition of ADR improves the stability of the blown film process by enhancing the melting-flow properties of the blends. As the ADR content increase, the size of the dispersed phase gradually decreases from 2.89 μm to 1.26 μm, and the PPC-P phase transitions from a discrete “island” structure to a more continuous network structure. Furthermore, the addition of ADR significantly enhances the yield strength, Young’s modulus and gas barrier properties of the blend films. Optimally performing film exhibited yield strength and Young’s modulus (MD) of 20.79 MPa and 622.0 MPa, respectively—more than double those of the pure PBAT film. Oxygen and water vapor transmission coefficients are as low as 13.1 cc·mm/m2·24 h and 16.3 g·mm/m2·24 h, which are critical attributes for food packaging and agricultural films. These advancements demonstrate the potential of PBAT/PPC-P/ADR as a sustainable and versatile material for in industry and agriculture applications due to its biodegradability and improved mechanical performance.}
+}

@@ -1,0 +1,11 @@
+@article{GUO2025118645,
+title = {Corrigendum to “Analytical homogenization for equivalent in-plane elastic moduli of prestressed lattices based on the micropolar elasticity model” [Compos. Struct. 346 (2024) 118391]},
+journal = {Composite Structures},
+volume = {352},
+pages = {118645},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118645},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007736},
+author = {Zhi Guo and Xiang Liu and Li Huang and S. Adhikari and Xifeng Liang}
+}

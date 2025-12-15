@@ -1,0 +1,13 @@
+@article{WANG2025106770,
+title = {A positive-preserving unified gas-kinetic scheme for radiative transfer equations in cylindrical coordinates},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106770},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106770},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002300},
+author = {Yi Wang and Shuang Tan and Guoxi Ni and Yanli Wang},
+keywords = {Radiative transfer equations, UGKS, Positive-preserving property, Asymptotic-preserving property, High-order reconstruction, Cylindrical coordinates},
+abstract = {The radiative transfer equations (RTEs) are important in the study of inertial confinement fusion (ICF). Cylindrical configurations are commonly employed in ICF studies, such as at the National Ignition Facility. Therefore we focus on numerical schemes for RTEs in cylindrical coordinates. Based on the unified gas-kinetic scheme (UGKS), a positive-preserving and asymptotic-preserving scheme is proposed. First, the kinetic equation in RTEs is decomposed into the rotation part and the transport-absorption part using a splitting strategy. The rotation part is solved using the positive-preserving semi-Lagrangian method. The positive-preserving scheme for the transport-absorption part is derived by establishing the equivalence between the time evolution solver and the update formula. Compared to previous studies, our scheme enables arbitrarily high-order reconstruction in both spatial and velocity spaces while preserving the positive-preserving property. Additionally, the asymptotic-preserving property is proven. Various numerical experiments confirm the high-order accuracy, positive-preserving property, and asymptotic-preserving property of our scheme.}
+}

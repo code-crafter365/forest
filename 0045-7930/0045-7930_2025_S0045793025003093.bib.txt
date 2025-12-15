@@ -1,0 +1,13 @@
+@article{TSAI2025106849,
+title = {MLD-PINN: A multi-level datasets training method in Physics-Informed Neural Networks},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106849},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106849},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003093},
+author = {Yao-Hsuan Tsai and Hsiao-Tung Juan and Pao-Hsiung Chiu and Chao-An Lin},
+keywords = {Physics-informed neural networks, Multi-level datasets training, Dimensional analysis weighting},
+abstract = {Physics-Informed Neural Networks (PINNs) have emerged as a promising methodology for solving partial differential equations (PDEs), gaining significant attention in computer science and various physics-related fields. Despite demonstrating the ability to incorporate physical laws for versatile applications, PINNs still struggle with challenging problems that are stiff to solve and/or have high-frequency components in their solutions, resulting in accuracy and convergence issues. These problems not only increase computational costs but may also lead to accuracy loss or solution divergence in the worst-case scenario. In this study, we introduce a novel PINN framework, dubbed MLD-PINN, to mitigate the above-mentioned problems. Inspired by the multigrid method in the CFD community, the underlying idea of our approach is to efficiently remove different frequency errors by training with different levels of training samples. This provides a simpler way to improve training accuracy without spending time fine-tuning neural network structures, loss weights, or hyperparameters. To demonstrate the efficacy of our approach, we first investigate a canonical 1D ODE with high-frequency components and a 2D convection–diffusion equation using a V-cycle training strategy. Finally, we apply our method to the classical benchmark problem of steady lid-driven cavity flows at different Reynolds numbers (Re) to examine its applicability and efficacy for problems involving multiple modes of high and low frequencies. Through various training sequence modes, our predictions achieve 30% to 60% accuracy improvement. We also investigate the synergy between our method and transfer learning techniques for more challenging problems (i.e., higher Re cases). The present results reveal that our framework can produce good predictions even for the case of Re=5000, demonstrating its ability to solve complex high-frequency PDEs.}
+}

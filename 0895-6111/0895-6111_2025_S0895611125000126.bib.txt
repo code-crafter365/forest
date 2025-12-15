@@ -1,0 +1,13 @@
+@article{WANG2025102503,
+title = {TQGDNet: Coronary artery calcium deposit detection on computed tomography},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102503},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102503},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000126},
+author = {Wei-Chien Wang and Christopher Yu and Euijoon Ahn and Shahab Pathan and Kazuaki Negishi and Jinman Kim},
+keywords = {Coronary artery calcium, Deep learning, Fusion modules, Detection},
+abstract = {Coronary artery disease (CAD) continues to be a leading global cause of cardiovascular related mortality. The scoring of coronary artery calcium (CAC) using computer tomography (CT) images is a diagnostic instrument for evaluating the risk of asymptomatic individuals prone to atherosclerotic cardiovascular disease. State-of-the-art automated CAC scoring methods rely on large annotated datasets to train convolutional neural network (CNN) models. However, these methods do not integrate features across different levels and layers of the CNN, particularly in the lower layers where important information regarding small calcium regions are present. In this study, we propose a new CNN model specifically designed to effectively capture features associated with small regions and their surrounding areas in low-contrast CT images. Our model integrates a specifically designed low-contrast detection module and two fusion modules focusing on the lower layers of the network to connect more deeper and wider neurons (or nodes) across multiple adjacent levels. Our first module, called ThrConvs, includes three convolution blocks tailored to detecting objects in images characterized by low contrast. Following this, two fusion modules are introduced: (i) Queen-fusion (Qf), which introduces a cross-scale feature method to fuse features from multiple adjacent levels and layers and, (ii) lower-layer Gather-and-Distribute (GD) module, which focuses on learning comprehensive features associated with small-sized calcium deposits and their surroundings. We demonstrate superior performance of our model using the public OrCaScore dataset, encompassing 269 calcium deposits, surpassing the capabilities of previous state-of-the-art works. We demonstrate the enhanced performance of our approach, achieving a notable 2.3–3.6 % improvement in mean Pixel Accuracy (mPA) on both the private Concord dataset and the public OrCaScore dataset, surpassing the capabilities of established detection methods.}
+}

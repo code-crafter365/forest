@@ -1,0 +1,13 @@
+@article{DONG2025102402,
+title = {FPV induces apoptosis in PBMCs through intrinsic pathways both in vivo and in vitro},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {123},
+pages = {102402},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102402},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001109},
+author = {Haibing Dong and Jiahui Li and Xinyue Zhang and Yongle Yu and Haiyan Yang and Chuanmei Zhang},
+keywords = {Feline parvovirus, PBMC, Apoptosis},
+abstract = {Feline parvovirus (FPV) is a typical carnivore parvovirus that infects felines as well as foxes, raccoons, and other animals in their natural habitats. Cats infected with FPV exhibit symptoms of leukopenia. However, there are limited literature reports on the cause. We hypothesized that leukopenia might be related to the induction of PBMCs apoptosis by FPV. In this study, we explored the effect of FPV on PBMCs by IFA, CCK-8, and qPCR. The results showed that FPV could decrease cell viability and accelerate cell apoptosis. The expression levels of Intrinsic and extrinsic cytokines were significantly increased in cultured cells, and the expression levels of Intrinsic apoptosis-related cytokines were increased in vivo PBMCs. These results indicate that FPV can induce apoptosis through both Intrinsic and extrinsic pathways in vitro, but only through Intrinsic pathways in vivo.}
+}

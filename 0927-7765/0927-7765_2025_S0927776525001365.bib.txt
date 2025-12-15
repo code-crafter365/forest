@@ -1,0 +1,13 @@
+@article{ZHANG2025114629,
+title = {A Caspase-3 responsive nanoemulsion for targeted treatment of rheumatoid arthritis through dual modulation of inflammation and mitochondrial dysfunction},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114629},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114629},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001365},
+author = {Jia Zhang and Xianbao Shi and Zhuo Wu},
+keywords = {Rheumatoid arthritis, MTOR, Nanoemulsion, SS31, Rapamycin},
+abstract = {Rheumatoid arthritis (RA) is a chronic autoimmune disease characterized by joint inflammation, pain, and progressive joint damage. Current treatments, while effective, are limited by their potential side effects, particularly in long-term use. This study introduces a novel nanoemulsion-based therapeutic approach combining rapamycin, an mTOR inhibitor, with SS31, a mitochondrial-targeting antioxidant peptide. The rapamycin-SS31 conjugate (RS31) is encapsulated within a nanoemulsion (RS31@NEs) designed to selectively release its components in response to elevated Caspase-3 levels, prevalent in inflamed joints. In vitro and in vivo studies using zymosan-induced arthritis (ZIA) and collagen-induced arthritis (CIA) mouse models demonstrated that RS31@NEs effectively reduced pro-inflammatory cytokines, mitigated oxidative stress, and improved immune modulation by enhancing regulatory T and B cell functions. These findings highlight RS31@NEs as a promising dual-action therapy for RA, combining anti-inflammatory and mitochondrial protective effects while minimizing systemic toxicity.}
+}

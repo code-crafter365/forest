@@ -1,0 +1,13 @@
+@article{LI2025118398,
+title = {Rigorous error analysis of ETDRK4P-SAV scheme for the Allen-Cahn equation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118398},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118398},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500670X},
+author = {Xiaoyan Li and Xinlong Feng and Lingzhi Qian},
+keywords = {Allen–Cahn equation, Energy decay, Error estimates, Exponential time differencing, Extrapolated SAV},
+abstract = {This paper proposes a novel numerical method for the Allen-Cahn (AC) equation. By combining the dimension-splitting technique with the fourth-order exponential time-differencing Runge-Kutta(ETDRK)-scalar auxiliary variable (SAV) extrapolation method, we construct a fourth-order accurate ETDRK4P-SAV scheme with energy decay property. In terms of spatial discretization, a fourth-order central difference combined with dimension-splitting technique is employed; for temporal discretization, a fourth-order ETDRK-SAV extrapolation method based on the Padé approximation is utilized. From a theoretical perspective, we rigorously prove that the fully discrete scheme preserves the maximum principle, energy decay property and unique solvability, while also establishing the optimal error estimation theory. Numerical experimental results show that this scheme not only has good convergence but also maintains the discrete energy dissipation property, verifying its effectiveness and reliability in solving the AC equation.}
+}

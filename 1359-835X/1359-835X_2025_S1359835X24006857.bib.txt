@@ -1,0 +1,13 @@
+@article{WANG2025108687,
+title = {Glass-blowing-inspired constructing a novel ceramizable intumescent flame retardant for realizing superior flame retardancy, smoke suppression and water resistance of polyethylene composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108687},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108687},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006857},
+author = {Ruiping Wang and Shuo Zhang and Shuai Du and Miaojun Xu and Zhiliang Wang and Pingan Song and Xin Zhao and Bin Li},
+keywords = {Linear low density polyethylene, Flame retardancy, Smoke suppression, Water resistance, Ceramization char layer},
+abstract = {The development of linear low density polyethylene (LLDPE) composites with high flame retardancy, low smoke release and water resistance is of great significance to expand their application fields. Herein, inspired by glass-blowing, a synergy strategy is proposed to prepare a novel ceramizable intumescent flame retardant (C-IFR) by piperazine pyrophosphate, melamine pyrophosphate and polycarbosilane (PCS). Because the blowing expansion effect of C-IFR facilitates the formation of a high-quality ceramization char layer with high expansion rate during combustion, the LLDPE/C-IFR3 achieved UL-94 V-0 rating during vertical burning tests with a limiting oxygen index (LOI) of 31.8 % at only 21 wt% addition. Its peak heat release rate and peak smoke production rate were 79.7 % and 75.0 % lower than LLDPE, respectively. Meanwhile, LLDPE/C-IFR3 exhibited good water resistance due to the surface migration effect of hydrophobic PCS. The LLDPE composite still passed UL-94 V-0 rating with a LOI of 30.1 % after 168 h water treatment, which is slightly lower than that of before water treatment. This work provides an optional way to prepare high efficiency and long-lasting flame retardant LLDPE composites with good water resistance, which is expected to break through the limitations of its application in many fields.}
+}

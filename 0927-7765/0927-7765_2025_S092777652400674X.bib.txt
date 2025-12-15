@@ -1,0 +1,13 @@
+@article{CHEN2025114415,
+title = {From quorum sensing inhibition to antimicrobial defense: The dual role of eugenol-gold nanoparticles against carbapenem-resistant Pseudomonas aeruginosa},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114415},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114415},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400674X},
+author = {Huale Chen and Panjie Hu and Yaran Wang and Haifeng Liu and Junyuan Zheng and Zeyu Huang and Xiaotuan Zhang and Yong Liu and Tieli Zhou},
+keywords = {Biofilm Disruption, Carbapenem-resistant , Quorum Sensing Inhibition, Reactive Oxygen Species, Therapeutic Nanomaterials},
+abstract = {To address the pressing challenge of antibiotic resistance, particularly the robust defense mechanisms of Pseudomonas aeruginosa (P. aeruginosa) against conventional antibiotics, this study employs nanotechnology to enhance antimicrobial efficacy while ensuring good biocompatibility with the host. In this study, gold nanoparticles were chemically decorated with eugenol, a phenol-rich natural compound, using a one-pot synthesis method. The successful synthesis and functionalization of eugenol-decorated gold nanoparticles (Eugenol_Au NPs) were validated by comprehensive physicochemical analyses, demonstrating their stability and biocompatibility. These nanoparticles exhibited potent antimicrobial activity against both planktonic and biofilm-embedded carbapenem-resistant P. aeruginosa strains. Eugenol_Au NPs disrupted the bacterial quorum sensing system and stimulated intracellular reactive oxygen species production, which enhance their antibacterial effects. This dual mechanism of action has promising clinical implications for the treatment of infections associated with antibiotic-resistant P. aeruginosa. In vivo assessments in a murine peritoneal infection model showed that Eugenol_Au NPs significantly reduced bacterial loads and mitigated inflammatory responses, thereby improving survival rates. The study highlights the potential of Eugenol_Au NPs as an alternative strategy for refractory infections caused by carbapenem-resistant P. aeruginosa, and underscores the feasibility and promise of further clinical research and development of new therapeutic approaches targeting this resistant pathogen.}
+}

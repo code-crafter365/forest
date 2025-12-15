@@ -1,0 +1,13 @@
+@article{ZHANG2025108992,
+title = {Superior compressive performance of a novel plate-added X-lattice core sandwich structure at elevated temperatures},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108992},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108992},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002866},
+author = {Zhi-jia Zhang and Jian-qiang Wang and Yong-jing Wang and Qian-cheng Zhang and Jian-kai Jiao and Jian-hua Liu and Ya-guang Sui and Xin Wei},
+keywords = {Hybrid lattice, Strength, , Elevated temperatures},
+abstract = {Due to its orthotropic and three-dimensionally open-pored characteristic, the lattice sandwich structure having double-functionally load support and thermal management is considered one of the most typical and promising structures. However, a single core topology that concurrently excels in both mechanical and thermal performance remains a significant challenge. To address this issue, this paper employs a hybrid concept to design a novel plate-added X-lattice core sandwich structure (PX) with concurrent thermal and mechanical load-bearing capabilities. The compressive properties of PX, fabricated by Selective Laser Melting (SLM) technique, are comprehensively investigated by combining experimental, theoretical, and numerical methods at 25∼800 °C.The results indicate that the compressive strength of PX decreases by approximately 41.6 % as the temperature increases from 25 °C to 800 °C. During the compression process, there exists a mutual restraint effect between the struts of the X-lattice and the plate. Due to the limited plasticity of the printed Ni718 alloy, after yielding, the specimens exhibit catastrophic failure, leading to suboptimal energy absorption performance at varied temperatures. Additionally, systematic parameter studies quantitatively demonstrate the influence of specific parameters on the specified strength of the proposed structure. Compared with competing cellular materials, PX demonstrates superiority in specific strength on the material selection map.}
+}

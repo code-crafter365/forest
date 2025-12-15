@@ -1,0 +1,13 @@
+@article{NAROUIE2025117970,
+title = {Mechanical state estimation with a Polynomial-Chaos-Based Statistical Finite Element Method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117970},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117970},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002427},
+author = {Vahab Narouie and Henning Wessels and Fehmi Cirak and Ulrich Römer},
+keywords = {Statistical Finite Element Method, Bayesian updating, Data assimilation, Uncertainty quantification, Polynomial Chaos expansion, Karhunen–Loève expansion, Kálmán Filter},
+abstract = {The Statistical Finite Element Method (statFEM) offers a Bayesian framework for integrating computational models with observational data, thus providing improved predictions for structural health monitoring and digital twinning. This paper presents a sampling-free statFEM tailored for non-conjugate, non-Gaussian prior probability densities. We assume that constitutive parameters, modeled as weakly stationary random fields, are the primary source of uncertainty and approximate them using the Karhunen–Loève (KL) expansion. The resulting stochastic solution field, i.e., the displacement field, is a non-stationary, non-Gaussian random field, which we approximate via the Polynomial Chaos (PC) expansion. The PC coefficients are determined through projection using Smolyak sparse grids. Additionally, we model the measurement noise as a stationary Gaussian random field and the model misspecification as a mean-free, non-stationary Gaussian random field, which is also approximated using the KL expansion and where the coefficients are treated as hyperparameters. The PC coefficients of the stochastic posterior displacement field are computed using the Gauss–Markov–Kálmán filter, while the hyperparameters are determined by maximizing the marginal likelihood. We demonstrate the efficiency and convergence of the proposed method through one- and two-dimensional elastostatic problems.}
+}

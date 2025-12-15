@@ -1,0 +1,13 @@
+@article{NIVED2025106644,
+title = {Achieving rapid convergence in false-transient RANS simulations on unstructured meshes using an implicit adaptive time stepping method},
+journal = {Computers & Fluids},
+volume = {296},
+pages = {106644},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106644},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001045},
+author = {M.R. Nived and Nikhil Narayan Kalkote and Vinayak Eswaran},
+keywords = {Adaptive time stepping, Solution convergence, Turbulent flows, Block LUSGS, Local error control},
+abstract = {A variable time-step algorithm based on the second-order backward differentiation formula (BDF2) for rapidly changing time steps is applied to false-transient simulations of stationary turbulent flow solutions to obtain rapid convergence to steady-state. This adaptive time stepping (ATS) algorithm imposes a user-defined tolerance limit on the local truncation error to estimate the maximum allowable time-step size for pseudo-time marching. It can be readily integrated into any pre-existing implicit flow solver. The algorithm is incorporated into a parallel implicit compressible flow solver that uses the block LUSGS method to compute solutions of linear systems on unstructured grids. The ATS solver is verified using test cases of incompressible flow over a flat plate and a NACA-0012 airfoil near stall to showcase its capability to produce rapid convergence to machine precision even on high aspect ratio meshes. The ATS algorithm reduces overall simulation times by factors of 100-200 times compared to constant CFL time-stepping, even in the case of transonic flow over an Onera M6 wing. Its performance against a few basic CFL laws is also shown to be good and a thorough comparison with competing methods will be undertaken later. The adaptive implicit algorithm is also deployed to simulate transonic flow over a DLR-F6 aircraft wing body configuration with/without nacelle and pylon, demonstrating its application in practical aircraft design.}
+}

@@ -1,0 +1,13 @@
+@article{DINGLE2025117971,
+title = {Continuum and computational modeling of surface effects in flexoelectric materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117971},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117971},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002439},
+author = {Mònica Dingle and Irene Arias and David Codony},
+keywords = {Flexoelectricity, Surface effects, Surface piezoelectricity, 4th order PDE, Body-fitted open B-Spline method, Euler–Bernoulli beam, Lattice metamaterials},
+abstract = {In recent times, with the rise of nanoscale technologies, miniaturization of devices has prompted the need to study electromechanical phenomena at small scales. Most studies focus on the phenomena occurring at the bulk portion of the material, such as flexoelectricity, but neglect the effects that arise from the surfaces of the samples. Given the fact that, at such scales, surface-to-volume ratio is inherently large, surface effects cannot be ignored if the full and accurate description of the material’s response wants to be provided. In this work, we present a model that successfully integrates flexoelectricity and the effects of surfaces, and we properly derive the governing equations and boundary conditions for the boundary value problem. We also present a numerical approach in order to computationally solve it, converging at high-order optimal rates. In addition, we present an analytical 1D Euler–Bernoulli electromechanical beam model. Numerically, we find the presence of boundary layers in the transversal electric field across the beam thickness, which are not accounted for in the analytical 1D model. Finally, we find numerical solutions for geometrically-polarized flexoelectric lattice metamaterials, which have large area-to-volume ratios, giving rise to very relevant surface effects. This work emphasizes the importance of accounting for surface effects in modeling and design of flexoelectric devices, including geometrically-polarized metamaterials.}
+}

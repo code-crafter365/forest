@@ -1,0 +1,13 @@
+@article{ULSENHEIMER2025102286,
+title = {Molecular detection and phylogenetic analysis of Leptospira interrogans and Leptospira borgpetersenii in cats from Central region of Rio Grande do Sul state, Brazil},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {116},
+pages = {102286},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102286},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957124001632},
+author = {Bruna Carolina Ulsenheimer and Alexandre Alberto Tonin and Ana Eucares {von Laer} and Helton Fernandes {dos Santos} and Luís Antônio Sangioni and Rafael Fighera and Matheus Yuri {dos Santos} and Daniela Isabel Brayer Pereira and Luciana Pötter and Sônia de {Avila Botton}},
+keywords = {Epidemiology, Feline, Host, Leptospirosis, Gene },
+abstract = {Leptospirosis is a zoonotic disease caused by the bacteria of the genus Leptospira, which is responsible for substantial impacts on the economy, animal health, and public health. This disease has a global distribution and is particularly prevalent in Brazil. While leptospirosis can affect different animal species, including domestic ones such as dogs and cats, the role of dogs in its epidemiology is established and well-understood. Conversely, the role of domestic cats in the epidemiology of leptospirosis remains unclear, with a significant lack of studies elucidating the roles they play in the transmission of Leptospira spp. and the bacterial species they can host. Therefore, this study aimed to evaluate the presence of Leptospira spp. DNA in domestic cats and to assess the phylogenetic relationships of the identified microorganisms in the Central region of Rio Grande do Sul State (RS) in southern Brazil. The samples were evaluated for the presence of the gene lipL32 by polymerase chain reaction and sequencing of the amplified fragment, followed by phylogenetic analysis. DNA from Leptospira spp. was extracted from the kidney tissue of domestic cats. Pathogenic Leptospira spp. DNA was detected in 22.1 % (67/303) of the samples. Molecular analyses revealed the presence of L. borgpetersenii and L. interrogans in these animals. This study is the first to identify L. borgpetersenii and L. interrogans in domestic cats in RS, highlighting their potential role as bacterial reservoirs. Our findings provide valuable insights into the epidemiology of leptospirosis and can contribute to sanitary measures aimed at controlling and preventing the disease, ultimately protecting public health.}
+}

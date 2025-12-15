@@ -1,0 +1,13 @@
+@article{ISMAILFAWAZ2025104337,
+title = {Establishing a unified evaluation framework for human motion generation: A comparative analysis of metrics},
+journal = {Computer Vision and Image Understanding},
+volume = {254},
+pages = {104337},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104337},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000608},
+author = {Ali Ismail-Fawaz and Maxime Devanne and Stefano Berretti and Jonathan Weber and Germain Forestier},
+keywords = {Human motion generation, Evaluation of generative models, Generative models metrics, Human motion data},
+abstract = {The development of generative artificial intelligence for human motion generation has expanded rapidly, necessitating a unified evaluation framework. This paper presents a detailed review of eight evaluation metrics for human motion generation, highlighting their unique features and shortcomings. We propose standardized practices through a unified evaluation setup to facilitate consistent model comparisons. Additionally, we introduce a novel metric that assesses diversity in temporal distortion by analyzing warping diversity, thereby enhancing the evaluation of temporal data. We also conduct experimental analyses of three generative models using two publicly available datasets, offering insights into the interpretation of each metric in specific case scenarios. Our goal is to offer a clear, user-friendly evaluation framework for newcomers, complemented by publicly accessible code: https://github.com/MSD-IRIMAS/Evaluating-HMG.}
+}

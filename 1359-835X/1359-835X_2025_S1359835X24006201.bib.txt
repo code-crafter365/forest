@@ -1,0 +1,13 @@
+@article{DENG2025108622,
+title = {Solvent-free mechanochemistry induced one-pot scalable fabrication of phosphorus wrapped keratin and its application as a synergistic flame retardant in epoxy resin},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108622},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108622},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006201},
+author = {Kaiwen Deng and Aozhe Zhang and Xiaming Feng and Hongyu Yang and Chaojun Wan and Cheng Yan},
+keywords = {Keratin, Phosphating modification, Mechanochemistry, Flame retardancy},
+abstract = {Here we synthesized a biomass phosphorus-wrapped wool keratin flame retardant using a one-pot sustainable ball milling method. While many bio-based flame retardants have been developed, most involve organic solvents and complex modification processes. Our study focuses on a solvent-free approach to develop an effective flame retardant through the covalently phosphating modification of keratin recycled from waste wool. With 5 wt% addition, the epoxy resin composites achieved V-0 rating, showing a 46.7% reduction in total heat release and a 23.8% reduction in total smoke production. The flame retardant effectively quenches free radicals in the gas phase and catalyzes char formation in the condensed phase through a synergistic phosphorus-nitrogen effect. This study underscores the significant potential of recycling biomass waste wool keratin for flame retardant applications via a solvent-free and one-pot high-energy ball milling method, offering valuable insights for green chemistry and sustainable low-carbon development.}
+}

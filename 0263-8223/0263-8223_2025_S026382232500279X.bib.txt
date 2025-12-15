@@ -1,0 +1,13 @@
+@article{JANSARI2025119114,
+title = {Design of thermal meta-structures made of functionally graded materials using isogeometric density-based topology optimization},
+journal = {Composite Structures},
+volume = {364},
+pages = {119114},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119114},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500279X},
+author = {Chintan Jansari and Stéphane P.A. Bordas and Marco Montemurro and Elena Atroshchenko},
+keywords = {Topology optimization, Thermal metamaterials, Lattice structures, Isogeometric analysis, Architected cellular materials},
+abstract = {The thermal conductivity of Functionally Graded Materials (FGMs) can be efficiently designed through topology optimization to obtain thermal meta-structures that actively steer the heat flow. Compared to conventional analytical design methods, topology optimization allows handling arbitrary geometries, boundary conditions and design requirements; and producing alternate designs for non-unique problems. Additionally, as far as the design of meta-structures is concerned, topology optimization does not need intuition-based coordinate transformation or the form invariance of governing equations, as in the case of transformation thermotics. We explore isogeometric density-based topology optimization in the continuous setting, which perfectly aligns with FGMs. In this formulation, the density field, geometry and solution of the governing equations are parameterized using non-uniform rational basis spline entities. Accordingly, the heat conduction problem is solved using Isogeometric Analysis. We design various 2D & 3D thermal meta-structures under different design scenarios to showcase the effectiveness and versatility of our approach. We also design thermal meta-structures based on architected cellular materials, a special class of FGMs, using their empirical material laws calculated via numerical homogenization.}
+}

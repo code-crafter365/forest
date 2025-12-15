@@ -1,0 +1,13 @@
+@article{CUETOFELGUEROSO2025118171,
+title = {Fugacity-based diffuse-interface model of multicomponent multiphase flow},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118171},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118171},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004438},
+author = {Luis Cueto-Felgueroso and Andrés Soage and Luis F. Ayala},
+keywords = {Phase-field modeling, Multicomponent multiphase flow, Fugacity, Thermodynamic models, Navier–Stokes Korteweg equations},
+abstract = {We propose a fugacity-based diffuse-interface model for multicomponent multiphase (MCMP) flow. Utilizing a simplified Darcy–Korteweg model tailored for Hele-Shaw cells or micromodels, we evaluated the model’s capability to accurately capture MCMP hydrodynamics while fully adhering to the thermodynamic behavior dictated by both cubic and non-cubic equations of state for multicomponent fluids. This approach addresses significant challenges that have previously hindered the direct simulation of multiphase flows involving multicomponent mixtures with complex phase behavior. Our manuscript applies the proposed methodology to multicomponent mixtures described by standard cubic equations of state, such as the Peng–Robinson and Soave–Redlich–Kwong models. Additionally, we extend our analysis to include cubic-plus-association (CPA) models, which account for specific molecular interactions, and the Perturbed-Chain Statistical Associating Fluid Theory (PC-SAFT) equation of state, known for its accuracy in representing complex fluids. By incorporating these diverse equations of state, our model demonstrates versatility and robustness in capturing the intricate flow dynamics of MCMP systems. Our findings reveal that the model effectively captures these dynamics, validating its potential for studying a broad range of MCMP flows in porous media. This work paves the way for more accurate and comprehensive simulations of multiphase flows, offering valuable insights for various applications in fields such as petroleum engineering, environmental science, and chemical engineering.}
+}

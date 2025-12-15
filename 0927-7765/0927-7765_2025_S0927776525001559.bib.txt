@@ -1,0 +1,13 @@
+@article{PAN2025114648,
+title = {Electrospun amine-modified polysuccinimide/polycaprolactone nanofiber hydrogel dressings as antibacterial and hemostatic wound dressing applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114648},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114648},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001559},
+author = {Jialu Pan and Qi Meng and Li Zhang and Caidan Zhang and Shaohua Wu and Huiyuan Zhai},
+keywords = {Conjugate electrospinning, Crosslinked hydrogel, Nanofiber, Antibacterial, Hemostatic, Multifunctional dressing},
+abstract = {Design and construction of novel dressings with appropriate structure and multiple bio-functions are urgently required for the wound treatment applications. In this study, a series of wound dressings composed of amine-modified polysuccinimide (PSI)/polycaprolactone (PCL) hydrogel nanofibers were fabricated by using the conjugated electrospinning and the chemical crosslinking post-treatment. All the dressings with different PSI/PCL ratios could effectively maintain the fibrous morphology even after the chemical crosslinking process. The ultimate stress and Young's modulus of the PSI-NH2/PCL dressings significantly increased with higher PCL content. In particular, when the proportion of PCL reached 40 % (with a PSI/PCL mass ratio of 60/40), the PSI-NH2/PCL dressing exhibited the most excellent mechanical properties, with a Young's modulus of 31.9 ± 8.9 MPa and an ultimate stress of 7.4 ± 0.4 MPa, which were significantly higher than the other samples. Furthermore, all samples exhibited a high swelling ratio of over 350 %, although a noticeable decrease in swelling properties was observed when the content of PCL increased. In addition, all the PSI-NH2/PCL dressings showed a high antibacterial activity (> 99 %) against both Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus), which demonstrated that the addition of PCL has no significant influence on the antibacterial activity of the PSI. Moreover, all the PSI-NH2/PCL nanofiber hydrogel dressings had excellent biocompatibility to human dermal fibroblasts (HDFs). Importantly, all the PSI-NH2/PCL nanofiber hydrogel dressings presented excellent hemostatic capacity. Notably, even the dressing with the highest PCL content still demonstrated a 71.8 % reduction in bleeding compared to the control group. In summary, our PSI-NH2/PCL nanofiber hydrogel dressings with high absorption, biocompatibility and extracellular matrix (ECM)-mimicking capacities, as well as great mechanical, antibacterial, and hemostatic properties are excellent as a promising wound dressing.}
+}

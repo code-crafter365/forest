@@ -1,0 +1,13 @@
+@article{WU2025111122,
+title = {Dynamic polydisulfide-assisted in-situ reduction and encapsulation of nanosilver for fabricating robust photothermal antimicrobial composite textiles},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111122},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111122},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000909},
+author = {Leilei Wu and Yun Yuan and Xinyi Huang and Xiaoyan Liu and Bo Xu and Li Cui and Qiang Wang and Ping Wang},
+keywords = {Dynamic disulfide bonds,  reduction, Nanosilver, Photothermal conversion performance, Antimicrobial textiles},
+abstract = {The development of textiles with efficient and long-lasting antimicrobial properties is critical for mitigating medical cross-infections and addressing the growing demands of public health. Herein, an effective approach was demonstrated to fabricate biocompatible composite textiles with robust antimicrobial properties, through dynamic polydisulfide assisted in-situ reduction and encapsulation of nanosilver. Specifically, a reductive platform was established on cotton surfaces by sequentially grafting γ-aminopropyl triethoxysilane and α-lipoic acid (ALA). Subsequently, the amino groups and the dynamically-generated sulfhydryl groups within ALA units were utilized to initiate the reduction of silver ions without the need for additional reductants, thereby forming a stable antibacterial matrix layer on the fiber surface. The resulting fabric exhibits durable antimicrobial properties, achieving a 99.99 % antibacterial and antifungal efficacy even after 50 cycles of standard laundering. Notably, the deposition of silver nanoparticles endows the cotton fabric with significant photothermal conversion ability, and facilitates the generation of multiple bactericidal free radicals. These properties enable the effective eradication of bacteria and fungi on the textile surface within 10 min of irradiation with an intensity of 100 mW/cm2. Furthermore, the photothermal antimicrobial fabric retains satisfactory inherent wearability and biocompatibility. The present work provides an alternative for developing robust and durable antimicrobial textiles.}
+}

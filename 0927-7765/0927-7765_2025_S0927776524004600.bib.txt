@@ -1,0 +1,13 @@
+@article{JIA2025114201,
+title = {Effect of calcium concentration on metastasis of hepatocellular carcinoma cells cultured in alginate gel beads},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114201},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114201},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004600},
+author = {Yunbo Jia and Xiaoxi Xu and Yang Liu and Hongfei Shen and Siyu Sun and Guangwei Sun},
+keywords = {Alginate gel beads, Calcium ions, Hepatocellular carcinoma, Metastasis},
+abstract = {Changes in sodium alginate and calcium ion concentrations have a considerable impact on the structural properties of calcium alginate gel (ALG) beads, consequently influencing the biological characteristics of the cells encapsulated within them. This study aimed to examine the effects of calcium on the metastatic potential of hepatocellular carcinoma (HCC) cells encapsulated in ALG beads. The results showed that the invasion ability of HCC cells significantly increased when they were encapsulated in beads prepared with a calcium concentration of 200 mM compared to those prepared with a calcium concentration of 50 mM. Furthermore, the expression levels of genes related to metastasis were significantly elevated in ALG beads prepared with a calcium concentration of 200 mM. Specifically, the expression of activated matrix metalloproteinase 2 (MMP2), matrix metalloproteinase 9 (MMP9), and urokinase-type plasminogen activator system proteins was found to be high. Conversely, the expression of phosphatase and tensin homolog deleted on chromosome 10 was observed to be significantly reduced. These findings indicate that manipulating the calcium ion concentration during the fabrication of ALG beads enables the generation of three-dimensional HCC cells with varying metastatic capacities. This model offers a valuable tool for investigating the mechanisms underlying liver cancer metastasis and screening potential therapeutic drugs.}
+}

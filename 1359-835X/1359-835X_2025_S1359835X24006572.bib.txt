@@ -1,0 +1,13 @@
+@article{YILDIRIM2025108659,
+title = {Assessing the fracture and dynamic mechanical performance of CF/PEKK joints bonded with epoxy-based adhesive film for aerospace applications: Impact of thermal and cycling hygrothermal conditions},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108659},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108659},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006572},
+author = {Ceren Yildirim and Hasan Ulus and Hatice S. Sas and Serra Topal and Mehmet Yildiz},
+keywords = {Adhesively bonded joints, Environmental conditions, Fracture toughness, Acoustic emission inspection},
+abstract = {This comprehensive study evaluates the performance of advanced thermoplastic composites’ adhesively bonded joints (ABJs), focusing on fracture toughness and dynamic-mechanical analysis (DMA) across a wide range of environmental conditions: room temperature (RT), low temperature (LT), high temperature (HT), and cyclic hygrothermal (CHT). Fracture toughness of ABJs are assessed using double cantilever beam (DCB) and end-notched flexure (ENF) tests. Moreover, extensive efforts to bridge the gap in understanding fracture failure behavior, using acoustic emission (AE) monitoring, detailed stereo microscopy, and scanning electron microscopy (SEM), achieve a comprehensive understanding of the effects of various environmental conditions. Results indicate that HT and CHT conditions significantly reduce both mode-I and mode-II fracture toughness compared to RT, whereas LT conditions enhance mode-II toughness despite decreasing mode-I toughness. ENF and DMA results consistently demonstrate that LT-conditioned specimens exhibit the highest performance, whereas HT-conditioned specimens demonstrate the lowest. The combined effects of thermal cycling and moisture in CHT conditions lead to intermediate storage modulus and a reduced glass transition temperature (Tg) of adhesive film. The novel findings exhibit the critical role of environmental factors in designing ABJs for aerospace applications, aiming to optimize performance and reliability under varying operational conditions.}
+}

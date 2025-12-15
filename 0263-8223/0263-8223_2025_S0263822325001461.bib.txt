@@ -1,0 +1,13 @@
+@article{TRAN2025118981,
+title = {Simulation of failure in fiber-reinforced composites and polycrystalline materials: A novel anisotropic local damage approach},
+journal = {Composite Structures},
+volume = {359},
+pages = {118981},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118981},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001461},
+author = {Quan Nhu Tran and Minh Ngoc Nguyen and Chanh Dinh Vuong and Tinh Quoc Bui},
+keywords = {Improved local damage model, Anisotropic materials, Equivalent strain, Fiber reinforced composites, Polycrystalline structures},
+abstract = {Fiber-reinforced composites (FRC) have a wide range of engineering applications in many different fields. In this study, we present a novel local continuum damage model that is able to accurately capture direction-dependent damage evolution in FRC and polycrystalline materials. The damage model employs three distinct damage variables in describing the evolution of crack in different directions: longitudinal, transverse, and shear. In addition to that the second-order structural tensor is used to represent the orientation of the fibers/cleavages inside the anisotropic materials. We further enhance our damage model by incorporating both the fracture energy and element characteristic length into the damage evolution law, which aims to alleviate the mesh sensitivity, an inherent issue of continuum damage approaches. The accuracy and performance of the developed local damage model are examined through two-dimensional crack propagation in fiber-reinforced composites and polycrystalline materials, including tensile tests on single-edge notch (SEN) and center-notch (CNT) specimens, three-point bending tests on a composite sandwich beam, tension and shear tests on polycrystalline specimens. The numerical results illustrate good agreement with experimental data and other reference solutions, highlighting the effectiveness of the damage model in capturing complex damage mechanisms and predicting failure behavior in anisotropic materials.}
+}

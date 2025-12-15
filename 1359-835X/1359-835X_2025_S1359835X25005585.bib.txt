@@ -1,0 +1,13 @@
+@article{MEHDIPOUR2025109264,
+title = {Engineering interfacial thermal transport through comparative analysis of electrospraying and dip coating of silanized h-BN for thermo-mechanical enhancement of CF/Epoxy composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109264},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109264},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005585},
+author = {Mostafa Mehdipour and Semih Dogan and Arvin Taghizadeh Tabrizi and Mohammad Sajad {Sorayani Bafqi} and Bertan Beylergil and Mehmet Yildiz and Burcu Saner Okan},
+keywords = {Hexagonal boron nitride, Thermoset composites, Dimensional thermal conductivity, Mechanical properties},
+abstract = {The inherently low thermal conductivity of carbon fiber (CF) reinforced epoxy composites is mainly due to porosity and fabrication defects that interrupt thermal pathways. This study demonstrated a pathway to control heat in both out-of-plane and in-plane directions by incorporating hexagonal boron nitride (h-BN) as a thermally conductive agent and by configuring interface interactions on the CF and within the epoxy resin while evaluating physical and chemical interactions. Two integration techniques of dip coating and electrospraying were employed to apply h-BN, effectively creating robust h-BN layers on CF and dispersing neat or silane-modified h-BN within the epoxy matrix by combining vacuum bag and hot compression processes to reduce void content. Electrospraying silane-modified h-BN onto carbon fiber, together with incorporating 20 wt% silane-modified h-BN into the matrix, resulting in a total loading of 11 wt% in the composite-led to the highest out-of-plane thermal conductivity of 1.3 W/mK, representing a 166 % increase compared to CF reinforced into epoxy composite (CF+/EP) with the out-of-plane thermal conductivity of 0.49 W/mK. Mechanically, the configuration using neat h-BN in both the matrix and dip-coated CF achieved a 127 % increase in flexural modulus and a 49 % improvement in Charpy impact strength versus unfilled CF/epoxy composites. Resizing the CF improved directional thermal conductivity in CF/epoxy composites by controlling porosity, achieving approximately an 81 % reduction in porosity when using silanized h-BN.}
+}

@@ -1,0 +1,13 @@
+@article{PAGLIARO2025119323,
+title = {On the effect of the load ratio on the bending fatigue of flax-fiber composites},
+journal = {Composite Structures},
+volume = {370},
+pages = {119323},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119323},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500488X},
+author = {Andrea Pagliaro and Oliviero Giannini and Riccardo Panciroli},
+keywords = {Fatigue, Reverse bending, Viscoelasticity, Viscoplasticity, Natural fiber reinforced composites, Flax},
+abstract = {Fatigue, a time-dependent degradation process caused by repeated mechanical loading, is one of the most critical factors affecting the durability and reliability of composite materials. While extensive research has been conducted on the fatigue performance of synthetic fiber composites, such as carbon and glass fiber-reinforced composites, studies on the fatigue behavior of natural fiber composites, including flax-reinforced polymers, remain limited. This gap is particularly notable when considering the effects of different load ratios and cyclic loading conditions, which significantly influence the fatigue performance of composites. This paper aims to contribute to the understanding of the fatigue behavior of unidirectional flax fiber-reinforced epoxy composites through systematic experimental investigations. The study focuses on fatigue testing at various stress ratios (R = −1, R = 0.1, and R = −0.1) to explore the effects of different loading conditions on the material’s response. The chosen stress ratios represent full reverse bending, pulsating with no stress reversal, and pulsating with partial stress reversal, respectively, allowing for a detailed comparison of the fatigue mechanisms across diverse loading scenarios. The research presented here evaluates not only the fatigue life but also the evolution of key parameters such as the apparent elastic modulus, energy dissipation, and viscoelastic behavior throughout the fatigue life of the specimens. A notable contribution of this work is the analysis of how the apparent elastic modulus and energy dissipation evolve over the fatigue life, shedding light on the interplay between viscoelastic effects, creep, and fatigue damage under different load ratios. Additionally, the study highlights the relationship between the applied peak load and the material’s nonlinear behavior, offering insights into how fatigue life and mechanical recovery mechanisms influence the long-term performance of flax composites.}
+}

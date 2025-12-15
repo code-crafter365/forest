@@ -1,0 +1,13 @@
+@article{KIM2025117665,
+title = {Surrogate-assisted Kriging training utilizing boxplot and correlation coefficient for large-scale data},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117665},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117665},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009198},
+author = {Jieon Kim and Gunwoo Noh},
+keywords = {Kriging, Surrogate model, Hyperparameter optimization, Large-scale expensive problems},
+abstract = {Kriging is a prevalent surrogate model technique in optimization and data-driven analysis, known for its high accuracy and statistical error estimation. However, training Kriging models often requires extensive global optimization of hyperparameters, posing significant challenges when applying these methods to large-scale datasets. Previous research has mainly focused on expediting the training process by reducing the dimensions of design variables and hyperparameters, but this approach frequently results in information loss that adversely affects model accuracy. To address this issue, we introduce a novel methodology called KBCC (Kriging utilizing Boxplot and Correlation Coefficient), which: 1) extracts trends and characteristics of the dataset using boxplot parameters and correlation coefficients; 2) quickly estimates the hyperparameters via a pre-trained surrogate model; and 3) finalizes the hyperparameters with a two-step local optimization. In constructing the pre-trained hyperparameter predictor, we utilize datasets from various functions to enhance its prediction capability. This procedure allows for efficient search of optimal hyperparameter combinations without the need for dimension reduction, thereby accelerating Kriging training across diverse datasets while ensuring high accuracy. The performance and efficiency of KBCC are validated through six numerical test problems and three engineering examples, demonstrating its superior performance relative to conventional methodologies.}
+}

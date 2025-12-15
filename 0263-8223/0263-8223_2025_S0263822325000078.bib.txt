@@ -1,0 +1,13 @@
+@article{AUGELLO2025118842,
+title = {Component-Wise measure of elastic energy contributions in laminated composite beams},
+journal = {Composite Structures},
+volume = {355},
+pages = {118842},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118842},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000078},
+author = {R. Augello and E. Carrera and S. Saputo},
+keywords = {Component-wise, Composites, Carrera Unified Formulation, 1D models, Deformation energy},
+abstract = {This paper investigates the energy distribution in fibre-reinforced composites at the macro-, meso-, and micro-scales. Specifically, the energy contained within the laminate (macro-scale), the layers (meso-scale), and the fibres and matrix (micro-scale) is evaluated. To develop cost-efficient and reliable mathematical models capable of addressing the different scales of the composite structure, one-dimensional (1D) refined finite elements are adopted using the Carrera Unified Formulation (CUF). CUF facilitates the straightforward development of mathematical models at various scales through the use of flexible expansion polynomials, resulting in a three-dimensional (3D) description of the problem using 1D finite elements. The Component-Wise (CW) approach is employed to construct the models at these different scales. Through numerical analysis and comparison with solid finite element models, this study demonstrates that, while the total energy absorbed by a structure under specific loading conditions remains constant, modeling the structure at different scales provides valuable insights into the energy distribution across various components. Additionally, an alternative approach combining the micro- and meso-scales is proposed, in which only one fibre is treated as kinematically independent from the surrounding domains. The results emphasize the accuracy of the different models in capturing the energy distribution, when compared to those obtained from Abaqus analysis using 3D solid elements. Moreover, the proposed technique demonstrates its capability to accurately describe the energy distribution within the composite structure, offering insights into how the structure can withstand external loads and informing design strategies.}
+}

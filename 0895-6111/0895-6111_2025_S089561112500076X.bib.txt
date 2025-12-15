@@ -1,0 +1,13 @@
+@article{DEDEKEN2025102567,
+title = {Trustworthy AI for stage IV non-small cell lung cancer: Automatic segmentation and uncertainty quantification},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102567},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102567},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500076X},
+author = {Sacha Dedeken and Pierre-Henri Conze and Vera {Damerjian Pieters} and Olivier Gallinato and Jérôme Faure and Thierry Colin and Dimitris Visvikis},
+keywords = {Deep learning, Oncology, Stage IV NSCLC, Tumor segmentation, Uncertainty estimation},
+abstract = {Accurate segmentation of lung tumors is essential for advancing personalized medicine in non-small cell lung cancer (NSCLC). However, stage IV NSCLC presents significant challenges due to heterogeneous tumor morphology and the presence of associated conditions including infection, atelectasis and pleural effusion. The complexity of multicentric datasets further complicates robust segmentation across diverse clinical settings. In this study, we evaluate deep-learning-based approaches for automated segmentation of advanced-stage lung tumors using 3D architectures on 387 CT scans from the Deep-Lung-IV study. Through comprehensive experiments, we assess the impact of model design, HU windowing, and dataset size on delineation performance, providing practical guidelines for robust implementation. Additionally, we propose a confidence score using deep ensembles to quantify prediction uncertainty and automate the identification of complex cases that require further review. Our results demonstrate the potential of attention-based architectures and specific preprocessing strategies to improve segmentation quality in such a challenging clinical scenario, while emphasizing the importance of uncertainty estimation to build trustworthy AI systems in medical imaging. Code is available at: https://github.com/Sacha-Dedeken/SegStageIVNSCLC.}
+}

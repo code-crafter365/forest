@@ -1,0 +1,13 @@
+@article{XIA2025111019,
+title = {Inhibited the dampness deterioration of GFRP insulation by depositing DBD/AFS co-fluorinated nano-SiO2 functional layer on the GF surface},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111019},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111019},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005906},
+author = {Guowei Xia and Jun Xie and Yanze Song and Qijun Duan and Yuyao Zhong and Qing Xie},
+keywords = {Glass fiber reinforced epoxy resin, Plasma fluorination, Insulation properties, Dampness deterioration, Molecular dynamics},
+abstract = {Glass fiber reinforced epoxy resin composite insulating material (GFRP) deteriorates seriously due to moisture, under the exposure to long-term high humidity and high-temperature environments. This affects the stability and safety of power equipment operation. In this work, the plasma method and 1H, 1H, 2H, 2H-perfluorodecyltrimethoxysilane (AFS) were used to prepare fluorinated nano-filler (SiO2), and then a functional layer was prepared by fluorinated nano-filler and water-based epoxy resin. The water-based epoxy resin, as the carrier, fixed fluorinated SiO2 (FSiO2) on the surface of glass fiber (GF), and the effect on the insulation degradation characteristics of GFRP in humid and hot environments is studied. The results show that the FSiO2 functional layer increases the breakdown field strength of GFRP by 16 %, effectively inhibiting the insulation degradation. In terms of water inhibition, the FSiO2 functional layer enhances the hydrophobicity of GFRP and reduces the saturated moisture absorption effectively. The water contact angle increases from 101.2° to 130.6°, with an increase rate of about 30 %. Molecular dynamics simulation results show that the highly electronegative fluorine element improves the electrical insulation performance of GFRP and weakens the influence of humid and hot environments on the insulation performance. In addition, the FSiO2 particles could occupy the free volume of GFRP, and inhibit the free diffusion of water molecules. This reduces the destructive effect of water molecules on the material. This study provides a new research idea for inhibiting the dampness deterioration of GFRP insulation and prolonging its service life in harsh environments.}
+}

@@ -1,0 +1,13 @@
+@article{EBRAHIMI2025114292,
+title = {Convenient rapid prototyping microphysiological niche for mimicking liver native basement membrane: Liver sinusoid on a chip},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114292},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114292},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005514},
+author = {Aliakbar Ebrahimi and Hamed Ghorbanpoor and Elif Apaydın and Bahar {Demir Cevizlidere} and Ceren Özel and Emre Tüfekçioğlu and Yücel Koç and Ahmet Emin Topal and Özlem Tomsuk and Kadri Güleç and Nuran Abdullayeva and Murat Kaya and Aynaz Ghorbani and Tayfun Şengel and Zineb Benzait and Onur Uysal and Ayla {Eker Sarıboyacı} and Fatma {Doğan Güzel} and Hemant Singh and Shabir Hassan and Hüseyin Ankara and Suat Pat and Eray Atalay and Huseyin Avci},
+keywords = {Liver-on-a-chip, HepG2, EA.HY926, Spin coating, Co-culture, Space of disse},
+abstract = {Liver is responsible for the metabolization processes of up to 90 % of compounds and toxins in the body. Therefore liver-on-a-chip systems, as an in vitro promising cell culture platform, have great importance for fundamental science and drug development. In most of the liver-on-a-chip studies, seeding cells on both sides of a porous membrane, which represents the basement membrane, fail to resemble the native characteristics of biochemical, biophysical, and mechanical properties. In this study, polycarbonate (PC) and polyethylene terephthalate (PET) membranes were coated with gelatin to address this issue by accurately mimicking the native basement membrane present in the space of Disse. Various coating methods were used, including doctor blade, gel micro-injection, electrospinning, and spin coating. Spin coating was demonstrated to be the most effective technique owing to the ability to produce thin gel thickness with desirable surface roughness for cell interactions on both sides of the membrane. HepG2 and EA.HY926 cells were seeded on the upper and bottom sides of the gelatin-coated PET membrane and cultured on-chip for 7 days. Cell viability increased from 90 % to 95 %, while apoptotic index decreased. Albumin secretion notably rose between days 1–7 and 4–7, while GST-α secretion decreased from day 1 to day 7. In conclusion, the optimized spin coating process reported here can effectively modify the membranes to better mimic the native basement membrane niche characteristics.}
+}

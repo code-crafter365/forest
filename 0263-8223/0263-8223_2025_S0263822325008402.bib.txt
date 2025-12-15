@@ -1,0 +1,13 @@
+@article{MAGLIACANO2025119675,
+title = {Data-driven failure criteria prediction in composite wing boxes using machine learning},
+journal = {Composite Structures},
+volume = {373},
+pages = {119675},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119675},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008402},
+author = {Dario Magliacano and Vincenza Tufano and Annalisa Letizia and Bernardo Sessa and Matteo Filippi},
+keywords = {Data-driven, Machine learning, Structural health prediction, Composite, Material properties, Wing box},
+abstract = {Modern transport aircraft exploit composite wing-box architectures to maximize strength-to-weight efficiency, yet the through-thickness damage states that govern air-worthiness remain difficult to quantify by closed-form analysis. A fully labeled benchmark data set, comprising 1017 finite-element (FE) simulations of a Cirrus-class carbon-fiber wing-box (nine undamaged cases plus 1008 damage scenarios obtained by combining 28 intralaminar damage locations with four severity levels for each of nine orthotropic materials) is therefore generated. Five classical failure criteria (Max-Stress, Tsai–Wu, Tsai–Hill, Hashin and Christensen) are evaluated at the most-stressed element and adopted as supervised-learning targets. Two regression surrogates, Random Forest (RF) ensembles and Support Vector Regression (SVR), are trained on the material-property vector and damage descriptors. A material-wise leave-one-out (LOO) cross-validation strategy demonstrates that the RF model attains a root-mean-square error RMSE = 0.076 for the Hashin index, while preserving RMSE ≤ 0.15 on the Max-Stress index. The resulting RF surrogate furnishes near-instant predictions of composite failure indices and provides a reliable machine-learning benchmark for operational wing-box health assessment.}
+}

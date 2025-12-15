@@ -1,0 +1,13 @@
+@article{LIU2025117855,
+title = {A nonlocal mixed-mode fatigue crack growth model based on peridynamic differential operator theory},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117855},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117855},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001276},
+author = {Jianrui Liu and Junxiang Wang and Zhaobo Song and Liang Wang},
+keywords = {Peridynamics, Fatigue crack growth, Mixed-mode fatigue, Nonlocal theory},
+abstract = {This study presents a novel peridynamics (PD) fatigue model for the fatigue crack growth analysis under mixed-mode loading conditions. The foundational aspect of this work involves the application of Peridynamic Differential Operator (PDDO) theory, based on which the analytical relationships between the non-local bond deformations and local strain/stress tensors are first established with the consideration of bond rotation kinematics. Furthermore, the correlations between the bond stretch and Stress Intensity Factors (SIFs) within the crack tip field are rigorously derived, which facilitates the description of fatigue damage in alignment with the classical Linear Elastic Fracture Mechanics (LEFM) theory. The PD fatigue model is implemented through a coupled PDDO and finite element (FE) approach to achieve higher numerical efficiency. Finally, the model's validity is demonstrated through high-fidelity simulation of several benchmark mixed-mode fatigue examples. A notable advantage of the proposed PD fatigue model is its seamless integration of peridynamic theory with classical fracture mechanics, and the model parameters can be rigorously and accurately calibrated for mixed-mode fatigue problems.}
+}

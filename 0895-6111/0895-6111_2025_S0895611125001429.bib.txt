@@ -1,0 +1,13 @@
+@article{WANG2025102633,
+title = {C5-net: Cross-organ cross-modality cswin-transformer coupled convolutional network for dual task transfer learning in lymph node segmentation and classification},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102633},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102633},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001429},
+author = {Meng Wang and Haobo Chen and Lijuan Mao and Weiwei Jiao and Hong Han and Qi Zhang},
+keywords = {Transfer learning, Ultrasound image, Lymph node segmentation, Lymph node diagnosis, Cross-organ, Cross-modality},
+abstract = {Deep learning has made notable strides in the ultrasonic diagnosis of lymph nodes, yet it faces three primary challenges: a limited number of lymph node images and a scarcity of annotated data; difficulty in comprehensively learning both local and global semantic information; and obstacles in collaborative learning for both image segmentation and classification to achieve accurate diagnosis. To address these issues, we propose the Cross-organ Cross-modality Cswin-transformer Coupled Convolutional Network (C5-Net). First, we design a cross-organ and cross-modality transfer learning strategy to leverage skin lesion dermoscopic images, which have abundant annotations and share similarities in fields of view and morphology with the lymph node ultrasound images. Second, we couple Transformer and convolutional network to comprehensively learn both local details and global information. Third, the encoder weights in the C5-Net are shared between segmentation and classification tasks to exploit the synergistic knowledge, enhancing overall performance in ultrasound lymph node diagnosis. Our study leverages 690 lymph node ultrasound images and 1000 skin lesion dermoscopic images. Experimental results show that our C5-Net achieves the best segmentation and classification performance for lymph nodes among advanced methods, with the Dice coefficient of segmentation equaling 0.854, and the accuracy of classification equaling 0.874. Our method has consistently shown accuracy and robustness in the segmentation and classification of lymph nodes, contributing to the early and accurate detection of lymph nodal malignancy, which is potentially essential for effective treatment planning in clinical oncology.}
+}

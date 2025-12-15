@@ -1,0 +1,13 @@
+@article{COUILLARD2025119479,
+title = {Numerical investigations of the vibration damping properties of carbon/flax hybrid fiber-reinforced composite structures with perturbation method},
+journal = {Composite Structures},
+volume = {371},
+pages = {119479},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119479},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006440},
+author = {V. Couillard and K. Chikhaoui and L. Duigou and Y. Guevel and J.M. Cadou},
+keywords = {Carbon/flax hybrid fiber-reinforced composites, Vibration damping, Fractional derivative zener, Generalized maxwell, Perturbation method},
+abstract = {The purpose of the present paper is to develop a numerical approach to model and simulate the vibratory behavior of carbon/flax hybrid fiber-reinforced composite structures. Carbon- and flax-fiber hybridization enables to take advantage of both the stiffness of the former and the damping capacity of the latter. The presence of flax fibers in hybrid composites results in a frequency-dependent viscoelastic behavior. Constitutive laws, such as hysteretic, Fractional derivative Zener and Generalized Maxwell, are used to take this viscoelasticity into account. The difference in material per layer, due to hybridization, implies the use of a different constitutive law per layer. The first challenge of these works is to be able to consider various materials, fiber orientations, layer thicknesses and constitutive laws in the modeling of hybrid composite structures. Then, in the case of free vibrations, the structural behavior is simulated to investigate the damping properties of hybrid composites. Damped natural frequencies and structural loss factors are computed. Perturbation technique is used to account for the nonlinear frequency-dependence arising from viscoelastic constitutive laws. In order to validate the proposed approach, examples from the literature are referred to.}
+}

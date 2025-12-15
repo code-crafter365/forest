@@ -1,0 +1,13 @@
+@article{YU2025110931,
+title = {Layer-by-layer assembling boron nitride/polyethyleneimine/MXene hierarchical sandwich structure onto basalt fibers for high-performance epoxy composites},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110931},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110931},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005013},
+author = {Ying Yu and Shaolong Han and Haoyu Wang and Gang Wei and Zheng Gu and Ping Han},
+keywords = {Basalt fibers, Boron nitride, MXene, Polyethyleneimine, Sandwich composites},
+abstract = {Interfacial adhesion directly affects the mechanical properties of basalt fiber (BF)-reinforced polymer composites. To construct a more superior interphase between BFs and epoxy resin (EP) than a weak interphase of the unmodified BF/EP, we propose a hierarchical sandwich structure consisting of sodium hydroxide–activated boron nitride (BNOH), polyethyleneimine (PEI), and MXene (MX, Ti3C2Tx) through facile layer-by-layer self-assembly. The fabricated BNOH/P/MX sandwich structure (P denoting “PEI”) can synergistically improve the interface adhesion by enhancing the mechanical interlocking and chemical bonding of the composites. When the composites reinforced by BF–BNOH/P/MX subject to the external loading, flexible PEI molecules allow two-dimensional (2D) rigid BNOH and MX nanosheets to slip at the interface by uncurling the molecular chains, dissipating a great amount of energy during the fracture progress. Meanwhile, the hierarchical BNOH/P/MX sandwich structure acts as an excellent interface and possesses multistage gradient modulus and wider thickness, uniformly and efficiently transferring the stress from the EP matrix to BFs. The interfacial shear strength, impact strength, and fracture toughness of BF–BNOH/P/MX-reinforced EP composite are substantially improved by 45.9 %, 60.6 %, and 148.9 %, respectively, compared with bare BF–based composites. This study can provide valuable references and inspirations for designing and constructing high-quality interfaces for high-strength and high-toughness BF structural materials, taking advantage of 2D materials.}
+}

@@ -1,0 +1,13 @@
+@article{SU2025108699,
+title = {The role of compressive stress Enhancement in the shear mechanism of Nickel Foam/Polyurethane composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108699},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108699},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006973},
+author = {Yi Su and Jiacheng Tian and Hengyuan Zhang},
+keywords = {A. 3D reinforcement synergistic effect, B. X-ray CT images, C. Cyclic shear tests under in-plane compression, D. Low-cycle fatigue shear tests},
+abstract = {Compressive stress can enhance the shear performance of Nickel Foam (NF)/Polyurethane (PU), but its mechanism is not yet fully understood. Using X-CT, a fine-scale finite element model of NF/PU was reconstructed, revealing the shear synergistic mechanism at both macro/meso-scale. The results indicate that the “cell morphology of the embedded NF skeleton” and the “number of cell edge fractures” are key factors affecting shear performance under compressive stress. This was confirmed through cyclic shear tests under compression. Low-cycle fatigue shear tests further demonstrate that compressive stress helps stabilize cyclic stress softening. Based on this, an NF/PU skeleton model considering both compressive and shear effects was developed, and the relationship between maximum shear stress and the number of loading cycles under different shear amplitudes was established. This provides guidance for its broad applications in vehicle manufacturing, aerospace, vibration control, and civil engineering.}
+}

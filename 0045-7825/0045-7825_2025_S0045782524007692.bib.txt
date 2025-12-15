@@ -1,0 +1,13 @@
+@article{WU2025117515,
+title = {A novel framework for fatigue cracking and life prediction: Perfect combination of peridynamic method and deep neural network},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117515},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117515},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007692},
+author = {Liwei Wu and Han Wang and Dan Huang and Junbin Guo and Chuanqiang Yu and Junti Wang},
+keywords = {Peridynamics, Gated recurrent unit neural network, Fatigue failure, Life prediction, Numerical efficiency},
+abstract = {This paper presents an innovative methodology that seamlessly integrates the peridynamic method with advanced deep learning techniques, specifically utilizing the Gated Recurrent Unit (GRU) neural network. This integration results in the development of a highly accurate and efficient model for predicting fatigue cracking and life. This model can effectively forecast the fatigue crack patterns and fatigue life, effectively addressing the limitations of existing data-driven models, which often struggle with accurately predicting fatigue crack growth. One of the key advancements of this study is the significant enhancement in numerical efficiency, reducing the computational cost to mere hundreds of seconds, a substantial improvement over traditional peridynamic simulations. The study begins by establishing a peridynamic fatigue damage model, which is used to generate a comprehensive dataset of mechanical behavior under fatigue loading. A strategy is developed to convert the mechanical data into a suitable format for deep learning, which enables the creation of well-structured training and testing datasets. The Peridynamic-Gated Recurrent Unit (PD-GRU) data-driven model is then proposed, demonstrating exceptional numerical performance and operational efficiency. Through a series of rigorous numerical analyses, the PD-GRU model's capabilities are validated, highlighting its potential as an innovative perspective and groundbreaking tool in the fatigue analysis of materials and structures.}
+}

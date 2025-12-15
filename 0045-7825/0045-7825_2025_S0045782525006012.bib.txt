@@ -1,0 +1,13 @@
+@article{FRANCIS2025118329,
+title = {Micropolar deep material network},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118329},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118329},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006012},
+author = {Noah M. Francis and Dongil Shin and Ricardo A. Lebensohn and Fatemeh Pourahmadian and Rémi Dingreville},
+keywords = {Micropolar, Deep material network, Composites, Homogenization, Size effect},
+abstract = {This study extends the Deep Material Network (DMN), a physics-informed machine learning framework, to predict the homogenized mechanical response of composite materials with micropolar (Cosserat-type) constitutive behavior. This extension incorporates microstructure-dependent size effects, enabling accurate, efficient, and size-aware predictions for composites with complex internal architectures. While traditional, direct numerical simulation micropolar models effectively capture size effects by introducing extra local degrees of freedom, they bring significant computational challenges, particularly for multiscale analyses relevant to engineering applications. The micropolar DMN developed in this paper achieves high accuracy while significantly reducing computation time compared to micropolar direct numerical simulations. This advancement enables multiscale analyses and parameter studies that were previously impractical, such as high-cycle fatigue simulations and comprehensive investigations of internal length scale effects notably in size-dependent plastic response and the optimization of lattice structures. By uniting microstructure-sensitive modeling, physics-driven learning, and scalable surrogate modeling, the micropolar DMN paves the way for accelerated material design, large-scale parametric studies, and the reliable incorporation of size-dependent effects across a wide range of engineering applications, including optimization and next-generation composite design.}
+}

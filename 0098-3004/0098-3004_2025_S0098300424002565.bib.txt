@@ -1,0 +1,13 @@
+@article{WANG2025105773,
+title = {ReUNet: Efficient deep learning for precise ore segmentation in mineral processing},
+journal = {Computers & Geosciences},
+volume = {195},
+pages = {105773},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105773},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002565},
+author = {Chanjuan Wang and Huilan Luo and Jiyuan Wang and Daniel Groom},
+keywords = {Ore segmentation, Deep learning, UNet analysis, ReUNet, Intelligent mineral processing},
+abstract = {Efficient ore segmentation plays a pivotal role in advancing mineral processing technologies. With the rise of computer vision, deep learning models like UNet have increasingly outperformed traditional methods in automatic segmentation tasks. Despite these advancements, the substantial computational demands of such models have hindered their widespread adoption in practical production environments. To overcome this limitation, we developed ReUNet, a lightweight and efficient model tailored for mineral image segmentation. ReUNet optimizes computational efficiency by selectively focusing on critical spatial and channel information, boasting only 1.7 million parameters and 24.88 GFLOPS. It delivers superior segmentation performance across three public datasets (CuV1, FeMV1, and Pellets) and achieves the most accurate average particle size estimation, closely matching the true values. Our findings underscore ReUNet’s potential as a highly effective tool for mineral image analysis, offering both precision and efficiency in processing mineral images.}
+}

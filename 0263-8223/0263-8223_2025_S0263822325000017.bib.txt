@@ -1,0 +1,13 @@
+@article{TAO2025118836,
+title = {3D interphase Voronoi cell finite element for elastic problem analysis},
+journal = {Composite Structures},
+volume = {355},
+pages = {118836},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118836},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000017},
+author = {Jiangbo Tao and Rui Zhang and Ran Guo},
+keywords = {Particle-reinforced composites, VCFEM, 3D Voronoi element with interphase, Modified complementary energy function},
+abstract = {The interphase significantly influences the prediction of the mechanical properties of particulate composite materials. The traditional displacement-based finite element method often requires a large number of elements to accurately capture the internal stress distribution, resulting in high computational costs. To address this, a novel modified complementary energy functional is proposed for investigating the elastic behavior of three-phase composites consisting of the matrix (first phase), inclusions (second phase), and interphase (third phase), using the three-dimensional Voronoi element model. This approach employs the three-dimensional stress hybrid element method and the variational principle. In this method, stress and displacement are treated as independent fields. Each Voronoi element is subdivided into multiple Delaunay tetrahedrons, and the Hammer integration technique is used to solve the integral. By solving for the nodal displacements, the stress coefficients can be calculated, from which the stresses are calculated. Compared to finite element software such as ABAQUS, the proposed Voronoi Cell Finite Element Method (VCFEM) achieves accuracy comparable to simulations that use hundreds of thousands of elements in traditional displacement-based finite elements, yet it requires significantly fewer elements. This makes VCFEM particularly effective for analyzing three-dimensional composite materials with interphase particles.}
+}

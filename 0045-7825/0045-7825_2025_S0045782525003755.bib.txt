@@ -1,0 +1,13 @@
+@article{MOUSAVI2025118103,
+title = {A chain stretch-based gradient-enhanced model for damage and fracture in elastomers},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118103},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118103},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003755},
+author = {S. Mohammad Mousavi and Jason Mulderrig and Brandon Talamini and Nikolaos Bouklas},
+keywords = {Elastomers, Fracture, Gradient-enhanced damage model, Phase-field fracture, Fracture toughness},
+abstract = {Similar to quasi-brittle materials, it has been recently shown that elastomers can exhibit a macroscopically diffuse damage zone that accompanies the fracture process. In this study, we introduce a stretch-based gradient-enhanced damage (GED) model that allows the fracture to localize and also captures the development of a physically diffuse damage zone. This capability contrasts with the paradigm of the phase field method for fracture, where a sharp crack is numerically approximated in a diffuse manner. Capturing fracture localization and diffuse damage in our approach is achieved by considering nonlocal effects that encompass network topology, heterogeneity, and imperfections. These considerations motivate the use of a statistical damage function dependent upon the nonlocal deformation state. From this model, fracture toughness is realized as an output. While GED models have been classically utilized for damage modeling of structural engineering materials (e.g., concrete), they face challenges when trying to capture the cascade from damage to fracture, often leading to damage zone broadening (de Borst and Verhoosel, 2016). This deficiency contributed to the popularity of the phase-field method over the GED model for elastomers and other quasi-brittle materials. Other groups have proceeded with damage-based GED formulations that prove identical to the phase-field method (Lorentz et al., 2012), but these inherit the aforementioned limitations. To address this issue in a thermodynamically consistent framework, we implement two modeling features (a nonlocal driving force bound and a simple relaxation function) specifically designed to capture the evolution of a physically meaningful damage field and the simultaneous localization of fracture, thereby overcoming a longstanding obstacle in the development of these nonlocal strain- or stretch-based approaches. We discuss several numerical examples to understand the features of the approach at the limit of incompressibility, and compare them to the phase-field method as a benchmark for the macroscopic response and fracture energy predictions.}
+}

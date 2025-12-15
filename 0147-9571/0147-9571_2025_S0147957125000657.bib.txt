@@ -1,0 +1,13 @@
+@article{KHORAMABADI2025102357,
+title = {Immunization of BALB/c mice with detoxified lipopolysaccharide and hydrolytic O-polysaccharide from Brucella melitensis either in combination with or conjugated to tetanus toxoid, enhances protective immune responses against the pathogen},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {121},
+pages = {102357},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102357},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000657},
+author = {Nima Khoramabadi and Reza Hosseini Doust and Ashraf Mohabati Mobarez and Reza Shapouri},
+keywords = {, Lipopolysaccharide, Polysaccharide, Vaccine, Glycoconjugate},
+abstract = {Lipopolysaccharide (LPS) is the major surface antigen of Brucella, an intracellular pathogen that causes brucellosis in both animals and humans. A deeper understanding of the immune responses elicited by this key antigen may offer valuable insights for the development of effective vaccines for use in both humans and animals. In this study, detoxified LPS (d-LPS) and hydrolytic O-polysaccharide (OPS) from B. melitensis were prepared and separately conjugated to tetanus toxoid (TT) as a carrier protein. The resulting conjugates, d-LPS-TT and OPS-TT, as well as mixture of d-LPS+TT and OPS+TT, were used to immunize separate groups of BALB/c mice. The conjugated antigens induced significant IgG2a-specific serum responses targeting the polysaccharide components. Furthermore, mice immunized with d-LPS-TT and OPS-TT demonstrated elevated levels of IL-12 and IFN-γ following intraperitoneal challenge with B. melitensis 16 M. Notably, the strongest protective immune responses were observed in mice receiving the d-LPS-TT. Most previous studies have attributed protective responses primarily to specific serum antibodies. Although antibodies against Brucella polysaccharides typically associated with T-helper 2 (Th2) type responses, develop during infection, they are insufficient to eliminate the intracellular pathogen from the host. While the precise mechanism remain to be fully elucidated, our findings suggest that immunization with covalently conjugated polysaccharide antigens may promote T-helper 1(Th1) type cellular immunity, which appear to play a more pivotal role in protection against B. melitensis.}
+}

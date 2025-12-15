@@ -1,0 +1,13 @@
+@article{GUO2025118101,
+title = {Tensor-decomposition-based A Priori Surrogate (TAPS) modeling for ultra large-scale simulations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118101},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118101},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003731},
+author = {Jiachen Guo and Gino Domel and Chanwook Park and Hantao Zhang and Ozgur Can Gumus and Ye Lu and Gregory J. Wagner and Dong Qian and Jian Cao and Thomas J.R. Hughes and Wing Kam Liu},
+keywords = {Predictive scientific AI, Data-free model, Hierarchical neural network finite element interpolation, Generalized Galerkin formulation for parametric PDEs, Large-scale simulation, Additive manufacturing},
+abstract = {A data-free predictive scientific AI model, termed Tensor-decomposition-based A Priori Surrogate (TAPS), is proposed for tackling ultra large-scale engineering simulations with significant speedup, memory savings, and storage gain. TAPS does not require any training data and can effectively obtain surrogate models for high-dimensional parametric problems with equivalently zetta-scale (1021) degrees of freedom (DoFs) using a single GPU. TAPS achieves this by directly obtaining reduced-order models through solving the weak form of the governing equations with multiple independent variables such as spatial coordinates, parameters, and time. The paper first introduces an AI-enhanced finite element-type interpolation function called convolution hierarchical deep-learning neural network (C-HiDeNN) with tensor decomposition (TD). Subsequently, the generalized space-parameter-time Galerkin weak form and the corresponding matrix form are derived. Through the choice of TAPS hyperparameters, different convergence rates can be achieved. To show the capabilities of this framework, TAPS is then used to simulate a large-scale additive manufacturing process and achieves around 1,370x speedup, 14.8x memory savings, and 955x storage gain compared to the finite difference method with 3.46 billion spatial DoFs. As a result, the TAPS framework opens a new avenue for many challenging ultra large-scale engineering problems, such as additive manufacturing and integrated circuit design, among others.}
+}

@@ -1,0 +1,13 @@
+@article{NORNBERG2025114613,
+title = {3D-printed gelatin/dialdehyde starch hydrogels for hydrocortisone topical administration and in vivo treatment of atopic dermatitis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114613},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114613},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001201},
+author = {Andressa B. Nörnberg and Matheus S. Gularte and Caren A.R. {da Fonseca} and Daniel E.J.M. {San José} and Ethel A. Wilhelm and André R. Fajardo},
+keywords = {Additive manufacturing, Biomaterials, Schiff´s base, Drug release, Corticosteroids, Animal model},
+abstract = {Atopic dermatitis (AD) is a chronic disorder affecting millions worldwide. Recent advancements suggest that combining therapies can significantly improve AD treatment outcomes and mitigate the challenges of long-term drug use, particularly with corticosteroids. In this study, we developed a 3D-printed hydrogel composed of gelatin (Gel) and dialdehyde starch (DAS), capable of encapsulating and delivering hydrocortisone (HC). DAS was synthesized via an oxidation reaction, introducing aldehyde groups that facilitated hydrogel formation with Gel through imine bond formation (Schiff base reaction). By adjusting the Gel/DAS ratio, we formulated inks with suitable rheological properties for extrusion-based 3D printing, an approach not yet fully exploited in this context. The resulting Gel/DAS network successfully encapsulated HC, as demonstrated by characterization analyses. The printed hydrogel exhibited a well-defined microstructure, significant water absorption and retention capabilities, and excellent stability. HC release followed a controlled mechanism consistent with Korsmeyer-Peppas kinetics. In an in vivo model, the 3D-printed hydrogel containing HC showed therapeutic efficacy comparable to conventional HC treatments in alleviating AD symptoms in mice. Additionally, the hydrogel significantly reduced myeloperoxidase (MPO) activity and increased non-protein thiol (NPSH) levels in the dorsal skin of DNCB-exposed mice, underscoring its therapeutic potential.}
+}

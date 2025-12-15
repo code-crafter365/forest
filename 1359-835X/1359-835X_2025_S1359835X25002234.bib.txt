@@ -1,0 +1,13 @@
+@article{SENOL2025108929,
+title = {Ameliorating tensile and fracture performance of carbon fiber-epoxy composites via atmospheric plasma activation: Insights into damage modes through in-situ acoustic emission inspection},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108929},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108929},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002234},
+author = {Halil Senol and Hasan Ulus and Abdulrahman Al-Nadhari and Serra Topal and Mehmet Yildiz},
+keywords = {Carbon fiber reinforced polymer (CFRP), Atmospheric plasma activation (APA), Interfacial bonding, Acoustic emission (AE) monitoring, Fracture toughness},
+abstract = {Carbon fiber-reinforced epoxy composites may suffer from poor interfacial bonding, which negatively affects their mechanical performance and reliability in demanding applications. This study investigates the effect of atmospheric plasma activation (APA) on enhancing fiber–matrix adhesion, focusing on the systematic influence of APA exposure duration. The results show that APA-treated composites exhibit a significant increase in tensile strength (up to 13.5%) and mode-I and mode-II fracture toughness (up to 53% and 44%, respectively) compared to untreated (NT) specimens. Additionally, in-situ Acoustic Emission (AE) monitoring during mechanical tests enables real-time insights into damage initiation and progression. APA-treated composites display a notable shift in damage mechanisms, with delamination emerging as the dominant failure mode, unlike the fiber pull-out observed in NT specimens under tensile loading. AE analysis indicates enhanced interfacial adhesion in treated specimens, evidenced by delayed damage initiation and increased fracture resistance. Furthermore, scanning electron microscopy (SEM) and X-ray photoelectron spectroscopy (XPS) analyses confirm respectively enhanced surface roughness and the presence of oxygen-functional groups, contributing to stronger interfacial bonding. These findings suggest that fabric treatment via APA is an effective and eco-friendly approach for improving the mechanical performance of carbon fiber-reinforced composites, thereby lending itself to advanced engineering applications.}
+}

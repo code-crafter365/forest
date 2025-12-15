@@ -1,0 +1,13 @@
+@article{DENG2025111225,
+title = {Spatio-temporal prediction of curing-induced deformation for composite structures using a hybrid CNN-LSTM and finite element approach},
+journal = {Composites Science and Technology},
+volume = {268},
+pages = {111225},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111225},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001939},
+author = {Ying Deng and Zefu Li and Jie Zhi and Yonglin Chen and Jiping Chen and Weidong Yang and Yan Li},
+keywords = {Polymer-matrix composites (PMCs), Curing, Deep learning, Deformation, Finite element analysis (FEA), Temporal-spatio},
+abstract = {Coordinated control of structural accuracy and mechanical properties is the key to composites manufacturing and the prerequisite for aerospace applications. Accurate and efficient prediction of curing-induced deformation is critical to minimizing process-induced defects and ensuring dimensional stability in fiber-reinforced polymer (FRP) composites manufacturing. Whereas traditional equation-based modeling requires extensive computational resources, data-driven surrogate models leverage machine learning to rapidly achieve accurate distortion prediction. In this study, we explored a novel spatio-temporal prediction model that incorporates the finite element (FE) method with a deep learning framework to efficiently forecast the curing-induced deformation evolution of composite structures. Herein, an integrated convolutional neural network (CNN) and long short-term memory (LSTM) network approach was developed to capture both the space-distributed and time-resolved deformation. The FE method combined with the bridging model was established to simulate curing process and generate a comprehensive database containing tensors of temperature, degree of cure, initial coordinate, stress and deformation during curing. In contrast to conventional rapid prediction models that can only calculate the deformation after demolding, the primary focus in developing this strategy lies in characterizing the spatio-temporal variations of warpage. The validations of composite laminates and sandwich structures with different stacking sequences confirm the model's accuracy in predicting curing-induced deformations. The proposed framework provides a promising approach to predict curing-induced warpage evolution for optimizing the process and precisely controlling part quality.}
+}

@@ -1,0 +1,13 @@
+@article{RAUTMANN2025109025,
+title = {Advanced continuous tow shearing process utilising in-line tow width control in fibre steering},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109025},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109025},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003197},
+author = {Michelle Rautmann and Edwin Rosario Gabriel and Byung Chul Kim},
+keywords = {Continuous Tow Shearing (CTS), Tow Width Control (TWiC), Automated Fibre Placement (AFP), Defects},
+abstract = {Although automated fibre placement (AFP) is one of the most advanced composite manufacturing technologies in the aerospace industry, it has critical limitations in fibre steering due to its principle of utilising the in-plane bending deformation of the tow. The Continuous Tow Shearing (CTS) process has effectively addressed fibre-steering defects by utilising the in-plane shear deformation of the tow. However, particularly when producing layups over a tool with complex geometry, both the AFP and CTS processes can generate geometry-induced defects, as the tool surface cannot be perfectly tessellated using finite-width tapes. These defects may significantly reduce the structural performance of the composite. To eliminate both steering- and geometry-induced defects, a novel Tow Width Control (TWiC) mechanism was developed in this work. This mechanism allows for on-the-fly control of the tow’s cross-sectional aspect ratio without cutting fibres while maintaining a constant fibre volume fraction. The TWiC device was integrated into the Continuous Tow Shearing (CTS) process and its feasibility was experimentally investigated. To assess the steering quality and accuracy of this Advanced CTS (ACTS) process, the same fibre paths were laid using AFP and CTS processes and compared through optical and laser scanning methods. It was shown that the ACTS layup produces significantly less layup defects compared to AFP and CTS.}
+}

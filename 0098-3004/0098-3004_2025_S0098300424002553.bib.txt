@@ -1,0 +1,13 @@
+@article{LI2025105772,
+title = {SaltFormer: A hybrid CNN-Transformer network for automatic salt dome detection},
+journal = {Computers & Geosciences},
+volume = {195},
+pages = {105772},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105772},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002553},
+author = {Yang Li and Suping Peng and Dengke He},
+keywords = {Convolutional neural networks, Vision transformer, Seismic interpretation, Multi-task learning, Deep supervision},
+abstract = {Salt dome interpretation of seismic data is a crucial task in the exploration and development of oil and gas. Conventional techniques, such as multi-attribute analysis, are laborious, time-consuming, and susceptible to subjective biases in their results. To achieve a more automated and precise identification of salt dome, we developed a hybrid network for salt dome detection. In order to optimally exploit both local and global features, a hierarchical Vision Transformer is employed as an encoder for feature extraction. Concurrently, the concurrent spatial and channel squeeze & excitation attention module is utilized to improve detection accuracy in the decoder. Furthermore, we leveraged the complementarity of information between multiple tasks to enhance the model’s generalization performance. Using the competition data from the Kaggle platform provided by TGS-NOPEC Geophysics Company, automatic segmentation of salt domes was completed with a detection accuracy of 85.20%. A series of experiments were conducted using state-of-the-art models and the SaltFormer model, which was found to have higher detection accuracy compared to other networks. Finally, the test conducted with seismic field data from the Netherlands offshore F3 block in the North Sea demonstrate that the novel method is highly effective in detecting salt domes in seismic data.}
+}

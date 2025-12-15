@@ -1,0 +1,13 @@
+@article{DEMIR2025118945,
+title = {Optimization of critical buckling load for variable stiffness composites using the lamination parameters as the field variables},
+journal = {Composite Structures},
+volume = {359},
+pages = {118945},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118945},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001102},
+author = {Eralp Demir and Ali Rashed},
+keywords = {Variable stiffness, Buckling optimization, Tow steering, Lamination parameter, UMAT},
+abstract = {Buckling is a critical design concern for thin-walled structures and fiber-reinforced composite materials because it occurs with much lower strains than in failure. In this study, an in-house code is developed to optimize the critical buckling load using the lamination parameters as a design variable. The manufacturing steering curvature constraints are directly applied on the lamination parameters for the first time during optimization. The variable stiffness design revealed an approximately 160% improvement in the buckling load with respect to the optimal constant stiffness. The improvement in the critical buckling load ratio is over 400% with respect to the quasi-isotropic case, which is consistent with previous findings (Wu et al., 2015). The critical buckling load is 27% less when two opposite edges are clamped and two opposite edges are free compared to the ideal simply supported out-of-plane displacement boundary conditions that were used in previous optimization studies (Wu et al., 2015, Hao et al. 2019, Wu et al. 2012, Setoodeh et al. 2009, IJsselmuiden et al. 2010). The critical load ratio serves as the objective function when Neumann boundary conditions are employed, since membrane reactions remain unchanged throughout the optimization process, unlike in the case of Dirichlet boundary conditions. In addition, a widely accepted optimum fiber angle distribution, suggested in Gürdal et al. (2008), is implemented in a user-defined subroutine (UMAT) of Abaqus® to compare the buckling response of constant and variable stiffness of a plate.}
+}

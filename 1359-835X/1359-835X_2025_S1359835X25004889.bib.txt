@@ -1,0 +1,13 @@
+@article{JANEK2025109194,
+title = {Investigation of power and amplitude control in continuous ultrasonic welding of unidirectional CFRPs: A comparative study},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109194},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109194},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004889},
+author = {Maximilian Janek and Dominik Görick and Lars Larsen and Stefan Jarka and Michael Kupke},
+keywords = {Thermoplastic CFRP, Continuous ultrasonic welding, Process control, Micrograph images, Lap shear strength, Weld quality, Aerospace applications},
+abstract = {The presented study aims to evaluate two different control methods for continuous ultrasonic welding of carbon fibre reinforced high performance polymers. A novel power-control mechanism is compared with a state-of-the-art amplitude-controller. Both control methods are applied to a carbon composite material with a LowMelt-PolyArylEtherKetone (LM-PAEK) thermoplastic matrix and evaluated for three different fibre layups of the composite material. The controllers are evaluated based on in-situ data, mechanical properties of the weld seam and its quality ensured by non-destructive testing and microscopic analyses. The similarities and differences between the controllers are discussed and formulated in detail.}
+}

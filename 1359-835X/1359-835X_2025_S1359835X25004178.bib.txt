@@ -1,0 +1,13 @@
+@article{LIU2025109123,
+title = {DLfd-based inverse identification for heterogeneous composite properties under large-scale missing measurements with uncertainty quantification},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109123},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109123},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004178},
+author = {Yizhe Liu and Kuijian Yang and Yue Mei and Yuli Chen and Bin Ding},
+keywords = {Heterogeneous composites, Deep learning in frequency domain, Data missing, Uncertainty quantification},
+abstract = {The inverse identification methods of heterogeneous mechanical properties from measured displacements/strains play a critical role in various engineering fields, ranging from aerospace to medical diagnostics. However, the commonly presence of large-scale measurement missingness significantly exacerbates the ill-posedness of the inverse problem. This dual challenge not only imposes critical limitations on the solution accuracy of conventional methods, but also creates growing requirements of effective uncertainty quantifications for the identification results. In this paper, a novel deep learning in frequency domain (DLfd)-based inverse identification framework is proposed to resolve large-scale and arbitrary distributed measurement missing scenarios. The framework transforms the inferred variables from high-dimensional discretized elastic properties to reduced missing displacement/strain components. This dimensionality reduction process effectively mitigates the challenges in solving the inverse problem and, most importantly, enables uncertainty quantification through the Bayesian inference method. Results demonstrate that even with more than 15% missing data, the L1-error remains as low as 3.846%, and two standard deviation confidence intervals effectively encompass the ground truth, ensuring a reliable evaluation. Furthermore, the identification method is validated on phantom experiment data, successfully reconstructing both the position and shape of the inclusion, confirming the applicability of our framework in practical circumstances.}
+}

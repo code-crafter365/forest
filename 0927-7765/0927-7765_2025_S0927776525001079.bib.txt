@@ -1,0 +1,13 @@
+@article{LV2025114600,
+title = {Thermosensitive hydrogel loaded with nanozyme and BPTES for enhanced tumor catalytic therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114600},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114600},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001079},
+author = {Xiangyun Lv and Zeming Liu and Pengyuan Qi and Kang Chen},
+keywords = {Single-atom enzyme, BPTES, Glutaminase, Peroxide, Hydrogel},
+abstract = {Single-atom enzymes (SAZ) show great promise in cancer therapy, particularly chemodynamic therapy, due to their high catalytic activity. They can increase reactive oxygen species (ROS) in tumor cells, causing cell damage and death. However, glutathione (GSH) in tumors can neutralize ROS, reducing SAZ effectiveness. Lowering GSH levels can enhance the effectiveness of SAZ in killing tumor cells, and inhibiting its synthesis at the source might be a promising approach. Glutaminase (GLS1) inhibitors like BPTES can reduce GSH by disrupting glutamine metabolism. This study develops a thermosensitive hydrogel with Fe-based SAZ and BPTES. Upon infrared laser irradiation, the hydrogel releases FeSAZ and BPTES into tumor cells. FeSAZ generates ▪OH from H2O2, while BPTES reduces glutathione (GSH) synthesis in tumor cells, weakening their defenses and enhancing the cytotoxic effects of ▪OH. This combined strategy shows strong potential for effective tumor suppression. Our strategy provides new insights into cancer treatments, potentially offering a more effective therapeutic options for patients.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025118407,
+title = {Spectral-element SBPML for 3D infinite transient wave problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118407},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118407},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006796},
+author = {Junru Zhang and Mi Zhao and Guoliang Zhang and Junqi Zhang and Xiuli Du},
+keywords = {Wave propagation, Spectral element method, Unbounded domain, Scaled Boundary Perfectly Matched Layer},
+abstract = {This study develops a novel spectral-element scaled boundary perfectly matched layer (SBPML) coupled the spectral elements method (SEM) to simulate wave problems in 3D unbounded domains. The SBPML can accommodate boundary of general shapes and consider the planar physical interfaces and surfaces that extend infinitely. Furthermore, it supports direct coupling with 3D spectral elements of any orders in interior domain, leading to significantly higher computation accuracy. The spectral-element SBPML can flexibly and adaptively adjust the elements orders within the SBPML domain according to those used in the finite domain. Moreover, by generalizing the flexibility matrix, this method can model 3D transversely isotropic (TI) unbounded media, thereby enhancing its applicability to realistic geological scenarios. Firstly, quadrilateral spectral element shape functions are introduced in the circumferential direction of scaled boundary coordinates, which is compatible with 3D spectral elements of any orders of the finite domain. Subsequently, a complex coordinate stretching function is introduced along the radial direction, transforming the unbounded domain into a complex-valued space that defines the SBPML domain. This SBPML formulation employs a 2nd-order mixed unsplit-field displacement-stress form via spatial discretization of the SBPML domain. This mixed element is formulated by using shape functions of an n-th order spectral element for the displacement field and an (n-1)-th order element for the auxiliary stress field. This method allows for the use of different interpolation orders along the radial and circumferential directions in SBPML, achieving an optimal balance between numerical accuracy and computational efficiency. Ultimately, the accuracy, convergence, and robustness of the proposed approach are validated by three wave propagation problems and two seismic response analyses of complex sites.}
+}

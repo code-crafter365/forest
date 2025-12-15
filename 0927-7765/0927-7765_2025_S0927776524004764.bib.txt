@@ -1,0 +1,13 @@
+@article{GUO2025114217,
+title = {Poly-tannic acid coated PLGA nanoparticle decorated with antimicrobial peptide for synergistic bacteria treatment and infectious wound healing promotion},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114217},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114217},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004764},
+author = {Mingxue Guo and Mingyue Ruan and Jiamin Wu and Jinhong Ye and Changhai Wang and Zishuo Guo and Wanling Chen and Liu Wang and Kai Wu and Shouying Du and Ning Han and Yang Lu},
+keywords = {Polytannic acid, antimicrobial peptides, Photothermal, Antibacterial, Wound healing},
+abstract = {Bacterial infections pose a great threat to human health. Therefore, the development of new antibacterial agents or methods is in urgent need. In this study, we prepared polytannic acid (pTA)-coated PLGA nanoparticles decorated with Dermaseptin-PP (Der), an antimicrobial peptide (AMP), on the surface to obtain PLGA-pTA-Der. This nanoplatform could combine AMPs with photothermal treatment (PTT) mediated by pTA to achieve synergistic bacterial killing. The results of in vitro experiments showed that the PLGA-pTA-Der nanoparticles could eliminate nearly 99 % of Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus) upon near-infrared (NIR) laser irradiation (2.0 W·cm−2, 5 min), demonstrating excellent antibacterial properties. In addition, the results of atomic force microscopy (AFM) revealed that PLGA-pTA-Der with laser irradiation can greatly destroy the mechanical integrity of the bacterial outer membrane. And the presence of Der could exacerbate the heat damage caused by the PLGA-pTA NPs to the bacteria, which is helpful to reduce the critical temperature required for bacteria killing by PTT. In vivo experiments showed that PLGA-pTA-Der nanoparticles with laser irradiation significantly accelerated the wound healing process and inhibited the growth of bacterial. Moreover, it can achieve a strong photothermal antibacterial effect at a mild temperature (<45℃) and does not cause any obvious thermal damage to the surrounding normal skin tissues. Results of immunofluorescence staining showed that the expression of CD31 (a marker of new blood vessel formation) was significantly higher in the PLGA-pTA-Der + laser group than other groups, while the pro-inflammatory molecule TNF-α was significantly lower, indicating that PLGA-pTA-Der nanoparticles accelerated wound healing by enhancing angiogenesis and reducing the inflammatory response. In conclusion, PLGA-pTA-Der nanoparticles was a promising antimicrobial nanoplatform for treating bacterial infections and promoting wound healing.}
+}

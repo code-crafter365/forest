@@ -1,0 +1,13 @@
+@article{LI2025118881,
+title = {A novel hybrid star honeycomb with individually adjustable second plateau stresses},
+journal = {Composite Structures},
+volume = {356},
+pages = {118881},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118881},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000467},
+author = {Xuelin Li and Zhuangzhuang Li and Zhuoyu Guo and Zongtao Guo and Zonglai Mo and Jun Li},
+keywords = {Auxetic, Star double-arrow honeycomb, Mechanical properties, Two plateau regions, Energy absorption},
+abstract = {Auxetic honeycombs, especially those with double-plateau stress characteristics, have become a hot research area in energy absorption. Hence, in this study, a novel star double-arrow honeycomb (SDAH) is constructed via a combined design of star honeycomb and double-arrow honeycomb. The mechanical properties of SDAH under quasi-static crushing were analyzed in depth using theoretical derivation and numerical simulation, and corresponding experimental verification studies were conducted. Theoretical, experimental, and numerical results show that SDAH exhibits two-step deformation characteristics with two plateau regions on its stress–strain curve. Based on the collapse mechanism of representative cell elements, a theoretical model to predict the stresses of the two plateaus was established. Subsequently, a systematic parametric study reveals that adjusting the design parameters controlling the double-arrow geometrical configuration can control the second plateau stress of SDAH individually. In addition, the cell wall angle of the star structure mainly affects the deformation mode, dual-plateau characteristics, and Poisson’s ratio of SDAH. Finally, a comparative study with the classical star honeycomb reveals that the SDAH exhibits a higher specific stress level and enhanced energy absorption capacity. The proposed SDAH has the property that the second plateau stress can be adjusted individually, making it a promising future application in the field of smart energy absorption.}
+}

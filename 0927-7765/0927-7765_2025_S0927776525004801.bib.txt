@@ -1,0 +1,13 @@
+@article{ZHOU2025114973,
+title = {Development of a cationic photodynamic antibacterial agent based on gallic acid and ethylene glycol diglycidyl ether and enriched with hydroxyl groups for effective antimicrobial therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114973},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114973},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004801},
+author = {Hao Zhou and Zhiwen Qi and Hongxia Chen and Xingying Xue and Lingyan Liu and Chengzhang Wang},
+keywords = {Cationic photodynamic antibacterial agent, Gallic acid, Ethylene glycol diglycidyl ether, Antimicrobial therapy},
+abstract = {In recent years, various antibiotic-resistant bacterial species have emerged, thereby complicating bacterial infection treatment. Hence, the development of nontraditional, multifunctional, cationic photodynamic antibacterial agents is imperative and valuable to inhibit normal and multidrug-resistant bacterial strains. Here, by performing ring-opening reactions, we successfully synthesized an antibacterial polycation (EY-QEGDM-MG) based on gallic acid, ethylene glycol diglycidyl ether, and eosin Y and enriched with various functional components, namely a photosensitizer, quaternary ammonium (QA), and hydroxyl species. Under light irradiation, the polymer inhibited the growth of both Escherichia coli and methicillin-resistant Staphylococcus aureus because of the combined antibacterial activities of the photosensitizer and the QA group. Evaluation of the mechanism of the antibacterial effect revealed that the polymer binds to the bacterial cell surface and irreversibly damages the cell wall and membrane structure. Furthermore, the polymer also exhibited low cytotoxicity and good hemocompatibility. The antibacterial efficacy of the polymer was assessed in vivo on a rat wound infection model; the polymer showed sustainably enhanced therapeutic effects. Alterations in the levels of CD31-expressing cells and CD68+ macrophages and results of histological analyses validated that the polymer could inhibit bacterial infection in the mice model. The present study provides an efficient approach to develop an effective antimicrobial agent to reduce hospital-acquired bacterial infections.}
+}

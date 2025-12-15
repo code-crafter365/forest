@@ -1,0 +1,13 @@
+@article{GOMES2025119497,
+title = {Influence of surface imperfections and damage on the structural properties of composite cylindrical shells: A modeling and prediction approach},
+journal = {Composite Structures},
+volume = {372},
+pages = {119497},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119497},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006622},
+author = {Guilherme Ferreira Gomes and Guilherme Conrado {de Souza Silva}},
+keywords = {Surface imperfections, Structural health monitoring, Machine learning, Composite cylindrical shells},
+abstract = {This study investigates the influence of manufacturing-induced surface imperfections on the structural response of composite cylindrical shells, focusing on their effects on the Tsai–Wu failure index, natural frequencies, and buckling performance. A comprehensive finite element modeling framework was developed to simulate the structural behavior under various levels of surface imperfections, parameterized through the coefficient of variation of mean thickness and elliptical damage characteristics. Automated machine learning techniques were integrated to predict both damage parameters and surface imperfections, enabling efficient data-driven analysis of structural responses. The results reveal that increasing the coefficient of variation significantly affects structural performance: at a coefficient of variation of 0.30, the buckling eigenvalue decreases by 16%, the natural frequency reduces by 5%, and the Tsai–Wu index increases by over 300%, indicating a substantial compromise in stiffness and stability. While damage parameter predictions posed challenges due to high variability, the prediction of surface imperfections demonstrated robust performance, achieving an R2 value of 0.79. These findings highlight the critical role of surface imperfections in structural health monitoring and demonstrate the potential of combining FEM and machine learning to enhance predictive accuracy. This study provides a scalable and efficient methodology for analyzing imperfection-sensitive composite structures, with significant implications for quality control and safety in aerospace applications.}
+}

@@ -1,0 +1,13 @@
+@article{GU2025118274,
+title = {Explicit and CPU/GPU parallel energy-preserving schemes for the Klein-Gordon-Schrödinger equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118274},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118274},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005468},
+author = {Xuelong Gu and Yushun Wang and Ziyu Wu and Jiaquan Gao and Wenjun Cai},
+keywords = {Explicit energy-preserving algorithm, Discrete gradient method, Averaged vector field method, Parallel implementation, Klein-Gordon-Schrödinger equations},
+abstract = {A highly efficient energy-preserving scheme for univariate conservative or dissipative systems was recently proposed in [Comput. Methods Appl. Mech. Engrg. 425 (2024) 116938]. This scheme is based on a grid-point partitioned averaged vector field (AVF) method, allowing for pointwise decoupling and easy implementation of CPU parallel computing. In this article, we further extend this idea to multivariable coupled systems and propose a dual-partition AVF method that employs a dual partitioning strategy based on both variables and grid points. The resulting scheme is decoupled, energy-preserving, and exhibits greater flexibility. For the Klein-Gordon-Schrödinger equations, we apply the dual-partition AVF method and construct fully explicit energy-preserving schemes with pointwise decoupling, where the computational complexity per time step is O(Nd), with d representing the problem dimension and N representing the number of grid points in each direction. These schemes not only enable CPU parallelism but also support parallel computing on GPUs by adopting an update strategy based on a checkerboard grid pattern, significantly improving the efficiency of solving high-dimensional problems. Numerical experiments confirm the conservation properties and high efficiency of the proposed schemes.}
+}

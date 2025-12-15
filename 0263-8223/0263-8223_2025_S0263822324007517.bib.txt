@@ -1,0 +1,13 @@
+@article{ZHA2025118623,
+title = {Novel pre-folded lattice metamaterial for two-stage deformation and variable Poisson’s ratio properties under quasi-static compression},
+journal = {Composite Structures},
+volume = {351},
+pages = {118623},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118623},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007517},
+author = {Wenyou Zha and Weikai Shi and Yongtao Yao and Yanju Liu},
+keywords = {Pre-folded lattice metamaterial, Two-stage deformation, Bistability property, Variable Poisson’s ratio, Quasi-static compression},
+abstract = {When honeycomb structures are compressed in the axial direction, they are prone to high crushing loads and structural instability. Folded structures with origami ideas can overcome this defect. In this work, a novel pre-folded lattice metamaterial is proposed, with notable energy absorption capacity and vibration isolation properties. The geometry of the structure is described, and a theoretical model of the deformation platform at various stages is established. The compression and energy absorption properties of the structure are evaluated by compression experiments and finite element simulations. The findings indicate that the structure has two smooth and stable platform stages under quasi-static compression. This feature effectively avoids the initial crushing force of compression energy. It possesses a bistable property during the structural deformation process in the first stage. In the meantime, the compression deformation has the characteristic of variable Poisson’s ratio. Furthermore, the vibration modes and vibration isolation capacity of the variable folding angle are investigated as well. Pre-folded lattice metamaterial with 49.1° exhibits the broadest vibration isolation region across the 0–500 Hz spectrum. This work can provide a novel perspective for the integrated design of structural load-bearing and vibration isolation functions.}
+}

@@ -1,0 +1,13 @@
+@article{WEI2025111199,
+title = {Unidirectional porous Si3N4 reinforced epoxy composites with high thermal conductivity and low thermal expansion},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111199},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111199},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001678},
+author = {Zhilei Wei and Wenqi Xie and Biao Zhang and Xiaonan Zhou and Yinuo Ma and Lei Zhao and Bo Wang and Zhongqi Shi},
+keywords = {Porous SiN, Epoxy, Composite, Thermal conductivity, Coefficient of thermal expansion},
+abstract = {Efficient heat dissipation via anisotropic thermal management materials (TMMs) has become increasingly urgent as the microelectronic devices develops towards miniaturization and high integration. However, traditional polymer/ceramic composites suffered from the drawbacks of limited thermal conductivities (TCs) and high coefficients of thermal expansion (CTEs) due to the random dispersion of ceramic grains in the polymer matrices, which resulted in the deteriorated life span of devices. Although recent works successfully constructed anisotropic thermal networks in the polymer-based composites, the connectivity of the ceramic grains was inferior, leading to the high contact thermal resistance (Rcf) and less constraint of the thermal expansion of polymer matrices. Therefore, achieving high TC while decreasing the CTE of the polymer-based TMMs was still a great challenge. In this work, a novel technique of freeze casting combined with combustion synthesis was employed to fabricate unidirectional porous (UP) Si3N4 ceramics, which were then utilized as the reinforcements for epoxy (EP). The rigid and anisotropic UP Si3N4 skeletons were successfully constructed in the obtained composites, leading to the decreased Rcf and enhanced constraint of the thermal expansion of EP. As a consequence, the TCs in the directions parallel and perpendicular to the channels achieved 20.54 W m−1 K−1 and 12.68 W m−1 K−1, respectively, at a Si3N4 loading of 53.8 vol%. The corresponding CTEs in the above two principal directions were only 11.53 × 10−6 K−1 and 4.98 × 10−6 K−1, respectively. The composites displayed excellent heat dissipation performance in both experimental and simulation results, indicating promising application prospect as TMMs for microelectronic devices.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025108865,
+title = {Moulding prepreg platelets into high fibre loading fraction carbon fibre-reinforced syntactic epoxy foams},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108865},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108865},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001599},
+author = {Yifang Zhang and Jier Wang and Tuomas Turpeinen and Kristian Salminen and Joanne Li and Dharu Feby Smaradhana and Ajit Panesar and Koon-Yang Lee},
+keywords = {Porous materials, Composite materials, Hollow glass microspheres, Shear},
+abstract = {This study presents a novel method for manufacturing high fibre content carbon fibre-reinforced syntactic epoxy foams by moulding prepreg platelets with hollow glass microspheres. The prepreg platelets were either (i) dry-mixed at room temperature or (ii) mixed at cryogenic temperature in liquid nitrogen with hollow glass microspheres prior to compression moulding. This approach achieves a carbon fibre volume fraction of up to 49 %, addressing the limitations of low fibre content in conventional syntactic foams. The resulting materials exhibit enhanced mechanical properties, including a compressive modulus of ∼6 GPa and ∼3.5 GPa in the in-plane and through-thickness directions, respectively. The anisotropy in mechanical properties is attributed to the anisotropic packing of the prepreg platelets. Packing simulations using PyBullet confirmed that microspheres did not disrupt platelet arrangement, maintaining a packing efficiency of ∼63 % while filling inter-platelet gaps. Although cryogenic processing improved the mixing process, its impact on mechanical performance was minimal. This study demonstrates a simple manufacturing approach to produce high performance carbon fibre reinforced porous polymer composites suitable for lightweighting applications.}
+}

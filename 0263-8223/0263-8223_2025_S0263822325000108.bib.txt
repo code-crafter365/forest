@@ -1,0 +1,13 @@
+@article{GE2025118845,
+title = {Thermal effect in CFRP machining: Temperature field characteristics, heat generation mechanism and thermal damage management},
+journal = {Composite Structures},
+volume = {356},
+pages = {118845},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118845},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000108},
+author = {Jia Ge and Guoyu Fu and José Humberto S {Almeida Jr} and Yan Jin and Dan Sun},
+keywords = {Carbon fibre reinforced polymer (CFRP), Machining, Thermal effect, Temperature field, Surface damage},
+abstract = {Machining of carbon fibre reinforced polymer (CFRP) is critical for high-end applications (e.g. aerospace, automobile, medical, among others) to achieve rapid parts assembly whilst meeting stringent geometric tolerances. Despite the excellent lightweight and corrosion-resistant properties of CFRPs, their polymeric matrix is highly thermally-sensitive and the machining-induced high temperature often causes thermal-related damages (such as delamination, burr and microstructural damage), compromising the quality and reliability of machined CFRP parts. This paper provides a timely and comprehensive review of CFRP machining from a thermal perspective, filling a critical knowledge gap. Specifically, it provides a state-of-the-art overview of advanced temperature measurement techniques, temperature field characteristics, heat generation/conduction mechanisms and their modelling, and associated thermal damage formation mechanisms. Additionally, effective thermal management strategies (i.e. cutting tool design, use of coolant, parameter optimisation and novel machining techniques) are also summarised to offer practical insights and industrially relevant solutions for the composites manufacturing community. This review aims to guide and inspire further research and development in CFRP machining, particularly for temperature monitoring and control to enhance machining quality and performance.}
+}

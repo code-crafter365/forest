@@ -1,0 +1,13 @@
+@article{GUO2025109143,
+title = {Nanocellulose-based covalent organic framework composite nanofiltration membranes based on multidimensional assembly and click modification: synergistic regulation of permeation flux and rejection rate},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109143},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109143},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004373},
+author = {Yunfeng Guo and Weihua Gong and Jiayu Liu and Xiangyu Tang and Dong Wang and Zefang Xiao and Yanjun Xie and Yonggui Wang},
+keywords = {2D-(S)CONs, TCNFs, Click modification, Multidimensional assembly, Nanofiltration},
+abstract = {Traditional COF nanosheets (CONs) suffer from poor mechanical properties due to weak interactions, which limits their widespread application in water treatment. This study proposes a multidimensional assembly strategy by combining them with one-dimensional cellulose nanofibrils (1D-TCNFs) to fabricate a multidimensional composite nanofiltration membrane. In this structure, the flexible TCNFs not only enhance the stability of the composite membrane but also significantly improve the membrane’s flux and rejection efficiency through enhanced pore size exclusion effects and charge synergistic mechanisms. Specifically, two-dimensional covalent organic framework nanosheets (2D-CONs) were synthesized using a sodium chloride interface confinement technique, and the CONs were further modified with sulfonic acid groups (SCONs) via thiol-ene click chemistry, significantly improving the hydrophilicity and pore structure of the nanosheets. Separation tests demonstrated that the T75%SCONs membrane achieved a rejection rate of over 99 % for RhB filtration, with a permeation flux increase of 209 % compared to the T75%CONs membrane. For inorganic salt MgSO4, the permeation flux increased by 187 %, with a rejection rate of 40.3 %. Long-term stability tests also showed that the T75%SCONs membrane maintained excellent performance over multiple filtration cycles. In conclusion, the multidimensional assembled nanofiltration membrane based on sodium chloride interface confinement synthesis and click modification provides a novel solution for developing efficient water treatment technologies.}
+}

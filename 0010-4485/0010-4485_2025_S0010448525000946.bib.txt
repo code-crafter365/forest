@@ -1,0 +1,13 @@
+@article{GAO2025103933,
+title = {Parallel 3D Delaunay Triangulation on the GPU},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103933},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103933},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000946},
+author = {Wuheng Gao and Renjie Chen},
+keywords = {Delaunay triangulation, Voronoi diagram, 3D, GPU},
+abstract = {Delaunay triangulation is a cornerstone of computational geometry, playing a pivotal role in computer-aided engineering (CAE) and finite element methods (FEM) for generating high-quality meshes from scattered data points. While several methods have been developed for parallel Delaunay triangulation using GPUs, these approaches rely on CPU post-processing to produce the final result. In contrast, we introduce the first fully GPU-parallel algorithm for constructing the Delaunay triangulation of a given point set in R3. Our method is based on a generalization of the Local Delaunay Lemma by Chen and Gotsman, (2013) to R3, which enables the localization of Delaunay neighbors within a confined region around a given point. We provide a formal proof for this generalized lemma and leverage its advantages to efficiently construct the Delaunay triangulation using a naïvely parallel half-space intersection approach. Each point is processed independently, utilizing only the candidate points identified through the lemma. Additionally, we integrate several acceleration techniques tailored to exploit the hardware capabilities of modern GPUs, further optimizing runtime performance. Extensive experimentation and thorough comparisons demonstrate the efficiency of our method. Notably, our approach outperform the state-of-the-art hybrid GPU-CPU method by a factor of three when the point distribution is close to uniform.}
+}

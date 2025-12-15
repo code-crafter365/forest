@@ -1,0 +1,13 @@
+@article{FANG2025119047,
+title = {Bending mechanical properties and failure mechanism of spreading fabric/felt needled C/C laminated composites},
+journal = {Composite Structures},
+volume = {361},
+pages = {119047},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119047},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002120},
+author = {Zhongwei Fang and Yang Tao and Diantang Zhang},
+keywords = {Needled C/C composites, Spreading fabric, Multi-scale model, Three-point bending mechanical, Numerical simulation},
+abstract = {Needled carbon/carbon (C/C) composites are widely used in the field of aerospace. However, how to reduce the porosity and improve the mechanical properties is still a key problem. This paper presents the bending damage performance and failure mechanisms of spreading fabric/felt needled C/C laminated composites(SFNCCs). Three kinds of SFNCCs, B-NPs (16 mm spreading fabric and felt layers), H-NPs (8 mm spreading fabric and felt layers), and T-NPs (outer B-NPs with inner H-NPs structure), were innovatively designed and prepared. The fabricated composites were subsequently evaluated through three-point bending tests. Furthermore, a multi-scale model was established and the damage initiation/evolution of SFNCCs were simulated. Results indicated that the simulated displacement load curve closely aligns with the experimental data. The maximum bending load of T-NPs is 439.2 N, which exceeds that of B-NPs and H-NPs by 12.59 % and 24.23 %, respectively, indicating that T-NPs’ superior load-bearing capabilities. The main failure mechanisms of B-NPs and T-NPs are both controlled by fiber fracture, whereas that of H-NPs are typically influenced by fiber pullout, fiber fracture and fiber–matrix interfacial debonding.}
+}

@@ -1,0 +1,13 @@
+@article{DONG2025106639,
+title = {Structure-preserving nonstaggered central schemes for the multidimensional Ripa system},
+journal = {Computers & Fluids},
+volume = {296},
+pages = {106639},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106639},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000994},
+author = {Jian Dong and Xu Qian and Songhe Song},
+keywords = {The multidimensional Ripa system, Convergence analysis, Structure-preserving, Nonstaggered central schemes, Steady-state-preserving parameter},
+abstract = {The main difference between the usual shallow water equation and the Ripa system lies in the definitions of their steady states. Although the shallow water equation and the Ripa system are very similar, it is challenging to retain the steady states of the Ripa system, which admits more complex steady states, such as the isobaric steady state and the constant depth steady state. We introduce a nonstaggered central scheme to preserve all the steady states of the Ripa system. We use a path-conservative method to discretize the source term to maintain the still-water steady state with a constant temperature. To retain the isobaric and constant depth steady states, we introduce a steady-state-preserving parameter to modify the backward step. The moving-water equilibria are preserved by constructing equilibrium variables instead of conservative variables, along with a carefully discretized source term. We prove that the current scheme is convergent based on a path-conservative discretization of the source term. Additionally, we rigorously prove that the proposed numerical scheme guarantees that both the temperature and water depth remain nonnegative. We also extend the approach to multidimensional nonstaggered central schemes for the multidimensional Ripa system. Finally, various one- and two-dimensional numerical simulations of classical problems from the Ripa system are conducted to verify the properties of the nonstaggered central scheme.}
+}

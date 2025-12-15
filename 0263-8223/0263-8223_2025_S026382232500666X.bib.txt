@@ -1,0 +1,13 @@
+@article{MARTINS2025119501,
+title = {Shear-out failure of GFRP single-bolted double-lap connections: Experimental investigation and reliability-based code calibration},
+journal = {Composite Structures},
+volume = {371},
+pages = {119501},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119501},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500666X},
+author = {André Dias Martins and Carlos Alexandre Seruti and José Gonilha and João Ramôa Correia and Ângelo Palos Teixeira and Francisco Ferreira and Nuno Silvestre},
+keywords = {Glass Fibre-Reinforced Polymers (GFRP), Single-bolted double-lap connections, Experimental campaign, Shear-out, Structural safety, Reliability-based code calibration},
+abstract = {The objective of this paper is two-fold: to present and discuss (i) an experimental investigation on the short-term mechanical behaviour of glass fibre-reinforced polymer (GFRP) single-bolted double-lap connections prone to shear-out failure, and (ii) a reliability-based code calibration (RBCC) procedure to determine optimal partial safety factors to be employed in the corresponding design rules prescribed in CEN/TS 19101:2022: “Design of Fiber-Polymer Composite Structures”. Due to the lack of a complete set of experimental data available in the literature exhibiting shear-out failure, an extensive experimental program was conducted at the University of Lisbon, comprising GFRP specimens manufactured predominantly by pultrusion and also by vacuum-assisted resin transfer moulding (VARTM). A detailed description of the experimental campaign is presented, covering material characterization tests, double-lap connection tests, and the corresponding main results (load–displacement equilibrium paths, failure modes and loads). A rigorous RBCC approach, based on the Joint Committee on Structural Safety methodology, is then applied to the resistance model adopted in CEN/TS 19101:2022, incorporating material, load, geometrical, and resistance model variability. All specimens exhibited typical shear-out failures, and the CEN/TS 19101:2022 resistance model exhibited a relatively low coefficient of variation of 17 %. The code calibration procedure showed that a resistance model partial safety factor (γRd) of 1.45 or 1.50, depending on the stringency of the penalty function used, are required to meet the safety levels prescribed by the Structural Eurocodes for the ultimate limit state (ULS) under investigation. In addition, a new and advantageous resistance format for ULS bolted connections is proposed.}
+}

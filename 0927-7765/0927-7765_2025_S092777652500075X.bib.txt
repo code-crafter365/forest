@@ -1,0 +1,13 @@
+@article{IKRAM2025114568,
+title = {3D-bioprinting of MXenes: Developments, medical applications, challenges, and future roadmap},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114568},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114568},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500075X},
+author = {Muhammad Ikram and M.A. Parvez Mahmud and Amina Akbar Kalyar and Thamer Alomayri and Albandary Almahri and Dilshad Hussain},
+keywords = {3D bioprinting, MXene materials, MXene inks formulation, Tissue engineering, Phototherapy, Biosensing},
+abstract = {MXenes is a member of 2D transition metals carbides and nitrides with promising application prospects in energy storage, sensing, nanomedicine, tissue engineering, catalysis, and electronics. In the current era, MXenes have been widely applied in biomedical applications due to their unique rheological and electrochemical attributes. They have a larger surface area with more active sites, higher conductivity, lower cytotoxicity, and greater biocompatibility, making them highly suitable candidates for in-vivo biomedical applications. Due to recent advancemnets in MXenes 3D bioprinting, they are widely applied in regenerative medicine to combat challenges in suitable transplantation of tissues and organs. However, 3D bioprinting of MXenes has several complexities based on cell type, cytotoxicity, cell viability, and differentiation. To address these intricacies, surface modifications of MXene materials are done, which makes them highly fascinating for the 3D printing of tissues and organs. In the current review, we summarized recent progress in 3D bioprinting of MXene materials to construct scaffolds with desired rheological and biological properties, focusing on their potential applications in cancer phototherapy, tissue engineering, bone regeneration, and biosensing. We also discussed parameters affecting their biomedical applications and possible solutions by applying surface modifications. In addition, we addressed current challenges and future roadmaps for 3D bioprinting of MXene materials, such as generating high throughput 3D printed tissue constructs, drug delivery, drug discovery, and toxicology.}
+}

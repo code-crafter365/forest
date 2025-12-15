@@ -1,0 +1,13 @@
+@article{TANG2025108762,
+title = {Fracture experiments of coated and non-coated epoxy-alumina composites coupled with micro-CT},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108762},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108762},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000569},
+author = {Yichun Tang and Yanran Wang and Michael C. Hillman and Jiun-Shyan Chen and Jing Du},
+keywords = {Composite, Micro-CT, Surface modification, Fracture toughness},
+abstract = {Polymer-ceramic composites are widely used in electronic devices, biomedical engineering and other applications. This paper presents the results of an experimental study on the effects of silane coating on the fracture properties of epoxy-alumina composite. Mechanical testing coupled with micro X-ray computed tomography (micro-CT) was performed to investigate epoxy-alumina composite’s fracture behaviors. The matrix-particle interface was shown to be the weakest link in non-coated composites. Guided by the discovery, silane coating was applied to the particles to enhance the matrix-particle interfacial adhesion. The occurrence of matrix-particle interface debonding was reduced and delayed for composites with silane treatment on the particle surfaces. Ultimately, the fracture toughness and crack growth resistance of the composites were improved.}
+}

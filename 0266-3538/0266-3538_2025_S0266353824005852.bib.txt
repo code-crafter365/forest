@@ -1,0 +1,13 @@
+@article{YU2025111014,
+title = {Synergistic multiple hydrogen bonds and reversible crystallization effect enable ultra-tough, self-healing, and recyclable cellulose-enhanced elastomer},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111014},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111014},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005852},
+author = {Mingming Yu and Mujaheed Halliru Saad and Xiangyu Lin and Fuhao Dong and Xu Fan and Xu Xu and He Liu and Zhanqian Song},
+keywords = {Cellulose, Elastomer, Hydrogen bond, Self-healing, Tough},
+abstract = {Incorporating dynamic covalent bonds into polyurethane (PU) elastomers contributes to exceptional self-healing and recyclable properties. However, further applications are seriously limited due to unsatisfying mechanical characteristics. Herein, a self-healing and ultra-robust nanocomposite elastomer is presented here that consists of polyurethane matrix and cellulose nanocrystals through the synergistic gradient hydrogen bonds and strain-induced reversible crystallization effect. Multiple dynamic hydrogen bonds formed between cellulose nanocrystals (CNC) and polyurethane (PHHD) together with the strain-induced reversible crystallized physical network facilitate excellent mechanical properties while maintaining favorable self-healing ability. The introduction of cellulose nanocrystals significantly enhanced the binding energy of the nanocomposite polyurethane elastomer system, exhibiting an increase of 204.32 kJ/mol. Consequently, nanocomposite elastomers display a remarkable tensile strength (up to 50.1 MPa), ultra-high toughness (441.6 MJ/m3), and excellent fracture energy (214.5 kJ/m2) Furthermore, the result found that the introduction of cellulose nanocrystals can reduce the reaction activation energy and obtain nanocomposite elastomers with highly efficient self-healing (93.9 %). The innovative approach is expected to facilitate the development of high-strength, tough, and exceptional self-healing elastomers in academia and industry.}
+}

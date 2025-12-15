@@ -1,0 +1,13 @@
+@article{YU2025119572,
+title = {A novel approach for predicting FRP debonding strain in concrete using an optimized self-learning model},
+journal = {Composite Structures},
+volume = {372},
+pages = {119572},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119572},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007378},
+author = {XuanRui Yu and Anxiang Song and Nima Khodadadi and Yang Yu and Antonio Nanni},
+keywords = {FRP Debonding Strain, Support Vector Machine (SVM), Enhanced Cat Swarm Optimization (ECSO), Structural Durability},
+abstract = {Debonding strain is a key parameter for assessing the performance of Fiber-Reinforced Polymer (FRP) externally strengthened concrete structures, primarily reflecting the bond strength and stability between the FRP and concrete interface. This parameter helps engineers select suitable FRP materials and construction methods to enhance structural durability and safety. However, extensive research has shown that multiple random variables influence the debonding strain between FRP and concrete, and the relationships between these variables exhibit complex nonlinear characteristics. As a result, traditional linear regression methods cannot accurately predict the variations of this strain. To address this issue, this paper proposes a predictive model based on the Support Vector Machine (SVM) method, which is optimized using the Enhanced Cat Swarm Optimization (ECSO) algorithm to improve prediction accuracy. By introducing S-curve inertia weight and nonlinear decay factors into the ECSO algorithm, the model’s global search capability and convergence speed are further enhanced. The input variables of the predictive model include concrete strength (f’c), shear span ratio (λ), tensile steel reinforcement ratio (ρs), steel yield strength, steel stirrup reinforcement ratio (ρsv), FRP axial stiffness (Eftf), and the ratio of anchorage length to cross-sectional dimension (La/L0), with the output being the FRP debonding strain. Experimental results indicate that the ECSO-optimized SVM model outperforms other algorithms in terms of identification capability and prediction accuracy, demonstrating its effectiveness in evaluating the bonding performance of FRP-strengthened concrete structures. This method enables engineers to more accurately predict the FRP debonding strain, providing a basis for optimizing FRP strengthening designs and thereby enhancing the long-term stability and safety of structures, with significant engineering application value.}
+}

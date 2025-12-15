@@ -1,0 +1,13 @@
+@article{PARONUZZITICCO2025105989,
+title = {Efficient variable precision reduction in chaotic climate models: Analysis of the NEMO case in the destination earth project},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105989},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105989},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001396},
+author = {Stella V. Paronuzzi-Ticco and Gladys Utrera and Mario C. Acosta},
+keywords = {Climate models, High performance computing, Variable precision, Numerical simulation},
+abstract = {Driven by the need to improve computational efficiency, the technique of reducing variable precision in model calculations has recently attracted a lot of attention, particularly in the field of weather and climate simulations models, where computational gains are crucial to produce operational results faster and make better use of HPC resources. However, the source of computational improvements resulting from working in reduced precision, an aspect that could help facilitate the transition in many applications, has never been thoroughly explained. In this paper, we make a step in this direction, shedding light on how to efficiently apply variable precision reduction in chaotic applications, and presenting a computational study methodology to make this possible. For this purpose, we employ a tool for automatic porting of oceanographic code to mixed precision recently developed at the Barcelona Supercomputing Center and consider as case studies one of the most widely employed ocean models, NEMO, in one of the most ambitious initiatives to date, Destination Earth, because it aims at creating interactive digital replicas of the Earth with unprecedented precision, supporting real-time decision-making and long-term adaptation strategies, which also entails an unprecedented computational cost in terms of supercomputing. We analyze in depth the impact of mixed precision on the most representative functions of the model, providing a clear step forward in understanding where to focus efforts in precision reduction. These results can guide scientists in significantly speeding up weather and climate models using mixed precision by targeting computationally intensive functions and optimizing communications.}
+}

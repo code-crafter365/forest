@@ -1,0 +1,13 @@
+@article{YAN2025119074,
+title = {Optimization design of structural parameters for honeycomb microwave absorbing repair structure based on surrogate models},
+journal = {Composite Structures},
+volume = {362},
+pages = {119074},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119074},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002399},
+author = {Han Yan and Yubo Zhao and Shanyong Xuan and Hailong Yang and Chunhe Miao and Xuefeng Yao},
+keywords = {Honeycomb microwave absorbing structure, Repair, Optimization},
+abstract = {The repair process parameters significantly affect the mechanical-electromagnetic properties and collaborative repair efficiency of the honeycomb microwave absorbing structure. In this study, a method is proposed to optimize the repair process by determining design variables, selecting appropriate input and output variables, and using experimental design methods. A finite element analysis numerical model is established with set boundary conditions and material parameters. Performance index data obtained from finite element calculations are used to build a surrogate model. Genetic algorithms are employed to optimize the design variables by analyzing the surrogate model and determining the mapping relationship between design variables and repair objectives. The optimal design combination is verified and evaluated through further finite element calculations to ensure the effectiveness of the optimized parameters and the performance of the repair process. This design method improves the accuracy of the repair process and reduces the time and cost involved in the repair process design. It provides a new idea and method for research and application in the field of honeycomb microwave absorbing structure repair. However, this study has not yet considered the process parameters of the repair process and the optimized results need experimental verification. Consequently, this study has certain limitations, which will be addressed in future research.}
+}

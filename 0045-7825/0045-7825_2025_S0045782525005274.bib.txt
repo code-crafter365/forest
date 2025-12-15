@@ -1,0 +1,13 @@
+@article{PENG2025118255,
+title = {Robust design optimization of engineering structures with random field uncertainties based on a Kriging-assisted parallel active learning strategy (KA-PALS)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118255},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118255},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005274},
+author = {Deshang Peng and Jin Cheng and Xu Tan and Zhenyu Liu and Jianrong Tan and Feifan Ji},
+keywords = {Robust design optimization (RDO), Random field, Stochastic isogeometric analysis, Engineering structure, Degree of nonlinearity, Kriging-assisted parallel active learning strategy (KA-PALS)},
+abstract = {In this paper, an efficient robust design optimization (RDO) framework for engineering structures with random field uncertainties is put forward based on a Kriging-assisted parallel active learning strategy (KA-PALS). In this framework, material properties and external loads with spatially dependent uncertainties are modeled as random fields, and a stochastic isogeometric analysis approach is employed to quantify the uncertainties of structural performance. To enhance the efficiency of RDO process, the traditional double-loop optimization is decoupled into single-loop optimization by approximating the robust objective function using a Kriging model. A novel parallel active learning strategy (PALS) is proposed to refine the Kriging model. First, the degree of nonlinearity is introduced to design a new active learning function. On this basis, importance sampling identifies highly nonlinear regions for pursuing local accuracy while stratified sampling targets regions with maximum predicted uncertainty across various levels of nonlinearity for global exploration. Finally, an adaptive dynamic balancing strategy is put forward to further improve the sampling performance by dynamically balancing the contributions of importance and stratified sampling. The validity and effectiveness of the proposed RDO framework is demonstrated by both numerical and engineering examples.}
+}

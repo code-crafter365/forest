@@ -1,0 +1,13 @@
+@article{HAN2025109166,
+title = {Finite element analysis and experimental study of longitudinal-torsional ultrasonic vibration-assisted milling of basalt fiber reinforced polymer composite},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109166},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109166},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004609},
+author = {Guangchao Han and Xu Wen and Jianheng Sun and Zejiu Ye and Wei qiang Wan and Yihao Wang and Fuchu Liu and Wei Bai and Hongyong Jiang},
+keywords = {Basalt fiber reinforced polymer, Longitudinal-torsional ultrasonic vibration-assisted milling, A three-dimensional dual-interface simulation model, Matrix failure mechanisms},
+abstract = {This study explores the milling behaviors of basalt fiber-reinforced polymer (BFRP) composites using longitudinal-torsional ultrasonic vibration-assisted milling (LTUVM), combining finite element analysis and experiments. A three-dimensional dual-interface representative volume element (RVE) model, integrated with a progressive damage model, is proposed to predict material removal rates and damage behaviors. Comparisons between conventional milling (CM) and LTUVM under varying spindle speeds and vibration amplitudes are conducted, analyzing cutting forces, surface quality and subsurface damage. Results demonstrate strong agreements between simulations and experimental data, with prediction errors of 23.31% for CM and 11.93% for LTUVM. The study reveals that LTUVM significantly reduces the cutting forces and surface roughness, accompanied by a reduction in matrix residue and chip size. Furthermore, microscopic damage mechanisms involving fibers, matrix-I/II, and interfaces-I/II are elucidated. Compared to the fiber–matrix interface, the matrix–matrix interface fails early, resulting in residual matrix on the fiber surface. This study validates the effectiveness of LTUVM in enhancing BFRP machining quality and provides insights for optimizing vibration-assisted machining of fiber-reinforced composites.}
+}

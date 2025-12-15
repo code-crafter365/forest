@@ -1,0 +1,13 @@
+@article{SAKATA2025117476,
+title = {A dual experimental/computational data-driven approach for random field modeling based strength estimation analysis of composite structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117476},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117476},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007278},
+author = {S. Sakata and G. Stefanou and Y. Arai and K. Shirahama and P. Gavallas and S. Iwama and R. Takashima and S. Ono},
+keywords = {Strength estimation, Random composites, Multiscale stochastic analysis, Dual data-driven approach, Random field modeling},
+abstract = {This paper proposes a dual experimental/computational data-driven analysis framework for apparent strength estimation of composite structures consisting of randomly arranged unidirectional fiber-reinforced plastics. In the proposed framework, multiscale stochastic analysis is performed with random field modeling of local apparent quantities such as apparent elastic modulus or strength. Significant improvements are needed in terms of computational accuracy, uncertainty quantification, random field modeling, and computational efficiency for the quantitative strength estimation by numerical analysis. For this problem, a novel computational framework assisted by the dual data-driven approach is established in this research. In the proposed approach, the accuracy of the strength estimation analysis for deterministic conditions is improved by an experimental data-driven approach based on the in-situ microscopic full-field displacement measurement. A computational data-driven approach based on random field modeling assisted by machine learning is employed for non-deterministic conditions. In this paper, the outline of the proposed dual data-driven multiscale stochastic analysis framework is introduced first. Subsequently, the details of the proposed experimental data-driven approach for determining the microscopic fracture criteria are presented, and the computational data-driven approach for improving the effectiveness and efficiency of the random field modeling-based probabilistic analysis is described. The presented approach is applied to the strength estimation of a randomly arranged unidirectional fiber-reinforced composite plate under transverse tensile loading, and its validity and effectiveness are discussed with comparisons between the experimental and numerical results obtained assuming several computational conditions.}
+}

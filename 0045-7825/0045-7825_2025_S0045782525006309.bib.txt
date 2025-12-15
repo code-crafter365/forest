@@ -1,0 +1,13 @@
+@article{GUO2025118358,
+title = {History-aware neural operator: Robust data-driven constitutive modeling of path-dependent materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118358},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118358},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006309},
+author = {Binyao Guo and Zihan Lin and QiZhi He},
+keywords = {Data-driven modeling, Inelastic materials, Fourier neural operator, Path-dependency, Operator learning, Self-attention, Damage},
+abstract = {This study presents an end-to-end learning framework for data-driven modeling of path-dependent inelastic materials using neural operators. The novel framework is built on the premise that the irreversible evolution of material responses, governed by hidden dynamics, can be inferred from observable data. We develop the History-Aware Neural Operator (HANO), an autoregressive model that predicts path-dependent material responses from short segments of recent strain-stress history without relying on hidden state variables, thereby overcoming the self-consistency issues commonly encountered in recurrent neural network (RNN)-based models. Built on a Fourier-based neural operator backbone, HANO enables discretization-invariant learning. To further enhance its ability to capture both global loading patterns and critical local path dependencies, we embed a hierarchical self-attention mechanism that facilitates multiscale feature extraction. Beyond ensuring self-consistency, HANO mitigates sensitivity to initial hidden states, a commonly overlooked issue that can lead to instability in recurrent models when applied to generalized loading paths. By modeling stress-strain evolution as a continuous operator rather than relying on fixed input-output mappings, HANO naturally accommodates varying path discretizations and exhibits robust performance under complex conditions, including irregular sampling, multi-cycle loading, noisy data, and pre-stressed states. We evaluate HANO on two benchmark problems: elastoplasticity with hardening and progressive anisotropic damage in brittle solids. Results show that HANO consistently outperforms baseline models in predictive accuracy, generalization, and robustness. With its demonstrated capabilities and discretization-invariant design, HANO provides an effective and flexible data-driven surrogate for simulating a broad class of inelastic materials.}
+}

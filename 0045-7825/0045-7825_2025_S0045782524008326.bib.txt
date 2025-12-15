@@ -1,0 +1,13 @@
+@article{QIU2025117578,
+title = {A multi-physics dual-phase field model for chloride-induced localized corrosion process and cracking in reinforced concrete},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117578},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117578},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008326},
+author = {Jiang-Rui Qiu and De-Cheng Feng and Gang Wu},
+keywords = {Dual-phase field modeling, Chloride ingress, Electro-chemo-mechanical corrosion, Multi-physics, Concrete cracking},
+abstract = {Corrosion-induced deterioration poses a significant threat to the serviceability of reinforced concrete (RC) structures. This study develops a comprehensive mesoscale model utilizing dual-phase field methods to capture the entire time-dependent chloride-induced corrosion and cracking mechanisms, incorporating interactive multi-physics. The model accurately delineates the evolution of corrosion morphology and cracking patterns, focusing on their interdependent interactions within localized areas through detailed electro-chemo-mechanical processes, from steel dissolution to precipitation. The robustness of the proposed numerical method is confirmed through alignment with previously reported experimental results. Extensive parametric studies investigate the impacts of various geometric and material characteristics on corrosion processes. Furthermore, the model’s applicability to RC configurations with multiple reinforcements is also demonstrated. These findings offer pivotal insights into the substantial correlations between rebar corrosion and concrete cracking across multi-physics fields, with their coupling driven by the variable corrosion current density.}
+}

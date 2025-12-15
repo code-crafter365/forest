@@ -1,0 +1,13 @@
+@article{PAN2025119514,
+title = {Acoustic emission based health monitoring of RC corroded beams strengthened by CFRP anchorage system under bending loads},
+journal = {Composite Structures},
+volume = {372},
+pages = {119514},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119514},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006798},
+author = {Tanbo Pan and Zijun Shu and Yongcheng Liu and Beyazit Bestami Aydin and Yang Li and Yujue Zhou and Yubao Zhou},
+keywords = {Acoustic emission, CFRP anchorage system, Corroded beams, Damage mechanism, Structure monitoring},
+abstract = {This study explores the damage evolution and crack behavior exhibited by CFRP-strengthened corroded RC beams subjected to bending loads, with the application of AE monitoring. The results show that three primary failure modes were observed: concrete cover separation, debonding of the CFRP sheet with anchor pullout and matrix cracking and fiber tearing, with the middle mode exhibiting greater ductility. AE ringing counts analysis effectively divided the damage process into three stages: initial damage, damage development, and continuous damage. Signal intensity analyses provided insights into damage severity, revealing enhanced crack propagation in corroded beams, while severe corrosion reduced AE signal frequency and intensity in later stages, indicating initial crack activity inhibition and accelerated damage in mild to moderate corrosion. The Ib-value demonstrated trends in ductility and damage severity, with higher ductility in less corroded beams and restricted damage development in heavily corroded ones. RA-AF crack classification and Gaussian Mixture Clustering identified an increased proportion of shear cracks with higher corrosion levels, reducing shear load-carrying capacity. These findings highlight AE-based monitoring as an effective tool for real-time damage assessment in CFRP-strengthened RC beams.}
+}

@@ -1,0 +1,13 @@
+@article{MO2025117490,
+title = {Efficient non-probabilistic parallel model updating based on analytical correlation propagation formula and derivative-aware deep neural network metamodel},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117490},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117490},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007448},
+author = {Jiang Mo and Wang-Ji Yan and Ka-Veng Yuen and Michael Beer},
+keywords = {Model updating, Non-probabilistic uncertainty, Correlation propagation, Neural network, Derivative-aware metamodel, Block coordinate descent},
+abstract = {Non-probabilistic convex models are powerful tools for structural model updating with uncertain‑but-bounded parameters. However, existing non-probabilistic model updating (NPMU) methods often struggle with detecting parameter correlation due to limited prior information. Worth still, the unique core steps of NPMU, involving nested inner layer forward uncertainty propagation and outer layer inverse parameter updating, present challenges in efficiency and convergence. In response to these challenges, a novel and flexible NPMU scheme is introduced, integrating analytical correlation propagation and parallel interval bounds prediction to enable automatic detection of parameter correlations. In the forward uncertainty propagation phase, a linear coordinate transformation is applied to map the original parameter space to a standard hypercube space, simplifying correlation-involved bounds prediction into conventional interval bounds prediction. Moreover, an analytical correlation propagation formula is derived using a second-order response approximation to sidestep the complexities of geometry-based correlation calculations. To expedite forward propagation, a derivative-aware neural network model is employed to replace the physical solver, facilitating improved fitting capabilities and automatic differentiation, including the calculation of Jacobian and Hessian matrices essential for correlation propagation. The neural network's inherent parallelism accelerates interval bounds prediction through parallel computation of samples. In the inverse parameter updating phase, the block coordinate descent algorithm is embraced to narrow the search space and boost convergence capabilities, while the perturbation method is utilized to determine the optimal starting point for optimization. Two numerical examples illustrate the efficacy of the proposed method in updating structural models while considering correlations.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025119197,
+title = {Study on the flexural creep stiffness of chopped basalt fiber reinforced asphalt using finite elements and mean field homogenization},
+journal = {Composite Structures},
+volume = {365},
+pages = {119197},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119197},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003629},
+author = {Xing Wu and Gabriele Milani and Aihong Kang and Pengfei Liu},
+keywords = {Flexural creep stiffness, Chopped basalt fiber reinforced asphalt CBFRA, Finite element FE, Mori-Tanaka method, Mean field homogenization MFH, MFH-amending-coefficient method},
+abstract = {The aim of the paper is to study the flexural creep stiffness of chopped basalt fiber reinforced asphalts (CBFRAs) using both the finite element (FE) and the mean field homogenization (MFH) method. First, a reliable three-dimensional FE model of a chopped basalt fiber reinforced asphalt is artificially generated with Matlab. Two FE models, in which wire and solid elements are used to mesh fibers, are numerically tested in bending and compared, validating them against experimental results. Then, two different mean field homogenization analytical models based on the Mori-Tanaka approach, which consider the random fiber orientations are developed and applied to predict the flexural creep stiffness of CBFRAs. Third, different fiber approximation methods are considered to carry out MFH computations. Fourthly, the MFH-amending-coefficient (MFHAC) method is proposed to amend MFH predictions, to improve convergence towards FE results. Finally, the MFH methods are compared with several traditional micro-mechanical models available. The results show that there is a significant difference between the results obtained using wire and solid elements, the solid FE model being more reliable. Particular attention should be paid to the values adopted for the fiber simplification number, to match correctly with experimental evidence. The flexural creep stiffness predicted by the two proposed MFH analytical models are closely aligned one each other. The fiber approximation methods adopted during the MFH analysis affect the results, with predictions more accurate when the actual fiber bundle is represented as an ellipsoidal inclusion based on the same-volume-radius criterion. The MFH-amending-coefficient method, combined with the results provided by MFH, can correctly predict the flexural creep stiffness of CBFRAs, allowing a reduction of the computational burden and an increase of computational efficiency when compared with standard FE simulations. It is finally shown how the MFH methods proposed are more accurate than existing methods available in literature.}
+}

@@ -1,0 +1,13 @@
+@article{ZHOU2025117990,
+title = {Predicting change, not states: An alternate framework for neural PDE surrogates},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117990},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117990},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002622},
+author = {Anthony Zhou and Amir {Barati Farimani}},
+keywords = {Machine learning, Partial differential equations, Neural surrogates, Numerical methods},
+abstract = {Neural surrogates for partial differential equations (PDEs) have become popular due to their potential to quickly simulate physics. With a few exceptions, neural surrogates generally treat the forward evolution of time-dependent PDEs as a black box by directly predicting the next state. While this is a natural and easy framework for applying neural surrogates, it can be an over-simplified and rigid framework for predicting physics. In this work, we evaluate an alternate framework in which neural solvers predict the temporal derivative and an ODE integrator forwards the solution in time, which has little overhead and is broadly applicable across model architectures and PDEs. We find that by simply changing the training target and introducing numerical integration during inference, neural surrogates can gain accuracy and stability in finely-discretized regimes. Predicting temporal derivatives also allows models to not be constrained to a specific temporal discretization, allowing for flexible time-stepping during inference or training on higher-resolution PDE data. Lastly, we investigate why this framework can be beneficial and in what situations does it work well.}
+}

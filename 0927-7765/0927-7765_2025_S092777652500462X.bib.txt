@@ -1,0 +1,11 @@
+@article{SUN2025114955,
+title = {Corrigendum to “Precise photothermal treatment of bacterial infection mediated by charge-switchable nanoplatform with acylsulfonamide betaine surface” [Colloid. Surf. B: Biointerfaces 245 (2025), 114362]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114955},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114955},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500462X},
+author = {Wenyuan Sun and Shumin Hu and Binzhong Lu and Yu Bao and Mengyao Guo and Yingying Yang and Qiuli Cheng and Leitao Zhang and Wenlan Wu and Junbo Li}
+}

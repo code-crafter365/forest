@@ -1,0 +1,13 @@
+@article{DONG2025108569,
+title = {Microstructural characterisation of fibre-hybrid polymer composites using U-Net on optical images},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108569},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108569},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005670},
+author = {Ji Dong and Ali Kandemir and Ian Hamerton},
+keywords = {Discontinuous fibre reinforced polymers, Fibre hybridisation, Optical microscopy, U-net, Loss functions},
+abstract = {This study investigates the application of deep learning-based image segmentation using 2D optical imaging for the microstructural characterisation of composite materials with hybridised fibres, offering a potentially cost-effective alternative to computed tomography/3D imaging. Laminates were produced using the HiPerDiF method, combining discontinuous carbon and basalt fibres to reinforce a poly(L-lactic acid) (PLA) matrix. The results demonstrate that the Generalised Dice Loss function significantly outperforms others, particularly in the void class, achieving a 19% improvement in Dice Similarity Score on an unseen dataset for full image characterisation. Similarly, for Boundary Intersection over Union (IoU), which measures the accuracy of local boundary detail capture, the model trained with Generalised Dice Loss achieved 61.4%, compared to 55.0% for the next best model trained with Compound Loss. These findings suggest that regional loss functions are better suited for image-based microstructural characterisation and quality inspection. Additionally, volume fraction, relative fibre and void ratios, and fibre alignment computed from the segmentation results closely match ground truth data. Challenges related to data limitations and variability are also briefly discussed.}
+}

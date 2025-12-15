@@ -1,0 +1,13 @@
+@article{BABURAO2025117689,
+title = {A deep learning framework to predict microstructurally small fatigue crack growth in three-dimensional polycrystals},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117689},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117689},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009435},
+author = {Vignesh {Babu Rao} and Ashley D. Spear},
+keywords = {Machine learning, BiLSTM, Crystallographic texture, Short crack, SHAP},
+abstract = {Accurately predicting the growth of microstructurally small cracks (MSCs) is vital for materials design and structural prognosis. Traditional physics-based simulations involving crystal plasticity, though precise, are computationally intensive and impractical for applications requiring high-throughput or real-time predictions, such as digital twins. This study introduces a deep learning framework using bidirectional long short-term memory (BiLSTM) networks to significantly expedite MSC growth predictions. Trained on comprehensive physics-based simulation data, these models leverage a novel data processing strategy to encode microstructure-dependent behavior through microstructural and micromechanical features. Notably, the input features used to predict incremental MSC growth are obtained from a physics-based simulation containing only the initial crack state, thereby obviating the need to continually update the crack state in the physics-based representation. Results demonstrate that the BiLSTM models can rapidly and accurately predict MSC growth parameters, including local crack growth rate and propagation direction, in microstructures statistically similar to the training set. The framework’s predictions on unseen scenarios, which deviate substantially from the training data, further highlight its generalizability. This accelerated prediction framework holds significant promise for future applications in identifying fracture-resistant microstructures, accurately estimating residual life in digital twin technologies, and enabling proactive structural maintenance.}
+}

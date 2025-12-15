@@ -1,0 +1,13 @@
+@article{DIDDIGE2025118143,
+title = {Phase-field modeling of hydrogen-promoted fracture: Natural incorporation of hydrostatic stress dependencies via a chemical potential-based variational formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118143},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118143},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004153},
+author = {Vikas Diddige and Stephan Roth and Bjoern Kiefer},
+keywords = {Hydrogen embrittlement, Variational formulation, Phase-field fracture, Chemo-mechanical coupling, Slow strain rate tensile testing (SSRT), Sub-critical crack growth, Stress-assisted diffusion},
+abstract = {Metals, notably in hydrogen storage and transport, are susceptible to premature failure due to hydrogen embrittlement. With ongoing research exploring the use of existing natural gas pipelines for hydrogen transport, assessing the suitability and safety of these pipeline steels is essential for a successful green hydrogen economy. According to the current hypothesis, hydrogen enters the metal lattice structure favored by the elevated hydrogen gas partial pressure. Once within the lattice, hydrogen diffuses, driven by gradients in concentration and hydrostatic stress, deteriorating its mechanical properties. To capture such effects, a phase-field fracture model coupled with chemo-mechanics is developed within a rate-type variational framework. Here, the displacements, a fracture-related phase-field, and the lattice hydrogen chemical potential are considered as the primary variables. Formulations proposed in the literature often use hydrogen concentration as the primary variable, necessitating ad hoc criteria to capture experimentally relevant boundary conditions. To address this, the model is reformulated into a mixed rate-type variational setting to introduce the chemical potential—whose gradient governs the hydrogen flux—as a primary variable dual to hydrogen lattice occupancy. Several examples are presented to verify the developed formulation and compare it with concentration-based models. The model’s ability to capture hydrostatic stress-dependent concentration evolution at the sub-surface, exposed to and in equilibrium with a hydrogen environment, is demonstrated. Furthermore, the onset of sub-critical crack growth under sustained mechanical load is highlighted qualitatively, emphasizing the model’s effectiveness in representing the effects of changing (sub-)surface concentration.}
+}

@@ -1,0 +1,13 @@
+@article{MA2025114454,
+title = {Exosomes derived from adipose mesenchymal stem cells promote corneal injury repair and inhibit the formation of scars by anti-apoptosis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114454},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114454},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007136},
+author = {Chunli Ma and Yixiao Li and Baoling Liu and Junjie Deng and Xue Gao and Huixin Zhang and Bingqiang Zhang and Qihui Zhou and Xiaoting Peng and Han Zhang},
+keywords = {Corneal injury repair, Exosomes, Mesenchymal stem cell, Anti-oxidant, Anti-apoptosis},
+abstract = {In the corneal wound healing process, epithelial cell re-epithelialization and migration are the critical first steps following an injury. As the disease progresses, orderly regeneration of corneal stromal collagen and mild corneal stromal fibrosis are vital for corneal function reconstruction. Exosomes derived from adipose-derived mesenchymal stem cells (ADSCs-Exos) have emerged as a promising therapy due to their anti-oxidant, anti-apoptosis, and tissue repair properties. In this study, we successfully isolated exosomes via differential centrifugation and verified their effective extraction through transmission electron microscopy and nanoparticle tracking analysis. In vitro, ADSCs-Exos increased corneal epithelial cell migration by 20 % and reduced oxidative damage by 50 %. In addition, ADSCs-Exos demonstrated remarkable wound healing properties in corneal tissue. This effect was attributed to their ability to inhibit apoptosis of corneal stroma cells by upregulating Bax and downregulating Bcl2, reducing the Bax/Bcl2 protein expression ratio from 1 to 0.45. This decrease may subsequently inhibit α-SMA expression, thereby preventing corneal scarring. Overall, this research has elucidated the effects and potential targets of ADSCs-Exos in promoting corneal wound repair, offering a novel and promising approach for treating corneal injuries.}
+}

@@ -1,0 +1,13 @@
+@article{DUTTA2025119221,
+title = {Buckling of variable angle tow steered laminates considering gap/overlap defects identified using innovative image processing},
+journal = {Composite Structures},
+volume = {368},
+pages = {119221},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119221},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003861},
+author = {Soumik Dutta and Wei Zhao},
+keywords = {Image processing, Manufacturing defects, Gaps and overlaps, Buckling analysis},
+abstract = {Advanced variable angle tow (VAT) steered laminates offer enhanced buckling performance due to their nonuniform stiffness distribution. However, manufacturing defects introduced during Automated Fiber Placement (AFP) might significantly reduce this benefit. Among the various manufacturing-induced defects, gaps and overlaps are common and difficult to eliminate during the VAT laminates fabrication. Identifying gap/overlap defects in VAT laminates is challenging due to multiple scenarios involved simultaneously in manufactured parts: overlaps, gaps, and normal layups. To address this, this study introduces an innovative image-processing-based, towpreg-wise modeling approach to identify the shape and location of each prepreg slit tape on AFP-manufactured composite laminates. The prepreg slit tapes for each layer can be segmented from the full laminate based on design specifications. Each segmented prepreg slit tape is represented by an image consisting of a white background and a black tape, which is converted into a binary matrix, where ‘1’ represents the presence of material in the current pixel and ‘0’ represents no material. This image processing step is repeated for all prepreg slit tapes in a layer, and their corresponding binary matrices are summed to create a global matrix that characterizes the material distribution within each layer of lamina. Based on the value in this global matrix, a value of ‘0’ denotes a gap (filled with resin), ‘1’ corresponds to normal layup with a single layer prepreg material, and values of ≥ ‘2’ indicate overlapping layups where thickness corrections are applied. The high-resolution background image is mapped to each element of the finite element model, incorporating corrected lamina properties that account for gap and overlap defects, and is used for subsequent structural analysis. The impact of these defects on the buckling performance of VAT laminates under thermal and mechanical loads is studied and discussed.}
+}

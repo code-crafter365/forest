@@ -1,0 +1,13 @@
+@article{QIN2025117840,
+title = {An inter-system iteration technique in the whole time domain implemented by the coupling of FEM and TD-BEM},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117840},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117840},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001124},
+author = {Xiaofei Qin and Hongjun Li and Changnv Zeng},
+keywords = {Coupling algorithm, Inter-system iteration technique, FEM, TD-BEM, Dynamics},
+abstract = {The paper introduces an innovative coupling technique, termed the Inter-System Iteration Technique (ISIT) in the whole time domain, which is effectively implemented by the coupling of the Finite Element Method (FEM) and Time Domain Boundary Element Method (TD-BEM) for dynamic analysis of intricate engineering problems. This approach divides the entire system into distinct FEM and TD-BEM parts, computed separately across the whole time domain using an optimal solution strategy. Its notable strength lies in achieving exceptional computational efficiency and accuracy by minimizing iterative calculations for each individual time step and employing iterative computations between the FEM and TD-BEM sub-systems. Notably, this method offers versatility, adaptable to various numerical algorithms and facilitating straightforward computation with commercial structural analysis software. The implemented ISIT in the whole time domain can also be used to couple arbitrarily two numerical algorithms. The paper validates its efficacy through two numerical applications, affirming its high computational efficiency and potential for addressing complex engineering challenges.}
+}

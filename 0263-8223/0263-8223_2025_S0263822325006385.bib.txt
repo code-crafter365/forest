@@ -1,0 +1,13 @@
+@article{HAUCK2025119473,
+title = {A stress-continuous plate model for delaminated sandwich panels},
+journal = {Composite Structures},
+volume = {371},
+pages = {119473},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119473},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006385},
+author = {Bence Hauck and András Szekrényes},
+keywords = {Sandwich panel, Stress-continuity, Finite element, Delamination, Shear deformable plate theory},
+abstract = {This study concerns a plate-theory-based model for thick delaminated sandwich panels with soft core materials. The developed model incorporates the third-order shear deformation theory and the Lagrange multiplier method for continua. The unfulfilled dynamic boundary and continuity conditions are granted by auxiliary equations and the multipliers. Hence, the model provides a continuous shear stress distribution where the dynamic boundary conditions are also satisfied on the outer surfaces. The soft core is considered a compressible layer, therefore, the transversal normal stress is taken into account. The current model assumes linear elastic but orthotropic material behaviour. Furthermore, the reduced global stiffness caused by the delamination is aimed to be captured thus the opening phenomenon is not allowed. To realize the structural analysis of particular problems, a finite element family was created based on the developed model. The results obtained from the new model are compared to experiments and well-known solution techniques such as analytical approaches and 3D finite element models.}
+}

@@ -1,0 +1,13 @@
+@article{FERDOUSI2025119179,
+title = {A deep learning and finite element approach for exploration of inverse structure–property designs of lightweight hybrid composites},
+journal = {Composite Structures},
+volume = {365},
+pages = {119179},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119179},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003447},
+author = {Sanjida Ferdousi and Zoriana Demchuk and Wonbong Choi and Rigoberto C. Advincula and Yijie Jiang},
+keywords = {Hybrid composites, Inverse structure–property (S-P) relationships, cGAN, Transfer learning, Tailor-made composites design},
+abstract = {Hybrid composites have important applications, such as high-performance and lightweight materials in aerospace and automotive industries. Hybrid composites utilize the synergy of diverse fillers to achieve desired material properties, but usually have more complicated microstructures. While topology optimization can optimize a particular property, designing hybrid composites for customized mechanical performances, e.g. full-range stress–strain curve, remains challenging. Here, a computational framework that integrated finite element analysis (FEA) and artificial intelligence (AI) methods of Conditional Generative Adversarial Networks (cGAN) deep learning and transfer learning was developed to establish inverse structure–property relationships and design tailor-made hybrid composites. Based on FEA-generated datasets of hybrid fiber-particle–matrix microstructures and theircorresponding full-range stress–strain curves, a cGAN architecture was trained to generate tailored microstructures and establish structure–property relationships. Similarity in microstructural features and well-matched stress–strain curves based on the AI-generated composites were achieved. Transfer learning was used to expand the pre-trained model for designing different materials systems.}
+}

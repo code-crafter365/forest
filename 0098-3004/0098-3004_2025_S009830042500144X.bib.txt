@@ -1,0 +1,13 @@
+@article{SANCHEZGALVIS2025105994,
+title = {ElasWave3D: A GPU-accelerated 3D finite-difference elastic wave solver for complex topography using irregular subdomain index arrays},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105994},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105994},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042500144X},
+author = {Ivan Javier Sánchez-Galvis and Herling Gonzalez-Alvarez and William Agudelo and Daniel O. Trad and Daniel A. Sierra},
+keywords = {Elastic waves, Finite difference methods, Synthetic seismic data, Graphics processing unit, Irregular topography},
+abstract = {Simulating seismic wave propagation in complex geological structures is a challenging task in exploration geophysics, especially in foothill regions characterized by rough topography, irregular bedrock interfaces, low-velocity surface sediments, and significant heterogeneities. Although existing numerical methods can address such scenarios, they often require highly refined grids that lead to elevated computational costs. To address this, we introduce ElasWave3D, a three-dimensional solver based on the finite difference method for elastic wave propagation in the presence of irregular topography, specifically designed for GPU acceleration. The solver employs a novel Irregular Subdomain Index Array (ISIA) strategy to implement the parameter-modified (PM) formulation, thus enforcing the free-surface condition for arbitrary topographic variations. We validated ElasWave3D against the well-known SPECFEM3D solver in scenarios with rough topography and heterogeneous media, observing misfit errors below 1% and correlation values exceeding 99% in most cases. Additionally, our solver achieves more than an order-of-magnitude speedup (13×) over its CPU-OpenMP implementation on 24 cores. Consequently, ElasWave3D enables cost-effective, realistic, and detailed simulations of near-surface seismic scattering in heterogeneous Earth models with irregular topography.}
+}

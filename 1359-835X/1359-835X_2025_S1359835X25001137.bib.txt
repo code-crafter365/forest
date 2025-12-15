@@ -1,0 +1,13 @@
+@article{DU2025108819,
+title = {A design method based on thermal barrier performance evaluation coefficients of micro-laminated ceramic cutting tool materials for clean dry machining},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108819},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108819},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001137},
+author = {Chongzhen Du and Chuanzhen Huang and Hanlian Liu and Xinyao Cui and Shijie Li and Dun Liu and Zhen Wang and Longhua Xu and Shuiquan Huang},
+keywords = {Micro-laminated ceramic tool, Thermal barrier performance, Evaluation coefficient, Cutting temperature},
+abstract = {The development of ceramic cutting tools usually focused on the optimization of mechanical properties, while ignoring the heat problem during cutting. Aiming at the problem of reducing tool life caused by thermal wear in dry machining, a design method of micro-laminated ceramic tool with thermal barrier function was proposed. Thermal barrier performance evaluation coefficients Yheat and Ytemp, which represent the change of cutting temperature and heat flux per unit thickness, were established for micro-laminated ceramic tools. The effects of material properties and thermal barrier thickness on the thermal barrier performance of cutting tools were characterized. A micro-laminated ceramic tool with good mechanical properties and thermal barrier function was prepared by coupling the surface layer of micro-nano composite thermal barrier with a ductile metal toughening matrix layer. Yheat and Ytemp indicated that the thermal barrier performance deteriorated with time. In the late turning process, the thermal barrier performance mainly came from the hindering effect on heat flux and the influence on temperature distribution. Along the tool-chip contact length, the thermal barrier performance was better at the location away from the main cutting edge. The clean dry turning test showed that compared with SG4, the AWZT with thermal barrier function suppressed thermal wear, improved machining surface quality and prolonged tool life by 56.8%. The development of thermal barrier functional micro-laminated ceramic cutting tools provides a new approach for the design of clean dry processing ceramic composite cutting tool materials, and has important guiding significance for the development of high-performance cutting tools.}
+}

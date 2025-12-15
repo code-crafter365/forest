@@ -1,0 +1,13 @@
+@article{QU2025111102,
+title = {Effects of introducing MXene nanosheets on the mechanical properties of carbon fiber reinforced epoxy composite at cryogenic temperature},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111102},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111102},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000703},
+author = {De-Yi Qu and Fang-Liang Guo and Wan-Dong Hou and Tao Guan and Yu-Tong Fu and Jie Hao and Chao-Yi Peng and Yong-Cun Zhang and Yuan-Qing Li and Shu-Tian Liu and Shao-Yun Fu},
+keywords = {MXene, CFRP composite, Cryogenic mechanical properties, Interfacial enhancement mechanism},
+abstract = {Carbon fiber reinforced epoxy (CFRE) composites have been concerned to achieve the light weighting of cryogenic fuel tanks for large launch vehicles. However, the mismatch of the coefficients of thermal expansion (CTEs) between epoxy matrix and carbon fibers hinder the application of CFRE composites in cryogenic fuel tanks. In this paper, the CFRE-MXene composite is prepared by using an MXene-modified epoxy resin as matrix, and the effects of introducing MXene nanosheets on the mechanical properties of CFRE-MXene composite at room temperature (RT) and 90 K are comprehensively investigated. The results indicate that the mechanical properties of CFRE-MXene composite are all obviously enhanced compared with those of the CFRE without MXene, and the MXene nanosheets incorporated can not only dramatically improve the strength of epoxy matrix, but also play a bridging and interfacial interlocking role between the matrix and carbon fibers. Meanwhile, MXene can effectively reduce the CTE of the epoxy matrix and alleviate the interface damage induced by residual thermal stresses. Moreover, a mesoscopic model is proposed to qualitatively reveal the interfacial enhancement mechanism between epoxy and carbon fibers by MXene. Consequently, proper interpretations are presented for the enhanced cryogenic mechanical properties of CFRE-MXene composite by introducing MXene.}
+}

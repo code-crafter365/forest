@@ -1,0 +1,13 @@
+@article{RIZZIERI2025118071,
+title = {A partitioned Lagrangian finite element approach for the simulation of viscoelastic and elasto-viscoplastic free-surface flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118071},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118071},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003433},
+author = {Giacomo Rizzieri and Liberato Ferrara and Massimiliano Cremonesi},
+keywords = {Oldroyd-B viscoelastic rheological model, Saramito elasto-viscoplastic constitutive model, Transient fluid dynamics, Particle Finite Element Method (PFEM), Adaptive time sub-stepping, Both Sides Diffusion (BSD) stabilization},
+abstract = {Many materials, such as clays, fresh concrete, and biological fluids, exhibit elasto-viscoplastic (EVP) behaviour, transitioning between solid and fluid states under varying stress conditions. Among EVP models, Saramito’s constitutive law stands out for its thermodynamic consistency, smooth solid-to-fluid transition, and ability to accurately represent diverse materials with only four easily determinable parameters. However, computational challenges have mainly confined its application to 2D or axisymmetric confined flows. This work presents an innovative partitioned Lagrangian FEM approach for the simulation of transient free-surface viscoelastic and EVP flows. The Lagrangian framework allows to naturally track free surfaces and simplifies the constitutive equation by eliminating the convective term. The solver decouples the Navier–Stokes equations (solved implicitly) from the EVP constitutive law (solved explicitly), employing an adaptive sub-stepping procedure. An advantageous splitting of the Cauchy stress tensor is used in combination with the Both Sides Diffusion (BSD) stabilization technique to prevent issues linked to the ellipticity loss in the momentum equation, also for low solvent-polymer viscosity ratios. The FEM solver has been integrated within the Particle Finite Element Method (PFEM), an updated Lagrangian formulation equipped with an efficient re-meshing scheme, to simulate free-surface flows, large deformations in soft solids, and topological changes of the domain. Benchmark tests in 2D and 3D, including gravity-induced spreading, impacting drops, and dam-break scenarios are used to validate the framework and highlight the versatility of Saramito’s model, which can also successfully reproduce a wide range of simpler sub-cases, including viscoelastic, viscoplastic, and EVP behaviours.}
+}

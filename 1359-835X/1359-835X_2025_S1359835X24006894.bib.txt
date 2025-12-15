@@ -1,0 +1,13 @@
+@article{LI2025108691,
+title = {BiVO4/MoO3 composites for ultra high performance energy-storing photocathodic protective coatings},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108691},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108691},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006894},
+author = {Siyi Li and Bin Liu and Huayang Tian and Yujie Ning and Shuo Wu and Yihan Song and Qi Wang},
+keywords = {BiVO/MoO composite, Coating, DFT calculation, Photocathodic protection, Energy-storage},
+abstract = {The practical application of photocathodic protection (PCP) technology has been hindered by its failure in darkness. In this work, The BiVO4/MoO3 composites were synthesized through a simple hydrothermal method, which were used as functional fillers, and then added to polyurethane resins to prepare energy-storing PCP coatings. This achievement enabled efficient PCP even in darkness. The 304 stainless steel coated with PCP coating (PB10M1) exhibited excellent photoelectrochemical properties as photocurrent density of 394 μA/cm2, and the corrosion potential decreased by about 350 mV. Furthermore, the cathodic protection effect of PB10M1 could last for 15 h in the dark, showing exceptional stability, superior energy-storage ability and potential application. The superior PCP performance of BiVO4/MoO3 should be attributed to the cooperative effect in heterojunction structure and electronic regulation revealed by electrochemical characterizations and DFT calculation.}
+}

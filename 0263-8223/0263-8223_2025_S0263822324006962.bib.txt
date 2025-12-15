@@ -1,0 +1,13 @@
+@article{WANG2025118568,
+title = {Buckling optimization of Double-Double (DD) laminates with gradual thickness tapering},
+journal = {Composite Structures},
+volume = {351},
+pages = {118568},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118568},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006962},
+author = {Dan Wang and Zhoucheng Su and Sridhar Narayanaswamy and Stephen W.L. Tsai},
+keywords = {Double-double (DD) laminates, Thickness tapering, Buckling, Structural optimization, Spacing constraints},
+abstract = {Double-double (DD) laminates are promising replacements for conventional Quad laminates in aerospace applications because of their inherent design simplicity and, more importantly, the ease of tapering. However, the thickness thinning due to tapering will significantly increase the risk of buckling failure. In this paper, we proposed an implicit global & local model for thickness tapering optimization of DD laminates to maximize buckling resistance under the given weight constraint or weight reduction under buckling constraints. Firstly, a global model is established for buckling load calculation, with material properties calculated from homogenization of local laminates using the classical laminate theory. Then, nodal repeats of a four-plies DD sub-laminate are chosen as design variables to interpolate the tapered thickness profile. Sensitivities of structural responses are calculated semi-analytically to achieve efficient gradient-based optimization. Tapering spacing constraints between adjacent thicknesses are introduced to mitigate the potential delamination due to the stress concentrations caused by sharp thickness variation at the cost of a reduced optimization effect. Finally, typical numerical examples show that DD laminates with optimal gradual thickness tapering can remarkably increase the structural buckling resistance or the weight reduction.}
+}

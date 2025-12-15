@@ -1,0 +1,13 @@
+@article{ZHOU2025114419,
+title = {Pectin/caffeic acid nanoparticles in a poloxamer thermosensitive gel for the treatment of ulcerative colitis by inhibiting cGAS-STING pathway},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114419},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114419},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006787},
+author = {Shilin Zhou and Zhenxin Yu and Wenqing Yao and Mengdi Wang and Yongqiang Yang and Jien Qin and Xiaochen Wu and Chuanlong Guo},
+keywords = {Pectin, Caffeic acid, Ulcerative colitis, CGAS-STING},
+abstract = {Ulcerative colitis is a recurring condition that causes inflammation and sores in the digestive system. Current clinical treatments for ulcerative colitis have limitations due to side effects and poor patient compliance. This study investigates the therapeutic potential of a novel drug delivery system, CA-Gel, which comprises caffeic acid (CA) stabilized by pectin nanoparticles within a poloxamer thermosensitive gel for rectal administration. The system aims to provide controlled and sustained release of CA directly to the colon. In vitro studies demonstrated that CA-Gel exhibited excellent biocompatibility, cytoprotective effects, and reduced oxidative stress and cellular apoptosis. In vivo studies using a dextran sulfate sodium (DSS)-induced colitis mouse model showed that CA-Gel significantly alleviated colitis symptoms, as evidenced by improvements in body weight, disease activity index (DAI), colon length, and histopathological assessments. Additionally, CA-Gel modulated the Cyclic GMP AMP synthase (cGAS)-stimulator of interferon genes (STING) pathway, reduced mitochondrial DNA (mtDNA) release, and inhibited inflammatory cytokines, thereby demonstrating its therapeutic potential in ulcerative colitis. The study concludes that CA-Gel is a promising rectal treatment for ulcerative colitis, offering a safe and effective alternative to existing pharmacological therapies.}
+}

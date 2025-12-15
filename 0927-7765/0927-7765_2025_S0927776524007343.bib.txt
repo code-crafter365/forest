@@ -1,0 +1,13 @@
+@article{SUN2025114475,
+title = {Zeolite-like algal biochar nanoparticles for enhanced antibiotics removal: Sorption mechanisms and theoretical calculations},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114475},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114475},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007343},
+author = {Jiaxing Sun and Lili Ji and Jiaxin Liu and Hao Yang and Teng Dong and Tongxin Liu},
+keywords = {Algal biochar, Ciprofloxacin, Tetracycline, Adsorption mechanism, Density functional theory},
+abstract = {In the study, Sargassum horneri (S. horneri) was used to create a novel zeolite-like algal biochar (KSBC). KSBC with doping of N, O, S, Al, and Si, displayed zeolite-like properties, including well-developed porosity, a high specific surface area (1137.60 m2/g), and a large number of oxygen-containing functional groups. According to bath adsorption experiments, ciprofloxacin (CIP) and tetracycline (TC) had maximum adsorption capacities of 352.936 and 265.385 mg/g, respectively, on KSBC. The adsorption behavior of the two antibiotics on KSBC was consistent with the Freundlich isotherm model and the pseudo-first-order kinetic model. According to the density functional theory calculations, the -OH, Si, N, and Al in KOH could change the electronic structure and increase absorbability. Additionally, pore adsorption, hydrogen bonding, complexation, electrostatic interaction, and π-π electron-donor-acceptor (EDA) interaction were the adsorption mechanisms of CIP and TC via KSBC. S. horneri algal biochar demonstrated encouraging promise as an adsorbent for eliminating antibiotics from wastewater.}
+}

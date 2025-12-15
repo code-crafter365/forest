@@ -1,0 +1,13 @@
+@article{YANG2025115019,
+title = {Engineered nanoplatform with DNase-mimetic catalysis and photothermal ablation for synergistic biofilm eradication},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115019},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115019},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005260},
+author = {Wei Yang and Xinyan Zheng and Dongxu Jia and Anzhuo Weng and Yujuan Jia and Xin Chen and Yanxia Zhang and Qian Yu},
+keywords = {Bacterial biofilm, eDNA degradation, Photothermal therapy, Extracellular polymeric substances},
+abstract = {Bacterial infections represent an increasing global health threat, exacerbated by the decline in antibiotic effectiveness due to widespread resistance. Biofilms, structured microbial communities embedded in extracellular polymeric substances (EPS), significantly hinder treatment by limiting antibiotic penetration and promoting bacterial persistence. With over 80 % of bacterial infections involving biofilms, there is an urgent need for antibiotic-free approaches that can disrupt these protective matrices. This study presents a dual-functional nanoplatform (Au-Ce NR) combining gold nanorods (Au NRs) as photothermal agents with synthetic deoxyribonuclease (DNase) mimics (Ce4+/nitrilotriacetic acid (NTA) complexes) for synergistic biofilm eradication. The system was developed through covalent conjugation of Ce4+/NTA complexes onto polyethylene glycol-functionalized Au NRs. Within biofilm microenvironments, Ce4+/NTA complexes selectively degrade extracellular DNA (eDNA), a vital EPS component, thereby destabilizing the biofilm and facilitating nanoplatform penetration. Near-infrared irradiation subsequently induces localized hyperthermia via Au NRs, effectively eliminating dispersed bacteria while minimizing the risk of resistance development. In vitro experiments demonstrated efficient eDNA degradation in methicillin-resistant Staphylococcus aureus (MRSA) and Pseudomonas aeruginosa biofilms, significantly enhancing bactericidal activity compared to unmodified Au NRs. In vivo assessments using an MRSA-infected wound model confirmed the therapeutic efficacy through reduced inflammation and accelerated wound healing. By combining enzymatic matrix disruption with photothermal ablation, this strategy addresses key limitations of conventional treatments for biofilm-associated infections in the post-antibiotic era.}
+}

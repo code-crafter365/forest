@@ -1,0 +1,13 @@
+@article{LIN2025102579,
+title = {Physics-informed neural networks for denoising high b-value diffusion-weighted images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102579},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102579},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000886},
+author = {Qiaoling Lin and Fan Yang and Yang Yan and Haoyu Zhang and Qing Xie and Jiaju Zheng and Wenze Yang and Ling Qian and Shaoxing Liu and Weigen Yao and Xiaobo Qu},
+keywords = {Neural networks, Denoising, Diffusion-weighted imaging, Reader study},
+abstract = {Diffusion-weighted imaging (DWI) is widely applied in tumor diagnosis by measuring the diffusion of water molecules. To increase the sensitivity to tumor identification, faithful high b-value DWI images are expected by setting a stronger strength of gradient field in magnetic resonance imaging (MRI). However, high b-value DWI images are heavily affected by reduced signal-to-noise ratio due to the exponential decay of signal intensity. Thus, removing noise becomes important for high b-value DWI images. Here, we propose a Physics-Informed neural Network for high b-value DWI images Denoising (PIND) by leveraging information from physics-informed loss and prior information from low b-value DWI images with high signal-to-noise ratio. Experiments are conducted on a prostate DWI dataset that has 125 subjects. Compared with the original noisy images, PIND improves the peak signal-to-noise ratio from 31.25 dB to 36.28 dB, and structural similarity index measure from 0.77 to 0.92. Our schemes can save 83% data acquisition time since fewer averages of high b-value DWI images need to be acquired, while maintaining 98% accuracy of the apparent diffusion coefficient value, suggesting its potential effectiveness in preserving essential diffusion characteristics. Reader study by 4 radiologists (3, 6, 13, and 18 years of experience) indicates PIND’s promising performance on overall quality, signal-to-noise ratio, artifact suppression, and lesion conspicuity, showing potential for improving clinical DWI applications.}
+}

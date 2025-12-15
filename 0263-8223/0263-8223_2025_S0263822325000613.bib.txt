@@ -1,0 +1,13 @@
+@article{LI2025118896,
+title = {An efficient strong form collocation method for the mechanical analysis of functionally graded thin plates with in-plane material inhomogeneity},
+journal = {Composite Structures},
+volume = {357},
+pages = {118896},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118896},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000613},
+author = {Bin Li and Jun Lv and Jingda Li and Miao Cui and Xiaowei Gao},
+keywords = {Strong-form method, Plate free element collocation method, Meshless method, FGM thin plates, Equation decomposition},
+abstract = {In this paper, an efficient strong form collocation method called the Plate Free Element Collocation Method (PFECM) is proposed to analyze the functionally graded thin plates with in-plane material inhomogeneity. In PFECM, a novel collocation technology that combines the Lagrange isoparametric element to interpolate the physical variables is used to generate the system equations node by node, which maintains stability and ease of use in solving higher-order equations. The method enhances computational efficiency by creating independent isoparametric elements at each collocation node with freely chosen surrounding nodes, which reduces the bandwidth of the coefficient matrix and improves the application of boundary conditions due to the Kronecker property of the shape functions. A recursive computational technique is then proposed to solve the arbitrary high-order derivatives involved in the governing equation, which makes the method applicable to the solution of any high-order equations. Furthermore, a physical decomposition strategy that transforms the original fourth-order partial differential equation into two second-order equations is investigated to improve the efficiency of shape function derivative calculations. Numerical examples related to the functionally graded thin plate static problems in the paper demonstrate the efficiency and accuracy of the proposed method.}
+}

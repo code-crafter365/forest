@@ -1,0 +1,13 @@
+@article{GUO2025118650,
+title = {Three-dimensional mesoscopic investigation on the dynamic compressive behavior of coral sand concrete with reinforced granite coarse aggregate (GCA)},
+journal = {Composite Structures},
+volume = {352},
+pages = {118650},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118650},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007785},
+author = {Ruiqi Guo and Jie Dong and Linjian Ma and Zhilin Long and Fu Xu and Changjun Yin},
+keywords = {Coral sand concrete, Granite coarse aggregate, 3D mesoscopic model, Dynamic mechanical properties, Stress loading wave},
+abstract = {In the construction of island and reef engineering, coral concrete shows a good application prospect due to its abundant raw materials. However, the porous and fragile mechanical characteristics of coral reefs limit their use as coarse aggregate in the preparation of coral concrete materials. This study utilized hard and dense granite as the coarse aggregate and regarded coral sand concrete as a two-phase composite material consisting of spherical granite coarse aggregate (GCA) and coral mortar. It investigated the enhancement effect of granite on coral concrete from a microscopic perspective. Five 3D mesoscopic models with different GCA contents and randomly distributed aggregates were established to reveal the variation patterns and failure mechanisms of coral sand concrete under impact loading with GCA. The findings demonstrate that the K&C model can effectively simulate the dynamic compression behavior of coral mortar and granite materials. Under the action of a half-sine incident wave, the dynamic compressive strength of the samples increases with the increase in GCA, demonstrating that the addition of GCA can effectively enhance the impact resistance of coral sand concrete. As the content of GCA increases, the sensitivity of the samples to the loading wave amplitude also increases accordingly.}
+}

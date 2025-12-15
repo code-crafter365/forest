@@ -1,0 +1,13 @@
+@article{LI2025117996,
+title = {A staggered grid shell particle method for shell structural damage subjected to underwater explosion},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117996},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117996},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002683},
+author = {Jiasheng Li and Yong Liang and Zhixin Zeng and Xiong Zhang},
+keywords = {Material point method, Solid shell, Staggered grid, Structural damage, Underwater explosion},
+abstract = {A novel staggered grid shell particle method (SGSPM) is proposed in this paper to model the shell structural damage subjected to underwater explosion. The material point method (MPM) is used to model the fluid in underwater explosion, and the solid shell material point method (SSMPM) is adopted to model the shell structures. A staggered grid scheme is employed to eliminate the cell crossing noise and improve the accuracy of fluid simulation, and a conversion algorithm is proposed to handle the dynamic fracture of shell structures. In addition, a local multi-mesh contact method is introduced into the staggered grid scheme for modeling the fluid–structure interaction. Several numerical examples, including full hemispherical shell, penetration of a thin plate, large deformation of a plate subjected to underwater explosion, fragmentation of a plate and structural damage of a ship hull subjected to contact underwater explosion, are studied by the proposed SGSPM, and the numerical results agree well with the data in the literature and experiments.}
+}

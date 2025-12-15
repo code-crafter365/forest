@@ -1,0 +1,13 @@
+@article{REN2025118869,
+title = {Failure response of bolt-clamped sandwich containing a hybrid foam core with continuous composite encasement},
+journal = {Composite Structures},
+volume = {356},
+pages = {118869},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118869},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000340},
+author = {Jianwei Ren and Han Meng and Wenbo Gao and Xue Li and Daqiao Zhang and Hongwei Zhu and Jian Wu and Bangjie Li and Zhenyu Zhao},
+keywords = {Sandwich construction, Bolt-clamped boundary, Failure behavior, Load-bearing capacity, Continuous composite encasement},
+abstract = {Investigating the failure behaviors and load-bearing performance of bolt-clamped target loaded is crucial for the design of the connection between purposely designed parts to others. The failure response and underlying mechanism within the bolt-clamped sandwich with a continuous composite encasement (CCE) are investigated both experimentally, numerically, and analytically. An analytical model is developed through the competition mechanism between the four potential failure modes, which is also employed to construct a failure mechanism map. The load-bearing capacity and operative failure initiation are determined as a function of geometric dimensions, which include the diameter size and the position of the bolt hole. A combination of analytical calculation and finite element simulation shows that the presence of a CCE component significantly improves the load-bearing capacity of such a sandwich target by at least 59%. And such enhancement effect is governed directly by the combination of the bolt-hole dimensions and the material properties of CCE. Furthermore, the optimal design targeting the superior load-bearing force of bolt-clamped sandwich is presented via the representation of developed failure mechanism maps. In addition, the mechanism map explains the underlying mechanism of the complex failure mode observed in postmortem sandwiches from the perspective of the cumulative damage history of complex failure behavior scenarios. Finally, FE simulation for the large-scale sandwich is implemented to compare the enhancement effect induced by CCE on the dimensional scale of such bolt-clamped sandwiches. The results of this study are valuable for understanding the failure response and load-bearing behavior of bolt-clamped sandwiches and provide technical guidance for the optimal design of the clamping strategy with the desired mechanical properties.}
+}

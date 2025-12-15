@@ -1,0 +1,13 @@
+@article{WEI2025110960,
+title = {Symmetric sandwich–like rubber composites for “green” electromagnetic interference shielding and thermal insulation},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110960},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110960},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400530X},
+author = {Zijian Wei and Yu Cheng and Yanran Sun and Yanhu Zhan and Yanyan Meng and Yuchao Li and Hesheng Xia and Xiancai Jiang},
+keywords = {Sandwich-like structure, Electromagnetic shielding, Thermal insulation, Porous, Segregated network},
+abstract = {Electromagnetic interference (EMI) shielding rubber composites with thermally insulating properties are necessary for some specific sealing fields, but their fabrication is challenging because it is difficult to realize a balance between high electrical conductivity and low thermal conductivity. Herein, symmetric sandwich–like rubber composites composed of an unfoamed core sandwiched by two foamed layers were prepared using a layer-by-layer vulcanization procedure. Importantly, a segregated Fe3O4@carbon nanotube (Fe3O4@CNT) network was constructed within the entire composite. This structure improved the shielding effectiveness (SE) and decreased the thermal conductivity of Fe3O4@CNT/rubber composites. When the density of the foamed layers was 0.60 g/cm3, the thermal conductivity, electrical conductivity, and SE of the resultant composites were 0.14 W/m K, 21.5 S/m, and 40.7 dB, respectively, and their green index (gs) was 2.13, implying that the prepared materials were “green” EMI-shielding composites. This study provides directions on fabricating EMI shielding materials with thermally insulating performance.}
+}

@@ -1,0 +1,13 @@
+@article{NGUYEN2025117603,
+title = {A data-driven uncertainty quantification framework in probabilistic bio-inspired porous materials (Material-UQ): An investigation for RotTMPS plates},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117603},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117603},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008570},
+author = {Duong Q. Nguyen and Kim Q. Tran and Thinh D. Le and Magd Abdel Wahab and H. Nguyen-Xuan},
+keywords = {Bio-inspired structures, Rotating triply periodic minimal surface, Material uncertainty, Missing data, Probabilistic approach},
+abstract = {Data-based uncertainty quantification plays a significant role in the design of various patterns of new materials and structures. However, significant challenges remain due to missing data, inherent uncertainties, and incomplete material properties arising from the manufacturing process. In this paper, we quantitatively investigate the uncertainty in the probability of the mechanical response of bio-inspired porous structures, specifically focusing on a RotTPMS plate as input data in the current study. Practicality, datasets can be collected from arbitrary material sources such as open-access libraries, experimental data, or numerical simulation results. Initially, machine learning models were utilized to handle incomplete data on metal material properties through imputation. The imputation methods used for filling in the data include MEAN, KNN, MICE, GAIN, and MISSFOREST. The results showed that the MISSFOREST method was the most accurate, with the lowest MAPE values of 3.19% for Es, 0.66% for νs, and 2.6% for ρs. Concurrently, we introduce an efficient BNN-pSGLD model, which employs Bayesian neural networks with the preconditioned stochastic gradient Langevin dynamics method for sampling and optimization, aimed at data-driven uncertainty quantification. A data-driven computational framework, named Material-UQ, is proposed to probabilistically predict the mechanical response of various structures, accounting for uncertainties in material properties. The BNN-pSGLD model achieves higher R2 performance than conventional machine learning models such as ANNs, Decision Trees, and Random Forests. Additionally, to assist designers in accurately predicting and managing uncertainties in material and structural design, detailed discussions and deep explanations of the uncertainty in the present approach are also conducted.}
+}

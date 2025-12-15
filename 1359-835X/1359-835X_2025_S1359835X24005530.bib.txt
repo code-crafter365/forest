@@ -1,0 +1,13 @@
+@article{FAN2025108555,
+title = {Intelligent predicting and monitoring of ultra-high-performance fiber reinforced concrete composites − A review},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108555},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108555},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005530},
+author = {Dingqiang Fan and Ziao Chen and Yuan Cao and Kangning Liu and Tianyi Yin and Xue-Sen Lv and Jian-Xin Lu and Ao Zhou and Chi {Sun Poon} and Rui Yu},
+keywords = {Fiber reinforced concrete composites, Mechanical properties, Microstructures, Intelligent predicting, Computational modelling, Microstructural analysis},
+abstract = {Ultra-high-performance fiber reinforced concrete (UHPFRC) is an advanced composite known for its exceptional mechanical properties and durability, playing a vital role in modern civil engineering. The convergence of cutting-edge information technology has propelled UHPFRC into a new era characterized by intelligent advancements. This review explores state-of-the-art advancements in UHPFRC, focusing on two key areas: intelligent prediction methods and monitoring techniques. Current methods for predicting UHPFRC properties are mainly divided into statistical and machine learning (ML) approaches. While statistical methods rely on regression models derived from experimental data, ML techniques leverage artificial intelligence to deliver higher accuracy in predicting UHPFRC properties. The intelligent monitoring methods for UHPFRC structures predominantly include sensor monitoring, visual identity monitoring and self-sensing monitoring. AI aid method can further improve the efficiency of the sensor monitoring. Among these, self-sensing monitoring has good prospects since it can be motivated by the piezoelectric effect of the UHPFRC matrix acting as a sensor for in-situ monitoring. The integration of these intelligent prediction and monitoring systems indicates a significant advancement for UHPFRC, enhancing its capability as an intelligent construction material that supports performance evaluation and structural monitoring during its life cycle.}
+}

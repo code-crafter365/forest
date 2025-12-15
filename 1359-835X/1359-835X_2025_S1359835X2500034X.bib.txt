@@ -1,0 +1,13 @@
+@article{YU2025108740,
+title = {Enhancing the mechanical properties of carbon fiber/epoxy resin laminates through a combination of carbon fiber coating and matrix reinforcement with an aminated para-polyamide},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108740},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108740},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500034X},
+author = {Boshi Yu and Yiwei Zhang and Yue Liu and Yewei Jin and Yihu Song and Mao Peng},
+keywords = {Carbon fibers, Thermosetting resin, Laminates, Mechanical properties},
+abstract = {Carbon fiber (CF) reinforced resin composites (CFRCs) fabricated through vacuum-assisted resin infusion (VARI) have been extensively used in various industries. Inorganic nanomaterials that improve the strength and toughness of matrices significantly increase the viscosity, making the VARI process difficult. Furthermore, improving the CF-matrix interfacial interactions using commercial polymeric sizing agents potentially leads to a reduction in the glass transition temperature of high cross-linking density epoxy resins. Herein, poly(p-amino-phenylene amino-terephthalamide) ((NH2)2-PPTA), an aminated para-polyamide, was used as a novel sizing agent for CFs and as a reinforcing agent for the matrix. With the addition of just 0.139 mg/cm2 of (NH2)2-PPTA on each CF sheet and 0.5 wt% of (NH2)2-PPTA in the matrix, the flexural strength, fracture total energy, interlaminar shear strength, and mode II interlaminar fracture toughness are enhanced by 32.4 %, 61.7 %, 39.6 %, and 90.9 %, respectively, significantly higher than those of CFRCs individually modified by fiber sizing or matrix reinforcement.}
+}

@@ -1,0 +1,13 @@
+@article{PORTALESPICAZO2025108664,
+title = {Efficient characterization and optimization of pyrolysis in carbon-carbon composites through machine learning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108664},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108664},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006626},
+author = {Paulina {Portales Picazo} and Alexander Gray and Navid Zobeiry},
+keywords = {Carbon-carbon composites (CCCs), High-temperature properties, Physical properties, Statistical methods},
+abstract = {The processing parameters during pyrolysis of carbon–carbon composites (CCCs) directly influence reaction kinetics and thus determine the end-part properties. This underscores the need for process optimization, particularly for complex temperature cycles. However, existing approaches for pyrolysis optimization are time-consuming and resource-intensive and often neglect the effects of complex temperature cycles. We present a machine learning-based framework to accelerate the characterization and optimization of pyrolysis in CCCs. Using targeted thermogravimetric analysis (TGA) tests, this approach efficiently optimizes pyrolysis parameters of a material. Additionally, transfer learning enables rapid adaptation to new material systems. Demonstrated on two phenolic-based materials, the machine learning model accurately predicts pyrolysis under complex cycles, using only eight TGA tests and achieving prediction errors under 3%. By coupling finite element (FE) analysis with machine-learning-based kinetics models, we also investigate thickness effects on pyrolysis.}
+}

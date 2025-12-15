@@ -1,0 +1,13 @@
+@article{ZHANG2025114293,
+title = {A red cell membrane-camouflaged nanoreactor for enhanced starvation/chemodynamic/ion interference therapy for breast cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114293},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114293},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005526},
+author = {Junhao Zhang and Nan Chen and Luping Ren and Lei Nie and Khaydar E. Yunusov and Uladzislau E. Aharodnikau and Sergey O. Solomevich and Yanfang Sun and Guohua Jiang},
+keywords = {Anti-tumor, Starvation therapy, Chemodynamic therapy, Ion interference therapy},
+abstract = {In this study, a multifunctional Cu-doped CaO2 nanoreactor loaded with GOx and camouflaged with a folic acid-modified cell membranewas developed for breast cancer treatment. The as-developed composite nanoreactor showed a synergistic effect on calcium overload to damage mitochondria, thus killing tumor cells to achieve ion interference therapy (IIT). The loaded GOx could deplete glucose to “starve” tumor cells. The H2O2 released by CaO2 decomposition and enzyme catalytic reactions from GOx could not only be highly toxic in the tumor microenvironment but also enhance the efficiency of chemodynamic therapy (CDT) with Cu2+. The red blood cell membranes modified by folic acid achieved a combination of active targeting and passive targeting, thereby enhancing the targeting ability of the as-prepared multifunctional composite nanoreactor and prolonging its retention time at the tumor sites for more than 48 h.}
+}

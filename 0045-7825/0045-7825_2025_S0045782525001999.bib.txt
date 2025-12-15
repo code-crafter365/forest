@@ -1,0 +1,13 @@
+@article{GUERMOND2025117927,
+title = {Invariant-domain preserving and locally mass conservative approximation of the Lagrangian hydrodynamics equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117927},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117927},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001999},
+author = {Jean-Luc Guermond and Bojan Popov and Laura Saavedra and Madison Sheridan},
+keywords = {Lagrangian hydrodynamics, Conservation equations, Hyperbolic systems, Moving meshes, Invariant domains, Finite element method},
+abstract = {In this paper we construct an explicit approximation for the Lagrangian hydrodynamics equations equipped with an arbitrary equation of state. The approximation of the state variable is done with piecewise constant finite elements and the approximation of the mesh motion is done with higher-order continuous finite elements. The method is invariant-domain preserving and locally mass conservative. The purpose of this method is to be used in combination with higher-order methods to make them invariant domain preserving as well.}
+}

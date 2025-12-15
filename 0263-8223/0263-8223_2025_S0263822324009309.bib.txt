@@ -1,0 +1,13 @@
+@article{HUANG2025118802,
+title = {Investigating the mode one interlaminar performance of semi-woven 3D printed hybrid composites},
+journal = {Composite Structures},
+volume = {354},
+pages = {118802},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118802},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009309},
+author = {Cheng Huang and Michael Norton and Mathew W. Joosten},
+keywords = {3D printing, Hybrid, Interlaminar properties, Scanning electron microscope},
+abstract = {Interlaminar performance governs a composites’ ability to resist delamination and cracking between plies. It is hypothesised that the interlaminar fracture toughness of hybrid composites exhibit a linear relationship based on the volume of the constituent materials. To validate this hypothesis, the interlaminar performance of 3D printed intraply hybrid semi-woven composites was investigated using double cantilever beam (DCB) samples. The hybrid composites were fabricated from two types of tow-preg filaments that consist of either carbon or glass fibres impregnated with polyamide, referred to as low elongation (LE) and high elongation (HE) materials respectively. The experimental results of propagation interlaminar fracture toughness of semi-woven hybrid composites aligns well with the linear rule of mixtures (ROM) predictions. Scanning electron microscopy (SEM) provided microstructural insights into fracture mechanisms, exhibiting different fracture surface features that varied with the ratio of low elongation (LE) material. These findings show that the linear ROM can predict the interlaminar performance of semi-woven intraply hybrid composites based on the material properties of the constituent material properties, offering a straightforward method for optimising fracture toughness by adjusting the ratio of fibres within the composite structure.}
+}

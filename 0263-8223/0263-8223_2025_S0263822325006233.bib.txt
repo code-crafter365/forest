@@ -1,0 +1,13 @@
+@article{HAMID2025119458,
+title = {Optimization of auxetic honeycomb structures for mechanical performance},
+journal = {Composite Structures},
+volume = {371},
+pages = {119458},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119458},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006233},
+author = {Usama Hamid and Jianfu Bai and Gregor Kosec and Lihua Wang and Magd {Abdel Wahab}},
+keywords = {Auxetic Structures, Negative Poisson’s Ratio, Optimization, Honeycomb Structures},
+abstract = {The extremely beneficial qualities of auxetic structures displaying a negative Poisson’s ratio, such as lighter performance, energy absorption, strong shear, and indentation resistance, have drawn attention to these types of structures. In this paper, several auxetic honeycomb structures, including re-entrant auxetic, anti-tetrahedral chiral, hexachiral, anti-tri chiral, and double arrowhead, are optimized, and their weight distribution is the main emphasis of this work. The study employs four meta-heuristic optimization algorithms: Multiverse Optimizer (MVO), inspired by black holes and wormholes; Arithmetic Optimization Algorithm (AOA), based on mathematical operators; Sine Cosine Algorithm (SCA), using sine and cosine functions; and Flow Direction Algorithm (FDA), simulating water flow to find optimal solutions. Utilizing optimization approaches, various geometric properties of cells like angles, wall thickness, and ligament lengths have been optimized to minimize negative Poisson’s ratio and enhance structural efficiency. The analysis reveals that structural geometry significantly influences weight distribution, with configurations like anti-tetrahedral chiral achieving low mass through efficient material usage, while re-entrant and double arrowhead structures balance weight and performance due to reduced hollow spaces. These findings highlight the critical role of geometric optimization in tailoring auxetic structures for lightweight, high-strength applications across engineering and materials science domains. FDA demonstrated superior optimization performance, achieving the most negative Poisson’s ratio, with MVO delivering comparable results. AOA and SCA were effective but less precise in fine-tuning auxetic properties.}
+}

@@ -1,0 +1,13 @@
+@article{AMANDODEBARROS2025109209,
+title = {Resolving discrepancies in wood micromechanics: Strain-mapped compression of tracheid wall micropillars},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109209},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109209},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005032},
+author = {Júlio O. {Amando de Barros} and Jakob Schwiedrzik and Falk K. Wittel},
+keywords = {Anisotropic organic composites, Electron beam-induced degradation, Micropillar compression testing, Cell wall micromechanics},
+abstract = {Wood’s increasing role as a structural resource in sustainable materials selection demands accurate characterization of its mechanical behavior. Its performance arises from a hierarchical structure, where the dominant load-bearing component is the S2 layer of tracheid cell walls—a thick, fiber-reinforced composite of cellulose microfibrils embedded in hemicelluloses and lignin. Due to the small dimensions and anisotropic nature of the S2 layer, mechanical testing presents significant challenges, particularly in producing uniform stress and strain fields. In this study, we apply micropillar compression (MPC) combined with digital image correlation (DIC) to Norway spruce tracheids, enabling direct and model-free strain measurements at the cell wall scale. Micropillars were oriented at different microfibril angles (MFAs), confirming the expected dependence of stiffness and yield stress on ultrastructural alignment, with higher stiffness and yield stress at low MFAs. For these under compression fibril-aligned kink bands occurred, while shear related failure was observed at higher angles. A parameter study on the acceleration voltage of the Scanning Electron Microscope revealed that electron beam exposure significantly degrades pillar integrity, which could explain data scatter and mechanical underestimation in earlier MPC studies. By controlling imaging protocols and using DIC-based strain measurements, we report the highest direct measurements of wood cell wall stiffness to date – up to 42GPa for MFA = 0° – closer matching micromechanical model predictions compared to previous results. Findings are compared with Finite Element Method-based displacement corrections to establish a robust protocol for probing soft, anisotropic biological composites’ mechanical behavior while clarifying longstanding inconsistencies in reported results of wood MPC measurements.}
+}

@@ -1,0 +1,13 @@
+@article{COSTA2025114359,
+title = {Dexamethasone-loaded chitosan-decorated PLGA nanoparticles: A step forward in attenuating the COVID-19 cytokine storm?},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114359},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114359},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006180},
+author = {Mirsiane Pascoal Costa and João Octavio Carneiro Abdu and Maria Clara {Machado Resende Guedes} and Michelle Alvares Sarcinelli and Rodrigo Luiz Fabri and Frederico Pittella and Gilson Costa Macedo and Fernanda Maria Pinto Vilela and Helvécio Vinícius Antunes Rocha and Guilherme Diniz Tavares},
+keywords = {COVID-19, SARS, Dexamethasone, PLGA, Chitosan},
+abstract = {This study aims to develop and characterize poly (lactic-co-glycolic acid) (PLGA) nanoparticles decorated with chitosan (CS) for the encapsulation of dexamethasone (DEX) (NP-DEX-CS), targeting improved efficacy in the treatment of severe acute respiratory syndrome (SARS) associated with COVID-19. The nanoparticles were systematically characterized for size, zeta potential (ZP), morphology, encapsulation efficiency, and in vitro drug release. Incorporation of CS resulted in significant modifications in the nanoparticles' physical properties, notably an increase in size (from 207.3 ± 6.7 nm to 264.4 ± 4.4 nm) and a shift in ZP to positive values (from −11.8 ±1.4 mV to +30.0 ± 1,6 mV). The NP-DEX-CS formulation achieved a high encapsulation efficiency (∼79 %) and a drug loading capacity of 6.53 ± 0.02 %.In addition, the in vitro release rate of DEX from NP-DEX-CS was lower compared to undecorated nanoparticles, with a reduction from approximately 64–37 % within 24 h. Microscopy analyses revealed a smoother surface on the CS-decorated nanoparticles. FTIR and XRD analyses confirmed successful chitosan coating and DEX encapsulation. The CS coating enhanced the tolerability of J774.A1 cells to the nanoparticles, particularly evident at the highest concentration (400ug/mL), resulting in a cell viability ≥70 %. Importantly, the NP-DEX-CS significantly reduced levels of nitric oxide and inflammatory cytokines (IL-1, IL-6, IL-12, and TNF-α). These findings suggest that CS-decorated PLGA nanoparticles hold promise as an effective dexamethasone delivery system for treating SARS related to COVID-19.}
+}

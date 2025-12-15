@@ -1,0 +1,22 @@
+@article{ZHUO2025114466,
+title = {Gelatin methacryloyl @MP196/exos hydrogel induced neutrophil apoptosis and macrophage M2 polarization to inhibit periodontal bone loss},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114466},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114466},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007252},
+author = {Haiwei Zhuo and Shuting Zhang and Hongbo Wang and Jiayin Deng and Xi Zhang},
+keywords = {Neutrophil, Exosomes, Apoptosis, M2 polarization, Periodontitis},
+abstract = {Objectives
+Periodontitis is an inflammatory and destructive disease caused by dental plaque, which can result in the immune microenvironment disorders and loss of periodontal support tissue. In order to promote the restoration of local microenvironment stability, a functional biomaterial Gelatin methacryloyl @MP196/exos based on characteristics of disease occurrence is designed.
+Methods
+Transmission electron microscopy, nanosight particle tracking analysis and western blot analysis were applied to prove the presence of exos in GelMA@MP196/exos. The swelling and degradation rates of GelMA@MP196/exos were evaluated. Cell proliferation, antibacterial ability and cellular uptake and intracellular internalization of exos were assessed in the study. Efferocytosis and M2 polarization of macrophages was estimated and the effects of GelMA@MP196/exos were proved in vivo.
+Results
+GelMA@MP196/exos upregulated the expression of genes and proteins related to neutrophil apoptosis and promoted neutrophil apoptosis, macrophage M2 polarization, and efferocytosis. Furthermore, GelMA@MP196/exos exhibited significant antibacterial activity against Streptococcus gordonii, Fusobacterium nucleatum, and Porphyromonas gingivalis. GelMA@MP196/exos alleviated periodontitis and reduced alveolar bone loss in vivo in rat models.
+Conclusions
+GelMA@MP196/exos can serve as a potential strategy for the treatment of periodontitis.
+Clinical Significance
+The main aim of periodontal therapy is to remove dental plaque and eliminate inflammation. However, some patients with low plaque scores and insufficient neutrophil clearance, resulting in poor responsiveness to periodontal therapy. Under the circumstances, local Application of drug that regulate the immune microenvironment had significance in controlling the progression of inflammation.}
+}

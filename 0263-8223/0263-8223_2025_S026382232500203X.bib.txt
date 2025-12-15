@@ -1,0 +1,13 @@
+@article{DASILVA2025119038,
+title = {Development of an extrapolation method to predict the flexural properties of glass-fiber/epoxy composites subject to hygrothermal aging},
+journal = {Composite Structures},
+volume = {360},
+pages = {119038},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119038},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500203X},
+author = {Geovane de A.S. {da Silva} and José R.M. d’Almeida and Daniel C.T. Cardoso and Priscilla S.C. Vieira and Bruno J. Lopes and Antonio H.M. da F.T. {da Silva} and Valber A. Perrut},
+keywords = {Polymer-matrix composites (PMCs), Moisture Absorption, Degradation, Mechanical Behavior, Modeling},
+abstract = {This work deals with the mechanical degradation of glass-fiber/epoxy composites used in repairs of offshore metal pipelines exposed to aging in a saline environment. The materials used were a bicomponent DGEBA epoxy and a woven bidirectional E-glass fabric. In order to simulate the harsh environment, the composite was exposed to accelerated hygrothermal aging tests in three independent salt spray chambers at temperatures of 35, 55 and 70 °C. The composite had its mass gain and three-point bending properties monitored over time. It was observed that temperature played a major role in accelerating properties’ degradation. Additionally, for long-term exposure, the retention of mechanical properties presented a plateau, which could be perfectly modeled by the modified Phani and Bose model, proposed in this work. An innovative predictive methodology was developed based on this model, allowing extrapolation of long-term aging tests to temperatures different from those analyzed experimentally, including ambient temperature. The methodology developed is the key strength to be highlighted in the work, which allowed data extrapolation, reducing the number of experiments to evaluate the aging process of composites.}
+}

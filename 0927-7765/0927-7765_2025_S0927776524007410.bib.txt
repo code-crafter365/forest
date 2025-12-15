@@ -1,0 +1,13 @@
+@article{BARLOW2025114482,
+title = {Experiments and modelling of pulmonary surfactant disruption by aerosolised compounds},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114482},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114482},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007410},
+author = {Hugh Barlow and Sreyoshee {Roy Sengupta} and Maria Teresa Baltazar and Jorid B. Sørli},
+keywords = {Pulmonary surfactant, Surfactant dysfunction, Dilational rheology, Adsorption-desorption kinetics},
+abstract = {Within the deep lung, pulmonary surfactant coats the air-liquid interface at the surface of the alveoli. This complex mixture of amphiphilic molecules and proteins modifies the surface tension and mechanical properties of this interface to assist with breathing. In this study, we examine the effects on pulmonary surfactant function by two industrially used compounds composing surfactants and polymers. Using an experimental method previously developed to imitate the in vivo exposure in the alveoli, we quantify the change in the dilational rheology of the pulmonary surfactant due to the introduction of two widely used chemicals; Benzalkonium Chloride (BAC) and Polyhexamethylene Biguanide (PHMB). We observe that these chemicals alter the dilational rheology of the surfactant monolayer. Using a mechanistic theory, we are able to semi-quantitatively model the changes induced by the introduction of these compounds to the pulmonary surfactant.}
+}

@@ -1,0 +1,13 @@
+@article{LIN2025110941,
+title = {Anti-ballistic properties of hybrid UHMWPE fiber-reinforced composite armour},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110941},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110941},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005116},
+author = {Jun Lin and Yongqiang Li and sheng Liu and Hualin Fan},
+keywords = {Hybrid plate, Ballistic impact, Digital image correlation (DIC), Back face deformation (BFD), Penetration mechanisms},
+abstract = {The ballistic performance of three hybrid composite plates, including ultra-high molecular weight polyethylene (UHMWPE), UHMWPE/Aramid, and UHMWPE/CFRP with similar surface density, was studied in the paper. These plates were tested under the impact of 7.62×25 mm full metal jacket (FMJ) bullets, with the dynamic back deformation (BFD) captured using Digital Image Correlation (DIC) technology. The effects of material combinations and striking faces on the dynamic response were discussed. The deformation and penetration mechanisms were analyzed using optical microscopy and micro-CT tomography. The results indicated that the UHMWPE/CFRP plate exhibited the lowest BFD, followed by UHMWPE and the UHMWPE/Aramid plate. When UHMWPE severed as the striking face, the fibers underwent through-thickness compression, which transitioned to in-plane tension and led to an elongated fracture of yarns. Similarly, Aramid fibers also experienced tensile fractures under similar conditions. In contrast, carbon fibers had brittle shear fractures when CFRP was the striking face. Additionally, the “V-shaped” cone traveling hinge velocity was calculated using DIC results, and the effects of the plate bending stiffness and wave impedance on protective performance were discussed. The findings emphasize the importance of an optimal material configuration to mitigate the propagation of compressive waves in the thickness direction and enhance bending stiffness, which is crucial for improving protection within ballistic limits.}
+}

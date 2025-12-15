@@ -1,0 +1,13 @@
+@article{LI2025118028,
+title = {A fourth-order reaction diffusion-based level set method for isogeometric topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118028},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118028},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003007},
+author = {He Li and Jianhu Shen and Xuyu Zhang and Shiwei Zhou},
+keywords = {Topology optimization, Biharmonic term, Isogeometric analysis, NURBS},
+abstract = {This study presents a fourth-order reaction-diffusion isogeometric optimization method to effectively control curvature variations in minimum mean compliance optimization problems. Using isogeometric analysis with k-refinement technique, the level set function—parameterized using Non-Uniform Rational B-Splines (NURBS) to represent complex geometries while maintaining computational stability accurately—is updated to achieve smoother geometries with higher-order continuity. The elasticity equation is also solved using isogeometric analysis, which preserves precise geometric representation and eliminates the approximation errors associated with finite element analysis. Numerical examples show that the proposed method generates sharper, corner-free complex structures in significantly less computational time than traditional second-order reaction-diffusion methods. For instance, the proposed method produces a 2D quarter annulus under a 40 % volume constraint in just 13 iterations. At the same time, it only needs 20 iterations to yield an elegant 3D serpentine structure in an arbitrarily shaped design domain. The method demonstrates high efficiency, superior accuracy, and enhanced continuity, indicating its potential for various engineering applications.}
+}

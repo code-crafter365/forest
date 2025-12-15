@@ -1,0 +1,13 @@
+@article{LEITCH2025119706,
+title = {The influence of coupled thickness variation in the aeroelastic response of continuous tow sheared composite wing},
+journal = {Composite Structures},
+volume = {374},
+pages = {119706},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119706},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008712},
+author = {Harry J. Leitch and Olivia Stodieck and Jie Yuan},
+keywords = {Tow steering composite, Aeroelasticity, Manufacturing uncertainty, Thickness variation, Uncertainty quantification},
+abstract = {Continuous tow shearing (CTS) as a promising fibre tailoring manufacturing technique can significantly improve composite structures’ buckling resistance and aeroelastic response. However, the orientation of the steered fibres will often affect the thickness of the CTS composites, which cannot be normally modelled by classical Tsai lamination parameters, possibly leading to under-/overestimation of their aero-mechanical performance of aerospace systems. This study investigates the impact of coupled thickness variation on the aeroelastic behaviour of typical aerospace structures. A tow-sheared composite wing is used as a test case, encompassing both a 2D cantilevered plate model and a 3D cantilevered aerofoil shaped wing model. For the 2D plate model, the effects of thickness coupling on aeroelastic response were analysed using a modified semi-analytical formulation alongside numerical finite element analysis for various fibre layouts. In the 3D test case, finite element analysis was employed to assess the impact. The results indicate that, for specific layups, coupled thickness variation significantly influences flutter speed by up to 14% in the 2D case and 12% in the 3D case. This suggests that Tsai lamination parameters alone may not be suitable for modelling CTS structures without accounting for thickness variation. Furthermore, uncertainty analysis reveals that, for both 2D and 3D test cases, the coupled thickness variation has a considerable effect on the uncertainty distribution of flutter speed, altering both its mean value and standard deviation in both test cases.}
+}

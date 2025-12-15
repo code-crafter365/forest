@@ -1,0 +1,13 @@
+@article{JASKOWIEC2025118179,
+title = {Least-squares collocation method with boundary constraints},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118179},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118179},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004517},
+author = {Jan Jaśkowiec and Artur Krowiak},
+keywords = {Collocation method, Null space solver, Boundary constraints, Numerical integration},
+abstract = {This article presents the least-squares collocation method (LSCM), which reformulates the conventional boundary value problem (BVP) into a constrained quadratic minimization problem, where the constraints are associated with the Dirichlet and Neumann boundary conditions. The approximation of the solution is performed within a finite-dimensional space using bases formed using various types of functions. By employing the least-squares method to manage constraints alongside a specialized null space solver, the admissible subspace is determined in which the homogeneous boundary conditions are met. In this subspace, the BVP minimization problem is treated as unconstrained and addressed via the least-squares method. The numerical framework of the problem is consistently symmetric and positively defined, independent of the number of collocation points. Unlike the standard collocation method, in the LSCM the collocation points are treated as the integration points for the numerical integration but without requiring an explicit integration mesh. The null space solver resolves the constraints problem, identifying both the admissible subspace and the specific function satisfying both types of boundary conditions, which is subsequently used to ensure the boundary conditions in the final approximate solution. Several examples highlight the accuracy and efficiency of this novel method.}
+}

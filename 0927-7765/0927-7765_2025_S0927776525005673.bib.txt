@@ -1,0 +1,13 @@
+@article{GUO2025115060,
+title = {Polyglutamic acid and Pluronic F127-based hydrogel for loading sinomenine hydrochloride liposomes in the treatment of rheumatoid arthritis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115060},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115060},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005673},
+author = {Zongjin Guo and Yanyan Han and Jiayi Peng and Chang Peng and Ming Zhao and Haiyang Hu and Dawei Chen},
+keywords = {Rheumatoid arthritis, Sinomenine hydrochloride, Hydrogel, Liposomes, Schiff base reaction},
+abstract = {Sinomenine hydrochloride (SNH), a key therapeutic agent for rheumatoid arthritis (RA), is limited by its low bioavailability, rapid metabolism, and frequent dosing requirements. This study innovatively developed a composite delivery system (SNH-Lip@PPGels) based on polyglutamic acid-poloxamer F127 thermosensitive hydrogel-encapsulated liposomes. In vitro drug release conformed to the Korsmeyer-Peppas kinetic model, demonstrating sustained-release characteristics. In vivo studies confirmed that SNH-Lip@PPGels precisely targets the joint cavity, with intra-articular retention exceeding 24 h. The system alleviates joint swelling and tissue damage in RA models by inhibiting M1 macrophage polarization, significantly reducing TNF-α and IL-6 levels while elevating anti-inflammatory IL-10. Notably, the SNH-Lip@PPGels group exhibited no systemic toxicity, with body weight profiles and histopathology tissues comparable to the normal group. This work proposes a novel RA therapeutic strategy integrating localized targeting and biosafety.}
+}

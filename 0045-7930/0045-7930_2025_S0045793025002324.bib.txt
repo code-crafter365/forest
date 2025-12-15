@@ -1,0 +1,13 @@
+@article{NAGDA2025106772,
+title = {Adaptive mesh refinement for two-phase viscoelastic fluid mixture models},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106772},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106772},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002324},
+author = {Bindi M. Nagda and Aaron Barrett and Boyce E. Griffith and Aaron L. Fogelson and Jian Du},
+keywords = {Adaptive mesh refinement, Multiphase, Geometric multigrid, Co-incompressibility, Mixture models},
+abstract = {Multiphase flows are an important class of fluid flow, and their study facilitates the development of diverse applications in industrial, natural, and biomedical systems. We consider a model that uses a continuum description of both phases in which separate momentum equations are used for each phase along with a co-incompressibility condition on the velocity fields. The resulting system of equations poses numerical challenges because of the presence of multiple non-linear terms and the co-incompressibility condition, and the resulting fluid dynamics motivate the development of an adaptive mesh refinement (AMR) technique to accurately capture regions of high stresses and large material gradients while keeping computational costs low. We present an accurate, robust, and efficient computational method for simulating multiphase mixtures on adaptive grids, and utilize a multigrid solver to precondition the saddle-point system. We demonstrate that the AMR discretization asymptotically approaches second order accuracy in L1, L2 and L∞ norms. The solver can accurately resolve sharp gradients in the solution and, with the multigrid preconditioning strategy introduced herein, the linear solver iterations are independent of grid spacing. Our AMR solver offers a major cost savings benefit, providing up to ten fold speedup over a uniform grid in the numerical experiments presented here, with greater speedup possible depending on the problem set-up.}
+}

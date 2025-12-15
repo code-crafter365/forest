@@ -1,0 +1,13 @@
+@article{NAVIDTEHRANI2025118155,
+title = {A phase field model for hydraulic fracture: Drucker–Prager driving force and a hybrid coupling strategy},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118155},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118155},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500427X},
+author = {Yousef Navidtehrani and Covadonga Betegón and Javier Vallejos and Emilio Martínez-Pañeda},
+keywords = {Phase field fracture, Hydraulic fracture, Finite element analysis, Drucker–Prager based split, Hybrid fracture-fluid flow coupling},
+abstract = {Recent years have seen a significant interest in using phase field approaches to model hydraulic fracture, so as to optimise a process that is key to industries such as petroleum engineering, mining and geothermal energy extraction. Here, we present a novel theoretical and computational phase field framework to simulate hydraulic fracture. The framework is general and versatile, in that it allows for improved treatments of the coupling between fluid flow and the phase field, and encompasses a universal description of the fracture driving force. Among others, this allows us to bring two innovations to the phase field hydraulic fracture community: (i) a new hybrid coupling approach to handle the fracture-fluid flow interplay, offering enhanced accuracy and flexibility; and (ii) a Drucker–Prager-based strain energy decomposition, extending the simulation of hydraulic fracture to materials exhibiting asymmetric tension–compression fracture behaviour (such as shale rocks) and enabling the prediction of geomechanical phenomena such as fault reactivation and stick–slip behaviour. Four case studies are addressed to illustrate these additional modelling capabilities and bring insight into permeability coupling, cracking behaviour, and multiaxial conditions in hydraulic fracturing simulations. The codes developed are made freely available to the community and can be downloaded from https://mechmat.web.ox.ac.uk/.}
+}

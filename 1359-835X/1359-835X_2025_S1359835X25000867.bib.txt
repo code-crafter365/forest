@@ -1,0 +1,13 @@
+@article{SHAFAQ2025108792,
+title = {On the ply-wise investigation of the crystalline morphology distribution of in-situ consolidated CF/PEEK composite using Wide-Angle X-ray scattering (WAXS)},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108792},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108792},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000867},
+author = {Shafaq Shafaq and Matthew J. Donough and Ashleigh L. Farnsworth and Andrew W. Phillips and Gleny Chirima and Nigel A. {St John} and B. {Ben Arber} and Kilahney Murphy and Gangadhara Prusty},
+keywords = {A. Polymer-matrix composites, B. Physical properties, D. thermal analysis E. Automated fibre placement (AFP)},
+abstract = {In-situ consolidated thermoplastic composites using automated fibre placement (AFP) experience highly localised and transient heating and cooling cycles during the process. Hence, the in-situ consolidation process can lead to significant fluctuations in polymer properties across the full part volume. The fluctuation in properties is primarily due to variations in cooling rates during the melting process and the number of high-temperature cycles experienced at each point. This paper presents the first study investigating the localised ply-wise crystalline properties of a Polyether-ether-ketone (PEEK) polymer matrix in a hot gas torch assisted in-situ consolidated carbon fibre PEEK composite with varying processing parameters using wide-angle X-ray scattering (WAXS) conducted on SAXS/WAXS beamline. The results demonstrate that crystallinity, and crystal orientation fraction exhibit ply-wise. However, maximum tool surface heating achieves a more uniform morphology. By integrating both orientation and crystallinity, a comprehensive strategy for optimising the mechanical performance of polymer materials can be developed.}
+}

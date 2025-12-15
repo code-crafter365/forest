@@ -1,0 +1,13 @@
+@article{WANG2025119660,
+title = {Intelligent force sensing separator for integrated lithium-ion battery safety monitoring},
+journal = {Composite Structures},
+volume = {373},
+pages = {119660},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119660},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008256},
+author = {Yuewen Wang and Bing Liu and Wenjuan Yang and Haoran Du and Zhenzhen Liu and Xin Liang and Huaxia Deng and Xinglong Gong},
+keywords = {Triboelectric nanogenerators, Electrospinning, Intelligent separator, Safety monitoring},
+abstract = {Lithium-ion batteries (LIBs) are one of the most promising batteries in energy storage systems. During operation, lithium-ion batteries are influenced by external physical factors, leading to a series of dangerous reactions, such as battery short-circuit and electrolyte leakage, which may result in severe fire and explosion incidents. In our work, a smart-sensing, multifunctional separator for monitoring internal voltage changes from external pressure fluctuations was developed through the coaxial electrospinning process. The results show that lithium iron phosphate-based LIBs assembled with the prepared separator exhibit excellent electrochemical performances. The coin cells maintain a discharge specific capacity of 160.05 mAh g−1 after 200 cycles at 0.5C, and the pouch cells deliever around 80 % of their capacity after 200 cycles at 0.5C. Simultaneously, we applied external pressure to the pouch cells through various methods, such as palm slapping, finger tapping, finger rubbing, and rubber hammer strikes, with the oscilloscope recording voltage output signals of 0.56 V, 0.38 V, 0.11 V, and 0.33 V respectively, demonstrating the stability and sensitivity of the PVDF-PVA separator material in sensing functions. The work provides an effective and timely approach for battery safety monitoring, and shows the application potential in the field of energy storage and security, and industrial environment monitoring.}
+}

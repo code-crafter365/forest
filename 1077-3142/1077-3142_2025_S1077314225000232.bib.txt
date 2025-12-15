@@ -1,0 +1,13 @@
+@article{JIN2025104300,
+title = {RelFormer: Advancing contextual relations for transformer-based dense captioning},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104300},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104300},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000232},
+author = {Weiqi Jin and Mengxue Qu and Caijuan Shi and Yao Zhao and Yunchao Wei},
+keywords = {Vision-language, Dense captioning, Autoregressive model, CLIP},
+abstract = {Dense captioning aims to detect regions in images and generate natural language descriptions for each identified region. For this task, contextual modeling is crucial for generating accurate descriptions since regions in the image could interact with each other. Previous efforts primarily focused on the modeling between categorized object regions, which are extracted by pre-trained object detectors, e.g., Fast R-CNN. However, they overlook the contextual modeling for non-object regions, e.g., sky, rivers, and grass, commonly referred to as “stuff”. In this paper, we propose the RelFormer framework to enhance the contextual relation modeling of Transformer-based dense captioning. Specifically, we design a clip-assisted region feature extraction module to extract rich contextual features of regions, involving stuff regions. We then introduce a straightforward relation encoder based on self-attention to effectively model relationships between regional features. To accurately extract candidate regions in dense images while minimizing redundant proposals, we further introduce the amplified decay non-maximum-suppression, which amplifies the decay degree of the redundant proposals so that they can be removed while reserving the detection of the small regions under a low confidence threshold. The experimental results indicate that by enhancing contextual interactions, our model exhibits a good understanding of regions and attains state-of-the-art performance on dense captioning tasks. Our method achieves 17.52% mAP on VG V1.0, 16.59% on VG V1.2, and 15.49% on VG-COCO. Code is available at https://github.com/Wykay/Relformer.}
+}

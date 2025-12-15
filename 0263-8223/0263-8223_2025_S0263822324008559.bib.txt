@@ -1,0 +1,13 @@
+@article{LIU2025118727,
+title = {Fatigue life prognosis of composite structures using a transferable deep reinforcement learning-based approach},
+journal = {Composite Structures},
+volume = {353},
+pages = {118727},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118727},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008559},
+author = {Cheng Liu and Yan Chen and Xuebing Xu},
+keywords = {CFRP Structure, SHM, RUL Prediction, Reinforcement Learning, Transformer},
+abstract = {Accurately predicting the remaining useful life (RUL) of Carbon Fiber Reinforced Polymer (CFRP) structures under fatigue loading is crucial for enhancing safety and minimizing maintenance costs, especially in industries like aerospace and automotive. However, the complex physical properties of CFRP, combined with the scarcity of real-world damage-condition data, make this task extremely challenging. To address these issues, we propose a novel deep reinforcement learning (DRL)-based prognostic method. Our approach integrates Denoising Autoencoder (DAE) and Transformer architectures to construct a powerful DRL Policy Network, capable of extracting high-quality features from X-ray records to capture the subtle progression of damage in CFRP structures. Additionally, we employ advanced data augmentation techniques to overcome the limitations of small datasets and introduce transfer learning to extend the model’s generalization capabilities across different CFRP structures. By pre-training on diverse CFRP datasets, our model achieves highly accurate RUL predictions for new designs, even with minimal labeled data from the target structure. Experimental results demonstrate that our method significantly outperforms current state-of-the-art (SOTA) techniques, offering a scalable, efficient, and practical solution for the real-world monitoring and prognostics of CFRP structures, with broad potential for industrial applications.}
+}

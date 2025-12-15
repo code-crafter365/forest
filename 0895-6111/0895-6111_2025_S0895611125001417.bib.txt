@@ -1,0 +1,13 @@
+@article{WANG2025102632,
+title = {CS2former: Multimodal feature fusion transformer with dual channel-spatial feature extraction module for bipolar disorder diagnosis},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102632},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102632},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001417},
+author = {Guoxin Wang and Fengmei Fan and Shipeng Dai and Shan An and Chao Zhang and Sheng Shi and Yunan Mei and Feng Yu and Qi Wang and Xiaole Han and Shuping Tan and Yunlong Tan and Zhiren Wang},
+keywords = {Bipolar disorder, Medical diagnosis, Magnetic resonance imaging, Multimodal deep learning, Dual channel-spatial feature extraction},
+abstract = {Bipolar disorder (BD) is a debilitating mental illness characterized by significant mood swings, posing a substantial challenge for accurate diagnosis due to its clinical complexity. This paper presents CS2former, a novel approach leveraging a dual channel-spatial feature extraction module within a Transformer model to diagnose BD from resting-state functional MRI (Rs-fMRI) and T1-weighted MRI (T1w-MRI) data. CS2former employs a Channel-2D Spatial Feature Aggregation Module to decouple channel and spatial information from Rs-fMRI, while a Channel-3D Spatial Attention Module with Synchronized Attention Module (SAM) concurrently computes attention for T1w-MRI feature maps. This dual extraction strategy is coupled with a Transformer, enhancing feature integration across modalities. Our experimental results on two datasets, including the OpenfMRI and our collected datasets, demonstrate CS2former’s superior performance. Notably, the model achieves a 10.8% higher Balanced Accuracy on our dataset and a 5.7% improvement on the OpenfMRI dataset compared to the baseline models. These results underscore CS2former’s innovation in multimodal feature fusion and its potential to elevate the efficiency and accuracy of BD diagnosis.}
+}

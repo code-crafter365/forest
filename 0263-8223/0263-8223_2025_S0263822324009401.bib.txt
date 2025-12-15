@@ -1,0 +1,13 @@
+@article{JIANG2025118812,
+title = {Defect formation mechanism in the shear section of GH4099 superalloy honeycomb under milling with ice fixation clamping},
+journal = {Composite Structures},
+volume = {354},
+pages = {118812},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118812},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009401},
+author = {Shaowei Jiang and Daomian Sun and Haibo Liu and Yueshuai Zuo and Yang Wang and Jianming Li and Kuo Liu and Yongqing Wang},
+keywords = {Superalloy honeycomb core, Finite element simulation, Shear fracture, Machining defects, Ice fixation clamping},
+abstract = {Superalloy honeycomb cores excel in corrosion, high temperature, and impact resistance. They are used in key aircraft structures under extreme conditions. To reduce the application difficulty of honeycomb core materials, cutting the samples is essential. Fracture zones or burrs on machined walls weaken welding strength. Based on shear fracture theory, the fracture form of honeycomb wall was determined to be shear fracture. A single factor cutting experiment with controlled cutting state of single tooth was designed. The Johnson-Cook model and a finite element simulation were established. The effect of cutting state parameters on stress distribution and morphology was explained, and the defect formation mechanism under ice fixation clamping milling was revealed. The research results show that the cutting-in angle and single-tooth cutting width significantly impact the stress distribution and morphology of the honeycomb wall shear section. At a 30° cutting-in angle, Y and Z direction tensile stress is lower. The shear section quality is satisfactory, with 95 % shear zone height and 24.77 μm cut-out burr height. At a 0.01 mm single-tooth width, overall stress on the honeycomb wall is minimal, at only 1.892GPa. The shear section quality is better, with 80 % shear zone height and 20.61 μm cut-out burr height. Shear zone height first decreases then increases with the cutting-in angle and is inversely proportional to single-tooth cutting width, while fracture zone height shows the opposite trend. Cut-out burr height is proportional to the cutting-in angle, single-tooth cutting width, and cutting depth. Cutting speed has a minimal effect on section quality. The shearing section quality of honeycomb wall can be improved by using smaller single-tooth cutting width, cutting-in angle and cutting depth and moderately increasing cutting speed.}
+}

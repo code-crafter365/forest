@@ -1,0 +1,13 @@
+@article{GANDHI2025117663,
+title = {A geometry projection method for the topology optimization of additively manufactured variable-stiffness composite laminates},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117663},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117663},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009174},
+author = {Yogesh Gandhi and Alejandro M. Aragón and Julián Norato and Giangiacomo Minak},
+keywords = {Topology optimization, Geometry projection, Continuous fiber-reinforced polymers, Variable-stiffness laminates, Fused filament fabrication},
+abstract = {Continuous fiber fused filament fabrication (CF4) is a layer-by-layer additive manufacturing technique that deposits continuous fiber fused filaments (CFFFs) with a significant in-plane variation of the fiber trajectory, thereby offering great flexibility in fabricating variable-stiffness composite laminates (VSCLs). We introduce a topology optimization method for the design of additively manufactured VSCLs made of overlapping, fiber-reinforced bars. The proposed method is based on geometry projection (GP) techniques, whereby the bars are represented by high-level geometric primitives. As in other GP techniques, this high-level parameterization is mapped onto a fixed structured finite element mesh for conducting analysis, as in density-based topology optimization techniques. However, unlike previous GP techniques that have demonstrated their applicability in designing structures as assemblies of individual fiber-reinforced components, this work focuses on the design of composite structures that adhere to CF4 manufacturing processes. Therefore, we first formulate a material interpolation scheme that better captures the stiffness at the composite’s joints obtained from bar overlaps as a stack. Second, the proposed material interpolation employs composite laminate theory to capture the in-plane and out-of-plane behavior of the structure. Third, to produce designs that conform to the CF4 process, we also proposed a novel length constraint formulation in the form of penalization on the projection scheme, which ensures a minimum length for all the bars. This minimum length limit does not require adding a constraint to the optimization problem. The efficacy and efficiency of the proposed method are demonstrated by a series of compliance minimization problems with in-plane and/or out-of-plane loading. The methodology is also applied to the design of a displacement inverter compliant mechanism.}
+}

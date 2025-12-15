@@ -1,0 +1,13 @@
+@article{WOLF2025119384,
+title = {Fatigue delamination growth in textile-reinforced plastics under combined interlaminar shear and compression: Numerical and experimental characterization},
+journal = {Composite Structures},
+volume = {371},
+pages = {119384},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119384},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005495},
+author = {Carl H. Wolf and Christian Düreth and Michael Wünsche and Sebastian Henkel and Karsten Tittmann and Maik Gude and Horst Biermann},
+keywords = {Mixed-Mode loading, Cyclic fatigue crack growth, Digital image correlation, Biaxial testing, Textile reinforcements, Delamination, Numerical analysis},
+abstract = {In this work, the crack growth behavior of three textile-reinforced composites under the combined loading of interlaminar shear and through-thickness compression was investigated. Composites were manufactured by resin-transfer molding using three different plain weave carbon fiber textile reinforcements, all with the same carbon fiber roving but varying areal weights, to study the influence of ondulation on fatigue crack growth. Specimens with a hole-notch geometry were tested under four different static load superpositions of Fz=0.0,0.5,1.0and2.0kN, corresponding to σz=0.0,2.0,4.0and8.0MPa. Cyclic loading with a force ratio of R=0.1 was applied with amplitudes of Fx,a=2.25,2.70and3.15kN. A modified digital image correlation method measured crack tip opening displacements to derive energy release rates. Furthermore, a Python-based numerical model simulated strain fields and fracture properties, validated against experimental strain data to ensure accuracy. The model also employed the J-integral method to independently compute energy release rates, verifying experimental assumptions and improving the understanding of fracture mechanisms in textile-reinforced composites. Both the optical measurement method and the model showed comparable results.}
+}

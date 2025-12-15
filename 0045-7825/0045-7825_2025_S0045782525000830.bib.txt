@@ -1,0 +1,13 @@
+@article{STRAZZULLO2025117811,
+title = {Variational multiscale evolve and filter strategies for convection-dominated flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117811},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117811},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000830},
+author = {Maria Strazzullo and Francesco Ballarin and Traian Iliescu and Tomás Chacón Rebollo},
+keywords = {Navier–Stokes equations, Reduced order modeling, Convection-dominated flows, Evolve-filter stabilization, Variational multiscale},
+abstract = {The evolve-filter (EF) model is a filter-based numerical stabilization for under-resolved convection-dominated flows. EF is a simple, modular, and effective strategy for both full-order models (FOMs) and reduced-order models (ROMs). It is well-known, however, that when the filter radius is too large, EF can be overdiffusive and yield inaccurate results. To alleviate this, EF is usually supplemented with a relaxation step. The relaxation parameter, however, is very sensitive with respect to the model parameters. In this paper, we propose a novel strategy to alleviate the EF overdiffusivity. Specifically, we leverage the variational multiscale (VMS) framework to separate the large resolved scales from the small resolved scales in the evolved velocity, and we use the filtered small scales to correct the large scales. Furthermore, in the new VMS-EF strategy, we use two different approaches to decompose the evolved velocity: the VMS Evolve-Filter-Filter-Correct (VMS-EFFC) and the VMS Evolve-Postprocess-Filter-Correct (VMS-EPFC) algorithms. The new VMS-based algorithms yield significantly more accurate results than the standard EF in both the FOM and the ROM simulations of a flow past a cylinder at Reynolds number Re = 1000.}
+}

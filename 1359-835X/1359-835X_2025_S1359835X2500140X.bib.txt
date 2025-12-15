@@ -1,0 +1,13 @@
+@article{JIN2025108846,
+title = {New flexible 3D POSS-based COF simultaneously strengthens and toughens epoxy resin (EP) at extreme temperatures},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108846},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108846},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500140X},
+author = {Runze Jin and Yijie Zhang and Donghui Guo and Zhiliang Zhou and Lijie Qu and Baosheng Xu},
+keywords = {Epoxy resin, Flexible 3D COFs, Cryogenic, Mechanical Property},
+abstract = {This study introduces a novel approach by designing a flexible three-dimensional Covalent Organic Framework (COFs), specifically NH2-POSS-COF, which serves as a uniform cross-linking site within the EP system. This framework provides substantial internal free volume and mitigates stress concentrations by enabling effective energy dissipation during mechanical loading. The research demonstrates that the integration of NH2-POSS-COF significantly enhances the fracture toughness and tensile strength of EP at both RT and cryogenic. These findings open new avenues for optimizing EP performance in low-temperature applications, contributing to the development of high-performance composite materials for aerospace missions.}
+}

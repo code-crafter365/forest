@@ -1,0 +1,13 @@
+@article{CHEN2025104246,
+title = {UATST: Towards unpaired arbitrary text-guided style transfer with cross-space modulation},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104246},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104246},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003278},
+author = {Haibo Chen and Lei Zhao},
+keywords = {Text-guided style transfer, VGG feature space, CLIP feature space, Cross-space modulation, Contrastive learning},
+abstract = {Existing style transfer methods usually utilize style images to represent the target style. Since style images need to be prepared in advance and are confined to existing artworks, these methods are limited in flexibility and creativity. Compared with images, language is a more natural, common, and flexible way for humans to transmit information. Therefore, a better choice is to utilize text descriptions instead of style images to represent the target style. To this end, we propose a novel Unpaired Arbitrary Text-guided Style Transfer (UATST) framework, which can render arbitrary photographs in the style of arbitrary text descriptions with one single model. To the best of our knowledge, this is the first model that achieves Arbitrary-Text-Per-Model with unpaired training data. In detail, we first use a pre-trained VGG network to map the content image into the VGG feature space, and use a pre-trained CLIP text encoder to map the text description into the CLIP feature space. Then we introduce a cross-space modulation module to bridge these two feature spaces, so that the content and style information in two different spaces can be seamlessly and adaptively combined for stylization. In addition, to learn better style representations, we introduce a new CLIP-based style contrastive loss to our model. Extensive qualitative and quantitative experiments verify the effectiveness and superiority of our method.}
+}

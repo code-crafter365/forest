@@ -1,0 +1,13 @@
+@article{WU2025105816,
+title = {Prestack three-parameter simultaneous inversion under well-control AVO},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105816},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105816},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002991},
+author = {Ji-an Wu and Fanchang Zhang and Nanying Lan and Xingyao Yin},
+keywords = {Well-control AVO, Poisson's ratio, Orthogonal experiment, Prestack inversion},
+abstract = {Poisson's ratio is a crucial parameter for reservoir identification and the evaluation of hydrocarbon-bearing characteristics. However, due to various assumptions that are hard to satisfy, the AVO approximation formula containing Poisson's ratio is inaccurate and struggles to meet the demand for higher accuracy of inversion results. To address this issue, the inversion method based on well-control AVO is proposed. Firstly, the well-control AVO operator is obtained through well-seismic data itself, not directly using the theoretical forward operator. Then, to ensure the feasibility and stability of obtaining the well-control AVO operator, the simplified forward framework is proposed based on the physical significance indicated by prestack seismic data. Furthermore, a comprehensive well-control AVO operator can be extracted by all well data, thereby ensuring its universality. Finally, the objective function of prestack three-parameter simultaneous inversion is constructed by the well-control AVO operator, and parameter decorrelation is introduced to eliminate mutual interference between parameters. Additionally, to obtain inversion results efficiently, the regularization factors in the objective function are optimized by orthogonal experiment. Numerical test results show that the well-control AVO can obtain more accurate forward record. Moreover, inversion using the method in this paper can yield more accurate Poisson's ratio and enable better identification of hydrocarbon-bearing reservoirs.}
+}

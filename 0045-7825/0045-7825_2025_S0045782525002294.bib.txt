@@ -1,0 +1,13 @@
+@article{ANTONIETTI2025117957,
+title = {Space–time Isogeometric Analysis of cardiac electrophysiology},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117957},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117957},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002294},
+author = {Paola F. Antonietti and Luca Dedè and Gabriele Loli and Monica Montardini and Giancarlo Sangalli and Paolo Tesini},
+keywords = {Isogeometric Analysis, Space–time, Cardiac electrophysiology, Spline Upwind, Solvers},
+abstract = {This work proposes a stabilized space–time method for the monodomain equation coupled with the Rogers–McCulloch ionic model, which is widely used to simulate electrophysiological wave propagation in the cardiac tissue. By extending the Spline Upwind method and exploiting low-rank matrix approximations, as well as preconditioned solvers, we achieve both significant computational efficiency and accuracy. In particular, we develop a formulation that is both simple and highly effective, designed to minimize spurious oscillations and ensuring computational efficiency. We rigorously validate the method’s performance through a series of numerical experiments, showing its robustness and reliability in diverse scenarios.}
+}

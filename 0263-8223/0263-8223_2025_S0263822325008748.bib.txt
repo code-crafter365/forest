@@ -1,0 +1,13 @@
+@article{LIU2025119709,
+title = {An equivalent numerical model and ready-to-use design approach for grid enhanced honeycomb composite in vessel collision fender},
+journal = {Composite Structures},
+volume = {374},
+pages = {119709},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119709},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008748},
+author = {Jiefu Liu and Kangpei Meng and Ziping Lei and Feng Gao and Hao Di and Chengxing Yang},
+keywords = {Collision fender, Crashworthiness, Honeycomb, Solid-equivalent model, Energy based design method},
+abstract = {Metallic honeycomb is a high-performance energy-absorbing material widely implemented in protective engineering, presents a potential design solution for bridge anti-collision fender. However, the cellular geometric configuration of honeycombs combined with the large-scale characteristics of infrastructures inevitably leads to excessive mesh quantities in finite element models, resulting in prohibitively low efficiency during iterative design processes. The solid-equivalent model is a substitute for refined hexagonal-cell model. While existing equivalent models demonstrate satisfactory simulation accuracy under uniaxial stress states, they exhibit critical limitations in complex stress scenarios, e.g. distorted deformation patterns and excessive structural stiffness. This study proposes a modified solid-equivalent modeling approach through activation of higher-order yield surface functions. By conducting stress tests under orthogonal principal direction and multi-angle non-uniaxial compression tests on honeycomb structures, the parameters for higher-order yield functions in equivalent models are systematically determined. Furthermore, the influence of solid element types on deformation distortion control is investigated, leading to optimized element selection for improved accuracy. The computational precision of the modified equivalent model is validated through non-uniform quasi-static compression tests on honeycomb-grid composites and drop-weight impact tests on honeycomb-grid sandwich structures simulating fender configurations. For bridge anti-collision design applications, a high efficiency design workflow is established, comprising three key phases: 1) design domain determination based on bow geometric profiles, 2) parametric preliminary selection through equivalent solid modeling and crashworthiness evaluation, and 3) energy principle-based parametric design verification.}
+}

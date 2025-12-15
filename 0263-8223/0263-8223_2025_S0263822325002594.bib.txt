@@ -1,0 +1,13 @@
+@article{MAN2025119094,
+title = {Collaborative control of crack guiding and trapping in bioinspired interfaces on effective toughness},
+journal = {Composite Structures},
+volume = {362},
+pages = {119094},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119094},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002594},
+author = {Shihan Man and Hongjun Yu and Jianshan Wang},
+keywords = {Lamellar structure, Interface failure, Crack guiding, Crack trapping, Effective toughness},
+abstract = {Interface phases are frequently employed to allow deformation and energy absorption to improve the toughness of biological materials. To explore the design space, a combination of the phase field model and 3D printing is adopted to investigate the fracture behaviors of the interface phase and the effective toughness of bioinspired materials. For the heterogeneous interface phase with smooth Young’s modulus, the period number of the smoothing modulation of Young’s modulus is positively correlated with the far-field J while it has a slight influence on the near-tip J. It indicates that effective toughness can be enhanced by increasing the period number of Young’s modulus. In the case where two Young’s moduli alternate along the interface, the effective toughness is highly dependent on the inclined angle of the compliant-to-stiff interface due to stress fluctuations caused by mismatched elastic parameters and crack nucleation. The experimental test of a 3D-printed bioinspired gradient interface indicates that weak interface phases guide crack propagation while strong interface phases trap cracks. For the structured interface phase, interlocking regions prevent the crack from continuing to propagate and the effective toughness exhibits the directional asymmetry. In all, crack guiding and trapping in the interface phase collaboratively control the effective toughness.}
+}

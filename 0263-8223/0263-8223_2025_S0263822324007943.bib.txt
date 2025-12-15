@@ -1,0 +1,13 @@
+@article{SI2025118666,
+title = {Mechanical model analysis of column-footing joints with combined socket-corrugated pipe connection},
+journal = {Composite Structures},
+volume = {352},
+pages = {118666},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118666},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007943},
+author = {Xiaolong Si and Yanchen Song and Guangda Zhang and Qiang Han and Xiuli Du and Bin Liu},
+keywords = {Prefabricated assembly column, Socket-corrugated pipe combination connection, Numerical analysis, Force transmission path, Strut-and-tie model},
+abstract = {The socket connection method is widely used in precast column, particularly in seismic regions. However, reducing the socket-depth to lower costs may lead to shear failure in the socketed part of the columns. To address this issue and achieve cost objectives, a new approach combines shallow sockets with corrugated pipes for column-footing joints. Comparative tests were conducted to investigate failure in columns with socket-corrugated pipe connections (SCPC), shallow sockets (SSC), and cast-in-place (CIP). Furthermore, finite element models were employed to validate the experimental and simplified model results. The findings suggest potential shear failure in shallow socket connections, which can be mitigated by using the combined socket-corrugated pipe method that alters force transmission paths. As the axial load ratio increases, both the ultimate lateral load capacity of the specimen and the local stresses at the column base increase. In addition, the ultimate lateral load capacity of the column and the stress of the connection reinforcement are increased by increasing the strength of the longitudinal reinforcement, consequently amplifying the extent of joint area damage. Finally, a simplified strut-and-tie model of the SCPC, validated against numerical and experimental data, accurately represents force paths, ultimate lateral load capacity and failure modes in socket joints.}
+}

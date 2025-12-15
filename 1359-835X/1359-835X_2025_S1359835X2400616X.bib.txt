@@ -1,0 +1,13 @@
+@article{YACOUTI2025108618,
+title = {Integrated convolutional and graph neural networks for predicting mechanical fields in composite microstructures},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108618},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108618},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400616X},
+author = {Marwa Yacouti and Maryam Shakiba},
+keywords = {Machine learning, Composites, Linear and nonlinear stress, Graph neural network},
+abstract = {This paper introduces CompINet, a novel framework that leverages graph and convolutional neural networks to predict mechanical fields within microstructural representations of composites. Accurate analysis of local mechanical fields, such as stress, is crucial for predicting composite performance, failure, and planning repair strategies. The proposed approach is inspired by the critical role of the nearest neighbor distances between fibers in shaping both linear and nonlinear stress responses within a composite’s microstructure. CompINet exploits the power of graph neural networks to capture the microscale intricacies of composites, focusing particularly on fiber locations and the distances between them. The proposed framework achieves remarkable accuracy and consistency in predicting microscale mechanical fields within composite microstructures while requiring 20 times less data compared to existing data-driven methods. CompINet offers significant improvements in both linear and nonlinear composite analyses.}
+}

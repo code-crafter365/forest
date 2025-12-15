@@ -1,0 +1,13 @@
+@article{RENKLER2025115023,
+title = {In vitro response of mouse astrocyte cells on electrospun PVA/gelatin nanofibers: The role of gelatin content and fiber alignment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115023},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115023},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005302},
+author = {Nergis Zeynep Renkler and Guido Mogni and Stefania Scialla and Iriczalli Cruz-Maya and Grazia Paola Nicchia and Vincenzo Guarino},
+keywords = {Electrospinning, PVA, Gelatin, Astrocytes, Fiber alignment, Tissue engineering, Neural regeneration},
+abstract = {Astrocytes are key supportive cells in the central nervous system (CNS), responsible for neural repair, synapse formation, and maintaining neural health. In this work, the optimization of crosslinking treatments to fabricate polyvinyl alcohol (PVA)/gelatin electrospun nanofibers was investigated to remark the effect of chemical – i.e., gelatin – and topological - i.e., fiber orientation – cues on the in vitro activity of mouse astrocytes. Fiber morphology deeply explored via Scanning Electron Microscopy (SEM)/image analysis highlighted a significant decay of the average diameter as the gelatin content – from 0.955 ± 0.146 μm (7:3) to 0.599 ± 0.1 μm (5:5) – or in the presence of preferential fiber alignment - 0.662 ± 0.204 μm (7:3). Assessment of the cell survival revealed that astrocytes were better able to survive and proliferate on nanofibers with gelatin than on those without any addition of gelatin nanofibers. In this context, the alignment of nanofibers enhanced not only the attachment of astrocytes but also their spatial orientation playing a critical role in directing the growth of astrocytes as confirmed by immunofluorescence studies. The electrospun PVA/gelatin (PVAG) structures, especially with uniaxial fiber orientation, proved to be a potential substrate for the culture of astrocytes and construction of CNS tissues. The role of biological macromolecules, such as gelatin, allows to support in vitro astrocyte function, thus offering new avenues for neural tissue engineering and regenerative medicine.}
+}

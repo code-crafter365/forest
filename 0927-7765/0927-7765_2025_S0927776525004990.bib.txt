@@ -1,0 +1,13 @@
+@article{ZHANG2025114992,
+title = {Bismuth based nanomaterials: Design, synthesis and applications in tumor synergistic therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114992},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114992},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004990},
+author = {Qiupeng Zhang and Jie Tu and Yuqin Jiang and Huihui Wang and Weixian Xue and Chunyao Dong and Ruizhuo Ouyang and Yuqing Miao},
+keywords = {BNMs, Tumor therapy, Synergistic therapy, Biosafety},
+abstract = {With the rapid development of nanomedicine, nanomaterials (NMs) have been used in clinical medicine to improve treatment efficiency. Bismuth-based nanomaterials(BNMs) are promising candidates for cancer diagnosis and therapy because of their good biocompatibility, low cost, high X-ray attenuation and near infrared absorption coefficient. The traditional therapy mode is relatively single, and the treatment effect is not significantly improved. Therefore, the combination of traditional treatment and emerging treatment not only has high lethality to tumor cell, but also makes up for their shortcomings. This review summarizes the latest research on BNMs in tumor therapy in recent years, including: the design and preparation of BNMs, the synergy of multiple treatment technologies, and the biosafety of nanomaterials. In the end, the inspiration and reference for the study of Bi-based multifunctional nano-platforms were provided for clinical use.}
+}

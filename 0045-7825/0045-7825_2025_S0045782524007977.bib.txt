@@ -1,0 +1,13 @@
+@article{XIA2025117543,
+title = {Modelling of thermo-mechanical coupling effects in rock masses using an enriched nodal-based continuous-discontinuous deformation analysis method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117543},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117543},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007977},
+author = {Yang Xia and Yongtao Yang and Hong Zheng and Shuilin Wang},
+keywords = {Nodal-based continuous-discontinuous deformation analysis method (NCDDAM), Contact approach, Thermo-mechanical coupling, Thermal cracking, Failure of rock masses},
+abstract = {In this paper, the nodal-based continuous-discontinuous deformation analysis method (NCDDAM) is enriched to simulate the thermo-mechanical coupling effects in rock masses. A distance-based contact potential algorithm is first incorporated into NCDDAM to avoid the dependency of element shape and size on the calculation of contact force between different blocks. Then, three types of heat conduction models, which can deal with heat conduction in continuum and discontinuum, are incorporated into NCDDAM to simulate the heat conduction effects of rock masses. Finally, a two-way staggered algorithm is adopted in the context of NCDDAM to simulate the thermo-mechanical coupling effects in rock masses. Several benchmark examples are used to verify the correctness of the enriched NCDDAM in handling contact problems, heat conduction problems and thermo-mechanical coupling problems. The effects of time step size on the accuracy of NCDDAM for both thermal simulation and mechanical simulation are investigated detailly. In addition, the thermal cracking processes of rock masses for both experiment and engineering scales are simulated by the enriched NCDDAM. The numerical results indicate that the enriched NCDDAM is a powerful tool to simulate the thermo-mechanical coupling processes of rock masses.}
+}

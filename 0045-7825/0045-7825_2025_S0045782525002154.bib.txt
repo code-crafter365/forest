@@ -1,0 +1,13 @@
+@article{ZHAO2025117943,
+title = {Key conditional quotient of random finite element model under measurement conditions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117943},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117943},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002154},
+author = {Yuelin Zhao and Feng Wu},
+keywords = {Finite element model, Measurement data, Response estimation, Random field, Key conditional quotient, Generalized quasi-Monte Carlo},
+abstract = {Uncertainty and nonlinearity in real-world structures like complex connections and composite materials often impede the establishment of accurate finite element models, requiring measurement assistance to estimate the actual structural response. However, accurately and efficiently estimating the structural response in the face of random measurement errors, structural uncertainty, and nonlinear effects remains a challenge. In this study, a novel key conditional quotient (KCQ) theory has been presented to tackle this challenge. By extracting key conditions from measurement data and applying the principle of probability conservation, the KCQ theory provides an precise quotient-form expression, i.e., KCQ, for estimating the structural response considering random measurement errors, structural uncertainty, and nonlinearity. To effectively extract key measurement conditions, this study also proposes two innovative methods: the strong correlation measurement points method, and the covariance matrix of measurement errors method. To accurately and efficiently estimating the KCQ, a numerical method by combining the generalized quasi-Monte Carlo method based on the generalized center discrepancy and an offline-online coupling computational strategy is proposed. Five numerical examples are provided to verify the precision, efficiency, and robustness against measurement errors of the proposed KCQ theory and numerical method.}
+}

@@ -1,0 +1,13 @@
+@article{GAWRYLUK2025118705,
+title = {Damage of composite thin-walled L profiles made in one production cycle},
+journal = {Composite Structures},
+volume = {352},
+pages = {118705},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118705},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400833X},
+author = {Jarosław Gawryluk and Andrzej Teter},
+keywords = {Damage, L-profile, 3D scanning, AEM, Experimental study},
+abstract = {The experimental results for a thin-walled laminated L-profile under uniform shortening are discussed in this paper. The objective of this study is to explore if accurately manufactured thin-walled structures exhibit similar behaviour at their limit state. Test samples consisted of 18 carbon laminate plies with a nominal structural thickness 0.81 mm. Geometry analysis of real samples was carried out on all samples using a 3D scanner. The columns are subjected to uniform shortening using a testing machine until they fail structurally. Additionally, acoustic emission and the Aramis system are employed. Despite being produced in a single manufacturing cycle, three different form of damage are identified: a crack in one wall near the sample’s center, opening of both walls, and crushing of one end. The acoustic emission signals acquired are analyzed to determine the load at which damage initiates, as well as the moments at which matrix and fiber breakage occur. The accuracy of the sample production (including its thickness and geometrical imperfections) has a significant impact on the form of damage that occurs when thin-walled profiles with one corner are compressed.}
+}

@@ -1,0 +1,13 @@
+@article{SUBRAHMANYA2025118345,
+title = {Feature preserving data assimilation via feature alignment},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118345},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118345},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006176},
+author = {Amit~N. Subrahmanya and Adrian Sandu},
+keywords = {Bayesian inference, Data assimilation, Particle filters, Compressible flow control, Shock preservation},
+abstract = {Data assimilation combines information from physical observations and numerical simulation results to obtain better estimates of the state and parameters of a physical system. A wide class of physical systems of interest have solutions that exhibit the formation of structures, called features, that have to be accurately captured by the assimilation framework. For example, fluids can develop features such as shock waves and contact discontinuities that need to be tracked and preserved during data assimilation. State-of-the-art data assimilation techniques are agnostic of such features. Current ensemble-based methods construct state estimates by taking linear combinations of multiple ensemble states; repeated averaging tends to smear the features over multiple assimilation cycles, leading to nonphysical state estimates. A novel feature-preserving data assimilation methodology that combines sequence alignment with the ensemble transform particle filter is proposed to overcome this limitation of existing assimilation algorithms. Specifically, optimal transport of particles is performed along feature-aligned characteristics. The strength of the proposed feature-preserving filtering approach is demonstrated on multiple test problems described by the compressible Euler equations.}
+}

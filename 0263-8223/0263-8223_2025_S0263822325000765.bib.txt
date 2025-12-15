@@ -1,0 +1,13 @@
+@article{HU2025118911,
+title = {Assessment of tensile behaviour and damage evolution of open and filled hole FMLs based on AE monitoring and numerical prediction},
+journal = {Composite Structures},
+volume = {357},
+pages = {118911},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118911},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000765},
+author = {Kejun Hu and Jinlong Wu and Haoyu Song and Yaoguo Shi and Fuxian Zhu and Qinghe Shi and Jiangtao Wang},
+keywords = {Hybrid laminates, VUMAT, Acoustic emission, DIC, Notched behaviour},
+abstract = {The strength prediction of fiber metal laminates (FMLs) with open and filled hole is crucial for the assessment of their damage tolerance. This study investigates the effects of fiber stacking sequence and filled bolt on the tensile strength and failure mechanism of FMLs using experimental and numerical methods. A testing system combining digital image correlation (DIC) and acoustic emission (AE) techniques is used to monitor the FMLs in real time during tensile testing. A simulation model based on user subroutines is developed to predict the progressive damage behavior of FMLs, considering aluminum alloys, composites and interfacial damage. The results show that the strain field distribution based on DIC and the clustering results based on AE signals can effectively characterize and identify the damage mode. The ultimate strength and damage modes of FMLs are strongly correlated with the fiber stacking sequence. Matrix cracking and delamination damage are the precursors of FMLs damage, and fiber fracture determines its load-bearing capacity. Aluminum alloys fracture after through-the-thickness interlaminar failure. Filled bolt can effectively increase the ultimate strength of the FMLs by relieving the stress concentration at the laminate hole edge, but they do not change the damage modes.}
+}

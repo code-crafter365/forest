@@ -1,0 +1,13 @@
+@article{AN2025114755,
+title = {Hydrogel tissue adhesive: Adhesion strategy and application},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114755},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114755},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002620},
+author = {Boyuan An and Haohao Cui and Mengke Wang and Zhanrong Li and Jingguo Li},
+keywords = {Hydrogel adhesives, strong adhesion, adhesion mechanisms, biological applications},
+abstract = {Hydrogel tissue adhesives have emerged as a promising alternative to conventional wound closure methods such as sutures and staples due to their operational simplicity demonstrated biocompatibility and capacity for multifunctional integration. However, complex and variable tissue microenvironments and dynamic adhesion surfaces still challenge the actual adhesion performance of adhesives, especially natural polymer-based adhesives. In addition, to expand the application of adhesives in biomedical fields, there is an urgent need to further improve tissue adhesion performance through composition design, adhesion mechanism research and bioeffect development. This review focuses on the adhesive properties of adhesives and their applications in biomedical fields. Adhesion-cohesion equilibria, forms of adhesion failure, methods for improving cohesion and various interfacial adhesion mechanisms are presented. Moreover, practical biomedical applications of tissue adhesives are reviewed, focusing on skin, heart, stomach, liver, and cornea. Finally, this review looks ahead to a new generation of multi-functional, strong adhesion tissue adhesives, in the hope of providing inspiration to those working in the field.}
+}

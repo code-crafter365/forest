@@ -1,0 +1,13 @@
+@article{XU2025118396,
+title = {Decomposition-free variational quantum linear solver: Application in computational mechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118396},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118396},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006681},
+author = {Yongchun Xu and Heng Hu},
+keywords = {Quantum computing, Quantum linear solver, Vectorization, Decomposition-free},
+abstract = {Solving a linear system of equations is a fundamental task in computational mechanics. The recently proposed variational quantum linear solver (VQLS) offers potential acceleration for this task by using quantum computing. However, its application faces a critical bottleneck: the costly requirement to decompose the coefficient matrix into a linear combination of unitary matrices. In this work, we propose a decomposition-free variational quantum linear solver (DF-VQLS) that eliminates this requirement, enabling direct application without matrix decomposition. The key innovation lies in proposing two vectorization techniques, which map the cost functions of VQLS to the inner product of vectors. Specifically, the vectorization techniques reshape the matrix into a vector, and only manipulations on the vector are needed to compute the cost functions, thereby eliminating matrix decomposition entirely. The convergence and accuracy of the proposed method are validated through numerical examples on a quantum simulator. Three application examples in computational mechanics, including bar, truss, and two-dimensional continuum problems, are also presented to show the potential feasibility.}
+}

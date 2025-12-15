@@ -1,0 +1,13 @@
+@article{LI2025110948,
+title = {Fabrication and mechanical properties of CFRP honeycomb cylinder based on the transforming from the flat honeycombs},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110948},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110948},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005189},
+author = {Zhibin Li and Pengcheng Xue and Jian Xiong},
+keywords = {Honeycomb, Sandwich cylinder, Carbon fiber composite, Failure mechanism, Imperfection sensitivity},
+abstract = {Nature has long inspired the design of high-performance structures, offering profound insights into engineering innovations through intricate biological architectures. The rational design of composite curved components is crucial for the lightweight construction of aerospace structures. In the transition from planar constructs to curved components, any mismatch in form can induce high stress, potentially leading to structural compromise or failure. Drawing inspiration from the water lily, a rational design and fabrication approach for cylindrical surface structures is proposed, transitioning from planar to curved surfaces. The adaptation of zero Poisson's ratio honeycomb to cylindrical surface is verified by experiments and simulations. The mismatch relationship between them would lead to the damage failure of the honeycomb. In view of this, the honeycomb sandwich cylinder commonly used in aerospace is fabricated by the proposed method. Theoretical predictions and experimental characterizations were conducted to analyze failure modes under axial compression. This led to the creation of a failure mechanism map for the honeycomb cylinder. Load-mass efficiency analysis revealed that face-crushing failure provides high bearing efficiency. Additionally, the effects of facesheet thickness, along with a comparison of failure modes and imperfection sensitivity between single and sandwich cylinders, were explored. The results indicate that the sandwich cylinder exhibits a higher specific load-bearing capacity and lower imperfection sensitivity compared to the single cylinder.}
+}

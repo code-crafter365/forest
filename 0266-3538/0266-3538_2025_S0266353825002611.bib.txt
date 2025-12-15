@@ -1,0 +1,13 @@
+@article{AKBAR2025111293,
+title = {Investigating the interchangeability of low-velocity impact and quasi-static indentation Tests: Effects on the residual strength of hybrid aluminum/CFRP laminates},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111293},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111293},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002611},
+author = {Musthafa Akbar and Satoshi Kobayashi},
+keywords = {Low-velocity impact, Quasi-static indentation, Residual tensile strength, Delamination},
+abstract = {This study uses numerical methods, validated through laboratory experiments, to compare the mechanical behavior of hybrid aluminum/CFRP laminates under low-velocity impact (LVI) and quasi-static indentation (QSI) loading conditions. The study demonstrates that although both loading types show comparable force-displacement responses within a limited range, the divergence increases at higher LVI energy levels. Oscillations in the LVI force-displacement curve become more pronounced due to inertia and damage formation. In terms of damage, intralaminar failure in CFRP layers occurs under both loading conditions, but delamination is more pronounced under LVI loading. The study also finds that QSI produces more visible contact traces on the specimen surface compared to LVI, with smaller indenters resulting in clearer damage patterns. Simulations of tensile strength after impact reveal that LVI leads to lower residual tensile strength compared to QSI. Based on these findings, we conclude that QSI can be used as a substitute for LVI testing under certain conditions, particularly for low-impact energies (5–15 J), where delamination does not occur. However, for higher impact energies (20–30 J), significant differences in damage mechanisms indicate that the two methods should not be considered interchangeable for all applications. Further research is needed to establish clear criteria for using quasi-static tests as substitutes for low-velocity impact tests, especially for specific material configurations and conditions.}
+}

@@ -1,0 +1,13 @@
+@article{ADEMOLA2025104244,
+title = {NeFT-Net: N-window extended frequency transformer for rhythmic motion prediction},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104244},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104244},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000858},
+author = {Adeyemi Ademola and David Sinclair and Babis Koniaris and Samantha Hannah and Kenny Mitchell},
+keywords = {Machine learning, Motion processing, Rendering, Virtual reality},
+abstract = {Advancements in prediction of human motion sequences are critical for enabling online virtual reality (VR) users to dance and move in ways that accurately mirror real-world actions, delivering a more immersive and connected experience. However, latency in networked motion tracking remains a significant challenge, disrupting engagement and necessitating predictive solutions to achieve real-time synchronization of remote motions. To address this issue, we propose a novel approach leveraging a synthetically generated dataset based on supervised foot anchor placement timings for rhythmic motions, ensuring periodicity and reducing prediction errors. Our model integrates a discrete cosine transform (DCT) to encode motion, refine high-frequency components, and smooth motion sequences, mitigating jittery artifacts. Additionally, we introduce a feed-forward attention mechanism designed to learn from N-window pairs of 3D key-point pose histories for precise future motion prediction. Quantitative and qualitative evaluations on the Human3.6M dataset highlight significant improvements in mean per joint position error (MPJPE) metrics, demonstrating the superiority of our technique over state-of-the-art approaches. We further introduce novel result pose visualizations through the use of generative AI methods.}
+}

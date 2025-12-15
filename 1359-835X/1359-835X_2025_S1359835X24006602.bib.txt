@@ -1,0 +1,13 @@
+@article{FENG2025108662,
+title = {Semi-transparent, mechanically flexible, water-resistant, and flame-retardant sodium alginate/montmorillonite-based nanocomposite for fire alarm and protection},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108662},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108662},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006602},
+author = {Qu-Hao Feng and Jun Liu and Yan-Bin Shen and Cheng-Fei Cao and Wen-Yu Hu and Teng-Teng Liu and Yu-Ge Fu and  Qi-Shi and Jun-Jie Wan and Pei-Yuan Lv and Ye-Jun Wang and Guo-Dong Zhang and Jun Ma and Long-Cheng Tang},
+keywords = {Montmorillonite, Flame retardancy, Cyclic fire warning, Fire safety and protection},
+abstract = {Fire warning materials and sensors based on graphene and its derivatives have been developed to mitigate fire risks associated with flammable materials. However, such these nanomaterials face some challenges, e.g., high cost, poor water resistance, single-use fire alarm response, and a black coloration that restricts their applicability in certain scenarios. Herein, we reported a sodium alginate/montmorillonite (SA/MMT)-based hybrid nanocomposite via introducing hyperbranched polysiloxane (HSi) and calcium ions (Ca2+) for efficient fire protection. The optimized nanocomposite demonstrated semi-transparency, good mechanical flexibility and strength (tensile strength of ∼ 65 MPa), and remarkable water resistance. Additionally, it exhibited rapid flame alarm response (response time < 1 s), enhanced flame retardancy (retaining structural integrity after 120 s burning), and reliable cyclic fire alarm capability. When applied as a fireproof coating on flammable wood substrates, the nanocomposite coating also provided both outstanding fire shielding performance and rapid fire warning response. Therefore, this work provides a facile approach for designing and fabricating environmentally friendly fire-warning and flame-retardant composite materials.}
+}

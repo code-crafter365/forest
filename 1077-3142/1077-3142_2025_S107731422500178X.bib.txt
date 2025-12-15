@@ -1,0 +1,13 @@
+@article{CAI2025104455,
+title = {Adaptive margin for unsupervised domain adaptation without source data},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104455},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104455},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500178X},
+author = {Ziyun Cai and Yawen Huang and Tengfei Zhang and Changhui Hu and Xiao-Yuan Jing},
+keywords = {Unsupervised domain adaptation without source data, Early-time training phenomenon, Deep learning, Image classification},
+abstract = {Unsupervised domain adaptation (UDA) methods aim to transfer the knowledge acquired from labeled source data to unlabeled target data. However, these methods are often inefficient and impractical due to concerns related to data privacy and memory storage. As a result, source-free domain adaptation (SFDA) was introduced as a solution, which involves deploying a well-trained source model to the target domain, while the source data are unavailable for optimization. Existing pseudo-label based SFDA methods suffer from two issues: (1) they do not well leverage the discriminating power of the model at the early step of the training; (2) they do not well prevent memorization of the noisy labels at the late step of the training. In this paper, we propose a novel method called AM-SFDA to address SFDA issue via Adaptive Margin. AM-SFDA combines the information maximization and the commonly used standard cross-entropy loss, which can make the source and target outputs closer. Furthermore, inspired by the early-learning phenomenon, we propose to prevent the memorization of the noisy samples, where large values are assigned to the samples with moderate margins, and small values are assigned to the samples with small margins. Extensive experiments on several source-free benchmarks under different settings illustrate that AM-SFDA exceeds the existing state-of-the-art SFDA methods successfully.}
+}

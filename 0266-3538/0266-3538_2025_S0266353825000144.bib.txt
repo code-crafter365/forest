@@ -1,0 +1,13 @@
+@article{LIN2025111046,
+title = {Effect of low-density polyethylene on properties of ethylene-vinyl based semi-conductive shielding materials},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111046},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111046},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000144},
+author = {Jie Lin and Shuai Hou and Zhi-Xing Wang and Yong-Fan Lin and Yuan-Ze Liu and Qiu-Yu Duan and Run-Pan Nie and Ding-Xiang Yan and Li-Chuan Jia and Zhong-Ming Li},
+keywords = {Ethylene-vinyl acetate copolymer, Low-density polyethylene, Carbon black, Selective distribution, Thermal stability},
+abstract = {Ethylene-vinyl acetate copolymer (EVA)-based semi-conductive shielding materials (SCSM) are extensively used in low- and medium-voltage cables. However, the limited thermal stability of EVA prevents its application in high-voltage cables. Herein, low-density polyethylene (LDPE) was introduced to blend with EVA, and carbon black (CB) served as conductive fillers to fabricate the CB/EVA@LDPE composites with enhanced thermal stability for application as high-voltage SCSM. Benefiting from the inter-chain interaction between EVA and LDPE molecular chains and the selective distribution of CB, the CB/EVA@LDPE composites achieve the integration of favorable thermal stability, superior electrical performance and good mechanical properties. Specifically, the resultant composites exhibit a superior initial decomposition temperature (300.1 °C) at 30 phr LDPE compared to the CB/EVA composites (285.6 °C). The tensile strength and elongation at break of the CB/EVA@LDPE composites are 18.6 MPa and 281.2 %, which still maintain a desirable level. Moreover, the incorporation of LDPE also contributes to a favorable volume resistivity of 63.9 Ω cm and low PTC intensity (4.7) based on the unique conductive network in the EVA/LDPE blend system. This work is expected to provide favorable insights on the design of high thermal stable SCSM for applications in high-voltage cables.}
+}

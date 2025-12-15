@@ -1,0 +1,13 @@
+@article{TAKAHASHI2025109060,
+title = {Influence of irradiation with synchrotron radiation X-ray on Nano-Scale CT for carbon fibers and epoxy matrix},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109060},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109060},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003549},
+author = {Kosuke Takahashi and Takuma Matsuo and Katsuma Wakabayashi and Akihisa Takeuchi and Masayuki Uesugi and Kentaro Uesugi and Takashi Nakamura},
+keywords = {Synchrotron radiation X-ray, In-situ observation, Interfacial crack, Matrix crack, Fatigue},
+abstract = {High magnification imaging using synchrotron radiation (SR) X-ray computed tomography (CT), known as “nano-CT,” has attracted attention owing to its spatial resolution of 100 nm, which is sufficient to visualize individual carbon fibers and interfacial cracks along them. However, repeated CT scanning degrades the mechanical properties of the matrix resin due to X-ray irradiation. In this study, SR X-ray CT was repeatedly performed on a single carbon fiber or a bundle of carbon fibers embedded transversely to the loading direction in dumbbell-shaped epoxy samples. The energy of the SR X-rays was varied to investigate their influence on crack propagation behavior along the carbon fibers under cyclic loading. Interfacial cracks along the carbon fibers propagated toward the surrounding epoxy matrix at an X-ray energy of 20 keV. By contrast, no matrix cracking was observed, and only interfacial cracks along the carbon fibers were present at an X-ray energy of 30 keV. These results were validated by tensile testing of CT-scanned samples. The sample exposed to 30 keV X-rays exhibited a stress–strain relationship similar to that of the unscanned sample, whereas the sample exposed to 20 keV X-rays fractured at a lower stress. Therefore, the irradiation damage of a typical epoxy matrix can be sufficiently suppressed using X-rays of at least 30 keV for repeated nano-CT scans.}
+}

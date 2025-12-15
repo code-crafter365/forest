@@ -1,0 +1,13 @@
+@article{LI2025119635,
+title = {Study on stress transfer mechanism of thermoplastic vulcanizate considering nonlinear viscoelastic interphase: A multiscale modeling approach},
+journal = {Composite Structures},
+volume = {373},
+pages = {119635},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119635},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008001},
+author = {Longhao Li and Lifeng Ma and Chunxiao Li and Chengyuan He and Xiuyu Li},
+keywords = {Thermoplastic vulcanizates (TPVs), Interphase, Sequential multiscale strategy, Nonlinear viscoelasticity, Stress transfer, Mechanical performance},
+abstract = {Due to the multiscale characteristics of thermoplastic vulcanizate (TPV) as the heterogeneous composites, traditional experiments and single-scale modeling methods cannot accurately obtain the influence of the microstructure of TPV on its internal stress transfer mechanism and macromechanical properties. Therefore, one sequential multiscale modeling approach has been proposed in our research work to explore the influence mechanism of nonlinear viscoelastic interphase on the stress transfer and mechanical properties of TPV. Especially, the mechanical properties of the interphase have been accurately transferred between the molecular models and the finite element representative volume element (RVE) models by identifying the constitutive parameters. The results reveal one previously unrecognized mechanism where the interphase, as the stress transmission channel, realizes the transformation among stress, elastic potential energy and rebound driving force inside the TPV. Significantly, this study demonstrates that the interphase thickness will affect the stress transfer efficiency of the interphase, and then regulate the tensile strength and resilience of TPV. By introducing the rate of residual stress as a novel evaluation criterion for stress transfer efficiency, this work advances the fundamental understanding of TPV deformation mechanisms and has provided a theoretical foundation for the design and preparation of high-performance TPV in the practical application.}
+}

@@ -1,0 +1,13 @@
+@article{ZOU2025109032,
+title = {Process-performance integrated modeling to virtually optimize parameters for preforming of multi-layer woven fabric composite prepregs},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109032},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109032},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003264},
+author = {Jianchao Zou and Yifeng Xiong and Wanrui Zhang and Chongrui Tang and Rui Li and Deyong Sun and Weizhao Zhang},
+keywords = {Process-performance integrated modeling, Modeling-based virtual design, Multi-layer woven fabric composite preforming, Non-orthogonal material model},
+abstract = {The design of manufacturing parameters is crucial to efficiently produce woven fabric composite parts using automatic manufacturing process. To optimize blank geometry and stacking sequence in prepreg compression molding (PCM) for minimum material waste and maximum final product performance, a virtual design method based on process-performance integrated modeling was developed for woven fabric composite preforming. This design method starts with the preforming modeling realized via a non-orthogonal material model that can continuously trace warp and weft yarn directions. Experimental validation indicates that the prediction error of the preforming modeling for multi-layer woven fabric composites is less than 3 % in profiles of the produced parts and within 4 % in yarn angles. With the preforming modeling, the blank geometry represented by finite element mesh was virtually modified through design iterations, so as to obtain the ideal blank geometry that could yield the smallest amount of material in the binder region to be trimmed. Then, the ideal blank geometry was applied in real preforming, and the results proved that the material waste caused by trimming could be controlled to 9 %∼14 % with this modeling-based design method, much lower than the 30 %∼50 % value in current industrial practice. Afterwards, various stacking sequences were input to the preforming modeling, and the predicted yarn orientations, yarn angles and part geometry from the preforming modeling were mapped to the performance analysis, so as to numerically identify the configuration for highest elastic stiffness of the final part. Experimental validation illustrates that this process-performance integrated modeling can lead to less than 4.15 % prediction error in part stiffness, and it can successfully determine the stacking sequence for highest part performance without the need for real manufacturing and performance experiments.}
+}

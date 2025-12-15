@@ -1,0 +1,13 @@
+@article{WANG2025109238,
+title = {Constructing multi-scale microstructure via hot rolling treatments of achieving ultra-high strength-ductility synergy of discontinuously reinforced titanium matrix composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109238},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109238},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005329},
+author = {Yu Wang and Hongmei Zhang and Xingwang Cheng and Xiaonan Mu and Yufei Li},
+keywords = {Multi-scale structure, Hot rolling, High strength and ductility, Strengthening mechanisms},
+abstract = {Ti60-based composites had broad application prospects in the aerospace high-temperature field due to their excellent specific strength and high-temperature resistance. However, although this type of material demonstrated remarkable strength and plasticity at high temperatures, the synergistic effect between its room-temperature strength and ductility was inevitably disrupted. In this study, an in-situ multi-scale structure strategy, including TiBw, La2O3, and silicide particles was proposed to achieve enhanced room-temperature strength and ductility in Discontinuous reinforced titanium matrix composites (DRTiMCs). The approach involved preparing Ti60-based composites reinforced with 0.1 wt%, 0.2 wt%, 0.3 wt% LaB6 and 0.02 wt% Si via Field-Assisted Sintering Technique (FAST) combined with Hot Rolling (HR). The results demonstrated that the DRTiMCs with 0.2 wt% LaB6 exhibited a tensile strength of 1551 MPa and an elongation at break of 10.6 %. Notably, it has broken the traditional doubt that Si in materials would reduce the room-temperature ductility, indicating that a reasonable intergranular silicide design will not affect the comprehensive mechanical properties of DRTiMCs. These findings offered valuable strategies and insights for overcoming the existing challenges in the further development and engineering applications of DRTiMCs within a room-temperature operational environment.}
+}

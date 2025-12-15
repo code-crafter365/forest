@@ -1,0 +1,13 @@
+@article{TOMAKA2025104527,
+title = {Computer-aided design of personalized occlusal positioning splints using multimodal 3D data},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104527},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104527},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002504},
+author = {Agnieszka Anna Tomaka and Leszek Luchowski and Michał Tarnawski and Dariusz Pojda},
+keywords = {Virtual orthodontics, Occlusal splint, Digital modeling, Designing positioning splints},
+abstract = {Digital technology plays a crucial role in designing customized medical devices, such as occlusal splints, commonly used in the management of disorders of the stomatognathic system. This methodological proof-of-concept study presents a computer-aided approach for designing and evaluating occlusal positioning splints. The primary aim is to demonstrate the feasibility and geometric accuracy of the proposed method at the preclinical stage. In this approach, a three-dimensional splint is generated using a transformation matrix to represent the therapeutic mandibular position. An experienced operator defines this position using a virtual patient model reconstructed from intraoral scans, CBCT, 3D facial scans, and a digitized plaster model. We introduce a novel method for generating splints that reproduces occlusal conditions in the therapeutic position and resolves surface conflicts through virtual embossing. The process for obtaining transformation matrices using dental tools and intraoral devices commonly employed in dental and laboratory workflows is described, and the geometric accuracy of both designed and printed splints is evaluated using profile and surface deviation analysis. The method supports reproducible, patient-specific splint fabrication and provides a transparent foundation for future validation studies, supporting multimodal image registration and quantification of occlusal discrepancies in research settings.}
+}

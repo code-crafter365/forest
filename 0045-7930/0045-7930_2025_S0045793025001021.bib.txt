@@ -1,0 +1,13 @@
+@article{SRINIVASAN2025106642,
+title = {Energy preserving high order mimetic methods for Hamiltonian equations},
+journal = {Computers & Fluids},
+volume = {297},
+pages = {106642},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106642},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001021},
+author = {Anand Srinivasan and José E. Castillo},
+keywords = {Mimetic, High order, Composition schemes, Hamiltonian, Energy preserving},
+abstract = {Hamiltonian equations possess a Hamiltonian function that governs the conserved physical property for the system. Obtaining a discretization scheme that satisfies the intrinsic geometric properties of its continuum problem is often a challenge. Spatial schemes that discretely mimic a conservation law are known to result in accurate discretizations of partial differential equations. The mimetic methods considered in this paper for spatial discretization are based on the work of Castillo & co-authors. These methods produce high order mimetic operators which, by construction, result in a discrete equivalent to a conservation law. These operators work on staggered spatial grids and produce even orders of accuracy at the boundaries and interiors, while avoiding the use of ghost nodes. The high order mimetic operators D and G are discrete approximations of their continuum counterpart vector calculus identities of divergence and gradient. The resulting discretizations are therefore said to mimic the underlying physics. The preservation of the spatio-temporal energy evolution requires a corresponding time integration scheme that is structure preserving, such as the staggered leapfrog scheme. The traditional leapfrog scheme, however, is limited to second order accuracy. In this work, we study the high order composition temporal methods with the mimetic operators to investigate the energy preserving aspects of Hamiltonian systems. Fourth and sixth order spatio-temporal energy preserving schemes are presented for both linear and non-linear Hamiltonian systems. The novelty of this work includes the validation of a sixth order mimetic energy preserving numerical scheme for non-linear Hamiltonian systems. Numerical examples that illustrate our findings are also presented in this work.}
+}

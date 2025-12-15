@@ -1,0 +1,13 @@
+@article{WANG2025119550,
+title = {Compressive large deformation behavior of Ep-Al composite reactive materials: a particle content and compression induced temperature rise dependent constitutive model},
+journal = {Composite Structures},
+volume = {371},
+pages = {119550},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119550},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007159},
+author = {Ruizhi Wang and Lei Wang and Tianxiang Lan and Enling Tang and Zhiqiang Wang and Chuang Chen and Hongxiang Cao},
+keywords = {Composite reactive material, Large deformation behavior, Microstructural evolution, Constitutive model},
+abstract = {Understanding the mechanical properties of reactive materials is crucial for ensuring safety and application reliability during transportation and operation. A quasi-static compression experimental was employed to investigate the mechanical behavior of epoxy-aluminium composite reactive materials (Ep-Al) under large deformation conditions. The compressive stress–strain relationship of materials with different particle ratios was obtained by strain calculation, and the influence of strain rate on mechanical properties was analyzed, and the influence of Ep/Al volume ratio on yield strength and strain energy was investigated. The mechanisms by which macroscopic composition ratios and mesoscopic three-dimensional configurations of Ep and Al particles affect the composite strength were elucidated. Furthermore, based on the recently developed entanglement theory physical model for amorphous polymers, a thermo-mechanical coupled constitutive model considering particle proportions was established for characterizing large deformations in composites. The results demonstrate that the improved solid-state polymer entanglement thermo-mechanical coupled constitutive model proposed in this study can accurately characterize the mechanical performance differences caused by temperature variations due to loading rate sensitivity at different strain stages, and effectively predict the large deformation responses of materials with varying filler ratios under different strain rates. The present work provides significant impetus for the application of resin-based reactive materials.}
+}

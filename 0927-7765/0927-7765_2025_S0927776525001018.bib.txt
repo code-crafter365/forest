@@ -1,0 +1,11 @@
+@article{DAS2025114594,
+title = {Editorial for Special Issue “Biomaterial-associated infections: Their development, characterization, prevention and treatment”},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114594},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114594},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001018},
+author = {Theerthankar Das and Reza Nejadnik and Virginia Vadillo Rodríguez and Yong. Liu and Guruprakash Subbiahdoss}
+}

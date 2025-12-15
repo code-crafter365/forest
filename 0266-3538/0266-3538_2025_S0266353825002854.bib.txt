@@ -1,0 +1,13 @@
+@article{ZHOU2025111317,
+title = {Investigations on the loading rate sensitivity of dynamic fracture in CFRP: A combined synchrotron and numerical study},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111317},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111317},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002854},
+author = {Jialun Zhou and Xujia Hou and Qiyue Hou and Shaohong Wang and Jianbo Hu and Sen Chen and Aiguo Pi},
+keywords = {Carbon fibre, Fracture toughness, Dynamic behavior, Cohesive zone model, Synchrotron X-ray imaging},
+abstract = {This work investigates the intrinsic mechanism governing the interlaminar fracture toughness of carbon fibre-reinforced resin matrix composites (CFRPs) under dynamic loadings, addressing the controversy and divergent findings regarding the dependence of CFRP fracture toughness on loading rate. To achieve this, in situ SHPB tests and cohesive zone model (CZM) numerical simulations were employed. Optical high-speed imaging, synchrotron X-ray phase contrast imaging, X-ray computed tomography, and scanning electron microscopy (SEM) characterisation were combined to examine the damage processes and microscopic damage morphologies, enabling assessment of the crack initiation and propagation under dynamic loading conditions. A optimization strategy for CZM parameters based on in-situ measurements were proposed and validated. A high-fidelity, loading-rate-dependent finite element model was established to assist in analyse the interlaminar fracture mechanism of CFRPs. The results indicate that the fracture toughness of a material is unaffected by the loading rate within the dynamic loading-rate range of 7.9–24.9 MJ/(m2·s). This is because even with an increase in loading rate, the proportion of brittle failures at the crack tip will also increase, allowing the high strain energy accumulated at the crack tip to be released early.}
+}

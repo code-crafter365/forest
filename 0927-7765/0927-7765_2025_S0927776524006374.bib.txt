@@ -1,0 +1,13 @@
+@article{ZHONG2025114378,
+title = {Comprehensive assessment of intradermal responses to hyaluronic acid-based skin injection fillers through multi-pathway dynamic synergies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114378},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114378},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006374},
+author = {Meng Zhong and Hongwei He and Liaochuan Wang and Linyun Pu and Zhirong Liu and Jiangtian Wang and Yanjun Zhang and Shiliang Wang and Bingbing Sun and Xiaojing Li and Lidan Xiong and Jiabo Mi and Mowei Song and Panxianzhi Ni and Can Huang and Tun Yuan and Jie Liang and Yujiang Fan and Xingdong Zhang},
+keywords = {Injection filling materials, Biological evaluation, Intradermal reaction, Sodium hyaluronate gel, Edema},
+abstract = {Skin injection filling products must undergo a rigorous evaluation before entering the market, and intradermal reactions are crucial for biocompatibility. However, current evaluation methods for skin injection fillers often lack precision. This study aims to explore a comprehensive evaluation method by incorporating additional indicators: dermoscopy, transepidermal water loss, moisture content, ultrasound, and histological observation. Experimental findings show sodium hyaluronate gel groups exhibited no noticeable erythema or abnormalities, except for skin swelling. The dynamic and quantitative assessment of water content and transdermal water loss provided insights into the injection site skin's edema status. Ultrasound imaging observed subcutaneous material occupation and measured skin protrusion height. Histopathological observations revealed edema and inflammation in positive groups but no significant reactions in any gel samples. The comprehensive use of these methods confirms that the intradermal response of injection fillers in this study is within an acceptable range. However, if solely evaluated based on existing standards, it may exceed the qualified range. Consequently, the study suggests that for sodium hyaluronate gel, a macromolecular injection filler for long-term subcutaneous space occupancy, the traditional intradermal reaction scoring method may be inadequate. The proposed comprehensive evaluation scheme in this study is considered a more objective approach.}
+}

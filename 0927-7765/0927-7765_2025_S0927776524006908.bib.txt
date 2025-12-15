@@ -1,0 +1,13 @@
+@article{FILHO2025114431,
+title = {Influence of agarose in semi-IPN hydrogels for sustained Polymyxin B release},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114431},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114431},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006908},
+author = {David Filho and Marcelo Guerrero and Ricardo Castro and Diana Rafael and Fernanda Andrade and Adolfo Marican and Oscar Valdes and Esteban Vargas and Elisa Valenzuela and Claudia Mora and Esteban F. Durán-Lara},
+keywords = {Semi-IPN Hydrogels, Polymyxin B, Drug delivery systems, Interpenetrating Polymer Networks (IPN), Rheological Analysis, Cumulative release},
+abstract = {Hydrogels (HGs) are 3-D polymeric networks with high water content, making them appropriate for biomedical applications such as drug delivery systems. This study examines the impact of agarose in semi-interpenetrating polymer networks (Semi-IPNs) based on poly(acrylic acid) (p(AA)), N, N′ Methylenebis(acrylamide) (MBA) and agarose (AGA) on the sustained release of Polymyxin B (PolB). Agarose incorporation improved the mechanical strength, swelling behavior and drug retention capacity of the HG. We synthesized the Semi-IPN HGs via free radical polymerization and characterized their structural and thermal properties using Fourier-transform infrared spectroscopy (FTIR), scanning electron microscopy (SEM), thermogravimetric analysis (TGA), and differential scanning calorimetry (DSC). The features of swelling under physiological conditions were carried out. Additionally, we conducted release kinetics using the three prepared HGs, each of which had a distinct amount of AGA. The findings demonstrated that the Semi-IPN HGs with greater AGA concentrations had drug release profiles that were slower and more sustained, making them perfect for long-term therapeutic uses. We also tested the PolB-loaded HGs' antimicrobial efficacy against Pseudomonas aeruginosa, and they showed sustained antibacterial activity. Using NIH-3T3 fibroblast cells, we verified the HGs' biocompatibility, demonstrating their appropriateness for use in biomedicine. According to these findings, agarose modified Semi-IPN HGs may find application in long-term medication delivery systems that aid in the treatment of infections and promote wound healing.}
+}

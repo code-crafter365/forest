@@ -1,0 +1,13 @@
+@article{SCHMIDT2025117648,
+title = {Efficient thermo-mechanically coupled and geometrically nonlinear two-scale FE-FFT-based modeling of elasto-viscoplastic polycrystalline materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117648},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117648},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009022},
+author = {Annika Schmidt and Christian Gierden and Rainer Fechte-Heinen and Stefanie Reese and Johanna Waimann},
+keywords = {Two-scale simulation, FE-FFT, Thermo-mechanical coupling, Polycrystalline materials, Finite strains},
+abstract = {In this work, an efficient thermo-mechanically coupled two-scale finite element (FE)-fast Fourier transform (FFT)-based simulation approach for elasto-viscoplastic polycrystalline materials is proposed. Assuming a separation of scales, the macroscopic and microscopic boundary value problems are solved individually and linked by a scale transition. While the macroscopic boundary value problems are solved by means of the finite element method, the microscopic boundary value problems are computed using an FFT-based simulation technique. In order to solve the two-scale boundary value problem, the deformation and temperature gradients as well as the temperature values are first applied from the macroscopic integration points to the corresponding microscopic unit cells. After local convergence, the macroscopic quantities such as the stress, the internal heat generation, and the heat flux are defined as averages over the corresponding micromechanical or microthermal fields, and the macroscopic balance equations can be solved. The thermo-mechanically coupled microscopic material model is derived in a thermodynamically consistent manner based on the Clausius–Duhem inequality and, in order to maintain the generality of the proposed model, the geometrically nonlinear case is considered. To increase the efficiency of the two-scale simulation, a CPU- and memory-efficient solution strategy based on a coarse microstructure discretization is employed. Different numerical examples, in which the macroscopic and microscopic material behavior of a polycrystal is predicted, are used to demonstrate the applicability of the proposed model.}
+}

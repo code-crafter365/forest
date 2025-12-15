@@ -1,0 +1,13 @@
+@article{ZHANG2025114911,
+title = {Design and synthesis strategies of carbon nanospheres and their biomedical applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114911},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114911},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004187},
+author = {Qi Zhang and Longgang Wang and Ruyu Li and Haiyan Xiao and Yanshuai Cui and Xihong Guo},
+keywords = {Carbon nanospheres, Synthesis, Design, Biomedical applications},
+abstract = {Carbon nanospheres (CNSs), featuring unique nanostructures and remarkable physicochemical properties, offer significant advantages such as high surface-to-volume ratio and tunable surface chemistry. They have generated extensive research interest in various fields, and great progress has been made in recent years. This review summarizes the main synthesis and design strategies for the preparation and functionalization of carbon nanospheres. These strategies include the controllable synthesis of carbon nanospheres with different structures and morphologies, surface modification with nanomaterials, functional groups, polymers, and functional molecules, as well as heteroatom doping with nitrogen and multi-heteroatoms. Then, the applications of carbon nanospheres in the biological field are reviewed, mainly focusing on bioimaging, drug delivery and therapy. Finally, some prospects for the future research and development of CNSs are proposed.}
+}

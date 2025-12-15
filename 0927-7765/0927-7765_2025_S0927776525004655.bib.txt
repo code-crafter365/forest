@@ -1,0 +1,13 @@
+@article{HUANG2025114958,
+title = {Synergistic enhancement of PLA nanocomposites via functionalized CNTs and MOFs: Multifunctional improvements in mechanical strength, thermal stability, and biomedical compatibility},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114958},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114958},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004655},
+author = {Lei Huang and Xin Ling and Linhui Huang and Feng Wei and Santosh K. Tiwari and Xinyu Chen and Fei Ma and Fangdi Huang and Nannan Wang and Yanqiu Zhu and Dahai Yu},
+keywords = {PLA, CNT/MOFs, Mechanical, Thermal, Antibacterial},
+abstract = {In pursuit of a sustainable alternative to conventional petroleum-derived polymers, this study aims to enhance the comprehensive performance of polylactic acid (PLA). Despite its inherent biocompatibility and biodegradability, the intrinsic brittleness of PLA significantly restricts its broader applicability, particularly in the medical domain. To overcome this limitation, we utilized the Hummers method to functionalize the surface of carbon nanotubes (CNTs) with carboxylic acid groups, followed by a green and highly efficient solution-mixing approach to immobilize the modified CNTs onto the surface of HKUST-1, a metal-organic framework (MOF). The resulting inorganic-organic nanocomposite, denoted as CNTₘ/HKUST-1, was uniformly integrated into a PLA matrix via a mechanical hot-pressing technique, yielding the CNTₘ/MOF-PLA composite. This composite exhibited remarkable enhancements in mechanical properties, including tensile strength, modulus, and fracture toughness, alongside improved thermal stability. Furthermore, it demonstrated exceptional antibacterial efficacy against *Staphylococcus aureus* and Escherichia coli, coupled with outstanding biocompatibility and minimal cytotoxicity. The green synthesis strategy employed herein positions the CNTₘ/MOF-PLA composite as a highly promising material for applications in tissue engineering and advanced biomedical devices.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025114540,
+title = {Rigid and soft substrates respectively promote the myocardial differentiation and maturation of human embryonic stem cells using elastic PDMS with thick synthetic coating},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114540},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114540},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000475},
+author = {Ling Yang and Lu Liu and Pengxia Zhang and Wen Pan and Hongxin Huang and Yongmei Qi and Yingbin Wang and Rongzhi Zhang and Ping Zhou},
+keywords = {Substrate hardness, Synthetic surface, Human embryonic stem cells, Cardiac differentiation, Maturation},
+abstract = {Cardiovascular disease is the predominant cause of mortality and severe disability. Cardiomyocytes (CMs) derived from human embryonic stem cells (hESCs) have good application prospects for treating this disease. Unfortunately, CMs generated via current methods are relatively immature, as proven by defects such as sarcomer-like structures, calcium processing capacity and mitochondrial maturity. Therefore, in this study, tunable PDMS substrates that modified with sufficiently thick synthetic coatings were prepared to regulate both the myocardial differentiation of hESCs and subsequent maturation. Surprisingly, the effect of substrate elasticity on the critical attachment of hESCs and hESC-CMs vanished when common Matrigel coatings were used, but apparent differences were detected in the synthetic group. Rigid substrates promoted the adhesion of hESCs but not hESC-CMs. Moreover, the PDMS substrates with the highest hardness remarkably promoted the myocardial differentiation of hESCs, which was even better than that of the rigid plate group. The softest PDMS achieved the best performance among the groups in terms of the maturation of hESC-CMs, as confirmed by enhanced functional, metabolic, and ultrastructural maturation. This study reveals the real impact of an elastic substrate on the adhesion, differentiation, and maturation of hESC-CMs, which has value for accelerating the development of clinically applicable mature hESC-CMs with high induction efficiency.}
+}

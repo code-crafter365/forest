@@ -1,0 +1,13 @@
+@article{ZOHDI2025117999,
+title = {A machine-learning enabled digital-twin framework for tactical drone-swarm design},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {117999},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117999},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002713},
+author = {T.I. Zohdi},
+keywords = {Drone-swarms, Machine-learning, Multibody dynamics, Structural-dynamics},
+abstract = {The goal of this work is to develop a machine-learning enabled digital-twin to rapidly ascertain optimal programming to achieve desired tactical multi-drone swarmlike behavior. There are two main components of this work. The first main component is a framework comprised of a multibody dynamics model for multiple interacting agents, augmented with a machine-learning paradigm that is based on the capability of agents to identify (a) desired targets, (b) obstacles and (c) fellow agents, as well as the resulting collective actions of the drone-swarm of agents. The objective is to construct a system with entirely autonomous behavior by optimizing the actuation parameter values that are embedded within the coupled multibody differential equations for drone-swarm dynamics. This is achieved by minimizing a cost-error function that represents the difference between the simulated overall group behavior and in-field behavior from observed ground truth synthetic data in the form of temporal snapshots corresponding to multiple camera frames. The second main component of the analysis is to deeply assess the structural performance of drone-swarm members, by studying chassis design, deployment and dynamic-structural performance. As an example, we investigate a tactical quadcopter drone under attack, specifically by subjecting it to series of launched explosions. A Discrete Element Method (DEM) is developed to rapidly design a quadcopter of any complex shape, attach motors and then to subject it to a hostile environment, in order to ascertain its performance. The method also allows one to describe structural damage to the quadcopter drone, its loss of functionality (thrust), etc. Furthermore, the use of DEM can also capture fragmentation of the quadcopter and can ascertain the resulting debris field. Numerical examples are provided to illustrate the two components of the overall model, the computational algorithm and its ease of implementation.}
+}

@@ -1,0 +1,13 @@
+@article{BRUGGI2025118742,
+title = {Energy-based form-finding of reticulated shells accounting for eigenvalue buckling},
+journal = {Composite Structures},
+volume = {354},
+pages = {118742},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118742},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008705},
+author = {Matteo Bruggi and Carlo Guerini},
+keywords = {Structural optimization, Force density method, Linear buckling, Reticulated shells, Stretching-dominated lattices, Additive manufacturing},
+abstract = {A formulation of structural optimization that is based on the force density method is used to deal with the elastic design of stiff gridshells and of structural components made of stretching-dominated lattices. While most of the conventional approaches deal with plastic design, the complementary strain energy is used as objective function, whereas geometric and volume constraints are dealt with. The set of force densities that corresponds to the spatial geometry of minimum compliance is sought by using sequential convex programming. The formulation can be endowed with a smooth eigenvalue buckling constraint that is implemented to enforce a lower bound for the critical load. The implementation of the method is discussed, with special regard to the evaluation of the linear stiffness matrix and the initial stress matrix. Numerical simulations are shown, addressing reticulated shells subjected to gravity loads and a lightweight column-like element related to applications in additive manufacturing. The sensitivity of the optimal shape to the buckling constraint is assessed, depending on the required structural performance.}
+}

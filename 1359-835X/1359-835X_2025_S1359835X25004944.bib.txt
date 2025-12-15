@@ -1,0 +1,13 @@
+@article{HUANG2025109200,
+title = {Constructing harmonic grain distribution in graphene-reinforced Cu matrix composites for enhanced strength and electrical conductivity},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109200},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109200},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004944},
+author = {Junrui Huang and Jiajing Liu and Yubo Zhang and Xi Yang and Xin Sun and Shanhao Du and Tingju Li and Tongmin Wang},
+keywords = {Metal matrix composites, Graphene, Harmonic structure, Electrical properties},
+abstract = {Graphene-reinforced copper matrix (Gr/Cu) composites typically exhibit high strength and electrical conductivity, with graphene playing a vital role in enhancing electrical conductivity. In this study, Gr/Cu composites with a novel harmonic grain structure were fabricated via in-situ graphene growth and hot-press sintering, and the synergistic effects of the Gr-network and Cu grains on the conductivity were systematically investigated. The harmonic unit consists of fine grains surrounding coarse grains, which is constructed by Gr-network distribution and grain growth. With an optimal harmonic configuration, the Gr/Cu composite achieves exceptional electrical conductivity of 102.70 % IACS, an ultimate tensile strength of 332.64 MPa, and an elongation of 28 %. The continuous three-dimensional Gr-network is crucial for ensuring superior electrical conductivity. Additionally, the harmonic structure minimizes carrier scattering and facilitates improved electrical conductivity. The unique grain distribution in the harmonic configuration also promotes strain delocalization and micro-crack blunting, leading to simultaneous improvements in physical and mechanical properties. These findings highlight the critical role of matrix microstructure and its cascading effect on electrical conductivity, providing a theoretical foundation for advancing conductive mechanisms in metal matrix composites (MMCs).}
+}

@@ -1,0 +1,13 @@
+@article{SOKA2025102370,
+title = {Modeling the effects of contaminated environments on the transmission dynamics of avian influenza in humans and domestic birds},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {122},
+pages = {102370},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102370},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000785},
+author = {Serapia Soka and Maranya Mayengo and Moatlhodi Kgosimore},
+keywords = {Avian influenza, Deterministic model, Contaminated environment, Basic reproduction number, Model simulation},
+abstract = {Avian influenza is a viral infection that affects birds and can spread to humans and other animals, causing severe illness and high mortality in both populations. Migratory birds are the primary transmitters of the virus, shedding it into the environment. This study investigates the effects of contaminated environments in the transmission dynamics of avian influenza. We suggest a deterministic mathematical model to capture the interactions between humans, domestic birds, and contaminated environments. A model takes the form of a system of non-linear ordinary differential equations. The next-generation matrix technique calculates the basic reproduction number (R0). The stability of both the disease-free and endemic equilibrium points is analyzed. When R0<1, the avian influenza free equilibrium is globally asymptotically stable, whereas when R0>1, the endemic equilibrium is globally asymptotically stable. The Latin Hypercube Sampling (LHS) and partial rank correlation coefficients (PRCC) methods are employed to assess the sensitivity of the model parameters. A numerical simulation is performed to investigate the effects of different model parameters associated with environmental contamination towards R0. The results indicate that the transmission rates of avian influenza virus by humans and domestic birds are directly proportional to R0.}
+}

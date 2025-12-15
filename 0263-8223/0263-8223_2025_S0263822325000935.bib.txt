@@ -1,0 +1,13 @@
+@article{WANG2025118928,
+title = {Multi-physics simulation of adhesives for structural joints in hygrothermal environments considering mechanical degradation},
+journal = {Composite Structures},
+volume = {357},
+pages = {118928},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118928},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000935},
+author = {Yilin Wang and Antonio Cibelli and Jan Vorel and Philipp Siedlaczek and Jan Belis and Helga C. Lichtenegger and Roman Wan-Wendner},
+keywords = {Adhesive joints, Hygrothermal environment, Diffusion, Mechanical degradation, Multi-physics framework},
+abstract = {Adhesive joints are increasingly utilized to address structural challenges by overcoming non-uniform stress transfer and stress concentration common in mechanical joint systems. For hybrid Fiber Reinforced Polymer (FRP)/concrete systems, interfacial bond strength is governed by adhesive joints, which are highly sensitive to environmental factors like moisture and temperature. Moisture ingress, from the surrounding environment and from concrete, can induce hydrolytic degradation, significantly altering the mechanical properties of the adhesive. To address these issues, a nonlinear Finite Element Method (FEM)-based model has been developed, coupling moisture diffusion with a mechanical degradation model for thermoset polymers. This multi-physics framework is able to capture moisture exchange between adhesive, concrete, and the environment, predicting the performance of bulk adhesive under hygrothermal conditions. Calibration and validation were performed using experimental data from bulk adhesive samples. A parametric study on the diffusion model was performed to discuss the influence of the model parameters on the mechanical behavior of bulk adhesive. Furthermore, predictive proof-of concept simulations were conducted, including its application to two representative single-lap shear tests: steel-steel system and FRP-concrete system. This case study aids in evaluating and understanding the fundamental mechanisms of moisture diffusion and mechanical degradation in structural joints.}
+}

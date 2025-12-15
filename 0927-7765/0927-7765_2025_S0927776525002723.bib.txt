@@ -1,0 +1,13 @@
+@article{WANG2025114765,
+title = {Surface defect engineering and photocatalytic antimicrobial mechanism of Bi19Br3S27},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114765},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114765},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002723},
+author = {Zixuan Wang and Qian Sun and Meiling Liu and Shaojie Zi and Huaying Liu and Huan Li and Xiaoning Tang},
+keywords = {BiBrS, Sulfur vacancies, Photocatalytic antimicrobial, Reactive oxygen species},
+abstract = {Bismuth-based photocatalysts have gained significant attention for their excellent visible-light-driven activity and potential in environmental and antimicrobial applications. Among them, bismuth oxyhalides and sulfides exhibit promising photocatalytic properties; however, their practical application is often hindered by high carrier recombination rates and photocorrosion. In this study, an efficient and controllable alkali etching method is proposed as a surface modification strategy to prepare Bi₁₉Br₃S₂₇-modified materials (N-BBS) rich in sulfur vacancies. The surface morphology and the distribution of vacancies were optimized by rationally regulating the etching time to form more electron traps while enhancing the photogenerated carrier separation efficiency of the material, which elucidated the main active substances and antimicrobial mechanism of N-BBS in the photocatalytic process. N-BBS showed excellent optical properties in antimicrobial experiments, with antibacterial efficiency against Escherichia coli increasing approximately four-fold compared with that of unmodified BBS. N-BBS also showed excellent stability in multiple cycle degradation experiments, effectively addressing photocorrosion issues. Under visible light, the material generated a high concentration of superoxide radicals (·O2-) and a small amount of hydroxyl radicals (·OH), which contributed to efficient antibacterial activity by interacting with both the interior and exterior of bacteria. The photocatalytic antimicrobial performance of BBS was significantly enhanced by surface defect engineering and structural optimization, filling the gap of bismuth-based sulfur-based materials in photocatalytic antimicrobial field, providing a new approach for developing efficient and stable bismuth-based sulfur-based photocatalytic antimicrobial materials.}
+}

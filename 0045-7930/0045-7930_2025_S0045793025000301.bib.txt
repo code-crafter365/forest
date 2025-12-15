@@ -1,0 +1,13 @@
+@article{SALIMNEZHAD2025106570,
+title = {A hybrid immersed-boundary/front-tracking method for interface-resolved simulation of droplet evaporation},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106570},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106570},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000301},
+author = {Faraz Salimnezhad and Hasret Turkeri and Iskender Gokalp and Metin Muradoglu},
+keywords = {Multiphase flows, Droplet evaporation, Phase change, Direct numerical simulation, Front-tracking method, Sharp-interface immersed boundary method, Evaporation models},
+abstract = {A hybrid sharp-interface immersed-boundary/front-tracking (IB/FT) method is developed for interface-resolved simulation of evaporating droplets in incompressible multiphase flows. A one-field formulation is used to solve the flow, species mass fraction and energy equations in the entire computational domain with appropriate jump conditions at the interface. An image point and ghost cell methodology is coupled with a front-tracking method to achieve an overall second order spatial accuracy for the mass fraction boundary condition on the droplet surface. The immersed-boundary method is also extended to simulate mass transfer from a solid sphere in a convective environment. The numerical method is first validated for the standard benchmark cases and the results are found to be in good agreement with analytical solutions. The method is shown to be overall second order accurate in space. Employing a moving reference frame methodology, the method is then applied to simulate evaporation of a deformable droplet in a convective environment and the results are compared with the existing evaporation models widely used in spray combustion simulations.}
+}

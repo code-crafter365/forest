@@ -1,0 +1,13 @@
+@article{PEIVASTE2025117945,
+title = {Teaching artificial intelligence to perform rapid, resolution-invariant grain growth modeling via Fourier Neural Operator},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117945},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117945},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002178},
+author = {Iman Peivaste and Ahmed Makradi and Salim Belouettar},
+keywords = {Machine learning, Fourier Neural Operator, Phase-field, Grain growth, Allen–Cahn, Fan–Chen},
+abstract = {Microstructural evolution, particularly grain growth, plays a critical role in shaping the physical, optical, and electronic properties of materials. Traditional phase-field modeling accurately simulates these phenomena but is computationally intensive, especially for large systems and fine spatial resolutions. While machine learning approaches have been employed to accelerate simulations, they often struggle with resolution dependence and generalization across different grain scales. This study introduces a novel approach utilizing Fourier Neural Operator (FNO) to achieve resolution-invariant modeling of microstructure evolution in multi-grain systems. FNO operates in the Fourier space and can inherently handle varying resolutions by learning mappings between function spaces. By integrating FNO with the phase-field method, we developed a surrogate model that significantly reduces computational costs while maintaining high accuracy across different spatial scales. We generated a comprehensive dataset from phase-field simulations using the Fan–Chen model, capturing grain evolution over time. Data preparation involved creating input–output pairs with a time shift, allowing the model to predict future microstructures based on current and past states. The FNO-based neural network was trained using sequences of microstructures and demonstrated remarkable accuracy in predicting long-term evolution, even for unseen configurations and higher-resolution grids not encountered during training.}
+}

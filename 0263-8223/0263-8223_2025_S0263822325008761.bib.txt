@@ -1,0 +1,13 @@
+@article{SCHARF2025119711,
+title = {NATM tunnel as multiscale composite structure: The essential role of shell-to-ground shear transfer},
+journal = {Composite Structures},
+volume = {374},
+pages = {119711},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119711},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008761},
+author = {Raphael Scharf and Christian Hellmich},
+keywords = {New Austrian Tunneling Method, Composite structure, Nonlinear aging viscoelasticity, Shear transfer, Analytical mechanics, Principle of virtual power, Shell theory},
+abstract = {The New Austrian Tunneling Method (NATM) realizes an integrated ground–shell composite structure, namely a displacement-monitored shotcrete shell surrounded by rock bolt-reinforced ground. The present paper focusses on the shear transfer between ground and shell, as experimentally evidenced by direct shear tests of soil or rock samples moved over concrete surfaces. A multiscale analytical structural mechanics approach allows for translation of geodetical measurements into external and internal shell forces and stresses. Key ingredients of the approach are the continuum mechanics-related format of the Principle of Virtual Power, thin shell kinematics, i.e. virtual motions of rigid generator lines remaining orthogonal to the shell midsurface, and aging nonlinear viscoelasticity modeling of shotcrete. Application of the new method to Sieberg tunnel, an NATM benchmark example, shows that consideration of ground shear reduced the utilization degree of the shell by some 50%: Shell-to-ground shear transfer turns out as an essential feature of NATM tunneling.}
+}

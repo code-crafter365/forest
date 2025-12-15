@@ -1,0 +1,13 @@
+@article{XU2025114569,
+title = {Oral functional protein Z: Mitigation of thrombosis via thrombin inhibition to prevent cardiovascular disease},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114569},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114569},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000761},
+author = {Chen Xu and Hanhan Liu and Mingyang Sun and Yang Gao and Tuo Zhang and Guanghua Zhao and Chenyan Lv},
+keywords = {Protein Z, Gastrointestinal digestion, Antithrombin activity, Antithrombotic},
+abstract = {Thrombin, a serine protease, plays a crucial role in thrombosis and is considered a significant target for the treatment of thrombotic diseases. This study aimed to investigate the malt-derived serine protease inhibitor protein Z (PZ) as an oral food enrichment for inhibiting thrombosis. The ability of PZ to withstand gastrointestinal digestion was assessed through in vitro simulated gastrointestinal digestion experiments. Its effective ability to traverse the digestive tract was demonstrated in vivo experiments. To explore its antithrombotic mechanism, the antithrombin activity of PZ was evaluated using two thrombin substrates, suggesting that it may inhibit either the active site or exosite 1 of thrombin. Additionally, the half-life of PZ was 10.76 ± 0.45 min, indicating its favorable pharmacokinetic profile. The anticoagulant activity and antithrombotic effects of PZ were further assessed using a mice tail thrombosis model induced by κ-carrageenan. The black tail rate in the PZ group is 51.23 ± 1.72 % lower than that of the model group (71.87 ± 5.90 %). These results demonstrated that PZ significantly inhibited thrombosis, with its physiological mechanism linked to the coagulation pathway, particularly through the inhibition of thrombin activity. Therefore, PZ has the potential to be developed as an oral antithrombotic food enrichment.}
+}

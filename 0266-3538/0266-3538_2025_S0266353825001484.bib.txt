@@ -1,0 +1,13 @@
+@article{ZHANG2025111180,
+title = {Construction of hyperbranched polymer for advanced dental composites: Low shrinkage, high strength, and enhanced biocompatibility},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111180},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111180},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001484},
+author = {Qiyue Zhang and Ibrahim Abdalla and Athar Hassan and Kangni Wang and Danyue Wang and Jia Zheng and Ruili Wang and Bin Sun and Xiaoze Jiang and Meifang Zhu},
+keywords = {Hyperbranched polymers, Dental composites, Polymerization shrinkage, Silica fillers, Mechanical performance},
+abstract = {Dental restorative composites (DRCs) commonly result in secondary caries due to high polymerization shrinkage (PS) after curing and low strength property after long-term performance. To address this, a hyperbranched polymer (HBP) molecule named HTH, possessing rigid phenyl, cross-linkable methacrylate, and inter/intra molecular interactable urethane was synthesized via a one-step Michael addition and esterification process using 1,1,1-trimethylolpropane with N, N-di (2-hydroxyethyl)-3-aminopropyl meth-acrylate and then modified the hydroxyl terminals with 2-{[(3-isocyanato-4-methylphenyl) carbamoyl]oxy}ethyl 2-methylprop-2-enoate (TDI-HEMA). The obtained HTH molecule was characterized, and effect of the incorporation of HBP molecules utilized as one co-monomer was explored on the properties of DRCs prepared by fixed 25 wt% organic matrix constitute of bisphenol A-glycidyl methacrylate (Bis-GMA)/tri(ethylene glycol) dimethacrylate (TEGDMA) (weight ratio 50:50, referred to as 5B5T) and 75 wt% micro- and nano-hybrid silica (SiO2) fillers in details by Nuclear Magnetic Resonance spectroscopy (NMR), Fourier Transform Infrared Spectrometer (FT-IR), universal testing machine and density balance, etc. The measured results show: the HBP molecules, HTH, was synthesized successfully. The incorporation of HBP molecules reduces clearly the PS of DRCs, and the lowest PS of resultant DRCs could reach to 1.97 % by 20 wt% incorporation of HTH into 5B5T organic matrix and SiO2 particle systems meanwhile their mechanical properties remained robust (compressive strength at 355.7 MPa) and achieved excellent biocompatibility. This construction of new type of HBP molecules bearing functional moieties similar Bis-GMA characteristics as co-monomer offers a promising light to develop novel commercialized DRCs with high strength property and low PS, seamlessly blending durability and functionality.}
+}

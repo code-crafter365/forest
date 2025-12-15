@@ -1,0 +1,13 @@
+@article{LI2025119428,
+title = {A highly efficient element genome–based FE simulation for modeling the mechanical behaviors of composites},
+journal = {Composite Structures},
+volume = {370},
+pages = {119428},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119428},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005938},
+author = {Kuncheng Li and Yang Chen and Chao Zhang},
+keywords = {Element genome, Machine learning, Composites, Finite element simulation, Computational efficiency},
+abstract = {Multiscale simulations of the mechanical behaviors of composites always have high computational costs. In this study, the concept of an element genome is introduced and incorporated with finite element (FE) simulation to enhance computational efficiency. The element genome can be regarded as a coarse mesh for the finite element method that also exhibits the mechanical characteristics of several fine meshes. This enables the FE simulation to be implemented with high efficiency by using coarse meshes, while the more detailed mechanical responses of the fine meshes are simultaneously computed from the element genome to ensure computational efficiency and accuracy. The database of the element genome is constructed using FE simulation. A machine learning technology is then employed to accurately compute the mechanical behaviors of a coarse mesh comprised of any combination of fine meshes with different mechanical properties. The proposed element genome–based FE simulation is then adopted to simulate the effective moduli of various composites, including a particle-reinforced composite, a fiber-reinforced composite, a 3D woven composite, and a random pixel particle-reinforced composite. The findings reveal that this method can save at least 93% of the computational cost for predicting the effective behaviors of different composites while showing good computational accuracy. Subsequently, a method of stress refinement is proposed to improve the computational accuracy of the stress fields of the composites. The results show that the element genome–based FE simulation with stress refinement can accurately approximate the stress fields of composites.}
+}

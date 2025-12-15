@@ -1,0 +1,13 @@
+@article{HARES2025108541,
+title = {A friction-based method for measuring the radial compaction response of fibre tows},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108541},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108541},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005396},
+author = {J. Hares and P. Kelly and M. Battley and S. Bickerton},
+keywords = {A. Tow, B. Mechanical properties, D. Mechanical testing, E. 3-D printing},
+abstract = {High performance fibre reinforced composite components are typically compacted to a high fibre volume fraction during manufacture. As such, it is important to understand the compaction behaviour of these materials to better design and model composite manufacturing processes. While most manufacturing processes apply transverse compaction pressure to planar textiles, continuous fibre composite 3D printing processes can apply a radial compaction pressure to a single tow in the printing nozzle. A similar mode of compaction is also seen in processes such as pultrusion of circular cross-sections. This work describes a new friction-based method for measuring the radial compaction response of single tows, or groups of tows. The radial compaction behaviour of a single 40K carbon fibre tow is measured and presented. Radial compaction of the characterised tow showed a steeper nonlinear relationship between compaction pressure and fibre volume fraction, than typically found for transverse compaction of 2D textile reinforcements.}
+}

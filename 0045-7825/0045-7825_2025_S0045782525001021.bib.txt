@@ -1,0 +1,13 @@
+@article{DAHLBERG2025117830,
+title = {Simultaneous shape and topology optimization on unstructured grids},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117830},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117830},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001021},
+author = {Vilmer Dahlberg and Anna Dalklint and Mathias Wallin},
+keywords = {Shape optimization, Topology optimization, Fictitious energy, PETSc},
+abstract = {In this work we present a simultaneous shape and topology optimization framework that generates large-scale 3D designs on unstructured grids. We consider a “parameter-free” shape optimization approach, wherein the nodal coordinates in the finite element mesh serve as design variables. To regularize the design changes we use a PDE-based filter, similar to the filtering techniques used in topology optimization. We present a variant of the “parameter-free” shape optimization where we allow not only design variables on the surface, but also in the bulk of the domain. To combat mesh quality issues we employ adaptive mesh refinement based on a Riemannian metric. The numerical algorithm is implemented in C++ and uses PETSc for efficient shape and topology optimization of complex 3D geometries on unstructured grids. We verify our “parameter-free” shape optimization on two examples, and compare different variations of the shape filter. Finally, we demonstrate the power and flexibility of our simultaneous shape and topology optimization framework on a dam-like geometry.}
+}

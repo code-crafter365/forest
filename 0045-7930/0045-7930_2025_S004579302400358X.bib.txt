@@ -1,0 +1,13 @@
+@article{YAMAZAKI2025106527,
+title = {Quantum algorithm for collisionless Boltzmann simulation of self-gravitating systems},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106527},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106527},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302400358X},
+author = {Soichiro Yamazaki and Fumio Uchida and Kotaro Fujisawa and Koichi Miyamoto and Naoki Yoshida},
+keywords = {Quantum computing, Collisionless Boltzmann equation},
+abstract = {The collisionless Boltzmann equation (CBE) is a fundamental equation that governs the dynamics of a broad range of astrophysical systems from space plasma to star clusters and galaxies. It is computationally expensive to integrate the CBE directly in a multi-dimensional phase space, and thus the applications to realistic astrophysical problems have been limited so far. Recently, Todorova & Steijl (2020) proposed an efficient quantum algorithm to solve the CBE with significantly reduced computational complexity. We extend the algorithm to perform quantum simulations of self-gravitating systems, incorporating the method to calculate gravity with the major Fourier modes of the density distribution extracted from the solution-encoding quantum state. Our method improves the dependency of time and space complexities on Nv, the number of grid points in each velocity coordinate, compared to the classical simulation methods. We then conduct some numerical demonstrations of our method. We first run a 1+1 dimensional test calculation of free streaming motion on 64 × 64 grids using 13 simulated qubits and validate our method. We then perform simulations of Jeans collapse, and compare the result with analytic and linear theory calculations. It will thus allow us to perform large-scale CBE simulations on future quantum computers.}
+}

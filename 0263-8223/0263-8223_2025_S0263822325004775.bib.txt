@@ -1,0 +1,13 @@
+@article{PITCHAI2025119312,
+title = {Deterministic and stochastic analysis of a three phase piezoelectric composite using the coupled PIM-VAM based homogenization framework},
+journal = {Composite Structures},
+volume = {370},
+pages = {119312},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119312},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004775},
+author = {Pandi Pitchai and P.J. Guruprasad},
+keywords = {Variational asymptotic method, Level set, Point interpolation, Stochastic homogenization, Three phase piezoelectric composite},
+abstract = {This paper presents a computational framework that integrates the Variational Asymptotic Method (VAM) with the Point Interpolation Method to evaluate the global and local field properties of inclusion-coated three-phase piezoelectric composites. Validated against the Mori–Tanaka method and the Uniform Micro-mechanical Approach, the framework demonstrates good agreement and is extended to assess the impact of increasing relative coating thickness on electromechanical performance. Results indicate significant improvements in coupled piezoelectric and dielectric properties with greater coating thickness, particularly when the fiber volume fraction exceeds 30%, in both the transverse and polarization directions. While the inclusion shape has a negligible effect along the poling axis, it induces noticeable variations in the transverse direction due to localized anisotropic coupling, especially for sharp-edged inclusion shapes. Although some enhancement is observed in the transverse direction, the electromechanical response remains primarily governed by polarization along the poling axis, which becomes more dominant at higher fiber volume fractions. Additionally, integrating VAM with a Stochastic Reduced Order Model enables microstructural uncertainty analysis, showing that higher fiber volume fractions significantly increase variance in stochastic response variables. A related study shows greater variance in the transverse direction for sharp-edged inclusions, while the longitudinal direction remains consistent across all inclusion shapes.}
+}

@@ -1,0 +1,12 @@
+@article{NARVAEZSAUCEDO2025106933,
+title = {A Markov Matrix Iterative Splitting Algorithm for Natural Convection},
+journal = {Computers & Fluids},
+pages = {106933},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106933},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003937},
+author = {Manira E. Narvaez-Saucedo and Carlos A. Lopez-Villalobos and Manuel A. Ramırez-Cabrera and Eduardo Ramos and Patricio {Javier Valades Pelayo}},
+keywords = {Heat-transfer, Monte Carlo, Projection, Natural convection},
+abstract = {This work introduces a novel Markov Matrix Iterative Splitting Algorithm (MISA), a probabilistic operator splitting Monte Carlo approach designed for simulating natural convection in incompressible flows within the continuum regime. This approach effectively captures the nonlinear convective transport and stochastic diffusion while enforcing global incompressibility, without requiring mesh generation or matrix inversions common to deterministic solvers. Variance reduction techniques and a Multi-Level Monte Carlo framework improve convergence and stability. MISA naturally handles complex geometries with internal obstacles, incorporated effortlessly by excluding walkers inside them and imposing boundary conditions on their surfaces. Benchmark natural convection simulations in square cavities demonstrate MISA’s accuracy and computational efficiency compared to traditional finite-volume solvers. The method reliably resolves convective flow structures and temperature fields, highlighting its promising potential for complex fluid-thermal transport problems in irregular domains.}
+}

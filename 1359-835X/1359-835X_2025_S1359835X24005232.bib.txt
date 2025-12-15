@@ -1,0 +1,13 @@
+@article{YAP2025108525,
+title = {In-plane properties of an in-situ consolidated automated fiber placement thermoplastic composite},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108525},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108525},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005232},
+author = {Timothy Yap and Nathaniel Heathman and Behrooz {Shirani Bidabadi} and Emile {Motta de Castro} and Ali Tamijani and Amir Asadi and Mehran Tehrani},
+keywords = {Thermoplastic composites, Automated fiber placement, In-situ consolidation, Failure mechanics, Additive manufacturing},
+abstract = {Automated fiber placement (AFP) has been employed to manufacture aerospace structures for decades, with a recent focus on thermoplastic composites (TPCs). The in-situ consolidation AFP of TPCs is pursued as an energy-efficient additive manufacturing (AM) approach for fabricating composite structures. This work compares the in-plane mechanical properties of in-situ consolidated coupons with those of compression molded counterparts to provide new insights into their failure mechanics and processing-structure relationships. Tensile and compressive properties along the fiber and transverse directions, in-plane shear properties, and short beam strength were measured for all samples. Failure modes and mechanics in tested coupons were related to AFP defects and processing, i.e., resultant crystallinities, fiber misalignment, matrix mechanical properties, porosity, and fiber–matrix interfacial strength. The findings of this study can be used to guide the manufacturing of future TPC structures and potentially open new avenues for applications where post-processing is not feasible or reduced mechanical performance is acceptable.}
+}

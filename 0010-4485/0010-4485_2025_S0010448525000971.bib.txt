@@ -1,0 +1,13 @@
+@article{YANG2025103936,
+title = {Triple-parametric autoencoder for 2D reparameterization via Bézier, B-spline, and NURBS representations},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103936},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103936},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000971},
+author = {Shaoliang Yang and Jun Wang},
+keywords = {Triple-parametric autoencoder, Generative parameterization, Data-driven synthesis, Neural network},
+abstract = {This paper proposes a sample-wise triple-parametric deep learning framework (TPDLF) for 2D curve parameterization. The proposed framework integrates Bézier, B-spline, and Non-Uniform Rational B-spline (NURBS) curve formulations within a unified neural network architecture, enabling the reconstruction of smooth and closed 2D curves such as real-world airfoil and synthetic Superformula shapes (with n-fold symmetry). An encoder compresses the input curve shape into a latent space, while three distinct decoders untangle the latent space by inferring corresponding governing parameters for each parameterization (i.e., Bézier/B-spline/NURBS). The corresponding reconstruction modules are then deployed to ensure smooth curve generation using the governing parameters inferred from the three decoders. The learned governing parameters not only facilitate curve reconstruction but also provide interpretable insights into the underlying geometric structure, reflected by our adjustable post-processing—an interactive graphic user interface (GUI) has been developed to enable manipulating the inferred governing parameters (e.g., control points and weights) both manually and precisely for fine-tuning the raw input 2D curve into specified target parameterization (Bézier/B-spline/NURBS) in real-time. The proposed framework demonstrates the effectiveness of combining classical parametric shape modeling with modern deep-learning techniques for advancing shape synthesis and analysis.}
+}

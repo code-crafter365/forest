@@ -1,0 +1,13 @@
+@article{PANG2025109186,
+title = {Predicting mechanical failure of short fiber-reinforced composites using progressive damage accumulation in a two-step homogenization approach},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109186},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109186},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004804},
+author = {Hyonwoo Pang and Minjun Kwak and Wonjun Lee and Sang-Woo Kim and Woong-Ryeol Yu},
+keywords = {Short fiber-reinforced plastics, Two-step homogenization, Progressive damage accumulation, Mechanical failure behavior prediction},
+abstract = {Injection-molded short fiber-reinforced plastics (SFRPs) have emerged as high-performance, lightweight engineering composites; however, accurate failure prediction at the multi-component level remains a significant challenge due to the complex anisotropic microstructure embedded within an inelastic polymer matrix. This study introduces a novel failure prediction model that incorporates progressive damage accumulation within a two-step homogenization framework, wherein each SFRP material point is decomposed into pseudograins representing unidirectionally aligned fibers embedded in viscoelastic-viscoplastic matrix. Uniquely, the model integrates anisotropic damage mechanisms that enable distinct predictions of fiber- and matrix-dominated failure modes under given loading conditions. A key innovation is the introduction of a delayed stiffness degradation strategy—stiffness reduction within each pseudograin is activated only after a critical damage threshold is exceeded. Unlike traditional models that rely solely on the satisfaction of failure initiation criterion, this strategy captures progressive, localized failure phenomena and replicates the realistic evolution of damage, including the fractured appearance observed at the part level. Implemented in the ABAQUS user material subroutine and validated against experimental results, this model accurately predicts the anisotropic failure behavior and damage propagation of injection-molded SFRP parts, providing a robust framework that offers new insights for efficient failure prediction at the multi-component level.}
+}

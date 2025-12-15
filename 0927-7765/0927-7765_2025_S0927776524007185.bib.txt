@@ -1,0 +1,13 @@
+@article{GALVAO2025114459,
+title = {Iontophoresis-driven alterations in nanoparticle uptake pathway and intracellular trafficking in carcinoma skin cancer cells},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114459},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114459},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007185},
+author = {Gabriela Fávero Galvão and Raquel Petrilli and Vanessa Cristina Arfelli and Andréia Nogueira Carvalho and Yugo Araújo Martins and Roberta Ribeiro Costa Rosales and Leticia Fröhlich Archangelo and Luis Lamberti Pinto daSilva and Renata Fonseca Vianna Lopez},
+keywords = {EGFR, Lysosome degradation, Endocytic routes},
+abstract = {Effective treatment of squamous cell carcinoma (SCC) poses challenges due to intrinsic drug resistance and limited drug penetration into tumor cells. Nanoparticle-based drug delivery systems have emerged as a promising approach to enhance therapeutic efficacy; however, they often face hurdles such as inadequate cellular uptake and rapid lysosomal degradation. This study explores the potential of iontophoresis to augment the efficacy of liposome and immunoliposome-based drug delivery systems for SCC treatment. The study assessed iontophoresis effects on SCC cell line (A431) viability, nanoparticle uptake dynamics, and intracellular distribution patterns. Specific inhibitors were employed to delineate cellular internalization pathways, while fluorescence microscopy and immunohistochemistry examined changes in EGFR expression and lysosomal activity. Results demonstrated that iontophoresis significantly increased cellular uptake of liposomes and immunoliposomes, achieving approximately 50 % uptake compared to 10 % with passive treatment. This enhancement correlated with modifications in endocytic pathways, favoring macropinocytosis and caveolin-mediated endocytosis for liposomes, and macropinocytosis and clathrin-mediated pathways for immunoliposomes. Moreover, iontophoresis induced alterations in EGFR distribution and triggered syncytium-like cellular clustering. It also attenuated lysosomal activity, thereby reducing nanoparticle degradation and prolonging intracellular retention of therapeutic agents. These findings underscore the role of iontophoresis in modulating nanoparticle internalization pathways, offering insights that could advance targeted drug delivery strategies and mitigate therapeutic resistance in SCC and other malignancies.}
+}

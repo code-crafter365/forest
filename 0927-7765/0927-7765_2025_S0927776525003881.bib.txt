@@ -1,0 +1,13 @@
+@article{WANG2025114881,
+title = {Hydrogel loaded with mesalazine for local injected treatment of periodontitis with superior anti-inflammatory, mucosal healing and bone repair performance},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114881},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114881},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003881},
+author = {Haoyu Wang and Yuqi Wang and Jingzheng Yi and YuXin Bai and Ying Zhang and Min Hu and Jiaqing Yan},
+keywords = {Periodontitis, Mesalazine, Anti-inflammatory, CS/β-GP/gel hydrogel, PI3K/AKT pathway},
+abstract = {Periodontitis is a chronic inflammatory disease caused by the interaction between the plaque microorganisms in the periodontal tissues and host's immune system. There is a close association between inflammatory bowel disease (IBD) and periodontitis. The pathogenesis of both diseases is associated with the dysregulation of the local microbiota and immune system. Mesalazine (MSZ) is routinely used in the clinical treatment of IBD, and it exhibits excellent antioxidant and anti-inflammatory effects as a non-steroidal anti-inflammatory drugs (NSAIDs). Considering the established close association between IBD and periodontitis, we hypothesise that MSZ may exert a similarly positive effect in the treatment of periodontitis. Given that the erosion of saliva and gingival crevicular fluid can lead to drug loss, we designed a temperature sensitive hydrogel composed of chitosan (CS), sodium β-glycerophosphate (β-GP), and gelatin (gel) to enhance drug utilization. The released MSZ can suppress the synthesis and release of inflammatory cytokines IL-6, TNF-α and PGE2 in macrophages by inhibiting the phosphorylation of PI3K and AKT. In in vivo experiments, the hydrogel reduced the infiltration of inflammatory cells in periodontal tissues of rats with periodontitis, promoted the formation of a new junctional epithelium, facilitated the epithelial healing of periodontal pocket linings, and inhibited the resorption of alveolar bone. In this research, we compared the intestinal mucosa with periodontal pocket tissues to identify a novel approach for periodontitis treatment, thereby achieving repurposing of existing drugs. This not only expanded the application of NSAIDs in periodontitis treatment, but also provided insights for optimizing the treatment of other mucosal diseases.}
+}

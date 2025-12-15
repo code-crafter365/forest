@@ -1,0 +1,13 @@
+@article{XU2025118243,
+title = {Inverse design of structures with accurately programmable nonlinear mechanical responses by topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118243},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118243},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005158},
+author = {Jiashuo Xu and Mi Xiao and Liang Gao},
+keywords = {Programmable nonlinear mechanical responses, Inverse design, Topology optimization, Tangent stiffness},
+abstract = {Structures with programmable nonlinear responses have promising applications in the design of medical stents, soft robotics, wearable and flexible electronic devices, and so on. However, it is exceptionally difficult to precisely tune the nonlinear mechanical responses in terms of structural inverse design from target properties to configurations. This paper proposes an inverse design method based on topology optimization, which is targeted at the customized design of structures featuring target nonlinear mechanical responses. In this method, a tangent stiffness constraint is introduced, which significantly improves the programmable accuracy of nonlinear mechanical responses. To track the nonlinear mechanical behavior of structures, the modified generalized displacement control method is used to solve the nonlinear finite element equations. A strain energy interpolation scheme is employed to address numerical instability during nonlinear topology optimization. Moreover, numerical tensile and compression test models, along with periodic boundary conditions, are employed to characterize the macroscopic nonlinear mechanical behavior of microstructures. Numerical examples of macrostructures and microstructures in terms of stiffening, softening, constant force, and bistable mechanical behaviors are provided. The results indicate that the proposed method is accurate and robust, and has wide applicability in realizing programmable nonlinear mechanical responses.}
+}

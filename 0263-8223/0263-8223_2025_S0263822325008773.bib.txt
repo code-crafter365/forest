@@ -1,0 +1,13 @@
+@article{LIU2025119712,
+title = {Impact resistance and failure mechanisms of high strength-high ductility concrete beams under repeated low-velocity impacts},
+journal = {Composite Structures},
+volume = {374},
+pages = {119712},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119712},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008773},
+author = {Jintao Liu and Xinyang Yu and Sijie Han and Bing Wang and Xin Zhao and Deyu Kong and Surendra P. Shah},
+keywords = {High strength-high ductility concrete (HSHDC), Impact resistance, Reinforcement ratio, Dynamic performance, Flexural-shear failure, Energy dissipation},
+abstract = {Despite significant advances in understanding the material properties of High Strength-High Ductility Concrete (HSHDC), there remains a critical gap in studies examining the influence of reinforcement configurations on the impact resistance of HSHDC components in practical applications. This study explores the influence of reinforcement ratios on the impact resistance of HSHDC beams through multiple drop-weight impact tests. Key parameters including impact force, reaction force, deflection, energy dissipation, crack propagation, and failure mechanisms, were analyzed. The results reveal that, with the same reinforcement ratio, utilization of HSHDC can significantly reduce mid-span, peak deflections and spall compared to traditional reinforced concrete (RC), while enhancing cumulative energy dissipation by 12.9%. Increasing the ratio to 1.67% transitioned the failure mode to adequately reinforced, resulting in a 155% increase in cumulative energy dissipation compared to the 0.74% group. Higher longitudinal reinforcement ratios promote more uniform deflection distribution and slower increases in post-impact residual deflection, exhibiting a “pseudo-stabilization” phenomenon similar to that observed in metallic structures. Additionally, HSHDC’s superior shear resistance leads to ductile shear failure behavior. These findings highlight the potential of HSHDC to enhance structural performance while allowing for reduced stirrup usage, offering significant economic and practical benefits for construction applications.}
+}

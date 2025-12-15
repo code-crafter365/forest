@@ -1,0 +1,20 @@
+@article{ZHANG2025114738,
+title = {Preparation and properties of chitosan quaternary ammonium salt/α-calcium sulfate hemihydrate/β-tricalcium phosphate composite bone cement},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114738},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114738},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002450},
+author = {Shaobing Zhang and Zhi Lian and Xingtao Chen and Ke Duan and Cheng Liang and Xin Duan and Jiyuan Yan and Jianhua Ge},
+keywords = {Beta-tricalcium phosphate, Bone regeneration, Calcium sulfate hemihydrate, Osteogenesis, HACC},
+abstract = {Objective
+The effective treatment of bone tissue defects is a significant challenge in clinical orthopaedics. This study investigated the preparation and properties of composite bone cements comprising 2-hydroxypropyltrimethyl ammonium chloride chitosan (HACC)-modified α-calcium sulfate hemihydrate (α-CSH)/β-tricalcium phosphate (β-TCP) for potential applications in bone regeneration.
+Methods
+α-CSH was synthesised via a hydrothermal method, while β-TCP was prepared through a chemical reaction involving calcium salts and phosphates. HACC was dissolved in deionised water to formulate curing solutions with concentrations ranging from 0 to 4 wt% HACC. The α-CSH and β-TCP powders (7:3 mass ratio) were homogeneously blended with the HACC solution (1:0.3 w/v) to produce HACC/α-CSH/β-TCP composite bone cements. To assess the biocompatibility, osteogenic potential, and antimicrobial activity, extracts of the composite bone cements were used to culture rat bone marrow mesenchymal stem cells. A critical bone defect model in the femoral condyle of male Sprague–Dawley rats was employed to evaluate the in vivo osteogenic repair efficacy.
+Results
+The self-curing time met clinical requirements, and the compressive strength approached that of normal human cancellous bone. The in vitro degradation rate was consistent with the rate of new bone formation. Increasing the HACC concentration enhanced the injectability and washout resistance of the composites. The materials exhibited good in vitro biocompatibility; composites containing HACC upregulated osteogenesis-related gene expression and significantly inhibited the growth of Staphylococcus aureus and Escherichia coli. In vivo, the 3 wt% HACC/α-CSH/β-TCP composite showed the best overall performance.
+Conclusions
+HACC/α-CSH/β-TCP composite bone cements demonstrate promising clinical potential owing to their improved setting time, mechanical properties, injectability, and cytocompatibility. This material is a strong candidate as a substitute for artificial bone to treat infectious bone defects.}
+}

@@ -1,0 +1,13 @@
+@article{NAGARAJ2025119631,
+title = {Influence of microstructural variabilities on the mechanical properties of fiber-reinforced composites accounting for manufacturing effects},
+journal = {Composite Structures},
+volume = {373},
+pages = {119631},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119631},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007962},
+author = {Manish H. Nagaraj and Mathew Schey and Tibor Beke and Scott E. Stapleton and Marianna Maiaru},
+keywords = {Micromechanics, Process modelling, Uncertainty quantification, Microstructural variabilities},
+abstract = {Accurate quantification of material properties is crucial for optimizing composite structure design. However, the inherent heterogeneity in composite microstructures often leads to uncertainty in material properties, prompting conservative design approaches that result in suboptimal structures. This study introduces a method to quantify uncertainty in composite material properties based on microstructural morphology. Statistical metrics are defined to characterize the fiber architecture, evaluated using micro-scans of composite samples. Transverse tensile stiffness and strength are estimated via a statistical finite element analysis, where multiple Representative Volume Elements (RVE) are created from micro-imaging data to model microstructural variations. A convergence study establishes the minimum RVE size for reliable uncertainty quantification. Process modelling is introduced to simulate curing effects, including residual stress development, which affects transverse tensile strength. The correlation between fiber metrics and estimated material properties is examined, revealing a positive relationship for transverse tensile strength. The results indicate that fiber metrics analysis can serve as a computationally efficient technique for virtual material characterization and uncertainty quantification, potentially reducing composite design and analysis development time.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025111141,
+title = {Interfacial enhancement mechanism of carbon fiber composites molded by electrothermal in-situ co-curing with CNT film},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111141},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111141},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001095},
+author = {Kuo Yang and Hongwei Li and Xiaolong Li and Pengfei Gao and Xin Zhang and Qingming Wang and Mei Zhan},
+keywords = {Carbon nanotube film, Electrothermal in-situ co-curing, Carbon fiber, Interfacial bonding, Strength},
+abstract = {The molding technology of composites through electrothermal in-situ co-curing with carbon nanotube (CNT) film, by comparing with the conventional curing processes, is an efficient and low-cost out-of-autoclave process. The most prominent feature of this technology lies in the introduction of CNT film and the application of electric current. However, they inevitably affect the interfacial bonding and molding properties of composites. So, the mechanism and law behind interfacial bonding is crucial for developing the high-performance curing process. To make them clear, three kinds of layup schemes of CNT film/carbon fiber prepreg were designed in this study, and then the composite unidirectional plates were prepared by using the electrothermal in-situ co-curing technology with CNT film. Compared with the same layup structure by conventional thermally cured, the mechanical properties of the composites by electrothermally cured were significantly higher. For the reason of which, the interfacial enhancement mechanism is revealed as follows: (1) the electrical treatment modifies the surface structure of the carbon fiber, thereby increasing the interfacial bonding strength between the carbon fiber and resin; (2) the pre-curing effect induced by electrothermal heating within the CNT film enhances the interfacial bonding strength between the CNT film and resin; (3) the combined effects of electrical treatment and pre-curing increase the thickness of the interfacial layer, reducing the modulus gradient and stress concentration at the interface, thereby enhancing the strength of composites. The above results lay a theoretical foundation for the property modulation of composites molded by the electrothermal in-situ co-curing process.}
+}

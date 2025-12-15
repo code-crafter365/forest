@@ -1,0 +1,13 @@
+@article{YANG2025119224,
+title = {Investigation of the evolution and movement of volatile bubbles in the process of curing polyimide composites by in-situ observation},
+journal = {Composite Structures},
+volume = {366},
+pages = {119224},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119224},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003897},
+author = {Tao Yang and Jing Zhou and Yingguang Li and You Shi and Xicheng Heng and Xiaozhong Hao and James Gao},
+keywords = {Polyimide composites, Bubble evolution, Bubble movement, In-situ observation, Bubble removal},
+abstract = {Polyimide composites offer the unique characteristics of excellent thermal resistance required for aerospace structures. However, in the process of curing polyimide composites, large amounts of volatiles are generated, which cause many voids in the cured composites. Understanding the mechanism of bubble evolution and movement caused by volatiles during composite curing processing is important for removing voids. This research developed an experimental platform for in-situ observation and investigated the complicated bubble evolution process (nucleation, growth, coalescence, and rupture) in polyimide resin and composites under both atmosphere and vacuum conditions. It revealed that the evolution and movement of bubbles mainly happened in narrow channels between fibers, and bubbles moved outward violently along fiber direction under vacuum condition, even causing fiber buckling. Based on the experiments, a new idea of introducing additional flow channels into polyimide composites was proposed, which greatly facilitated the removal of volatile bubbles and reduced voids in cured composites.}
+}

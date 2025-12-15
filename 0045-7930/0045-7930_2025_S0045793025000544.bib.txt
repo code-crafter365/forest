@@ -1,0 +1,13 @@
+@article{ERRERA2025106594,
+title = {Advanced numerical methods for conjugate heat transfer problems},
+journal = {Computers & Fluids},
+volume = {292},
+pages = {106594},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106594},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000544},
+author = {Marc-Paul Errera},
+keywords = {Computational methods, Conduction, Convection, Radiation, Conjugate heat transfer, Fluid-structure interaction, Stability, Convergence},
+abstract = {Conjugate heat transfer (CHT) analysis is a simulation process that addresses the thermal interaction between a solid body and a fluid. It is a crucial aspect in a wide range of engineering applications, especially in the aerospace industry. This paper focuses on implementing adaptive coupling coefficients to optimize CHT by improving stability and simplicity. A mathematical model based on a normal mode stability analysis is employed. This study highlights the importance of a new dimensionless number, the "numerical Biot number", and explores adaptive coupling coefficients in three distinct aerothermal situations: steady coupling, steady coupling with radiation, and unsteady coupling. The main results of these three cases are compared, illustrated, and analyzed. The results demonstrate the potential of the theoretical approach, particularly in understanding the impact of different phenomena on the stability process and the challenges of convergence in certain conditions.}
+}

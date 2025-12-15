@@ -1,0 +1,13 @@
+@article{LEI2025119726,
+title = {Novel overlapped & staggered interface structure (OS-IS) enhancing the bonding strength between heterogeneous material in fused filament fabrication},
+journal = {Composite Structures},
+volume = {374},
+pages = {119726},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119726},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008918},
+author = {J.F. Lei and K.W. Chen and L. Chen and T. Liu and H. Sun and L. Wang},
+keywords = {FFF, Heterogeneous material, Interface structure, Bonding strength, Biomimetic design},
+abstract = {In multi-material fused filament fabrication (FFF), heterogeneous material interfaces often constitute structural weak points due to mismatched mechanical properties, thereby limiting the performance of the overall component. To overcome this limitation, a novel overlapped staggered interface structure (OS-IS) was proposed and developed in this study. A series of microstructure analysis, tensile tests, and shear tests were performed on the specimens with these designed heterogeneous interface structures. Results demonstrate that the distinctive geometric configuration of the OS-IS significantly enlarges the contact area between heterogeneous materials, leading to a notable enhancement in interfacial bonding performance. Specifically, compared to the regular interface structure (R-IS), the tensile strength and elongation at break are improved by 29.4 % and 94.8 %, respectively. Moreover, an optimized heat treatment process can effectively enhance interfacial properties. The bio-inspired joint incorporating the OS-IS exhibited a 98.1 % increase in the critical bending-fracture angle compared to the R-IS demonstrating its potential for application such as biomimetic hands. Therefore, this study proposes a novel structural design strategy to overcome interfacial compatibility challenges in multi-material additive manufacturing.}
+}

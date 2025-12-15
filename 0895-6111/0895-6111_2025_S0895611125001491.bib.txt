@@ -1,0 +1,13 @@
+@article{TAN2025102640,
+title = {Accurate and fast monocular endoscopic depth estimation of structure-content integrated diffusion},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102640},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102640},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001491},
+author = {Min Tan and Yushun Tao and Boyun Zheng and Gaosheng Xie and Zeyang Xia and Jing Xiong},
+keywords = {Endoscopic image processing, Endoscopic depth estimation, Diffusion},
+abstract = {Endoscopic depth estimation is crucial for video understanding, robotic navigation, and 3D reconstruction in minimally invasive surgeries. However, existing methods for monocular depth estimation often struggle with the challenging conditions of endoscopic imagery, such as complex illumination, narrow luminal spaces, and low-contrast surfaces, resulting in inaccurate depth predictions. To address these challenges, we propose the Structure-Content Integrated Diffusion Estimation (SCIDE) for accurate and fast endoscopic depth estimation. Specifically, we introduce the Structure Content Extractor (SC-Extractor), a module specifically designed to extract structure and content priors to guide the depth estimation process in endoscopic environments. Additionally, we propose the Fast Optimized Diffusion Sampler (FODS) to meet the real-time needs in endoscopic surgery scenarios. FODS is a general sampling mechanism that optimizes selection of time steps in diffusion models. Our method (SCIDE) shows remarkable performance with an RMSE value of 0.0875 and a reduction of 74.2% in inference time when using FODS. These results demonstrate that our SCIDE framework achieves state-of-the-art accuracy of endoscopic depth estimation, and making real-time application feasible in endoscopic surgeries. https://misrobotx.github.io/scide/}
+}

@@ -1,0 +1,13 @@
+@article{RICHTERBISSON2025114927,
+title = {Revisiting the Vroman effect: Mechanisms of competitive protein exchange on surfaces},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114927},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114927},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004345},
+author = {Zoltan Wolfgang Richter-Bisson and Yolanda Susanne Hedberg},
+keywords = {Adsorption, Competitive binding, Fluorescence microscopy, Fibrinogen, Bovine serum albumin (BSA)},
+abstract = {Exposing a solid surface to complex biological environments nearly instantly results in the formation of a layer of proteins on the surface. The composition of this adsorbed layer evolves over time—the Vroman effect describes the competitive, time-dependent adsorption and exchange of proteins on the surface. The Vroman effect is crucial to the fate of any biological material, but the mechanism underlying this process is poorly understood. Two competing models—the adsorption/desorption model and the transient complex exchange model—were proposed to explain the mechanism of exchange. In recent years, there have not been any thorough mechanistic investigations of protein exchange, leading to stagnation in our understanding of this process. Here we present novel fluorescence imaging data showing fibrinogen deposition on top of bovine serum albumin (BSA), which is a necessary step in the transient complex exchange model. Still, high-quality systematic experimental validation of either mechanism remains scarce. This work highlights the limitations of current mechanistic frameworks, discusses the importance of resolving key unanswered questions, and identifies experimental challenges that must be addressed to advance the field. With the growing reliance on biomedical implants and developing applications of nanomedicine and nanoparticle drug delivery systems, the lack of a comprehensive understanding of competitive protein exchange represents a significant barrier to progress that must be overcome for the success of these fields.}
+}

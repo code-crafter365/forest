@@ -1,0 +1,13 @@
+@article{LORENZ2025109067,
+title = {Surface waviness of continuous fiber-reinforced polymer composites − a review on their formation, characterization and modeling},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109067},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109067},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003616},
+author = {Niklas Lorenz and Kai Fischer and Christian Hopmann},
+keywords = {Polymer-matrix composites (PMCs), Surface properties, Surface analysis, Class A},
+abstract = {For continuous fiber-reinforced polymer (FRP) composites, it remains challenging to minimize the occurrence of material inherent manufacturing characteristics such as the surface waviness or the fiber-print-through (FPT) effect to reduce cost-intensive finishing processes and related environmental emissions. Understanding the complex interaction of the material characteristics, processing process, and resulting surface properties is paramount in enabling an efficient process and part development of cosmetic FRP components. The present contribution reviews the research on governing phenomena for surface properties formation and associated characteristics, including characterization, modeling, in-mold-, and subsequent finishing processes. Material intrinsic and extrinsic parameters impacting process-induced surface properties are appraised and discussed for thermoplastic and thermoset continuous FRP. A broad range of surface measuring methods, including applicable filtering techniques, are surveyed and bridged to established industrial quality standards. Particular focus is paid to geometrical and numerical models comprising the underlying material models. The conclusions highlight remaining experimental and numerical challenges, and future trends for the cosmetic application of FRP surfaces are indicated.}
+}

@@ -1,0 +1,13 @@
+@article{JEONG2025114772,
+title = {Advanced stem cell therapy using both cell spheroids transplant and paracrine factor release hydrogel patches for myocardial infarction},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114772},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114772},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002796},
+author = {Taekgwang Jeong and Min Suk Lee and Jin Jeon and Jin Hee Park and Youngdoo Chung and Hee Seok Yang},
+keywords = {Tissue engineering, Myocardial infarction, Cell spheroid therapy, Micro-concave hydrogel, 3D printing technology},
+abstract = {Conventional micro-concave systems have been proposed as effective methods for facile cell spheroid formation, culture. However, these systems face challenges in terms of ease of cell transplantation and a low cell survival rate in ischemic disease. We present a novel open/close type hydrogel micro-concave patch (OC) designed for in situ 3D cell spheroid formation, culture, and a transplantable system utilizing a 3D printed mold. Open-type patches were fabricated with a rigid hydrogel, while closed-type patches were prepared with a combination of swellable soft hydrogel and rigid hydrogel. The open-type concave was intended for cell spheroid formation and subsequent transplantation into the ischemic region. Conversely, the close-type concave allowed released cytokines from cell spheroids, which were located inside the concave, to promote survival of transplanted cell spheroid. We hypothesized that transplant of open-type cell spheroids, combined with the release of paracrine factors from close-type cell spheroids, could enhance therapeutic outcomes in ischemic regions. The OC was prepared using different concentration ratios of swellable polyacrylamide (PAAM) hydrogel through 3D printed micropillar mold. Additionally, PAAM was characterized to enhance the compactness of close-type 3D cell spheroids. Transplantation of OC improved the therapeutic effect in a rat cardiac infarction model compared to open-type patches.}
+}

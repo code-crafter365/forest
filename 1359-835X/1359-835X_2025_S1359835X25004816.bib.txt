@@ -1,0 +1,13 @@
+@article{YU2025109187,
+title = {Form-stable phase change materials with enhanced thermal conductivity via segregated BN network within SEBS-supported paraffin wax for electronics thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109187},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109187},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004816},
+author = {Jiali Yu and Jiachun Feng},
+keywords = {Phase change material, Shape stability, Thermal conductivity, Segregated structure},
+abstract = {Organic solid–liquid phase change materials (PCMs) offer exceptional heat absorption/release capacity but suffer from leakage risks and low thermal conductivity, hindering their practical implementation in electronics thermal management. In this study, we propose a facile strategy to fabricate form-stable PCMs with high thermal conductivity by constructing segregated boron nitride (BN) thermal conduction networks within a poly(styrene-b-ethylene-butylene-b-styrene) (SEBS)-supported paraffin wax (PW) matrix (SEBS/PW). Inspired by wet spinning technology, we developed solvent-exchange-driven SP (SEBS/PW) microparticles via solution-spray coagulation. Through dynamic co-suspension of SP microparticles with BN platelets followed by gel-state hot-pressing, we achieved a continuous BN segregation network. The resulting composite with a SEBS/PW mass ratio of 20/80 and 30 wt% (16.3 vol%) BN loading exhibits excellent shape stability, high enthalpy (129.8 J/g), and enhanced in-plane thermal conductivity (1.51 W/(m·K) − representing 293 % and 50 % improvements over unfilled and randomly dispersed BN systems, respectively). When applied to chip thermal management, the composite reduced operating temperature from 95 to 80 °C, outperforming conventional silicone-based thermal interface material. With its combination of low-cost materials, scalable fabrication process, and superior performance in shape stability, heat absorption and dissipation, this composite system shows exceptional promise for next-generation electronics thermal management.}
+}

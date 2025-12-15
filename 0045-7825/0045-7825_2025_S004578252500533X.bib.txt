@@ -1,0 +1,13 @@
+@article{WANG2025118261,
+title = {Adaptive multi-patch isogeometric analysis with gradient damage model for thermo-mechanical quasi-brittle fracture},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118261},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118261},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500533X},
+author = {Lin Wang and Sundararajan Natarajan and Tiantang Yu and Tinh Quoc Bui},
+keywords = {Thermo-mechanical coupling, Quasi-brittle fracture, Gradient damage model, Multi-patch isogeometric analysis, Adaptive strategy},
+abstract = {In this study, an isogeometric gradient damage framework is proposed to model thermo-mechanical fracture in isotropic medium. The spurious damage evolution is mitigated by incorporating a transient gradient parameter. A modified version of the Mazars strain is introduced, enabling the model to better accommodate a wide range of quasi-brittle materials exhibiting distinct tension-compression asymmetry, thereby broadening the applicability of the proposed framework. A novel dual adaptive strategy is proposed, which synergistically combines local mesh refinement with stepwise loading adjustment to optimize computational efficiency. To facilitate local mesh refinement, truncated hierarchical non-uniform rational B-spline (TH-NURBS) is employed, providing a flexible and accurate representation of the geometry. Complex geometries are modeled using multiple TH-NURBS patches that are coupled through Nitsche’s method. Numerical simulations demonstrate that the proposed model effectively captures thermo-mechanical fracture behaviour in quasi-brittle materials with complex geometries and the dual adaptive strategy ensures optimal computational efficiency without compromising accuracy.}
+}

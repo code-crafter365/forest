@@ -1,0 +1,13 @@
+@article{WADA2025103823,
+title = {Plate Manufacturing Constraint in Topology Optimization Using Anisotropic Filter},
+journal = {Computer-Aided Design},
+volume = {180},
+pages = {103823},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103823},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001507},
+author = {Yuji Wada and Tokimasa Shimada and Koji Nishiguchi and Shigenobu Okazawa and Makoto Tsubokura},
+keywords = {Topology optimization, Finite element method, Building-cube method, Manufacturing constraint, Anisotropic filter},
+abstract = {The manufacturing constraint of topology optimization for finding structures composed primarily of plate cross sections with an automatically decided surface normal is discussed. The anisotropic partial differential equation filter for the sensitivity of the objective function is designed such that the eigenvalue-resolved stress tensor is converted to the anisotropic filter tensor. The user can obtain an optimal shape proposal with different degrees of plate formation by changing the influence radius of the ellipsoidal filter. Plate structure formation and stiffness compliance performance are discussed through three sample problems: a solid bar subjected to torsional loads, an L-shaped member subjected to multiple loads, and a vehicle body frame intended to be a complex frame. The finite element analysis with 3–300 million degrees of freedom is required to form a shell plate structure from a large ingot with a volume fraction constraint of 1%–5%. A voxel topology optimization software that utilizes the building cube method framework available in massively parallel environments is developed, and the parallel performance of the optimization routine, including the plate filtering, is measured.}
+}

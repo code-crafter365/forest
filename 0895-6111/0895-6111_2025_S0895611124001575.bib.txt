@@ -1,0 +1,13 @@
+@article{HAO2025102480,
+title = {General retinal layer segmentation in OCT images via reinforcement constraint},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102480},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102480},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001575},
+author = {Jinbao Hao and Huiqi Li and Shuai Lu and Zeheng Li and Weihang Zhang},
+keywords = {Retinal layer segmentation, Optical coherent tomography (OCT), Feature prior, Reinforcement constraint, Position channel attention},
+abstract = {The change of layer thickness of retina is closely associated with the development of ocular diseases such as glaucoma and optic disc drusen. Optical coherence tomography (OCT) is a widely used technology to visualize the lamellar structures of retina. Accurate segmentation of retinal lamellar structures is crucial for diagnosis, treatment, and related research of ocular diseases. However, existing studies have focused on improving the segmentation accuracy, they cannot achieve consistent segmentation performance on different types of datasets, such as retinal OCT images with optic disc and interference of diseases. To this end, a general retinal layer segmentation method is presented in this paper. To obtain more continuous and smoother boundaries, feature enhanced decoding module with reinforcement constraint is proposed, fusing boundary prior and distribution prior, and correcting bias in learning process simultaneously. To enhance the model’s perception of the slender retinal structure, position channel attention is introduced, obtaining global dependencies of both space and channel. To handle the imbalanced distribution of retinal OCT images, focal loss is introduced, guiding the model to pay more attention to retinal layers with a smaller proportion. The designed method achieves the state-of-the-art (SOTA) overall performance on five datasets (i.e., MGU, DUKE, NR206, OCTA500 and private dataset).}
+}

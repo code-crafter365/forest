@@ -1,0 +1,13 @@
+@article{KASHI2025106714,
+title = {On the effectiveness of fine-grain parallel linear iterations for computational aerodynamics on structured grids for graphics processing units},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106714},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106714},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001744},
+author = {Aditya Kashi and Siva Nadarajah},
+keywords = {Parallel preconditioner, Sparse approximate inverse, Asynchronous iterations, Graphics processing unit, Compressible flow, External aerodynamics},
+abstract = {Modern high-performance computing (HPC) systems are increasingly built with graphics processing units (GPUs) as the primary computing device and are increasingly targeted at highly parallel applications. It is thus of great importance to make efficient use of GPUs for time-implicit solvers for computational fluid dynamics. While highly parallel linear relaxations, such as Jacobi, have existed for a long time, they often suffer from poor convergence rates. We demonstrate that a new crop of fine-grain parallel point-block linear iterations drawn from asynchronous iterations and sparse approximate inverses can achieve robust and scalable speedups over the current state of practice – multicolour Gauss–Seidel iterations – on three generations of GPUs in the context of nonlinear multigrid solvers on multi-block structured grids for compressible Reynolds-averaged Navier–Stokes (RANS) simulations.}
+}

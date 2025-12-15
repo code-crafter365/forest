@@ -1,0 +1,13 @@
+@article{SONG2025105893,
+title = {An improved general method for measuring pore size distribution with digital images of porous media},
+journal = {Computers & Geosciences},
+volume = {197},
+pages = {105893},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105893},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000433},
+author = {Shuaibing Song and Tong Zhang and Qingyi Tu},
+keywords = {Pore structure characteristics, Pore size distribution, Digital image processing, Porous media, Pore packing algorithm},
+abstract = {As one of the most fundamental and vital parameters for characterizing the pore structure characteristics of porous media materials, the accurate and efficient quantitative measurement of pore size distribution (PSD) has a wide and strong demand in various research fields. In this paper, by analogy with the pore size measurement principle of mercury intrusion porosimetry (MIP), an improved general method for measuring the PSD of porous media from their digital images is developed by using a cluster of predefined digital circular or spherical pores with different radius dimensions to pack the pore space step by step in an overlapping manner. To verify the validity and accuracy of the proposed method, a set of artificially generated pore structures with known PSD is used as the benchmark test dataset, and the results show that the PSD measured by the proposed method is consistent with the theoretical benchmark value. In addition, the pore structures of real porous media materials with large dimensions are selected as the test dataset as well, and the computational efficiency of the proposed method is comprehensively evaluated by comparing that of the existing advanced PSD measurement methods, the results of which show that the proposed method takes the least amount of time to complete the PSD measurement. In terms of accuracy and efficiency, the proposed method has good performance, indicating that it can be promoted as a general method for the PSD measurement of various porous media materials.}
+}

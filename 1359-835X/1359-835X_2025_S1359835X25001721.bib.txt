@@ -1,0 +1,13 @@
+@article{YAO2025108878,
+title = {Machining quality improvement through ice densification pretreatment during rotary ultrasonic face grinding SiO2f/SiO2 composite},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108878},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108878},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001721},
+author = {Longxu Yao and Zhanqiang Liu and Qinghua Song and Bing Wang and Yukui Cai and Qiang Luan and Hongxin Wang},
+keywords = {SiO/SiO composite, Ice densification pretreatment, Rotary ultrasonic face grinding, Machining quality improvement},
+abstract = {From the perspective of weakening the inherent preparation defects of the SiO2f/SiO2 composite, a novel hybrid machining process combining ice densification pretreatment with rotary ultrasonic face grinding (IDP-RUFG) was firstly proposed in this study to reduce the contradiction between grinding surface quality and grinding efficiency. The improvement mechanism of IDP-RUFG process on the machinability of SiO2f/SiO2 composite was analyzed from material strengthening and grinding mechanics. The grinding experiments were carried out to confirm the surface integrity improvement in the IDP-RUFG process. By comparing with the conventional RUFG surface, the maximum peak height Sp on the IDP-RUFG surface was reduced by 16.6 %∼31.4 % with the 9.1 %∼27.9 % reduction in the debonding fiber damage ratio β. The subsurface damage patterns both in IDP-RUFG process and RUFG process were characterized by fiber–matrix interface debonding, subsurface cracks, and matrix fracture. However, the subsurface damage depth during the IDP-RUFG process could be reduced by more than 40 %.}
+}

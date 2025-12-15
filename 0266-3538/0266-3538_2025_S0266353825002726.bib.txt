@@ -1,0 +1,13 @@
+@article{QIU2025111304,
+title = {Optimization of tensile mechanical properties and fracture toughening mechanism of 3D printed biomimetic nacre-like structures},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111304},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111304},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002726},
+author = {Tian Qiu and Chengyu Guan and LiHong Liang},
+keywords = {Nacre-like structures, Overlap ratio, Aspect ratio, Fracture toughness mechanisms},
+abstract = {The biomimetic design of nacre-like structures with high-strength and high-toughness characteristics has garnered significant attention in scientific research. The mechanical properties of three dimensional (3D) printed biomimetic nacre-like structures were designed by optimizing the overlap ratio and aspect ratio based on tensile experiments, digital image correlation (DIC) technology, and theoretical analysis. The results reveal that the unstable fracture strength, fracture strain, and fracture energy of nacre-like structures all increase with increasing overlap ratio, reaching a peak at an overlap ratio of 0.5. The fracture strain and fracture energy of the nacre-like structures reach the maximum at the optimal aspect ratio. The fracture toughening mechanism of nacre-like structures was explored by combining DIC technology and fractured morphology analysis. Under the conditions of the optimal overlap ratio (0.5) and aspect ratio (ρ∗), the nacre-like structures exhibit a longer main crack deflection path and a larger area of microcrack zones. Under these conditions, better toughening can be achieved. To determine the optimal aspect ratio under different overlap ratios, an optimization design equation is provided. Furthermore, the experimental results are consistent with the prediction results of the strain gradient theory based on the shear-lag (SGSL) model. Therefore, biomimetic nacre-like structures can achieve strong and tough design requirements under the optimal overlap ratio and aspect ratio.}
+}

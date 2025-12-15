@@ -1,0 +1,13 @@
+@article{STEJSKALOVA2025114975,
+title = {Impact of large-scale magnetic particle synthesis on nucleic acid extraction consistency and efficiency},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114975},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114975},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004825},
+author = {Petra Stejskalová and Martin Ženka and Zbyněk Šplíchal and Pavel Švec and Jiří Kudr and Eva Jansová and Miloš Dendis and Ondřej Zítka},
+keywords = {Nanoparticles, Silica, Hydrated, Lyophilized, CMV, HCV},
+abstract = {Nucleic acids (NAs) extraction is a critical step in molecular biology. Traditional methods, such as phenol-chloroform extraction and spin-column purification, present automation and scalability limitations. In this study, we present the synthesis, scale-up, characterization, and application of MPs for the automated NAs extraction from HCV and CMV. These pathogens are routinely included in high-throughput screening assays, underscoring the necessity for automated NAs isolation processes. We scaled the synthesis from 1 L to 5 L batch volumes, yielding MPs with consistent physicochemical properties and an average particle diameter of 44.72–46.57 nm. Larger-scale MPs maintained extraction efficiency with minimal Ct variation (≤1.0) across replicates. Compared to commercial alternatives, our hydrated MPs demonstrated over 5 % improvement in DNA extraction efficiency., though RNA recovery exhibited higher variability. Additionally, we investigated the stability and storage conditions of MPs in hydrated and lyophilized forms. Hydrated MPs consistently outperformed lyophilized counterparts, showing up to a 3.5 Ct lower value in DNA extraction, corresponding to a higher than 1-log increase in extraction efficiency. This study demonstrates the successful scale-up of TEOS modified MPs while maintaining batch-to-batch consistency and long-term stability over two years. The developed MPs offer a robust, cost-effective, and efficient platform for automated NAs extraction, with potential for integration into molecular diagnostics, high-throughput workflows, and point-of-care diagnostic tools, particularly in decentralized or resource-limited settings.}
+}

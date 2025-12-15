@@ -1,0 +1,13 @@
+@article{HUANG2025119612,
+title = {Advance in improving flexural performance of FRP-concrete-stainless steel double-skin tube (FCSDST) with distinct CFRP ply stacking arrangement},
+journal = {Composite Structures},
+volume = {372},
+pages = {119612},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119612},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007779},
+author = {Zhenyu Huang and Yiwei Wang and Peng Wang and Yingwu Zhou},
+keywords = {Carbon fiber reinforced polymer (CFRP), Ultra-lightweight cement composite (ULCC), FRP-concrete-stainless steel double-skin tube (FCSDST), Flexural strength capacity, FRP stacking sequences},
+abstract = {FRP-concrete-stainless steel double-skin tube (FCSDST) has been increasingly utilized in marine structures due to its excellent corrosion resistance and superior structural performance. To qualitatively and quantitatively uncover the effects of FRP lay-up configurations on flexural strength and displacement ductility of FCSDST, this study comprehensively investigates the flexural behavior of FCSDST featuring distinct carbon fiber reinforced polymer (CFRP) ply stacking sequences. Experimental outcomes indicate that FCSDSTs with a complex stacking sequence ([90/±15/90/±453]n) achieve higher flexural strength and stiffness by 56 % and 45 %, respectively, than those with a ±45° configuration ([±45]n). This enhancement results from the superior tensile capacity of smaller-angle fiber plies. In contrast, the ±45° lay-up shows 15 % higher displacement ductility due to stress redistribution mechanism in the tensile zone arising from matrix plastic flow and fiber reorientation. Numerical simulation results demonstrate that damage initiates at the loading point with local FRP buckling, followed by cracking of ULCC and yielding of steel tube, while the flexural failure eventually occurs due to the tensile rupture of FRP tube. A sectional integration-based model is also proposed to predict the flexural strength capacity, considering the strength of ultra-lightweight cementitious composite (ULCC) under triaxial compression and the confinement effects of CFRP with various thicknesses.}
+}

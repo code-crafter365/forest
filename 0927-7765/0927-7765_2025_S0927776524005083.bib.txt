@@ -1,0 +1,13 @@
+@article{KAN2025114249,
+title = {Covalent bonding coating of quantum-sized TiO2 with polydopamine on catheter surface for synergistically enhanced antimicrobial and anticoagulant performances},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114249},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114249},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005083},
+author = {Ziwei Kan and Ye Chen and Qianyun Zhang and Luyi Pan and Aiying Chen and Ding Wang and Yi Wang and Guangming Wan and Bin He},
+keywords = {Catheter, Complex coating, TiO, Anti-thrombosis, Terminal hydroxyl},
+abstract = {The catheters coating can be effective in reducing bloodstream infection and thrombosis, which are the major complications in blood contact catheters. However, the surface functional coating is difficult to be implemented due to the high surface stretching force from the minor-caliber. In this work, we propose a covalent bonding coating of polydopamine/titanium dioxide quantum dots (PDA/TiO2 QDs) on polyurethane (PU) catheters, which can fulfill a dual-function of antibacterial and antithrombosis. The PDA/TiO2 QDs layer was prepared by dip-coating, where the intermediate transition layer of PDA was reacted with the internal hydroxyls of PU surface by pre-oxidation and bonds with the external TiO2 QDs coating. The surface microstructures are analyzed by SEM, TEM and XPS methods, and the antimicrobial and anticoagulant performances are investigated by bacterial plate count and platelet adhesion tests. The oxidizing and hydrophilic effect of the top layer of TiO2 QDs were enhanced by the QD-sized particles. The antibacterial activities of the PDA/TiO2 QDs coating on PU catheters against Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus), especially to S. aureus, are evidenced by bacterial plate count test, reaching good bactericidal rates of 49.9 % against E. coli and 83.7 % against S. aureus, respectively. Platelet adhesion test and whole blood dynamic circulation modeling demonstrate that the PDA/TiO2 QDs coating effectively inhibits platelet adhesion due to an excellent hydrophilicity of TiO2 QDs surface, and thereafter reduce thrombus formation.}
+}

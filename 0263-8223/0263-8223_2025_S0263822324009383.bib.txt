@@ -1,0 +1,13 @@
+@article{WANG2025118810,
+title = {Effects of ZnO morphology on tribological behaviors of polyarylene ether nitrile composites},
+journal = {Composite Structures},
+volume = {354},
+pages = {118810},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118810},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009383},
+author = {Ting Wang and Liang He and Jinghui Zhang and Xiaobo Liu and Lifen Tong},
+keywords = {Polyarylene ether nitriles, Tribological property, ZnO, Wear resistant},
+abstract = {As a special engineering plastic, polyarylether ether nitriles (PEN) has the characteristics of high temperature resistance and high strength, but its wear resistance is not good. Here, a polyarylene ether nitrile (PEN)-based wear-resistant material with various reinforcing phases was successfully prepared. Zinc oxide (ZnO) fillers with different morphologies (particle\rod\disk) were firstly prepared by a hydrothermal method, and then the self-lubricating PEN composites were constructed by a solution casting method combined with solid-phase post-chemical reaction. The results show that the wear rete of PEN/ZnO(D) composites can reach as low as 3.0 × 10−5 mm3/N·m, which is about 30 times lower than that of pure PEN (94.6 × 10−5 mm3/N·m), which implies that the dual reinforcing phases (fillers and crystals) can enhance the hardness of the composites effectively, and thus improve the wear resistance effectively. It is also worth noting that ZnO not only acts as the native reinforcing phase, but also effectively induces polymer crystallization, which has a dual reinforcing effect. Besides, the composite have good thermal stability (Tg:191 ℃) and mechanical properties (Ts: 187 MPa), which can be used as alternative materials for structural materials of electronic products. Finally, the effect of rotational speed loading on the friction properties of composites was also investigated in detail, and the relevant mechanisms were derived.}
+}

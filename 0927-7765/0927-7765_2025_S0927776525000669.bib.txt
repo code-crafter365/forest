@@ -1,0 +1,13 @@
+@article{WANG2025114559,
+title = {Human amniotic mesenchymal stem cells improve patency and regeneration of electrospun biodegradable vascular grafts via anti-thrombogenicity and M2 macrophage polarization},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114559},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114559},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000669},
+author = {Nuoxin Wang and Haoyuan Wang and Dong Weng and Bin Wang and Juan Wang and Jing He and Xiumei Mo and Feng Wang and Zhixu He},
+keywords = {Small-diameter vascular graft, Human amniotic mesenchymal stem cell, Electrospinning, Polylactic acid-co-polycaprolactone, Tissue regeneration},
+abstract = {Small-diameter vascular grafts (SDVGs) are prone to thrombosis and have low long-term patency rates for various reasons, which cannot meet the clinical requirements. In this work, Human amniotic mesenchymal stem cell (hAMSC) seeding electrospun polylactic acid-co-polycaprolactone (PLCL) SDVGs are fabricated and their application potential is systematically evaluated. The SDVG has excellent mechanical properties. PLCL eletrospinning membrane has no cytotoxicity. The SDVG has a porous fibrous tube wall, uniform distribution of hAMSCs, and good cell compatibility, blood compatibility, histocompatibility and mechanical properties. hAMSCs loading can improve the acute antithrombotic ability, patency and in vivo regeneration effect of PLCL electrospun SDVGs. The mechanism is related to hAMSCs increasing the content of endothelial cells, contractile smooth muscle cells, and M2 macrophages, as well as activating extracellular matrix production.}
+}

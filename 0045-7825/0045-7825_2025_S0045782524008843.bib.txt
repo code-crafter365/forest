@@ -1,0 +1,13 @@
+@article{VANHUYSSTEEN2025117630,
+title = {Quasi-optimal mesh generation for the virtual element method: A fully adaptive remeshing procedure},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117630},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117630},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008843},
+author = {Daniel {van Huyssteen} and Felipe Lopez Rivarola and Guillermo Etse and Paul Steinmann},
+keywords = {Virtual element method, Quasi-optimal mesh, Adaptivity, Refinement, Coarsening, Hierarchy-free},
+abstract = {The mesh flexibility offered by the virtual element method has made it increasingly popular in the context of adaptive remeshing. There exists a healthy literature concerning error estimation and adaptive refinement techniques for virtual elements while the topic of adaptive coarsening (i.e. de-refinement) is in its infancy. The notion of a quasi-optimal mesh is based on the principle of quasi-even error distribution over the elements which inherently relies on localized refinement and coarsening techniques. Thus, necessitating a fully adaptive remeshing procedure. In this work a novel fully adaptive non-hierarchical remeshing procedure for the virtual element method is presented for two-dimensional elastic problems. Additionally, novel procedures are proposed for the identification of elements qualifying for refinement or coarsening based on user-defined targets. Specifically, a target percentage error, target number of elements, or target number of nodes can be selected. Numerical results demonstrate that the adaptive remeshing procedure can meet any prescribed target while creating a quasi-optimal mesh. The proposed fully adaptive procedure is of particular interest in engineering applications requiring an efficient simulation of a given accuracy, or desiring a simulation with the maximum possible accuracy for a given computational constraint. Numerical results additionally demonstrate the suitability of the fully adaptive procedure for dynamic problems.}
+}

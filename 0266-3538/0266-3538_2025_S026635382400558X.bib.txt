@@ -1,0 +1,13 @@
+@article{MA2025110988,
+title = {Lightweight and mechanically strong MXene-Based microcellular nanocomposite foams for integrated electromagnetic interference shielding and thermal management},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110988},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110988},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400558X},
+author = {Zhonglei Ma and Ruochu Jiang and Yu Zhang and Li Ma and Yang Bai and Kefan Zhang and Xinpei Zuo and Yue Zuo and Haoyu Jing and Jianbin Qin and Guangcheng Zhang},
+keywords = {Microcellular nanocomposite foams, Aramid nanofibers (ANFs), Mechanically strong, EMI shielding, Thermal management},
+abstract = {Lightweight and mechanically strong multifunctional nanocomposites with integrated electromagnetic interference (EMI) shielding and thermal management capacities are urgently required for protection of emerging aerospace, portable smart electronics and telecommunication devices. Herein, the lightweight, mechanically strong and flame-retardant microcellular aramid nanofiber/Ti3C2Tx MXene (ANF/Ti3C2Tx) nanocomposite foams are developed for integrated EMI shielding and thermal management by the feasible hydrogen bonding assembly, vacuum-assisted filtration and thermal treatment strategy using the solid sacrificial templates. Thanks to the synchronous construction of three-dimensional (3D) continuous conductive networks and microcellular structures, the microcellular nanocomposite foams possess low mass density of 0.29 g/cm3, superior EMI shielding effectiveness (EMI SE) of 64.9 dB, and high EMI SE/t of 10970.3 dB cm2/g, as well as outstanding mechanical properties with an improved tensile strength of 16.5 MPa and excellent flame retardancy. Moreover, the microcellular nanocomposite foams show excellent thermal management performances with intelligently tailorable Joule heating temperatures at low voltages and significant working reliability. Therefore, the lightweight, mechanically strong and flame-retardant MXene-based microcellular nanocomposite foams are promising for emerging EMI shielding and thermal management applications in aerospace, portable smart electronics and telecommunication devices.}
+}

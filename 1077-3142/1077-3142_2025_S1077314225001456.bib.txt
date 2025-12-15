@@ -1,0 +1,13 @@
+@article{GAO2025104422,
+title = {STDepth: Leveraging semantic-textural information in transformers for self-supervised monocular depth estimation},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104422},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104422},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001456},
+author = {Xuanang Gao and Bingchao Wang and Zhiwei Ning and Jie Yang and Wei Liu},
+keywords = {Depth estimation, Self-supervised learning, Advanced architecture},
+abstract = {Self-supervised monocular depth estimation, relying solely on monocular or stereo video for supervision, plays an important role in computer vision. The encoder backbone generates features at various stages, and each stage exhibits distinct properties. However, conventional methods fail to take full advantage of these distinctions and apply the same processing to features from different stages, lacking the adaptability required for aggregating the unique information in features. In this research, we replace convolutional neural networks (CNNs) with a Transformer as the encoder backbone, intending to enhance the model’s ability to encode long-range spatial dependencies. Furthermore, we introduce a semantic-textural decoder (STDec) to emphasize local critical regions and more effectively process intricate details. The STDec incorporates two principal modules: (1) the global feature recalibration (GFR) module, which performs a comprehensive analysis of the scene structure using high-level features, and recalibrates features in the spatial dimension through semantic information, and (2) the detail focus (DF) module is employed in low-level features to capture texture details precisely. Additionally, we propose an innovative multi-arbitrary-scale reconstruction loss (MAS Loss) function to fully exploit the depth estimation network’s capabilities. The extensive experimental results demonstrate that our method achieves state-of-the-art performance on the KITTI dataset. Moreover, our models demonstrate remarkable generalization ability when applied to the Make3D and NYUv2 datasets. The code is publicly available at: https://github.com/xagao/STDepth.}
+}

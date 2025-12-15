@@ -1,0 +1,13 @@
+@article{ZHAO2025109218,
+title = {Seamless thin-walled four-way carbon fiber composite tubes and their axial compression performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109218},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109218},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005123},
+author = {Zifan Zhao and Qin Zhang and Shengkai Liu and Baozhong Sun and Bohong Gu and Meiqi Hu},
+keywords = {3-Dimensional reinforcement, Axial compression behavior, Four-way composite tubes, Strain analysis},
+abstract = {Thin-walled multiway carbon fiber composite tubes have been widely used in spacecraft connectors and satellite trusses. However, stitching and splicing techniques are commonly employed to fabricate such special-shaped structures with stress concentration at joining regions, leading to inferior long-term performance. In this study, a yarn reorganization strategy is proposed to develop a 3D braiding technique for braiding seamless four-way tubes. The prepared four-way composite tubes exhibited typical advantageous properties including structural integrity and improved mechanical properties. The axial compression evaluation revealed that the structure’s maximum load-bearing capacity and its initial stiffness decreased as branch length increased. An increase in branch length also heightened the susceptibility to buckling under axial compression, thereby reducing the overall load-bearing capacity of the structure. Axial compression ultimately caused the axial branch width to expand by 105%, while the lateral branch width was compressed to 88%. The yarn reorganization strategy proposed in this study has significant advantages in the fabrication of high-performance 3D braided composites for aerospace and automotive.}
+}

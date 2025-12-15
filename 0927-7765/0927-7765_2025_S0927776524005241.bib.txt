@@ -1,0 +1,13 @@
+@article{HERRERAOCHOA2025114265,
+title = {Monitoring cancer treatments in melanoma cells using a fluorescence lifetime nanoprobe based on a CdSe/ZnS quantum dot functionalized with a peptide containing D-penicillamine and histidine},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114265},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114265},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005241},
+author = {Diego Herrera-Ochoa and Iván Bravo and Andrés Garzón-Ruiz},
+keywords = {Fluorescence lifetime nanoprobe, Intracellular pH, Volasertib, Cisplatin, Cancer treatment monitoring},
+abstract = {Anticancer therapies with cisplatin and volasertib (BI-6727) were monitored by fluorescence lifetime imaging microscopy (FLIM) in live SK-Mel-2 melanoma cells. A CdSe/ZnS quantum dot functionalized with a peptide containing D-penicillamine and histidine (CdSe/ZnS-PH) was used as intracellular pH fluorescent probe. A faster cytosol acidification was observed for cells treated with cisplatin when compared to volasertib. The first changes in the intracellular pH were found after 2 hours of treatment with cisplatin and 8 hours with volasertib. Additionally, the relationship between cytosol acidification and apoptosis was investigated using an innovative methodology based on time-resolved fluorescence measurements. Similar low percentages of apoptotic cells were observed after short incubation periods (2 – 8 hours) with both drugs. In contrast, late apoptosis and death were found for a large fraction of cells during 24-hour incubation with cisplatin but not volasertib. Thus, the early acidification observed in cisplatin treatment could accelerate apoptosis and cell death. Despite volasertib treatment shows slower mechanism of action than cisplatin, similar inhibitory effects were found for both drugs at longer incubation periods (72 hours). This study proves the potential of CdSe/ZnS-PH nanoparticle as a fluorescence lifetime probe in the study of the mechanism of action of antitumor drugs.}
+}

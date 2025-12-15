@@ -1,0 +1,13 @@
+@article{KUKUSHKINA2025115022,
+title = {Dye-loaded hybrid core-shell gold nanoparticles for sensitized singlet oxygen production in radiotherapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115022},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115022},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005296},
+author = {Ekaterina A. Kukushkina and Valeria Secchi and Alessandro Colombo and Miriam Colombo and Irene Villa and Angelo Monguzzi},
+keywords = {Biohybrids, Core-shell polymer-metal nanoparticle, Gold nanoparticles, Radiotherapy, Photodynamic therapy},
+abstract = {Photodynamic therapy (PDT) is an efficient, clinically approved, light-activated cancer treatment. However, it is mostly effective for superficial treatments of the skin and mucous membranes due to the limited penetration length of the excitation beam. X-ray-activated PDT (X-PDT) stands out as an emerging alternative. It exploits a radiosensitization effect to enhance the production of reactive oxygen species (ROS), including singlet oxygen (SO), in deep tissues. This radiosensitization is activated by high-Z and dense NPs coupled to PDT agents, which are injected to trigger localized energy release when activated by PDT. To address the common stability and solubility issues associated with NPs and PDT agents, we have developed a hybrid core-shell nanosystem of size 30–35 nm comprising a dense gold nanoparticle (AuNP) coated with a dye-impregnated, biocompatible polymer shell of ca. 6 nm. This design provides colloidal stability and PDT functionality. We investigated the structural, physicochemical, and luminescence properties of these core-shell nanoparticles to demonstrate the effectiveness of PDT dye impregnation. Under X-rays, we observed sensitized SO production in water at ultralow concentrations of radiosensitizers, indicating the effectiveness of our strategy for developing X-PDT agents.}
+}

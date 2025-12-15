@@ -1,0 +1,13 @@
+@article{CHEN2025119149,
+title = {A regional integral iFEM for deformation sensing of the large-scale composite panel under complex service conditions},
+journal = {Composite Structures},
+volume = {365},
+pages = {119149},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119149},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003149},
+author = {Jian Chen and Wenpeng Duan and Shenfang Yuan and Ao Zhang},
+keywords = {Deformation sensing, Inverse finite element, Large-scale composite panel, Regional integral error function, Complex service conditions},
+abstract = {Accurate and robust deformation sensing is of great significance for large-scale composite panels that are widely used in aerospace. The inverse finite element method (iFEM) has been deemed as one of the promising techniques due to its full-field reconstruction capability. However, engineering large-scale composite panels usually suffer from complex service conditions such as non-uniform distributed loads and internal displacement constraints. Under such conditions, strain in inverse elements may distribute irregularly so that measured strain at the element’s center can no longer reflect the strain distribution over the entire element, leading to a reduction of deformation sensing accuracy. This paper proposes a regional integral iFEM to improve the deformation sensing accuracy under complex service conditions. The method incorporates a service dimension constrains-based element partition strategy to generate inverse elements so that strain in the local element region is as uniform as possible. Besides, a regional integral error function (RIEF) is developed for deformation reconstruction, using strain over the element for deformation sensing instead of the strain at the element’s center. This method is validated through simulation and experiment of a large-scale multilayer-heterogeneity composite panel, and the maximum error decreased by 44% for all laboratory test cases.}
+}

@@ -1,0 +1,13 @@
+@article{KHAN2025114833,
+title = {Small-angle scattering characterization of magnetosomes from Magnetospirillum gryphiswaldense MSR-1},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114833},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114833},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003406},
+author = {Adnan Khan and Paolo Moretti and Valentina Notarstefano and Paolo Mariani and Najet Mahmoudi and Stephen King and Gouranga Manna and Francesco Vita and Oriano Francescangeli and Matteo Fanelli and Silvia Illuminati and Francesca Ripanti and Francesco Spinozzi},
+keywords = {Magnetosomes, Iron-oxides, MTB, FSM, SANS, SAXS, CCINPB},
+abstract = {Magnetosomes are biogenic nanomaterials synthesized by magnetotactic bacteria, with promising applications in drug delivery and environmental remediation. This study offers a thorough characterization of magnetosomes isolated from Magnetospirillum gryphiswaldense strain MSR-1, cultivated under various conditions. Laboratory techniques, including dynamic light scattering, atomic force microscopy, scanning electron microscopy, infrared spectroscopy, and X-ray diffraction were employed to analyze the chemical and physical properties of the samples and to verify their crystal structure. Further structural investigations were carried out by using small-angle neutron and X-ray scattering and data were analyzed through a novel model that allowed for a quantitative analysis of magnetosomes, detailing their iron oxide core, lipid membrane, and associated proteins. This research advances our understanding of magnetosome structure and functionality, demonstrating the potential to tailor bacterial growth conditions in order to address optimal characteristics for each specific application and, thus, laying the groundwork for a broad spectrum of future applications.}
+}

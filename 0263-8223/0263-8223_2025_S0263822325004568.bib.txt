@@ -1,0 +1,13 @@
+@article{MIRANDA2025119291,
+title = {Multiscale modelling strategy for a novel wingbox structure with increased bend-twist coupling},
+journal = {Composite Structures},
+volume = {370},
+pages = {119291},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119291},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004568},
+author = {Mário Miranda and Runze Li and Lucian Iorga and Silvestre T. Pinho},
+keywords = {Multiscale, Wings, Composites, Failure prediction, Machine learning},
+abstract = {This paper presents a novel multiscale modelling strategy for the early stage design of novel composite components. It includes the use of a global-local simulation approach followed by training a physics guided artificial neural network to predict composite failure indices from global-level loads. As a proof of concept, a non-conventional wingbox using the Z-Beam concept, capable of providing tailored bend-twist coupling for aeroelastic tailoring is analysed. The process begins by the application of strain-based global loads on a fully parametrised Z-Beam wingbox, after which, a structural detail of interest is analysed using a global-local approach and an evolved LaRC05 composite failure criterion. A database is created based on the repetition of the previous steps and is used to train a physics guided artificial neural network. At the end, it is observed that the proposed methodology is able to accurately predict composite failure based on global loads and design variables in a swift manner, proving itself as a valuable asset for the early design stages of novel composite concepts.}
+}

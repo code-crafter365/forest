@@ -1,0 +1,13 @@
+@article{ZHANG2025104302,
+title = {MASK_LOSS guided non-end-to-end image denoising network based on multi-attention module with bias rectified linear unit and absolute pooling unit},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104302},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104302},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000256},
+author = {Jing Zhang and Jingcheng Yu and Zhicheng Zhang and Congyao Zheng and Yao Le and Yunsong Li},
+keywords = {Image denoising, Channel similarity attention, Absolute pooling, Mask loss function},
+abstract = {Deep learning-based image denoising algorithms have demonstrated superior denoising performance but suffer from loss of details and excessive smoothing of edges after denoising. In addition, these denoising models often involve redundant calculations, resulting in low utilization rates and poor generalization capabilities. To address these challenges, we proposes an Non-end-to-end Multi-Attention Denoising Network (N-ete MADN). Firstly, we propose a Bias Rectified Linear Unit (BReLU) to replace ReLU as the activation function, which provides enhanced flexibility and expanded activation range without additional computation, constructing a Feature Extraction Unit (FEU) with depth-wise convolutions (DConv). Then an Absolute Pooling Unit (AbsPooling-unit) is proposed to consist Channel Attention Block(CAB), Spatial Attention Block(SAB) and Channel Similarity Attention Block (CSAB) , which are integrated into a Multi-Attention Module (MAM). CAB and SAB aim to enhance the model’s focus on key information respectively in the spatial dimension and the channel dimension, while CSAB aims to improve the model’s ability to detect similar features. Finally, the MAM is utilized to construct a Multi-Attention Denoising Network (MADN). Then a mask loss function (MASK_LOSS) and a compound multi-stage denoising network called Non-end-to-end Multi-Attention Denoising Network (N-ete MADN) based on the loss and MADN are proposed, which aim to handle the image with rich edge information, providing enhanced protection for edges and facilitating the reconstruction of edge information after image denoising. This framework enhances learning capacity and efficiency, effectively addressing edge detail loss challenges in denoising tasks. Experimental results on both synthetic several datasets demonstrate that our model can achieve the state-of-the-art denoising performance with low computational costs.}
+}

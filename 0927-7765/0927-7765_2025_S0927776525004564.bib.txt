@@ -1,0 +1,18 @@
+@article{BEMELMANS2025114949,
+title = {Adsorption of whey protein and sodium caseinate onto colloidal chromium oxide as a model for the pre-fouling of steel},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114949},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114949},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004564},
+author = {Bram J.N. Bemelmans and Juliette C. Verschoor and Ben H. Erné and R. Hans Tromp},
+keywords = {Protein fouling, Colloidal stability, Protein charge, Zeta potential, Analytical centrifugation, Adsorption isotherm, Van der Waals interaction},
+abstract = {Hypothesis
+The fouling of stainless-steel heat exchangers used in pasteurization is a problem in the dairy industry. Thick, protein-rich layers must regularly be removed to prevent reduced flow of liquid and heat and biological hazards. We hypothesized that the adsorption of an initial monolayer of proteins is driven by electrostatic interactions.
+Experiments
+Mixtures of colloidal chromium oxide (Cr2O3) and whey proteins or sodium caseinate were studied at room temperature and pH 3–7. The surface of colloidal Cr2O3 resembles the passivation layer of stainless steel, which essentially consists of Cr2O3. Stabilization of colloidal Cr2O3 by adsorbed proteins was evaluated using optical microscopy, dynamic light scattering, and analytical centrifugation. Moreover, zeta potentials and adsorption isotherms were measured.
+Findings
+Despite isoelectric points at pH 2 or higher for Cr2O3 and pH 5 for the proteins, the colloidal stabilization of Cr2O3 by adsorbed proteins was largely pH-independent, even though the surface charge densities of Cr2O3 and the proteins strongly depend on pH in our experimental pH range. Irrespective of pH, the adsorption isotherms demonstrated that a first partial monolayer of proteins was adsorbed irreversibly. We conclude that the initial adsorption of proteins onto stainless steel is probably not driven by electrostatics but by Van der Waals or hydrophobic interactions.}
+}

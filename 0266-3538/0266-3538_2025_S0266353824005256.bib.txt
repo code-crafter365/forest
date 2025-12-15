@@ -1,0 +1,13 @@
+@article{FU2025110955,
+title = {Anti-interference flexible temperature-sensitive/strain-sensing aerogel fiber for cooperative monitoring of human body temperature and movement information},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110955},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110955},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005256},
+author = {Jiayi Fu and Jian Tang and Shidong Ma and Zhijuan Pan and Ruoxin Li and Yuting Wu and Tao Yan},
+keywords = {Temperature sensitive, Strain sensing, Anti-interference, Multifunctional sensing aerogel fiber, Smart sportswear},
+abstract = {In recent years, multi-functional flexible sensing fibers capable of detecting various physical and chemical stimuli capabilities have made significant advancements. However, the cross-sensitivity of the sensing materials to other stimuli can considerably reduce their sensitivity and accuracy of these multifunctional fibers. In this study, we initially fabricated a blending type (BAF) and a core-sheath type (CAF) strain-sensing aerogel fiber using an optimized one-step wet spinning process. Then, we coated the aerogel fiber with cholesteric liquid crystal as the middle layer and waterborne polyurethane as the outer layer to obtain a temperature-sensitive/strain-sensing aerogel fiber (TSAF). TSAF demonstrates distinct multi-model strain sensing performance, enabling the detection of tensile strains (0.1–111.5 %), bending strains (40°–160°), and compression strains. Moreover, within the ultra-narrow temperature range of 34 °C–38 °C, TSAF undergoes reversible color transformations from yellow-green-blue-purple, against both bright and dark backgrounds. This unique feature offered high sensitivity, rapid response time, and diverse color variations. By integrating fibers into clothing, a collaborative sensing system can be established to simultaneously monitor human physiology and movement information. These advancements hold significant potential for applications in smart clothing, medical care, and other fields.}
+}

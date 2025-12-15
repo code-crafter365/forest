@@ -1,0 +1,13 @@
+@article{OOI2025117803,
+title = {An extensible set of parent elements to facilitate the isoparametric concept for polygons at finite strains: A scaled boundary finite element approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117803},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117803},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000751},
+author = {E.T. Ooi and B. Sauren and S. Natarajan and C. Song},
+keywords = {Isoparametric concept, Polygon elements, Parent elements, Scaled boundary finite element method, Finite elasticity},
+abstract = {We present a generalisation of the isoparametric concept to construct finite element interpolation functions on any star-convex polygonal parametric space. The approach is based on the solution to Laplace’s equation by employing the scaled boundary finite element method (SBFEM). We construct these interpolation functions for generic shapes of polygons, leading to a family of parent elements. By employing the flexibility of the SBFEM to model star-convex polygons of arbitrary number of sides, the family of parent elements can be extended straightforwardly. Similar to the standard isoparametric concept for triangles and quadrilaterals, polygonal elements in physical space are mapped to their corresponding parent element. In the preprocessing stage, each element is assigned its most affine parent element to ensure an optimal mapping. An integration scheme is developed to effectively integrate each triangular sector forming a polygon element. The novel isoparametric concept retains the use of standard procedures of the finite element method, including its ability to incorporate geometric and material nonlinearities. We demonstrate the application of the developed formulation to finite strain elasticity problems. Several numerical benchmark problems considering these aspects are used to validate the feasibility and demonstrate the advantages of the proposed method.}
+}

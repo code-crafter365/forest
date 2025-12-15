@@ -1,0 +1,13 @@
+@article{CAI2025105860,
+title = {Directional adaptive texture for edge detection in wide-azimuth seismic data},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105860},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105860},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042500010X},
+author = {Hanpeng Cai and Zhiwei Zhang and Yaojun Wang and Liyu Zhang and Wandi Ma},
+keywords = {Direction adaptive texture (DAT), Wide-azimuth data, Edge detection, GST, SOM},
+abstract = {Seismic texture pattern analysis is one of the effective methods for edge detection, however existing methods fail to consider the differences in edge information inherent in pre-stack wide-azimuth seismic data from different offsets. This paper proposes an edge detection method based on directional adaptive texture pattern analysis (DATPA), fully using directional information for more accurate edge detection. Firstly, dip and azimuth data are obtained from 3D seismic data through structural gradient tensor decomposition, which are then considered as geological constraints to guide the calculation of high-precision dip and azimuth data. Using the corresponding relationship between high-precision dip and azimuth data and the direction and tendency of edge structures such as faults or channels, we adaptively determine the statistical directions sensitive to edge detection in multiple statistical directions constructed by interpolation methods. Pre-stack seismic texture analysis elements (STAE) are constructed in the determined direction, and the gray-level co-occurrence matrix algorithm is employed to obtain the pre-stack directional adaptive seismic texture attribute set. Next, the obtained seismic texture data set is subjected to dimensionality reduction and clustering using self-organizing maps (SOM), yielding the spatial distribution of different pre-stack directional adaptive seismic texture patterns. Finally, utilizing prior information from drilling and logging, we calibrate and analyze pre-stack seismic texture patterns related to edge structures like faults and channels, ultimately achieving edge detection based on DATPA. Field data demonstrate that compared with traditional seismic texture analysis methods, the texture patterns obtained by DATPA can effectively highlight edges in all directions while reflecting both local and overall discontinuity characteristics. The edge detection results align better with drilling data and display structural patterns more consistent with geologists' understanding, providing a reliable new approach for the precise detection of edges.}
+}

@@ -1,0 +1,13 @@
+@article{HARUN2025114690,
+title = {915–3985 MHz microwave “sweep” as epidermal retention enhancer of nanoγ-tocotrienol for dermatitis treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114690},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114690},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001973},
+author = {Mohd Saufi Harun and Tin Wui Wong},
+keywords = {Dermatitis, Microwave, Nanoemulsion, Site-specific, Skin, γ-Tocotrienol},
+abstract = {Skin has complex compositions in multilayers. To promote skin permeability for drug transport to treat local skin diseases, 915–3985 MHz microwave sweep is deemed more effective than monofrequency radiation as it exhibits different wavelengths for surface and deeper skin interaction to modify skin constructs. This study examines effectiveness and mechanistic insights of 915–3985 MHz microwave sweep in topical administration of nanoemulsified γ-tocotrienol for dermatitis treatment. Physicochemical properties of γ-tocotrienol nanoemulsion and its skin permeation, retention and anti-dermatitis actions were investigated. Use of 915–3985 MHz microwave sweep promoted primarily epidermal retention of nanoemulsified γ-tocotrienol. It led to a faster recovery of dermatitis-like inflammation in vivo than microwave or nanoemulsion alone, and combination of nanoemulsion with 2450 MHz or 3985 MHz microwave. Microwave sweep fluidized the skin lipid bilayer, condensed the keratin and corneocytes, and enlarged skin aqueous pores to a greater extent than 2450/3985 MHz microwave. It relaxed epidermis more than dermis creating surface loose domains to accommodate nanoemulsified γ-tocotrienol at epidermis via microwave-skin interaction at O-H/N-H, C-H, CO/C-N skin functional groups. 915–3985 MHz microwave sweep promotes epidermal drug delivery enabling site-specific skin disease treatment and facilitating clinical translation of γ-tocotrienol.}
+}

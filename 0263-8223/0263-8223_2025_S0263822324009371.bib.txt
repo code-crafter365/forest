@@ -1,0 +1,13 @@
+@article{BAI2025118809,
+title = {Rapid prediction of mechanical properties during composite curing using artificial neural network and multi-objective genetic algorithms},
+journal = {Composite Structures},
+volume = {354},
+pages = {118809},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118809},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009371},
+author = {Jiang-Bo Bai and Guang-Yu Bu and Z.Z. Wang and Peng-Cheng Cao and Xue-Qin Li and Shuang-Xi Guo and Tian-Wei Liu},
+keywords = {Carbon fibres, Mechanical properties, Curing, High-temperature properties, Artificial neural networks},
+abstract = {The mechanical properties of prepreg change significantly during the curing process of composite materials. The accurate characterisation of the prepreg’s mechanical properties is the basis for predicting the curing deformation of composite materials. Experiments and empirical formulae are current dominant methods for the performance characterisation of unidirectional tape prepregs. However, in practice, they have limitations towards real-time prediction of prepreg mechanical properties. This study proposes a real-time prepreg mechanical property predicting system using its tip deflection in the autoclave. The system comprises two proposed methods: the Genetic Algorithm − Artificial Neural Network model (GA-ANN) and the Auto-encoder with short-cuts model mechanism (AESC). The AESC can achieve a prediction with a minimum mean relative error of 10.11% in 2.5 s. The GA-ANN method can provide more accurate predictions with a minimum mean relative error of 3.84% in 26 s.}
+}

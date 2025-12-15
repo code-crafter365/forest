@@ -1,0 +1,13 @@
+@article{QIAN2025118003,
+title = {High-throughput machine learning framework for predicting neurite deterioration using MetaFormer attention},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118003},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118003},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002750},
+author = {Kuanren Qian and Genesis Omana Suarez and Toshihiko Nambara and Takahisa Kanekiyo and Yongjie Jessica Zhang},
+keywords = {Neurodevelopmental disorders, Neurite retraction, High-throughput machine learning, MetaFormer, Gated spatial–temporal modeling, Convolutional neural network},
+abstract = {Neurodevelopmental disorders (NDDs) cover a variety of conditions, including autism spectrum disorder, attention-deficit/hyperactivity disorder, and epilepsy, which impair the central and peripheral nervous systems. Their high comorbidity and complex etiologies present significant challenges for accurate diagnosis and effective treatments. Conventional clinical and experimental studies are time-intensive, burdening research progress considerably. This paper introduces a high-throughput machine learning (ML) framework for modeling neurite deteriorations associated with NDDs, integrating synthetic data generation, experimental images, and ML models. The synthetic data generator utilizes an isogeometric analysis (IGA)-based phase field model to capture diverse neurite deterioration patterns such as neurite retraction, atrophy, and fragmentation while mitigating the limitations of scarce experimental data. The ML model utilizes MetaFormer-based gated spatiotemporal attention architecture with deep temporal layers and provides fast predictions. The framework effectively captures long-range temporal dependencies and intricate morphological transformations with average errors of 1.9641% and 6.0339% for synthetic and experimental neurite deterioration, respectively. Seamlessly integrating simulations, experiments, and ML framework can guide researchers to make informed experimental decisions by predicting potential experimental outcomes, significantly reducing costs and saving valuable time. It can also advance our understanding of neurite deterioration and provide a scalable solution for exploring complex neurological mechanisms, contributing to the development of targeted treatments.}
+}

@@ -1,0 +1,13 @@
+@article{TANG2025118192,
+title = {3D material optimization of functionally graded shells using incremental Kriging surrogates and adaptive infill strategies},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118192},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118192},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004645},
+author = {Huy Tang and Nam V. Nguyen and Jaehong Lee},
+keywords = {Functionally graded shells, 3D material optimization, Incremental Kriging, Surrogate-assisted evolutionary algorithms, Isogeometric analysis},
+abstract = {This paper attempts to develop a surrogate-assisted evolutionary algorithm (SAEA) framework to efficiently solve the 3D functionally graded material (FGM) optimization problems of shells using incremental Kriging models. The framework consists of two phases. In the first phase, the base EA is run normally for a period and training data is collected. Then in the second phase, the collected data is used to build initial Kriging surrogate models, and they will be incrementally updated with many incoming infill data. A strategy is devised in which infill data is adaptively and effectively obtained. Minimization of center deflection given a total limit of ceramic material is considered. The shell bending is computed using isogeometric analysis and first order shear deformation theory, while the FGM volume fractions at the control points of 3D meshes are design variables. After analysis verification, the effectiveness of the proposed approach is justified by comparing with other surrogate-based optimization methods using their problem of 3D FGM of square plates. Then, various high-dimensional optimization examples of shells are considered and unseen-before optimal 3D FGM designs are presented. It is revealed that the proposed method can save significant computation of the optimization process while still assuring high-optimality of the solutions.}
+}

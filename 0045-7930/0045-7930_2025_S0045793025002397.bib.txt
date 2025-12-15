@@ -1,0 +1,13 @@
+@article{UZUN2025106779,
+title = {Direct numerical simulation of smooth-body flow separation around a ramp},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106779},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106779},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002397},
+author = {Ali Uzun and Mujeeb R. Malik},
+keywords = {Direct numerical simulation, Adverse pressure gradient, Smooth-body flow separation, Turbulent boundary layer, Wall-modeled large-eddy simulation},
+abstract = {Spanwise-periodic computation of a turbulent flow past a two-dimensional smooth ramp geometry is performed in the form of a direct numerical simulation. The Reynolds number based on the ramp height is about 147,000. A straight section that precedes the smooth ramp allows the incoming turbulent boundary layer to grow under a weak favorable pressure gradient. The boundary layer introduced at the domain inlet has a momentum-thickness based Reynolds number of 2000. The turbulent boundary layer nearing the ramp first interacts with a relatively stronger favorable pressure gradient, followed by a strong adverse pressure gradient. Consequently, the boundary layer experiences a modest acceleration before decelerating and separating. Analysis of the data over this region hints at the formation of an internal layer beneath the accelerated boundary layer. The analysis also reveals that this internal layer forms the origin of the free shear layer that emerges in the deceleration region and separates. The streamwise extent of the separated region is comparable to the ramp length, while the viscous layer thickness near reattachment is about the same as the ramp height; hence, the boundary layer undergoing separation and subsequent reattachment in the present configuration experiences its thickness being amplified by about tenfold. The reattached flow continues to develop further under a diminishing pressure gradient in the recovery region in a similar fashion to a zero pressure gradient turbulent boundary layer.}
+}

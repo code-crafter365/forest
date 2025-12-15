@@ -1,0 +1,13 @@
+@article{CHENG2025115033,
+title = {Glycosylated quercetin/cisplatin combinational nanodrugs for enhanced oxidative therapy and chemotherapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115033},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115033},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005405},
+author = {Xu Cheng and Zhifeng Xie and Xianming Shi and Yuan Huang and Shuxian Wang and Jiao Li and Yaqian Zhang and Baoyi Zheng and Jian Liu},
+keywords = {Self-assembly, Glycosylation, Quercetin, Cisplatin, Combination therapy},
+abstract = {Drug self-assembly technology holds great potential for drug delivery; however, its practical application is often hindered by poor dispersibility, instability, and suboptimal therapeutic efficacy in monotherapy. To address these limitations, we developed a co-assembly strategy based on glycosylation and coordination crosslinking. Lactobionic acid (LA)-modified quercetin (QC) derivatives were synthesized via phenylboronic acid ester bonds and further assembled with cisplatin (CDDP) through Pt-O coordination bonds, forming LA-QC@Pt/NPs. In vitro studies revealed that hydrophobic/π-π interactions and Pt-O crosslinking significantly enhanced the stability of the nanodrug during dilution, long-term storage, and freeze-thaw cycles. Under acidic conditions, these interactions were disrupted, resulting in rapid drug release (86.85 ± 2.74 % of CDDP and 60.83 ± 1.15 % of QC within 24 h). Moreover, LA greatly improved the aqueous dispersibility and active targeting ability of the nanodrug, thereby enhancing cellular uptake in hepatocellular carcinoma cells and increasing cytotoxicity (IC50 of QC and CDDP decreased by 70–72 % and 54–75 %, respectively). Mechanistically, the nanodrug amplified oxidative stress by inhibiting glutathione peroxidase (GSH-Px), exacerbated DNA damage by reversing glutathione S-transferase π (GST-π)-mediated CDDP detoxification, and blocked AKT1/NF-κB-mediated DNA repair. In vivo studies showed that LA-QC@Pt/NPs extended the half-life of CDDP to 2.17 h, inhibited tumor growth by approximately 66 %, and mitigated the systemic toxicity of CDDP. Thus, this glycosylation-driven self-assembly platform is a promising strategy for multi-drug delivery and combination therapy.}
+}

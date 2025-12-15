@@ -1,0 +1,13 @@
+@article{KRESOVIC2025104398,
+title = {ColorQUICCI: Local radial descriptor incorporating shape and color},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104398},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104398},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002390},
+author = {Milan Kresović and Bart Iver {van Blokland} and Theoharis Theoharis and Jon Yngve Hardeberg},
+keywords = {ColorShapeBench, Color-aware 3D local shape descriptors, ColorQUICCI},
+abstract = {Describing and differentiating 3D objects using shape descriptors is crucial in many fields, yet objects’ color information is often overlooked when these methods are designed. This paper presents two main contributions in that regard. First, it introduces ColorQUICCI, an extension of the QUICCI descriptor that integrates color information, as well as a distance function that balances color and shape information when comparing pairs of such descriptors. Results demonstrate that ColorQUICCI is advantageous when the overall accuracy and efficiency are considered. Second, it presents ColorShapeBench, an extension of ShapeBench for the large-scale evaluation of descriptors that include color information. An illumination change filter is also introduced in the benchmark, which provides a more robust platform for evaluating descriptors in scenarios with varying lighting conditions.}
+}

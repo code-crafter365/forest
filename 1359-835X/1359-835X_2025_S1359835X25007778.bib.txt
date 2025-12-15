@@ -1,0 +1,12 @@
+@article{PESARANHAJIABBAS2025109482,
+title = {Enhancing mechanical and barrier performance of biodegradable PBSA/PHBV-based nanocomposites: Effect of nanoclay content and processing approach},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109482},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109482},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007778},
+author = {Ehsan Pesaranhajiabbas and Amar K. Mohanty and Fantahun M. Defersha and Manjusri Misra},
+keywords = {Compatibility, Exfoliation, Biodegradable polymer blend, Masterbatch},
+abstract = {This study investigates the potential of nanoclay-reinforced biodegradable polymer blends, specifically the ones containing a polyhydroxyalkanoate, for sustainable packaging applications, offering an effective strategy to overcome two major limitations of such materials: poor interfacial compatibility and inadequate gas barrier properties. A biodegradable blend composed of poly(butylene adipate-co-succinate) (PBSA) and poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV) was modified through the incorporation of organoclay, and the effect of processing approach and nanoclay content on the possible compatibilization effect of organoclay and resulting morphology, mechanical, and barrier performance was evaluated. Two melt-processing routes were compared: (i) a one-step method of direct melt blending of PBSA, PHBV, and nanoclay; and (ii) a two-step method, involving the preparation of a nanoclay-rich masterbatch prior to melt blending with the neat polymers. The two-step approach yielded a finer dispersion of intercalated/exfoliated nanoclay layers, whereas the one-step process resulted in agglomerated clay structures. This enhanced dispersion led to a finer size of PHBV dispersed phase, and a remarkable enhancement in deformability of the nanocomposite. Notably, the elongation at break increased by 102 % in the nanocomposite containing 2 wt% nanoclay prepared via the PHBV masterbatch route compared to the unfilled blend, confirming the compatibilization effect of the organoclay. Furthermore, the positive effect of nanoclay on gas barrier properties showed a deep dependence on the processing method and nanoclay dispersion. The lowest permeations were achieved for the two-step processed sample with 2 wt% nanoclay made by PHBV masterbatch, showing 36 % and 35 % reductions, respectively, compared to its counterpart made by the one-step process.}
+}

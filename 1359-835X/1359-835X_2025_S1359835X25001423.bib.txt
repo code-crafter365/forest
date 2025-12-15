@@ -1,0 +1,13 @@
+@article{GAO2025108848,
+title = {Synergistic strengthening of copper matrix composites with carbides of different aspect ratios},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108848},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108848},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001423},
+author = {Xinglin Gao and Jun Li and Zhang Liu and Qianying Guo and Yuan Huang and Zumin Wang},
+keywords = {SiC whiskers, WC nanoparticles, Copper matrix composites, Synergistic strengthening},
+abstract = {Copper matrix composites, known for their high strength, derive their desirable mechanical properties from strengthening effects of reinforcement. However, a single reinforcement provides a limitation of improvement in strength at the expense of plasticity. A strategy of synergistic improvement of strength and plasticity has been developed by incorporating two reinforcements with different aspect ratios. To this end, WC nanoparticles and SiC whiskers-reinforced copper matrix composites (WCp-SiCw/Cu) were prepared by intermittent pulsed electrodeposition and spark plasma sintering. These composites are designed with a unique core-shell structure, and thereby the agglomeration of reinforcements can be effectively avoided during sintering. As a result, the yield strength (323 MPa) of the WCp-SiCw/Cu is about double that of pure copper, while maintaining a high uniform elongation (15.3 %). The synergistic strengthening of the composites arises from the complementary advantages of the SiCw(s) and WCp(s). The results provide a promising route to preparing composites with comprehensive mechanical properties.}
+}

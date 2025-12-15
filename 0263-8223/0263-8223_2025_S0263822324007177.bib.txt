@@ -1,0 +1,13 @@
+@article{VALLMAJO2025118589,
+title = {Effect of ply misalignment on the notched strength of composite laminates},
+journal = {Composite Structures},
+volume = {351},
+pages = {118589},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118589},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007177},
+author = {O. Vallmajó and M. Descamps and A. Arteiro and A. Turon},
+keywords = {Composites, Ply deviation, Open hole strength, Multi-fidelity, Finite fracture mechanics, Finite element model},
+abstract = {Predicting the notched strength of carbon fiber-reinforced polymers is a crucial aspect of composite structure design, particularly when considering the uncertainties stemming from geometric features, material variability and defects. This study focuses on the influence of ply misalignment at the meso-scale level. The research employs a comprehensive methodology to establish notched strength allowables, integrating analytical (low fidelity), which have limitations in the representation of stacking sequence effects and in the generation of ply misalignments, and computational tools (high fidelity), employing a finite element model (FEM). The investigation emphasizes the need for a holistic understanding of these factors to enhance the accuracy of predictions. The results predicted by the analytical and, specially, the numerical models are in good agreement with experimental results. Both models underscore the decrease of the notched strength due to ply misalignment. Finally, a hybrid approach is proposed given that FEM predictions offer more accuracy and a detailed comprehension of the failure mechanisms, while fast analytical models can be used to propagate the uncertainties and to determine the allowables.}
+}

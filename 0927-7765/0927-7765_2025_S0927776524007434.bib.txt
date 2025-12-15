@@ -1,0 +1,13 @@
+@article{WU2025114484,
+title = {4D bioprinting of transformable living constructs with sustained local growth factor presentation for advanced tissue engineering applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114484},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114484},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007434},
+author = {Guodong Wu and Lin Wang and Yuhang Cao and Manli Wang and Chun Yang and Jian Zhang},
+keywords = {4D bioprinting, stress mismatch, local presentation, growth factor, tissue engineering},
+abstract = {Traditional tissue engineering strategies focus on geometrically static tissue scaffolds, lacking the dynamic capability found in native tissues. The emerging field of 4D bioprinting offers a promising method to address this challenge. However, the requirement for consistent exogenous supplementation of growth factors (GFs) during tissue maturation poses a significant obstacle for in vivo application of 4D bioprinted constructs. We herein developed composite bioinks composed of photocrosslinkable, jammed alginate methacrylate (AlgMA) and gelatin methacrylate (GelMA), incorporating GelMA microspheres loaded with GFs to provide sustained local GF presentation over 50 days for 4D tissue bioprinting. The composite bioink exhibited excellent printability, enabling 3D printing with good accuracy (∼120 %) and fidelity (105 % − 114 %). By incorporating a photoabsorbent to enhance light attenuation, a gradient network along the light propagation pathway was generated, facilitating programmable and controllable 4D shape transformation. This process allowed the fabrication of complex living constructs with defined architectures through morphing. A proof-of-concept study on cartilage regeneration demonstrated the effectiveness of sustained GF presentation in driving tissue development, showing significant glycosaminoglycan production (GAG/DNA 10.3), and substantial upregulation of type II collagen (125.8-fold) and aggrecan (16.4-fold) mRNA expression, thereby eliminating the need for exogenous GF supplementation. This study underscores the transformative potential of integrating dynamic tissue scaffolding with sustained GF delivery, thereby addressing key limitations of traditional tissue engineering approaches and offering new avenues for tissue repair applications.}
+}

@@ -1,0 +1,13 @@
+@article{CHUANG2025114787,
+title = {Mitochondrial activation via calcium peroxide/carrageenan/soybean lecithin-derived polypyrrole phototherapeutic microparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114787},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114787},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002942},
+author = {Sih-Chi Chuang and Shih-An Yu and Pei-Chia Hung and Andrew E.-Y. Chuang and Jia-Wei Liang and Chia-Lu Sun and Lekshmi Rethi and Hsu-Wei Fang and Hieu Trung Nguyen and Yao-Tung Tsai and Pei-Wei Weng},
+keywords = {Mitochondrial activation, Calcium peroxide, Carrageenan, Phototherapy, Polypyrrole microparticles},
+abstract = {Mitochondria, often referred to as the "powerhouses" of eukaryotic cells, play a critical role in maintaining cellular homeostasis and supporting essential life functions, particularly in cell survival and apoptosis. This study introduces a composite formulation—combining carrageenan (Car), calcium peroxide (CaO2), and microparticles, derived from soybean oil lecithin, enhanced with photothermally active polypyrrole (PPy)—to create Car-Lec-PPy MP, aimed at promoting mitochondrial activation in cells. The investigation focuses on intercellular mitochondrial transfer and activation as a therapeutic strategy. The formulation seeks to stimulate mitochondrial biogenesis and enhance cellular resilience through targeted mitochondrial activation, leveraging the synergistic effects of near-infrared (NIR) therapy. In the in vivo experiment, phototherapeutic Car-Lec-PPy MP was administered to rodent muscle tissue. The results showed increased expression of heat-shock proteins and reduced oxidative stress in the treated muscle. Preliminary findings suggest that this approach not only boosts mitochondrial activity but also improves cell proliferation and survival, presenting significant potential for applications in regenerative medicine and cellular therapy.}
+}

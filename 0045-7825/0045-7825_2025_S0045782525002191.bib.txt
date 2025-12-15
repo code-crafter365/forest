@@ -1,0 +1,14 @@
+@article{WANG2025117947,
+title = {Information entropy regularization method for structural identification with large-scale damaged parameters},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117947},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117947},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002191},
+author = {Yifei Wang and Xiaojun Wang and Geyong Cao},
+keywords = {Damage identification, Information entropy, Regularization method, Large-scale damaged parameters},
+abstract = {ABSTRACT
+With the advancement of structural health monitoring technology, the increasing precision in modeling, scalability of model parameters, and complexity of external environments have introduced significant challenges to damage identification. Notably, the ill-posed nature of large-scale parameter identification from refined models has become a critical technical challenge. Regularization methods are widely employed to mitigate ill-posedness and control the complexity of identification problems. Traditional regularization methods often penalize imbalances in damage parameters, leading to errors and suboptimal convergence, failing to accurately reflect actual damage conditions. To address these challenges, an information entropy regularization term is introduced to capture the distribution of structural damage location and severity. By integrating regularization term with an adjoint sensitivity optimization algorithm, a refined iterative approach is developed to manage large-scale damage parameter identification from detailed finite element models. Numerical analyses on a 2D stress plate and a 3D wing, along with experimental validation on impact damage of clamped plates, demonstrate the accuracy and effectiveness of the proposed method.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025108574,
+title = {Obtaining the longitudinal compressive response of unidirectional laminate composites from fiber misalignment micrographs through machine learning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108574},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108574},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005724},
+author = {Bangde Liu and Sérgio Costa and Xin Liu and Dennis Wilhelmsson and Xiaodong Jia},
+keywords = {Convolutional neural network, Fiber waviness, Kinking band, Stress–strain curves},
+abstract = {The longitudinal compressive behavior of unidirectional composite laminates with fiber waviness is highly complex and plays a crucial role in determining final failure of composites. Evaluating this behavior, especially considering nonlinear failure mechanisms like kink-band formation, typically requires computationally expensive finite element analysis, which is impractical for large-scale quality inspection. To address computational challenges, this paper develops a new computational framework using Convolutional Neural Network (CNN) models, providing an ultra-efficient prediction of the entire stress–strain curve of composites with fiber waviness. The CNN models were trained on simulation data generated from an experimentally validated mesoscale finite element model. The microstructures of the composites with fiber waviness were taken from realistic micrographs, resulting in diverse stress–strain curves. The proposed CNN models showed high accuracy and efficiency for predicting the highly nonlinear stress–strain curves of the composites, which can be employed as a real-time evaluation method of the criticality of fiber waviness.}
+}

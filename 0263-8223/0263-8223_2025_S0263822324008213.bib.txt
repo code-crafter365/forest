@@ -1,0 +1,13 @@
+@article{SUN2025118693,
+title = {Additive manufacturing of gradient porous Si/SiC ceramic parts: Quasi-static behaviors and mechanical properties},
+journal = {Composite Structures},
+volume = {352},
+pages = {118693},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118693},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008213},
+author = {Ce Sun and Song Zhang and Rong Tu and Lihong Wu and Jiahao Ye and Yusheng Shi and Chunze Yan and Huajun Sun and Yuhan Liao and Peng Chen and Kai Liu},
+keywords = {Laser powder bed fusion, Liquid silicon infiltration, Si/SiC, Gradient ceramic material, Mechanical properties},
+abstract = {Porous silicon carbide (SiC) ceramic exhibits low density, high toughness, which endow it with an indispensable role in engineering applications. However, the manufacturing, designing, and making full use of the rich pore structure of gradient porous SiC ceramic to improve its mechanical performance still face many challenges. Herein, the manufacture of gradient porous Si/SiC ceramic part is realized for the first time, and the influence of gradient structural on mechanical properties is deeply analyzed. The results indicate that the porous Si/SiC ceramics with constant gradient transition rate is characterized by step-by-step destruction and can carry larger strains than the porous Si/SiC ceramics with non-constant gradient transition rate. Meanwhile, reducing the gradient span can improve the strength, but it is easy to lead to brittle damage. In particular, gradient porous Si/SiC ceramics with constant gradient transition rate and 30 % gradient span can exhibit both good strength and toughness. The compressive strength can reach 11.71 MPa, and the equivalent elastic modulus can reach 2.28 GPa. Finally, a laminar material prediction model for mechanical properties is presented. This paper presents an effective fabrication method for gradient porous ceramic parts and provides a feasible means for the design and prediction of mechanical properties.}
+}

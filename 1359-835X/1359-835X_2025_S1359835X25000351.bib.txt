@@ -1,0 +1,13 @@
+@article{WU2025108741,
+title = {Exploring the bonding mechanism in cold spray deposition of engineered graphene nanoplates-Ni nanocomposite powder},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108741},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108741},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000351},
+author = {Pengfei Wu and Arash Kardani and Mabao Liu and Zedong Lin and Sara Bagherifard},
+keywords = {Cold spray process, Graphene nanoplates, 2D metal matrix composites, Molecular dynamics},
+abstract = {In this work, molecular dynamics simulations were conducted to investigate deposition behavior of composite graphene nanoplatelets (GNPs)-Ni particles at various velocities and with different graphene contents. The results indicated that GNPs impede plastic deformation of the metallic particle and stress transfer to it, simultaneously limiting metallurgical bonding at the interface with the substrate. The particle/substrate bonding mechanism was a combination of metallurgical bonding and van der Waals forces physisorption, with the metallurgical bonding playing the primary role in adhesion strength. Increasing the impact velocity and decreasing the GNP content, both resulted in a larger area of metallurgical bonding, thereby enhancing the bonding strength. The particle/particle adhesion involves lateral and interlayer connections among GNPs, activating additional mechanical interlocking between the adjacent particles. Subsequent impact of the upcoming particles tamped the previously deposited one, leading to densification effect. These results deepen our comprehension of how graphene nanoplate-metal composites form.}
+}

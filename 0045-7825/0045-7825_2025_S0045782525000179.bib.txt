@@ -1,0 +1,13 @@
+@article{LARA2025117745,
+title = {Unified Eulerian method for fluid-immersed self- and multi-body solid contact},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117745},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117745},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000179},
+author = {Teo Lara and Ken Kamrin},
+keywords = {Contact modeling, Computational fluid dynamics, Computational solid mechanics, Fluid–solid interaction, Eulerian-frame methods, Hyperelasticity},
+abstract = {We introduce a general simulation approach to model fluid-submerged solid contact of highly deformable objects within the Eulerian Incompressible Reference Map Technique (RMT) for fluid-solid interaction. Our approach allows solid bodies to undergo finite deformations, contact, and, importantly, self-contact while immersed in a fluid satisfying the Navier–Stokes equations. All solid boundaries are modeled using a single levelset field, which is used to produce a key secondary field that identifies when opposing surfaces approach. This secondary field can then be used to create the appropriate contact penalty forces allowing treatment of both multi-body and self-contact under the same algorithm. The method also provides modularity, being directly integrable within the current RMT framework, conserving the desirable properties of the RMT. This technique is demonstrated in multiple cases. We simulate submerged contact of two elastic disks represented with a single levelset, showing that the method approaches the analytical Hertzian prediction for contact between cylinders along their parallel axes. A grid resolution study confirms the convergence of the method. We also model a more intricate example, with several highly deformable hyperelastic objects undergoing simultaneous self- and multi-body contact as they settle within a fluid due to gravity.}
+}

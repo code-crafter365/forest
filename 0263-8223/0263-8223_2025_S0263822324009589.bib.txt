@@ -1,0 +1,13 @@
+@article{BIKOS2025118830,
+title = {Shell-Beam micromechanical models to improve the efficiency of simulations of composites under longitudinal compression},
+journal = {Composite Structures},
+volume = {354},
+pages = {118830},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118830},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009589},
+author = {D. Bikos and F. Poh and R.S. Trask and P. Robinson and S. Pimenta},
+keywords = {Polymer-matrix composites, Microstructures, Finite element analysis (FEA), Micromechanics, Representative volume element (RVE)},
+abstract = {The variability of fibre paths in composite microstructures is a key parameter influencing their compressive behaviour; however, despite numerous developments, no micromechanical finite element simulation has represented enough fibres to be statistically representative of this variability. This paper proposes and develops a methodology which replaces the computationally-expensive continuum 3D finite elements with shells and beams (SB) to simulate explicitly the matrix and the fibres in real microstructures of composites under longitudinal compression. The SB methodology is illustrated in simulations using fibre paths from micro-computed tomography of real microstructures. The SB methodology shows a reduction in simulation time over 99.9% compared to the conventional continuum approach; the accuracy of the compressive strength and kinking direction predicted by the SB methodology were at least 94% and 97% respectively (compared to the continuum approach). This new proposed micromechanical simulation methodology can advance the state of the art by efficiently capturing the effect of microstructural imperfections on the performance of composites under longitudinal compression.}
+}

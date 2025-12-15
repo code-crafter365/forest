@@ -1,0 +1,13 @@
+@article{HAFIDI2025114762,
+title = {Antimicrobial and biofilm-eradicating properties of simple double-chain arginine-based surfactants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114762},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114762},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002693},
+author = {Zakaria Hafidi and Maria Teresa García and Sergio Vazquez and Marta Martinavarro-Mateos and Anderson Ramos and Lourdes Pérez},
+keywords = {Arginine-based surfactants, Antibacterial, Antifungal, Antibiofilm, Hemolysis},
+abstract = {The increasing emergence of multidrug-resistant bacteria and fungi represents a significant challenge for contemporary medicine. In an effort to design and develop new antimicrobial drugs, we have prepared double chain arginine-based surfactants using a simple and cost-effective procedure. These compounds consist of the cationic arginine linked by amide bonds to two hydrophobic chains, one containing 12 carbon atoms, while the length of the other has been systematically varied. We investigated their self-assembly in an aqueous medium, their antimicrobial efficiency against a panel of clinically relevant bacteria and fungi, their antibiofilm activity, and their cytotoxicity. The results demonstrated that these arginine-based surfactants were effective against a broad spectrum of bacteria and fungi, including methicillin-resistant strains. Their antimicrobial activity depends on their hydrophobic content, with the LANHC5 and LANHC6 homologs being the most effective. Notably, these compounds can eradicate mature biofilms of MRSA C. albicans and C. tropicalis at low concentrations. Furthermore, they induced cell lysis only at concentrations exceeding their MIC values against both bacteria and fungi. The findings presented here provide valuable insights into the structure–activity relationships underlying the toxicity of cationic surfactants, which must be better understood to facilitate their transition from bench research to pharmaceutical applications.}
+}

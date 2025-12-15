@@ -1,0 +1,13 @@
+@article{ZHU2025119536,
+title = {An improved bond-based peridynamic model for out-of-plane deformation and damage analysis of composite laminates},
+journal = {Composite Structures},
+volume = {372},
+pages = {119536},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119536},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007019},
+author = {Zhijie Zhu and Hanbo Zhang and Shun Zhang and Yonggang Zheng and Hongfei Ye},
+keywords = {Peridynamics, Composite laminates, Out-of-plane deformation, Integral layerwise theory, Progressive damage, Crack propagation},
+abstract = {The major challenges faced in traditional bond-based peridynamic simulations of thick composite laminate plates encompass fixed Poisson’s ratio and shear modulus, computational inefficiency, and inadequate accuracy in out-of-plane deformation. To address these issues, an improved bond-based peridynamics model with shear bonds and rigid body rotation elimination (improved PDS) for predicting out-of-plane mechanical behavior of thick composite laminate plates has been proposed. By introducing the improved PDS model and defining fiber, matrix and transverse bond, the proposed model can overcome the restriction of material properties. In addition, the original material points are replaced with material lines to describe the transverse shear deformation and the displacement distribution on the upper and lower surfaces of laminate inspired by the integral layerwise theory (ILWT). Under this framework, PD equivalent single layer (PDESL), PD partial layerwise (PDPLW), and PDPLW-PDESL coupling method are established, providing different solutions for balancing the computational efficiency and accuracy in out-of-plane deformation of thick laminates. Finally, the strong capability of the proposed models in accuracy-efficiency balance and damage prediction are verified by the sinusoidal vertical pressure examples of laminates with different width–thickness ratios and representative experiments, respectively.}
+}

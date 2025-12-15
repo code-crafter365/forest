@@ -1,0 +1,14 @@
+@article{TANG2025114188,
+title = {Rational design of Au-Bi bimetallic nanozyme for NIR-II laser mediated multifunctional combined tumor therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114188},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114188},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004478},
+author = {Lingxue Tang and Shuo Wang and Jie Hu and Lili Meng and Jie Zhang and Yi Chang and Xiaoming Ma and Yuming Guo},
+keywords = {Nanozyme, Near-infrared region, Starvation therapy, Photothermal therapy, Chemodynamic therapy},
+abstract = {Absract
+To maximize the therapeutic effects and minimize the adverse effects of synergistic tumor therapies, a multifunctional nanozyme Au-Bi/ZIF-8@DOX@HA (ABZ@DOX@HA) was designed and synthesized through the Au and Bi bimetallic doping of ZIF-8, loading of the DOX, and modifying with hyaluronic acid (HA). The ABZ@DOX@HA nanoparticles (NPs) could simulate the enzymatic activities of glucose oxidase (GOx) and peroxidase (POD). Upon irradiated by near-infrared region (NIR-II) laser, the strong synergism of the photothermal abilities of the loaded Au and Bi nanodots accelerated the collapse of the ABZ structure at the tumor site considerably and released Au, Bi nanodots and DOX. The results in vitro and in vivo proved that ABZ@DOX@HA nanozyme could effectively exert the combined tumor therapy of starvation treatment, photothermal therapy (PTT), chemodynamic therapy (CDT) and chemotherapy. The current research provides a new strategy to address the inherent challenges of easy clearance and short blood circulation of small-sized NPs during the treatment of tumors with nanomedicine, as well as the aggregation and oxidation of inorganic nanodots.}
+}

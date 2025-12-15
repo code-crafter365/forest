@@ -1,0 +1,13 @@
+@article{TURLIN2025118618,
+title = {Analytical solutions for the buckling/wrinkling of anisotropic sandwich structures: Application to honeycomb cores},
+journal = {Composite Structures},
+volume = {351},
+pages = {118618},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118618},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007463},
+author = {Robin Turlin and Philippe {Le Grognec}},
+keywords = {Buckling/wrinkling, Sandwich structures, Anisotropic behavior, Analytical modeling, Finite element validation, Honeycomb cores},
+abstract = {Sandwich structures are commonly used in a wide range of industrial sectors, due to their very good compromise between strength and lightness. However, owing to the presence of thin/slender parts, they are prone to buckling under global or local compression, which becomes primarily responsible for the collapse of such sandwiches. This paper thus focuses on the elastic buckling/wrinkling behavior of sandwich columns under overall axial compression. This work follows on from a previous analysis restricted to homogeneous and isotropic skin and core materials. In the present study, the more general case of laminated composite faces is investigated, and anisotropic core materials are also considered. It allows one to deal with heterogeneous core structures in an homogenized way. The modeling approach is based on the use of a laminated beam model for the faces whereas the core layer is represented as a 2D equivalent continuous solid. With such a formulation, analytical solutions can be obtained for the critical loadings and the associated buckling modes, by means of a bifurcation analysis. These solutions are finally confronted to the numerical results derived from 2D linearized buckling finite element computations, for validation purposes, and the particular case of a honeycomb sandwich is addressed.}
+}

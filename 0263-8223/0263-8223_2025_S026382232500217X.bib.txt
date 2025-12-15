@@ -1,0 +1,13 @@
+@article{LI2025119052,
+title = {Effects of shear connection methods on the performance of UHPFRC-NC hybrid beams with U-shaped GFRP stay-in-place formworks},
+journal = {Composite Structures},
+volume = {360},
+pages = {119052},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119052},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500217X},
+author = {Yaqi Li and Zihua Zhang and Zhenjun Yang and Muhirwa Fernand and Tao Jiang},
+keywords = {Shear connection methods, Hybrid beam, Stay-in-place (SIP) formwork, FRP Profile, UHPFRC},
+abstract = {This paper investigates the effects of shear connection methods on the performance of Ultra-high performance fiber reinforced concrete (UHPFRC)-normal concrete (NC) hybrid beams with U-shaped glass fiber-reinforced polymer (GFRP) stay-in-place (SIP) formworks. A total of 21 beams were tested under three-point bending to evaluate their load capacity, failure mechanisms, strain evolution, and cost performance. The specimens included 15 hybrid beams with various shear connection methods—resin-bonding, resin-bonding plus I-shaped GFRP profiles, and resin-bonding plus steel bolts at different spacings—as well as six control beams without SIP formworks for comparison. The complex microscale failure mechanisms were visualized through μXCT scanning. Results indicated that GFRP connectors demonstrated the highest bonding performance and load capacity among all connection methods, while steel bolt connectors provided the best post-failure ductility. The incorporation of SIP formworks significantly enhanced the structural performance of the hybrid beams, maximizing the utilization of UHPFRC’s high compressive strength. Compared to traditional reinforced UHPFRC beams, the hybrid beams achieved 22.7% higher peak loads while reducing UHPFRC usage by 63.2%. Cost effective analysis revealed that hybrid beams with GFRP connectors exhibit the best cost performance among different shear connection methods, with 68.2% higher than that of traditional reinforced UHPFRC beams.}
+}

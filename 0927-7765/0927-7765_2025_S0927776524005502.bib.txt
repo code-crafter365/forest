@@ -1,0 +1,13 @@
+@article{BRAVOALFARO2025114291,
+title = {Nanoemulsions of betulinic acid stabilized with modified phosphatidylcholine increase the stability of the nanosystems and the drug's bioavailability},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114291},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114291},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005502},
+author = {Diego A. Bravo-Alfaro and Laura R. Ochoa-Rodríguez and Yevgen Prokhorov and Juan Francisco Pérez-Robles and Jessica M. Sampieri-Moran and Perla Elvia García-Casillas and Sujay Paul and Hugo S. García and Gabriel Luna-Bárcenas},
+keywords = {, , , , , },
+abstract = {Betulinic acid (BA) is a natural compound with significant potential for treating various diseases, including cancer and AIDS, and possesses additional anti-inflammatory and antibacterial properties. However, its clinical application is limited because of its low solubility in water, which impairs its distribution within the body. To overcome this challenge, nanoemulsions have been developed to improve the bioavailability of such poorly soluble drugs. This study investigated modified phosphatidylcholine (PC), where some fatty acids were replaced with conjugated linoleic acid (CLA) to stabilize BA nanoemulsions. The modified PC was used to prepare nanoemulsions with droplet sizes of up to 45 nanometers. These nanoemulsions maintained stability for 60 days at room temperature (25°C±2°C) and under refrigeration (5°C±1°C), with no signs of instability. Nanoemulsions stabilized with CLA-modified PC achieved a higher drug encapsulation rate (93.5±4.3 %) than those using natural PC (82.8±4.2 %). In an in vivo model, both nanoemulsion formulations significantly increased BA absorption, with CLA-modified PC enhancing absorption by 21.3±1.3 times and natural PC by 20±2.3 times compared to the free drug. This suggests that nanoemulsions with modified PC could improve the stability and efficacy of BA in clinical applications.}
+}

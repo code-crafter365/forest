@@ -1,0 +1,13 @@
+@article{PAKKAMGABRIEL2025108796,
+title = {Transverse cracking in non-crimp fabric cross-ply laminate under tension–tension cyclic loading at room and elevated temperature},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108796},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108796},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000909},
+author = {Vivek Richards {Pakkam Gabriel} and Patrik Fernberg and Janis Varna},
+keywords = {Polymer-matrix composites, Transverse cracking, Fatigue, Statistical methods},
+abstract = {The effect of test temperature, maximum stress, and stress-ratio on transverse cracking development in cross-ply laminates subjected to tension–tension cyclic loading was analysed. A two-parameter Weibull distribution model was used to predict transverse cracking, wherein the Weibull scale parameter was assumed to be test temperature and number of cycles dependent. By introducing an equivalent stress in the model, it was possible to account for the effect of the stress ratio in cyclic loading over a range of different loading conditions. To verify the model, tests on temperature resistant cross-ply composites were performed at room temperature and at 150 °C with different stress levels and local 90-layer stress ratios. For both test temperatures, increase in stress level increased the transverse cracking tendency. At 150 °C, despite the lower maximum thermo-mechanical ply-stress level compared to room temperature, transverse cracking tendency was found to be higher.}
+}

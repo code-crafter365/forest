@@ -1,0 +1,13 @@
+@article{YANG2025109019,
+title = {Boosted high-temperature capacitive energy storage in D-A-D type semiconductor/polymer composite via constructing physical cross-linking and electronic trapping},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109019},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109019},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003136},
+author = {Xiwen Yang and Hang Luo and Sheng Chen and Jiajun Peng and Guanghu He and Ru Guo and Dou Zhang},
+keywords = {Semiconductor/polymer composite, Electrostatic capacitor, High-temperature energy storage, Physical crosslinking, Electron trap},
+abstract = {Nowadays, with the development of hybrid electric vehicles, aerospace, underground oil and gas exploration, and other fields, the demand for high-temperature dielectric energy storage equipment has rapidly increased. Although engineering aromatic polymers with high glass transition temperatures (Tg) have been developed, it is extremely urgent to solve the problem of the sharp decline in energy storage performance caused by the exponentially increased leakage current under high temperatures and electric fields. This work incorporates a semiconductor molecule with donor–acceptor-donor configuration (DPP-S) into the PEI matrix to achieve significantly enhanced high-temperature capacitive performance. The dense physical cross-linking networks are formed by the electrostatic interaction between the positively charged phenyl group in PEI and the electron-donating thiophene group in DPP-S, as well as the hydrogen bonding interaction between the amide group in DPP-S and the −C=O group in the PEI chain. This molecular interface effect improves mechanical strength to boost the breakdown strength and introduces trap sites capturing charge carriers to suppress leakage current. Consequently, excellent energy storage performance is achieved in PEI-DPP-S-0.2 wt%, e.g., discharge energy density of 4.87 J cm−3 at 150 °C and 3.45 J cm−3 at 200 °C with high discharge efficiency of 90 %, surpassing lots of high-temperature energy storage polymers. Finally, PEI-DPP-S-0.2 wt% exhibits stable performances during ultralong 105 charge–discharge cycles in harsh environments (200 MV m−1 and 200 °C) and prospects for large-scale preparation. This work further deepens the insight of high-temperature dielectric energy storage enhanced by molecular interface engineering.}
+}

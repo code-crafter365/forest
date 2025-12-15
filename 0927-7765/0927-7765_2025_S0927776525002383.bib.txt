@@ -1,0 +1,11 @@
+@article{TONG2025114731,
+title = {Corrigendum to “Synergistic anti-tumor effect of dual drug co-assembled nanoparticles based on ursolic acid and sorafenib”[Colloid. Surf. B: Biointerfaces 234 (2024), 113724]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114731},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114731},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002383},
+author = {Ling-Wu Tong and Jing-Qing Le and Xun-Huan Song and Cheng-Lei Li and Shi-Jing Yu and Ying-Qi Lin and Yi-Fan Tu and Jing-Wei Shao}
+}

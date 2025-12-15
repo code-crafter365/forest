@@ -1,0 +1,13 @@
+@article{YAN2025119188,
+title = {Homogeneous and functionally graded piezoelectric structure analysis with finite block method},
+journal = {Composite Structures},
+volume = {365},
+pages = {119188},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119188},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003538},
+author = {X.B. Yan and S.M. Liu and P.H. Wen and J. Sladek and V. Sladek},
+keywords = {Piezoelectric structures, Functionally graded materials, Finite block method, Laplace transform, Static and dynamic analysis},
+abstract = {In this paper, the functionally graded structures are investigated by using the partial differential matrix of the finite block method with Lagrange polynomial interpolation. A discrete scheme is proposed first time to solve the two- and three-dimensional piezoelectric coupling problems. The nodal values of the displacements and electric potential are evaluated by solving a set of linear algebraic equations established from the governing equations and boundary conditions of the piezoelectric problems. The dynamic responses of the layered piezoelectric problems are solved either in Laplace transform domain with Durbin’s inverse technique or in time domain Houbolt method. Several numerical examples are given to investigate 2D homogeneous and functionally graded material structures vibration under actuator voltage. In addition, the influence of three kinds of boundary condition on the maximum deflection is also studied in order to control the piezoelectric integrated structure by applying actuator voltage to the upper and lower surfaces of the piezoelectric layer. Three-dimensional static and dynamic analysis in piezoelectric materials are also carried out in this paper. By comparing with both analytical solutions and numerical solutions by COMSOL, the results show high accuracy and convergence.}
+}

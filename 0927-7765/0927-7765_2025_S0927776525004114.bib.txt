@@ -1,0 +1,13 @@
+@article{ZUBERI2025114904,
+title = {Smart liposomal systems for brain cancer: Technological innovations in drug delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114904},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114904},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004114},
+author = {Aruba Zuberi and Urushi Rehman and Garima Gupta and Mohammed Ghazwani and Umme Hani and Prashant Kesharwani},
+keywords = {Liposomes, Glioblastoma, Targeted drug delivery, Blood–brain barrier, Nanocarriers},
+abstract = {Brain cancer, particularly glioblastoma remains one of the most challenging malignancies to treat, largely due to its aggressive nature and the presence of the restrictive blood–brain barrier (BBB). Despite advances in conventional treatments such as surgery, radiotherapy, and chemotherapy, patient outcomes remain poor. This review explores the emerging role of liposomes as nanocarriers for targeted drug delivery in brain cancer therapy. Liposomes, capable of encapsulating both hydrophilic and hydrophobic drugs, offer multiple advantages, including enhanced drug stability, reduced systemic toxicity, and improved BBB penetration. Recent innovations in liposomal design, such as PEGylation and ligand-based targeting using transferrin or folic acid, have enabled more precise delivery to glioma cells. These advancements significantly increase therapeutic efficacy. Furthermore, the development of stimuli-responsive liposomes that release drugs in response to tumor-specific triggers like acidic pH or oxidative stress has shown promise in enhancing treatment outcomes. While preclinical and clinical studies underscore the potential of liposomal systems, challenges such as large-scale manufacturing, immune system clearance, and long-term stability persist. This review highlights key advances in liposome-based drug delivery for brain cancer, emphasizing clinical progress and identifying critical areas for future research. Addressing these challenges may pave the way for liposomal platforms to significantly advance precision oncology in neuro-oncology.}
+}

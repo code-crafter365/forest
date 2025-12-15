@@ -1,0 +1,13 @@
+@article{YANG2025118286,
+title = {Active learning for high-dimensional reliability using matrix-operation anisotropic RBF model embedded with Multiscale Graph Correlation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118286},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118286},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005584},
+author = {Xufeng Yang and Pengzhi Chen and Linyong Chen and Yingying Wei and Wenke Jiang},
+keywords = {Active learning, Anisotropic RBF model, High dimensionality, Matrix operation},
+abstract = {High dimensionality has become a bottleneck problem that hinders the further development of reliability analysis. Active learning methods based on the Radial Basis Function (RBF) models show great potential in addressing high-dimensional reliability analysis challenges. Under the same conditions, the anisotropic RBF (ARBF) model generally achieves higher prediction accuracy compared to the traditional RBF model. However, due to the use of the Mahalanobis distance (MD) to measure the distance between points, ARBF involves a large number of weight parameters to be calibrated. Moreover, computing the MD matrix of large-scale datasets is computationally expensive. To reduce the number of weight parameters in the ARBF model, this paper proposes a stratification strategy for weight assignment. Variables are grouped into layers based on their importance, and variables with similar importance levels are assigned the same weight. To efficiently analyze the importance of variables, the Multiscale Graph Correlation (MGC) method is introduced. Consequently, we propose an ARBF model embedded with MGC (MGC-ARBF). Furthermore, we develop a novel matrix-operation method for MD matrix of large-scale datasets, significantly improving the training and prediction efficiency of the MGC-ARBF model. Finally, by incorporating the active learning mechanism, we propose an active learning method based on the MGC-ARBF model. Six high-dimensional numerical examples and one engineering case study are used to validate the efficiency and accuracy of the proposed method.}
+}

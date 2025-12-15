@@ -1,0 +1,13 @@
+@article{HAYASHI2025114842,
+title = {Site-specific aptamer immobilization via amine-to-thiol cross-linking on field-effect transistor biosensor for cortisol detection},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114842},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114842},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003492},
+author = {Hiroki Hayashi and Akane Ishikawa and Ayaka Osakada and Junichi Uchida and Toshiyuki Momma},
+keywords = {Field-effect transistor, Biosensor, Aptamer, Immobilization, Amine-to-thiol conjugation},
+abstract = {The detection of various biomarkers using field-effect transistor (FET) biosensors is expected to effectively contribute to the promotion of human health. Aptamers, single-stranded DNA molecules, are promising candidates as receptors for FET biosensors, capable of recognizing a wide range of targets from viruses to small-molecule hormones. By immobilizing aptamers on the FET gate surface through terminally modified functional groups, effective changes in surface potential can be induced upon binding to the target molecule. In this study, we investigated a method for immobilizing thiol-terminated aptamers onto surfaces modified with an amine-terminated self-assembled monolayer (SAM) using N-succinimidyl 3-(2-pyridyldithio)propionate (SPDP), a cross-linker for amine-to-thiol conjugation. A terminal immobilization of the aptamer effectively facilitated the capture of the model target, (cortisol; stress hormone) along with an accompanying conformational change of the aptamer. Furthermore, an aptamer-immobilized FET fabricated via disulfide bonding successfully demonstrated specific cortisol detection in the nanomolar range.}
+}

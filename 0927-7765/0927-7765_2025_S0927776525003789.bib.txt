@@ -1,0 +1,13 @@
+@article{ZHAO2025114871,
+title = {Preparation and characterization of crosslinked kudzu porous starch hemostatic},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114871},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114871},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003789},
+author = {Yuanyuan Zhao and Jinnan Guo and Guanqun Peng and Miaomiao Yao and Jicui Wen and Qi He and Runtian Li and Xiaohui Zhu and Zhiyun Meng and Shanshan Wang and Hui Gan and Ruolan Gu and Zhuona Wu and Guifang Dou and Shuchen Liu and Yunbo Sun},
+keywords = {Kudzu porous starch, Cross-linking, Structure characterization, Hemostasis},
+abstract = {Rapid and effective hemostasis is essential for the management of battlefield injuries and traumatic hemorrhages. Among various hemostatic agents, starch-based materials have attracted considerable attention due to their favorable biocompatibility, low immunogenicity, and cost-effectiveness. However, the potential of kudzu starch (KS) as a raw material for hemostatic applications remains underexplored. In this study, porous kudzu starch (PS) was crosslinked with sodium trimetaphosphate (STMP) to synthesize a novel hemostatic agent, STMP/PS (SPS), with enhanced functional performance. The structural and physicochemical properties of SPS were systematically characterized using Fourier-transform infrared (FT-IR) spectroscopy, Brunauer–Emmett–Teller (BET) surface area analysis, and other analytical techniques, confirming successful chemical modification and the formation of a highly porous architecture. SPS exhibited excellent water absorption and dye adsorption capacities. Hemostatic efficacy was evaluated through a series of in vitro and in vivo models, where SPS demonstrated significantly improved performance compared to a commercially available hemostatic product. Mechanistic investigations revealed that SPS facilitates red blood cell aggregation and platelet adhesion, thereby accelerating the coagulation cascade. In addition, biosafety assessments, including cytotoxicity, acute toxicity, and hemolysis assays, confirmed its excellent biocompatibility and low toxicity. These findings underscore the clinical potential of SPS as a rapid, effective, and safe starch-based hemostatic material.}
+}

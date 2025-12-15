@@ -1,0 +1,13 @@
+@article{LI2025118876,
+title = {Deformed shape reconstruction for thin-walled composite aircraft wings with multi-cell closed sections},
+journal = {Composite Structures},
+volume = {356},
+pages = {118876},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118876},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000418},
+author = {Jianle Li and Hanke Li and Hao Yang and TengTeng Li and Liang Sun and Haijun Peng and Hao Xu and Zhanjun Wu},
+keywords = {Shape reconstruction, Strain measurement, Composite wing, Distributed fiber optical sensors, Structural health monitoring},
+abstract = {In this study, a deformed shape reconstruction method was developed for composite wings with multi-cell closed sections. The method is able to reconstruct complex wing deformations and decouple multiple deformation modes accurately by using axial strains measured on structural surface, provided the number of measurement paths equals that of the deformation modes. A generalized formulation for deformation mode decoupling was first established, and the characteristic parameters of the wing cross-section composed of irregular multiple cells were derived and computed numerically. The method was validated numerically using a high-fidelity finite element model of a composite aircraft wing. Complex loading conditions were applied and the influence of different deformation states on the reconstruction errors was analyzed. In particular, optimal measurement positions were screened along the wing section from a vast number of combinations of measurement paths, and the principle of measurement position selection was discussed. Finally, a composite aircraft wing with an actual airfoil was designed and fabricated. Axial strains were densely measured using distributed fiber optical sensors (DFOS), and the reconstruction accuracy was examined by comparing the displacements reconstructed and measured by a motion capture system. The experimental results demonstrated the accuracy and applicability of the proposed method in engineering applications.}
+}

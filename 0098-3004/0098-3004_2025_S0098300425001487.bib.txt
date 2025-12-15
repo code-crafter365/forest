@@ -1,0 +1,22 @@
+@article{LAMAS2025105998,
+title = {Low-code framework for IoT data warehousing and visualization},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105998},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105998},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001487},
+author = {Victor Lamas and Alejandro Cortiñas and Miguel R. Luaces},
+keywords = {Internet of Things, Data warehouse, Geographic information system, Software Product Line, Domain-Specific Language},
+abstract = {Background:
+The Internet of Things has revolutionized data collection in geosciences through extensive sensor networks. However, developing web-based data warehousing systems for IoT data remains costly and complex. While studies address sensor variability and data ingestion architectures, they often overlook the critical data warehouse component needed to manage IoT data volume and variability. Additionally, Model-Driven Engineering techniques have been used to create dashboards for urban activities but lack advanced map-based visualizations, which are essential for geospatial data.
+Objectives:
+This study aims to address the challenges of creating IoT data warehouses for geosciences, encouraging scientists to share sensor data analysis results using a simple, user-friendly, and cost-effective approach.
+Methods:
+The proposed framework integrates (i) a Domain-Specific Language metamodel to define sensors, dimensions, and measurement parameters, (ii) a Software Product Line for IoT data warehouse creation, and (iii) a low-code platform with command-line and web interfaces. The approach was validated through four case studies: meteorological, traffic and air quality, coastal, and oceanic monitoring systems.
+Results:
+The framework enables efficient IoT data warehouse creation with customized spatial, temporal, and attribute aggregation. Case studies demonstrate adaptability across domains, supporting real-time data ingestion, sensor mobility, and advanced visualization.
+Conclusion:
+The study presents a scalable, user-friendly framework for IoT data warehousing in geosciences using SPL and DSL technologies, addressing domain-specific challenges and empowering non-expert users. Future work includes usability assessments and expansion to other domains.}
+}

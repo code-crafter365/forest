@@ -1,0 +1,13 @@
+@article{FAN2025111275,
+title = {Design of thermal conductive porous elastomer via supercritical CO2 foaming-assisted BN alignment},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111275},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111275},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500243X},
+author = {Zuoze Fan and Bo Wang and Yishen Zhao and Ruyun Xu and Lei Zhang and Guangxian Li and Xia Liao},
+keywords = {CO foaming, Layered cell structure, Silicone rubber, BN orientation, Thermally conductive foam},
+abstract = {Development of lightweight thermally conductive polymers can alleviate the overheating issues of batteries and electronic components. Supercritical CO2 (scCO2) foaming technology has the capabilities of both reducing the weight of polymers and constructing thermal conduction pathway. Herein, the layered cell structure induced by scCO2 foaming technology was used to drive the arrangement of boron nitride (BN) in liquid silicone rubber (LSR) foam. Impacts of the layered cell structure on the orientation degree of BN and the thermal conductive pathways were investigated through X-ray diffraction and finite-element simulation. It was found that the cell growth facilitated alignment of BN along the layer direction. Compared with the isotropic distributed BN, aligned BN was more conducive to the formation of thermal conductive pathways and reduced local overheating. For BN/LSR foam with similar volume expansion ratios and cell sizes, the thermal conductivity of the layered composite foam was 141 % that of the uniform composite foam. In comparison to the unfoamed BN/LSR solid, BN/LSR foam with a layered cell structure exhibited faster thermal responsiveness and more excellent compressive cycling performance. The design of layered cell structure proposed in this work provided a new perspective for improving the heat dissipation capacity of foam materials.}
+}

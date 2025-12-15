@@ -1,0 +1,12 @@
+@article{MORYOSSEF2025106897,
+title = {Central-differencing quasi-Newton method for solving the Eikonal equation with application to wall distance computation},
+journal = {Computers & Fluids},
+pages = {106897},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106897},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003573},
+author = {Yair Mor-Yossef},
+keywords = {Quasi-Newton Least-square Unstructured-grid Positive-preserving},
+abstract = {A new implicit method for solving the Eikonal equation on unstructured grids is proposed. The implicit Jacobian is obtained by modifying a direct linearization of the residual. The modified Jacobian is designed to form an M-matrix without the artificial time derivative commonly used. Namely, no artificial time step is involved in solving the Eikonal equation. Moreover, the algorithm guarantees the solution’s positivity and the linearized problem’s convergence. Usually, upwinding is introduced into the algorithm to enhance its stability. However, a second-order, central-differencing method is proposed in the present work for solving the Eikonal equation. It relies on a newly developed weighted least-squares scheme. Common weighting depends on the inverse of the distance between the sought cell and its neighboring cells. The new scheme adds directional weighting. This scheme was found to outperform the common weighted least-squares in terms of solution accuracy. An artificial diffusion term is introduced to smooth the solution. A dynamic smoothing coefficient is developed to control spurious oscillations. It distinguishes between freely propagating and colliding solution fronts. Moreover, they allow for minimizing the artificial diffusion, increasing the solution accuracy, but they keep the algorithm stable. The numerical simulations demonstrated the algorithm’s robustness. It exhibits consistent and rapid residual convergence across various cases involving high aspect-ratio grid elements.}
+}

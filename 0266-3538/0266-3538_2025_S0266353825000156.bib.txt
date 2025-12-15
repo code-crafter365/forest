@@ -1,0 +1,13 @@
+@article{GUO2025111047,
+title = {4D printing of shape memory polymer composites via glass fiber-regulated shape morphing},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111047},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111047},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000156},
+author = {Yongguang Guo and Zhongsen Zhang and Junming Zhang and Xingrui Tong and Yan Li},
+keywords = {Bilayer composites, Shape morphing behavior, 4D printing, Shape memory effect},
+abstract = {Inspired by the shape morphing mechanisms in plants, various configurations have been manufactured to achieve shape morphing in response to external stimuli. To enrich the shape morphing behaviors of fiber reinforced thermoset shape memory polymer composites (SMPCs), a 4D printing method based on shrinkage strain mismatch between bilayer composites, has been developed to transform planar geometries into 3D configurations. The shrinkage strain arises from the volatilization of non-fully-reacted component in a prepolymerization system during the post-thermal curing stage. The magnitude and direction of this strain are regulated by the orientation and content of the filled fibers. Additionally, a finite element model (FEM) incorporating the Mori-Tanaka and Halpin-Tsai models is employed to predict shape morphing behaviors, with results showing good agreement with experiments. This strategy has been proven effective in manufacturing of complex 3D structures, including Miura-ori folding and gripper structures. The shape memory effect of the composites endows both the Miura-ori and gripper with secondary programmability. Furthermore, these two configurations also demonstrate excellent load-bearing capacity and expansive grasping ability, respectively.}
+}

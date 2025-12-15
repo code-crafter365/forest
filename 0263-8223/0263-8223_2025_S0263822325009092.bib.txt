@@ -1,0 +1,13 @@
+@article{KIM2025119744,
+title = {Compliant composite journal bearings for water lubrication: Functional design strategies under misalignment and turbulence},
+journal = {Composite Structures},
+volume = {374},
+pages = {119744},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119744},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325009092},
+author = {Wonvin Kim and Su Hyun Lim and Wonki Kim and Donghyeon Cho and Kiyaranu Putra Pakartiwan and Samuel Kim and Dajeong Kang and Ha Eun Lee and Sangyoon Bae and Seong Su Kim},
+keywords = {Composite journal bearing, Water lubrication, Elastohydrodynamic lubrication, Misalignment, Turbulence},
+abstract = {This study proposes functional design strategies for adapting compliant composite journal bearings to water lubrication, based on elastohydrodynamic lubrication, incorporating the influence of turbulence, bearing compliance, and misalignment. An analytical method for predicting composite bearing deformation was extended to account for misalignment. The proposed approach provided highly accurate predictions with errors within 1% and resulted in a reduction in the computational time by four orders of magnitude compared to conventional finite element simulations. A bisection method-inspired algorithm was developed to identify the maximum of minimum film thickness, enabling accurate determination of optimum design points. The recommended operating regime was narrowed by considering the prevailing effects of turbulence, bearing compliance, and misalignment. An analytical framework was developed to suggest functional design strategies to obtain the design points as functions of key design parameters—namely Reynolds number, deformation coefficient, and misalignment ratio. To characterize the predominance of turbulence, the concept of effective viscosity was introduced. The separation point was defined to indicate the onset of significant misalignment or bearing compliance. Notably, the insensitivity of optimum design points at low misalignment ratios and deformation coefficients was clarified.}
+}

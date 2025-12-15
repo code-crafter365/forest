@@ -1,0 +1,13 @@
+@article{ZIAEE2025118868,
+title = {Flexible copper/nickel carbon composite fabrics as electrodes for wearable PVDF/BaTiO3 composite piezoelectric nanogenerators},
+journal = {Composite Structures},
+volume = {357},
+pages = {118868},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118868},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000339},
+author = {Sara Ziaee and Majid Montazer and Roohollah Bagherzadeh},
+keywords = {Piezoelectric nanogenerator composite, Flexible electrode, Copper and nickel composite carbon fabric, Electroless plating, Carbon fabric},
+abstract = {Advancing wearable electronic devices has led to a demand for flexibility as well as stretchability. This study explores the synthesis of textile-integrated nanogenerators (NGs) primarily emphasizing the surface metallization of carbon fabric through an electroless plating technique. Copper and nickel acetate activation, followed by the deposition of copper and nickel nanoparticles using hydrazine hydrate as a reducing agent, resulted in three distinct samples: copper-, nickel-, and copper-nickel-composite carbon fabrics. To fabricate piezoelectric nanogenerators (PENGs), electrospun nanocomposite fiber sheets containing barium titanate (BaTiO3) nanoparticles and polyvinylidene fluoride (PVDF) were employed. The sample with the lowest electrical resistivity was selected for further analysis. FESEM and XRD confirmed the copper and nickel nanoparticles on the carbon fabric. Additionally, the piezoelectric performance of each PENG sample was measured, and compared with a sample featuring an aluminum electrode. Furthermore, the mechanical and electromagnetic interference shielding (EMI) properties of the samples were investigated. The copper-nickel nanoparticles composite carbon fabric enhances its electrical conductivity by 45.72%. Moreover, the voltage reduction in the piezoelectric nanogenerator using carbon fabric was a mere 11.01% compared to an aluminum foil electrode. These findings mark a significant advancement in integrating conductive composite textiles with wearable NGs.}
+}

@@ -1,0 +1,13 @@
+@article{TEWANI2025108499,
+title = {Arχi-Textile composites: Role of weave architecture on mode-I fracture energy in woven composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108499},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108499},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24004974},
+author = {Hridyesh Tewani and Jackson Cyvas and Kennedy Perez and Pavana Prabhakar},
+keywords = {Woven composites, Tensile properties, Fracture energy, Compact tension, Architected composites},
+abstract = {This paper investigates the impact of weave architectures on the mechanics of crack propagation in fiber-reinforced woven polymer composites under quasi-static loading. Woven composites consist of fabrics/textiles containing fibers interwoven at 0 degrees (warp) and 90 degrees (weft) bound by a polymer matrix. The mechanical properties can be tuned by weaving fiber bundles with single or multiple materials in various patterns or architectures. Although the effects of uniform weave architectures, like plain, twill, satin, etc. on in-plane modulus and fracture energy have been studied, the influence of patterned weaves consisting of a combination of sub-patterns, that is, architected weaves, on these behaviors is not understood. We focus on identifying the mechanisms affecting crack path tortuosity and propagation rate in composites with architected woven textiles containing various sub-patterns, hence, Arχi (ar.kee) -Textile Composites. Through compact tension tests, we determine how architected weave patterns compared to uniform weaves influence mode-I fracture energy of woven composites due to interactions of different failure modes. Results show that fracture energy increases at transition regions between sub-patterns in architected weave composites, with more tortuous crack propagation and higher resistance to crack growth than uniform weave composites. We also introduce three geometrical parameters — transition, area, and skewness factors — to characterize sub-patterns and their effects on in-plane fracture energy. This knowledge can be exploited to design and fabricate safer lightweight structures for marine and aerospace sectors with enhanced damage tolerance under extreme loads.}
+}

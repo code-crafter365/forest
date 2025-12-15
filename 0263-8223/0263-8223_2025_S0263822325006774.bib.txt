@@ -1,0 +1,13 @@
+@article{MA2025119512,
+title = {CFRP-confined rammed earth towards high-performance earth construction},
+journal = {Composite Structures},
+volume = {371},
+pages = {119512},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119512},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006774},
+author = {Jiaming Ma and Hongru Zhang and Vahid Shobeiri and Yuting Zhong and Jianjun Zhang and Yu Bai and Dilan Robert and Yi Min Xie},
+keywords = {CFRP, Rammed earth, Compressive strength, Life cycle costs, Carbon footprints, High performance},
+abstract = {Rammed earth has traditionally been considered as a low-performance construction material. However, advancements in stabilization methods and construction techniques, combined with its inherent sustainability, have renewed interest in its use as a viable and sustainable building material. This study introduces a novel composite system that, for the first time, combines unstabilized rammed earth with carbon fiber-reinforced polymer (CFRP) confinement to significantly enhance the structural performance of rammed earth. The proposed composite system is investigated through axial compression tests with varying confinement thickness, carbon footprint evaluation, and life cycle cost assessment. The results demonstrate significant improvements in compressive strength and ductility, with strength values reaching 22.36 MPa, 64.38 MPa, and 75.68 MPa for 1 mm, 2 mm, and 3 mm CFRP confinements, respectively. Compared to CFRP-confined concrete, CFRP-confined rammed earth offers superior ductility, reduced environmental impact, and enhanced economic viability. Additionally, a predictive model is developed to estimate the strength of the proposed composite. These findings highlight the potential of CFRP-confined rammed earth for high-performance and sustainable earth construction.}
+}

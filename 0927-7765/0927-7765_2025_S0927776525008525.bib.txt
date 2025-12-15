@@ -1,0 +1,13 @@
+@article{WANG2025115345,
+title = {Cascade catalytic nanoreactor based on electronic regulatory engineering and biomimetic mineralization strategy for effectively combat bacterial infection in diabetic wounds},
+journal = {Colloids and Surfaces B: Biointerfaces},
+pages = {115345},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115345},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525008525},
+author = {Xin Wang and Lihua Li and Ke Xu and Xin Li and Bixia Lin and Li Wang},
+keywords = {Cascade catalytic nanoreactor, Photothermal therapy, Chemodynamic therapy, Antibacterial property, Diabetic wound healing},
+abstract = {ABSTRACT
+Rapid healing of diabetic wounds remains a huge challenge owing to high blood glucose, susceptibility to bacterial infection and other complex microenvironment. Herein, we cleverly design a glucose-activated multifunctional integrated cascade catalytic nanoreactor for effective combating bacterial infection in diabetic wounds. As a proof of the concept, prussian blue, Rh nanoparticles, and glucose oxidase constitute an activatable nanoreactor "GPR-2.0", which can be activated by glucose on the surface of infected wounds to enhance peroxidase-mimic activity by regulating local pH and self-supplying H2O2, thereby continuously producing toxic •OH for sterilization. Notably, in this “intelligent” system, GPR-2.0 not only cuts off the energy supply necessary for bacterial survival via starving therapy, but also destroys the antioxidant protection system of the bacteria by depleting glutathione. When the NIR laser is introduced, the photothermal effect of nanoreactor further enhances the POD-mimic activity, thus amplifying the effect of the chemodynamic therapy (CDT). By this innovative multiple-enhanced CDT and multimodal combined modality, the GPR-2.0 nanoreactor demonstrates extraordinary antimicrobial performance in vitro simulation and diabetic wounds healing assays. To our knowledge, this strategy for direct modulation of the local microenvironment is rarely reported in the antimicrobial field, which promises to start an exciting research direction.}
+}

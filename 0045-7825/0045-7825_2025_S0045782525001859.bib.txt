@@ -1,0 +1,13 @@
+@article{WU2025117913,
+title = {Residual stress-constrained space–time topology optimization for multi-axis additive manufacturing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117913},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117913},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001859},
+author = {Kai Wu and Fred {van Keulen} and Jun Wu},
+keywords = {Multi-axis additive manufacturing, Wire arc additive manufacturing, Fabrication sequence optimization, Topology optimization, Residual stress},
+abstract = {Residual stresses and distortions are major barriers to the broader adoption of wire arc additive manufacturing. These issues are coupled and arise due to large thermal gradients and phase transformations during the directed energy deposition process. Mitigating distortions may lead to substantial residual stresses, causing cracks in the fabricated components. In this paper, we propose a novel method to reduce both residual stresses and distortions by optimizing the fabrication sequence. This approach explores the use of non-planar layers, leveraging the increased manufacturing flexibility provided by robotic arms. Additionally, our method allows for the concurrent optimization of the structural layout and corresponding fabrication sequence. We employ the inherent strain method as a simplified process simulation model to predict residual stresses and distortions. Local residual stresses are aggregated using a p-norm function, which is integrated into distortion minimization as a constraint. Through numerical examples, we demonstrate that the optimized non-planar fabrication strategies can effectively reduce both residual stresses and distortions.}
+}

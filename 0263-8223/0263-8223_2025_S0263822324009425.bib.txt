@@ -1,0 +1,13 @@
+@article{WANG2025118814,
+title = {Inverse design of triply periodic minimal surfaces structure based on point cloud generation network},
+journal = {Composite Structures},
+volume = {354},
+pages = {118814},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118814},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009425},
+author = {Yuanlong Wang and Qi Jin and Chenlong Zhang and Siyu Huang and Siyu Li and Guan Zhou and Chunyan Wang and Wanzhong Zhao},
+keywords = {Inverse design, Cellular structure design, Deep learning, Generative adversarial network, Triply periodic minimal surfaces},
+abstract = {Nature-inspired materials, especially those derived from triply periodic minimal surfaces (TPMS), have garnered significant attention in the engineering field due to their unique topological properties. However, their applications are limited by the complexities of the design process. With the development of deep learning in the design of metamaterials, this study aims to address the issue of insufficient datasets related to metamaterials by constructing a point cloud dataset of TPMS cells and their equivalent elastic modulus. This dataset is used to train an improved Warping Generative Adversarial Networks (GAN) to learn the mapping relationship between the equivalent elastic modulus and structure. Subsequently, the generated TPMS cells are reconstructed, and their performance is validated through experiments and relevant evaluation metrics. This approach differs from traditional 2D and 3D dimensionality-reduction inverse design methods, as it allows for the retrieval of structures from the network outputs through simple point cloud reconstruction, thereby avoiding a complex modeling process. The introduced 3D structural inverse design method enables the generation of complex and realistic 3D structures, potentially advancing the development of metamaterials design.}
+}

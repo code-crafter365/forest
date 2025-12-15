@@ -1,0 +1,13 @@
+@article{SENLIN2025119068,
+title = {Impact of delamination on mechanical performance of glass fiber-reinforced composites by experiments and data-driven model},
+journal = {Composite Structures},
+volume = {362},
+pages = {119068},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119068},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002338},
+author = {Zhang Senlin and Wu Zhen and Xu Lingbo},
+keywords = {GFRP composites, Delamination, Three-point bending, Failure mechanism, Artificial neural network},
+abstract = {Delamination is usually induced by the manufacturing process and extreme external loads, which significantly threaten the load-bearing capacity of the structures. To reduce the influence of delamination, it is desired to investigate the influencing mechanism of delamination on the mechanical performance of the composite laminates. To this end, 14 types of glass fiber-reinforced polymers (GFRP) unidirectional composite plates with or without circular delamination are fabricated, in which the delaminations are designed in different diameters and locations along the thickness. Subsequently, the static three-point bending tests are performed, in which the test techniques including high-speed camera, digital image correlation (DIC), scanning electron microscope (SEM), and metallographic microscope are employed to measure the damage behaviors. When delamination is close to the upper surface, the experiments show that the layers between the delamination and the upper surface will occur local buckling with the increase of the delamination scale. Local buckling will accelerate delamination growth, whereas such an issue is scarcely reported in the published literature. In addition, the fiber bridging phenomenon can also be observed, which should be considered in the numerical analysis. Compared to the intact specimen, the bending strengths of the specimens with delamination at the location close to the upper surface are reduced by between 12.22% and 30.46%, while those of the specimens with delamination at the location close to the bottom surface are reduced by between 4.56% and 17.08%. To explore more influences of delamination on bending behaviors, an artificial neural network model (ANNM) has been constructed, which can quickly and accurately predict the bending strength of such structures. Such a method will be employed to investigate the bending strength degradation with different delamination sizes.}
+}

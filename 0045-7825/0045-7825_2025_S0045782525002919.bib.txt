@@ -1,0 +1,13 @@
+@article{MENG2025118019,
+title = {Transient dynamic robust topology optimization methodology for continuum structure under stochastic uncertainties},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118019},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118019},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002919},
+author = {Zeng Meng and Zixuan Tian and Yongxin Gao and Matthias G.R. Faes and Quhao Li},
+keywords = {Robust topology optimization, Transient response, Time-variant robust analysis, Uncertainty, Dynamic compliance},
+abstract = {Time-variant uncertainties are omnipresent in engineering systems. These significantly impact the structural performance. The main challenge in this context is how to handle them in dynamic domain response topology optimization. To tackle this challenge, a new transient dynamic robust topology optimization (TDRTO) method is proposed to optimize the topology of continuous structures. This method comprehensively considers the uncertainties of material property, loading directions, and time-variant stochastic parameters of loading amplitudes. The time-variant performance function is transformed into a set of independent instantaneous performance functions, where the stochastic processes are discretized by using the optimal linear estimation method to simulate the correlations among various time nodes. The mean and standard deviation of the structural compliance are approximated through a Taylor expansion. Moreover, the Hilber-Hughes-Taylor α method is employed to address the structural dynamic problem. The design and stochastic sensitivities are derived by the “discretize-then-differentiate” and the adjoint methods, thereby improving the computational efficiency. Three illustrative cases are tested to validate the efficacy of TDRTO method, which shows its superiority over the traditional robust topology optimization method for dealing with time-variant stochastic uncertainties.}
+}

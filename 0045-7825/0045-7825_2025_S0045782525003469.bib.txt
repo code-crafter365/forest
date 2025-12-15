@@ -1,0 +1,13 @@
+@article{LI2025118074,
+title = {An adaptive cycle jump method for elasto-plastic phase field modeling addressing fatigue crack propagation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118074},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118074},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003469},
+author = {Jiawei Li and Yanan Hu and Ni Ao and Hongchen Miao and Xu Zhang and Guozheng Kang and Qianhua Kan},
+keywords = {Fatigue crack propagation, Phase field, Elasto-plasticity, Cycle jump, Adaptivity},
+abstract = {In recent years, the phase field method has been widely used in the simulation of fatigue crack propagation. However, fine mesh and cyclic simulation cycle by cycle significantly increase the computational cost of phase field simulation, which poses challenges in simulating the entire process of fatigue crack propagation. This paper proposes a cycle jump method considering the effect of plasticity at the crack tip, enabling accelerated simulations of fatigue crack propagation in elasto-plastic materials. In this method, fatigue crack propagation is accelerated through cycle jump prediction of displacement field and phase field variables, while the plastic strain accumulation at the crack tip is considered by the prediction of displacement field variables. An adaptive algorithm is developed to automatically adjust the cycle jump size based on the phase field evolution. The effectiveness of the proposed method is verified by several numerical examples. The results show that the proposed method ensures computational accuracy while significantly enhancing efficiency.}
+}

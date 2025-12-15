@@ -1,0 +1,13 @@
+@article{SREEKUMAR2025119035,
+title = {Physics-informed model order reduction for laminated composites: A Grassmann manifold approach},
+journal = {Composite Structures},
+volume = {361},
+pages = {119035},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119035},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002004},
+author = {Abhilash Sreekumar and Swarup K. Barman},
+keywords = {Grassmann interpolation, Hierarchical model order reduction, Proper orthogonal decomposition, Fiber reinforced laminate composites, Multi-objective optimization, First order shear deformation theory},
+abstract = {This work presents a novel approach to parametric Model Order Reduction for fiber-reinforced laminated composites using First-order Shear Deformation Theory. Hierarchical Proper Orthogonal Decomposition creates local reduced bases for varying layer counts and fiber orientations. To interpolate between these POD subspaces of unequal dimensions, Schubert Variety-inspired Grassmann interpolation with Inverse Distance Weighting is employed. Adaptive grid sampling, incorporating physics-informed and Riemannian distance-driven methods, optimizes accuracy-cost tradeoffs. The methodology is validated through the multi-objective optimization of a C-cut composite plate, achieving significant computational efficiency while maintaining accuracy. This work highlights advancements in parametric Model Order Reduction for composite structures, with applications in material design and structural analysis.}
+}

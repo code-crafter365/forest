@@ -1,0 +1,13 @@
+@article{SUN2025114210,
+title = {Atrazine concentration detection based on NiAl-layer double hydroxides nanosheets synaptic transistor},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114210},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114210},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004697},
+author = {Yanmei Sun and Yufei Wang and Xinru Meng},
+keywords = {NiAl-layer double hydroxide, Transistor, Atrazine sensing, Synaptic plasticity},
+abstract = {A transistor inspired by biological systems, which possesses synaptic and sensing capabilities, has demonstrated significant promise in the field of neuromorphic electronics and sensory systems resembling the human brain. Despite the remarkable advancements in emulating neuromorphic operations, the development of a synaptic FET with a bionic architecture, extended lifespan, minimal energy usage, and marker monitoring capability remains challenging. In this work, a synaptic transistor based on NiAl-layer double hydroxides nanosheets is reported. The synaptic transistor exhibits a significant ratio of on/off current (1.35×107) and possesses a high transconductance value (10.05 mS). The successful emulation included key synaptic characteristics, such as excitatory/inhibitory postsynaptic current, paired-pulse facilitation/depression, short-term plasticity spike amplitude-dependent plasticity, spike timing-dependent plasticity, as well as spike number-dependent plasticity. A consumption of 64.8 pJ per spike was achieved as a result of the efficient carrier transfer pathway facilitated by the nanosheets composed of double hydroxides. In addition, the FET's linear detection region (with a coefficient R2=0.811) encompassed atrazine concentrations ranging from 10 pg/mL to 0.1 μg/mL, thanks to its high surface area and significant transconductance. Therefore, this study presents a potential approach for achieving energy-efficient neuromorphic computing and high-performance synaptic devices.}
+}

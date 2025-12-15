@@ -1,0 +1,13 @@
+@article{SATTARI2025119235,
+title = {Deployment of bistable composite tape springs with non-uniform curvatures},
+journal = {Composite Structures},
+volume = {367},
+pages = {119235},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119235},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004003},
+author = {Mateen Sattari and Jacob G. Daye and Andrew J. Lee},
+keywords = {Deployable, Space structure, Tape spring, Composite, Bistable, Shell},
+abstract = {The uncoiling deployment of bistable composite tape springs with parabolic, elliptical, catenary, and circular cross-sections are investigated. Unlike cylindrical monostable shells, bistable tape springs exhibit a smooth unrolling motion when actuated beyond their strain energy peak dividing the stable coiled and extended equilibrium states. The main contribution by this paper is characterizing the advantages in the deployment behavior of bistable tape springs if their cross-section deviates from the ubiquitous circular profile. The uncoiling deployment of cantilevered tape springs with optimized profiles is initiated with a linear actuator, measured with a motion capture system, and correlated with finite element analysis. The elliptical tape spring is found to uncoil the furthest from the root before exhibiting instability driven self-deployment, but has the shortest self-deployment duration due to releasing the largest amount of strain energy. Having the most energetic deployment is advantageous if boom lengths are to be scaled larger because more mass needs to be translated. The elliptical cross-section is also found to have the best stiffness performance while being most stowed volume efficient. Conversely, the circular tape spring has the slowest self-deployment due to releasing the least amount of strain energy.}
+}

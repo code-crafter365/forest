@@ -1,0 +1,13 @@
+@article{GORGULUARSLAN2025119470,
+title = {Self-supporting robust lattice optimization for material extrusion additive manufacturing},
+journal = {Composite Structures},
+volume = {371},
+pages = {119470},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119470},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500635X},
+author = {Recep M. Gorguluarslan and Yusuf Yamaner},
+keywords = {Lattice structure, Additive manufacturing, Material extrusion, Uncertainty, Robust optimization, Support},
+abstract = {A lattice optimization procedure is proposed that enables the fabrication of self-supporting topologies via additive manufacturing, while accounting for uncertainties introduced during additive manufacturing through a two-step optimization process. The first step is lattice layout optimization, which removes the strut members with near-zero diameters from an initial topology generated using a newly introduced lattice cell configuration for the purpose of supporting each strut. A support algorithm is developed that identifies strut joints requiring support in the optimized topology. The struts removed from the topology are selectively reintroduced at joints where support is needed to ensure self-supporting structure fabrication. Unlike existing lattice optimization procedures that typically account for uncertainties related to material properties or loading conditions, the proposed procedure also incorporates uncertainties in design variables, specifically, the diameters of struts, into a robust optimization process in the second step. Robust optimization is performed using neural networks trained to predict the as-fabricated strut diameters and material properties based on deterministic design variables. The applicability of the proposed procedure was demonstrated for the material extrusion technique using benchmark examples. The optimized designs were fabricated and tested to verify the effectiveness of the proposed procedure in producing self-supporting structures with improved prediction accuracy under fabrication-induced uncertainties.}
+}

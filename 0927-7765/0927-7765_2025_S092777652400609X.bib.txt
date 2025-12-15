@@ -1,0 +1,13 @@
+@article{SUN2025114350,
+title = {Surface-induced self-assembly of peptides turns superhydrophobic surface of electrospun fibrous into superhydrophilic one},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114350},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114350},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400609X},
+author = {Xuan Sun and Han Ren and Yue-Chan Cui and Qian Liu and Jie Li and Jie Gao},
+keywords = {Electrospun PCL fibers, Peptides, Surface-induced self-assembly, Superhydrophilic surface},
+abstract = {Current surface modification strategies for electrospun materials always require covalent conjugation technology, which is relatively inefficient and might damage the bioactivity and structure of peptides and proteins. Here we introduce the use of surface-induced self-assembly technology to modify electrospun materials, which is a simple but efficient noncovalent-based process. Results show that the peptide NapFFGRGD forms burr-like structures on the surface of PCL fibers, reducing the water contact angle of the fibers. Adjusting the peptide sequence and salt concentration affects the self-assembly and surface properties of modified PCL fibers. Additionally, we demonstrate the potential application of this surface modification technique for enhancing cellular responses in tissue engineering applications. The research provides valuable insights into the surface modification of PCL fibers and offers a new method for improving the biological compatibility of materials in tissue engineering.}
+}

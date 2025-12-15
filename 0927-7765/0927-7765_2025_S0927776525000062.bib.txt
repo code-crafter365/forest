@@ -1,0 +1,13 @@
+@article{CHEN2025114499,
+title = {Recent advances in nanotherapy-based treatment of epilepsy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114499},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114499},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000062},
+author = {Peng Chen and Shudong Wang and Heming Zhang and Jian Li},
+keywords = {Epilepsy, Nanomedicine, Blood brain barriers, Targeted delivery, Biocompatibility},
+abstract = {Epilepsy is a complex neurological disorder characterized by recurrent seizures affecting millions of people worldwide. Despite advances in drug therapy, a significant proportion of patients remain resistant to conventional antiepileptic drugs (AEDs) due to challenges such as impermeability of the blood-brain barrier (BBB), multidrug resistance, and multifaceted epileptogenesis. Nanotechnology offers promising strategies to overcome these barriers by enhancing drug delivery across the BBB, improving target specificity and minimizing systemic side effects. This review explores recent advances in different innovative strategies of nanodelivery systems for epilepsy therapy, and we will discuss the design principles, mechanisms of action and therapeutic efficacy of these nanodelivery systems. In addition, we discuss the challenges and limitations that hinder the clinical translation of nanomedicine-based therapies for epilepsy. We emphasize the need for personalized and multidisciplinary approaches as well as the importance of continued research and interdisciplinary collaboration in order to translate these innovative strategies into effective therapies. Ultimately, the use of nanotechnology has the potential to enhance seizure control, reduce the burden of epilepsy, and improve the quality of life of patients affected by this complex neurological disorder. Nanotechnology-based drug delivery systems may usher in a new era of precision medicine for epilepsy treatment.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025111332,
+title = {Absorption-transmission-integrated radome composites: design, modeling, and fabrication},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111332},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111332},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003008},
+author = {Jiaheng Yang and Yongqiang Pang and Jiafu Wang and Yongfeng Li and Huaibin Zheng and Zhuo Xu},
+keywords = {Functional electromagnetic composites, Radar cross-section, Radome composites, Transmission and absorption},
+abstract = {This study presents a novel absorption-transmission-integrated composite (ATIC) that integrates dual-frequency electromagnetic (EM) functions, which is achieved through a multi-layered architecture combining frequency-selective surfaces (FSSs), carbon-based resistive films, and dielectric layers. The composite features a five-layer FSS stack with quartz fiber-reinforced skins and foam cores and is fabricated through vacuum bag pressure molding to ensure structural integrity. By incorporating carbon-based resistive films (with sheet resistance: 300–750 Ω/sq) into miniaturized copper-based FSSs, the ATIC achieves >0.8 absorptivity at 1.7–7 GHz for radar cross-section (RCS) reduction and >0.8 transmittivity at 12–18 GHz for communication signal fidelity. Simulated and experimental results demonstrate that the multi-layered design effectively decouples absorption/transmission mechanisms through structural resonance engineering. The composite maintains angular stability at an incidence angle of 30° in TM polarization, though TE polarization shows minor resonance deviations above 15 GHz. This work advances multifunctional EM composite materials by reconciling the conflicting requirements for EM wave manipulation and offers potential application prospects for stealth radomes.}
+}

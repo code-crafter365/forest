@@ -1,0 +1,13 @@
+@article{DU2025115044,
+title = {Frozen-microneedles with novel cerium dioxide nanocomposites for effective relief of irritant contact dermatitis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115044},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115044},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500551X},
+author = {Shan Du and Xinwei Fu and Xin Luo and Jie Liang and Bo Wang and Bin Wang and Yuejun Kang},
+keywords = {Irritant contact dermatitis, Frozen microneedles, Nanocomposite, Cerium dioxide, ROS scavenging},
+abstract = {Irritant contact dermatitis (ICD), characterized by compromised skin barrier and dysregulated innate immunity, poses significant clinical challenges due to systemic side effects during conventional glucocorticoid-dependent therapies. As a key issue in ICD progression, excessive reactive oxygen species (ROS) cause an increase in the levels of pro-inflammatory factors (IL-6/TNF-α) and the persistent inflammatory microenvironment seriously retarded the recovery of damaged areas of the skin. Herein, we propose a frozen microneedle (FMN)-based delivery system integrating cerium dioxide-chlorophyllin nanocomposites (SSCe NPs) for ICD management. The FMN with SSCe NPs (SSCe-FMN) exhibited superior ROS scavenging efficiency, attributed to the interfacial electron transfer between sodium copper chlorophyllin and Ce³⁺/Ce⁴⁺ redox cycles, which synergistically promotes oxygen vacancy-mediated catalytic ROS decomposition while preventing surface passivation via chlorophyllin chelation. On the murine-based ICD models, SSCe-FMN transdermal delivery achieved notable reduction in inflammatory cytokines (IL-6/TNF-α) within 6 days, accompanied by significantly decreased number of inflammatory cells and mast cells. This work not only demonstrated a novel FMN-enabled ICD therapeutic platform but also attempted to establish a biomimetic antioxidant paradigm leveraging metal-polyphyrin coordination chemistry for treatment of inflammatory skin disorders.}
+}

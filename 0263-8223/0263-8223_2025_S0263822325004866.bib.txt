@@ -1,0 +1,13 @@
+@article{QU2025119321,
+title = {A machine learning model based on GAN-ANN data augmentation for predicting the bond strength of FRP-reinforced concrete under high-temperature conditions},
+journal = {Composite Structures},
+volume = {369},
+pages = {119321},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119321},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004866},
+author = {Hailong Qu and Tianyu Hu and Jiting Qu and Woubishet Zewdu Taffese},
+keywords = {FRP-reinforced concrete, Bond strength, Data augmentation, Generative Adversarial Networks, Machine learning},
+abstract = {Fiber-reinforced polymer (FRP) reinforcement has gained significant attention in civil engineering due to its high strength, lightweight, and corrosion resistance properties. The interfacial bond strength between FRP and concrete, especially under high temperatures, is a critical performance indicator that directly influences structural integrity. Traditional prediction models have limited accuracy due to experimental constraints and the complex interplay of influencing factors. This study proposes a data-driven approach to predict FRP-concrete interfacial bond performance with enhanced accuracy. To address the limited experimental data issue, a novel data augmentation model combining Generative Adversarial Networks (GAN) and Artificial Neural Networks (ANN) was developed. Multiple machine learning models were systematically evaluated through two strategies: “Synthetic + Real Training-Real Testing” and “Real Training-Real Testing,” with SHAP analysis providing valuable insights into feature importance and sensitivity. The research identified 30 % as the optimal augmentation ratio, demonstrating that excessive synthetic data significantly reduces model generalization capability. The proposed GAN-ANN model outperforms existing methods across all evaluation metrics, effectively capturing the original data distribution and improving prediction accuracy and robustness. This approach provides a reliable and practical method for modeling small-sample experimental data in structural engineering applications, with potential implications for improved design guidelines.}
+}

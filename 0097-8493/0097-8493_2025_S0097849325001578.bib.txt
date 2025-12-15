@@ -1,0 +1,13 @@
+@article{DJUREN2025104316,
+title = {Interpolating splines over triangulated surfaces by blending vertex-centric local geometries},
+journal = {Computers & Graphics},
+volume = {131},
+pages = {104316},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104316},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001578},
+author = {Tobias Djuren and Ugo Finnendahl and Maximilian Kohlbrenner and Markus Worchel and Marc Alexa},
+keywords = {Rational interpolation, Splines, Local control},
+abstract = {We investigate the construction of visually smooth spline surfaces that interpolate the vertices of triangulations by blending local patches. Each triangle star carries a locally interpolating surface patch. The patches are only required to interpolate the vertex, whereas in previous methods the patches are often defined per edge, imposing multiple constraints on local approximations. We adopt simple rational blend functions for the triangular domains, that are constructed so that they retain the interpolation and tangent behavior on the patch boundaries. Decoupling local approximation from blending facilitates the exploration of visually pleasing constructions, while controlling the complexity.}
+}

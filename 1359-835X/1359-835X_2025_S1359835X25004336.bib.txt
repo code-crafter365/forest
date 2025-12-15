@@ -1,0 +1,13 @@
+@article{SUN2025109139,
+title = {Ballistic impact response of hybrid carbon/basalt fiber metal laminates under various hybridization and stacking sequences},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109139},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109139},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004336},
+author = {Weifu Sun and Yu Wang and Weifeng Wang},
+keywords = {Hybridization ratios, Ballistic penetration, Carbon/basalt fiber, Energy absorption, Finite element analysis (FEA)},
+abstract = {Fiber hybridization represents a promising strategy to enhancing the ballistic penetration performance of fiber metal laminates (FMLs). In this work, ballistic impact and compression after impact experiments, C-scan technique and finite element analysis are used to investigate the ballistic penetration performance and energy absorption characteristics of titanium based hybrid carbon/basalt fiber metal laminates and optimize the hybridization ratio and stacking sequences. The results indicate that as the basalt fiber content increases, the impact resistance of FMLs is improved with relatively intact final damage morphology. Compared to Ti-C8, the energy absorption ratio and specific energy absorption of Ti-C2B6 have increased by 39.84 % and 36.47 %, respectively. Stacking sequence can affect the overall deformation capacity of FMLs, and more adequate hybridization can enhance the energy absorption of the composite layers. The specific energy absorption ratio of Ti-C4B4-IV has increased by 33.49 % compared to Ti-C4B4-II, while the energy absorption ratio has increased by 31.2 %. With fiber hybridization and adequate stacking, the hybrid FMLs demonstrate good performance in both impact resistance and residual strength. Two ballistic limit prediction theoretical models considering the effects of fiber hybridization and stacking sequences were developed. The ballistic limiting velocities under different working conditions were accurately determined. The ballistic limit velocity is precisely calculated under various operating situations, with a maximum error of 4.6 %. It is evident that our research offers a significant theoretical foundation and experimental reference for the design and development of high-performance FMLs.}
+}

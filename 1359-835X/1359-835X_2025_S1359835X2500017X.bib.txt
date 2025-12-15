@@ -1,0 +1,13 @@
+@article{YU2025108723,
+title = {Syndiotactic 1,2-polybutadiene with regulable viscoelasticity and crystallinity via a steric hindrance strategy for promoting the dynamic mechanical properties of nanocomposites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108723},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108723},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500017X},
+author = {Yao Yu and Shiliang Xu and Yingnan Zhao and Yufan Sun and Heng Liu and Chunyu Zhang and Xuequan Zhang},
+keywords = {A. Polymer-matrix composites, A. Nanocomposites, B. Mechanical properties, B. Microstructures},
+abstract = {Iron-based syndiotactic 1,2-polybutadiene (sPB), a novel semicrystalline elastomer, that can achieve desirable dynamic mechanical properties through programmatical adjustment of its structure–activity relationships. sPB was endowed with controllable viscoelasticity and crystallinity based on the influence of efficient combination of two kinds of alkylaluminiums with different steric hindrances on alternating and continuous insertion of butadiene monomers in syndiotactic 1,2-mode. This resulted in a semicrystalline interpenetrating phase structure advantageous for phase homogeneity and covulcanization within the matrix. Furthermore, sPB with the most suitable performance was applied to green tire tread, and the crystal domains of sPB facilitated filler dispersion and ultimately formed multiple crosslinking networks via synergistic effects. Accordingly, the abrasion resistance of nanocomposites incorporated with sPB increased by 25.2%, wet-skid resistance increased by 12.8%, and rolling resistance decreased by 10.0%. This work could provide a theoretical basis for the effective designable synthesis of polymers to improve the dynamic mechanical properties of nanocomposites.}
+}

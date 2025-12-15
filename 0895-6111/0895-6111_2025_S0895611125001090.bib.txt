@@ -1,0 +1,12 @@
+@article{TANG2025102600,
+title = {Automatic generation and risk stratification of carotid plaque in virtual shear wave elastography using a generative adversarial network},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102600},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102600},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001090},
+author = {Xiangjiang Tang and Luni Zhang and Da He and Bokai Hu and Caixia Jia and Shiyao Gu and Jing Chen and Rong Wu and Sung-Liang Chen},
+abstract = {Shear wave elastography (SWE) is an effective ultrasound imaging technique for assessing carotid plaque vulnerability. However, acquiring SWE images typically requires costly specialized equipment and must be performed by experienced radiologists, which limits its accessibility, especially in remote areas. To address these limitations, we propose a workflow involving two neural networks: a U-Transformer-ConvNeXt model for the segmentation of carotid plaque in B-mode ultrasound images, and a generative adversarial network (GAN)-based model for generating virtual SWE (V-SWE) images, which eliminates the need for physical SWE acquisition. Furthermore, V-SWE can be utilized to compute shear wave velocity (SWV), which is subsequently used for risk level classification. Our dataset comprises 532 patients. The proposed models demonstrate excellent performance: a Dice coefficient of 84.20 % for segmentation, a low Fréchet inception distance score of 56.74 and a high correlation of Y channel of 0.867 ± 0.112 for V-SWE generation, and a classification accuracy of 84.8 % for distinguishing between low- and high-risk levels based on SWV prediction. The strong performance for V-SWE generation is attributed to the sophisticated GAN-based architecture, which integrates a convolutional block attention module, residual blocks, and a combined loss function. Several strategies enhance the automation and classification accuracy of risk level prediction, including segmentation prior to V-SWE generation, pre-training of the generation model, and the SWV computation algorithm. Given that B-mode ultrasound imaging is a widely available and cost-effective technique for carotid plaque screening, our approach has potential for widespread clinical use by employing V-SWE for automated risk level prediction and plaque vulnerability assessment.}
+}

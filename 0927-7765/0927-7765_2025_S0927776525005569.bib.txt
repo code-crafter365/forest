@@ -1,0 +1,13 @@
+@article{HE2025115049,
+title = {A crosslinked poly(vinyl alcohol) core-shell microneedle patch for complete and controlled insulin delivery and sustained hypoglycemic therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115049},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115049},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005569},
+author = {Ye He and Yuxuan Zhang and Kaiyue An and Ruolin Qiu and Xiao Han and Siling Wang and Yikun Gao and Youxi Zhang},
+keywords = {Core-shell, Microneedle, Propelling core, Insulin, Controlled release, Bioavailability},
+abstract = {Complete and controlled drug delivery has long been a key objective in microneedle technology. Here, we designed a novel powder-loaded crosslinked poly(vinyl alcohol) microneedle patch featuring a controlled-release shell and drug-propelling core structure, designed for the complete and controlled high-dose delivery of insulin and sustained hypoglycemic therapy. The direct encapsulation of insulin in solid form significantly enhanced the drug loading capacity, particularly of poorly soluble drugs, and minimized degradation. In vitro release studies demonstrated that the microneedle patch produced a tailored and complete release of insulin, through a collaborative interaction between the propelling core and controlled-release shell. Furthermore, insulin-loaded microneedle patches (approximately 0.1 cm2) maintained normoglycemia in diabetic mice for up to 12 h with exhibited a bioavailability of up to 80.2 %, significantly outperforming conventional polymeric microneedles loaded with insulin. This core-shell microneedle offers a potential solution for the current limitations of microneedles in their fabrication and use, with potential for clinical application.}
+}

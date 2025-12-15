@@ -1,0 +1,13 @@
+@article{YAO2025111240,
+title = {Bioinspired nacre-like CFRP composites with 3D organic mortar networks for synergistic multiscale toughness and impact resistance},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111240},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111240},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002088},
+author = {Songjun Yao and Linsong Tian and Boyuan Feng and Xinyue Zeng and Jinying Xiong and Yunze Gong and Yao Zhang and Luoxin Wang and Wei Huang and Huamin Zhou},
+keywords = {Nacre, Bioinspiration, CFRP, Mechanical properties, Toughening mechanisms},
+abstract = {Overcoming the conflict between strength and toughness is critical for structural materials. Carbon fiber reinforced polymer (CFRP) composites suffer from delamination and fiber breakage upon impacts due to the lack of toughness. Current strategies to improve the fracture resistance of composites mainly focus on interlaminar modification, which may lead to a decrease in strength and stiffness. Inspired by the “brick and mortar” structure in nacre, CFRP with a combination of high stiffness, strength, and toughness through ingenious structural design was developed in the current work. The bioinspired CFRP is composed of continuous carbon fiber layers (bricks) and composite paper layers (mortar) formed by aramid chopped fibers and polyphenylene sulfide (ACFs/PPS) 3D networks. The energy absorption and fracture toughness can be increased by 190.60 % and 165.78 % while retaining the stiffness. Multiscale toughening mechanisms were observed: crack deflection, interlayer slip, and plastic deformation of the 3D organic fiber network at the macroscale; progressive damage of ACFs at the micro- and nanoscale. Therefore, a rare combination of stiffness, strength, and toughness was realized, which also has excellent impact resistance. This 3D organic mortar network design provides a new avenue for fabricating strong, tough, and safe composites for defense, aerospace, and transportation engineering applications.}
+}

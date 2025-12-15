@@ -1,0 +1,13 @@
+@article{FU2025119700,
+title = {Bending bearing behavior of embedded thin-walled steel tube reinforced concrete beams},
+journal = {Composite Structures},
+volume = {373},
+pages = {119700},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119700},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008657},
+author = {Qiang Fu and Xiaopeng Hu and Ditao Niu and Tongwen yang},
+keywords = {Embedded thin-walled steel tube reinforced concrete beam, Flexural behavior, Experimental research, Finite element analysis, Calculation of flexural bearing capacity},
+abstract = {This study integrates the concepts of box girders and composite structures to propose a novel Embedded Thin-walled Steel Tube Reinforced Concrete (ESTRC) beam, which improves the mechanical properties and lightweight characteristics of traditional reinforced concrete (RC) beams. The research uses closed-section thin-walled steel tubes as the core configuration. After welding shear studs, it effectively suppresses interfacial slippage and reduces stress concentration. Experimental results show that compared with RC beams, the self-weight of ESTRC beams is reduced by 15%–18%, the flexural bearing capacity is increased by up to 111.11%, and the ductility coefficient reaches 6.63. Through four-point bending tests and finite element simulations, eight specimens were tested to investigate the influence of the height of the steel tube (ha), wall thickness (tw), and the vertical distance from the bottom of the steel tube to the bottom of the beam (h1) on the beam’s performance. The results indicate that increasing ha, tw, or decreasing h1 can enhance the bearing capacity, but their effects on ductility vary. Based on the experimental data, a two-factor flexural calculation method for ESTRC beams is established, considering the influence of the steel tube buckling reduction coefficient (χ) and the degree of yield, significantly improving the calculation accuracy.}
+}

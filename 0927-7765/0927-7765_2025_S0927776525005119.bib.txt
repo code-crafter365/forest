@@ -1,0 +1,13 @@
+@article{MUKHERJEE2025115004,
+title = {Tailorable and biocompatible collagen-based peptides as distinctive surfactants with micellar self-assembly},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115004},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115004},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005119},
+author = {Smriti Mukherjee and Manaswini Gowtham and Ganeshkumar Yogeswaran and Sonam Jangra and Madivala G. Basavaraj and Vinod K. Aswal and Kanagasabai Balamurugan and Niraikulam Ayyadurai and Ganesh Shanmugam},
+keywords = {Surfactant, Peptide, Micelles, Self-assembly, Collagen},
+abstract = {Surface-active peptides (SAPs) typically mimic conventional surfactants by featuring long non-polar (hydrophobic) peptide tails and short polar (hydrophilic) heads consisting of a single amino acid or short peptide. However, reverse-structure SAPs-with a long hydrophilic tail and short hydrophobic head-remain largely unexplored. If developed, such SAPs could form micelles with a larger hydrophilic area and a smaller hydrophobic core, leading to novel self-assembled structures. We hypothesize that combining the self-assembly potential of an aromatic moiety as a short hydrophobic head with the linear hydrophilic properties of collagen-like peptides containing Glycine-Proline-Hydroxyproline (GPO) repeats can lead to the development of these unique reverse SAPs. These SAPs are expected to form unique self-assembled structures with a larger hydrophilic area and a smaller hydrophobic core, contributing to advancements in colloidal and interface science. To validate this hypothesis, π-system-functionalized collagen-like peptides were designed using (GPO)n (n = 1–5) as extended hydrophilic tails and a fluorenyl aromatic π-system as the hydrophobic head. Biophysical studies evaluated their self-assembly, critical micellar concentration, and surface activity, focusing on stabilization mechanisms driven by aromatic π-π interactions and hydrogen bonding. The SAPs exhibited surface activity and formed micelles at sub-millimolar concentrations. Longer hydrophilic tails resulted in lower CMC values, indicating enhanced self-assembly. The micelles were stabilized by π-π stacking and hydrogen bonding, creating unique self-assembled structures with a larger hydrophilic region and a smaller hydrophobic core. These findings provide new insights into colloids and interface science and open avenues for applying reverse-structure SAPs in drug delivery.}
+}

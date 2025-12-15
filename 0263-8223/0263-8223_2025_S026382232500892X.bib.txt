@@ -1,0 +1,13 @@
+@article{FENG2025119727,
+title = {Hierarchical architecture design enables synergistic thermal conductivity and specific damping in bottom-up engineered composites},
+journal = {Composite Structures},
+volume = {374},
+pages = {119727},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119727},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500892X},
+author = {Haibo Feng and Yuqin Zeng and Li Li},
+keywords = {Hierarchical composite, Aluminum nitride, Specific damping performance, Multiscale, Thermal-mechanical-damping properties},
+abstract = {Hierarchical structure design opens new paths for high-performance composite materials. While aluminum nitride (AlN) particle-doped composites demonstrate advantages in thermal conductivity and high stiffness/strength, the coupling between soft-phase multi-damping sources at different length scales and hard-phase-driven damping activation remains unexplored, limiting their specific damping performance design. This study proposes a multiscale design criterion and a bottom-up strategy for AlN hierarchical composites with high loss modulus. By integrating a vitrimer damping phase containing multiple damping sources with a particle-doped structure exhibiting deformation-driven damping excitation effects, the synergistic interactions across nano-, micro-, and meso-scales are established. Extensive experiments and simulations reveal the specific damping enhancement mechanisms, demonstrating that the AlN-hierarchical composite with multiscale architecture achieves an exceptional room-temperature loss modulus of 921 MPa, overcoming traditional performance trade-offs. This approach enables advanced applications in aerospace and electronics requiring integrated vibration/thermal management.}
+}

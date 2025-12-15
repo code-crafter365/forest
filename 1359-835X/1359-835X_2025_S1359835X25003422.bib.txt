@@ -1,0 +1,13 @@
+@article{BARAKAT2025109048,
+title = {Numerical framework for integrated additive manufacturing-compression molding (AM-CM) of thermoplastic composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109048},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109048},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003422},
+author = {Abdallah Barakat and Berin Šeta and Yalcin Meraki and Segun Isaac Talabi and Komal Chawla and Jon Spangenberg and Vipin Kumar and Ahmed Arabi Hassen and Uday Vaidya},
+keywords = {Additive manufacturing, Compression molding, Polymer processing, Process modeling, Fiber orientation distribution},
+abstract = {Additive manufacturing-compression molding (AM-CM) has emerged as a transformative technology in advanced composite manufacturing. Additive manufacturing (AM) offers high design flexibility and the ability to produce complex geometries with precisely aligned fibers in the preferred orientation. Compression molding (CM) enhances composite materials by providing excellent dimensional stability, reduced porosity, high production rates, and a smooth surface finish. Despite these advantages, extensive integrated analysis is required to optimize processing conditions for improved fiber orientation distribution (FOD) and porosity control. This study develops a comprehensive numerical model to simulate the AM-CM manufacturing process. The model isolates the effects of both the AM and CM phases while also capturing their integration. Additionally, it accounts for heat transfer, temperature-dependent viscosity, and fiber orientation in the extruded fiber-filled polymer, accurately representing material behavior during processing. This approach enables the analysis of interactions between deposited beads of complex strand shapes and their interface regions after full compression. Moreover, the model predicts key parameters such as polymer flowability, fiber orientation, and temperature evolution in AM-CM parts. By optimizing processing conditions, it facilitates a controlled and predictable microstructure.}
+}

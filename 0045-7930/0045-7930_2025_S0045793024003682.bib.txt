@@ -1,0 +1,13 @@
+@article{SINGH2025106537,
+title = {Characterization of atmospheric and wind farm turbulence},
+journal = {Computers & Fluids},
+volume = {289},
+pages = {106537},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106537},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003682},
+author = {Jagdeep Singh and Jahrul M Alam},
+keywords = {Wind farm, SGS-models, Velocity gradient tensor, Atmospheric turbulence},
+abstract = {Developing and assessing subgrid-scale models for characterizing atmospheric and wind farm turbulence is one of the key research areas within the wind energy community. This article presents the interaction of atmospheric and wind farm turbulence using scale-adaptive large-eddy simulation. Atmospheric turbulence has been incorporated by employing the stochastic forcing method to linearized Navier–Stokes equations, which interacted with a staggered cluster of utility-scale 41 wind turbines. The effect of atmospheric turbulence on wind turbine wakes was characterized by comparing scale-adaptive large-eddy simulation results with three reference data obtained from three other subgrid-scale models: Smagorinsky model, Deardorff’s one-equation turbulence kinetic energy model, and dynamic Deardorff model. The results suggest that vortex-stretching and strain skewness can accelerate wake recovery because scale-adaptive large-eddy simulation captured more than 90% of the turbulence kinetic energy, outperforming the other three models. The atmospheric turbulence in a wind farm has been characterized by considering mean vertical profiles, wake recovery, turbulence statistics, wavelet energy spectra, and power production. Finally, the interaction between atmospheric turbulence and wind turbines was evaluated through joint probability distribution of the second and the third invariant of velocity gradient and strain rate tensors and that of vortex-stretching and strain skewness. The results highlight the importance of considering vortex-stretching and strain skewness in turbine design, siting decisions, and wind farm layout optimization.}
+}

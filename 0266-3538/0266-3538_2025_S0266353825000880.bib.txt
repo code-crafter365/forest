@@ -1,0 +1,13 @@
+@article{LIU2025111120,
+title = {Macro/micro synergistic thermal conductivity enhancement in liquid metal-based phase change composites for thermal management in electronic devices},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111120},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111120},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000880},
+author = {Guangyin Liu and Kaixun Shang and Shiqi Chen and Jun Shen},
+keywords = {Liquid metal, Carbon nanotube, Thermal conductivity, Phase change material},
+abstract = {Liquid metals (LM) demonstrate significant potential in thermal management applications for electronic devices due to their high thermal conductivity and phase change heat absorption capabilities. However, when combined with organic flexible substrates to create composite materials, the advantages of high thermal conductivity can be substantially diminished. To address this challenge, this study proposes a macro/micro synergistic thermal conductivity enhancement method. By coating LM particles with carbon nanotubes (CNT), the LM@CNT particles that mimics a "neuron" structure was developed. LM@CNT was combined with silicone rubber (SR) to form the LM@CNT/SR, which exhibits micro-level thermal conductivity enhancement. The integration of LM@CNT in SR establishes a thermal conduction network, resulting in a thermal conductivity of 1.37 W/m/K for the LM@CNT/SR. Inspired by the growth rings in tree trunks, vertically aligned graphene films (VAGF) are ingeniously embedded in the composite material to enhance thermal conductivity at the macro-level. The results show that embedding 0.02 mm thick VAGF can increase thermal conductivity by 8.8 W/m/K, while 0.1 mm thick VAGF can achieve an increase of 24.7 W/m/K. The thermal conductivity of LM@CNT/SR/VAGF has obvious anisotropy. Furthermore, the LM@CNT/SR/VAGF demonstrates excellent stability, with negligible changes in thermal conductivity after nearly 2000 temperature cycles. The methodology proposed in this study for producing high thermal conductivity phase change composite materials employs simple and cost-effective processes, offering a novel framework for the mass production of such composites. This approach shows substantial potential for applications in thermal surge protection and thermal management within electronic devices.}
+}

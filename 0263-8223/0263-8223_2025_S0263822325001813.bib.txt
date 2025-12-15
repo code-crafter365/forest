@@ -1,0 +1,13 @@
+@article{SEKKAL2025119016,
+title = {Multiscale modeling of mechanically recycled glass fiber reinforced polyamide 6 composites accounting for viscoelasticity, viscoplasticity, and anisotropic damage},
+journal = {Composite Structures},
+volume = {361},
+pages = {119016},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119016},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001813},
+author = {S.E. Sekkal and F. Meraghni and G. Chatzigeorgiou and F. Praud and N. Durand},
+keywords = {Mechanically recycled composites, Multiscale nonlinear modeling, Microstructure generation, Compression molding},
+abstract = {Fiber-reinforced thermoplastic composites are valued for their strength-to-weight ratio, cost-effectiveness, and recyclability, highlighting the need for efficient recycling technologies amid environmental concerns. This study addresses these challenges by examining the mechanical response of recycled glass fiber reinforced polyamide 6 composites and modeling their nonlinear, time-dependent behavior under complex loading conditions. Advanced nonlinear constitutive and multiscale models, initially developed for conventional fiber composites, are adapted to capture the stochastic response of recycled materials. These models integrate viscoelasticity, viscoplasticity and damage in the polymer matrix and account for anisotropic damage in the strands, addressing the heterogeneity introduced by the recycling process. A modified random sequential adsorption technique replicates the microstructures for nonlinear response modeling. Hypotheses based on microstructural investigations consider processing effects that disrupt the initial chip woven structure and create matrix-rich areas. The model captures anisotropy and variability observed in experimental data, providing a reliable framework for predicting the performance of recycled thermoplastic composites and improving the understanding of the relationship between microstructure and mechanical properties, with a focus on inelastic nonlinear behavior.}
+}

@@ -1,0 +1,13 @@
+@article{ZHENG2025114541,
+title = {A CRISPR/Cas12a-based colorimetric AuNPs biosensor for naked-eye detection of pathogenic bacteria in clinical samples},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114541},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114541},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000487},
+author = {Laibao Zheng and Chaochuan Zheng and Weiwei Wang and Fuyuan Huang and Yelin Jiang and Jiahai Lu and Yongliang Lou},
+keywords = {Naked-Eye Detection, Gold Nanoparticles (AuNPs), CRISPR/Cas12a, Colorimetric Biosensor, Pathogenic Bacteria},
+abstract = {Pathogenic bacteria, such as Pseudomonas aeruginosa, pose significant threats to public health due to their multidrug resistance and association with severe infections. Rapid and reliable detection methods are crucial for timely treatment and effective infection control, especially in resource-limited settings. In this study, we developed a CRISPR/Cas12a-based colorimetric biosensor that leverages Cas12a’s trans-cleavage activity to release left single-stranded DNA (lDNA). The released lDNA facilitates hybridization with clDNA-functionalized gold nanoparticles (AuNPs), resulting in a visible color change. The biosensor achieved a detection limit of 100 CFU/reaction for P. aeruginosa within 2 hours, with excellent specificity and robustness, as validated in spiked sputum and blood samples. Clinical testing using 32 blood samples (13 positive, 19 negative) confirmed its high diagnostic accuracy, achieving an AUC of 1 in ROC curve analysis. The platform’s simplicity, robustness, and programmability suggest its broad potential for rapid infectious disease diagnostics, particularly in low-resource settings.}
+}

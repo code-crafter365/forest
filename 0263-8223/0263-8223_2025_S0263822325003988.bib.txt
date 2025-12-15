@@ -1,0 +1,13 @@
+@article{WANG2025119233,
+title = {Nonlinear vibration suppression of complex boundary multimodal rigid-flexible coupled irregular-shaped composite thin-walled panel},
+journal = {Composite Structures},
+volume = {367},
+pages = {119233},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119233},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003988},
+author = {Zhi-Jian Wang and Jian Zang and Yang Li and Zhen Zhang and Xu-Yuan Song and Ye-Wei Zhang and Li-Qun Chen},
+keywords = {Thin-walled panel, Multimodal dynamic analysis, Rigid-flexible coupled, Boundary-splitting Rayleigh-Ritz method, Enhanced vibration-suppression design, Nonlinear phenomenon validation},
+abstract = {This paper presents a passive nonlinear control scheme for instrument-equipped aerospace composite laminated thin-walled panels using nickel-titanium shape memory alloy wires. Higher-order dynamic analysis is performed on rigid-flexible coupled structures, examining vibration modes under irregular boundary conditions. The equations are decoupled to derive analytical solutions for multimodal nonlinear vibration suppression. An experimental platform is developed for specimen fabrication, modal testing, and vibration suppression. Results confirm broadband nonlinear damping under variable temperatures and multidirectional excitations. A novel method utilizing fast-slow and dwell sweeps is introduced to characterize the structure’s nonlinear dynamic behavior. Findings indicate that increased external excitation leads to more evident nonlinear hardening effects in the panel, while the passive control strategy effectively mitigates nonlinear resonance amplitude. This study confirms Nitinol-SMA’s capability to suppress complex nonlinear vibrations and highlights its potential for future aerospace applications.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025119176,
+title = {Stress-related multi-material structures topology optimization with gradient interfaces},
+journal = {Composite Structures},
+volume = {365},
+pages = {119176},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119176},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003411},
+author = {Xiaomei Huang and Yun Chen and Liang Hou and Congmin Miao and Yuan Li},
+keywords = {Gradient interface, Multi-material topology optimization, Multi-gradient material, SIMP},
+abstract = {Aerospace components, such as turbine disks, endure complex loads and extreme thermal conditions. Stress-related multi-material topology optimization (MMTO) allows for the superior performance design of these components. Additionally, most studies on MMTO focus on continuous or single-gradient interfaces, multi-gradient design remains largely unexplored. This study proposes a stress minimization topology optimization method for multi-material structures with gradient interfaces. A multi-gradient material interpolation is established based on the standard solid isotropic material with penalization (SIMP) method and piecewise Heaviside projection, and the quantity and properties of gradient materials are defined by the gradient ratios of parent materials. Notably, the proposed method requires only a single set of density variables. The global stress is evaluated using the p-norm function, and element sensitivity is calculated with the adjoint method. Design variables are filtered. Turbine disk and L-bracket examples are presented to validate the effectiveness of the proposed approach. The results demonstrate that multi-material structures with gradient interfaces can be effectively described and optimized. The quantity and mechanical properties of gradient materials can be precisely defined. The maximum stress in single-gradient and double-gradient structures is lower than that in non-gradient structures, indicating that topology design with gradient interfaces enhances structural strength. The proposed method effectively reduces the stress level by distributing multi-gradient materials across multi-material interfaces.}
+}

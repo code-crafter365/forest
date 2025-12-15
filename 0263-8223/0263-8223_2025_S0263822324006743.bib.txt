@@ -1,0 +1,13 @@
+@article{MEEMARY2025118546,
+title = {Sensors integration for structural health monitoring in composite pressure vessels: A review},
+journal = {Composite Structures},
+volume = {351},
+pages = {118546},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118546},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006743},
+author = {Bilal Meemary and Dmytro Vasiukov and Mylène Deléglise-Lagardère and Salim Chaki},
+keywords = {Composite pressure vessels, Filament winding process, Structural health monitoring, Embedded sensors, Composite degradation},
+abstract = {Filament-wound Composite Pressure Vessels (CPVs) are employed largely for gas or fluid storage under pressure in aerospace, automotive and naval industries. Composite vessels are subjected to harsh conditions such as critical loadings, extreme temperatures, and bursting; therefore, a permanent in-situ and online monitoring approach for the structural integrity of the vessels is essential. Hence, this review paper focuses on the description of the most trending used sensors such as piezoelectric (PZT and PVDF), piezoresistive (BP and MXene) and fiber optic (SOFO®, OBR and FBG) sensors, for developing a Structural Health Monitoring (SHM) approach to create self-sensing composite pressure vessels. The novelty of this review paper lies in providing an overview of existing works covering the integration of sensors in composite vessels, including sensor types, localization, and their impact on composite integrity. Particularly, an analysis of the literature is provided concerning the sensor’s integration and especially their monitored parameters, layout design and arrangement in CPVs. Additionally, the interaction between the host composite material and sensors is analyzed to understand how to integrate sensors with the minimum possible defects that alter the mechanical performance of composite vessels. Lastly, a discussion of a CPV’s SHM system is provided to offer researchers a foundation for upcoming experimental work.}
+}

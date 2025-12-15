@@ -1,0 +1,13 @@
+@article{DU2025109171,
+title = {The influence of TiN coatings on the microstructure and mechanical properties of continuous titanium fiber-reinforced aluminum matrix composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109171},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109171},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004658},
+author = {Tingting Du and Pengchao Kang and Zengyan Wei and Hongjun Ma and Longtao Jiang and Gaohui Wu},
+keywords = {Interface optimization, PVD coating, Ti@TiN/5056Al composites, Mechanical properties, Failure mechanism},
+abstract = {Continuous titanium fiber-reinforced aluminum matrix (Tif/Al) composites exhibit promising application prospects in the aerospace industry due to their excellent mechanical properties. Yet severe interfacial reactions hinder performance. In this study, titanium fiber-reinforced 5056Al matrix composites (Tif/5056Al) were fabricated using the pressure infiltration method. To suppress the formation of brittle phases at the interface between Ti fibers and the Al matrix, a titanium nitride (TiN) coating was deposited on the Ti fiber surface via physical vapor deposition (PVD). The results demonstrate that by controlling the PVD deposition time, a stable and structurally simple interface composed of Ti/TiN/Al was successfully constructed. Among the samples, the Tif/5056Al composite with a PVD-30 min TiN coating exhibited the optimal performance, achieving tensile and flexural strengths of 368.9 ± 13.1 MPa and 542.8 ± 15.0 MPa, respectively, representing improvements of 9.2 % and 13.0 % compared to the uncoated composite. A moderate interfacial bonding strength (198.5 ± 12.5 MPa) effectively increased the crack propagation path and improved the material’s deformation behavior. However, when the deposition time extended to 120 min, the excessively thick TiN coating tended to delaminate, causing premature cracking in the interfacial region during the initial loading stage and significantly degrading the mechanical properties of the composite.}
+}

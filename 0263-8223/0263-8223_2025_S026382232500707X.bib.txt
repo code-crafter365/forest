@@ -1,0 +1,13 @@
+@article{GUNST2025119542,
+title = {Leveraging machine learning to quantify the effect of porosity on mode I delamination in ceramic matrix composites},
+journal = {Composite Structures},
+volume = {372},
+pages = {119542},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119542},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500707X},
+author = {Joseph Gunst and Ehsan Vaghefi and Elham Mirkoohi and Gopikrishna Deshpande and Barton Prorok and Suhasini Gururaja},
+keywords = {Ceramic matrix composites (CMCs), Double cantilever beam (DCB), Porosity, Finite element analysis (FEA), Cohesive zone modeling (CZM), Machine learning (ML)},
+abstract = {This work examines the effect of pores on mode I delamination in plain woven ceramic matrix composite (CMC) in the presence of process-induced porosity under a double cantilever beam (DCB) test. A cohesive zone modeling (CZM) approach within a finite element (FE) numerical framework has been used to simulate mode I crack growth. Pore distributions along the crack path have been explicitly modeled at varying porosities between 10%–30%, varying pore geometry, orientation, and location. A Monte Carlo simulation approach has been used to generate reaction load-displacement plots and resistance curves (R-curves) for the stochastic porous distribution within the FE-CZM numerical approach. A subset of the FE-CZM results is used to train a long-short-term memory (LSTM) machine learning (ML) model that considers the pore parameters as variables. The trained ML model is then used to predict reaction load-displacement plots for the remaining porous microstructures, yielding a fairly good match with a considerable speed up in run time. In addition to rapidly predicting material behavior when given a specific pore distribution, the ML model quantifies the impact of different pore parameters, such as size and location, on mode I delamination behavior in woven CMCs.}
+}

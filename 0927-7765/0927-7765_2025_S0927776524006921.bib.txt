@@ -1,0 +1,13 @@
+@article{SHI2025114433,
+title = {Injectable doxorubicin-loaded hyaluronic acid-based hydrogel for locoregional therapy and inhibiting metastasis of breast cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114433},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114433},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006921},
+author = {Yongli Shi and Huiqing Zhu and Suyue Xu and Jingya Zhao and Yuxin Wang and Xiaofei Pan and Bingqian Zhao and Zeyu Sun and Yili Yin and Linyin Xu and Fengjiao Wei and Sisi He and Xueyan Hou and Jintao Xue},
+keywords = {Hyaluronic acid, Thermo-sensitive hydrogel, Locoregional therapy, Breast cancer, Metastasis},
+abstract = {Therapy and metastasis pose significant challenges for breast cancer therapy. Locoregional chemotherapy presents a promising strategy to address these dilemmas. In this study, a doxorubicin-loaded injectable hydrogel based on hyaluronic acid (DOX-MCHAgel) was fabricated for locoregional chemotherapy and inhibiting the metastasis of breast cancer. The high bio-safety of cargo-free hydrogels (MCHAgel) would enhance patient compliance. The sustained DOX release behaviors from DOX-MCHAgel (over 10 days) could reduce dosing frequency and achieve long-term therapeutic effects. The potent in vivo anti-tumor activity of DOX-MCHAgel was verified by the smallest tumor volumes, the largest number of apoptotic cells, and the strongest fluorescence intensity in TUNEL sections. Notably, the injectable DOX-MCHAgel not only greatly suppressed the growth of 4T1 tumor tissues, but also effectively curbed the liver and lung metastasis in vivo. Moreover, the survival of 4T1-tumor bearing mice was extended without obvious systemic toxicity. In brief, the novel injectable hydrogel developed in this study offers a new strategy for locoregional therapy and inhibiting metastasis of breast cancer.}
+}

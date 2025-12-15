@@ -1,0 +1,13 @@
+@article{BASSO2025114253,
+title = {Old drugs, new tricks: Delivering pitavastatin-loaded nanostructured lipid carriers for glioblastoma treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114253},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114253},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005125},
+author = {João Basso and Ana Fortuna and Rui Vitorino and Carla Vitorino},
+keywords = {Pitavastatin, Glioblastoma, Nanostructured lipid carriers, Molecular docking, Quality by design},
+abstract = {Glioblastoma (GB) is the most common and lethal primary form of malignant brain cancers. Its intrinsic aggressiveness and the blood-brain barrier (BBB) are two major factors that limit the efficacy of standard therapies. In recent years, nanostructured lipid carriers (NLCs) have established themselves as a promising avenue for improving drug delivery to the brain, overcoming the challenges associated with the low drug permeability of the BBB. This work delves into the systematic development of a novel carrier for pitavastatin delivery by establishing a “get it right at the first time” quality by design perspective, supported by multivariate analysis, computational modelling, and molecular docking. The manufacturing process was comprehensively evaluated at each step, from raw material selection to NLC purification, thus leading to a carrier with optimal colloidal, encapsulation and stability properties. The cytotoxic behaviour of the carrier was assessed in a panel of GB cell lines, which includes a low, a medium and a highly sensitive cell line to pitavastatin, providing a better discriminatory power and addressing the different potential in the therapeutic responses. The results obtained reflect a strong antiglioblastoma activity in concentrations where the standard of care lacks activity, as well as a swift and prominent internalization by GB cells. Overall, this work positions these long-term stable parenteral systems in line with the hypothesis of providing more effective surrogate therapeutics in the field of GB.}
+}

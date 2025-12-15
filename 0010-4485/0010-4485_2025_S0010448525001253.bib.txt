@@ -1,0 +1,13 @@
+@article{THACHER2025103964,
+title = {Optimization of a Triangular Delaunay Mesh Generator using Reinforcement Learning},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103964},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103964},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001253},
+author = {Will Thacher and Yulong Pan and Per-Olof Persson},
+keywords = {Mesh generation, Delaunay triangulation, Reinforcement learning},
+abstract = {In this work we introduce a triangular Delaunay mesh generator that can be trained using reinforcement learning to maximize a given mesh quality metric. Our mesh generator consists of a graph neural network that distributes and modifies vertices, and a standard Delaunay algorithm to triangulate the vertices. We explore various design choices and evaluate our mesh generator on diverse tasks including mesh generation, mesh improvement, and producing variable resolution meshes. The learned mesh generator outputs meshes that are comparable in quality to those produced by Triangle and DistMesh, two popular Delaunay-based mesh generators.}
+}

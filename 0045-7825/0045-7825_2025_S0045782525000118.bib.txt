@@ -1,0 +1,13 @@
+@article{GONZALEZALBUIXECH2025117739,
+title = {Analysis of stress intensity factor oscillations in 3D cracks using domain integrals and the extended finite element method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117739},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117739},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000118},
+author = {Vicente F. González-Albuixech and Eugenio Giner and Anthony Gravouil},
+keywords = {XFEM, SIF, Oscillations of SIF solution, Domain integrals},
+abstract = {Fracture-related failure of structural integrity can be evaluated using stress intensity factors (SIFs), and complex fractured geometries can be modeled using the extended finite element method (XFEM). Typically, domain integrals — especially J-integrals and interaction integrals — are used to compute SIFs. Although these integrals produce accurate estimates with the finite element method, they exhibit oscillations in the finite element support mesh when using XFEM due to their sensitivity to various topological relationships between the enrichment zone, domain definition and mesh. These oscillations can jeopardize accuracy, stability, and robustness of XFEM, influencing the convergence rate of SIFs. The domain integration solution has already undergone several changes to reduce these impacts, but no comparison or consideration of topological influence has been made. Here, we study some of the elements that lead to the unwanted behavior observed in various domain integration definitions, which incorporate corrections for curved and nonplanar cracks in examples with relatively coarse meshes. Consequently, various methodological limitations are discussed along with recommendations and suggestions.}
+}

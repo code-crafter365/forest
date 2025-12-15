@@ -1,0 +1,13 @@
+@article{ZHANG2025118962,
+title = {Kresling origami structure: Mechanical and aerodynamic drag characteristics},
+journal = {Composite Structures},
+volume = {357},
+pages = {118962},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118962},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001278},
+author = {Ji Zhang and Shuai Liu and Tianyu Gao and Changguo Wang},
+keywords = {Kresling origami, Finite particle method, Mechanical properties, Non-reciprocity, Aerodynamic drag},
+abstract = {This study explores the design and application of Kresling origami structures for efficient one-way airflow control in intelligent ventilation and air flow regulation. The mechanical properties of the Kresling origami structure were examined using the finite particle analysis and the finite element method. The Kresling origami configuration of shape memory polymer was fabricated using 3D printing technology, followed by the execution of mechanical experiments, and the finite element analysis results were juxtaposed with experimental data to elucidate the mechanism. Then, the analysis of the flow field characteristics of the Kresling origami structure includes examination of the drag force properties of both single cell and array structures. The comparison shows that array structures offer better flow resistance than single-cell configurations. Additionally, the impact of the ventilation mechanism and double-layer structure on the drag force is investigated. Results indicate that Kresling origami structures exhibit varying drag force properties depending on folding states and wind direction, enabling efficient airflow regulation. The integration of non-reciprocal structures with double-layer Kresling origami is examined, demonstrating the potential of origami structures in intelligent ventilation, offering valuable insights for their application in fluid mechanics.}
+}

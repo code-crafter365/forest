@@ -1,0 +1,13 @@
+@article{TANG2025114199,
+title = {3D chitosan scaffolds loaded with ZnO nanoparticles for bone tissue engineering},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114199},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114199},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004582},
+author = {Wenmin Tang and Peng Pan and Tiantian Chen and Jian Wang and Xiangnan Cui and Wentao Liu and Liang Kan},
+keywords = {Zinc oxide nanoparticles, Chitosan, Tissue engineering scaffold, Bone repair},
+abstract = {Bone defect has always been a difficult problem in clinical work. According to the current research results, tissue engineered scaffolds with a single function, structure, and composition are not sufficient to repair complex bone defects. In this work, a three-dimensional (3D) chitosan degradable composite scaffold loaded with zinc oxide (ZnO) was constructed, and the effect of ZnO content on scaffold performance and osteogenesis was explored. The 3D composite scaffold was prepared by freeze-drying technology. The microstructure, porosity, degradation performance, release performance, swelling performance, cytotoxicity, cell adhesion and osteogenic ability of ZnO nanoparticles and chitosan (ZnONPs/CS) composite scaffolds were measured. The results show that an appropriate amount of ZnO may be helpful to regulate the stability and degradation characteristics of the scaffold to a certain extent. Moreover, the composite scaffold could release ZnO into the simulated body fluid environment. The appropriate amount of ZnO helps to promote the proliferation, adhesion, and osteogenic differentiation of MC3T3-E1 cells. At a ZnO content of 3 wt%, both in vitro and vivo results showed relatively optimal biocompatibility and bioactivity of the scaffolds. This work could at least provide some positive insights for the selection of ZnO dosage, construction of chitosan-based 3D scaffolds, tissue engineering applications, and clinical treatment.}
+}

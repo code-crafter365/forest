@@ -1,0 +1,13 @@
+@article{BERARDI2025117628,
+title = {Inverse Physics-Informed Neural Networks for transport models in porous materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117628},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117628},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400882X},
+author = {Marco Berardi and Fabio V. Difonzo and Matteo Icardi},
+keywords = {Physics-informed neural networks, Porous material, Mobile–immobile model, Inverse problems, Transport in porous media},
+abstract = {Physics-Informed Neural Networks (PINN) are a machine learning tool that can be used to solve direct and inverse problems related to models described by Partial Differential Equations by including in the cost function to minimise during training the residual of the differential operator. This paper proposes an adaptive inverse PINN applied to different transport models, from diffusion to advection–diffusion–reaction, and mobile–immobile transport models for porous materials. Once a suitable PINN is established to solve the forward problem, the transport parameters are added as trainable parameters and the reference data is added to the cost function. We find that, for the inverse problem to converge to the correct solution, the different components of the loss function (data misfit, initial conditions, boundary conditions and residual of the transport equation) need to be weighted adaptively as a function of the training iteration (epoch). Similarly, gradients of trainable parameters are scaled at each epoch accordingly. Several examples are presented for different test cases to support our PINN architecture and its scalability and robustness.}
+}

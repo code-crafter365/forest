@@ -1,0 +1,13 @@
+@article{ZHU2025105743,
+title = {SwinInver: 3D data-driven seismic impedance inversion based on Swin Transformer and adversarial training},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105743},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105743},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002267},
+author = {Xinyuan Zhu and Kewen Li and Zhixuan Yang and Zhaohui Li},
+keywords = {Seismic impedance inversion, 3D data-driven, Adversarial training, Global information modeling, Swin Transformer},
+abstract = {As deep learning becomes increasingly prevalent in seismic impedance inversion, 3D data-driven approaches have garnered substantial interest. However, two critical challenges persist. First, existing methodologies predominantly rely on Convolutional Neural Networks (CNNs), which, due to the inherent locality of convolutional operations, are inadequate in capturing the global context of seismic data. This limitation notably hinders their performance in inverting complex subsurface structures, such as salt bodies. Second, the current inversion frameworks are prone to overfitting, particularly when trained on limited seismic datasets. To address these challenges, we propose SwinInver, a novel backbone network that integrates the Swin Transformer as its fundamental unit, coupled with a high-resolution network design to facilitate comprehensive global modeling of intricate subsurface structures. Furthermore, we incorporate adversarial training to enhance the inversion process and effectively mitigate overfitting. Experimental evaluations demonstrate that SwinInver significantly surpasses conventional CNN-based approaches in both synthetic and field data scenarios, providing a more accurate and reliable framework for seismic impedance inversion.}
+}

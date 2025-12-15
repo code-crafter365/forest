@@ -1,0 +1,13 @@
+@article{TIAN2025102564,
+title = {Bi-VesTreeFormer: A bidirectional topology-aware transformer framework for coronary vFFR estimation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102564},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102564},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000734},
+author = {Congyu Tian and Zehua Liu and Linyuan Wang and Liang Shao and Yongzhi Deng and Xiangyun Liao and Weixin Si},
+keywords = {Coronary artery stenosis, Virtual fractional flow reserve, Contextual correlation, Bidirectional topology-aware transformer},
+abstract = {Fractional Flow Reserve (FFR) serves as the gold standard for evaluating the functional significance of coronary artery stenosis. However, traditional FFR involves the injection of vasodilator drugs and the utilization of additional guidewires, which consequently can lead to patient risks and increased costs. Computational fluid dynamics-based approaches can enable non-invasive virtual FFR (vFFR) estimation, but they are computationally intensive and time-consuming. Although deep learning can remarkably enhance computational efficiency, the existing vFFR methods rely heavily on manually crafted features and face difficulties in capturing long-distance dependencies within the vessel structure. In this study, we propose a novel framework for estimating coronary vFFR, which circumvents the laborious preprocessing procedures of previous methods. Specifically, a novel bidirectional topology-aware transformer network (Bi-VesTreeFormer) is proposed to conduct fully automated topological stenotic feature extraction of the vessel tree and capture the global dependencies among branches. Additionally, a contextual vFFR decoder is introduced to establish the correlation of FFR values between adjacent branches and achieve a stable mapping of FFR values to the latent vector space. To validate and train our method, we gathered FFR data from 43 patients with coronary artery stenosis and simulated 15,000 coronary artery centerline data with a reduced-order hemodynamic model. The results show that the proposed method attains root mean square errors of 0.038 and 0.048 for simulated and real data respectively, surpassing the state-of-the-art methods.}
+}

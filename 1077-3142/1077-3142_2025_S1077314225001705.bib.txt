@@ -1,0 +1,13 @@
+@article{SHUMITSKAYA2025104447,
+title = {Stochastic BIQA: Median randomized smoothing for certified blind image quality assessment},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104447},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104447},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001705},
+author = {Ekaterina Shumitskaya and Mikhail Pautov and Dmitriy Vatolin and Anastasia Antsiferova},
+keywords = {Image quality, Adversarial attack, Certified defense, Randomizes smoothing, Median smoothing},
+abstract = {Most modern No-Reference Image-Quality Assessment (NR-IQA) metrics are based on neural networks vulnerable to adversarial attacks. Although some empirical defenses for IQA metrics were proposed, they do not provide theoretical guarantees and may be vulnerable to adaptive attacks. This work focuses on developing a provably robust no-reference IQA metric. The proposed DMS-IQA method is based on randomized Median Smoothing combined with an additional convolution denoiser with ranking loss to improve the SROCC and PLCC scores of the defended IQA metric. We theoretically show that the output of the defended IQA metric changes by no more than a predefined delta for all input perturbations bounded by a given l2 norm. Compared with two prior methods on three datasets, our method exhibited superior SROCC and PLCC scores while maintaining comparable certified guarantees. We also experimentally demonstrate that embedding the DMS-IQA defended quality metric into the training of image processing algorithms can yield benefits, but it requires extra computational resources. We made the code available on GitHub.}
+}

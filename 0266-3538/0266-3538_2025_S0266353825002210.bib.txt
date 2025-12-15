@@ -1,0 +1,14 @@
+@article{LI2025111253,
+title = {Study on mechanical properties degradation of CFRP under laser irradiation},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111253},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111253},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002210},
+author = {Mingzhe Li and Xinyu Jia and Lihong Gao and Zhuang Ma and Jiawei Wang},
+keywords = {Laser irradiation, Property degradation, Tensile strength, Fracture behavior, Thermo-mechanical coupling},
+abstract = {Abstract
+With the continuous development of laser technology, carbon fiber reinforced polymer (CFRP) used as structural materials for components may increasingly be exposed to the risk of laser irradiation. This study systematically studies the mechanical properties degradation of CFRP under different laser conditions, focusing on its tensile properties and fracture behavior. The research initially investigates the influence of laser irradiation under varying irradiation times, power densities, and coverage areas on the degradation of tensile strength and modulus in CFRP. Utilizing digital image correlation (DIC) technology and fracture morphology analysis, the study delves into the gradual damage process and failure mechanisms of CFRP during loading. Furthermore, a thermo-mechanical coupled numerical model of CFRP is established to explore the degradation of mechanical properties under laser irradiation, effectively capturing the stress-strain variation patterns of both the resin and fiber phases within the CFRP. The results show that the residual strength of CFRP decreases significantly with increasing laser irradiation time, while the trend of residual modulus is not obvious. However, both strength and modulus decrease significantly with increasing laser power density. When laser irradiation and mechanical loading are applied simultaneously, the failure time of CFRP is significantly reduced. Under laser irradiation at 350 W/cm2, CFRP with 20–30 % preload tensile strength fails in just 0.6–0.8 s. This study provides valuable insights and theoretical support to enhance the safety of CFRP in high-intensity laser environments.}
+}

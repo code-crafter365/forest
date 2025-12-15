@@ -1,0 +1,13 @@
+@article{MAISSEN2025103945,
+title = {AIXD: AI-eXtended Design Toolbox for data-driven and inverse design},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103945},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103945},
+url = {https://www.sciencedirect.com/science/article/pii/S001044852500106X},
+author = {Alessandro Maissen and Aleksandra Anna Apolinarska and Sophia V. Kuhn and Luis Salamanca and Michael A. Kraus and Konstantinos Tatsis and Gonzalo Casas and Rafael Bischof and Romana Rust and Walter Kaufmann and Fernando Pérez-Cruz and Matthias Kohler},
+keywords = {Artificial intelligence, Generative design, Parametric modeling, Architecture, Civil engineering, Computer-aided design},
+abstract = {Design processes, in many disciplines like architecture, civil engineering or mechanical engineering, involve navigating large, high-dimensional and heterogeneous data. While AI-driven approaches like inverse design and surrogate modeling can enhance design exploration, their adoption is hindered by complex workflows and the need for coding and machine learning expertise. To address this, we introduce AI-eXtended Design (AIXD): a low-code, open-source toolbox that integrates AI into computational design. AIXD simplifies handling of mixed data types, as well as the analysis, training, and deployment of machine learning models for inverse design, surrogate modeling, and sensitivity analysis, enabling domain experts to rapidly explore diverse solutions with minimal coding. In this paper, we show the functionalities of the toolbox, and we demonstrate AIXD’s capabilities in architectural and engineering design applications, showing how it accelerates performance evaluation, generates high-performing alternatives, and improves design understanding by delivering new insights. By bridging AI and design practice, AIXD lowers the entry barrier to data-driven methods, making AI-extended design more accessible and efficient.}
+}

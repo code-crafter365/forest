@@ -1,0 +1,13 @@
+@article{LIN2025119643,
+title = {Shear-dilation model for the sand-coated FRP-UHPC interface under lateral confinement},
+journal = {Composite Structures},
+volume = {373},
+pages = {119643},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119643},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008086},
+author = {Hongwei Lin and Jinsheng Ma and Peng Feng and Kaiwen Guan},
+keywords = {fiber reinforced polymer (FRP), Concrete, Interface, Sand-coating, Shear-dilation model},
+abstract = {Sand-coating is an effective measure for improving the interfacial connection between FRP profile and UHPC matrix. In this study, the interfacial behavior of the sand-coated FRP-UHPC interface was investigated. With the bond length as the variable, interfacial tests were conducted on central-pullout specimens. The identified failure modes included the brittle debonding failure at the FRP plate-adhesive interface and the fracture failure of FRP plate. Based on test results and previous studies, two equations respectively describing the tangential bond stress-slip relationship and normal dilation-slip relationship were proposed. The optimized values for the parameters of these two equations were obtained through a combined approach of finite element simulation and machine learning techniques. Three machine learning algorithms including BPNN, RF and XGBoost were selected, among which RF and XGBoost showed the best performance. With the proposed shear-dilation model, both the tangential and normal behavior of sand-coated FRP-UHPC interface were well reproduced via FE modelling. The predicted load-slip relationship and the development of hoop strains of FRP tube and tensile strains of FRP plate showed strong agreement with test results. The proposed interfacial models and methodology for deriving interfacial models lay a solid foundation for the future development of FRP-UHPC hybrid structures.}
+}

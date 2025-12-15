@@ -1,0 +1,13 @@
+@article{ZHANG2025118147,
+title = {Multiphase SPH for surface tension: Resolving zero-surface-energy modes and achieving high Reynolds number simulations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118147},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118147},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004190},
+author = {Shuaihao Zhang and Sérgio D.N. Lourenço and Xiangyu Hu},
+keywords = {Smoothed particle hydrodynamics, Surface tension, Zero-surface-energy modes, Multiphase flows, High Reynolds number},
+abstract = {This study introduces a Riemann-based Smoothed Particle Hydrodynamics (SPH) framework for the stable and accurate simulation of surface tension in multiphase flows, with density and viscosity ratios as high as 1000 and 100, respectively. The methodology begins with the computation of surface stress, from which the surface tension force is derived, ensuring the conservation of momentum. For the first time, this study identifies the root cause of particle disorder at fluid–fluid interfaces, attributed to a numerical instability defined herein as zero-surface-energy modes. To address this, we propose a novel penalty force method, which eliminates zero-surface-energy modes and significantly enhances the overall stability of the simulation. Importantly, the penalty force correction term is designed to maintain momentum conservation. The stability and accuracy of the proposed framework are validated through several benchmark cases with analytical solutions, performed under both two-dimensional and three-dimensional conditions. Furthermore, the robustness of the method is demonstrated in a three-dimensional high-velocity droplet impact scenario, achieving stable performance at high Reynolds numbers (Re=10000) and Weber numbers (We=25000). To the best of our knowledge, this represents the first successful demonstration of a mesh-free method achieving stable multiphase flow simulations under such extreme Re and We conditions. A qualitative comparison with previous experimental results is also conducted, confirming the reliability of the simulation outcomes. An open-source code is provided for further in-depth study.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025102618,
+title = {Lightweight wavelet convolutional network for guidewire segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102618},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102618},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001272},
+author = {Guifang Zhang and Dingyue Liu and Zhe Ji and Bin Xie and Qihan Chen},
+keywords = {Guidewire segmentation, Wavelet convolutional, Dual guidewire generation algorithm},
+abstract = {Accurate guidewire segmentation is crucial for the success of vascular interventional procedures. Existing methods rely on a large number of parameters, making it difficult to balance performance and model size. In addition, the difficulty of collecting dual guidewire data poses constraints on the training of dual guidewire segmentation models, making dual guidewire segmentation a challenging task. This study aims to propose an efficient and robust lightweight method for accurate segmentation of single and dual guidewire in X-ray fluoroscopy sequences, while overcoming the challenges caused by data scarcity and model complexity. To this end, we propose a lightweight wavelet convolutional network (WT-CMUNeXt) for guidewire segmentation. WT-CMUNeXt integrates wavelet convolution and channel attention mechanisms, enabling efficient extraction of multi-frequency features while minimizing computational complexity. Additionally, a dual guidewire data augmentation algorithm is designed that synthesizes dual guidewire data from single guidewire data to expand the guidewire dataset. Experimental results on multiple patient sequences demonstrate that the proposed WT-CMUNeXt achieves state-of-the-art performance in the single guidewire segmentation task, with an average F1 score of 0.9048 and an average IoU of 0.8284 in most cases. For the more challenging dual guidewire segmentation task, our method also achieved a strong performance with an F1 score of 0.8668, outperforming all other methods except nnUNet. While also maintaining a minimal model size with only 3.26 M parameters and a low computational cost of 2.99 GFLOPs, making it a practical solution for real-time deployment in clinical guidewire segmentation tasks. Our code and datasets are available at: https://github.com/pikopico/WT-CMUNeXt.}
+}

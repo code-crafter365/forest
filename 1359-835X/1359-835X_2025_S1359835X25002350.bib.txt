@@ -1,0 +1,13 @@
+@article{PIBULCHINDA2025108941,
+title = {Intralayer fusion bonding of additive manufactured fiber-reinforced polymer composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108941},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108941},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002350},
+author = {Pasita Pibulchinda and Eduardo Barocio and Corrine V. Evans and R.Byron Pipes},
+keywords = {Extrusion deposition, Intralayer, Fusion bonding, Composite, Double cantilever, Strain energy release rate},
+abstract = {Successful extrusion deposition additive manufacturing (EDAM) production critically depends on the understanding of the process-structure–property relationship, particularly the fusion bonding between beads, which directly impacts the fracture and strength characteristics of printed parts. This study presents a phenomenological non-isothermal intralayer fusion bonding model that couples time–temperature history and bead-to-bead contact area, which are influenced by printing parameters. Four key deposition parameters were investigated: nozzle height, the ratio of print velocity to extrudate velocity, bead-to-bead spacing, and layer time. Characterization of the fusion bonding model required intralayer bead contact data from optical microscopy, temperature histories obtained from heat transfer finite element analysis, and fracture toughness properties assessed through a modified double cantilever beam (DCB) test. A new DCB sample preparation method, testing procedure, and data analysis approach were developed to address inter-bead voids and fracture patterns specific to intralayer fracture. Findings indicate that processing parameters significantly affect bead dimensions, inter-bead voids, and the thermal history at the bead interface, resulting in variations in the degree of bonding and fracture toughness that can increase by factors of two to four.}
+}

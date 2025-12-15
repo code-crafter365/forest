@@ -1,0 +1,13 @@
+@article{FECISKANIN2025105963,
+title = {Advancing raster DEM generalization with a quadric error metric approach},
+journal = {Computers & Geosciences},
+volume = {202},
+pages = {105963},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105963},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042500113X},
+author = {Richard Feciskanin and Jozef Minár},
+keywords = {Generalization, Digital elevation model, Quadric error metric, Grid structure, Landforms preservation},
+abstract = {Generalizing Digital Elevation Models (DEMs)—a process that simplifies data while preserving essential features—is crucial for efficient land surface analysis and revealing hierarchical structures of landforms. However, traditional methods often struggle to balance simplification with feature preservation. This paper presents a novel approach for generalizing raster-based DEMs using Quadric Error Metrics (QEM). Traditionally used for polygonal simplification, QEM has been uniquely adapted to operate directly on gridded data, which is required by most geomorphometric calculation and analysis tools. By minimizing geometric distortion, QEM effectively maintains significant land surface features, even at high levels of generalization, where the limitations of existing methods become evident. This was confirmed through a methods comparison, evaluating the generalization level using local roughness measurements based on the circular variance of aspect on four distinct areas that vary considerably in terms of landform type. The QEM approach's implicit evaluation of local surface properties ensures that significant features are preserved without the need for explicit feature detection or extensive parameter tuning. The method employs an adaptive error threshold to progressively remove smaller, non-essential landforms, providing flexible control over the generalization process. The proposed method has significant implications for various applications utilizing DEMs, particularly for analyses for which micro-scale features are undesirable noise, but preservation of the terrain skeleton is especially important. By offering a robust tool for DEM generalization, this research aims to enhance support for digital geomorphological mapping, but it can also be useful for a wider range of geoscientific research.}
+}

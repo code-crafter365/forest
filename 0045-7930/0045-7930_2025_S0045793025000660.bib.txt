@@ -1,0 +1,13 @@
+@article{MITTAL2025106606,
+title = {General field evaluation in high-order meshes on GPUs},
+journal = {Computers & Fluids},
+volume = {295},
+pages = {106606},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106606},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000660},
+author = {Ketan Mittal and Aditya Parik and Som Dutta and Paul Fischer and Tzanio Kolev and James Lottes},
+keywords = {Off-grid interpolation, High-order meshes, Unstructured meshes, Bounding boxes, FEM, SEM},
+abstract = {Robust and scalable function evaluation at any arbitrary point in the finite/spectral element mesh is required for querying the partial differential equation solution at points of interest, comparison of solution between different meshes, and Lagrangian particle tracking. This is a challenging problem, particularly for high-order unstructured meshes partitioned in parallel with MPI, as it requires identifying the element that overlaps a given point and computing the corresponding reference space coordinates. We present a robust and efficient technique for general field evaluation in large-scale high-order meshes with quadrilaterals and hexahedra. In the proposed method, a combination of globally partitioned and processor-local maps are used to first determine a list of candidate MPI ranks, and then locally candidate elements that could contain a given point. Next, element-wise bounding boxes further reduce the list of candidate elements. Finally, Newton’s method with trust region is used to determine the overlapping element and corresponding reference space coordinates. Since GPU-based architectures have become popular for accelerating computational analyses using meshes with tensor-product elements, specialized kernels have been developed to utilize the proposed methodology on GPUs. The method is also extended to enable general field evaluation on surface meshes. The paper concludes by demonstrating the use of the proposed method in various applications ranging from mesh-to-mesh transfer during r-adaptivity to Lagrangian particle tracking.}
+}

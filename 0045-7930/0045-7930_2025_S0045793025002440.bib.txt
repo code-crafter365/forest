@@ -1,0 +1,13 @@
+@article{HU2025106784,
+title = {Optimal jet flow control for suppressing three-dimensional vortex-induced motion in floating cylinders at subcritical Reynolds Numbers},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106784},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106784},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002440},
+author = {Wulong Hu and Haishan Xia and Lei Li and Zhonglan Tuo},
+keywords = {Vortex-induced motion, Active control, Jet flow, Floating cylinder, Subcritical Reynolds number},
+abstract = {Controlling vortex-induced motion (VIM) is essential for improving the fatigue life of mooring systems in floating offshore platforms. This study proposes an active control strategy using a narrow-gap jet (width ratio 0.03 D) positioned at the wake of a three-dimensional floating cylinder at subcritical Reynolds numbers (Re = 4.4 × 104). Through computational fluid dynamics (CFD) simulations based on the Improved Delayed Detached-Eddy Simulation (IDDES) method, the effects of jet velocity ratio (IR = Uj/U) and injection angle (α) on VIM suppression are systematically analyzed. Without jet flow, the cylinder exhibits significant lock-in resonance at a reduced velocity Ur = 7.6, with a lateral amplitude exceeding its diameter (Ay = 1.05 D). Introducing jet flow effectively suppresses VIM, achieving an 80% reduction in transverse amplitude (Ay = 0.26 D) at α = 45° and IR = 3. Optimal suppression occurs when the jet aligns with the flow separation zone (α = 45°∼67.5°), disrupting vortex coherence and delaying boundary layer separation. In contrast, jets perpendicular (α = 90°) or upstream-oriented (α = 135°) amplify low-frequency vortex merging, worsening oscillations. Spectral analysis reveals that a 0° jet reduces vortex shedding frequency by 30%, mitigating resonance, while high IR values (> 3) at 45° shift energy to low-frequency ranges. The proposed slit-jet design demonstrates adaptability in multi-degree-of-freedom floating structures, offering a practical solution for enhancing offshore platform durability.}
+}

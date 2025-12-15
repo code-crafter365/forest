@@ -1,0 +1,13 @@
+@article{AISHWARYA2025114680,
+title = {Synthetic selenomelanin nanoparticles radio-sensitize non-melanocytic lung cancer (A549) cells by promoting G2/M arrest},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114680},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114680},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001870},
+author = {J. Aishwarya and Ram Pada Das and Atanu Barik and Amit Kunwar},
+keywords = {Selenomelanin nanoparticles, Radio-modulation, Cancer cells, Reactive oxygen species, DNA damage response},
+abstract = {Recent studies have postulated the natural existence of selenomelanin and its role in the radio-protection of healthy cells. The present study aimed to understand its radio-modulatory activity in non-melanocytic cancerous (A549) cells of lung origin. Briefly, selenomelanin was synthesized under laboratory conditions following the previously reported methodology. The various spectroscopic (electron paramagnetic resonance, X-ray photoelectron spectroscopy, atomic absorption spectroscopy, transmission electron microscopy and dynamic light scattering) analyses confirmed the formation of selenomelanin nanoparticles. The short-term (72 h) and long-term (14 days) toxicity profiling of selenomelanin by 3-[4,5-dimethylthiazol-2-yl]-2,5 diphenyl tetrazolium bromide (MTT) and clonogenic assays respectively revealed its half maximal inhibitory concentrations (IC50) of 72.03 ± 7.13 μg/ml and 0.85 ± 0.16 μg/ml respectively in A549 cells and of 81.56 ± 1.63 μg/ml and > 5 μg/ml respectively in healthy lung fibroblast (WI26) cells. Further, pre-treatment of selenomelanin (at concentrations non-toxic for WI26 cells) selectively augmented the radiosensitivity of A549 cells. Finally, mechanistic investigations in A549 cells revealed that selenomelanin increased the levels of reactive oxygen species, DNA damage and modulated the phospho-levels of CHK1 and CHK2 (effectors of cell cycle arrest) in the irradiated cells to favour G2/M arrest followed by cleavage of caspase 3 (effector of apoptosis). Together, the present study proposes the novel application of selenomelanin as a radiosensitizer to enhance the efficacy of radiotherapy in cancerous cells of lung origin.}
+}

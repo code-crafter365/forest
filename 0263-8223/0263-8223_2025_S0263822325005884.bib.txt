@@ -1,0 +1,13 @@
+@article{HALLAERT2025119423,
+title = {Integrated characterization and modeling of PA6/GF30 short fiber-reinforced composites: From viscoelastic behavior to anisotropic properties},
+journal = {Composite Structures},
+volume = {371},
+pages = {119423},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119423},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005884},
+author = {M. Hallaert and A. Ammar and T. Kanit and G. Ayoub},
+keywords = {Short fiber reinforced composite, Viscoelastic behavior, Anisotropic behavior, Optimization, Genetic algorithm},
+abstract = {Short Fiber-Reinforced Composites (SFRC), such as Polyamide 6 with 30% Glass Fibers (PA6/GF30), are widely used in structural applications due to their high strength-to-weight ratio and excellent processability. This study develops a comprehensive approach to characterize and model the viscoelastic and anisotropic behavior of PA6/GF30 composites. The viscoelastic response of the PA6 matrix was quantified via Dynamic Mechanical Analysis (DMA), with an optimization of Prony series parameters using a custom genetic algorithm. Morphological features, including fiber orientation and length distributions, were characterized through X-ray micro-computed tomography and pyrolysis. These data informed the construction of Representative Volume Elements (RVEs) for finite element simulations. Thus, this work is a preliminary study of a composite material, where the representativeness of the samples has been initiated through a RVE approach, incorporating viscoelastic properties and stochastic fiber distributions. The novelty of this study lies in combining those techniques in an integrated framework.}
+}

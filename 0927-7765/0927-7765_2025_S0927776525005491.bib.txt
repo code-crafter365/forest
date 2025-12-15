@@ -1,0 +1,13 @@
+@article{AKRAM2025115042,
+title = {Sustainable synthesis of Ce-La loaded onto Citrus limon for phosphate removal: Performance and regeneration studies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115042},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115042},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005491},
+author = {Muhammad Akram and Zahira Bano and Seerat Ul Ain Bhutto and Jingwen Pan and Muhammad K. Majeed and Linrui Li and Mingzhu Xia and Fengyun Wang},
+keywords = {Eutrophication, Adsorption, Citrus limon, Cerium, Lanthanum},
+abstract = {Efficient phosphate (P) treatment and resource recovery from water are crucial environmental challenges in water pollution management. In this study, a bimetallic La-Ce nanoparticle Citrus limon residue-based biosorbent was developed through a solvothermal synthesis method, using fruit waste as the raw material. This research work revealed that the surface of the agricultural waste became rough and uniformly layered through La and Ce after modification. There are a significant number of adsorption sites available for efficient phosphate abatement sites due to the increase in CL@LR's specific surface area to 44.488 m² g⁻¹. The adsorbent material demonstrated maximum phosphate removal efficiency, surpassing 98.12 % at an initial concentration of 20 L−1, under pH 6.68 at 30°C. The kinetic adsorption experiment showed that CL@LR had the highest adsorption capacity of 255 g−1 under neutral circumstances (pH 6.68). Also, the outcomes agreed with the kinetic pseudo-second-order and Langmuir isothermal (R²=0.999) models, suggesting that homogeneous chemisorption was the primary mechanism behind CL@LR phosphate abatement process. The results showed that other anions, such as chloride, sulfate, nitrate, bromide, and fluoride, did not affect phosphate removal at 0.025 L−1 concentration. The resulting material exhibited a highly efficient capability for removing phosphate. Additionally, the P abatement efficiency of CL@LR persisted at 89 % even after the 7th adsorption-desorption cycle. Electrostatic interaction, ligand exchange, and Lewis acid-base interaction via M-OH groups and Ce(III)/La(III) coordination were suggested as potential adsorption processes based on the findings of P uptake tests, EDS, FTIR, and XPS investigations. This study proposes CL@LR as a promising material for purifying phosphate-containing wastewater.}
+}

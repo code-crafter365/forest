@@ -1,0 +1,13 @@
+@article{MA2025111040,
+title = {Global optimization of failure behavior and strength-toughness performances of fiber reinforced bionic Bouligand structural composite with isotropic stainless steel ultra-thin strips},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111040},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111040},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000089},
+author = {Jun Ma and Yunbo Luan and Chaoyang Liu and Zhiqiang Li and Zhangxin Guo and Yongcun Li},
+keywords = {Laminates, Delamination, Mechanical properties, Microstructures},
+abstract = {Lightweight composite structures with high strength and toughness are critical materials that are urgently needed in the current cutting-edge fields such as aerospace and automobiles. In this paper, a new type of super hybrid bionic Bouligand helical structural material was constructed using carbon fiber reinforced epoxy resin composite thin layers, isotropic ultra-thin stainless steel strips and thermoplastic polyurethane. The deformation and damage behaviors of this material were investigated. It was found that the isotropic metal thin layers can globally regulate the stress transfer law and damage modes in the fiber-reinforced Bouligand structure, which has a homogenized regulation and shielding effect on its internal full-field stress distribution, thus ensuring its sufficient bearing strength. At the same time, it can also realize the multiscale regulation of the internal crack propagation path, improve the number and area of the interlayer failure interface, and increase the overall energy dissipation of the Bouligand structure, thus realizing the simultaneous optimization of its strength and toughness. These findings are expected to provide new ideas for the design and optimization of the internal structure and properties of advanced lightweight composites.}
+}

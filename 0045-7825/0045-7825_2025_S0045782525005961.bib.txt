@@ -1,0 +1,13 @@
+@article{DEDONNO2025118324,
+title = {Modeling dislocations in quasicrystals through amplitude equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118324},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118324},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005961},
+author = {Marcello {De Donno} and Luiza Angheluta and Marco Salvalaglio},
+keywords = {Dislocations, Quasicrystals, Amplitude equations, Mesoscale modeling, Plasticity, Spectral methods,},
+abstract = {Quasicrystals (QCs) are a class of aperiodic ordered structures that emerge in various systems, from metallic alloys to soft matter and driven non-equilibrium systems. Within a mesoscale theory based on slowly-varying complex amplitudes for QCs, we track dislocations as topological defects harbored by the amplitudes and characterize their Burgers vectors and induced deformations. We study the formation of dislocations at semicoherent interfaces, particularly those emerging from rotated inclusions, and find a hierarchy of dislocations forming at such interfaces. We further analyze interfaces in strained systems, revealing conditions for the emergence of periodic dislocation arrays and discussing the energetics of dislocations associated with different phonon and phason deformations. The stability, interaction, and motion of dislocation dipoles and quadrupoles are also discussed. These findings provide new insights into the mesoscale modeling of dislocations in QCs and their distinct behavior compared to conventional crystals, while demonstrating a versatile framework for studying dislocations in systems exhibiting quasicrystalline order.}
+}

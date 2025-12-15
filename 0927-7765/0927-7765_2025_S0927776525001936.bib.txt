@@ -1,0 +1,13 @@
+@article{SHANG2025114686,
+title = {Hydrogel microspheres based on aggregation induction to improve the solubility of insoluble drugs promoting bone repair},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114686},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114686},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001936},
+author = {Peiyang Shang and Gen Li and Renhao Yang and Lei Wang and Haibin Zhou},
+keywords = {Bone repair, Hydrogel microspheres, Aggregation, POSS-SH},
+abstract = {Insoluble organic molecule drugs often accumulate in vivo, diminishing their efficacy. This study explores the utilization of cage oligosiloxane (POSS-SH) as a carrier for insoluble drugs. POSS-SH exhibits disaggregation properties and enhances cell phagocytosis. Using a thermodynamic approach, kartogenin (KGN) and diclofenac (DS) were covalently bonded via acrylyl chloride. Subsequently, a "one-pot method" was employed to graft double-bonded KGN, DS, and PEG onto POSS-SH, forming organic-inorganic POSS hybrid drugs. In the target molecule, water-soluble polyethylene glycol was introduced to enhance solubility and inhibit organic molecule aggregation within the target molecule. The resulting POSS nanoparticles were coated with methacrylate hyaluronic acid, generating hydrogel microspheres (MHS@PSD) for slow release in situ within the bone joint cavity using microfluidic technology. Slow release of PSD can ameliorate local joint inflammation and promote mesenchymal stem cell differentiation into chondrocytes. Compared to unmodified KGN and DS, our designed materials expedite and enhance cartilage regeneration. In summary, POSS-based hydrogel microspheres with deaggregation properties hold promise for cartilage regeneration, offering a framework for enhancing the efficacy of insoluble organic drugs.}
+}

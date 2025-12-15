@@ -1,0 +1,13 @@
+@article{WANG2025108552,
+title = {Green and highly efficient preparation of superfine fiber yarns via vortex airflow-assisted melt differential electrospinning},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108552},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108552},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005505},
+author = {Yuhang Wang and Jing Tan and Jinlong Xu and Jing Yan and Mahmoud M Bubakir and Jingjing Liu and Xiaohui Wang and Weimin Kang and Dongming Ma and Haoyi Li and Weimin Yang},
+keywords = {Melt electrospinning, Superfine fiber yarns, Vortex airflow, Solvent-free},
+abstract = {Vortex airflow-assisted melt differential electrospinning for preparing superfine fiber yarns was proposed. This method with solvent-free exhibits a higher yield of 20 ± 5.17 m/min compared to the range of 0–5 m/min achieved by solution electrospinning with organic solvents. Simulation and high-speed photography show that the fibers are aggregated by suction airflow and twisted into yarns by vortex airflow. Polylactic acid (PLA) superfine fiber yarns exhibit fine fiber diameters ranging from 0.96 to 5.57 μm, a yarn diameter of 211.7 ± 40.8 μm, and a high tensile strength of 39.4 ± 3.12 MPa. Furthermore, these PLA melt electrospun yarns can be woven into fabric with a water contact angle of 120.1° and triboelectric voltage of 7.41 V, demonstrating their potential in self-cleaning textiles and flexible smart textiles. Moreover, this method is generally applicable to thermoplastic polymers including polyethylene terephthalate (PET), polypropylene (PP), and polycaprolactone (PCL). It provides a promising approach for green industrialization of superfine fiber yarns.}
+}

@@ -1,0 +1,13 @@
+@article{SHI2025119361,
+title = {Curved grid connector for concrete sandwich shell: a continuum approach},
+journal = {Composite Structures},
+volume = {370},
+pages = {119361},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119361},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005264},
+author = {Jiaxu Shi and Mostafa Yossef and An Chen and Jing Sun},
+keywords = {Curved grid connector, Concrete sandwich shell, Analytical study, Homogenization theory},
+abstract = {Grid connector has been widely used for insulated concrete sandwich panel (ICSP). This paper proposes an innovative curved grid connector for concrete sandwich shell and derives an analytical model using a continuum approach. Firstly, the curved grid is homogenized into a fan-shaped continuum and an equivalent stiffness matrix CH is obtained, reflecting the constitutive relations of the curved grid in macroscale. Next, the expression of the circumference shear stiffness of the curved grid is derived and verified by Finite Element (FE) models. It can be found that the curved grid connectors have the characteristics of trigonometrically distributed shear stiffness kφ along the circumferential direction φ. According to the parametric study, the maximum shear stiffness is at the vertex angle of grid members β=π/2, while kφ becomes constant at β=π/4 and β=3π/4. Additionally, denser arrangement and smaller cross-section of the grid members result in higher stiffness for the same number of connectors. Finally, the bending test of the sandwich shell with a grid connector is presented. The good correlation between the test and analytical results demonstrates the feasibility of applying the analytical model to sandwich shells. The method presented in this paper can be employed for structural optimization and design.}
+}

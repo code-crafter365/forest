@@ -1,0 +1,13 @@
+@article{MALEKZADEH2025119713,
+title = {Thermoelastic analysis of sandwich conical shells with GPLs reinforced face sheets and porous core under moving thermomechanical loading},
+journal = {Composite Structures},
+volume = {373},
+pages = {119713},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119713},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008785},
+author = {Parviz Malekzadeh and Yasin Heydarpour and Hanxing Zhu},
+keywords = {Sandwich conical shells, Nanocomposite face sheets, Porous core, Lord-Shulman theory, Moving thermo-mechanical loading, GPLs},
+abstract = {The thermoelastic responses of the sandwich truncated conical shells with graphene platelets (GPLs) reinforced composite face sheets and GPLs reinforced composite porous core subjected to ring-shape moving thermo-mechanical loading are studied. In order to capture the influences of the finite heat wave speed and the thermo-mechanical coupling, the Lord-Shulman thermoelasticity theory, which has no kinematical assumption such as those used in the two-dimensional theories, is employed to accurately estimate the thermoelastic behaviors of the sandwich shells. A layerwise hybrid numerical technique composed of the differential quadrature method and multi-step based NURBS method is applied to discretize the strong form of the equations in the spatial and temporal domains, respectively. Also, the boundary and compatibility conditions at the interfaces of the layer are exactly implemented at the corresponding grid points. After validating the proposed approach, parametric studies are conducted and discussed to explore the impacts of the porosity amount and distribution, GPLs weight fractions, thermo-mechanical load velocity, edge boundary conditions and some other parameters on the thermoelastic behaviors of the sandwich shells. The results indicate that the increase of the GPLs weight fraction decreases the displacement and changes its distribution along the shell thickness but does not affect the stress distribution. Also, the porosity distribution pattern changes the displacement distribution, and the displacement has the lowest values when the porosity is higher near the inner surface of the core layer.}
+}

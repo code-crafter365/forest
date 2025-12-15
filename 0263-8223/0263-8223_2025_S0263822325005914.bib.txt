@@ -1,0 +1,13 @@
+@article{PRANNO2025119426,
+title = {Optimising structural stability of bioinspired metamaterials: genetic algorithms and neural networks in glass sponge-inspired microstructures},
+journal = {Composite Structures},
+volume = {370},
+pages = {119426},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119426},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005914},
+author = {Andrea Pranno and Fabrizio Greco and Francesco Fabbrocino and Giovanni Zucco},
+keywords = {Bioinspired structures, Genetic algorithm, CNN classification, Buckling instability, Homogenisation, Structural optimisation},
+abstract = {This study presents a novel lattice microstructure inspired by the deep-sea glass sponge Euplectella aspergillum. A computational framework is developed to enable real-time interaction between finite element analysis and optimisation procedures based on a genetic algorithm and artificial neural networks. For the lattice microstructure under consideration, the optimisation process improves some key geometric parameters while keeping the volume fraction of its representative volume element constant to maximise the buckling load factor under uniaxial vertical compression. In particular, a wide range of geometry parameter combinations is explored through the genetic algorithm, whereas artificial neural networks are used to predict the type of instability (local, global, or combined) for each configuration. Solutions exhibiting global instability are penalised to ensure the onset of local instability in the optimised design. Finally, numerical results showed that the presented optimisation strategy improved load-bearing capacity by 34.6 % compared to previous lattice metamaterials in the literature, demonstrating its ability to strengthen the microstructure against buckling.}
+}

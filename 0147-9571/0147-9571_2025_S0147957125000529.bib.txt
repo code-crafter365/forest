@@ -1,0 +1,13 @@
+@article{NOCERA2025102344,
+title = {The impact of stray animal populations on public health in Naples, Italy: A preliminary study on antimicrobial resistance on the road},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {120},
+pages = {102344},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102344},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000529},
+author = {Francesca Paola Nocera and Sinem Arslan and Rossana Schena and Francesca Pizzano and Fatima Mourabiti and Silvia Cappiello and Cristina {Di Palma} and Barbara Lamagna and Marina Pompameo and Luisa {De Martino}},
+keywords = {Bacteria, Antibiotic resistance, Stray dogs, Stray cats},
+abstract = {The rise of antimicrobial resistance poses a significant public health challenge, with an increasing number of organisms developing resistance to many antimicrobial agents used to treat infections in humans and animals. This study investigated the role of stray dogs and cats as sentinel animals in the urban environment. Therefore, the sampling of healthy skin was performed to isolate bacterial species present and assess their antimicrobial resistance profile. A total of 690 swabs were collected, comprising 351 cutaneous swabs from dogs and 339 from cats. A total of 770 strains were identified, including 381 Gram-positive bacteria (94 %) and 19 Gram-negative bacteria (6 %) from dogs, and 355 Gram-positive bacteria (97 %) and 11 Gram-negative bacteria (3 %) from cats. In dogs, Staphylococcus pseudintermedius was the most frequently isolated Gram-positive bacterium, with 53 strains identified. Meanwhile, in cats, coagulase-negative staphylococci were the most common, with Staphylococcus felis being the predominant species, represented by 50 strains. Among the isolated Gram-negative bacteria in both animal species, E. coli was predominant. Among the recovered Gram-positive bacteria, multidrug resistance was observed in 105 out of 129 (81.4 %) canine isolates and 87 out of 143 (60.8 %) feline isolates. Additionally, phenotypic resistance to penicillin, oxacillin, and cefoxitin in 42 out of 53 (79.2 %) S. pseudintermedius strains and 8 out of 50 (16.0 %) S. felis strains was identified, suggesting the presence of the methicillin resistance gene. The above findings underscore the need for stricter monitoring of antibiotic resistance specifically in stray dogs and cats which can act as reservoirs for resistant bacteria.}
+}

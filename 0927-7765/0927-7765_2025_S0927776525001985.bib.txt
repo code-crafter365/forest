@@ -1,0 +1,13 @@
+@article{CEYHAN2025114691,
+title = {Recent advances in modification of plant-based proteins for improved encapsulation performance},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114691},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114691},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001985},
+author = {Tugce Ceyhan and Gizem Sevval Tomar and Asli {Can Karaca}},
+keywords = {Encapsulation, Plant-based protein, Modification},
+abstract = {Encapsulation is a useful technique for protection, stabilization and controlling the release of bioactive compounds and food ingredients particularly sensitive to environmental factors such as heat, light and temperature. A wide variety of biopolymers can be used as wall materials in encapsulation, among which proteins are an essential group. In recent years, with the increasing interest in concepts such as plant-based nutrition and sustainability, the use of plant proteins in encapsulation has also increased. Proteins obtained from plant sources are sustainable, easily accessible, and low cost compared to animal-based counterparts; additionally, they are biodegradable, renewable, and biocompatible. However, there are some limitations regarding their functional properties such as solubility, emulsifying, gelling, and film-forming abilities. Various physical, chemical and enzymatic modification methods are used to improve the functional properties of plant proteins and to expand their use in encapsulation technologies. In this review, plant-based proteins (PBPs) and their use in encapsulation are discussed. Different modification techniques can improve the encapsulation performance of plant proteins; however, process parameters should be optimized. The most commonly studied physical, chemical, enzymatic and combined modification methods are sonication, Maillard conjugation, enzymatic hydrolysis and pH-shifting combined ultrasonication, respectively. The use of combined modification methods is a promising approach for improvement of the encapsulation performance of PBPs.}
+}

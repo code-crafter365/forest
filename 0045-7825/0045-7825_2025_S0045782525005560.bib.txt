@@ -1,0 +1,13 @@
+@article{FENG2025118284,
+title = {The novel physics-enhanced graph neural network for phase-field fracture modelling},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118284},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118284},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005560},
+author = {Bo Feng and Xiao-Ping Zhou},
+keywords = {Partial differential equations, Physics-informed neural network, Graph network, Phase-filed fracture modelling, Attention mechanism},
+abstract = {The application of artificial intelligence to partial differential equations has gained significant attention, especially with the rise of Physics-Informed Neural Networks (PINNs). Recent advancements in graph-based data further highlight the potential of combining Graph Neural Networks with PINNs, offering a promising approach to solve differential equations by leveraging the strengths of both techniques. In this work, we propose a novel deep learning method, Physics-Enhanced Graph Transformer Model, to solve fracture problems described by the phase-field method (PFM). In the proposed model, the physical system is represented as graph data, with attention mechanisms integrated to improve its efficiency, robustness and accuracy. Then, a neural network based incremental solver is designed for the phase-field variable, addressing the difficulty of incorporating an irreversible function into the phase-field model. Furthermore, numerical results demonstrate that the proposed model outperforms PINNs in both computational efficiency and accuracy, exhibiting strong robustness across various fracture scenarios.}
+}

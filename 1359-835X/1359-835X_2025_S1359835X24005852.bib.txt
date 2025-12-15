@@ -1,0 +1,13 @@
+@article{HIRWANI2025108587,
+title = {Nonlinear transient analysis of delaminated composite shell panel under hygro-thermo-mechanical load and experimental validation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108587},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108587},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005852},
+author = {Chetan Kumar Hirwani and Naveen Kumar Akkasali and Erukala Kalyan Kumar and Ravi Kumar and Amit Kumar Mehar and Subrata Kumar Panda},
+keywords = {Dynamic analysis, Delamination, Hygro-thermal, NFEM},
+abstract = {In this work, the nonlinear time-dependent deflection responses of delaminated composite shell panel structure under the influence of hygro-thermo-mechanical loading have been investigated numerically. To develop a mathematical model, two different higher-order displacement kinematics, Green-Lagrange’s nonlinear strain–displacement relations and two sub-laminate approaches are adopted for delaminated panel structure in association with finite element steps. The delaminated composite shell panel is under the three simultaneous loading, i.e., humidity, temperature, and mechanical loading. The nonlinear time-dependent responses are obtained by solving the governing equation using the direct iterative method and Newmark’s integration technique. The influence of delamination parameters (size, location, and position), geometry and loading on dynamic characteristics have been analyzed. The differences in responses indicated that the kinematic model with higher degrees of freedom generally shows higher deflection values. Further, a detailed discussion of the numerical illustrations and conclusive remarks based on the findings of the numerical illustrations have been provided.}
+}

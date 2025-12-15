@@ -1,0 +1,13 @@
+@article{LU2025114377,
+title = {A dissolving microneedle patch loaded with plumbagin/hydroxypropyl-β-cyclodextrin inclusion complex for infected wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114377},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114377},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006362},
+author = {Xuemei Lu and Jingqing Zhang and Wanyu Zuo and Bingyu Cheng and Ruyin Dong and Weiyu Wang and Luyang Lu},
+keywords = {Plumbagin, Inclusion complex, Dissolving microneedle, Antibacterial activity, Infected wound healing},
+abstract = {Treating infected wounds is facing a serious challenge due to the rapid spread of antibiotic resistance worldwide. In the search for novel antimicrobial drugs, natural products often serve as a crucial resource. Plumbagin (PLB) is the most important natural active ingredient in the root of Plumbago zeylanica L. known for its excellent antibacterial ability. However, the application of PLB is limited because of its poor water solubility, instability, and tendency to sublimate. In this study, we propose a solution by designing a hyaluronic acid (HA)/polyvinylpyrrolidone (PVP) dissolving microneedle patch loaded with PLB/hydroxypropyl-β-cyclodextrin (HP-β-CD) inclusion complex. PLB was encapsulated into the cavity of HP-β-CD to improve its solubility and stability using the neutralization agitation method. The formation of the inclusion complex significantly increased the water solubility of PLB to 1350 ± 6.8 μg/mL, which is 17 times higher than its original value of 79.3 ± 1.7 μg/mL. The encapsulation efficiency was found to be 94.82 ± 3.34 %. In vitro drug release studies, PLB microneedles loaded with PLB/HP-β-CD inclusion complex rapidly released into PBS within 15 min. Furthermore, the PLB microneedles exhibited strong antibacterial activity against Staphylococcus aureus (S. aureus) both in vivo and in vitro. They also remarkably accelerated the healing of infected wounds in mice by enhancing collagen deposition and re-epithelialization, reducing inflammation, and stimulating angiogenesis. Overall, this multifunctional microneedle patch shows promising potential for clinical applications in the healing of infected wounds.}
+}

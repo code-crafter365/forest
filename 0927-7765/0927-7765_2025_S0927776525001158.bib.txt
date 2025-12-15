@@ -1,0 +1,13 @@
+@article{YAN2025114608,
+title = {Dual-mode sensors based on double enzyme-mimicking MnCu nanoflowers as fluorescence probe for the detection of organophosphorus pesticides and 2,4-dichlorophenol},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114608},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114608},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001158},
+author = {Ziyu Yan and Ziwen Liao and Zhengyue Xiao and Yining Zhang and Huajie Peng and Jiali Zhong and Zhuo Li and Peng Xu and Ping Qiu},
+keywords = {Double enzyme-mimicking nanoenzymes, Ratiometric fluorescence, Colorimetric, Organophosphorus pesticides, 2, 4-dichlorophenol},
+abstract = {Organophosphorus pesticides (OPs) and 2,4-dichlorophenol (2,4-DP) are widely used, but their residues have brought serious threatens to environment and human health as environmental pollutants. We synthesized double enzyme-mimicking and multifunctional MnCu flower-like nanoenzymes (NH2-MnCu NFs) with fluorescence properties, oxidase (OXD)-like activity and laccase-like activity. NH2-MnCu NFs exhibit excitation-independent emission fluorescence properties, as well as excellent OXD-like activity (Km = 0.230 mM, Vmax = 2.46 × 10−6 M/s) and laccase-like activity (Km = 0.186 mM, Vmax = 3.46 × 10−2 mM/min). The mechanism of 2,3-diaminophenazine (DAP)-induced quenching of the fluorescence of NH2-MnCu NFs was thoroughly investigated, revealing that it results from the combined effects of the internal filtering effect (IFE), dynamic quenching effect (DQE), and static quenching effect (SQE). It was found that -SH could disrupt the OXD-like activity of NH2-MnCu NFs according to morphological and structural perspectives using SEM and in situ Raman spectroscopy. Based on OXD-like activity, ratiometric fluorescence and colorimetric dual-mode sensor was constructed for the detection of OPs. Additionally a colorimetric fluorescence dual-mode sensor was proposed for the specific detection of 2,4-DP with the use of laccase-like activity of the material. Two sensors were constructed using a single type of nanoenzyme, leveraging their dual-enzyme activities for the detection of OPs and 2,4-DP, respectively. This approach expands the potential applications of nanoenzymes and provides versatile scenarios for their multifunctional use.}
+}

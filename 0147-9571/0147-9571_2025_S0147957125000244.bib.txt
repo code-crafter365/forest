@@ -1,0 +1,13 @@
+@article{MAMIZADEH2025102316,
+title = {Prevalence, genetic diversity, and zoonotic potential of Giardia duodenalis in New and Old World Camelids: A comparative systematic review and meta-analysis},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {118},
+pages = {102316},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102316},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000244},
+author = {Mina Mamizadeh and Ali Pouryousef and Mohammad Reza Mohammadi and Mohammadreza Hafezi Ahmadi and Hassan Nourmohammadi and Ali Asghari},
+keywords = {, Prevalence, Assemblages, Camels, Systematic review, Meta-analysis},
+abstract = {This study aimed to review and analyze the prevalence, genetic diversity, and zoonotic potential of Giardia duodenalis in New World Camelids (NWCs) and Old World Camelids (OWCs), highlighting geographic and host-related variations. The statistical analyses were conducted using CMA software to estimate pooled prevalence rates. Heterogeneity was evaluated with the I² statistic, and sensitivity analysis tested pooled prevalence after removing certain studies. Meta-regression examined the association between G. duodenalis prevalence in camelids and factors like publication year and sample size. Subgroup analyses investigated prevalence variations based on countries, continents, WHO regions, publication years, diagnostic methods, and sample sizes. A total of 22 studies/23 datasets were included, with eight on NWCs and 15 on OWCs, covering 5008 camelids across nine countries. The weighted G. duodenalis prevalence in camelids was 8.7 % (95 % CI: 5.6–13.3), with NWCs at 10.3 % (95 % CI: 3–29.7) and OWCs at 9.1 % (95 % CI: 6.7–12.2). Geographical analyses revealed the highest prevalence of G. duodenalis in South America (40.4 %) and the AMR WHO region (10.8 %), with notable rates in Peru (40.4 %) and Iraq (11.9 %). Sensitivity analysis showed that prevalence rates remain robust, unaffected by study exclusions. Neither the year of study nor sample size influenced infection rates in camelids. The identification of zoonotic assemblages A and E, and zoonotic sub-assemblage AI in camelids, is of public health significance. These insights enhance our understanding of G. duodenalis epidemiology in camelids, underscoring the need for ongoing surveillance and research regarding their effects on human and animal health.}
+}

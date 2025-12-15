@@ -1,0 +1,13 @@
+@article{LV2025114585,
+title = {GRP94 mediates blood-brain barrier permeation and substantia nigra-specific drug distribution in Parkinson’s disease},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114585},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114585},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500092X},
+author = {Ziyan Lv and Yuteng Zeng and Taiyong Lv and Qiao Liu and Liang Han},
+keywords = {GRP94, Blood-brain barrier, Substantia nigra, Drug delivery, Parkinson’s disease},
+abstract = {Parkinson’s disease is a progressive neurodegenerative disorder, which is characterized by pathological changes and progressive loss of dopaminergic neurons in the substantia nigra, e.g., endoplasmic reticulum stress. The blood-brain barrier (BBB) restricts the intracranial drug concentration and the therapeutic outcomes to a remarkable degree. Receptor-mediated transport has been extensively leveraged to design brain-targeting drug delivery systems to enhance intracranial drug levels. However, the target receptors at the BBB are widely expressed in normal brain parenchymal cells, which would affect drug distribution in local diseased brain regions, e.g., the substantia nigra in Parkinson’s disease. Here, we found glucose-regulated protein 94 (GRP94), as an endoplasmic reticulum resident protein, is upregulated at the surface of substantia nigra neurons in Parkinson’s disease. Considering that GRP94 could function like receptors to trigger cellular endocytosis and transcytosis, we constructed GRP94-specific peptide ligand NGPTHE-modified N-NPs and found that N-NPs could specially deliver drugs to the locally affected substantia nigra in Parkinson’s disease. This study provides a GRP94-based proof-of-concept strategy for specific drug delivery for Parkinson’s disease.}
+}

@@ -1,0 +1,13 @@
+@article{SUKULTHANASORN2025117746,
+title = {A novel design update framework for topology optimization with quantum annealing: Application to truss and continuum structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117746},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117746},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000180},
+author = {Naruethep Sukulthanasorn and Junsen Xiao and Koya Wagatsuma and Reika Nomura and Shuji Moriguchi and Kenjiro Terada},
+keywords = {Topology optimization, Quantum computing, Quantum annealing, Ising model, QUBO},
+abstract = {This paper presents a novel design update strategy for topology optimization, as an iterative optimization. The key contribution lies in incorporating a design updater concept with quantum annealing, applicable to both truss and continuum structures. To align with density-based approaches in topology optimization, these updaters are formulated through a multiplicative relationship to represent the design material and serve as design variables. Specifically, structural analysis is conducted on a classical computer using the finite element method, while quantum annealing is utilized for topology updates. The primary objective of the framework is to minimize compliance under a volume constraint. An encoding formulation for the design variables is derived, and the penalty method along with a slack variable is employed to transform the inequality volume constraint. Subsequently, the optimization problem for determining the updater is formulated as a Quadratic Unconstrained Binary Optimization (QUBO) model. To demonstrate its performance, the developed design framework is tested on different computing platforms to perform design optimization for truss structures, as well as 2D and 3D continuum structures. Numerical results indicate that the proposed framework successfully finds optimal topologies similar to benchmark results. Furthermore, the results show the advantage of reduced time in finding an optimal design using quantum annealing compared to simulated annealing.}
+}

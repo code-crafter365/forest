@@ -1,0 +1,13 @@
+@article{LIU2025109051,
+title = {In-situ constructing robust interface with solid–solid bi-continuous phase electrolyte enables carbon fiber structural energy storage composites with increased multifunctional efficiency},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109051},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109051},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003458},
+author = {Xu Liu and Qingqing Wang and Limin Zhou},
+keywords = {Structural supercapacitor, Bi-continuous solid electrolyte, Interfacial engineering, Mechanical properties},
+abstract = {Carbon fiber structural supercapacitor composites (SSCs), which synergistically integrate mechanical load-bearing capabilities and electrochemical energy-storage functionalities, emerge as groundbreaking mass-saving solutions for next-generation electrical systems. This work innovatively engineered a rigid bicontinuous-phase solid–solid electrolyte incorporating plastic crystals via polymerization-induced phase separation (PIPS). The intricate correlations between microphase architecture, mechanical robustness, and electrochemical dynamics were comprehensively deciphered through systematic modulation of biphasic mass ratios. This bicontinuous electrolyte architecture features three-dimensional percolating ion-conduction networks constructed by plastic crystals, interpenetrated with a crosslinked epoxy-based rigid matrix, achieving concurrent high ionic conductivity (0.32 mS cm−1) and Young’s modulus (1.16 GPa). Leveraging interfacial engineering optimization, the fabricated structural zinc-ion supercapacitors employing this electrolyte demonstrate high multifunctional efficiency, reaching 1.07. Rigorous validation through in-situ electrochemical-mechanical coupling tests, damage evolution characterization, and wide-temperature environmental tests (−10 to 60°C) confirms remarkable operational durability. Furthermore, the designed honeycomb sandwich-structured SSCs (HS-SSCs) and their multicellular integrated configurations exemplify scalable modularity, highlighting the transformative potential of this structural-functionality-integrated paradigm for engineering applications.}
+}

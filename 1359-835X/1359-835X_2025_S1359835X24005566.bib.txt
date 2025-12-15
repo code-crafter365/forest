@@ -1,0 +1,13 @@
+@article{SHU2025108558,
+title = {Fabrication of core–shell nickel ferrite@polypyrrole composite for broadband and efficient electromagnetic wave absorption},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108558},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108558},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005566},
+author = {Ruiwen Shu and Kunlong Yun and Xinyue Liu and Leilei Xu},
+keywords = {A. Hybrid, A. Nanocomposites, B. Interface, B. Electromagnetic wave absorption},
+abstract = {Herein, nickel ferrite@polypyrrole (NiFe2O4@PPy) composite was prepared by a simple two-step route of solvothermal synthesis and in-situ oxidation polymerization reaction. The results of micromorphology analysis showed that the obtained NiFe2O4@PPy composite had a unique core–shell structure, good magnetic performance and electrical conductivity. Furthermore, the as-prepared magnetic/conductive NiFe2O4@PPy composite exhibited notably enhanced electromagnetic wave (EMW) absorption performance than pure NiFe2O4 and PPy. When the filling ratio was 17.5 wt% and the matching thickness was 2.24 mm, the optimal minimum reflection loss (RLmin) of −56.25 dB and a broad effective absorption bandwidth (EAB) of 5.2 GHz were achieved for NiFe2O4@PPy composite. With slightly increasing the matching thickness to 2.6 mm, the maximum EAB of 7.12 GHz could be reached. Additionally, the probable EMW absorption mechanism was elucidated. Therefore, this work could provide a valuable reference for the preparation of magnetic ferrite/conductive polymer composites as broadband and high-efficiency EMW absorbers.}
+}

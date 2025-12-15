@@ -1,0 +1,13 @@
+@article{WANG2025114874,
+title = {Nanozymes for regulation of reactive oxygen species in biomedical applications: Design, enzyme-like activity and therapeutic mechanisms},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114874},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114874},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003819},
+author = {Min Wang and Wenjia Xu and Yucui Ding and Xinyu Liu and Jianlong Fu and Peng Zhang},
+keywords = {Nanozymes, Reactive oxygen species (ROS), Biomedical applications, Catalytic mechanism, Enzyme-like activity},
+abstract = {Nanozymes, which are artificially synthesized nanomaterials exhibiting enzyme-like activity, have garnered significant attention in recent years due to their potential as viable substitutes for natural enzymes. They demonstrate similar enzymatic kinetic properties comparable to natural enzymes and offer several advantages, including enhanced stability, cost-effective storage and preparation, reusability, and scalability. These advantages make nanozymes particularly opportunities for various applications. Notably, nanozymes can effectively regulate reactive oxygen species (ROS), thereby helping to maintain dynamic redox equilibrium within biological systems, making those nanozymes suitable for ROS-related diseases treatment, such as inflammation, neurodegenerative disorders, and cardiovascular diseases. On the other side, some nanozymes can be employed to target and eliminate tumor cells or pathogens through ROS generation, thus presenting opportunities for such disease treatment. Recent achievements in the development of nanozymes within the pharmaceutical field have significantly expanded their potential for biomedical applications. This review provides a brief overview of the classification of nanozymes, enzyme-like activity and catalytic mechanisms, and applications in disease treatment. Additionally, the challenges and future prospects of nanozymes in the biological field are also discussed. This review aims to serve as a valuable resource for researchers across multiple biomedical fields, offering insights into the design and application of nanozymes in biomedical applications.}
+}

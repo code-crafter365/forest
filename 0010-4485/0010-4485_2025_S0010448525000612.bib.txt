@@ -1,0 +1,13 @@
+@article{MASOUDI2025103899,
+title = {Recent advancement in conformal cooling channels: A review on design, simulation and future trends},
+journal = {Computer-Aided Design},
+volume = {186-187},
+pages = {103899},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103899},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000612},
+author = {Soroush Masoudi and Barun K. Das and Muhammad Aamir and Majid Tolouei-Rad},
+keywords = {Injection moulding, Conformal cooling channel, Mould design, Heat transfer, Cooling rate, Additive manufacturing, Simulation},
+abstract = {The cooling phase of a moulded part plays a crucial role in the injection moulding (IM) process, accounting for 50 to 80 % of total cycle time, and significantly impacting the quality of moulded parts. During the last decade, the advancement of different additive manufacturing (AM) processes, especially metal 3D printing, has facilitated the production of mould parts, such as cores and cavities, with complex-shaped internal conformal cooling channels (CCCs). These innovative cooling systems exhibit significant potential to replace traditional straight-drilled cooling design, as they offer more efficient and uniform cooling performance by facilitating more effective heat transfer, considerably enhancing production quality and efficiency. Despite the growing attention being given to the design and manufacturing of CCC systems, there is still a lack of systematic and comprehensive classification, comparison and evaluation methodologies. This paper aims to review various types of conformal cooling channels, such as spiral, zigzag and nature-based designs, among others, and to provide an overview of advancements in design, process modeling and simulation of this new cooling technology. Previous studies have indicated that conventional straight-drilled cooling channels are likely to be replaced by CCCs, especially for complex and sensitive parts, due to their superior performance in reducing cycle times and enhancing product quality. The present study explores various challenges that arise when developing conformal cooling channels. These issues range from optimizing complex geometry to improving thermal performance through modelling. However, these challenges also present opportunities for innovation and advancement in mould design and manufacturing.}
+}

@@ -1,0 +1,13 @@
+@article{REN2025117979,
+title = {Geometrically exact beam finite element with generalized B-spline interpolation on the special Euclidean group SE(3)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117979},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117979},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002518},
+author = {Kunming Ren and Tingting Yuan and Jinyang Liu},
+keywords = {Generalized B-spline interpolation, Continuity of interpolation, Special Euclidean group, Geometrically exact beam, Isogeometric analysis},
+abstract = {This work aims to address the challenge of achieving continuity in beam element interpolation by introducing a geometrically exact beam finite element based on generalized B-spline interpolation on the special Euclidean group SE(3). The beam’s configuration is represented within the SE(3) framework and interpolated using a generalized B-spline approach, enabling high-order interpolation with enhanced C1 continuity. The interpolation is implemented through an extension of the classical De Boor algorithm to Lie groups via the pyramid algorithm. A systematic method is proposed for computing derivatives and linearizations essential for finite element formulations. Both static and dynamic equilibrium equations are derived on SE(3), and the finite element formulations are established accordingly. Numerical examples validate the proposed element, confirming its correctness and adherence to critical properties, including objectivity, path-independence, and the absence of locking. The combination of C1 continuity and the high degree of the interpolation substantially enhances the convergence performance. In particular, the degree-2 beam element achieves improved accuracy with sixth-order convergence rates when the degrees of freedom are relatively low. These characteristics make the proposed element highly suitable for high-accuracy simulations of beam structures undergoing large deformations and rotations.}
+}

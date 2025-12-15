@@ -1,0 +1,13 @@
+@article{LIU2025117510,
+title = {Design and optimization of variable radii self-supporting lattice structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117510},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117510},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007643},
+author = {Yi Liu and Peng Zhang and Wenpeng Xu and Wei Zeng and Yi-Jun Yang and Weiming Wang},
+keywords = {Lattice structure, Self-supporting, Additive manufacturing, Variable-radius strut},
+abstract = {Lattice structures offer significant advantages, including high strength-to-weight ratios, efficient material use, and customizable properties, making them ideal for applications ranging from aerospace components to biomedical implants. However, existing lattice structure design and optimization methods either do not consider the self-supporting property of the generated lattice structures or construct the struts with fixed radii. As a result, the printability and the performance of the generated lattice structures may be seriously affected. Motivated by these issues, this paper presents a method to generate variable radii self-supporting lattice structures for additive manufacturing. A lattice unit cell, namely the Symmetric Triangular Dodecahedron Lattice Unit Cell (STDLUC), is designed, which can be uniquely determined with several parameters. Each node of the STDLUC is associated with a radius. The relationship between the self-supporting property of the STDLUC and these parameters is investigated, and a self-supporting constraint is proposed for the variable-radius struts. Next, the Hexagonal Close-Packed-like packing method is used to construct the initial self-supporting lattice structure, with all struts designed as variable-radius struts. Subsequently, the node positions and radii are optimized using the proposed optimization formulation with the self-supporting constraint to enhance the performance of the lattice structure. To ensure the printability of the generated lattice structure, the radius range of the nodes used in the optimization is analyzed according to the minimum printable feature size of the 3D printer and buckling conditions. The effectiveness of the proposed method and the performance of the lattice structures generated with this method have been demonstrated through extensive numerical and physical experiments and comparisons.}
+}

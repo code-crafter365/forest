@@ -1,0 +1,13 @@
+@article{HAO2025119246,
+title = {Creep behaviour and lifespan of flax fibre composites with different polymer matrices},
+journal = {Composite Structures},
+volume = {367},
+pages = {119246},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119246},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004118},
+author = {Jianqun Hao and Stepan V. Lomov and Carlos A. Fuentes and Aart Willem {Van Vuure}},
+keywords = {Flax fibre composites, Thermoplastic matrix, Creep behaviour, Interface property},
+abstract = {Despite the promising structural applications of thermoplastic polymer composites (TPCs) reinforced with natural fibres, their long-term performance remains insufficiently understood, which often results in the overdesign of composite structures. This work aims to gain a deeper understanding of the long-term creep behaviour of flax fibre-reinforced TPCs for load-bearing applications, focusing on selecting an optimal thermoplastic polymer among four different thermoplastic polymers − polypropylene, polyoxymethylene, polyamide 11, and polylactic acid, using epoxy as a benchmark. Short-term creep tests on the neat polymers and the composites reveal that the fibre/matrix interface plays a more important role in the creep response of the composites than the matrix itself, despite the polymer’s viscoelastic nature being the primary source of creep. “Run to failure” tests were performed using a custom-designed flexural creep set-up. The creep lifespan was analysed using an energy-based creep rupture model. Acoustic emission and scanning electron microscope were used to analyse creep damage evolution and rupture mechanisms, respectively. The longest lifespan among the four TPCs was observed in flax/polylactic acid composite, attributed to its superior interface properties, enhanced creep resistance, higher stored energy limit, and slower damage development. When compared with flax/epoxy composite under a same stress of 150 MPa, the four TPCs demonstrated a significantly shorter lifespan (one to three orders of magnitude shorter). Under a same stress ratio of 80 %, however, the four TPCs exhibited less disparate creep lifespan compared to flax/epoxy composite, suggesting their potential applications for low to medium load-bearing structural components.}
+}

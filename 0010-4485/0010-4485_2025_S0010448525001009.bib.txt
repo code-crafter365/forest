@@ -1,0 +1,13 @@
+@article{MEI2025103939,
+title = {Direct mesh-free topology optimization using random feature method},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103939},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103939},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001009},
+author = {Zijian Mei and Yang Huang and Jingrun Chen},
+keywords = {Topology optimization, Random feature method, Reparameterization},
+abstract = {We propose a novel mesh-free topology optimization framework based on the random feature method (RFMTO). It inputs domain coordinates and boundary conditions and minimizes structural compliance under a volume constraint. By coupling a density field neural network with a physics-informed response network, RFMTO eliminates the discretization of design variables and the need for traditional finite element analysis (FEA), enabling direct structural topology optimization. Unlike the physics-informed neural networks used in related work and the FEA in traditional approaches, the RFM solver in this framework retains the advantages of mesh-free methods while efficiently solving the associated partial differential equations, offering high accuracy with reduced computational time, which is essential for topology optimization. Meanwhile, to address the issue of density networks converging to poor local minima in complex cases encountered by existing methods, we incorporate a point-wise density target loss into the loss function to guide the network updates more effectively. We conducted experiments on problems such as linear elasticity and heat sink optimizations. Results on both 2D and 3D benchmark problems demonstrate that RFMTO achieves performance comparable to, or even better than, classical methods such as SIMP, while maintaining similar or improved computational efficiency. Compared to state-of-the-art neural network-based approaches such as DMF-TONN (Direct Mesh-free Topology Optimization Method using Neural Networks), RFMTO can generate smoother and more detailed designs, significantly reduce computation time, and solve problems — such as heat sink optimization — that those methods fail to address. These findings indicate that RFMTO holds strong potential as an efficient and accurate industrial-grade topology optimization tool.}
+}

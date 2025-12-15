@@ -1,0 +1,13 @@
+@article{RABINOVICH2025117579,
+title = {A symmetric finite element scheme with high-order absorbing boundary conditions for 2D waveguides},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117579},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117579},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008338},
+author = {Daniel Rabinovich and Dan Givoli},
+keywords = {Hagstrom–Warburton, Absorbing boundary conditions, Double Absorbing Boundary, High order, Wave equation, Symmetric, Finite Element},
+abstract = {The Hagstrom–Warburton (HW) boundary operators play an important role in the development of high-order computational schemes for problems in unbounded domains. They have been used on truncating boundaries in the formulation of a sequence of high-order local Absorbing Boundary Conditions (ABCs) and in the Double Absorbing Boundary (DAB) method. These schemes proved to be very accurate, efficient, and generalizable for various wave equations and complex media. Yet, Finite Element (FE) formulations incorporating such high-order ABCs or DAB lack symmetry and positivity. As a result, they suffer from some deficiencies, namely (a) they do not allow the use of an explicit time-stepping scheme, since the global mass matrix and/or damping matrix are non-symmetric, and lumping is unsafe, (b) their stability is difficult to control under certain conditions, and (c) they render the fully-discrete problem non-symmetric even if the original problem in the unbounded domain is self adjoint, hence prevent the use of a symmetric algebraic solver. In this paper the HW-ABC for the scalar wave equation is applied to 2D waveguide configurations. It is manipulated in such a way that it leads to a symmetric FE-ABC formulation with positive definite matrices. The new symmetric formulation is achieved by applying a number of operations to the HW condition: first, combining each pair of recursive relations into one relation, then using the wave equation for each auxiliary function, and finally integrating the resulting ABC in time. The latter is the crucial step in the new method. The proposed method is free from the deficiencies (a)–(c) mentioned above. The DAB method undergoes a similar treatment. In this case, one of the matrices is slightly asymmetric, but deficiencies (a) and (b) are still prevented. The stability and accuracy of the new formulations are discussed, and their performance is demonstrated via numerical examples.}
+}

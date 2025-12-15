@@ -1,0 +1,13 @@
+@article{ZHOU2025118794,
+title = {Broadband sound absorption of micro-perforated sandwich panels with hierarchical honeycomb core at high sound pressure levels},
+journal = {Composite Structures},
+volume = {354},
+pages = {118794},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118794},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400922X},
+author = {Xindong Zhou and Weitao Zhang and Xiangfei Geng and Fengxian Xin},
+keywords = {Sound absorption, Micro-perforated sandwich panel, Hierarchical honeycomb core, High sound pressure levels (SPLs)},
+abstract = {This paper investigates the effects of high sound pressure level (SPL) on the sound absorption of micro-perforated sandwich panels with hierarchical honeycomb core. Based on the nonlinear sound absorption theory of micro-perforated plates, a theoretical model is established to study the absorption performance of the structure at high SPLs, which is verified by numerical simulations. The results show that under high SPL conditions, the acoustic resistance of the structure is greatly increased and the acoustic reactance of the structure is slightly decreased, resulting in the decrease of the absorption peak values and the increase of the peak frequencies of the structure. The high SPLs can greatly enhance the motion of the air particles in and around the micro-perforation, leading to vortex generation and shedding from the end of the perforation hole. In order to improve the absorption performance of the structure at high SPLs, an optimization algorithm is introduced in the design of the absorber. It is shown that the structure designed with large perforation holes and deep air cavities can achieve good broadband absorption performance at both low and high SPLs. Experimental tests are also carried out to validate the broadband absorption potential of the structure. This work provides guidance for the design and optimization of sound absorbing structures under high sound pressure level conditions.}
+}

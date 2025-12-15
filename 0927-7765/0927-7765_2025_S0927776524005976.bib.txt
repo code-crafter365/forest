@@ -1,0 +1,13 @@
+@article{MOGHASSEMI2025114338,
+title = {Metallic-based phthalocyanine nanoemulsions for photodynamic purging of ovarian tissue in leukemia patients},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114338},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114338},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005976},
+author = {Saeid Moghassemi and Arezoo Dadashzadeh and Saba Nikanfar and Pejman Ghaffari-Bohlouli and Paulo Eduardo Narcizo {de Souza} and Amin Shavandi and Ricardo Bentes de Azevedo and Christiani A. Amorim},
+keywords = {Photodynamic therapy, Nanoemulsion, Nanomedicine, Cancer therapy, Ovarian transplantation, Leukemia},
+abstract = {For cancer patients with a high risk of ovarian tissue metastasis, ovarian autotransplantation is not advised due to the potential spread of malignant cells. Ex vivo purging of ovarian fragments may offer a more suitable alternative for fertility restoration. Eradicating malignant cells should be done selectively without affecting follicles or ovarian stromal cells (SCs). As a clinically licensed method, photodynamic therapy (PDT) is a minimally invasive treatment to destroy cancer cells. This study evaluates the effectiveness of nanoemulsions (NE) containing two phthalocyanine photosensitizers; aluminum (III) phthalocyanine (AlPc) and zinc (II) phthalocyanine (ZnPc) in eliminating cancer cells. Human leukemic malignant (HL-60) and ovarian stromal cells (SCs) were treated with AlPc/ZnPc loaded NEs with or without diode laser irradiation. HL-60 leukemia cells in 2D culture were eliminated by treatment with 10 nM AlPc-NE or 0.1 µM ZnPc-NE, while no toxicity was observed in SCs. In 3D culture models, although the cells showed more resistance to the NEs as a result of limited oxygen and photosensitizer penetration, the treatment remained selective for cancer cells. These approaches have the potential to eliminate malignant cells from ovarian tissue fragments.}
+}

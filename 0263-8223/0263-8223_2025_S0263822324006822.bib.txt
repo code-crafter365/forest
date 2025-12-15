@@ -1,0 +1,13 @@
+@article{HONG2025118554,
+title = {Mesoscopic finite-element prediction method for impact-energy absorption mechanism of multiphase STF/Kevlar composite fabric},
+journal = {Composite Structures},
+volume = {351},
+pages = {118554},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118554},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006822},
+author = {Xiang Hong and Yu Ma and Zhenkun Lei and Ruixiang Bai and Mengyu You and Heshan Bai and Yan Li},
+keywords = {Composite fabric, Interface friction model, Impact imprint testing, 3D morphology, Impact energy absorption},
+abstract = {Shear-thickening fluids (STFs) effectively enhance the impact-energy absorption of Kevlar fabrics and offer an extensive range of applications for human-safety protection. To precisely depict the impact-energy absorption mechanism and stress transfer behavior of multiphase STF/Kevlar composite fabrics under high strain rates, this study introduces a yarn-interface-friction constitutive model that accounts for the strain rate-thickening effect of STFs. The model is incorporated into a mesoscale numerical simulation to enhance computational accuracy. Theoretical models (impact-pit morphology, yarn-strain, and fabric-strain energy models) are employed to evaluate the off-plane displacement, strain distribution, and impact-energy absorption during impact imprint tests. The established simulation model shows high similarity (0.99) to the impact imprint profile curve and reveals that the strain energy and interfacial friction energy of the composite fabrics contribute primarily to energy dissipation during the impact process. Furthermore, in all specimens, C-STF/Kevlar (CNTs reinforced STF/Kevlar) exhibits reduced off-plane displacement, increased primary-yarn stress, and a higher capacity for impact kinetic-energy absorption. The proposed interface-friction constitutive model can accurately predict the deformation and energy absorption levels of the composite fabrics at various strain rates, thereby offering effective simulation guidance for the preliminary design of composite fabrics.}
+}

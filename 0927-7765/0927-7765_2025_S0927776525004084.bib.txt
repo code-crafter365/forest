@@ -1,0 +1,13 @@
+@article{WU2025114901,
+title = {NIR-triggered temperature-sensitive polydopamine nanosystem with rapid phase transition for on-demand release to enhance antibacterial and antibiofilm performance},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114901},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114901},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004084},
+author = {Mingyuan Wu and Mengru Liu and Guipeng Feng and Ruoling Jia and Rongxiang Chen and Yawen Li and Guoyi Yan and Zhen-Jiang Qiu},
+keywords = {Antibiotic abuse, NIR-triggered, Temperature-sensitive, Phase transition, Photothermal therapy},
+abstract = {The antibiotic abuse and bacterial biofilm barriers pose a formidable challenge to global public health. To address this issue, we developed a near-infrared (NIR)-triggered temperature-sensitive polydopamine nanosystem (PDA@Ag@Cur@PCM) by integrating silver nanoparticles (AgNPs) and curcumin (Cur) with the phase change material 1-tetradecanol. The system achieved NIR-triggered on-demand drug release and synergistic photothermal-chemo antibacterial, significantly enhancing antibacterial and antibiofilm efficacy. Under NIR, the outstanding photothermal conversion capability of PACP induces the phase transition of 1-tetradecanol, facilitating precise release of Cur and Ag⁺. The PACP nanosystem can not only effectively suppress bacterial quorum sensing (QS) but also ensure Ag⁺ mediated antibacterial activity. Moreover, mild photothermal therapy (PTT) achieved potent antibacterial effects while maintaining excellent tissue biocompatibility, thereby minimized systemic toxicity. In vitro studies demonstrated that the nanoplatform efficiently disrupts mature biofilms, significantly reduces ATP levels and total carbohydrate content, while achieving remarkable antibacterial effects against S. aureus (98.3 %) and E. coli (97.2 %). By integrating low-temperature phototherapy with controlled Cur and Ag⁺ release, the PACP nanosystem represents a safe and highly effective antibiotic-free alternative, offering a promising solution for combating infections in the post-antibiotic era.}
+}

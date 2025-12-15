@@ -1,0 +1,13 @@
+@article{BRIARD2025106741,
+title = {Poisson solvers for strongly stratified turbulent flows},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106741},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106741},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002014},
+author = {Antoine Briard and Benoît-Joseph Gréa and Ludomir Oteski and Olivier Soulard and Jérôme Griffond and Sébastien Thévenin and Luminita Danaila},
+keywords = {Stratified turbulence, Poisson solver, Numerical convergence},
+abstract = {Turbulent mixing occurs in numerous applications and natural flows between fluids of very different density contrasts where the Boussinesq approximation no longer applies. In the low Mach number limit of arbitrary large density contrasts, called the Variable-Density approximation, the Poisson solver that determines the pressure field can be numerically very costly. Here we investigate the performances of two solvers: the Generalized Minimal Residual, GMRES, and the Bi-Conjugate Gradients STAB at order l, BICGS(l). Comparisons are made in two different frameworks: the Unstably Stratified Homogeneous Turbulence (USHT) and the Rayleigh–Taylor instability (RTI). Direct Numerical Simulations with 10243 up to 20483 points are performed. The USHT configuration serves as a challenging test lab to set the relevant optimizations for both the GMRES and BICGS(l) solvers before addressing the more realistic RTI. It appears that GMRES provides the smallest residual norm, while the BICGS(2) algorithm can be up to 25% faster and yields a comparable residual norm. Such performances are reached thanks to original optimizations of the BICGS(l) algorithm. In addition, we developed a fast Poisson solver that significantly speeds up the computations, at the expense of only a moderate loss of accuracy.}
+}

@@ -1,0 +1,13 @@
+@article{TU2025118138,
+title = {Robust BDDC algorithms for elasticity with locking-free and penalty-free weak Galerkin discretizations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118138},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118138},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004104},
+author = {Xuemin Tu and Zhuoran Wang},
+keywords = {Weak Galerkin, Domain decomposition, Elasticity, BDDC, Saddle point problems, Convex polygon meshes},
+abstract = {The balancing domain decomposition by constraints methods (BDDC) have been applied to solve the saddle point problems arising from the penalty-free and locking-free weak Galerkin (WG) discretizations for the elasticity problems with both strain-div and grad-div formulations in the two dimensions. The saddle point problems are reduced to positive definite problems by eliminating the discontinuous pressure on each element. Edge average constraints are enforced across the subdomain interface for each displacement component to ensure that dual variables satisfy the no-net-flux condition, which is the key condition to prove the useful equivalent relation in the analysis. With a simple ρ-scaling and extra constraints derived from the rotation rigid body mode enforced on the subdomain edges for the strain-div formulation, the condition number is proved to be bounded for the parameters with jumps only across the subdomain interface. When the parameters have jumps inside each subdomain, additional adaptively chosen primal constraints and the deluxe scaling are introduced to control the condition numbers. These adaptive primal constraints are obtained by solving local generalized eigenvalue problems. Extensive numerical experiments confirm the theory.}
+}

@@ -1,0 +1,13 @@
+@article{YU2025104301,
+title = {Fake News Detection Based on BERT Multi-domain and Multi-modal Fusion Network},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104301},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104301},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000244},
+author = {Kai Yu and Shiming Jiao and Zhilong Ma},
+keywords = {Fake News, BERT, VGG-19, Multimodal Fusion, Multi-Domain Classification},
+abstract = {The pervasive growth of the Internet has simplified communication, making the detection and annotation of fake news on social media increasingly critical. Leveraging existing studies, this work introduces the Fake News Detection Based on BERT Multi-domain and Multi-modal Fusion Network (BMMFN). This framework utilizes the BERT model to transform text content of fake news into textual vectors, while image features are extracted using the VGG-19 model. A multimodal fusion network is developed, factoring in text-image correlations and interactions through joint matrices that enhance the integration of information across modalities. Additionally, a multidomain classifier is incorporated to align multimodal features from various events within a unified feature space. The performance of this model is confirmed through experiments on Weibo and Twitter datasets, with results indicating that the BMMFN model surpasses contemporary state-of-the-art models in several metrics, thereby effectively enhancing the detection of fake news.}
+}

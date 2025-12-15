@@ -1,0 +1,13 @@
+@article{KAPOOR2025104290,
+title = {Graph-based Moving Object Segmentation for underwater videos using semi-supervised learning},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104290},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104290},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500013X},
+author = {Meghna Kapoor and Wieke Prummel and Jhony H. Giraldo and Badri Narayan Subudhi and Anastasia Zakharova and Thierry Bouwmans and Ankur Bansal},
+keywords = {Graph learning, Semi-supervised learning, Underwater object segmentation, Deep learning},
+abstract = {Moving object segmentation (MOS) using passive underwater image processing is an important technology for monitoring marine habitats. It aids marine biologists studying biological oceanography and the associated fields of chemical, physical, and geological oceanography to understand marine organisms. Dynamic backgrounds due to marine organisms like algae and seaweed, and improper illumination of the environment pose challenges in detecting moving objects in the scene. Previous graph-learning methods have shown promising results in MOS, but are mostly limited to terrestrial surface videos such as traffic video surveillance. Traditional object modeling fails in underwater scenes, due to fish shape and color degradation in motion and the lack of extensive underwater datasets for deep-learning models. Therefore, we propose a semi-supervised graph-learning approach (GraphMOS-U) to segment moving objects in underwater environments. Additionally, existing datasets were consolidated to form the proposed Teleost Fish Classification Dataset, specifically designed for fish classification tasks in complex environments to avoid unseen scenes, ensuring the replication of the transfer learning process on a ResNet-50 backbone. GraphMOS-U uses a six-step approach with transfer learning using Mask R-CNN and a ResNet-50 backbone for instance segmentation, followed by feature extraction using optical flow, visual saliency, and texture. After concatenating these features, a k-NN Graph is constructed, and graph node classification is applied to label objects as foreground or background. The foreground nodes are used to reconstruct the segmentation map of the moving object from the scene. Quantitative and qualitative experiments demonstrate that GraphMOS-U outperforms state-of-the-art algorithms, accurately detecting moving objects while preserving fine details. The proposed method enables the use of graph-based MOS algorithms in underwater scenes.}
+}

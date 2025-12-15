@@ -1,0 +1,13 @@
+@article{QIN2025119392,
+title = {Effects of multi-field coupled curing process on mechanical performance of CFRP composites under three-point bending},
+journal = {Composite Structures},
+volume = {370},
+pages = {119392},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119392},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005574},
+author = {Silu Qin and Xinyu Hui and Yingjie Xu and Weihong Zhang},
+keywords = {CFRP composites, Curing process, Residual stresses, Three-point bending, Damage behavior},
+abstract = {Curing-induced residual stresses (CRS) inevitably produce during the curing process and finally influence the serviceability of carbon fiber reinforced polymer (CFRP) composites. This work develops a comprehensive computational framework to investigate the effects of CRS on mechanical performance of composites under three-point bending. The CRS are obtained from the multi-field coupled curing process model and are introduced as initial prestresses into the progressive damage model to reveal the subsequent loading process. The damage results are found to be consistent with the experimental results captured by digital image correlation (DIC) and super depth of field microscope. Furthermore, the layup effects of composites including cross-ply layup and unidirectional layup are studied to validate the applicability of this framework. It is shown that the CRS significantly affect the damage evolution, failure modes and deformation of cross-ply composites. The results provide new insights into layup optimization for the improvement of mechanical performance.}
+}

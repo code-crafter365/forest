@@ -1,0 +1,13 @@
+@article{FRANCESCONI2025102529,
+title = {Class balancing diversity multimodal ensemble for Alzheimer’s disease diagnosis and early detection},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102529},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102529},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000382},
+author = {Arianna Francesconi and Lazzaro {di Biase} and Donato Cappetta and Fabio Rebecchi and Paolo Soda and Rosa Sicilia and Valerio Guarrasi},
+keywords = {Multimodal data, Imbalance learning, Tabular data, Machine learning, Ensemble learning, Mild cognitive impairment},
+abstract = {Alzheimer’s disease (AD) poses significant global health challenges due to its increasing prevalence and associated societal costs. Early detection and diagnosis of AD are critical for delaying progression and improving patient outcomes. Traditional diagnostic methods and single-modality data often fall short in identifying early-stage AD and distinguishing it from Mild Cognitive Impairment (MCI). This study addresses these challenges by introducing a novel approach: multImodal enseMble via class BALancing diversity for iMbalancEd Data (IMBALMED). IMBALMED integrates multimodal data from the Alzheimer’s Disease Neuroimaging Initiative database, including clinical assessments, neuroimaging phenotypes, biospecimen, and subject characteristics data. It employs a new ensemble of model classifiers, designed specifically for this framework, which combines eight distinct families of learning paradigms trained with diverse class balancing techniques to overcome class imbalance and enhance model accuracy. We evaluate IMBALMED on two diagnostic tasks (binary and ternary classification) and four binary early detection tasks (at 12, 24, 36, and 48 months), comparing its performance with state-of-the-art algorithms and an unbalanced dataset method. To further validate the proposed model and ensure genuine generalization to real-world scenarios, we conducted an external validation experiment using data from the most recent phase of the ADNI dataset. IMBALMED demonstrates superior diagnostic accuracy and predictive performance in both binary and ternary classification tasks, significantly improving early detection of MCI at a 48-month time point and showing excellent generalizability in the 12-month task during external validation. The method shows improved classification performance and robustness, offering a promising solution for early detection and management of AD.}
+}

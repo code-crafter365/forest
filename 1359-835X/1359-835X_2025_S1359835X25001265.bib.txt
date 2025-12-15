@@ -1,0 +1,13 @@
+@article{DING2025108832,
+title = {Developing electrothermal energy storage system for building heating by using stainless steel wires reinforced ultra-high performance concrete},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108832},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108832},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001265},
+author = {Shuoxuan Ding and Xinyue Wang and Ashraf Ashour and Danna Wang and Tong Sun and Baoguo Han},
+keywords = {Stainless steel wires, Ultra-high performance concrete, Self-heating, Electrothermal energy storage},
+abstract = {Stainless steel wires (SSWs) with microscale diameter and high aspect ratio can form extensive electrically and thermally conductive networks within concrete at low contents. Combined with their high mechanical properties and corrosion resistance, SSWs enable concrete with self-heating capability and excellent thermal conductivity, as well as ultra-high mechanical properties and durability. Such SSWs enabled self-heating ultra-high performance concrete (SES-UHPC) can achieve active temperature control and on-site utilization of intermittent renewable energies, beneficial to reducing energy consumption and carbon emissions from building heating. Therefore, this study prepared SES-UHPC slabs embedded with Al2O3 tubes encapsulating either water or phase change material (PCM). The content levels of SSWs incorporated in test specimens were 0.5 vol%, 1.0 vol%, and 1.5 vol%. The electrical, self-heating, and thermal storage properties as well as the thermal storing-releasing model of these slabs were investigated. Furthermore, their building heating performances were verified in a simulated room. The results indicated that the SES-UHPC slab with 1.5 vol% of SSWs has an electrical conductivity as low as 2.0 Ω·cm, unaffected by temperature and thermal cycling. The slab with 1.5 vol% of SSWs can be heated from 20 °C to 80 °C with a power of 65 W in 6.8 h, and it continuously provides a total of 90.5 kJ heat supply for 14.4 h. The proposed thermal storing-releasing model based on Newton’s law of cooling can accurately describe the temperature of the slabs tested. In a simulated room, the SES-UHPC slabs with water/PCM kept the indoor temperature above 15 °C for 14.4 h to 10.3 h with outdoor temperatures of −5°C to −3°C and wind speed of up to 5.7 m/s.}
+}

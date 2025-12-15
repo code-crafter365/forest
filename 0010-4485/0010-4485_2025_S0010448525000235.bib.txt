@@ -1,0 +1,13 @@
+@article{CHATTERJEE2025103861,
+title = {Turn or twist? Verify locally to vectorize globally},
+journal = {Computer-Aided Design},
+volume = {183},
+pages = {103861},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103861},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000235},
+author = {Preetam Chayan Chatterjee and Partha Bhowmick},
+keywords = {Vectorization, Discrete geometry, Word theory, Cubic approximation, Bézier curves, Digital curve, Monotone curve, Inflection point},
+abstract = {This paper introduces a novel technique for analyzing digital curves by identifying turns and twists. A turn or twist, being a local feature, is well-defined for any three consecutive runs. A twist indicates an inflection, while a turn signifies no inflection. Determining the presence of inflections in a digital curve involves identifying twists interspersed among turns. We construct a definite grammar tree within the domain of regular language using a word-theoretic interpretation of pixel runs. We demonstrate how the pre-images of these runs facilitate a combinatorial classification of digital curves in discrete geometry, correlating with the grammar tree classification. This approach results in efficient vectorization of digital curves through a well-defined segmentation that adheres to certain invariant properties. Experimental results are provided to demonstrate the merit and efficacy of our method.}
+}

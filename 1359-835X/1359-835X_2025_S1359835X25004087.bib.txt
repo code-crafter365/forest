@@ -1,0 +1,13 @@
+@article{DU2025109114,
+title = {A synergetic approach to enhancing mechanical properties of trace TiB2 particles reinforced AZ91D composites through α-Mg grain refinement and β-Mg17Al12 manipulation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109114},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109114},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004087},
+author = {Zelong Du and Xueqiang Yang and Qing Wang and Hangze Wu and Kai Zhao and Lei Liu and Zongning Chen and Zhirou Zhang and Enyu Guo and Huijun Kang and Tongmin Wang},
+keywords = {AZ91D composites, TiB particles, Microstructure manipulation, X-ray tomography},
+abstract = {Cast AZ91D magnesium alloys are plagued by coarse α-Mg grains and continuous β-Mg17Al12 phases that compromise mechanical performance. This work proposes a TiB2 particle-reinforced AZ91D composite strategy that simultaneously addresses both challenges through interfacial engineering. Introducing trace 0.3 wt.% TiB2 particles into the AZ91D alloy enables refinement via coupled heterogeneous nucleation and growth restriction effects. The identified crystallographic orientation relationship ([112¯0]Mg//[112¯0]TiB2, and (011¯0)Mg//(0001)TiB2) confirms effective α-Mg nucleation on TiB2 interfaces, reducing grain size by 64.4% to 68.2 μm. Concurrently, the β-Mg17Al12 phase morphology transitions from a typical continuous network to a dispersed small block or spherical structure through grain boundary pinning effects enabled by the refined microstructure. The yield strength, ultimate tensile strength, and elongation of AZ91D with 0.3 wt.% TiB2 particles are 129.2 MPa, 247.0 MPa, and 8.5%, respectively, which are increased by 9.1%, 26.3%, and 63.4% compared to the particle-free AZ91D alloy. This interfacial design strategy not only deciphers the particle–matrix interaction mechanisms in Mg-based composites but also provides insight into the development of refiners for cast Mg alloys.}
+}

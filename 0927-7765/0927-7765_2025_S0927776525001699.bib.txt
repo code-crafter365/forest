@@ -1,0 +1,13 @@
+@article{CHEN2025114662,
+title = {Enhanced skin adhesion of transdermal drug delivery system via a semi-IPN strategy: in vitro/in vivo evaluation and drug release mechanism},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114662},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114662},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001699},
+author = {Guixue Chen and Maojian Li and Yanan Liu and Man Li and Daoxuan Xie and Yimeng Zhang and Nanxi Zhao and Zheng Luo},
+keywords = {Skin adhesion, Semi-IPN, Transdermal drug delivery system, Patch},
+abstract = {Pressure-sensitive adhesives (PSAs) used for transdermal patches often present mechanical issues that lead to cold flow phenomena, patch shifting, and disrupt dose precision while creating an unwanted "dark ring" effect. Semi-interpenetrating network (semi-IPN) PSAs were synthesized in this study, which enhanced cohesion and reduced cold flow by integrating a cross-linked network into a linear polymer matrix to enhance structural integrity. Meanwhile, rivastigmine, etodolac, ketoprofen, propranolol, pirfenidone, and zolmitriptan were used to evaluate drug release rates from the semi-IPN PSA. The skin adhesion properties of the semi-IPN PSA were outstanding. Its cohesion was significantly higher than two commercially available PSAs: over 1000-fold greater than DURO-TAK® 87–2287 and 75.9 times greater than DURO-TAK® 87–4098. Drug release rates were comparable between traditional and semi-IPN PSAs. The release rates of different drugs were negatively correlated with drug polarizability, suggesting dipole-dipole interactions as the key mechanism. In summary, the semi-IPN strategy offers a robust solution for high-performance transdermal patches by improving adhesion without compromising drug release.}
+}

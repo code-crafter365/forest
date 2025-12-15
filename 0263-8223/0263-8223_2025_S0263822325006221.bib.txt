@@ -1,0 +1,13 @@
+@article{EWOLONGAK2025119457,
+title = {Static behavior of multilayered magneto-electro-elastic doubly curved spherical shells: A new analytical 3D solution},
+journal = {Composite Structures},
+volume = {371},
+pages = {119457},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119457},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006221},
+author = {F.P. {Ewolo Ngak} and G.E. Ntamack and L. Azrar and K. Alnefaie},
+keywords = {Multilayered shells, Anisotropic materials, Pseudo-Stroh formalism, Propagator matrix method},
+abstract = {In this paper a new formalism generalizing the well-known Stroh formalism is developed to predict the static response of multilayered magneto-electro-elastic (MEE) doubly curved spherical shells under simply supported lateral edges boundary conditions. The proposed approach can be reduced to the multilayered straight plate approach by tending the curvature radius to infinity and using the Taylor’s series expansion. The solution is derived in each layer of the shell and the eigenvalues and eigen vectors problem are then obtained. After solving the resulting eigenvalues and eigen vectors problem, the solution is propagated from the bottom layer to the top layer of the multilayered shell utilizing the elaborated propagator matrix method. Several benchmarks’ results have been carried out using the piezoelectric (PE) material BaTiO3 and piezomagnetic (PM) material CoFe2O4. According to those results, the stacking sequences and the kind of loading widely influence the bending responses of the multilayered MEE spherical shells.}
+}

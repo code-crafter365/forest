@@ -1,0 +1,13 @@
+@article{PAUL2025119265,
+title = {The effects of environmental conditions on the failure of double lap composite joints with different overlap lengths and adherend thicknesses},
+journal = {Composite Structures},
+volume = {367},
+pages = {119265},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119265},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004301},
+author = {Aakash Paul and Xiaodong Xu and Takayuki Shimizu and Michael R. Wisnom},
+keywords = {Bonding, Delamination, Environmental degradation, Analytical modelling, Joints},
+abstract = {This paper provides a comprehensive study of the effects of environmental conditions on the failure of Double Lap Joints (DLJ) with composite adherends of different overlap lengths and thicknesses. The environmental conditions tested are Room Temperature Dry (RTD), Hot Temperature Dry (HTD) and Hot Temperature Wet (HTW). The mechanical properties of both the adhesive and composite adherends were characterised at these environmental conditions, showing conflicting trends. A new way of presenting the data based on simple calculations of strength or fracture dominated failure allows all the data to be shown on a single plot, and satisfactorily explains the failure modes, failure loads and opposite trends observed for a total of 13 DLJ configurations tested at the three environmental conditions.}
+}

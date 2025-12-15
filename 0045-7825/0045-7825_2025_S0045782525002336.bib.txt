@@ -1,0 +1,13 @@
+@article{SUN2025117961,
+title = {Two-level random feature methods for elliptic partial differential equations over complex domains},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117961},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117961},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002336},
+author = {Yifei Sun and Jingrun Chen},
+keywords = {Random feature method, Domain decomposition method, Partial differential equation, Least-squares problem},
+abstract = {Solving partial differential equations (PDEs) is widely used in scientific and engineering applications. Challenging scenarios include problems with complicated solutions and/or over complex domains. To solve these issues, tailored approximation space and specially designed meshes are introduced in traditional numerical methods, both of which require significant human efforts and computational costs. Recent developments in machine learning-based methods, especially the random feature method (RFM), remove the usage of meshes and thus can be easily applied to problems over complex domains. However, as the solution and/or geometry complexity increases, a significant number of collocation points and random feature functions are needed, which results in a large-scale linear problem that is difficult to solve. In this work, by combining the idea of domain decomposition and RFM, we propose two-level RFMs to solve elliptic PDEs. First, complex domains are decomposed by dividing their bounding box along the coordinate planes, and the resulting smaller problems over subdomains are solved using local random features. Only the output-layer weights of the neural network, which serve as a compressed representation of the complicated solution, are communicated between adjacent subdomains, making this step highly parallelizable. Second, a one-time QR decomposition is applied for local problems at the fine level and one global problem at the coarse level and is reused repeatedly in the iterative process. Moderate numbers of iterations are needed to achieve a global convergence. Therefore, our method reduces the computational cost significantly without sacrificing accuracy. Three-dimensional elliptic problems with complicated solutions and/or over complex domains, including the Poisson equation, multiscale elliptic equation, and elasticity problems, are used to demonstrate the efficiency and robustness of our method. For the same accuracy requirement, our method solves these problems within a timescale of 100 s, while traditional methods typically take longer for the whole process or cannot even get a solution due to the difficulty of generating a mesh.}
+}

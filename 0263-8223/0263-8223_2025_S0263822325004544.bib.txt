@@ -1,0 +1,13 @@
+@article{WANG2025119289,
+title = {Frequency-dependent elastic wave filtration and separation by hexagonal topological phononic crystals},
+journal = {Composite Structures},
+volume = {368},
+pages = {119289},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119289},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004544},
+author = {Guifeng Wang and Yanhong Guan and Zhenyu Chen and Zhenhuan Zhou and Xinshen Xu and C.W. Lim and Weiqiu Chen},
+keywords = {Accidental Dirac cone, Elastic wave manipulation, Frequency-dependent wave separation, Topological phononic crystals, Waveguiding},
+abstract = {Ascribe to the research significance and great application potential of elastic wave manipulation, the topological phononic crystals with peculiar functions in robust waveguiding have attracted enormous research attention. High-dimensional, higher-order, multifunctional, intelligent, and multi-frequency topological structures are expected to be a prominent research focus in the coming decades, while grand challenges still exist in designing such devices. In this regard, this paper presents a hexagonal lattice structure with six internally connected cylinders. Utilizing the accidental Dirac cones, the separate control of closing/opening and topological phases of three bandgaps at different frequencies is achieved. The subsequent parametric analyses reveal the whole picture of valley Chern numbers variation in the parametric space, which helps summarize the design principles of frequency-dependent topologically protected interface modes. Several superstructures consisting of two types of unitcells are then constructed to achieve the waveguiding in a straight path and frequency-dependent wave filtration. Consequently, introducing more types of unitcells can form interfaces that support waveguiding at different frequencies, leading to the realization of frequency-dependent wave separation and demultiplex. The presented work in this paper not only offers a novel design for multi-frequency wave separation and filtration but also inspires further explorations in multi-functional integrated elastic wave processors.}
+}

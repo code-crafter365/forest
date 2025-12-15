@@ -1,0 +1,13 @@
+@article{NAN2025114814,
+title = {Microneedles incorporating oridonin micelles and Cu(II)-polydopamine provide effective inflammatory regulation and antibacterial effects for the healing of infected diabetic wounds},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114814},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114814},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003212},
+author = {Wenbin Nan and Hao Wang and Linxiao Li and Jiulong Du and Xiangjuan Wei and Dongmei Wang and Yan Yang and Yongxue Wang and Dan Ding and Hongli Chen},
+keywords = {Microneedle, Oridonin, Wound healing},
+abstract = {The persistence of non-healing diabetic wounds is frequently attributed to excessive inflammation and bacterial infections. Therefore, strategies that target the reduction of inflammation while simultaneously inhibiting bacterial proliferation may offer an effective approach to overcoming this clinical challenge. In this study, we have developed an innovative formulation of hyaluronic acid (HA)-based dissolving microneedles (Cu(II)-PDA/ORI MNs) that incorporate oridonin (ORI) and Cu(II)-PDA nanoparticles, specifically designed for the treatment of chronic wounds in diabetic murine models. Our findings demonstrate that the composite MNs exhibit robust mechanical properties, facilitate drug delivery to the deeper layers of the skin, and exhibit favorable cytocompatibility and hemocompatibility. The encapsulation of ORI within the MNs effectively modulates the phenotype of RAW264.7 macrophages and exhibits significant anti-inflammatory properties, thereby contributing to the reduction of excessive inflammation within the wound microenvironment. Cu(II)-PDA nanoparticles significantly mitigate the toxicity associated with Cu(II) while retaining substantial antibacterial efficacy. Furthermore, they effectively promote wound angiogenesis, thereby expediting the wound healing process. Consequently, these Cu(II)-PDA/ORI MNs emerge as promising candidates for multifunctional wound dressing applications.}
+}

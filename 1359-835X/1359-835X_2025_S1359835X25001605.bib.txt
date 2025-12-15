@@ -1,0 +1,13 @@
+@article{SANGKARAT2025108866,
+title = {Multifunctional stitching of carbon fibre reinforced composites with soft conductive yarns for enhancing electrical conductivity and mechanical properties},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108866},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108866},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001605},
+author = {Pichsinee Sangkarat and Zhao Sha and Wenkai Chang and Shuhua Peng and Chun-Hui Wang and Sonya A. Brown},
+keywords = {Electrical properties, Mechanical properties, 3-Dimensional reinforcement, Stitching},
+abstract = {Enhancing the electrical conductivity of carbon-fibre reinforced polymer (CFRP) composites without significant impact to weight or degradation of mechanical properties has great potential for lightning strike protection and electromagnetic interference shielding in aerospace applications. Herein, we present an innovative method of through-thickness stitching with soft conductive yarns. A systematic evaluation of the multifunctional performance of the stitched composites reveal that the use of soft conductive yarns can greatly enhance the through-thickness conductivity and interlaminar fracture toughness by 72 folds and 7.5 folds respectively, with a minimal impact on tensile properties. The findings suggest that through-thickness stitching with soft conductive yarns offers a new strategy for developing multifunctional structural composites.}
+}

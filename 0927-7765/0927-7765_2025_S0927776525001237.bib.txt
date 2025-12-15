@@ -1,0 +1,13 @@
+@article{SUN2025114616,
+title = {A multifunctional semi-interpenetrating polymer network hydrogel dressing for wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114616},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114616},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001237},
+author = {Ning Sun and Jiaxin Zhu and Yuzhu Li and Fangfang Hu and Jianguo Dong and Shengjie Shen and Xiaohua Xu and Xiaoma Cao and Zheng Zhou and Hai Ming Wong and Leping Wu and Quan-Li Li},
+keywords = {Hydrogel, Semi-interpenetrating polymer network, Wound healing, Biologic adhesion},
+abstract = {Hydrogels have exhibited significant application potential in the field of new wound dressings due to their unique physicochemical properties and biological functions. However, traditional hydrogels possess limitations regarding mechanical properties, adhesion, and the promotion of wound healing. Herein, a multifunctional polyvinyl alcohol-tannic acid/polyacrylamide-polydopamine (PVA-TA/PAM-PDA) hydrogels are developed. By combining an amide-rich crosslinked polyacrylamide (PAM) network with a hydroxyl-rich linear polyvinyl alcohol (PVA) structure, a semi-interpenetrating polymer network (semi-IPN) is formed, which serves as a scaffold to enhance mechanical properties. The incorporation of tannic acid (TA) and polydopamine (PDA) into the semi-IPN framework can enhance cell affinity and tissue adhesiveness. This multifunctional composite hydrogel demonstrates outstanding physical and mechanical properties, including excellent elasticity and toughness, stable rheological properties, and favorable swelling properties. It also exhibits strong adhesive properties to various materials and skin, and can promote tissue regeneration and wound healing. This study offers novel ideas for the development and application of multifunctional composite hydrogel wound dressings, and the PVA-TA/PAM-PDA hydrogel shows great promise for clinical applications as an innovative wound dressing.}
+}

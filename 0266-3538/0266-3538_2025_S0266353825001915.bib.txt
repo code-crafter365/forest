@@ -1,0 +1,13 @@
+@article{WANG2025111223,
+title = {Surface differentiation: An innovative sizing strategy to enhance the interfacial adhesion between CF and PA6},
+journal = {Composites Science and Technology},
+volume = {268},
+pages = {111223},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111223},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001915},
+author = {Yining Wang and Yuxi Pan and Mingguang Zhang and Yu Deng and Zhimin Wang and Xigao Jian and Yousi Chen},
+keywords = {CF/PA6, Sizing agent, Surface modification, Mechanical properties},
+abstract = {Grounded in the principle of “like dissolves like”, the development of water-soluble sizing agents characterized by matrix-like structures has emerged as a focal point of research within the interface domain. Nevertheless, the reliance exclusively on the entanglement forces between the sizing agent and the matrix is deemed inadequate. In this study, a novel water-soluble dual-component sizing agent tailored for the nylon 6 (PA6) resin matrix has been developed. By leveraging the self-emulsifying and water-soluble properties of sodium lignosulfonate (SL) and polyamic acid (PAA), these components are concurrently introduced onto the fiber surface. Following treatment, a distinct interfacial region is established on the fiber surface as a result of their interactions. Exploiting their intrinsic differences at processing temperatures facilitates differential wetting of the matrix resin on the fiber surface, consequently resulting in the formation of a “mechanical interlocking” structure between the fiber and the matrix. The findings reveal that the flexural strength and interlaminar shear strength of the modified CF/PA6 composites achieved values of 977.8 MPa and 74.1 MPa, corresponding to enhancements of 27.4 % and 28.8 %, respectively, when compared to their unmodified counterparts. This innovative sizing agent not only significantly enhances interfacial adhesion but also confers high added-value potential to lignin-derived materials, a factor that is essential for future sustainable development.}
+}

@@ -1,0 +1,13 @@
+@article{TANG2025109208,
+title = {Toughened, liquid processable benzoxazine/sepiolite nanocomposites – A comprehensive study},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109208},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109208},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005020},
+author = {Yue Tang and Yuxing Wang and Jeroen Sebastiaan {Van Duijneveldt} and Sébastien Rochat and Ian Hamerton},
+keywords = {Benzoxazine, Sepiolite, Fracture toughness, Thermal properties},
+abstract = {A series of new nanocomposites, consisting of different organophilic sepiolites and a liquid-processable binary benzoxazine blend, was prepared by high-shear mixing. The addition of only a small amount of sepiolite (<1.5 wt%) increases the fracture toughness (KIc) of the matrix significantly (40 %). Evidence of various toughening mechanisms, e.g. crack pinning, crack deflection, and particle debonding was found. Moreover, the rheology and polymerisation behaviour of the uncured blends were investigated, while the tensile, viscoelastic, thermal, and moisture-uptake properties of the resultant nanocomposites were studied. One of the toughest formulations shows an acceptable fluidity at 100 °C (viscosity ca. 1.05 Pa.s), reasonable peak polymerisation temperature (215 °C), good thermal/thermo-mechanical properties (Td,5% 327 °C, Tg 147 °C), low water absorption in the cured nanocomposite (∼2 wt%) and a Young’s modulus of 4.1 GPa, coupled with an improved fracture toughness (0.7 MPa m1/2) over the unmodified base formulation (0.5 MPa m1/2). This study conducts a comprehensive study on liquid processable, toughened benzoxazine-based systems, which is an important step for the wider use of such materials in industrial applications.}
+}

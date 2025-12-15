@@ -1,0 +1,13 @@
+@article{KARIMINOUGHABI2025106490,
+title = {An Eulerian-Lagrangian decomposition for scalar transport at high schmidt number with adaptive particle creation and removal},
+journal = {Computers & Fluids},
+volume = {287},
+pages = {106490},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106490},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003219},
+author = {A. {Karimi Noughabi} and M. Leer and I. Wlokas and A. Kempf},
+keywords = {High schmidt number flow, Eulerian-Lagrangian decomposition, Anisotropic diffusion, Particle removal},
+abstract = {At high Schmidt or Prandtl numbers, scalar length scales are smaller than velocity scales, so they can only be resolved if a much finer grid is used and if numerical diffusion is managed carefully. This paper presents a numerical approach based on an Euler-Lagrangian decomposition method to prevent the numerical diffusion or dispersion of the scalar fields and to reduce the computational cost of flow simulations at high Schmidt numbers. This method decomposes the scalar field to the sum of i) a low-wavenumber component transported in the Eulerian framework using a conventional finite volume scheme with a numerical resolution according to the Kolmogorov scale and ii) a high-wavenumber component, described by Lagrangian particles to reconstruct the steep gradients in the scalar field. Depending on the local flow state, gradients can get steeper or flatter, requiring the transfer of information from the low- to the high-wavenumber fields and vice versa, which must be represented by particle creation or removal. New approaches are presented and tested for particle generation and removal on a 2D single vortex and a turbulent mixing layer across a Schmidt number range from 10 to 1000. We analyze scalar contours and conduct statistical assessments using probability density functions (PDF), mean squared error (MSE), and the structural similarity index measure (SSIM) for varying particle removal thresholds. The results confirm that, compared to the Eulerian description, the new approach can resolve smaller structures in the scalar field. Furthermore, particle removal not only reduces the number of particles without compromising accuracy, but it also, perhaps counter-intuitively, increases accuracy, where the low particle density would create excessive noise.}
+}

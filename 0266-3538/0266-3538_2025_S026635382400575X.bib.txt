@@ -1,0 +1,13 @@
+@article{ZHAO2025111004,
+title = {Resilient and fatigue-resistant hybrid fiber aerogel with oriented pore structure for broadband frequency sound absorption},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111004},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111004},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400575X},
+author = {Zhao Zhao and Haoran Zhang and Qing Ma and Jinghua He and Ming Cheng and Chang Long and Haoda Qi and Yanfang Cui and Lei Pan},
+keywords = {Hybrid fiber, Aerogel, Sound absorption, Oriented pore structure},
+abstract = {Aerogel, a lightweight and highly porous material with a network structure, has found extensive applications in sound absorption. To effectively enhance the acoustic properties, it is crucial to design appropriate pore structures within the aerogel. In this study, a novel composite aerogel (named ACQ) that incorporates aramid nanofibers (ANFs), cellulose nanofibers (CNFs), and quartz fibers (QFs) to achieve a synergistic effect is proposed. By precisely controlling the content of these ternary components, ANFs and CNFs establish directional channels that are further reinforced by the penetration of rigid QFs. The resulting ultra-light density (5 mg/cm3) hybrid ACQ aerogels exhibit exceptional broadband sound absorption performance with an average sound absorption coefficient of 0.367. Finite element simulation elucidates the acoustic energy dissipation mechanism as follows: (1) the directional channel architecture formed by ANFs/CNFs enhances the absorption of acoustic waves and effectively impedes their outward propagation; (2) penetration of QFs significantly increase pore density, causing multiple reflection and diffraction of acoustic waves within the channels; (3) vibrations of pore walls and QFs induced by sound waves dissipate acoustic energy as heat, further enhancing the aerogel's acoustic absorption capacity. Additionally, the hybrid ACQ aerogel demonstrates excellent compressive resilience and fatigue resistance as it maintains a 90 % retention rate in compression strength even after undergoing 50 cycles of compression at a strain level of 50 %. These findings highlight the aerogel's promising prospects for applications in aerospace, marine and transportation fields.}
+}

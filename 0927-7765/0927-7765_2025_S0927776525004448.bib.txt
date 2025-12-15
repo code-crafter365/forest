@@ -1,0 +1,13 @@
+@article{MIN2025114937,
+title = {Bicontinuous AuCu nanoplates enable enhanced near-infrared photothermal eradication of bacterial infections in vivo},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114937},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114937},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004448},
+author = {Yuanyuan Min and Yuke Han and Qi He and Heng Zhang and Li Wang and Yanyun Ma and Yi Wang and Xiaohu Wu and Yiqun Zheng and Yan Zhao},
+keywords = {Noble metal, Two dimensional nanocrystals, Nanostructure, Photothermal, Near infrared},
+abstract = {The effectiveness of photothermal therapy is critically dependent on the optical properties of energy transduction materials, with precise morphological control being essential for achieving optimal therapeutic performance. In this study, we report the synthesis of two-dimensional (2D) bicontinuous AuCu nanoplates via synergistic galvanic replacement between Cu nanoplates and AuCl₄⁻, as assisted by oxygen etching. The unique 2D structure, characterized by an extensive porous network, significantly enhances photothermal conversion efficiency compared to Cu nanoplates and AuCu nanoplates with solid interiors. Additionally, these bicontinuous AuCu nanoplates demonstrate superior antibacterial activity under NIR light irradiation. The improved antibacterial efficacy is attributed to the increased surface area provided by the nanoplate morphology, combined with the synergistic effects of efficient photothermal conversion and the intrinsic bactericidal properties of Cu. These findings highlight the potential of bicontinuous AuCu nanoplates as a versatile platform for combating multidrug-resistant bacteria and advancing photothermal therapeutic applications in vivo.}
+}

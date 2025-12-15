@@ -1,0 +1,20 @@
+@article{WANG2025102553,
+title = {A comparison of an integrated and image-only deep learning model for predicting the disappearance of indeterminate pulmonary nodules},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102553},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102553},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500062X},
+author = {Jingxuan Wang and Jiali Cai and Wei Tang and Ivan Dudurych and Marcel {van Tuinen} and Rozemarijn Vliegenthart and Peter {van Ooijen}},
+keywords = {Deep learning, Indeterminate pulmonary nodule, CT images, Clinical data, Feature importance},
+abstract = {Background
+Indeterminate pulmonary nodules (IPNs) require follow-up CT to assess potential growth; however, benign nodules may disappear. Accurately predicting whether IPNs will resolve is a challenge for radiologists. Therefore, we aim to utilize deep-learning (DL) methods to predict the disappearance of IPNs.
+Material and methods
+This retrospective study utilized data from the Dutch-Belgian Randomized Lung Cancer Screening Trial (NELSON) and Imaging in Lifelines (ImaLife) cohort. Participants underwent follow-up CT to determine the evolution of baseline IPNs. The NELSON data was used for model training. External validation was performed in ImaLife. We developed integrated DL-based models that incorporated CT images and demographic data (age, sex, smoking status, and pack years). We compared the performance of integrated methods with those limited to CT images only and calculated sensitivity, specificity, and area under the receiver operating characteristic curve (AUC). From a clinical perspective, ensuring high specificity is critical, as it minimizes false predictions of non-resolving nodules that should be monitored for evolution on follow-up CTs. Feature importance was calculated using SHapley Additive exPlanations (SHAP) values.
+Results
+The training dataset included 840 IPNs (134 resolving) in 672 participants. The external validation dataset included 111 IPNs (46 resolving) in 65 participants. On the external validation set, the performance of the integrated model (sensitivity, 0.50; 95 % CI, 0.35–0.65; specificity, 0.91; 95 % CI, 0.80–0.96; AUC, 0.82; 95 % CI, 0.74–0.90) was comparable to that solely trained on CT image (sensitivity, 0.41; 95 % CI, 0.27–0.57; specificity, 0.89; 95 % CI, 0.78–0.95; AUC, 0.78; 95 % CI, 0.69–0.86; P = 0.39). The top 10 most important features were all image related.
+Conclusion
+Deep learning-based models can predict the disappearance of IPNs with high specificity. Integrated models using CT scans and clinical data had comparable performance to those using only CT images.}
+}

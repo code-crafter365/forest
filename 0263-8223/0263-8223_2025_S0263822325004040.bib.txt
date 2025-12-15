@@ -1,0 +1,13 @@
+@article{BASHIR2025119239,
+title = {Exploring the potential energy landscape of square bistable laminates bonded with piezoelectric macro fiber composites},
+journal = {Composite Structures},
+volume = {369},
+pages = {119239},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119239},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004040},
+author = {Danish Bashir and P.M. Anilkumar and B.N. Rao},
+keywords = {Bistability, MFC, Asymmetry, Semi-analytical, Finite elements},
+abstract = {The concept of the asymmetric nature of a bistable composite laminate involves tailoring the potential energy landscape to achieve tunable behavior, which is crucial for optimizing its performance in various morphing and energy harvesting applications. A conventional square cross-ply laminate exhibits perfectly symmetric behavior with equal potential minima. The addition of smart materials, like piezoelectric macro fiber composite (MFC) actuators for morphing and energy harvesting applications, induces an asymmetric nature in the overall potential energy landscape of the resulting bistable-MFC structure. This asymmetric energy landscape plays a significant role in the difference between snap-through and snap-back characteristics, suppression of cross-well vibrations, and the tailoring of energy harvesting capabilities. This paper aims to systematically investigate the asymmetric nature of an MFC-bonded active square bistable laminate, where MFCs are used for shape morphing and energy harvesting actions. A Rayleigh–Ritz-based semi-analytical model and a fully nonlinear finite element (FE) framework have been used to predict the bistable behavior of MFC-bonded active bistable laminates. The FE model has been further utilized for parametric studies to examine the influence of the geometrical parameters of MFC layers in altering the energy landscape. Additionally, the influence of replacing conventional cross-ply laminates with variable stiffness (VS) laminates, generated from curvilinear fiber alignments, on the potential energy landscape has been examined on the best-identified laminate–MFC configuration from the initial FE parametric study. As an outcome, an optimum VS laminate–MFC configuration has been proposed for future investigations.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025103929,
+title = {Streamlined toolpath planning based on adaptively hierarchical quadrilateral meshes for polygonal parametric surfaces},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103929},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103929},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000909},
+author = {Jiao Huang and Chongjun Li and Yingshi Li and Ke Liu and Jinting Xu},
+keywords = {Streamlined toolpath, Streamfunction reconstruction, Cubic spline interpolation, Hierarchical quadrilateral mesh, Adaptive local refinement algorithm, Polygonal parametric surface},
+abstract = {In CNC machining research, there is an important method to generate streamlined toolpaths based on the streamfunction and the corresponding vector field. Typically, the tensor-product B-spline method has been used to reconstruct the streamfunction, ensuring smooth continuity and global control over the generated streamlined toolpaths. However, this approach introduces redundant degrees of freedom or parameters to satisfy the topological constraints of rectangular meshes due to the lack of a local refinement algorithm, thereby reducing computational efficiency. To address this limitation, this paper proposes a method to reconstruct streamfunctions using cubic spline interpolation basis functions defined on hierarchical quadrilateral meshes with an adaptive local refinement algorithm. Meanwhile, we consider the optimization model by balancing alignment with the consistent preferred feed vector field and the fairing of toolpaths, thus obtaining streamlined toolpaths that achieve global optimization of total length, uniform scallop height distribution, and fairing. This method is significantly effective in generating toolpaths for parametric surfaces defined on polygonal parameter domains with vector fields containing local variations. The effectiveness of the proposed method is validated through three numerical examples compared with traditional approaches, including the Iso-parametric and B-spline methods.}
+}

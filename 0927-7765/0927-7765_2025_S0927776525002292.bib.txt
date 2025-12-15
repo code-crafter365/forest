@@ -1,0 +1,13 @@
+@article{XIAO2025114722,
+title = {Marine polysaccharides hydrogel with encapsulated mesalazine for the treatment of ulcerative colitis: Integrative effects on inflammation, microbiota, and mucosal repair},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114722},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114722},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002292},
+author = {Teng Xiao and Zhenxin Yu and Haomin Yang and Jun You and Xiaochen Wu},
+keywords = {Drug-loaded hydrogel, Ulcerative colitis, Rectal administration},
+abstract = {Ulcerative colitis is a chronic non-specific inflammatory disease of the intestine that significantly impacts patient quality of life. This study introduces a OF/CC/SM hydrogel containing oxidized fucoidan (OF), carboxymethyl chitosan (CC), and silk sericin-stabilized mesalazine (SM), designed for rectal administration to target mesalazine delivery specifically to the colon. The OF/CC/SM hydrogel demonstrated good biocompatibility (cell compatibility > 99 %), injectability, and adhesion strength, ensuring effective mesalazine retention and release. In vitro assays confirmed the hydrogel's antioxidant and anti-inflammatory properties, which were further validated in vivo using a mouse model of ulcerative colitis. Rectal administration of OF/CC/SM hydrogel significantly relieved weight loss, lowered disease activity index scores, and prevented intestinal shortening associated with dextran sulfate sodium (DSS) treatment. The hydrogel decreased the expression of proinflammatory cytokines (e.g., tumor necrosis factor-α (TNF-α) and interleukin-1β (IL-1β)), while normalized the level of biomarkers (e.g., inducible nitric oxide synthase (iNOS), myeloperoxidase (MPO), catalase (CAT), and malondialdehyde (MDA)). Additionally, the OF/CC/SM hydrogel modulated the gut microbiota, increasing beneficial bacteria while decreasing potentially harmful species. Histopathological analysis revealed a reduction in inflammatory infiltration and improved mucosal architecture. Additionally, in vivo imaging studies confirmed sustained presence of OF/CC/SM hydrogel in the intestines following rectal administration, highlighting its potential for enhanced therapeutic efficacy in treating ulcerative colitis.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025111294,
+title = {Multifunctional natural fibre composites with integrated process monitoring, damage sensing and energy-efficient heating capabilities via upcycled carbon fibre waste},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111294},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111294},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002623},
+author = {Yansong Li and Thomas D.S. Thorn and Yushen Wang and Aaron Soul and Yi Liu and Dimitrios Papageorgiou and Ton Peijs and Han Zhang},
+keywords = {Resin infusion monitoring, Electrical impedance tomography, Flax fibre, Damage sensing, Energy efficient composite manufacturing},
+abstract = {Natural fibre composites are increasingly recognised as sustainable alternatives to synthetic counterparts in a variety of structural and semi-structural applications, driven by their eco-friendly characteristics and potential to reduce environmental impacts. However, the absence of affordable and practical inspection techniques for monitoring and assessing the lifespan of natural fibre composites is a key barrier to their broader adoption. This paper presents a new approach to use recycled carbon fibre (rCF) veil as a multifunctional layer for manufacturing monitoring, out-of-oven (OoO) curing and damage detection in natural fibre composites. Manufacturing monitoring and damage detection functions are achieved through electrical impedance tomography (EIT) technology with the advantages of real-time imaging and low-cost devices. The rCF veil enables real-time detection of the resin flow front during the infusion stage and subsequently facilitates locating the damage of the composites during the mechanical tests. In addition, it functions as a Joule-heating medium for energy-efficient OoO curing, which reduces energy consumption by more than 95 % compared to conventional oven curing without compromising mechanical properties. The introduction of rCF veil not only provides insights into natural fibre composites from the manufacturing to the in-service stage, but also demonstrates upcycling routes for rCF as a multifunctional layer in future sustainable composites.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025108593,
+title = {Damage detection analysis of 3D braided carbon fiber composites with electro-mechanical behavior},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108593},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108593},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005918},
+author = {Tianwei Wu and Gen Li and Bohong Gu and Baozhong Sun},
+keywords = {3D braided composites, Damage detection, Electro-mechanical behavior, Data processing tools},
+abstract = {The real-time detection of damage is critical for ensuring the safe application of 3D braided carbon fiber composites (3DBCFC) in both aviation and civilian sectors. In this study, we conducted an electro-mechanical behavior analysis of 3DBCFC using data processing tools to quantify various types of damage. The electro-mechanical behavior data were experimentally measured under tensile conditions. The damage detection capability of different electrical current injection methods was also experimentally validated. A mesoscale finite element model was utilized to investigate the damage mechanism of 3DBCFC under tension. Data processing tools, such as principal component analysis (PCA) and k-means clustering (k-MC), were employed to quantify the different types of damage. The study revealed that oblique current injection provided more comprehensive electrical information, making it more effective for damage detection. The electrical signals obtained through oblique current injection could be processed using data tools to quantify damage in 3DBCFC.}
+}

@@ -1,0 +1,13 @@
+@article{ZHOU2025114970,
+title = {Artificial intelligence-assisted next-generation biomaterials: From design and preparation to medical applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114970},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114970},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004771},
+author = {Bixia Zhou and Xin Li and Yuchen Pan and Bingfang He and Bingbing Gao},
+keywords = {Artificial Intelligence, Biomaterials, Machine Learning, Materials Design, Biomedical Applications},
+abstract = {The Fourth Industrial Revolution (Industry 4.0) has marked a shift from traditional materials to the era of smart materials. The integration of artificial intelligence (AI) with biomaterials is transforming the biosensing and biomedical fields. Although AI-assisted biomaterial manufacturing holds significant promise, the design and synthesis of smart materials remain in the early stages. To accelerate the implementation of AI-assisted biomaterials in fields such as biomedicine and biological intelligent systems, various algorithms have been developed to predict material properties, enable material de novo design, and establish a foundation for the development of next-generation multifunctional biomaterials. This review presents a comprehensive overview of AI-assisted biomaterial design, property prediction, fabrication, and potential biomedical applications. Recent advances in AI-driven protein engineering relevant to materials science are summarized, followed by an analysis of AI's role in designing, predicting, and optimizing next-generation biomaterials. The influence of AI-assisted systems on the structural and functional properties of biosmart materials is also explored. Applications such as therapeutic diagnostics, electronic skin (e-skin), biosensing, and other biomedical technologies are highlighted. Finally, current challenges and future perspectives are discussed, with emphasis on the transformative potential of AI in advancing materials science and biomedicine, as well as its ability to address previously intractable problems.}
+}

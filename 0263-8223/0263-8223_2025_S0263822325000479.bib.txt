@@ -1,0 +1,13 @@
+@article{ZHAO2025118882,
+title = {Experimental investigation on the creep behavior of a novel composite-type anchorage system for CFRP tendons},
+journal = {Composite Structures},
+volume = {356},
+pages = {118882},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118882},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000479},
+author = {Jianfeng Zhao and Kuihua Mei and Haochen Li and Huanzi Huang and Wenke Jia and Shengjiang Sun},
+keywords = {Composite anchorage, CFRP tendon, Experimental investigation, Creep behavior, Slippage},
+abstract = {This paper experimentally studied the creep behavior and failure mechanism of a novel composite-type anchorage system for single and multiple carbon fiber-reinforced polymer (CFRP) tendons. Creep tests were performed on 10 specimens under different sustained loads and temperature conditions for a duration of more than 1000 h, followed by subsequent monotonic tensile tests to examine their residual mechanical properties. Results reveal that the anchorage system exhibited excellent long-term creep behavior. The creep slippage of the anchorage increased with the increase in sustained load level or ambient temperature, and its creep resistance increased with the addition of an appropriate amount of short basalt fiber or sand in the grouted material. None of the creep specimens failed after 1000 h of sustained load, and the failure mode of the anchorages in subsequent monotonic tensile tests was tendon rupture in the free zone. The after-creep anchorage efficiencies of these specimens were above 0.95 (except for one specimen due to the transverse shear effect), demonstrating the long-term reliability of the novel anchorage. Moreover, the modification of the grouted material by using appropriate additives is an effective strategy for enhancing the creep behavior of the composite anchorage.}
+}

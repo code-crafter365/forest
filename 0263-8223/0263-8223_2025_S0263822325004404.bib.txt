@@ -1,0 +1,13 @@
+@article{LIU2025119275,
+title = {Optimal design approach of interpenetrating pre-stressed metal-ceramic composites based on deep learning neural network},
+journal = {Composite Structures},
+volume = {368},
+pages = {119275},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119275},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004404},
+author = {Kun Liu and Xin Lai and Lisheng Liu and Jinyong Zhang and Yifei Liu},
+keywords = {Interpenetrating structure, Pre-stressed ceramic, Deep neural network, Optimal design},
+abstract = {In this work, we proposed a new pre-stressed metal-ceramic interpenetrating structure to improve the apparent tensile strength of ceramic. In addition, an optimization design framework was constructed by integrating machine learning and gradient descent optimization algorithm for the optimization design of ceramic interpenetrating composites. The optimized metal-ceramic interpenetrating structure can achieve a balance of the stress state of the ceramic phase between intensity and distribution by ingeniously control the confinement and topology of the metal phase. More specifically, the surrogate model we constructed through deep neural network (DNN) can efficiently predict the relationship between the structure and its stress state. The final result obtained can achieve excellent pre-stress effect while making the structure lightweight.}
+}

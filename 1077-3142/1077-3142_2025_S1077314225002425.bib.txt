@@ -1,0 +1,13 @@
+@article{LI2025104519,
+title = {Feature-aligned distillation for dense object detection via refined semantic guidance and distribution consistency},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104519},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104519},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002425},
+author = {Ximing Li and Xiaoguang Di and Maozhen Liu and Shaoxun Ye},
+keywords = {Knowledge Distillation, Object detection, Feature alignment, Refined semantic guidance, Distribution consistency},
+abstract = {Knowledge Distillation (KD), as an efficient model compression technology, has been widely used in object detection tasks. However, existing distillation methods generally lack refined knowledge guidance for student models, making it difficult to meet the high requirements of dense object detection for fine-grained perception capabilities. In this paper, we propose a feature-aligned knowledge distillation method based on refined semantic guidance and distribution consistency, aiming to improve the performance of lightweight student models in dense object detection. Specifically, we first design a Lightweight Semantic-Guided Feature Imitation (LSFI) module that efficiently extracts multi-level semantic information across spatial and channel dimensions from the teacher’s feature maps at low computational cost, offering detailed and discriminative feature to the student. Furthermore, to alleviate the structural distribution gap between student and teacher features, we introduce Multi-Metric Distribution Consistency Knowledge Distillation (MDC-KD) that constructs consistency constraints from both global statistical correlation and local structural similarity, further enhancing the student’s feature alignment ability. Extensive experiments on MS COCO 2017, PASCAL VOC and Cityscapes datasets demonstrate that our method achieves significant performance improvements across various detectors and heterogeneous backbones, while substantially reducing the number of parameters and computational complexity of the teacher model.}
+}

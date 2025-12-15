@@ -1,0 +1,13 @@
+@article{SOLEIMANI2025117882,
+title = {Nonlinear dynamic substructuring in the frequency domain},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117882},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117882},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001549},
+author = {Hossein Soleimani and Niels Aage},
+keywords = {Substructuring, Component mode synthesis, Model order reduction, Harmonic balance method},
+abstract = {In this paper, we introduce a nonlinear dynamic substructuring technique to efficiently evaluate nonlinear systems with localized nonlinearities in the frequency domain. A closed-form equation is derived from coupling the dynamics of substructures and nonlinear connections. The method requires the linear frequency response functions of the substructures, which can be calculated independently using reduced-order methods. Increasing the number of linear bases in the reduction method for substructures does not affect the number of nonlinear equations, unlike in component mode synthesis techniques. The performance of the method is evaluated through three case studies: a lumped parameter system with cubic nonlinearity, bars with a small gap (normal contact), and a plate with a couple of nonlinear energy sinks. The results demonstrate promising accuracy with significantly reduced computational cost.}
+}

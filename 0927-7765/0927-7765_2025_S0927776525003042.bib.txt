@@ -1,0 +1,13 @@
+@article{WANG2025114797,
+title = {Metalloproteinase-responsive gelatin/polylysine hydrogel microneedles for on-demand curcumin delivery in bacteria-infected wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114797},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114797},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003042},
+author = {Yuxiao Wang and Chenyi Deng and Ying Ding and Sijia Huang and Shuangxi Chen and Haibo Huang and Shengyuan Yang and Fubing Xiao},
+keywords = {Hydrogel microneedles, MMP-responsive drug delivery, Infected wound healing, Gelatin-curcumin nanoparticles, Inflammation modulation},
+abstract = {Effective management of bacterial infection and inflammatory responses is critical for accelerating infected wound healing. Herein, we develop a multifunctional hydrogel microneedle system (GMPL@GC MNs) integrating gelatin methacryloyl (GM) as the matrix material, ε-poly-L-lysine (PL) for enhanced antibacterial properties, and gelatin-curcumin nanoparticles (GC NPs) for inflammation modulation. The system exploits elevated matrix metalloproteinase (MMP) levels at wound sites to trigger specific degradation of GC NPs and controlled curcumin (Cur) release. This MMP-responsive mechanism enables reactive oxygen species (ROS) scavenging, inflammatory response suppression, and sustained drug delivery over 96 h. In bacteria-infected wound models, the GMPL@GC MNs demonstrate excellent therapeutic efficacy, achieving 99.1 % wound closure rate within 10 days through combined antibacterial, antioxidant, and anti-inflammatory actions. The system's multifunctionality and microenvironment responsiveness present strong potential for clinical wound management applications.}
+}

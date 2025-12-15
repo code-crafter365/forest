@@ -1,0 +1,13 @@
+@article{CAI2025111365,
+title = {Dual-layer structural strategy in needle-punched fabrics for synergistic improving mechanical and thermal performance of nanoporous phenolic composites},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111365},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111365},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003331},
+author = {Hongxiang Cai and Bo Niu and Yaolan Li and Peiqi Yang and Yu Cao and Zhe Su and Yi Luo and Donghui Long},
+keywords = {Polymer-matrix composites (PMCs), Mechanical properties, Thermal properties, X-ray computed tomography},
+abstract = {Needle-punched fabrics are widely utilized to reinforce ablative nanoporous phenolic composites (NPCs) due to their cost-effectiveness and design flexibility. However, achieving a structural design that synergistically optimizes both mechanical and thermal performance remains a significant challenge. This study aims to address this issue by developing a dual-layer needle-punched fabric structure consisting of a top high-density ablation layer and a bottom low-density insulation layer. NPCs with varying ablation layer thickness ratios (13 %, 33 %, and 53 %) are fabricated and systematically evaluated through macro-micro mechanical tests, heat transfer test, and systematic high-temperature ablation experiments. Results show that NPC with a 33 % ablation layer ratio achieves the highest tensile strength (42.6 ± 0.82 MPa), owing to an optimal balance between load-bearing capacity and strain tolerance. In-situ micro-CT analysis under tensile loading reveals that the high-density ablation layer significantly enhances both strength and ductility by providing tightly woven fiber yarns. Heat transfer simulations indicate that the high-density layer serves as the primary heat conduction path, while the low-density layer effectively reduces overall thermal conductivity by limiting solid fiber heat transfer. Oxy-acetylene ablation tests at 2000 °C and 3200 °C demonstrate that the dual-layer structure reduces the linear ablation rate by approximately 25 % compared with single-layer NPCs, as the tightly woven ablation layer effectively withstands extreme heat flux. The present work offers new insights into the structural optimization of needle-punched fabric reinforced NPCs and provide design guidelines for advanced thermal protection materials in extreme aerospace environments.}
+}

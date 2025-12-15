@@ -1,0 +1,13 @@
+@article{REN2025110992,
+title = {Influence of expansion ratio and multilayered gradient structure on the electromagnetic interference shielding performance of lightweight poly (lactic acid)/carbon nanostructures composite foams},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {110992},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110992},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005621},
+author = {Qian Ren and Youquan Wei and Xueyun Li and Cao Yu and Long Wang and Bin Shen and Wenge Zheng},
+keywords = {Poly (lactic acid), Carbon nanostructure, Multilayered gradient structure, Foams, Electromagnetic interference shielding},
+abstract = {Cellular structures incorporated in conductive polymer composites (CPC) are gaining recognition as a promising alternative to traditional metal materials for electromagnetic interference (EMI) shielding applications, owing to their outstanding properties and lightweight nature. In this study, the polylactic acid (PLA)/carbon nanostructure (CNS) composite foam with a multilayered gradient structure was prepared by supercritical carbon dioxide (CO2) foaming technology. The original size of the sample, saturation pressure, and foaming temperature had obvious effects on the foaming behavior of the PLA/CNS composite. In the prepared multilayered gradient-structured sample, the CNS content increased layer by layer (from 1 wt% to 7 wt%), and its density could be as low as 0.22 g/cm³. In addition, the EMI SE value of the prepared sample could be as high as 51.8 dB with an absorption coefficient of 0.85, thus providing superior EMI shielding performance. This result indicated that high-performance and lightweight polymer-based shielding materials could be obtained by preparing multilayered gradient-structured foam samples, which have broad application prospects in aerospace and electronics.}
+}

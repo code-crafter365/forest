@@ -1,0 +1,13 @@
+@article{LOLIPICCOLOMINI2025102530,
+title = {Deep Guess acceleration for explainable image reconstruction in sparse-view CT},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102530},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102530},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000394},
+author = {Elena {Loli Piccolomini} and Davide Evangelista and Elena Morotti},
+keywords = {Non-convex optimization, Sparse view computed tomography, Model-based iterative reconstruction, Deep neural networks, Interpretable reconstruction},
+abstract = {Sparse-view Computed Tomography (CT) is an emerging protocol designed to reduce X-ray dose radiation in medical imaging. Reconstructions based on the traditional Filtered Back Projection algorithm suffer from severe artifacts due to sparse data. In contrast, Model-Based Iterative Reconstruction (MBIR) algorithms, though better at mitigating noise through regularization, are too computationally costly for clinical use. This paper introduces a novel technique, denoted as the Deep Guess acceleration scheme, using a trained neural network both to quicken the regularized MBIR and to enhance the reconstruction accuracy. We integrate state-of-the-art deep learning tools to initialize a clever starting guess for a proximal algorithm solving a non-convex model and thus computing a (mathematically) interpretable solution image in a few iterations. Experimental results on real and synthetic CT images demonstrate the Deep Guess effectiveness in (very) sparse tomographic protocols, where it overcomes its mere variational counterpart and many data-driven approaches at the state of the art. We also consider a ground truth-free implementation and test the robustness of the proposed framework to noise.}
+}

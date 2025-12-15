@@ -1,0 +1,13 @@
+@article{LI2025114965,
+title = {Cell-penetrating peptides-modified nanocarrier for efficient, batch and noninvasive embryonic transfection},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114965},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114965},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004722},
+author = {Yundong Li and Sheng Huang and Yunsheng Zheng and Jiancong Xie and Shigui Jiang and Song Jiang and Jianhua Huang and Lishi Yang and Qibin Yang and Jianzhi Shi and Yangyang Ding and Erchao Li and Ziyang Cao and Falin Zhou},
+keywords = {Nanocarrier, Gene editing, CRISPR/Cas9, Aquatic animal, Prawn},
+abstract = {Although gene-editing breeding demonstrates significant potential in aquaculture, the field still lacks efficient gene delivery systems. Fish and crustacean embryos typically possess hard egg membranes or thick shells, making conventional microinjection inefficient and causing high mortality rates. As a result, there is an urgent need for a universal, highly efficient, and low-toxicity noninvasive delivery platform. In this study, we investigated the potential of high-efficiency, large-scale transfection using nanocarrier technology, renowned for its biocompatibility and efficient molecular payload encapsulation. Our research focused on developing a novel nanocarrier system, termed TNP, composed of a poly(ethylene glycol)-poly(lactide-co-glycolide) block copolymer (PEG-b-PLGA) and a cell-penetrating peptide (TAT, transactivator of transcription). The TNP nanocarrier enabled noninvasive delivery of genetic cargo, including eGFP-mRNA and CRISPR/Cas9 components, achieving high-throughput transfection in both shrimp and zebrafish embryos with successful transgene expression and targeted gene editing. We demonstrated that TNP efficiently traversed embryonic barriers, leveraging to facilitate high-payload gene delivery while maintaining minimal cytotoxicity and high embryo viability based on the transmembrane functionality of TAT peptide. These findings highlight the TNP has the potential to transform aquaculture genetic engineering, enabling trait enhancement such as disease resistance and accelerated growth. Furthermore, this study establishes a versatile and efficient gene-editing platform for aquatic species, addressing the critical demand for sustainable and ethically responsible biotechnological innovations in global seafood production.}
+}

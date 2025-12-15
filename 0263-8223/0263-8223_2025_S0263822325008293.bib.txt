@@ -1,0 +1,13 @@
+@article{FORBES2025119664,
+title = {Influence of post-processing on the Mode I and Mode II static fracture toughness of additively manufactured carbon fiber composites},
+journal = {Composite Structures},
+volume = {373},
+pages = {119664},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119664},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008293},
+author = {Zane Forbes and Johannes Reiner and Xiaobo Yu and Garth Pearce and Mathew W. Joosten},
+keywords = {Fracture toughness, AM composites, Postprocessing, DCB, Void reduction, ENF},
+abstract = {The layer-by-layer fabrication process of additively manufactured (AM) composites can introduce interlaminar defects that may impact interlaminar fracture toughness. This study investigates the effect of post-processing on the interlaminar fracture toughness of AM continuous carbon fibre/polyamide composites produced via fused filament fabrication. Post-processing samples at 150 °C enhanced the initiation interlaminar fracture toughness by 9.12 % in Mode I and 17.94 % in Mode II, while the propagation interlaminar fracture toughness increased by 18.14 % and 9.37 %, respectively. Optical microscopy revealed that post-processing reduced the void content, from 6.24 % to 1.12 %. Scanning electron microscopy highlighted that the fracture surfaces of the post-processed samples showed a reduction in void-related defects. These findings demonstrate that the interlaminar fracture toughness of AM composites can be improved through post-processing consolidation, which enhances the materials resistance to crack initiation and propagation.}
+}

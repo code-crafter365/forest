@@ -1,0 +1,13 @@
+@article{HAO2025119562,
+title = {Compressive behaviors of a novel 3D compression-torsion coupling meta-structure},
+journal = {Composite Structures},
+volume = {372},
+pages = {119562},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119562},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007275},
+author = {Na Hao and Zhangming Wu and Liaoliang Ke},
+keywords = {Compression-torsion coupling, Mechanical metamaterial, Meta-structure, 3D printing},
+abstract = {Mechanical metamaterials are distinguished by their unique mechanical properties, which are realized through the intentional design of engineered micro-architectures. Among these, compression-torsion mechanical metamaterials are particularly notable due to their ability to generate torsion under axial compression through the precise tailoring of their geometric structures. This capability has promising applications in sensors, energy absorption, and actuators. In this study, we designed a 3D meta-structure with compression-torsion coupling effect (CTCE) by assembling 3D ‘zig-zag’ rods and 2D gammadion-shaped lattice structures. We analyzed the compressive behaviors of this 3D meta-structure with both experiments and finite element method (FEM). Specifically, the effects of geometrical parameters of unit cell on the mechanical behaviors including CTCE, Poisson’s ratio, stress–strain relationship, and specific energy absorption (SEA) are investigated. Our analysis results indicate that the CTCE is mainly influenced by the rod height h and ligament angle θ while the SEA is determined by the rod height h and horizontal length b. Furthermore, the CTCE of present 3D meta-structure shows significant improvement compared to previous metamaterials within the strain range of 0 ∼ 0.1.}
+}

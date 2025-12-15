@@ -1,0 +1,13 @@
+@article{YAN2025108702,
+title = {Cutting force prediction of longitudinal-torsional ultrasonic assisted milling based on synergistic prediction ensemble learning model: A case study on CFRP},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108702},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108702},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24007000},
+author = {Tianming Yan and Lida Zhu and Wentian Shi and Shaoqing Qin and Mingxi Chen and Qiuyu Qin},
+keywords = {Milling force model, CFRP, LTUAM, SPE, SHAP analysis},
+abstract = {To obtain accurate force predictions for longitudinal-torsional ultrasonic-assisted milling (LTUAM) of carbon fiber reinforced polymers (CFRP) across any milling path, a milling force model is proposed that considers the cutting force coefficient in the fiber direction, longitudinal-torsional ultrasonic milling thickness, and tool impact force. The milling angle and curvature features were shown to significantly influence the coefficient matrix of the milling force model through experiments and SHAP analysis, the coefficient matrix in the milling force model can then be solved by the established synergetic predictive ensemble learning model (SPE), which is used to obtain the CFRP-LTUAM force. The strong robustness and prediction accuracy of the SPE can be attributed to its integration of multiple structured base learners and the use of various decision-making strategies. The prediction accuracy and adaptability of the CFRP-LTUAM force model were validated through experiments, with effective support provided for process parameter optimization and stability control.}
+}

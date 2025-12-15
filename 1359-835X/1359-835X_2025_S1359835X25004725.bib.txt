@@ -1,0 +1,13 @@
+@article{TU2025109178,
+title = {In-situ polymerization of multifunctional heat-resisting SiC-induced graphene/polyimide bidirectional thermally conductive film for battery thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109178},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109178},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004725},
+author = {Zhengying Tu and Zuoxiang Xie and Qinhua Zhou and Jing He and Yuyang Dong and Chengzhe Huang and Fei Zhang and Qingbin Zheng and Yinhang Zhang},
+keywords = {Graphene, Bidirectional thermal conductivity, In-situ polymerization},
+abstract = {The escalating density of electronic devices underscores the imperative for efficacious thermal management strategies. Graphene (GNPs)-based composite films, renowned for their exceptional thermal conductivity, have emerged as a focal point in addressing the heat dissipation conundrum within integrated circuits. This study introduces an innovative approach to fabricating SiC/GNP/polyimide (PI) composite films, employing a one-step in-situ polymerization process in conjunction with a high-pressure orientation technique. The resultant films are engineered to augment thermal conductivity in both in-plane and through-plane orientations, thereby surmounting the intrinsic shortcomings of traditional graphene-based materials that suffer from suboptimal out-of-plane thermal characteristics. The incorporation of silicon carbide (SiC) particles catalyzes the alignment of graphene within the PI matrix, thereby constructing an efficacious thermal transport network. The composite films exhibit markedly enhanced thermal conductivity (In-plane thermal conductivity is 16.6 W/m·K, and out-of-plane thermal conductivity is 3.11 W/m·K), electrothermal performance (Under a voltage of 3.9 V, the thin film reaches a high temperature of 338 °C), and electromagnetic shielding efficacy (35 dB). In the realm of battery applications, these films facilitate efficient heat dissipation and pre-heating, consequently bolstering battery capacity. Moreover, the utilization of environmentally benign materials and a solvent-free fabrication methodology renders these films ideally suited for electronic device applications that demand robust heat dissipation and unwavering reliability.}
+}

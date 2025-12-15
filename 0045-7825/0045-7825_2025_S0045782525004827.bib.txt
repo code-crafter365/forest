@@ -1,0 +1,13 @@
+@article{MESBAH2025118210,
+title = {Multimodal super-resolution for fast image-based simulation of crystal plasticity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118210},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118210},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004827},
+author = {Daria Mesbah and Henry Proudhon and Lionel Gélébart and David Ryckelynck},
+keywords = {Single image super-resolution, Crystal plasticity FFT, Lattice rotation, Gradient-based loss},
+abstract = {Crystal Plasticity FFT-based simulations, commonly used to predict crystal lattice rotation fields in polycrystalline materials, are computationally intensive. Reducing the input volume resolution can speed up these simulations, but often at the expense of prediction accuracy. To address this issue, we introduce a Multimodal EDSR (MEDSR) architecture, based on Enhanced Deep Residual Networks for Single Image Super-Resolution (EDSR). MEDSR incorporates multimodal inputs, combining low-resolution lattice rotation fields with high-resolution grain boundary distance fields, a key morphological attribute. The training process includes a gradient-based loss function that emphasizes high-gradient regions, ensuring sharper reconstructions in areas with significant mechanical variation, particularly near grain boundaries. By leveraging morphological data, MEDSR surpasses existing upsampling methods in key quality metrics.}
+}

@@ -1,0 +1,13 @@
+@article{QIN2025114371,
+title = {Dual-targeted and esterase-responsive cyclodextrin-based host-guest nanocomposites for enhanced antitumor therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114371},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114371},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006301},
+author = {Li Qin and Jianfei Tu and Jiawei Zhao and Yuanke Zhang and Tiancheng Li and Yuqi Zhang and Peng Zhang and Guixia Ling and Jiansong Ji},
+keywords = {Carboxymethyl-β-cyclodextrin, Hydroxycamptothecin, Protamine, Hyaluronic acid, Tumor targeting},
+abstract = {Conventional chemotherapy drugs are difficult to effectively target tumor tissue, leading to poor treatment outcomes and side effects. Actively targeted and stimuli-responsive nanomedicine greatly improves this situation, allowing for more precise drug accumulation at tumor sites. Herein, carboxymethyl-β-cyclodextrin (CMCD) - based host-guest nanocomposites (NPs) encapsulating hydroxycamptothecin (HCPT) were fabricated, which responded to esterase and had the function of targeting CD 44 receptors and the nucleus. PS-CMCD was firstly synthesized through an amide reaction of protamine (PS) and CMCD to enhance the function of penetrating membrane and nuclear localization. PS-CMCD/HCPT/HA NPs were then prepared by the host-guest complexation of PS-CMCD and HCPT and followed by surface modification of hyaluronic acid (HA) with CD44 receptor-targeting properties. The successful inclusion was also validated through computer simulation. The obtained nanocomposites displayed the esterase-responsive release behaviors of HCPT. Moreover, the synthesized PS-CMCD/HCPT/HA NPs enhanced the intracellular drug uptake due to the tumor cell- and nuclear-mediated targeting. In addition, in vivo application exhibited that PS-CMCD/HCPT/HA NPs realized good antitumor effects. These findings suggested its potential for targeted delivery and more effective tumor therapy.}
+}

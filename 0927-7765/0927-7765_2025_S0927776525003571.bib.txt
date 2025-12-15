@@ -1,0 +1,13 @@
+@article{GAO2025114850,
+title = {Application of heterologous extracellular vesicles and their analogs in anti-tumor activity research},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114850},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114850},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003571},
+author = {Jianguo Gao and Yanqing Wu and Yuwei Zhao and Yingzhi Lu and Xiaoqing Cai},
+keywords = {Extracellular vesicles, Exosome, Antitumor, Drug delivery},
+abstract = {Extracellular vesicles and their analogues can mediate intercellular communication for gene regulation, thereby activating corresponding cellular functions, which demonstrates promising applications in disease diagnosis and treatment. Extensive studies have indicated that extracellular vesicles and their analogues exhibit remarkable efficacy in various pharmacological activities, including anti-tumor effects, immune modulation, prevention and treatment of cardiovascular diseases, as well as tissue regeneration. Heterologous extracellular vesicles and their analogues possess diverse biological activities attributed to their compositions, distributions, and mechanisms of action. Their specific targeting ability, high biocompatibility, and low immunogenicity render them ideal delivery vehicles for precision therapeutic interventions. This article aims to comprehensively review the mechanisms of action of extracellular vesicles and their analogues in anti-tumor activity, as well as their unique advantages as drug delivery carriers, with the goal of providing a necessary reference foundation for further application and development in anti-tumor therapy.}
+}

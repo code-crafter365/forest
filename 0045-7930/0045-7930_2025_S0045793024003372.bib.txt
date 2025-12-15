@@ -1,0 +1,13 @@
+@article{OBERTO2025106506,
+title = {Using Delayed Detached Eddy Simulation to create datasets for data-driven turbulence modeling: A periodic hills with parameterized geometry case},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106506},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106506},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003372},
+author = {Davide Oberto and Davide Fransos and Stefano Berrone},
+keywords = {Turbulence modeling, Neural networks, RANS closure, DDES turbulence models, Periodic hills},
+abstract = {Despite the emerging field of data-driven turbulence models, there is a lack of systematic high-fidelity datasets at flow configurations changing continuously with respect to geometrical/physical parameters. In this work, we investigate the possibility of using Delayed Detached Eddy Simulation (DDES) to generate reliable datasets in a significantly cheaper manner compared to the DNS or LES counterparts. To do that, we perform 25 simulations of the geometrically-parameterized periodic hills test case to deal with different hills steepnesses. We firstly check the accuracy of our results by comparing one simulation with the benchmark case of Xiao et al. Then, we use such database to train the turbulent viscosity-Vector Basis Neural Network (νt-VBNN) data-driven turbulence model. The latter outperforms the classic k−ω SST RANS model, proving that our generated dataset can be useful for data-driven turbulence modeling and opening the opportunity to exploit DDES to create systematic datasets for data-driven turbulence modeling.}
+}

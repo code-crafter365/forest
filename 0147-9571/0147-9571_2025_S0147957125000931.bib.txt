@@ -1,0 +1,13 @@
+@article{RIOSUSUGA2025102385,
+title = {Disclosing coinfections: The interaction between Toxoplasma gondii and hemotropic agents in Colombian dogs and cats},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {122},
+pages = {102385},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102385},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000931},
+author = {C. Ríos-Úsuga and L.M. Rendón-Ramos and I.L. Jaramillo-Delgado and N.M. Correa-Valencia},
+keywords = {Companion animals, Hemotropic agents, Molecular frequency, Real-time PCR, },
+abstract = {This study aimed to analyze the relationships between Toxoplasma gondii infection and hemotropic species (i.e., Rickettsiales, Hepatozoon spp., Mycoplasma spp., Babesia spp., Bartonella spp., and Trypanosoma spp.) via qPCR and to explore the associations between T. gondii monoinfection or coinfection with hemotropic species and the characteristics of dogs and cats in Antioquia (Colombia). A cross-sectional study was conducted with blood samples from dogs and cats positive for T. gondii by qPCR, with or without hemotropic coinfection. Hemogram results and demographic data were analyzed. Associations with monoinfection/coinfection were tested via Fisher’s exact test or the ꭕ² test (p < 0.10). Among the 590 animals (383 dogs, 207 cats), 262 (44.4 %) tested positive for T. gondii (dogs: 175/262, 66.8 %; cats: 87/262, 33.2 %). Among the dogs, 73.7 % had coinfections, including Rickettsiales (101/129), Mycoplasma spp. (55/129), Hepatozoon spp. (9/129), Bartonella spp. (7/129), and Babesia spp. (2/129); none tested positive for Trypanosoma spp. Coinfections were associated with breed, outdoor access, reticulocytes, lymphocytes, or reproductive status. In cats, 72.4 % had coinfections: Bartonella spp. (40/63), Mycoplasma spp. (23/63), Rickettsiales (11/63), and Hepatozoon spp. (3/63). All the cats tested negative for Babesia spp. and Trypanosoma spp. Coinfections were associated with leukocyte, neutrophil, lymphocyte, and protein alterations. T. gondii is prevalent in dogs and cats, with frequent coinfections. Environmental and biological factors influence these patterns, underscoring the importance of integrated diagnostics and surveillance. These findings suggest associations that warrant further investigation.}
+}

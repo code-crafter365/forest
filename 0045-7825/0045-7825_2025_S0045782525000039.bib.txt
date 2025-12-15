@@ -1,0 +1,13 @@
+@article{LUO2025117731,
+title = {Constraints adjusted material with penalization method for topology optimization with minimum and maximum length controls},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117731},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117731},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000039},
+author = {Chuan Luo},
+keywords = {Topology optimization, Minimum length, Maximum length, Manufacturing constraints, Design for manufacturing, CAMP},
+abstract = {This paper presents the Constraints Adjusted Material with Penalization (CAMP) method, a novel approach to computational design for manufacturing, e.g. minimum and maximum length controls in topology optimization, without the need for additional explicit constraints. The proposed method is demonstrated on benchmark problems of minimum compliance and heat transfer, demonstrating its ability to yield crisp optimized designs while adhering to length scale requirements. Numerical results show that CAMP outperforms traditional constraint-aggregation methods, offering superior design performance and improved computational efficiency. CAMP’s simplicity, robustness, and versatility make it a promising solution for a broad range of constrained optimization challenges.}
+}

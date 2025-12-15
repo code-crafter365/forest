@@ -1,0 +1,13 @@
+@article{FABBRI2025118207,
+title = {A Discrete Fracture Approach Incorporating Healing in Porous Material Using the Mesh Fragmentation Technique},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118207},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118207},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004797},
+author = {Heber Fabbri and Marcelo Sánchez},
+keywords = {Damage-healing model, Concrete, Clayed materials, Discrete fracture model, Mesh fragmentation technique, Self-healing, self-sealing},
+abstract = {The numerical modeling of healing processes in discontinuities (e.g., fractures, cracks, and material interfaces) typically found in concrete, rocks, soils, and other materials is a highly challenging task. Its accurate modeling is crucial for applications ranging from extending the lifespan of damaged concrete structures through healing-aided strength and stiffness recovery to sealing cracks and interfaces in mined geological repositories intended for high-level nuclear waste (HLW) isolation. This paper presents a novel and general constitutive model capable of simulating both discrete fracture formation and healing/re-sealing phenomena in materials. The finite element-based approach is developed within the Mesh Fragmentation Technique (MFT) framework. The damage-healing model formulation is detailed, its capabilities demonstrated through a synthetic benchmark, and its validation conducted through two engineering applications: fracture healing in a concrete bending beam and self-sealing/re-healing of a clay barrier system for HLW isolation. In both cases, the model successfully replicated key experimental trends and provided valuable insights into this complex phenomenon.}
+}

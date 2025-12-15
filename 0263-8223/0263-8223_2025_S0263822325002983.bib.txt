@@ -1,0 +1,13 @@
+@article{HE2025119133,
+title = {Influence mechanism of beam oscillation on energy density distribution and mechanical properties of steel/CFRP joint by direct laser welding},
+journal = {Composite Structures},
+volume = {363},
+pages = {119133},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119133},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002983},
+author = {Zhaoguo He and Dianwu Zhou and Rui Zhang and Mengying Ye and Congkang Lu and Li Liu and Xinyu Wang and qiao Deng and Jinshui Liu},
+keywords = {Laser welding, Oscillation mode, Laser energy density},
+abstract = {Direct laser welding of PA66 resin CFRP to DP780 dual-phase steel using three oscillation modes such as linear, ∞, and circular was performed in an overlap steel-on-CFRP configuration. The influence mechanism of beam oscillation on energy density distribution and improvement of joint performance were also revealed. The results suggested that the changes of joint property were closely related to the temperature distribution at steel/CFRP interface. Beam oscillation shifted the peak of laser energy density from the middle to fringe region, decreasing the interface temperature disparity between the middle and fringe. In the case of linear mode, laser energy density at fringe and middle region is both higher than that in ∞ or circular modes, and the temperature distribution across the whole steel/CFRP interface is uniform, thus the crystallinity and flowability of PA66 resin are increased due to the compensated interface temperature difference caused by the beam oscillation, which is conducive to the interface bonding. Furthermore, the effective heating time of interface is prolonged due to beam oscillation, a high proportion of M−C and M−O chemical bonding are formed at steel/CFRP interface, hence, the mechanical performance of steel/CFRP joint is considerably improved by linear beam oscillation.}
+}

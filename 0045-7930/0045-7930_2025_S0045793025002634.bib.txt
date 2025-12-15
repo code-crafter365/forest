@@ -1,0 +1,13 @@
+@article{DICECH2025106803,
+title = {Parametric reduced order model built from RBF-FD meshless simulations of flow and temperature fields in a 3D pipe with wavy surfaces},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106803},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106803},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002634},
+author = {Fausto Dicech and Riccardo Zamolo and Lucia Parussini},
+keywords = {Reduced order model, Meshless, Multi-fidelity, Gaussian process regression},
+abstract = {The building of a Proper Orthogonal Decomposition based Reduced Order Model (ROM) representation from Radial Basis Function-generated Finite Differences (RBF-FD) meshless simulations is proposed, thus introducing a novel and original approach to the analysis of parametric problems. The RBF-FD meshless method is most suitable when solving thermofluid dynamic problems on parametric domains, because it can handle complex geometries and large deformations without the need for mesh, grid, or tessellation generation and refinement. A simple distribution of nodes over the domain is only needed, and the convergence rate of RBF-FD methods can be easily increased. Nevertheless, a reliable exploration of the parameter space still requires many simulations to capture the behaviour of the analysed system. So, reduced order modelling methods can be used to significantly speed up the analysis, aiming to accurately describe the physical process with a relatively small number of degrees of freedom. In particular, we want to compare the capability of a low-fidelity approximation of the problem and a ROM built from a few high-fidelity simulations to represent the parametric solution. The intent is to understand how to exploit the two models to achieve the best multi-fidelity ROM representation of the parametric problem. The approach is applied to the parametric analysis of flow and temperature fields in a 3D pipe with wavy surfaces, considering geometric and physical parameters.}
+}

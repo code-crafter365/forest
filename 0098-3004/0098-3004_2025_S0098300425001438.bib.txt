@@ -1,0 +1,13 @@
+@article{YI2025105993,
+title = {A novel class-imbalance learning framework for fluid recognition: Application to Qingshimao-Gaoshawo tight-sand gas reservoirs in the Ordos Basin, China},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105993},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105993},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001438},
+author = {Jun Yi and ZhongLi Qi and XiangChengZhen Li and Fuqiang Lai and Wei Zhou},
+keywords = {Fluid recognition, Tight sandstone reservoirs, Reinforcement learning, Imbalanced learning},
+abstract = {The mathematical model-based methods used for conventional oil and gas resources often perform poorly in fluid recognition of tight-sand reservoir, due to the mutual interference of various factors such as reservoir lithology and pore structure. Booming artificial intelligence technologies and accumulating logging data provide a solid foundation for the application of machine learning methods as new tools for fluid identification. However, there is often a serious class imbalance, which can easily lead to the inability to achieve ideal classification results, in the proportion of categories of the collected well logging data. Consequently, this issue has become a huge challenge for the academic and industrial communities. To address this, a novel class-imbalance learning framework for fluid recognition (CILF) is proposed to tight-sand gas reservoirs of Qingshimao-Gaoshawo area of Ordos Basin, in China. Specifically, an improved label propagation algorithm based on semi-supervised learning (SS-LPA) is designed at the data level, which can reduce the imbalance rate of raw data to some extent after assigning high-confidence labels to unlabeled samples. At the model level, Q-network, as an effective reinforcement learning approach, is introduced into ensemble learning framework (QNEL), which can enhance the multi-classification accuracy of fluid identification by training multiple baseline models that are given different weights for feedback on imbalanced data. The experimental results from 35 tight-sand wells in Qingshimao-Gaoshawo area of Ordos Basin validate the effectiveness of the proposed framework. Specifically, the performance of CILF is the best on all three typical evaluation metrics, and it outperforms others in 12 out of a total of 18 categories. In terms of the average scores for six categories, the precision, recall rate, and F1 score of the proposed framework reach 0.988, 0.984, and 0.985, respectively.}
+}

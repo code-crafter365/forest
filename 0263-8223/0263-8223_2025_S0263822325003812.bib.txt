@@ -1,0 +1,13 @@
+@article{ABDALLA2025119216,
+title = {Review of rules of mixture for effective elastic properties in fibrous and particulate composite materials},
+journal = {Composite Structures},
+volume = {367},
+pages = {119216},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119216},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003812},
+author = {Hassan Mohamed Abdelalim Abdalla},
+keywords = {Micromechanics, Rules of mixture, Effective elastic properties, Composite materials, Classic bounds, Mechanics of materials, Continuum mechanics},
+abstract = {Micromechanics based models have been playing an important role in predicting the effective elastic properties of particulate and fibrous linearly elastic composite materials. This paper reviews the simplest most widely-used class of micromechanics models, the so-called rules of mixture, and aims to clarify various misconceptions in their applicability by providing concise derivations from both the mechanics-of-materials and continuum-mechanics approaches. The paper critically reviews the areas in which these analytical models can yield good predictions of effective elastic properties and various historical interventions when properties are underestimated. Besides, it illustrates a generalized framework able to justify their assumptions as lower and upper bounds for elastic properties, though of modest practical application when compared to more refined theories. Eventually, the position of these models with respect to classic assumptions of dilute dispersion is investigated and emphasized with reference to experimental data.}
+}

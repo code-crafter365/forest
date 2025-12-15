@@ -1,0 +1,13 @@
+@article{SIMACEK2025109021,
+title = {A model to describe transient transverse deformation during prepreg consolidation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109021},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109021},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500315X},
+author = {Pavel Simacek and Shu Minakuchi and Suresh G. Advani},
+keywords = {Prepreg consolidation, Process modeling, Process monitoring},
+abstract = {In automated tape placement or other prepreg layup methods, one of the manufacturing flaws manifests when the gap between adjacent tapes or prepreg sheets cause concave deformation on top of the gap during the consolidation step. Our previous model addressed the development of the gap as applied to tape placement process and predicted final deformation state was compared with experimental measurements after tape consolidation was complete. The transient deformation behavior could not be verified as it was not possible to measure at that time. Since then, a unique fiber optic shape sensor was developed that measures the in-situ deformation of a cross-ply thermosetting composite laminate containing gaps of various widths in the middle layer during the entire consolidation process. The related experimental work showed that our previous model assumption of elastic behavior of prepreg plies bridging the gap are invalid. To address this shortcoming, elastic stress relaxation was introduced into the model. To address wider gaps, it also proved necessary to add the contact between the bridging layers and substrate under the gap. In addition, transient viscosity model was also implemented as the necessary data for its characterization was also available. The extended model parameters were found by successfully fitting the transient deformation to one experimental result. The transient results were then compared to the fiber optic in-situ sensor data obtained in additional cases. The comparison of model predictions with experimental data proved favorable.}
+}

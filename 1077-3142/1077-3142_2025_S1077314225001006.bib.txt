@@ -1,0 +1,13 @@
+@article{LIU2025104377,
+title = {CSPPNet: Cascade space pyramid pooling network for object detection},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104377},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104377},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001006},
+author = {Yafeng Liu and Yongsheng Dong},
+keywords = {Real-time, Cascade feature, Nest spatial, Object detection},
+abstract = {Real-time object detection, as an important research direction in the field of computer vision, aims to achieve fast and accurate object detection. However, many current methods fail to achieve a balance between speed, parameters, and accuracy. To alleviate this problem, in this paper, we construct a novel cascade spatial pyramid pooling network (CSPPNet) for object detection. In particular, we first propose a cascade feature fusion (CFF) module, which combines the novel cascade cross-layer structure and GSConv convolution to lighten the existing necking structure and improve the detection accuracy of the model without adding a large number of parameters. In addition, in order to alleviate the loss of feature detail information due to max pooling, we further propose the nest space pooling (NSP) module, which combines nest feature fusion with max pooling operations to improve the fusion performance of local feature information with global feature information. Experimental results show that our CSPPNet is competitive, achieving 43.1% AP on the MS-COCO 2017 test-dev dataset.}
+}

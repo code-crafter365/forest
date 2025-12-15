@@ -1,0 +1,13 @@
+@article{WU2025108680,
+title = {High-temperature anisotropic behavior of large-size industrial-grade thin sheet of (TiB + TiC) reinforced titanium matrix composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108680},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108680},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400678X},
+author = {Jingxi Wu and Yuyong Chen and Zhiming Du and Baohui Li and Tongzheng He and Haitao Zhou and Yu Zhang},
+keywords = {Titanium matrix composites, Large-size industrial-grade sheets, High-temperature anisotropic, Texture},
+abstract = {To address the research gap concerning the mechanical property anisotropy of large-size industrial-grade titanium matrix composites (TMCs) thin sheets, a (TiB + TiC) binary-reinforced TMCs sheet that has the largest size reported to date was prepared using the pack ply-rolling. Detailed investigations revealed significant anisotropy in ultimate tensile strength, yield strength, and elongation at 650 ℃. The as-rolled TMCs exhibited a strong (–12–10)[10–10] prismatic texture, causing the Schmid factor to vary with the loading direction and inducing differences in the external stress required for slip system activation and anisotropic high-temperature mechanical properties. Additionally, a strong (100)[010] texture in TiB balances the matrix texture to mitigate anisotropy. The whisker-like TiB alignment along the rolling direction also balances the impact of strong TD texture on strength anisotropy but exacerbates ductility anisotropy. In contrast, the nearly isotropic strengthening effect of near-equiaxed or equiaxed TiC indicates minimal influence on the mechanical property anisotropy.}
+}

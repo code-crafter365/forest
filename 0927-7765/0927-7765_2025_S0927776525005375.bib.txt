@@ -1,0 +1,13 @@
+@article{YU2025115030,
+title = {DNA nanostructures: From molecular folding assembly to target subcellular delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115030},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115030},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005375},
+author = {Danqing Yu and Liumei Zhong and Bing Liu and Bangxun Mao and Dongliang Yang and Xuyang Chen},
+keywords = {DNA nanostructures, Subcellular delivery system, Mitochondria targeting, Lysosome targeting, Endoplasmic reticulum targeting},
+abstract = {The structure and composition of subcellular organelles are closely linked to the state of cells and even entire organisms. The ability to deliver functional molecules to specific tissues and cells at the subcellular level holds significant importance. The biocompatibility, programmability, ease of modification, and addressability of DNA nanostructures enable the integration of organelle-targeting molecules, sensing modules, and drugs into a single structure, facilitating precise control of their fate in cells, thereby enhancing diagnostic and therapeutic outcomes. Herein, we briefly review the development of DNA functional elements and DNA nanotechnology, with a focus on the subcellular localization of DNA nanoarchitectures and their recent advancements in biological detection, bioimaging, and therapeutic applications. We also discuss the current limitations of DNA nanostructures in targeted delivery and envision their future applications in biology. This review provides an guideline for constructing DNA-based targeted delivery systems at the subcellular level, offering valuable insights for researchers in this field.}
+}

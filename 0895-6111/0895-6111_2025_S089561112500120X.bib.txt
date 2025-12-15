@@ -1,0 +1,13 @@
+@article{KHATTAR2025102611,
+title = {DeepHybrid-CNN: A hybrid approach for pre-processing of skin cancer images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102611},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102611},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500120X},
+author = {Sonam Khattar and Ravinder Kaur and Abhishek Kumar},
+keywords = {Skin cancer detection, Dermatology, Denoising, Hair Removal, Image processing},
+abstract = {In the current technological era, digital imaging is ubiquitous, and it serves a crucial purpose in the realm of medical research. Skin cancer is one of the most common types of cancer, and its early diagnosis is essential to reduce the mortality rates. An impediment that must be overcome to identify essential image details for computerized cancer segmentation effectively and classification is the presence of a variety of noise types, as well as hair in the acquired skin lesion images. Pre-processing of skin cancer images is a crucial but difficult challenge in developing highly effective computerized diagnosis systems. The existence of fine lines and low picture quality in the skin images presents a substantial challenge in precisely defining characteristics for automated cancer classification. The purpose of this research is to propose a novel hybrid technique by employing a fusion of Anisotropic Intensity Hair Removal (AI-HR), a Gaussian Filter (GF), and a deep learning based residual convolutional neural network (Deep Residual CNN) to improve the quality of dermoscopic images for performing correct diagnostic tasks. The experimental results revealed that the proposed technique successfully removes hairs and noise from dermoscopic images, resulting in better visibility of details in terms of different evaluation metrics. Further, investigations were carried out to observe how the proposed pre-processing techniques help to enhance the segmentation and classification performance for the diagnosis of skin cancer images. The experimental results revealed that there was an enhancement in the segmentation and classification results by utilizing the proposed hybrid pre-processing technique. Also, the recommended method outperforms the current state-of-the-art pre-processing techniques in the field of skin cancer diagnosis, as shown by the findings of investigations carried out on the HAM10000 dataset. The results revealed that the methodology was superior in both subjective and objective evaluations and has the potential to be deployed in real-time clinical scenarios.}
+}

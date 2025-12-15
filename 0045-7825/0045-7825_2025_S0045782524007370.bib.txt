@@ -1,0 +1,13 @@
+@article{WERNER2025117483,
+title = {System stabilization with policy optimization on unstable latent manifolds},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117483},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117483},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007370},
+author = {Steffen W.R. Werner and Benjamin Peherstorfer},
+keywords = {Nonlinear systems, Feedback stabilization, Context-aware learning, Neural networks, Reinforcement learning},
+abstract = {Stability is a basic requirement when studying the behavior of dynamical systems. However, stabilizing dynamical systems via reinforcement learning is challenging because only little data can be collected over short time horizons before instabilities are triggered and data become meaningless. This work introduces a reinforcement learning approach that is formulated over latent manifolds of unstable dynamics so that stabilizing policies can be trained from few data samples. The unstable manifolds are minimal in the sense that they contain the lowest dimensional dynamics that are necessary for learning policies that guarantee stabilization. This is in stark contrast to generic latent manifolds that aim to approximate all—stable and unstable—system dynamics and thus are higher dimensional and often require higher amounts of data. Experiments demonstrate that the proposed approach stabilizes even complex physical systems from few data samples for which other methods that operate either directly in the system state space or on generic latent manifolds fail.}
+}

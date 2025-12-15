@@ -1,0 +1,13 @@
+@article{LI2025105864,
+title = {Hyperspectral image classification based on faster residual multi-branch spiking neural network},
+journal = {Computers & Geosciences},
+volume = {197},
+pages = {105864},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105864},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000147},
+author = {Yahui Li and Yang Liu and Rui Li and Liming Zhou and Lanxue Dang and Huiyu Mu and Qiang Ge},
+keywords = {Hyperspectral image (HSI) classification, Spiking neural networks (SNN), Faster residual multi-branch spiking neural network (FRM-SNN), Approximate derivative, Residual multi-branch module (RMM)},
+abstract = {Deep convolutional neural network has strong feature extraction and fitting capabilities and perform well in hyperspectral image classification tasks. However, due to its huge parameters, complex structure and high energy consumption, it is difficult to be used in mobile edge computing. Spiking neural network (SNN) has the characteristics of event-driven and low energy consumption and has developed rapidly in image classification. But it usually requires more time steps to achieve optimal accuracy. This paper designs a faster residual multi-branch SNN (FRM-SNN) based on leaky integrate-and-fire neurons for HSI classification. The network uses the residual multi-branch module (RMM) as the basic unit for feature extraction. The RMM is composed of spiking mixed convolution and spiking point convolution, which can effectively extract spatial spectral features. Secondly, to address the problem of non-differentiability of Dirac function spiking propagation, a simple and efficient arcsine approximate derivative was designed for gradient proxy, and the classification performance, testing time, and training time of various approximate derivative algorithms were analyzed and evaluated under the same network architecture. Experimental results on six public HSI data sets show that compared with advanced SNN-based HSI classification algorithms, the time step, training time and testing time required for FRM-SNN to achieve optimal accuracy are shortened by approximately 84%, 63% and 70%. This study has important practical significance for promoting the engineering application of HSI classification algorithms in unmanned autonomous devices such as spaceborne and airborne systems.}
+}

@@ -1,0 +1,13 @@
+@article{DUCROCQ2025114342,
+title = {Bioactive dextran-based scaffolds from emulsion templates co-stabilized by poly(lactic-co-glycolic acid) nanocarriers},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114342},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114342},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006015},
+author = {Maude Ducrocq and Arianna Rinaldi and Boris Halgand and Joëlle Veziers and Pierre Guihard and Frank Boury and Antoine Debuigne},
+keywords = {Emulsion templates, Nanoparticles, Protein encapsulation, Bioactive scaffolds, Protein release, Tissue engineering},
+abstract = {Porous polymer scaffolds are widely investigated as temporary implants in regenerative medicine to repair damaged tissues. While biocompatibility, degradability, mechanical properties comparable to the native tissues and controlled porosity are prerequisite for these scaffolds, their loading with pharmaceutical or biological active ingredients such as growth factors, in particular proteins, opens up new perspective for tissue engineering applications. This implies the development of scaffold loading strategies that minimize the risk of protein denaturation and allow to control their release profile. This work reports on a straightforward method for preparing bioactive dextran-based scaffolds from high internal phase emulsion (HIPE) templates containing poly(lactic-co-glycolic acid) (PLGA) nanoparticles (NPs) serving both as co-stabilizers for the emulsion and nanocarriers for drug or therapeutic protein models. Scaffold synthesis are achieved by photocuring of methacrylated dextran located in the external phase of a HIPE stabilized by the NPs in combination or not with a non-ionic surfactant. Fluorescent labelling of the NPs highlights their integration in the scaffold. The introduction of NPs, and even more so when combined with a surfactant, increases the stability and mechanical properties of the scaffolds. Cell viability tests demonstrate the non-toxic nature of these NPs-loaded scaffolds. The study of the release of a model protein from the scaffold, namely lysozyme, shows that its encapsulation in nanoparticles decreases the release rate and provides additional control over the release profile.}
+}

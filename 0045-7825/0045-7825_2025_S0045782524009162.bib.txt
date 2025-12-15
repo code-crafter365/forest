@@ -1,0 +1,13 @@
+@article{ZHANG2025117662,
+title = {A hybrid model-based and data-driven method for mechanical-thermal dynamic load identification considering multi-source uncertainties},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117662},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117662},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009162},
+author = {Haoyu Zhang and Lei Wang and Yaru Liu},
+keywords = {Mechanical-thermal dynamic load identification, Multi-souse uncertainty, Mechanical-Thermal Coupling, Hybrid Model-Based and Data-Driven, Self-Adaptive Model Updating},
+abstract = {The rapid advancement in technology and engineering leads to increasingly complex structural working conditions. Especially, in the field of aeronautics and astronautics, structures are frequently subjected to high temperatures together with external forces, posing great threat to structural health. Consequently, the identification of both mechanical and thermal loads is crucial for structural health monitoring. However, the presence of thermal fields introduces additional challenges to load identification problems. In this paper, a model-based mechanical-thermal load identification method is firstly proposed with structural mechanical-thermal modal analysis. A data-driven self-adaptive model updating strategy based on artificial neural networks (ANN) is then developed in order to account for the effect of thermal fields on the structure, including changes in material properties arisen from high temperatures and changes in structural properties arisen from thermal stress. Furthermore, the study considers two types of uncertainties — Gaussian white noises and structural uncertainties and interval estimate of load identification based on Taylor expansion and uncertainty, and carries out uncertainty propagation analysis to quantify their effects on load identification. Eventually, simulation and experiment examples are provided to validate the effectiveness of the proposed methodology. The results of numerical examples demonstrate that the mechanical-thermal identification method converges rapidly, achieving an overall accuracy exceeding 95 % (namely, an error <5 %) in the identification of both mechanical and thermal loads, and the interval estimate can successfully envelope the real values of the loads.}
+}

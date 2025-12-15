@@ -1,0 +1,13 @@
+@article{YANG2025114477,
+title = {Self-augmented catabolism mediated by Se/Fe co-doped bioceramics boosts ROS storm for highly efficient antitumor therapy of bone scaffolds},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114477},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114477},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007367},
+author = {Wenjing Yang and Chenhang Ding and Yibing Ji and Chongxian He and Feilong Xiong and Wurikaixi Aiyiti and Cijun Shuai},
+keywords = {Selenite, Glutathione catabolism, Reactive oxygen species, Bone scaffold, Tumor therapy},
+abstract = {The overexpression of glutathione (GSH) within the tumor microenvironment has long been considered as the major obstacle for reactive oxygen species (ROS)-based antitumor therapies. To address this challenge, a selenite (SeO32 −) and ferric ion co-doped hydroxyapatite (SF-HAP) nanohybrid was synthesized, which is then introduced into poly-L-lactic acid (PLLA) to prepare porous scaffold by selective laser sintering to continuously release Fe3+ and SeO32− ions. Of great significance is the released SeO32− catabolize GSH to generate superoxide anion (O2•−) rather than directly eliminating GSH, thereby reversing the obstacle posed by its overexpression and achieving a "waste-to-treasure" transformation. The newly generated O2•− synergizes with the hydroxyl radicals (•OH) produced by the Fenton reaction between Fe3+/2+ and hydrogen peroxide, triggering high concentration ROS storms. Collectively, the PLLA/SF-HAP scaffold mediated self-augmented catabolism dynamic progress significantly raised intracellular ROS levels, almost twice as much as PLLA/Fe-HAP scaffold, thereby effectively inducing tumor cell apoptosis. The study provides an innovative inspiration for ROS-based antitumor therapies.}
+}

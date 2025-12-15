@@ -1,0 +1,13 @@
+@article{MALLIK2025106626,
+title = {Shape optimization for fluid flow with parametric level set method and deep neural networks},
+journal = {Computers & Fluids},
+volume = {295},
+pages = {106626},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106626},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000866},
+author = {Wrik Mallik and Rajeev K. Jaiman and Jasmin Jelovica},
+keywords = {Parametric level set method, Deep neural networks, Shape optimization},
+abstract = {This study presents a novel application of the parametric level-set (PLS) method to develop a shape optimization process by directly modifying flow dynamics. The present method employs linear superimposition of polynomial perturbations to traditional PLS as shape optimization parameters. This enables smooth shape changes without any change in topology and limits the design variables to only the number of polynomials required for arbitrary hydrofoil morphing. During optimization, deep convolutional neural networks are integrated with the point clouds of the uniform level set to provide a surrogate model for flow dynamics. The present shape optimization method is employed here to delay stall via mitigation of flow separation on the suction surface of the NACA66 hydrofoil at high angles of attack. Shape optimization mitigates the forward movement of trailing edge flow reversal via changes in hydrofoil thickness and camber forward of the maximum hydrofoil thickness point. The optimized design shows more than two order reductions in mean flow reversal compared to NACA66 under the design condition angle of attack of 11.5∘. At 14°, NACA66 shows complete flow separation while the optimized design exhibits almost three orders lower mean reversal magnitude of top surface flow than that of NACA66, indicating significantly delayed flow separation characteristics. The surrogate-based optimization is performed at four orders of magnitude lower computation time than full-order flow solvers. The results demonstrate the potential of the proposed PLS and deep neural network methodology to perform fast data-driven (non-intrusive) shape optimization of fluid flow.}
+}

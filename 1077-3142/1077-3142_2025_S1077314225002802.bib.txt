@@ -1,0 +1,13 @@
+@article{LI2025104557,
+title = {HADF: A hybrid attention and dual-branch feature fusion method for infrared and visible image fusion},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104557},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104557},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002802},
+author = {Qian Li and Shen Yang and Peixuan Wu and Jin Wu},
+keywords = {Image fusion, CNNs, Transformer, Feature extraction},
+abstract = {Although CNNs and Transformers have achieved remarkable progress in infrared–visible image fusion, existing hybrid approaches still face key challenges, including CNNs’ limited receptive fields, Transformers’ high computational cost and detail loss, and the inadequate balance of global–local feature representation. To address these issues, we propose HADF, a hybrid attention and dual-branch feature fusion method for infrared and visible image fusion. This method alters the receptive field size through branches at different scales, enabling the extraction of multi-granularity features from low-level textures to high-level semantics, thereby providing more comprehensive feature representation. We design a Hybrid Attention Module (HAM), which combines spatial attention mechanisms with local and global branches, leveraging shared weights and context-aware weights to enhance local features and improve feature quality through robust nonlinear operations. The global branch reduces computational cost through downsampling and better captures low-frequency global information. Extensive experimental results on three benchmark datasets demonstrate that our HADF framework achieves superior fusion performance compared to nine state-of-the-art methods.}
+}

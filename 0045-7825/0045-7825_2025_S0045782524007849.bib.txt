@@ -1,0 +1,13 @@
+@article{FANG2025117530,
+title = {A novel Hybrid Particle Element Method (HPEM) for large deformation analysis in solid mechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117530},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117530},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007849},
+author = {Huangcheng Fang and Zhen-Yu Yin},
+keywords = {Finite element method, Particle method, Large deformation analysis, Gradient smoothing, Remeshing technique},
+abstract = {This paper develops a novel Hybrid Particle Element Method (HPEM) to model large deformation problems in solid mechanics, combining the strengths of both mesh-based and particle approaches. In the proposed method, the computational domain is discretized into two independent components: a set of finite elements and a set of particles. The finite elements serve as a temporary tool to compute the spatial derivatives of field variables, while the particles are used for storing history variables and establishing equilibrium equations. Spatial derivatives of field variables on particles are obtained by averaging the surrounding Gauss points of finite elements with a smoothing function. When the finite element mesh becomes distorted, it can be arbitrarily adjusted or completely regenerated. No global variable mapping is required when mesh adjustment or regeneration is performed, thus avoiding irreversible interpolation errors. The proposed method is validated through six typical examples, assessing its accuracy, efficiency, and robustness. The superior performance of the proposed method is comprehensively demonstrated through comparisons with several existing numerical methods.}
+}

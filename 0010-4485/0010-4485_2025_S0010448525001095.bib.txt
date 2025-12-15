@@ -1,0 +1,13 @@
+@article{WU2025103948,
+title = {Matrix representation and GPU-optimized parallel B-spline computing},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103948},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103948},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001095},
+author = {Jiayu Wu and Zhengwen Feng and Qiang Zou},
+keywords = {Computer-aided design, B-spline curves and surfaces, Matrix representation, GPU computing, Inversion and projection},
+abstract = {B-spline modeling is fundamental to CAD systems, and its evaluation and manipulation algorithms currently in use were developed decades ago, specifically for CPU architectures. While remaining effective for many applications, these algorithms become increasingly inadequate as CAD models grow more complex, such as large-scale assemblies and microstructures. GPU acceleration offers a promising solution, but most existing GPU B-spline algorithms simply adapt CPU counterparts without accounting for the mismatch between the unstructured, recursive nature of B-splines and the structured nature of GPU kernels, ultimately failing to fully leverage GPU capabilities. This paper presents a novel approach that transforms B-spline representations into regular matrix structures, reducing all evaluation and manipulation computations to matrix addition and multiplication, thus better aligning with GPU architecture. By combining this matrix representation with GPU-optimized task scheduling and memory access patterns, the paper demonstrates significant performance improvements in the key B-spline operations of inversion and projection. Experimental results show an improvement of about two orders of magnitude in computational speed compared to existing methods.}
+}

@@ -1,0 +1,13 @@
+@article{LEE2025105750,
+title = {Latent diffusion model for conditional reservoir facies generation},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105750},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105750},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002334},
+author = {Daesoo Lee and Oscar Ovanger and Jo Eidsvik and Erlend Aune and Jacob Skauvold and Ragnar Hauge},
+keywords = {Machine learning, Diffusion models, Facies generation, Conditional sampling, Statistical learning},
+abstract = {Creating accurate and geologically realistic reservoir facies based on limited measurements is crucial for field development and reservoir management, especially in the oil and gas sector. Traditional two-point geostatistics, while foundational, often struggle to capture complex geological patterns. Multi-point statistics offers more flexibility, but comes with its own challenges related to pattern configurations and storage limits. With the rise of Generative Adversarial Networks (GANs) and their success in various fields, there has been a shift towards using them for facies generation. However, recent advances in the computer vision domain have shown the superiority of diffusion models over GANs. Motivated by this, a novel Latent Diffusion Model is proposed, which is specifically designed for conditional generation of reservoir facies. The proposed model produces high-fidelity facies realizations that rigorously preserve conditioning data. It significantly outperforms a GAN-based alternative. Our implementation on GitHub: github.com/ML4ITS/Latent-Diffusion-Model-for-Conditional-Reservoir-Facies-Generation}
+}

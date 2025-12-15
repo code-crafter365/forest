@@ -1,0 +1,13 @@
+@article{YE2025117542,
+title = {Fatigue-constrained topology optimization method for orthotropic materials based on an expanded Tsai-Hill criterion},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117542},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117542},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007965},
+author = {Hongling Ye and Yang Xiao and Yongjia Dong and Jialin Xie},
+keywords = {Topology optimization, Fatigue constraints, Orthotropic materials, ICM method},
+abstract = {Fatigue-constrained topology optimization (FCTO) is a currently research hotspot, and its fatigue constraints have material property dependency, highly nonlinear, and local features, which lead to challenges for the algorithm stability, computational efficiency, and different material application of FCTO. This research provides a FCTO method for structures subjected to variable-amplitude fatigue loading, incorporating the potential orthotropic behavior of materials. Firstly, a fatigue failure function derived from the constitutive model of orthotropic materials and the polynomial form in the Tsai-Hill criterion is proposed to predict multiaxial fatigue failure with a given loading spectrum. Secondly, a FCTO model minimizing structural weight is established based on the independent continuous mapping (ICM) method and constrained by a filtered, scaled, and aggregated fatigue failure function to enhance stability and convergence speed. Thirdly, the sensitivities of objective and constraint in the FCTO model are analyzed, and the optimal model is solved using convolutional filters and the globally convergent method of moving asymptotes (GCMMA) to generate manufacturable design. Finally, numerical examples demonstrate the feasibility of the method for 2D and 3D structures with varying material properties, load spectrums, and design domains. The developed method aims to facilitate the creation of lightweight designs capable of withstanding fatigue loads and to provide a framework and references for the advancement of integrated material-structure-performance designs.}
+}

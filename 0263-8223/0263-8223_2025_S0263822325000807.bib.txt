@@ -1,0 +1,13 @@
+@article{HONG2025118915,
+title = {Efficient 3D mesoscale computational model for damage simulation of hooked-end steel fibre reinforced concrete with explicit characterisation of its hooks},
+journal = {Composite Structures},
+volume = {357},
+pages = {118915},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118915},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000807},
+author = {Ye Hong and Yongchang Cai},
+keywords = {Hooked-end steel fibre reinforced concrete (HSFRC), Anchorage effect, 3D model, Damaged plasticity model, Connector element, Damage analysis},
+abstract = {This paper presents an efficient 3D mesoscale computational model for damage simulation of hooked-end steel fibre reinforced concrete (HSFRC) with explicit characterisation of its hooks. The detailed characteristics of hooked-end fibres are precisely modelled and their collision detections are performed in a simple and time-saving way by a novel pixel matrix algorithm; a special device called connector element is adopted to explicitly describe the fibre–matrix interactions, in terms of the normal rigid contact, tangential bond-slip relation and Coulomb friction, which enables fibre and matrix meshes to be independent; the fibres and the matrix are simulated by beam elements with perfect plastic laws and solid elements with the damaged plasticity model, respectively. A delicate 3D three-phase finite element model is then implemented using ABAQUS. The 3D model has the advantages of easy implementation, good convergence and low computational cost. Furthermore, it can predict the macroscopic mechanical responses and reproduce major failure modes, including fibre plastic deformation, matrix damage, interfacial debonding, and anchorage effects. The reliability and accuracy of the model were validated by single fibre pullout tests and three-point bending beam tests, and a detailed parametric study was conducted to provide further insights into the pullout performance of the hooked-end fibre.}
+}

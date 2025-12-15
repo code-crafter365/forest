@@ -1,0 +1,13 @@
+@article{ALVES2025119731,
+title = {Cross-laminated bamboo and timber: a systematic literature review},
+journal = {Composite Structures},
+volume = {374},
+pages = {119731},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119731},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008967},
+author = {Larissa Fé Alves and Victor {De Araujo} and André Luis Christoforo},
+keywords = {Cross-laminated bamboo and timber (CLBT), Engineered bamboo, Material characterization, Numerical analysis, Analytical modeling, Manufacturing processes},
+abstract = {The construction sector’s demand for sustainable, high-performance materials has driven the development of hybrid systems such as cross-laminated bamboo and timber (CLBT). This systematic literature review consolidates and analyzes the current state of CLBT research, focusing on structural performance, manufacturing, and analytical, numerical, and experimental methodologies. A bibliometric and content analysis was conducted to identify thematic trends, mechanical properties, and application domains. Findings show that CLBT generally surpasses cross-laminated timber (CLT) in compressive strength and shear performance, especially when engineered bamboo products are used in outer layers, though bending remains comparable or slightly inferior. Experimental procedures are largely based on adapted CLT standards, with increasing use of bamboo-specific international standards. Analytical models such as Wu–Wei and Richard–Abbott, and numerical models implemented in Abaqus and ANSYS, demonstrate good predictive accuracy for bending behavior and thermal transmittance. Manufacturing practices vary widely in materials, adhesives, and layer arrangements, underscoring the need for standardization. Structurally, CLBT has been proposed for beams, columns, floors, walls, and roofs, supported by experimental and computational data on its bidirectional strength, stiffness, and thermal performance. This review identifies performance benchmarks, modeling practices, and methodological gaps, supporting future standardization and broader application of CLBT in sustainable construction systems.}
+}

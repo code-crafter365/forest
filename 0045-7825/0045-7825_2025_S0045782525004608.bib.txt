@@ -1,0 +1,13 @@
+@article{JAILIN2025118188,
+title = {Material-embedding Physics-Augmented Neural Networks: A first application to constitutive law parameterization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118188},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118188},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004608},
+author = {C. Jailin and E. Baranger},
+keywords = {Machine learning, Physics-informed AI, Constitutive modeling, PANN, Latent space},
+abstract = {A novel Material-Embedding Physics-Augmented Neural Network (ME-PANN) framework is presented for constitutive modeling in isotropic elasticity. A self-supervised trainable embedding vector is introduced to capture material-specific information. The embedding vector is concatenated with the inputs of each fully connected layer, allowing the network to adapt its response based on the material behavior. Synthetic datasets of various hyperelastic laws are used to assess accuracy and the ME-PANN capacity to generalize across diverse materials. It is demonstrated that the proposed framework effectively encodes model shape and parameter variations, thereby achieving improved generalization compared to standard neural networks for a negligible extra computational cost. A single-trained generic model can handle multiple materials by maintaining a shared set of weights while adapting only the low-dimensional embedding for each new scenario. This approach also yields significant gains in data efficiency since fewer parameters must be updated when transfer learning is performed on new materials. Although this study primarily relies on synthetic datasets, future work will focus on validating the proposed framework using real experimental data, which introduces additional challenges, such as accurate stress measurement.}
+}

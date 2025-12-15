@@ -1,0 +1,13 @@
+@article{EBRAHIMI2025111133,
+title = {AI-driven residual strength diagnostics of composites using their electrical behavior under low-stress cyclic loading},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111133},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111133},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001010},
+author = {Ali Ebrahimi and Farjad Shadmehri and Suong {Van Hoa}},
+keywords = {None destructive testing (NDT), Fatigue loading, Residual strength prediction, Machine learning (ML), Electrical resistance (ER)},
+abstract = {A novel non-destructive testing (NDT) method was developed to predict the residual strength of composites, with unknown histories of fatigue damage, using their electrical behavior during a low stress cyclic loading test. Ninety-five samples, representing a wide range of fatigue damage levels, were prepared and subjected to a low-stress cyclic loading test, as a diagnostic test, while their electrical behavior was monitored. The samples then underwent quasi-static loading until failure to measure their corresponding residual strengths. To establish a relationship between the electrical behavior of samples during the diagnostic test and their corresponding residual strengths, various machine learning techniques were implemented. K-nearest neighbor (KNN), Decision Tree (DT), Random Forest, Extreme Gradient Boosting, Support Vector Regressor (SVR), and Feedforward Artificial Neural Networks were employed in two different approaches: as standalone predictors, and in an ensemble learning approach. The analysis demonstrated that a KNN meta-model, incorporating DT, SVR, and KNN as base models, in an ensemble framework, achieved the best performance, with a mean absolute percentage error (MAPE) of 5.7 % in predicting residual strength. This significant performance underscores the potential of our low-stress diagnostic test for predicting the residual strength of composites, even when the fatigue damage history is unknown.}
+}

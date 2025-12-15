@@ -1,0 +1,13 @@
+@article{YE2025111229,
+title = {Magnetic field orientated ionic transport pathway in epoxy solid electrolyte},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111229},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111229},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001976},
+author = {Jinrui Ye and Jingyue Chen and Wenhao Xie and Hongbo Gu and Qin Lei},
+keywords = {Solid electrolyte, Magnetic field, Oriented pathways, Epoxy, FeO nanoparticles},
+abstract = {Nowadays, structural energy storage materials achieve the integration of structural load-bearing and storage functions to serve as structures of equipment in the aviation, aerospace, and transportation. However, it's still a great challenge for balancing the mechanical strength and ionic conductivity in the epoxy solid electrolytes. The high ionic conductivity can only be obtained by severely sacrificing its mechanical properties through the formation of porous structures inside. Herein, a multiple-pathway epoxy solid electrolyte with strong mechanical tensile properties and excellent ionic conductivity is fabricated by an innovative method including the magnetic field assisted orientation of Fe3O4 nanoparticles inside the epoxy resin, followed by the ultrasonic acid etching. Finally, the directional Fe3O4 nanoparticles alignment in the epoxy led by the magnetic field has been etched and the solid electrolyte with abundant oriented paths came into being as confirmed in the high-resolution micro-computed tomography. The multiple-path solid electrolyte expresses the comparable mechanical performance with the tensile strength of 78.97 ± 1.06 MPa and elastic modulus of 1.66 ± 0.04 GPa when the magnetic field is 80 mT and Fe3O4 loading of precursor is 3 wt% relative to those of pure epoxy (81.50 ± 0.13 MPa and 2.37 ± 0.06 GPa). The multiple-path solid electrolyte also gained outstanding ionic conductivity up to 1.67 ± 0.13 mS cm−1. The combination of mechanical strength and ionic conductivity makes our multiple-path solid electrolyte participant in novel energy storage system.}
+}

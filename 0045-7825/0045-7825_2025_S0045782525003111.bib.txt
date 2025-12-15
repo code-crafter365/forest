@@ -1,0 +1,13 @@
+@article{SINGH2025118039,
+title = {The Fast Forward Quantum Optimization Algorithm: A study of convergence and novel unconstrained optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118039},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118039},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003111},
+author = {Pritpal Singh},
+keywords = {Fast forward quantum optimization algorithm (FFQOA), Wavefunctions, Convergence analysis, Performance evaluation, Unconstrained optimization functions},
+abstract = {The Fast Forward Quantum Optimization Algorithm (FFQOA) is a novel quantum-inspired heuristic search algorithm, drawing inspiration from the movement and displacement activities of wavefunctions associated with quantum particles. This algorithm has demonstrated remarkable effectiveness in predicting time series, clustering biomedical images, and optimizing the performance of convolutional neural networks. However, there has been no comprehensive study to investigate the convergence behavior and performance of FFQOA on standard optimization test functions. Motivated by this gap, we extend our research in three significant directions. First, we analyze the convergence behavior of FFQOA by studying the local and global displacements of its wavefunctions. To achieve this, martingale theory is employed to analyze the sequence of displacements, and we establish a necessary and sufficient condition for attaining the global convergence state of FFQOA. Second, we introduce 20 novel unconstrained optimization test functions, termed the Singh optimization functions. The mathematical properties of these functions are rigorously derived and comprehensively discussed. Finally, leveraging these optimization functions, the performance of FFQOA is evaluated and compared against well-established metaheuristic algorithms, including the Genetic Algorithm, Simulated Annealing, Cultural Algorithm, Particle Swarm Optimization, Ant Colony Optimization, Firefly Algorithm, and Grey Wolf Optimizer. Our analysis reveals that most existing algorithms struggle to effectively balance exploration and exploitation in the early stages of iterations, often failing to achieve global convergence. In contrast, FFQOA not only satisfies the global convergence criteria but also consistently identifies the global optimal solutions for the proposed Singh optimization functions. [Source Code: The source code for this study is available upon request by contacting the author via emails at drpritpalsingh82@gmail.com, pritpal@curaj.ac.in].}
+}

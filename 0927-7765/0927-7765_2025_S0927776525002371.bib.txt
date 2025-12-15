@@ -1,0 +1,11 @@
+@article{CHEN2025114730,
+title = {Corrigendum to Electrospun poly(l-lactic acid-co-ɛ-caprolactone) fibers loaded with heparin and vascular endothelial growth factor to improve blood compatibility and endothelial progenitor cell proliferation [Colloids Surf. B: Biointerfaces 128 (2015) 106–114] http://dx.doi.org/10.1016/j.colsurfb.2015.02.023},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114730},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114730},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002371},
+author = {Xi Chen and Jing Wang and Qingzhu An and Dawei Li and Peixi Liu and Wei Zhu and Xiumei Mo}
+}

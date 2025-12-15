@@ -1,0 +1,13 @@
+@article{ZAVODNIK2025117529,
+title = {Spherical harmonics-based pseudo-spectral method for quantitative analysis of symmetry breaking in wrinkling of shells with soft cores},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117529},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117529},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007837},
+author = {Jan Zavodnik and Miha Brojan},
+keywords = {Spectral method, Spherical harmonics, Wrinkling, Kirchhoff–Love shell, Constrained optimization},
+abstract = {A complete understanding of the wrinkling of compressed films on curved substrates remains illusive due to the limitations of both analytical and current numerical methods. The difficulties arise from the fact that the energetically minimal distribution of deformation localizations is primarily influenced by the inherent nonlinearities and that the deformation patterns on curved surfaces are additionally constrained by the topology. The combination of two factors – the need for dense meshes to mitigate the topological limitations of discretization in domains such as spheres where there is no spherically-symmetric discretizations, and the intensive search for minima in a highly non-convex energy landscape due to nonlinearity – makes existing numerical methods computationally impractical without oversimplifying assumptions to reduce computational costs or introducing artificial parameters to ensure numerical stability. To solve these issues, we have developed a novel (less) reduced version of shell theory for shells subjected to membrane loads, such as during wrinkling. It incorporates the linear contributions of the usually excluded tangential displacements in the membrane strain energy and thus retains the computational efficiency of reduced state-of-the-art methods while nearly achieving the accuracy of the full Kirchhoff–Love shell theory. We introduce a Galerkin-type pseudo-spectral method to further reduce computational costs, prevent non-physical deformation distribution due to mesh-induced nucleation points, and avoid singularities at the poles of the sphere. The method uses spherical harmonic functions to represent functions on the surface of a sphere and is integrated into the framework of minimizing the total potential energy subject to constraints. This robust approach effectively solves the resulting non-convex potential energy problem. Our method accurately predicts the transition between deformation modes based solely on the material and geometric parameters determined in our experiments, without the need to introduce artificial parameters for numerical stability and/or additional fitting of the experimental data.}
+}

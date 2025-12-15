@@ -1,0 +1,13 @@
+@article{YING2025118586,
+title = {Plasticity analysis and a homogenized constitutive model of compressible multi-layer structure of battery},
+journal = {Composite Structures},
+volume = {351},
+pages = {118586},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118586},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007141},
+author = {Pengfei Ying and Xiao Tian and Yong Xia},
+keywords = {Plasticity analysis, Multi-layer structure, Battery, Homogenized constitutive model, In-plane compression},
+abstract = {A homogenized constitutive model for the compressible multi-layer structure of battery (CMLSB) under external loading is essential for optimizing the structural design of electric assemblies. Currently, there is no specific constitutive model that is both mechanically explanatory and operationally applicable to CMLSB under varied loading conditions. In this study, due to limited understanding of the in-plane behavior of CMLSB, an analytical model was developed to investigate plasticity in this specific direction using the strain probing method. The observed plastic characteristics inspired the formulation of a novel two-dimensional constitutive framework for CMLSB in the in-plane direction. By integrating this new constitutive framework with one-dimensional plastic descriptions, a hybrid constitutive model was introduced and implemented in finite element software. Calibration and validation of the model were performed using a commercial pouch cell battery and its segments under various loading conditions. Finite element simulations with the hybrid model demonstrated remarkable accuracy in predicting the mechanical behavior of the cell under various in-plane and out-of-plane compression scenarios. Additionally, simulations were carried out to analyze the impact of cell packaging and air pressure. The new hybrid battery model is considered a user-friendly, physically interpretable, and high-fidelity tool, poised to significantly facilitate the comprehensive design of electric devices.}
+}

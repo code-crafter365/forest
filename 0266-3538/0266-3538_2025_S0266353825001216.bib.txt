@@ -1,0 +1,13 @@
+@article{LAMBRI2025111153,
+title = {Modified rule of mixtures and Halpin-Tsai models applied to PCL/NiMnInCo 4D printed composites. Internal stresses study during the martensitic transformation},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111153},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111153},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001216},
+author = {F.D. Lambri and F.G. Bonifacich and O.A. Lambri and B. Weidenfeller and V. Recarte and V. Sánchez-Alarcos and J.I. Pérez-Landazábal},
+keywords = {4D printing, Polymer chain flow, Internal stresses, Rule of mixture, Halpin-Tsai model},
+abstract = {4D printing enables the manufacturing of complex smart components in a wide variety of shapes. In devices based on 4D printed composite materials, the interaction between the active microparticles and the printable polymer matrix plays a critical role for the optimal functionality. Key parameters in these materials are the elastic misfit coefficient, which monitors internal stresses, and elastic energy transfer, which determines the ability to transfer strain from the microparticles to the surrounding matrix. In this work, the temperature-dependent shear modulus of PCL/Ni45Mn36.7In13.3Co5 4D printed composites is analysed using the modified rule of mixture (ROM) and Halpin-Tsai (HT) models. The molecular flow caused by the polymer chain movement under oscillatory mechanical stress at relatively elevated temperatures is examined and discussed using these models. Additionally, the effect of an external direct magnetic field on the shear modulus is also analysed. Finally, the internal stresses in the composite materials resulting from the martensitic transformation in the active microparticles are studied through a modified mean-field model based on the Eshelby's inclusion theory.}
+}

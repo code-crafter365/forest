@@ -1,0 +1,13 @@
+@article{QAYYUM2025108654,
+title = {On the printability and inter-layer adhesion in 3D printing of continuous carbon fibre reinforced PEEK composite using tape and filament},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108654},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108654},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006523},
+author = {Junaid Ahmad Qayyum and Aonan Li and Jiang Wu and Yahui Lyu and Vasileios Koutsos and Haoqi Zhang and Norbert Radacsi and Dongmin Yang},
+keywords = {Continuous carbon fibre, Poly ether-ether ketone, Pultrusion, 3D printing, Inter-layer adhesion},
+abstract = {This study, for the first time, investigates using a 3D printing nozzle instead of a compression roller to print sliced width of continuous carbon fibre-reinforced PEEK composite tape. Pultrusion of sliced tape was performed to further enhance the printability and inter-layer adhesion of curved raster, highlighting the significance of this approach towards 3D printing of complex parts. Peel and shear delamination tests of curved and straight rasters, printed using tape and filament was performed. The delamination tests were conducted at room temperature, 150 °C and 300 °C to elaborate the influence of 3D printing feedstock geometry on the printed part performance. It was found that pultruded filaments can delaminate at up to 40 % higher force as compared to tape for curved paths and vice-versa, as delamination strength corresponds to fibre alignment in the rasters. This study proves the applicability of using ATP graded small tapes (with a width of 1 mm) for 3D printing, and instead of introducing expensive additives to the composites, the feedstock geometry could significantly impact the inter-layer adhesion and facilitate complex part manufacturing.}
+}

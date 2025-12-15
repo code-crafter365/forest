@@ -1,0 +1,13 @@
+@article{LU2025117930,
+title = {PIGODE: A novel model for efficient surrogate modeling in complex geometric structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117930},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117930},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002026},
+author = {Chengyu Lu and Zhaoxi Hong and Xiuju Song and Zhixin Liu and Bingtao Hu and Yixiong Feng and Jianrong Tan},
+keywords = {Surrogate modeling, Physics-informed graph ordinary differential equation, Peridynamic differential operator},
+abstract = {Physics-Informed Neural Network (PINN), as a novel neural network model, is known for its strong interpretability and generalization capabilities, making it widely used in surrogate models and various engineering scenarios. While traditional PINN has achieved good results in simple geometric scenarios, there is limited research on its application to complex geometric structures. Additionally, PINN integrates boundary conditions into the loss function, requiring retraining model when boundary conditions change. To address these issues, we propose a new Physics-Informed Graph Ordinary Differential Equation (PIGODE) model for constructing surrogate models in complex geometric structures. The Peridynamic Differential Operator (PDDO) is extended to a PIGODE which is defined on graph data structure, and a PDDO-based message passing layer is developed to replace automatic differentiation (AD). This method precomputes Peridynamic weights, thereby avoiding additional computational overhead during model training. Furthermore, boundary conditions are embedded into the model input to address the need for dynamically modifying boundary conditions in surrogate models. Through comparative studies with existing PINN solvers, we validate the effectiveness of the proposed model, demonstrating its superior performance on complex geometric structures. Additionally, this model is applied to practical engineering scenarios, specifically constructing a temperature field surrogate model for the conical picks of a tunnel boring machine. The research results indicate that the proposed PIGODE model not only enhances the interpretability and efficiency of surrogate models but also extends their applicability to complex geometric structures in engineering.}
+}

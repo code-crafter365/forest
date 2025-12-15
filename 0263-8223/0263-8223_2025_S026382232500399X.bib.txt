@@ -1,0 +1,13 @@
+@article{XIE2025119234,
+title = {Efficient characterization of mechanical nonlinearity in triaxially braided composites by a novel unit cell},
+journal = {Composite Structures},
+volume = {366},
+pages = {119234},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119234},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500399X},
+author = {Yachen Xie and Guangyan Huang and Hong Zhang and Mingming Xu and Elena Sitnikova and Shuguang Li},
+keywords = {Braided composite, Reduced unit cell, Mechanical characterization, Nonlinear behaviour},
+abstract = {A range of nonlinear factors were investigated based on a novel unit cell model with a reduced domain to characterize the mechanical nonlinearity exhibited by braided composites in this study. These factors include geometric nonlinearity, nonlinear shear behaviour, plasticity within the matrix and transverse fibre direction, as well as failure and damage evolution. This novel size-reduced unit cell for braided composites, based on non-orthogonal translational symmetry principles, has been developed to streamline the analysis and tackle convergence challenges. This novel size-reduced unit cell is formulated by leveraging geometric features, as well as the symmetry and anti-symmetry of relative displacement boundary conditions. In order to evaluate the efficacy of these unit cells in characterizing elastic and strength properties, a benchmark study was conducted. The results demonstrate that the novel size-reduced unit cell has the ability to reliably predict the stiffness and strength responses of the 2D3A braided composite at the mesoscale. The unit cell’s predictions, which include nonlinear stress–strain curves, modulus, and strength, exhibit a robust analytical performance and a satisfactory agreement with experimental results.}
+}

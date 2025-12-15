@@ -1,0 +1,13 @@
+@article{GUI2025114667,
+title = {Multifunctional targeted nanosystem based on aggregation-induced emission: Enhanced synergistic mild-photothermal chemotherapy of prostate cancer via downregulation of heat shock protein 70 under NIR-II imaging},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114667},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114667},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001742},
+author = {Bin Gui and Nan Jiang and Huan Pu and Fanglu Zhong and Xin Huang and Zhiwen Wang and Qianhui Liu and Hao Wang and Yanxiang Zhou and Qing Zhou and Qing Deng},
+keywords = {Prostate cancer, multifunctional nanosystem, NIR-II fluorescence imaging, photothermal therapy, chemotherapy},
+abstract = {Prostate cancer is the second most common malignancy in men, often presents at advanced stages, where treatment options are limited due to surgical intolerance and resistance to androgen deprivation therapy. Mild photothermal therapy (PTT) at 42–49°C selectively eliminates tumors while sparing normal tissues, but its efficacy is reduced by heat shock protein (HSP70) upregulation, which inhibits apoptosis. To address these limitations, we developed 2TToD@NPs, a multifunctional nanosystem combining second near-infrared (NIR-II) fluorescence imaging, mild PTT, and chemotherapy. The nanosystem, comprising an aggregation-induced emission agent (2TT-oC26B) and doxorubicin (DOX), targets prostate cancer cells via folic acid modification. Upon laser irradiation, 2TT-oC26B generates strong NIR-II fluorescence and thermal energy for imaging and mild PTT. Concurrently, DOX enhances tumor sensitivity to PTT by downregulating HSP70, reduces thermal resistance, induces DNA damage, and generates reactive oxygen species, triggering apoptosis. This synergistic approach overcomes the limitations of single-modality therapies. Our findings suggest that the multifunctional nanosystem effectively integrate precise imaging and targeted therapy, offering a promising strategy for advanced prostate cancer diagnosis and treatment.}
+}

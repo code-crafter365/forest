@@ -1,0 +1,13 @@
+@article{LU2025118150,
+title = {Efficient Bayesian updating with single-loop Kriging model for time-dependent model calibration},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118150},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118150},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004220},
+author = {Zhao-Hui Lu and Wan-Ting Pei and Zhao Zhao and Zengzhi Qian},
+keywords = {Bayesian updating, Time-dependent model, Parallel system reliability problem, Single-loop Kriging, Posterior distribution},
+abstract = {Bayesian updating, as a useful tool for system identification and model calibration, has gained signification traction in recent years. However, for time-dependent models, the number of observations will increase rapidly with the increase of the number of time nodes, resulting in Bayesian updating problems facing serious challenges. To settle this issue, this paper proposes an efficient Bayesian updating approach for time-dependent model, called Bayesian updating with single-loop Kriging model (BU-SILK). In the proposed method, Bayesian updating problem of time-dependent model is converted into a parallel system reliability problem, where the number of components is equal to that of discrete time nodes. Then, a single-loop Kriging model is constructed for the purpose of this parallel system reliability analysis. By selecting the best training sample and time node, Kriging model is refined adaptively until the specified stopping criterion is satisfied. The proposed Bayesian updating method can infer the posterior distributions of both static and dynamic parameters of time-dependent model. Four numerical examples show that the proposed method significantly improves computational efficiency without sacrificing accuracy.}
+}

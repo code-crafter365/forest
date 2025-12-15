@@ -1,0 +1,13 @@
+@article{LEE2025118892,
+title = {The effect of loading methods in FEA on the design accuracy of a composite turbine blade},
+journal = {Composite Structures},
+volume = {356},
+pages = {118892},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118892},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000571},
+author = {Hak Gu Lee and Daeyong Kwon and Cheol Yoo and Sahuck Oh and Donghwa Chae},
+keywords = {Composite turbine blade, Computational fluid dynamics, Finite element analysis, Pressure distribution, Concentrated loads, Loading method},
+abstract = {During operation, wind or tidal blades experience pressure on their surface. However, in the design stage, concentrated forces are often applied to their FE models instead of pressure distribution. This discrepancy could lead to inaccurate blade designs, potentially causing structural collapse in practical applications. This study evaluated the effect of different loading methods on the blade design accuracy in FEA. Using a 5 m composite blade model for a 1 MW tidal turbine, pressure distribution on the blade surface was generated as a reference through CFD analysis under its rated velocity condition. Equivalent concentrated loads were calculated at the pitch axis of each blade section, and then applied to the blade’s FE model using three distinct loading methods. By comparing the stresses and failure indices obtained from each loading method with the reference results, this study identified the most effective loading method for replicating real loading conditions. This method involves selecting a primary node at the pitch axis and secondary nodes across the entire blade section and then interconnecting them based on load-distributed coupling. This study highlights the significant impact of loading methods on the design accuracy of a composite turbine blade subjected to both hydrostatic and hydrodynamic pressures.}
+}

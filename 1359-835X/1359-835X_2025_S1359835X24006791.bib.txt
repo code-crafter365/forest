@@ -1,0 +1,13 @@
+@article{VALENTINI2025108681,
+title = {Effect of fiber surface state on the thermomechanical and interfacial properties of in situ polymerized polyamide 6/basalt fiber composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108681},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108681},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006791},
+author = {Martino Valentini and Olivier {De Almeida} and Markus Kakkonen and Gerhard Kalinka and Andrea Dorigato and Pasi Kallio and Giulia Fredi},
+keywords = {Anionic polyamide 6, Reactive thermoplastics, Basalt fibers, Microdebonding, Fiber push out, Short beam shear test},
+abstract = {This study investigates the thermomechanical properties and interfacial adhesion of novel in-situ polymerized anionic polyamide 6 (aPA6) composites reinforced with basalt fibers (BF). The impact of different BF surface states - as-received (BFa), ethanol-washed (BFw), and thermally desized (BFu) − on composite performance is examined through a comprehensive approach. For the first time, anionic PA6/BF composites with very low residual monomer content were successfully produced via thermoplastic resin transfer molding (tRTM). The PA6/BFw composites exhibited the highest interlaminar/interfacial shear strength in short beam shear test (52 ± 8 MPa) and fiber push out test (34 ± 11 MPa) tests. Fiber microdebonding test, performed only on PA6/BFw, yielded a low interfacial shear strength (12 ± 4 MPa), which was attributed to droplet porosity resulting from concurrent polymerization and crystallization. Thermal desizing significantly deteriorated interfacial strength (19.6 ± 1.2 MPa in short beam shear test). This multi-technique characterization provides insights into optimizing the fiber–matrix adhesion in these advanced thermoplastic composites.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025118309,
+title = {Structural topology optimization considering multi-source anisotropic failure strength from printing space and material locality},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118309},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118309},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500581X},
+author = {Chao Wang and Di Lou and Zunyi Duan and Jianhua Rong and Bin Xu},
+keywords = {Topology optimization, Design for additive manufacturing, Multi-source anisotropic failure strength, Process-induced anisotropy, Material intrinsic anisotropy},
+abstract = {This work addresses a challenging problem in the high-performance design for additive manufacturing (AM): improving the structural performance (stiffness and strength) by comprehensively utilizing the material intrinsic anisotropy (local) and process-induced anisotropy (global). A novel AM-oriented structural topology optimization considering multi-source anisotropic failure strength from printing space and material locality is proposed. Specifically, an effective anisotropic constitutive model with spatially-locally varying is proposed to couple the material intrinsic anisotropy and process-induced anisotropy. A Hoffman criterion-based multi-source anisotropic material failure model is established. To overcome the difficulties of effective control and solution of large-scale failure factors under spatial and local coupling conditions, the P-norm-based global aggregation strategy and approximation error correction technology are extended. In addition, the stability of optimization iterations is significantly improved by adaptively adjusting the feasible region of angle variables. Also, the relatively complex sensitivities that couple density, local material direction angle, and global building direction angle variables are derived. Typical numerical examples demonstrate the effectiveness of the proposed method. Meaningful numerical properties of structural topology optimization considering multi-source anisotropic failure strength are explored in depth. The importance of considering intrinsic and process-induced anisotropy in design for AM is revealed.}
+}

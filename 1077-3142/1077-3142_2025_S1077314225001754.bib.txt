@@ -1,0 +1,13 @@
+@article{MARSH2025104452,
+title = {Crack segmentation in roads using synthetic data and RGB-D data fusion},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104452},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104452},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001754},
+author = {Benedict Marsh and Ruiheng Wu},
+keywords = {Crack segmentation, Synthetic data, Data fusion, Road maintenance, DeepLabV3},
+abstract = {In this paper, we use deep learning on the task of crack segmentation using a novel data fusion approach with RGB-D data. We use an existing architecture with DeepLabV3 and synthetic data to address the issue of limited availability for real-world data. The synthetic data is generated with Blender and BlenSor to accurately model the real-world crack scenarios. We train the model with a mixture of real-world data and synthetic data and evaluate it on a real-world dataset. The results show significant improvements over baseline models that only use the RGB data when evaluated with the IoU and F1-score. This demonstrates the success of using synthetic data for crack segmentation with data fusion and suggests a promising direction for future crack detection research to provide increased accuracy in automated maintenance and monitoring applications.}
+}

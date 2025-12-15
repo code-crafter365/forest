@@ -1,0 +1,13 @@
+@article{CHEN2025114250,
+title = {A novel hydrogel with inherent antibacterial and hemostatic properties for burn wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114250},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114250},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005095},
+author = {Xiaoqiang Chen and Jianbing Tang and Yunqing Dong and Min Xuan and Yan Tian and Yijie Liu and Na Peng and Biao Cheng},
+keywords = {Antibacterial, Hydrogel, Hemostasis, Burn wound, Anti-inflammatory},
+abstract = {The skin is the immune system's first line of defense. Extensive skin burns can lead to tissue necrosis, sepsis, and even death. Anti-infectious care of burn wounds is a major challenge in clinical medicine. However, the extensive use of antibiotics led to the emergence of multi-drug-resistant bacteria and silver dressings with antibacterial effects are also cytotoxic. We used the natural cationic antibacterial agent ε-polylysine (EPL) to graft Epigallocatechin-3-gallate (EGCG) to synthesize EPL-EGCG. Then, we used methacrylated gelatin (GelMA) with arginine-glycine-aspartate-rich acid (RGD) sequence and EPL-EGCG form interpenetrating polymer network hydrogels with excellent swelling properties. The hydrogel's inherent antibacterial properties and photo-cross-linking properties can cover irregular burn wounds and isolate bacteria to prevent infection. In addition, we used polydopamine (PDA) to coat GelMA microspheres with excellent hemostatic efficacy and load platelet-rich plasma (PRP) to enhance the hemostatic efficacy of the microspheres and impart inflammation-regulating functions. The hydrogel showed excellent hemostatic efficacy in rat liver injury and tail vein injury models. In the rat infected burn model, the hydrogel exhibited favorable antimicrobial, pro-angiogenic, and anti-inflammatory phenotype polarization of macrophages. Our study shows that GelMA/EPL-EGCG/GM-PDA@PRP hydrogel application has excellent antibacterial, hemostatic and anti-inflammatory effects, providing a new treatment strategy for wound care before burn skin grafting.}
+}

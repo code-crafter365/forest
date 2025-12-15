@@ -1,0 +1,13 @@
+@article{CHEN2025118346,
+title = {Sharp-PINNs: Staggered hard-constrained physics-informed neural networks for phase field modelling of corrosion},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118346},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118346},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006188},
+author = {Nanxi Chen and Chuanjie Cui and Rujin Ma and Airong Chen and Sifan Wang},
+keywords = {Physics-informed neural networks, Staggered training, Phase field, Corrosion coalescence, 3D simulation},
+abstract = {Physics-informed neural networks have shown significant potential in solving partial differential equations (PDEs) across diverse scientific fields. However, their performance often deteriorates when addressing PDEs with intricate and strongly coupled solutions. In this work, we present a novel Sharp-PINN framework to tackle complex phase field corrosion problems. Instead of minimizing all governing PDE residuals simultaneously, the Sharp-PINNs introduce a staggered training scheme that alternately minimizes the residuals of Allen-Cahn and Cahn-Hilliard equations, which govern the corrosion system. To further enhance its efficiency and accuracy, we design an advanced neural network architecture that integrates random Fourier features as coordinate embeddings, employs a modified multi-layer perceptron as the primary backbone, and enforces hard constraints in the output layer. This framework is benchmarked through simulations of corrosion problems with multiple pits, where the staggered training scheme and network architecture significantly improve both the efficiency and accuracy of PINNs. Moreover, in three-dimensional cases, our approach is 5–10 times faster than traditional finite element methods while maintaining competitive accuracy, demonstrating its potential for real-world engineering applications in corrosion prediction.}
+}

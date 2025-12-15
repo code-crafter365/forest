@@ -1,0 +1,13 @@
+@article{YE2025104387,
+title = {Continuous conditional video synthesis by neural processes},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104387},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104387},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001109},
+author = {Xi Ye and Guillaume-Alexandre Bilodeau},
+keywords = {Continuous video synthesis, Frame prediction, Frame interpolation, Neural processes, Implicit neural representation, Transformers},
+abstract = {Different conditional video synthesis tasks, such as frame interpolation and future frame prediction, are typically addressed individually by task-specific models, despite their shared underlying characteristics. Additionally, most conditional video synthesis models are limited to discrete frame generation at specific integer time steps. This paper presents a unified model that tackles both challenges simultaneously. We demonstrate that conditional video synthesis can be formulated as a neural process, where input spatio-temporal coordinates are mapped to target pixel values by conditioning on context spatio-temporal coordinates and pixel values. Our approach leverages a Transformer-based non-autoregressive conditional video synthesis model that takes the implicit neural representation of coordinates and context pixel features as input. Our task-specific models outperform previous methods for future frame prediction and frame interpolation across multiple datasets. Importantly, our model enables temporal continuous video synthesis at arbitrary high frame rates, outperforming the previous state-of-the-art. The source code and video demos for our model are available at https://npvp.github.io.}
+}

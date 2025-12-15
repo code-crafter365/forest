@@ -1,0 +1,12 @@
+@article{MAROTI2025109468,
+title = {Characteristic compressive properties of Al2O3 particle reinforced Al99.5 matrix composite foams},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109468},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109468},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007638},
+author = {János Endre Maróti and Imre Norbert Orbulov},
+keywords = {Composite metal foams, Particle reinforcement, Compressive properties, Characterization},
+abstract = {Al99.5 matrix composite metal foams (CMFs) filled with Al2O3 ceramic hollow spheres (CHSs) and particle reinforced in the matrix were produced by liquid-state low-pressure infiltration. The experimental variables were the volume fraction and nominal size of the reinforcement particles. The CMFs were investigated (micro)structurally and via compressive tests. The compressive properties of the CMFs outperformed the unreinforced CMFs. The compressive strength and plateau strength can be increased by 82 % and 68 %, respectively. A 35 % increment can be measured in structural stiffness, while a 75 % increase can be observed in energy absorption capacity. The best properties can be achieved by combining the 0.50 nominal size and 30 % reinforcement volume fraction in the matrix parameters. The compressive strength was found to be more sensitive to the size of the reinforcement than to its volume fraction. The plateau strength and energy absorption were primarily influenced by the volume fraction of the reinforcement, while structural stiffness was the least sensitive to the experimental parameters. Along with the detailed analyses of the compressive results, a theoretical model has been proposed to predict the compressive strength of reinforced CMFs. This analytical model can predict the average compressive strength of reinforced CMFs with a relative error of 10%. Depending on the particle volume fraction and size, the reinforced CMFs showed diffuse failure or failure by cleavage. The investigated reinforced CMFs can be effectively utilized as structural components in applications involving compressive loads or as energy absorbers for safety and defense purposes.}
+}

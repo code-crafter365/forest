@@ -1,0 +1,13 @@
+@article{GAO2025108758,
+title = {An inverse design framework for optimizing tensile strength of composite materials based on a CNN surrogate for the phase field fracture model},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108758},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108758},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000521},
+author = {Yuxiang Gao and Ravindra Duddu and Soheil Kolouri and Abhinav Gupta and Pavana Prabhakar},
+keywords = {Inverse design, Convolutional neural network, Microstructure, Phase-field fracture model, Deep learning surrogate},
+abstract = {This paper introduces a novel inverse design framework that combines a convolutional neural network (CNN) surrogate for the phase field fracture model with a differentiable simulator to optimize two-phase composite microstructures. The CNN surrogate accurately predicts the damage-influenced stress fields from the composite microstructure images, whereas the simulator generates these images given the composite material design parameters, preserving crucial gradient information. This integration enables efficient optimization of microstructure designs through gradient descent-based methods. We demonstrate that our framework can significantly enhance the uniaxial tensile strength of microstructures beyond the limits of the training set. Interestingly, the optimized fiber arrangements for unidirectional and bidirectional strength match with common human-designed (hexagonal and diamond) arrangements. The application of the framework to microstructures with a pre-existing crack highlights its practical viability for targeted material design, where a small amount of second-phase material can be included for significant gains in tensile strength.}
+}

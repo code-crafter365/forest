@@ -1,0 +1,13 @@
+@article{FLERES2025117532,
+title = {Non-intrusive parametric hyper-reduction for nonlinear structural finite element formulations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117532},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117532},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007862},
+author = {Davide Fleres and Daniel {De Gregoriis} and Onur Atak and Frank Naets},
+keywords = {Model order reduction, Hyper-reduction, Non-intrusive, Scientific machine learning, Physics-augmented neural network},
+abstract = {Model Order Reduction (MOR) is a core technology for the creation of comprehensive executable Digital Twins, since it efficiently reduces the computational burden of high-fidelity models. When dealing with nonlinear structural Finite Element analyses, several Hyper-Reduction (HR) approaches have been developed to reduce the computational cost. Nonetheless, HR approaches are typically intrusive in nature, posing challenges when it comes to integration into existing (commercial) software. Recently, data driven Non-Intrusive MOR methodologies have been proposed. However, these techniques often suffer from overfitting and violate key physics properties, leading to unstable behavior. This work proposes to use Scientific Machine Learning to reintegrate critical stability-preserving physics properties. It introduces a data-driven, physics-augmented, parametric approach that combines Proper Orthogonal Decomposition (POD) with a Partially Input Convex Neural Network (PICNN) architecture. The proposed method effectively reduces the computational burden associated with parametric static nonlinear elastic structural problems while retaining material consistency, hyper-elasticity, and material stability properties in the Reduced Order Model. Numerical validation on several structural models subjected to geometrical and material nonlinearities under static loading conditions demonstrates the effectiveness of the POD-PICNN approach. Additionally, three different sampling strategies have been compared to assess their impact on the method performance. The results emphasize that physics-augmentation is required, as it inherently embeds essential physical constraints into the neural network architecture, ensuring stable and consistent behavior, while highlighting its potential for dynamic and multiphysics applications.}
+}

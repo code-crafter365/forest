@@ -1,0 +1,13 @@
+@article{REN2025104469,
+title = {Bi-granularity balance learning for long-tailed image classification},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104469},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104469},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001924},
+author = {Ning Ren and Xiaosong Li and Yanxia Wu and Yan Fu},
+keywords = {Convolutional neural networks, Long-tailed image classification, Imbalanced learning, Contrastive learning},
+abstract = {In long-tailed datasets, the training of deep neural network-based models faces challenges, where the model may become biased towards the head classes with abundant training data, resulting in poor performance on tail classes with limited samples. Most current methods employ contrastive learning to learn more balanced representations by finding the class center. However, these methods use class centers to address local imbalance within a mini-batch, they overlook the global imbalance between batches throughout an epoch, caused by the long-tailed distribution of the dataset. In this paper, we propose bi-granularity balance learning to address the two-layer imbalance. We decouple the attraction–repulsion term in contrastive loss into two independent components: global and local balance. The global balance component focuses on capturing semantic information from different perspectives of the image and shifting learning attention from the head classes to the tail classes in the global perspective. The local balance component aims to learn inter-class separability from the local perspective. The proposed method efficiently learns the intra-class compactness and inter-class separability in long-tailed model training and improves the performance of the long-tailed model. Experimental results show that the proposed method achieves competitive performance on long-tailed benchmarks such as CIFAR-10/100-LT, TinyImageNet-LT, and iNaturalist 2018.}
+}

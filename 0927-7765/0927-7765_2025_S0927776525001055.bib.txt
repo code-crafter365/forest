@@ -1,0 +1,13 @@
+@article{LIU2025114598,
+title = {Screening lipid nanoparticles using DNA barcoding and qPCR},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114598},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114598},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001055},
+author = {Dawei Liu and Xing Wang and Letao Xu and Zahraa Nima Saeed Al-Delfi and Zelalem Addis Mekonnen and Song Gao and Branka Grubor-Bauk and Chun-Xia Zhao},
+keywords = {Lipid nanoparticles (LNPs), DNA barcodes, Biodistribution, MRNA delivery, In vivo tracking},
+abstract = {Quantifying the biodistribution of lipid nanoparticles (LNPs) is critical for optimizing mRNA delivery systems, yet current approaches have inherent limitations. This study introduces a cost-effective method utilizing double-stranded DNA (dsDNA) barcodes and quantitative polymerase chain reaction (qPCR) for rapid analysis of a small library of mRNA-LNPs biodistribution and functional delivery in vivo. Three unique 100-bp dsDNA barcodes were designed to represent for three FDA-approved LNP formulations. Concurrently, these three formulations carrying luciferase mRNA were mixed with DNA-barcoding LNPs as a pool. Following intravenous administration of the pooled LNPs in mice, qPCR analysis revealed the highest abundance of DNA barcodes and accumulation of luciferase mRNA in spleen, with positive correlation between barcodes presence and mRNA localization across organs, validating DNA barcodes as reliable indicators of mRNA-LNPs biodistribution in vivo. Bioluminescence imaging further confirmed successful delivery and protein translation of luciferase mRNA facilitated by the LNPs in vivo. Integrating DNA barcodes for biodistribution analysis and luciferase mRNA for assessing functional delivery enabled comprehensive evaluation of LNP performance. This robust methodology provides valuable insights into the localization patterns and mRNA delivery capabilities of different LNP formulations, paving the way for the development of more effective and targeted mRNA-based therapeutics.}
+}

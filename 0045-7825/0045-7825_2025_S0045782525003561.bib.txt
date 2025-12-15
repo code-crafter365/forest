@@ -1,0 +1,13 @@
+@article{WANG2025118084,
+title = {Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118084},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118084},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003561},
+author = {Yumeng Wang and Shiping Zhou and Yanzhi Zhang},
+keywords = {Reduced order modeling, Parametric model reduction, Nonlocal problems, Convolutional autoencoder, Long-short term memory, Nonlocal inhomogeneous boundary conditions},
+abstract = {In this paper, we propose a convolutional neural network (CNN) based reduced-order modeling (ROM) to solve parametric nonlocal partial differential equations (PDEs). Our method consists of two main components: dimensional reduction with convolutional autoencoder (CAE) and latent-space modeling with CNN or long short-term memory (LSTM) networks. Our neural network-based ROM bypasses the main challenges faced by intrusive approaches for nonlocal problems, such as non-affine parameter dependence and kernel singularities. To address nonlocal inhomogeneous boundary conditions, we introduce two effective strategies. Additionally, we present two approaches for incorporating parameters into the latent space and demonstrate that CNN mappings are particularly efficient for problems with high-dimensional parameter spaces. Our results provide the evidence that deep CAEs can successfully capture nonlocal behaviors, highlighting the promising potential of neural network-based ROMs for nonlocal PDEs. To the best of our knowledge, our method is the first neural network-based ROM methods developed for nonlocal problems. Extensive numerical experiments, including spatial and temporal nonlocal models, demonstrate that our neural network-based ROMs are effective in solving nonlocal problems. Moreover, our studies show that the compression capability of CAE outperforms traditional projection-based methods, especially when handling complex nonlinear problems.}
+}

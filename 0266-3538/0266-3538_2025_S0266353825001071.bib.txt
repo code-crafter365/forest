@@ -1,0 +1,13 @@
+@article{YU2025111139,
+title = {A novel experimental approach for high-velocity ice impact resistance and tolerance investigation of composite laminates},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111139},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111139},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001071},
+author = {Shangyang Yu and Jinzhao Huang and Jia Hu and Yan Wang and Junfeng Ding and Chenyang Song and Zhanguang Chen and Jikai Yu and Licheng Guo},
+keywords = {High-velocity ice impact, Plain weave composite laminates, Damage mechanisms, Residual compression performance, Tolerance evaluation method},
+abstract = {The application of composites in aerospace structures necessitates consideration of various inevitable impact threats. However, high-velocity ice impact behavior significantly differs from that of metal projectiles, presenting challenges in investigating the ice impact response and residual performance of composites. To address this, an innovative comprehensive testing system for simulated hailstone impact and compression after high-velocity ice impact (CAHII) of composites is designed, combined with multi-damage information acquisition. Based on this system, the CAHII behaviors of plain weave carbon/epoxy composite laminates are investigated for the first time within the single impact energy range of 125 – 480 J. The composite deformation features associated with the ice projectile fracture process are captured. The stage-specific damage characteristics are identified through visual inspection, ultrasonic C-scan and microscopic observation. By correlating strain and displacement distribution fields with load-displacement curves in CAHII tests, the impact-induced damage evolution and loading process are analyzed. Notably, residual compressive strength (RCS) of plain weave composites presents exponential degradation with increasing impact energy. An RCS predictive model is proposed and effectively validated. Moreover, a quantitative evaluation method for high-velocity ice impact resistance and tolerance based on the CAHII testing system and RCS degradation ratio model is proposed with greater applicability. This provides valuable guidance for standardized experiments and performance assessment of composites.}
+}

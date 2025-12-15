@@ -1,0 +1,13 @@
+@article{WANG2025104532,
+title = {Towards 4D human video stylization},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104532},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104532},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002553},
+author = {Tiantian Wang and Xinxin Zuo and Fangzhou Mu and Jian Wang and Ming-Hsuan Yang},
+keywords = {Neural Radiance Fields, 4D Human video stylization, Tri-plane},
+abstract = {We present a first step towards 4D (3D space and time) human video stylization, which addresses style transfer, novel view synthesis, and human animation within a unified framework. While numerous video stylization methods have been developed, they are typically restricted to rendering images in specific viewpoints of the input video, lacking the capability to generalize to novel views and novel poses in dynamic scenes. To overcome these limitations, we leverage Neural Radiance Fields (NeRFs) to represent and stylize videos within a single framework. Our method involves simultaneously representing the human subject and the surrounding scene using two NeRFs. This dual representation facilitates the animation of human subjects across various poses and novel viewpoints. A key innovation is our introduction of a geometry-guided tri-plane representation, which significantly boosts the efficiency and robustness of the feature representation compared to direct tri-plane optimization. Stylization is performed within the NeRF rendered feature space, which can reduce the computational burden compared to applying style transformation to the feature vector of sampled points. Extensive experiments demonstrate that the proposed method strikes a superior balance between stylized textures and temporal coherence, surpassing existing approaches. Furthermore, our framework uniquely extends its capabilities to accommodate novel poses and viewpoints, making it a versatile tool for creative human video stylization. The source code and results will be available at this github site. The stylized videos are available in this Youtube video.}
+}

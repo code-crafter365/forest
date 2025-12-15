@@ -1,0 +1,13 @@
+@article{LALTREHANESTRADA2025102518,
+title = {Encoding 3D information in 2D feature maps for brain CT-Angiography},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {122},
+pages = {102518},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102518},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000278},
+author = {Uma M. {Lal-Trehan Estrada} and Sunil Sheth and Arnau Oliver and Xavier Lladó and Luca Giancardo},
+keywords = {Learnable 3D pooling, 3D-to-2D, 2D feature maps, Brain imaging, Large vessel occlusion},
+abstract = {We propose learnable 3D pooling (L3P), a CNN module designed to compress 3D information into 2D feature maps using anisotropic convolutions and unidirectional max pooling. Specifically, we used L3P followed by a 2D network to generate predictions from 3D brain CT-Angiography (CTA) in the context of large vessel occlusion (LVO). To further demonstrate its versatility, we extended its application to 3D brain MRI analysis for brain age prediction. First, we designed an experiment to classify the LVO-affected hemisphere (left or right), projecting the input CTA into the sagittal plane, which allowed to assess the ability of L3P to encode the 3D location where the location information was in the 3D-to-2D compression axis. Second, we evaluated the use of L3P on LVO detection as a binary classification (presence or absence). We compared the L3P models performance to that of 2D and stroke-specific 3D models. L3P models achieved results equivalent to stroke-specific 3D models while requiring fewer parameters and resources and provided better results than 2D models using maximum intensity projection images as input. The generalizability of L3P approach was evaluated on the LVO-affected hemisphere detection using data from a single site for training/validation and data from 36 other sites for testing, achieving an AUC of 0.83 on the test set. L3P also performed comparably or better than a fully 3D network on a brain age prediction task with a separate T1 MRI dataset, demonstrating its versatility across different tasks and imaging modalities. Additionally, L3P models generated more interpretable feature maps.}
+}

@@ -1,0 +1,13 @@
+@article{YE2025114367,
+title = {Folic acid-based hydrogels co-assembled with protocatechuic acid for enhanced treatment of inflammatory bowel disease},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114367},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114367},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652400626X},
+author = {Ximei Ye and Tao Chen and Yinan Du and Runan Zhao and Lihang Chen and Di Wu and Jiangning Hu},
+keywords = {Folic acid, Protocatechuic acid, Hydrogels, Inflammatory bowel disease, Mucosal adhesion},
+abstract = {Inflammatory bowel disease (IBD) presents a significant therapeutic challenge due to the need for oral drug delivery systems that withstand acidic environment of stomach while effectively targeting intestinal inflammation. To address this issue, we created a novel hydrogel system based on a folic acid (FA)-dopamine (DA) conjugate, co-assembled with protocatechuic acid (PCA), to form F-DP hydrogels. These hydrogels demonstrated robust anti-gastric acid, mucosal adhesive, and injectable properties, enhancing their efficacy for targeted delivery. In DSS-induced colitis mouse models, treatment with F-DP hydrogels resulted in significant therapeutic improvements, including increased body weight, reduced disease activity index (DAI), and maintained colon length. Biochemical assays revealed that F-DP hydrogels significantly enhanced antioxidant enzyme activities (GSH and SOD) and reduced oxidative stress markers (NO and MDA). Histological assessments confirmed effective repair of the colonic mucosal barrier, restoration of tight junction protein ZO-1, and reduction of inflammatory lesions. Furthermore, immunofluorescence staining indicated that F-DP hydrogels facilitated macrophages polarization from the pro-inflammatory M1 phenotype to the anti-inflammatory M2 phenotype, thereby reducing inflammation and promoting tissue repair. Our study demonstrates that F-DP hydrogels show significant potential for improving IBD treatment through enhanced gastric resistance, intestinal adhesion, and synergistic anti-inflammatory effects, warranting further investigation for clinical applications.}
+}

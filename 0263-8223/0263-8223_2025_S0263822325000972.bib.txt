@@ -1,0 +1,13 @@
+@article{ZHANG2025118932,
+title = {Influence of different temperature on tensile failure mechanism of carbon/glass 2.5D woven hybrid composites: Experiment and numerical calculation},
+journal = {Composite Structures},
+volume = {357},
+pages = {118932},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118932},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000972},
+author = {Jiajing Zhang and Cunjing Li and Jianhua Zheng and Jin Sun and Diantang Zhang},
+keywords = {High-temperature properties, Numerical analysis, CT analysis, Resin transfer moulding (RTM)},
+abstract = {The combination of 2.5D woven structure and hybridization is one of the effective ways to achieve the integration of high-load functions in fiber-reinforced resin matrix composites. However, the sensitivity of resin matrix composites to temperature makes the damage and failure process at high temperatures quite complex. This paper presents the influence of temperature on the tensile failure mechanism of carbon/glass 2.5D woven hybrid composites using both experimental and numerical methods. The tensile properties and failure morphology of 2.5D woven hybrid composites were studied at three different temperatures: 25 ℃, 150 ℃, 300 ℃. The internal morphology of the composites was obtained through X-ray computed tomography (Micro-CT) for subsequent meso-scale model reconstruction of 2.5D woven hybrid composites. The results showed the tensile strength and modulus at 300 ℃ were only 64.83 % and 35.35 % of those at 25 ℃. Additionally, the maximum errors in the predicted stiffness and strength were 8.05 % and 8.16 %, respectively, indicating that the established finite element model was relatively accurate. Furthermore, the tensile failure mechanisms differed at various temperatures. At 25 ℃, the damage forms were primarily warp fracture and resin debonding cracking. In contrast, at 300 ℃, the patterns of damage were largely interface debonding and delamination damage.}
+}

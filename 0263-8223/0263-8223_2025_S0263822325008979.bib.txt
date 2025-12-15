@@ -1,0 +1,13 @@
+@article{WANG2025119732,
+title = {Anti-impact performance of polydiborosiloxane sandwich structure reinforced with basalt fiber core},
+journal = {Composite Structures},
+volume = {374},
+pages = {119732},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119732},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008979},
+author = {Ting Wang and Xin Wen and Guo-Feng Zhang and Hong-Wen Zeng and Li-Juan Zhao and Jing Hong},
+keywords = {Polydiborosiloxane, Sandwich structure, Basalt fiber, Anti-impact},
+abstract = {Recently, soft and lightweight impact-resistant protective materials have gained increasing attention. In this paper, we propose a novel approach to reverse the traditional stacking sequence of fibers and elastomers. A sandwich-structured PBK composite material with an inverted stacking sequence of “polydiborosiloxane (PDBS)/modified woven basalt fiber (BK)/polydiborosiloxane” was developed, aiming to achieve excellent impact resistance in thin materials. The low-velocity drop ball impact tests show that the PBK with a thickness of 1 mm (PBK-1) can effectively attenuate the impact force under the impact height of 50–80 cm, with attenuation rates ranging from 95 %-97 %, demonstrating excellent energy dissipation capacity. The buffering time of PBK-1 is six times that of 1 mm thick basalt fiber. The mechanism is that as the impact height and strain rate increase, PBK-1 with a higher network activation energy exhibits a synergistic interaction between the unique dynamic B-O bonds in the PDBS outer layers and the tortuous regions within the woven BK core layer, enabling efficient energy absorption and release. Additionally, PBK-1 demonstrated good protective performance in the protection test of brittle bone samples. This novel thin sandwich composite material with excellent anti-impact, fabricated through a reverse stacking process, displaying a huge application potential.}
+}

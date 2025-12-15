@@ -1,0 +1,13 @@
+@article{NIE2025114771,
+title = {Polypyrrole modified hFGF2-oil bodies for postsurgical melanoma recurrence suppression and wound healing acceleration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114771},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114771},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002784},
+author = {Shuwei Nie and Manru Wang and Zixuan Wang and Hang Yu and Zhuoyuan Li and Zhiqi Yang and Hongxiang Liu and Zheng Liu and Hongxia Ma and Xin Liu and Rui Chen and Yan Cheng},
+keywords = {Postsurgical melanoma, Wound healing, Oil body, Polypyrrole},
+abstract = {Surgical treatment is the primary method for treating malignant melanoma at present. However, tumor recurrence after surgery and difficulty in wound healing remain significant challenges. This study designed and constructed a therapeutic wound dressing by loading polypyrrole (PPy) into human fibroblast growth factor 2 (hFGF2) covalently bonded camelina oil bodies (h-OB) to form Ph-OB. In a postoperative B16F10 melanoma model in C57BL/6 mice, the photothermal properties of PPy were utilized to increase the temperature at the surgical wound site through near-infrared light irradiation, performing photothermal therapy to kill residual tumors and inhibit tumor recurrence. Meanwhile, the release of hFGF2 from the Ph-OB acts on the postoperative wound site, promotes fibroblast proliferation and migration to accelerate wound healing. In summary, the developed Ph-OB not only prevents tumor recurrence but also facilitates the healing of surgery-induced wounds, showing great potential in postoperative cancer treatment.}
+}

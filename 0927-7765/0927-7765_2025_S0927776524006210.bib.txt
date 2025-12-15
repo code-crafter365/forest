@@ -1,0 +1,13 @@
+@article{SUN2025114362,
+title = {Precise photothermal treatment of bacterial infection mediated by charge-switchable nanoplatform with acylsulfonamide betaine surface},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114362},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114362},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006210},
+author = {Wenyuan Sun and Shumin Hu and Binzhong Lu and Yu Bao and Mengyao Guo and Yingying Yang and Qiuli Cheng and Leitao Zhang and Wenlan Wu and Junbo Li},
+keywords = {Zwitterionic polymer, Charge reversal, pH response, Targeted photothermal therapy, Wound healing},
+abstract = {Photothermal therapy (PTT) offers a promising approach for the treatment of drug-resistant bacterial-infected wounds, yet it requires precise targeting of thermal damage to bacteria rather than healthy tissues. Herein, ultrasmall CuS NPs modified with polyzwitterion containing acylsulfonamide betaine (PCBSA@CuS), which provides a sensitive and reversible charge conversion around pH 6.8, are used to enhance the healing of bacteria-infected wounds. In the acidic infection microenvironment, the majority of PCBSA@CuS can electrostatically adsorb onto bacterial cells through cationic exposure, resulting in direct damage and death of bacteria upon NIR irradiation. Additionally, the photothermal NPs rapidly return to a zwitterionic nature in normal physiological environments, ensuring lower affinity and avoiding thermal damage to healthy tissues during continuous PTT. Compared to inert photothermal systems such as PEG-modified CuS NPs, the NPs used in this study exhibited higher bactericidal and wound healing efficacy. Therefore, this nano-antibacterial agent with highly sensitive thermal-targeting function provides a novel photothermal strategy for efficient and biosafe treatment of infected wounds.}
+}

@@ -1,0 +1,13 @@
+@article{HU2025118793,
+title = {Experimental study on GFRP spiral-confined concrete under eccentric compression},
+journal = {Composite Structures},
+volume = {354},
+pages = {118793},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118793},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009218},
+author = {X.B. Hu and X.F. Nie and J.J. Wang and T. Yu and S.S. Zhang},
+keywords = {FRP spiral-confined concrete (FSCC), Confinement, Compressive behavior, Eccentric compression, Load eccentricity},
+abstract = {Fiber-reinforced polymer (FRP) composites are increasingly being employed as internal reinforcement in concrete structures due to their superior mechanical properties and excellent durability. The use of FRP spirals as internal shear reinforcement in compressive concrete members can also provide significant confinement to concrete and thus improve the compressive performance of the concrete members. Compared with studies on the behavior of FRP spiral-confined concrete (FSCC) under concentric compression, the existing studies on FSCC under eccentric compression have been very limited. In the present study, therefore, an experimental program containing 30 specimens was designed and conducted to investigate the compressive behavior of glass FRP (GFRP) spiral-confined concrete (GSCC) under eccentric compression, with the main examined parameters including the FRP spiral pitch and the load eccentricity-to-diameter ratio. The test results revealed that load eccentricity could largely influence the behavior of GSCC in terms of compressive strength, stiffness, ultimate axial deformation and ultimate section curvature. On the other hand, the decrease in the FRP spiral pitch can to some extent compensate for the influence of load eccentricity. The present study sets a solid experimental basis for the future numerical and theoretical studies on the behavior of GSCC under eccentric compression.}
+}

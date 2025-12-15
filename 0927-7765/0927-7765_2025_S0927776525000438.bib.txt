@@ -1,0 +1,13 @@
+@article{CAMACHOGONZALEZ2025114536,
+title = {Development and characterization of potential antibacterial biocomposites: Lysozyme-loaded cellulose-alginate materials},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114536},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114536},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000438},
+author = {Carlos Eduardo Camacho-González and Alejandro Pérez-Larios and Cesar S. Cardona-Félix and Sonia G. Sáyago-Ayerdi and Víctor M. Zamora-Gasga and Ulises M. López-García and Jorge A. Sánchez-Burgos},
+keywords = {Alginate oligosaccharides, Modified cellulose, Lysozyme, Biocomposite},
+abstract = {The objective of this study was to design and characterize novel biocomposites based on modified cellulose/alginate oligosaccharides loaded with hen egg lysozyme (CLm/AOS/Lyz) as a potential alternative to combat bacterial proliferation. An antimicrobial enzyme, lysozyme, was immobilized within polymeric matrices to enhance its bactericidal capacity and stability. The biocomposites synthesized at pH levels 3, 5, and 8 (CLm/AOS/Lyz3, CLm/AOS/Lyz5, and CLm/AOS/Lyz8, respectively) were analyzed using Fourier transform infrared spectroscopy (FTIR), ultraviolet-visible spectroscopy (UV-Vis), and energy-dispersive X-ray spectroscopy (EDS). Results demonstrated successful lysozyme conjugation to the biocomposite without altering its secondary structure or stability. The biocomposites exhibited irregular morphologies and strong adhesion between CLm/AOS and Lyz, with CLm/AOS/Lyz5 showing the highest nitrogen composition and protein content (2086.43 ± 100.90 µg of bovine serum albumin equivalents). Antibacterial assays revealed significant log reductions in viable E. faecalis cells for CLm/AOS/Lyz3 and CLm/AOS/Lyz5 (5.72 ± 0.17 and 5.78 ± 0.24 respectively), concerning the blank (8.04 ± 0.07), even comparable to free lysozyme (5.85 ± 0.35). However, no reduction in viable cell counts was observed for Gram-negative bacteria. This work highlights the potential of lysozyme-loaded cellulose-alginate biocomposites as novel antibacterial agents for effective applications in pharmaceutical and food technology fields.}
+}

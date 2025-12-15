@@ -1,0 +1,13 @@
+@article{ZHANG2025118567,
+title = {Analyzing the back-face deformation of curved UHMWPE composite laminate under high-speed impact},
+journal = {Composite Structures},
+volume = {351},
+pages = {118567},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118567},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006950},
+author = {Yizhi Zhang and Shanglin Yang and Ziming Yan and Yue Gao and Zhibo Du and Zhanli Liu},
+keywords = {UHMWPE laminate, Back-face deformation, Curvature, Ballistic impact, Numerical and theoretical analysis},
+abstract = {Ballistic protection extensively employs curved ultra-high-molecular-weight polyethylene (UHMWPE) laminates to conform to protective targets. However, ballistic tests have indicated that the curvature of laminates increases back-face deformation, diminishing ballistic performance, while the mechanism behind this curvature effect on back-face deformation remains unclear. In this paper, the back-face deformation of curved UHMWPE laminates, including apex displacement and the boundary of the deformation region, are systematically studied through numerical simulation and theoretical analysis. Firstly, a numerical model of curved UHMWPE laminates under the high-speed impact is established. The numerical results indicate that as the curvature increases, the deformation region becomes more concentrated, resulting in a larger apex displacement. Secondly, as the curvature increases from zero, the deformation mode of curved laminates changes from membrane stretching dominated to a combination of membrane stretching and bending. Finally, considering the change in the deformation mode, a theoretical analysis for the propagation of bending waves in an orthotropic curved plate is conducted to reveal the relationship between curvature and back-face deformation. The theoretical analysis shows that increasing curvature slows bending wave speed, reducing in-plane deformation region movement, thus increasing apex displacement. This study is expected to help design curved UHMWPE laminates with better ballistic performance.}
+}

@@ -1,0 +1,13 @@
+@article{BHARALI2025117687,
+title = {A time step-size computing arc-length method for the phase-field hydraulic fracture model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117687},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117687},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009411},
+author = {Ritukesh Bharali and Frans P. {van der Meer} and Fredrik Larsson and Ralf Jänicke},
+keywords = {Arc-length, Adaptive time-step, Hydraulic fracture, Phase-field fracture},
+abstract = {The phase-field hydraulic fracture model entails a non-convex energy functional. This renders a poor convergence behaviour for monolithic solution techniques, such as the Newton–Raphson method. Consequently, researchers have adopted alternative solution techniques such as the staggered solution technique and the Newton–Raphson method with convexification via extrapolation of the phase-field. Both methods are robust. However, the former is computationally expensive and in the latter, the extrapolation itself is questionable w.r.t regularity in time. In this work, a novel dissipation-based arc-length method is proposed as a robust and computationally efficient monolithic solution technique for the phase-field hydraulic fracture model. Similar to brittle fracture in force driven mechanical problems, constant flux driven hydraulic fracture processes are also unstable. Furthermore, due to the constant flux loading in hydraulic fracturing problems, scaling of the external force is not possible. Instead, the time step-size is considered as the additional unknown, augmenting the arc-length constraint equation. The robustness and computational efficiency of the proposed arc-length method is demonstrated using numerical experiments, where comparisons are made with the staggered solver as well as the quasi-Newton BFGS method.}
+}

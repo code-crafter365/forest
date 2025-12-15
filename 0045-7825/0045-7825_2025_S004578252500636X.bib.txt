@@ -1,0 +1,13 @@
+@article{XUE2025118364,
+title = {A novel meshfree superconvergent Gradient Smoothing Stabilized Collocation Method (GSSCM) for large deformation problems: A concise discretized form},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118364},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118364},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500636X},
+author = {Zhiyuan Xue and Lihua Wang and Yan Li and Magd {Abdel Wahab}},
+keywords = {Gradient Smoothing Stabilized Collocation Method, Superconvergent, Large deformation problems, Exact integration, Stability, Efficiency},
+abstract = {The strong form Direct Collocation Method (DCM) with Reproducing Kernel (RK) shape function is hindered in its development due to its computational complexity and low efficiency in derivative calculations. Furthermore, the nonlinear large deformation governing equations in strong form, which involve intricate derivative terms, introduce additional challenges for discretization and iterative solutions. This paper proposes a novel efficient and superconvergent Gradient Smoothing Stabilized Collocation Method (GSSCM) using RK shape function. Based upon the divergence theorem, the proposed method converts traditional subdomain integration in the Stabilized Collocation Method (SCM) into subdomain boundary integration by gradient smoothing, which reduces the order of derivatives and simplifies the discretized terms of governing equations. This allows RK shape function with low-order basis functions like the linear basis functions, and enhances computational efficiency. GSSCM ensures exact integration using low-order Gaussian quadrature and improves solution stability. Both conforming and non-conforming smoothing domain are constructed for the gradient smooth. The incremental Newton-Raphson iteration approach is employed to solve the nonlinear discrete equations. Numerical results demonstrate that the proposed approach achieves superconvergent rates when odd RK basis functions are used. The GSSCM can also outperform traditional DCM, SCM and Superconvergent Gradient Smoothing Meshfree Collocation (SGSMC) method with gradient smoothing of shape function in terms of computational efficiency under the same accuracy. Moreover, GSSCM-II with conforming integration subdomains generally outmatches GSSCM-I and SCM with non-conforming subdomains in accuracy, efficiency and stability. The advantages of GSSCMs hold significant promise for nonlinear solid mechanics and engineering applications.}
+}

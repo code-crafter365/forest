@@ -1,0 +1,10 @@
+@article{2025103892,
+title = {Editorial Board},
+journal = {Computer-Aided Design},
+volume = {184},
+pages = {103892},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/S0010-4485(25)00054-5},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000545}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025106832,
+title = {An Eulerian–Lagrangian approach to simulate turbidity currents},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106832},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106832},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002920},
+author = {Boyang Chen and Zhen Liu and Bruño Fraga},
+keywords = {Gravity currents, Inertial particles, Large-eddy simulation, Eulerian–Lagrangian, Four-way coupling},
+abstract = {We present an Eulerian–Lagrangian four-way coupled algorithm within a large-eddy simulation framework to simulate turbidity currents. Our approach preserves the particle-driven, dispersed nature of such currents with significantly reduced reliance on semi-empirical parametrisation. We are capable of reproducing key processes such as the entrainment of fluid within the particle-laden current and the settlement and re-suspension of solid particles. Particle interactions are handled using a soft-sphere collision model. Our results are successfully validated versus experimental results. We investigate a lock-exchange setup in a numerical flume, comparing predicted front velocities and deposition profiles with experimental measurements. Furthermore, we analyse the differences between particle-driven and gravity-driven currents (simulated via an Eulerian–Eulerian approach), focusing on propagation velocity, transition to turbulence and the generation of coherent structures in the shear layer. We use our model to examine the evolution and driving mechanisms of turbidity currents. We describe in detail how Kelvin–Helmholtz singularities evolve into a well-defined current head and sediment trail, while also accounting for the mechanical effect of lifting the sliding gate that initially separates the laden and unladen liquids. The dynamics of particle settling and re-suspension and their correlation with bed shear stress and the current’s reach are predicted, showing good agreement with experimental data. The local friction velocity at the flume’s bed peaks at the current head during early development and is later redistributed via a re-suspension mechanism linked to instantaneous turbulent structures. Finally, an energy budget analysis reveals that turbulent kinetic energy dissipation is primarily due to the settling of solid particles.}
+}

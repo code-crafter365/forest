@@ -1,0 +1,13 @@
+@article{GOMEZPASTOR2025114504,
+title = {CD-44 targeted nanoparticles for combination therapy in an in vitro model of triple-negative breast cancer: Targeting the tumour inside out},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114504},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114504},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000116},
+author = {Silvia Gómez-Pastor and Auréane Maugard and Harriet R. Walker and Jacobo Elies and Kaja E. Børsum and Giulia Grimaldi and Giacomo Reina and Amalia Ruiz},
+keywords = {Targeted delivery, Hyaluronic acid, CD44-targeting, PLGA nanoparticles, Combinatory therapy},
+abstract = {Triple-negative breast cancer (TNBC) is an aggressive form of breast cancer defined by the lack of three key receptors: estrogen, progesterone, and HER2. This lack of receptors makes TNBC difficult to treat with hormone therapy or drugs, and so it is characterised by a poor prognosis compared to other kinds of breast cancer. This study explores photoactive Poly(lactic-co-glycolic acid) (PLGA) nanoparticles as a potential therapeutic strategy for TNBC. The nanoparticles are functionalised with hyaluronic acid (HA) for targeted delivery to CD-44 receptors overexpressed in TNBC cells, especially under hypoxic conditions. Additionally, we co-loaded the nanoparticles with Doxorubicin (Dox) and Indocyanine Green (ICG) to enable combinatorial chemo-photothermal therapy. After carefully optimising the formulation, we propose an effortless and reproducible preparation of the nanodrugs. We demonstrate that HA-conjugated nanoparticles effectively target TNBC cells and inhibit their proliferation while the treatment efficiency is enhanced during near-infrared light irradiation. We also prove that our treatment is effective in a 3D cell culture model, highlighting the importance of tumour architecture and the metabolic stage of the cells in the tumour microenvironment. This approach is promising for a tumour-targeted theragnostic for TNBC with improved efficacy in hypoxic microenvironments.}
+}

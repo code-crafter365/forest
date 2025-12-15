@@ -1,0 +1,13 @@
+@article{WANG2025106474,
+title = {Non-inertial computational framework for long-distance shock-driven object dynamics},
+journal = {Computers & Fluids},
+volume = {286},
+pages = {106474},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106474},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003050},
+author = {Dagao Wang and Guilai Han and Meikuan Liu and Zongxian Li},
+keywords = {Non-inertial reference, Unsteady shock simulation method, Fluid-motion interaction},
+abstract = {In the realm of dynamic separation problems, the motion of a body triggered by shock interactions is a common phenomenon. This is particularly important in terms of the safe separation of two-stage-to-orbit vehicles, where the motion must remain stable despite long-distance disturbances from shock waves. The flow field in these cases is complex, marked by interactions between hypersonic shock waves and a moving boundary. This leads to significant unsteady effects due to the body's translation and rotation over extended distances. Existing simulation techniques fall short in rapidly and accurately predicting the aerodynamic force and thermal properties for these problems, largely due to the overwhelming computational demands that result from oversize computational domains and the necessity of grid deformation. This paper presents a novel non-deforming grid method to address these challenges. The central concept is to anchor the reference frame to the moving object itself and to approach the problem from a non-inertial frame perspective. This accounts for the motion of the object solely via the inertial source term, circumventing the complexities of mesh manipulation typically required to link flow and motion equations. The moving shock boundary is designed to be closely compatible with selected shock-captured schemes, which reduces non-physical oscillations compared to the traditional method of direct assembly with theoretical shock relations. Other boundary conditions and the solution process are also refined to specifically target the unsteady, shock-dominated flow. These modifications significantly alleviate the computational burden. The effectiveness of the proposed method is demonstrated through several test cases. To showcase the method's practical application, a scenario is simulated wherein an ellipse is dislodged from a wedge by an incident shock wave, covering a long distance. These tests confirm the method's feasibility in aerospace engineering problems.}
+}

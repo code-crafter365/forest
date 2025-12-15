@@ -1,0 +1,13 @@
+@article{XIE2025102649,
+title = {SA2Net: Scale-adaptive structure-affinity transformation for spine segmentation from ultrasound volume projection imaging},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102649},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102649},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001582},
+author = {Hao Xie and Zixun Huang and Yushen Zuo and Yakun Ju and Frank H.F. Leung and N.F. Law and Kin-Man Lam and Yong-Ping Zheng and Sai Ho Ling},
+keywords = {Spine segmentation, Ultrasound volume projection imaging, Structure-affinity transformation, Scale-adaptive channel-spatial attention},
+abstract = {Spine segmentation, based on ultrasound volume projection imaging (VPI), plays a vital role for intelligent scoliosis diagnosis in clinical applications. However, this task faces several significant challenges. Firstly, the global contextual knowledge of spines may not be well-learned if we neglect the high spatial correlation of different bone features. Secondly, the spine bones contain rich structural knowledge regarding their shapes and positions, which deserves to be encoded into the segmentation process. To address these challenges, we propose a novel scale-adaptive structure-aware network (SA2Net) for effective spine segmentation. First, we propose a scale-adaptive complementary strategy to learn the cross-dimensional long-distance correlation features for spinal images. Second, motivated by the consistency between multi-head self-attention in Transformers and semantic level affinity, we propose structure-affinity transformation to transform semantic features with class-specific affinity and combine it with a Transformer decoder for structure-aware reasoning. In addition, we adopt a feature mixing loss aggregation method to enhance model training. This method improves the robustness and accuracy of the segmentation process. The experimental results demonstrate that our SA2Net achieves superior segmentation performance compared to other state-of-the-art methods. Moreover, the adaptability of SA2Net to various backbones enhances its potential as a promising tool for advanced scoliosis diagnosis using intelligent spinal image analysis.}
+}

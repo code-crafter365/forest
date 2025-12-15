@@ -1,0 +1,13 @@
+@article{XIAO2025118626,
+title = {Broadband and robust vibration reduction in lattice-core sandwich beam with 3D-printed QZS resonators},
+journal = {Composite Structures},
+volume = {352},
+pages = {118626},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118626},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007542},
+author = {Lei Xiao and Xiang Sun and Li Cheng and Xiang Yu},
+keywords = {Acoustic metamaterial, Lattice-core sandwich beam, Quasi-zero-stiffness resonators, Vibration reduction},
+abstract = {The demand for lightweight lattice-core sandwich structures that exhibit superior mechanical and dynamic properties is widespread in many devices. This paper presents a lattice-core sandwich beam (LSB) with an embedded array of quasi-zero-stiffness (QZS) resonators, referred to as Q-LSB. This research distinguishes itself from existing studies on metamaterial structures with QZS resonators by investigating the nonlinear stiffness of QZS resonators and the damping of a soft three-dimensional (3D) printing material. The objective is to achieve efficient and robust vibration reduction beyond the band gap of its linear counterpart. We investigate the beam vibration using both experimental and numerical methods. The experimental results demonstrate that the resonators can entail significant vibration reduction in a wide frequency range, covering the first three eigenmodes of the host LSB. Furthermore, the reduction effect improves as the excitation level increases within the tested excitation range, highlighting the structure’s robustness against the excitation amplitude. A numerical model based on a dynamically equivalent homogenization method and the finite element method is established and experimentally validated. Subsequently, the numerical parametric results reveal that the broadband vibration reduction is due to the damping effect, while the robust vibration reduction effect is attributed to the nonlinear stiffness of the resonators.}
+}

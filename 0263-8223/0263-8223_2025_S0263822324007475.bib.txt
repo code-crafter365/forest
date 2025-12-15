@@ -1,0 +1,13 @@
+@article{LEE2025118619,
+title = {A two-layered cross-ply laminate model for a single-ply satin woven fabric composite under thermal loads},
+journal = {Composite Structures},
+volume = {351},
+pages = {118619},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118619},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007475},
+author = {Jungwan Lee and Woo-seop Kim and Jung-soo Kim and Moon-kwang Um and Sang {Woo Kim} and Jin {Woo Yi} and Youngseok Oh and Seong {Su Kim}},
+keywords = {Satin woven fabrics, Two-layered cross-ply laminate model, Antisymmetric angle-ply laminates, Thermal distortion, Analytical solutions},
+abstract = {The dominant fiber direction of a single-ply satin woven fabric is different depending on whether it is the upper or lower side. This affects the thermal distortion of laminates and principal curvature directions. Therefore, we propose a two-layered cross-ply laminate model for a single-ply satin woven fabric composite to consider the dominant fiber directions. To verify our model, we derive analytical solutions of antisymmetric angle-ply laminates under thermal loads for the conventional and proposed models. By comparing the analytical solutions with experimental results of unidirectional and satin woven fabric composites, we confirm that the proposed model accurately predicts the principal curvature direction.}
+}

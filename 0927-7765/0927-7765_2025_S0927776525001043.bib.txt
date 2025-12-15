@@ -1,0 +1,13 @@
+@article{CUNHA2025114597,
+title = {Core-shell hybrid liposomes: Transforming imaging diagnostics and therapeutic strategies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114597},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114597},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001043},
+author = {Joana Cunha and Eloah Latocheski and Ana Carolina Domingues Fidalgo and Adriana Passarella Gerola and Camila Fabiano de Freitas Marin and António José Ribeiro},
+keywords = {Liposomes, Hybrids, Imaging diagnosis, Drug delivery, Theranostic applications},
+abstract = {For the last few years, researchers and industry have intensified efforts to develop a diverse array of diagnostic and therapeutic approaches to fight diseases such as cancer, diabetes, and viral infections. Among the emerging technologies, hybrid liposomes (HLs) stand out for their ability to address key limitations of conventional liposomes and deliver multifunctional solutions more effectively. While several novel nanosystems, including polymerlipid conjugates and inorganic nanoparticles (NPs), have shown great potential in the preclinical and clinical phases for the diagnosis and treatment of diseases, particularly cancer, HLs can integrate the best of both worlds, combining drug delivery properties with imaging capabilities. HLs, particularly those with core-shell structures, can surpass conventional liposomes by offering improved physicochemical properties, multifunctionality, and the capacity to overcome critical delivery challenges. The integration of natural and synthetic polymers has rapidly emerged as a preferred strategy in the development of HLs, providing significant advantages, such as enhanced stability, stimuli-responsive drug release, prolonged circulation, and improved therapeutic efficacy. Additionally, the customizable structure of HLs allows the incorporation of diverse materials, such as metals, ligands, and functional lipids, improving diagnosis and enhancing targeted delivery and cellular uptake far beyond what conventional liposomes offer. This review provides a critical and updated analysis of core-shell structure exhibiting HLs, with a focus on their preparation, characterization, and functional enhancements. We also examine in vitro/in vivo outcomes in imaging diagnosis and drug delivery while addressing the current barriers to clinical translation and future prospects for these versatile nanoplatforms.}
+}

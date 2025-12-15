@@ -1,0 +1,13 @@
+@article{XIONG2025108579,
+title = {A novel composites of laser 3D printed CoCrFeNiMn/Ti6Al4V lattice structure with B4C/AlSi10Mg interpenetrating phases},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108579},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108579},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005773},
+author = {Yifeng Xiong and Faming Zhang and Yinuo Huang and Ting Dai and Qifa Wan and Yan Chen and Shuo Yin},
+keywords = {Additive manufacturing, Interpenetrating phase, Interface, Biomimetic composites},
+abstract = {Impact-resistant materials frequently encounter inherent trade-offs among damping, toughness, light weighting and strength. This study employed laser 3D printing combined with spark plasma sintering techniques to fabricate a novel biomimetic composites of CoCrFeNiMn/Ti6Al4V lattice structure with B4C/AlSi10Mg interpenetrating phase, showing the potential application of this composite as a novel impact-resistant material. Experimental results demonstrated that the composites exhibited outstanding compressive strength and strain energy absorption, attributed to their intricate interpenetrating dual-phase structure and interface bonding mechanism. The interpenetrating phase structure and the formation of interface nano-Ti3AlSi5 phases promote effective stress transfer within the composite material, resisting the propagation of local damage. During mechanical loading, cracks originating in the CoCrFeNiMn/Ti6Al4V lattice were mechanically interlocked by B4C/AlSi10Mg infiltration, thereby conferring heightened strengthening efficacy and exceptional damage tolerance. Effects of strain rate (10−3/s to 1/s) and temperature (from room temperature to 300 °C) on dynamic impact performance of the composites indicated a very competitive strain rate hardening and thermal softening performance.}
+}

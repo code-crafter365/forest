@@ -1,0 +1,13 @@
+@article{ZHANG2025119138,
+title = {Repair mechanism and performance restoration of CFRTP/metal bolted joints via resin thermal reshaping},
+journal = {Composite Structures},
+volume = {363},
+pages = {119138},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119138},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003034},
+author = {Guangwu Zhang and Yunjing Zhao and Chen Wang and Gang Li},
+keywords = {Carbon fiber reinforced thermoplastic, Joints repair, Resin thermal reshaping, Tensile properties},
+abstract = {In this study, a joint repair method by resin thermal reshaping is introduced to repair damaged carbon fiber reinforced thermoplastic (CFRTP) bolted joints. A metal insert at the resin melting temperature is inserted into the damaged CFRTP hole with interference fit during the repair process. The matrix resin melts and fills the gap caused by the damage under the action of temperature and pressure. This process results in a densified joint structure, significantly restoring the mechanical properties and overall structural integrity of the joint. Joints with varying degrees of damage are designed, and the proposed repair method is applied. Single shear joints are prepared and subjected to quasi-static tensile and cyclic loading tests, with the interface observed using optical microscopy. Experimental results show that resin thermal reshaping significantly enhances the repair performance of damaged joints, with a 15.20 % increase in tensile load and a 32.90 % reduction in hole elongation. Finite element simulations further confirm these results and successfully replicate key feature points in the load–displacement curve.}
+}

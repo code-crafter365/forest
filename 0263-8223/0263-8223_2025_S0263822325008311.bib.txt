@@ -1,0 +1,13 @@
+@article{PEREIRA2025119666,
+title = {Numerical investigation of the potential of double–double laminates to measure the interlaminar fracture toughness of multidirectional interfaces},
+journal = {Composite Structures},
+volume = {373},
+pages = {119666},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119666},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008311},
+author = {Paulo Pereira and Federico Danzi and Pedro Pinto and Torquato Garulli and Carolina Furtado},
+keywords = {Multidirectional interfaces, Double–double (DD), Interlaminar fracture toughness, Polymer-matrix composites},
+abstract = {The suitability of Double–Double (DD) laminates to assess the interlaminar fracture toughness of multidirectional interfaces in mode I and mode II is investigated numerically through the use of the 3D-Virtual Crack Closure Technique (3D-VCCT)-based and crack propagation analyses. The effects of ply thickness, mismatch angle, and stacking sequence on the width-wise Energy Release Rate (ERR) distributions are investigated. Four thin-ply DD stacking sequences are analyzed, revealing low mode mixity and spurious off-axis reaction forces, thanks to laminate homogenization. The stacking sequence [−Φ/Ψ/Φ/−Ψ]10//[Φ/−Ψ/−Φ/Ψ]10, named Staggered 1, is identified as the most promising configuration, with a minimal spurious mode and reduced crack curvature. Further analysis of ply thickness showed that lower ply thickness and more repetitions improve suitability for interlaminar fracture toughness measurements. Evaluation of Staggered 1 laminate with Ψ=0 ∘ over several mismatch angles (0°–45°) indicated negligible mode mixity, crack curvature, and crack skewness during crack propagation. The findings suggest that DD laminates are promising for assessing interlaminar toughness in multidirectional interfaces if appropriate ply thickness and sublaminate repetitions are used.}
+}

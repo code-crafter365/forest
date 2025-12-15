@@ -1,0 +1,13 @@
+@article{KAN2025114328,
+title = {Dual-targeted TfRA4-DNA1-Ag@AuNPs: An innovative radiosensitizer for enhancing radiotherapy in glioblastoma multiforme},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114328},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114328},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005873},
+author = {Xuechun Kan and Jing Ma and Jun Ma and Dongdong Li and Fan Li and Yuyu Cao and Cheng Huang and Yan Li and Peidang Liu},
+keywords = {TfRA4, DNA1, Silver-gold core-shell nanoparticles, Radiosensitization, Glioblastoma multiforme},
+abstract = {Radiation therapy (RT) is one of the most effective and widely used treatment methods for glioblastoma multiforme (GBM). However, its efficacy is often compromised by the inherent radioresistance of tumor cells, while the restrictive nature of the blood-brain barrier (BBB) specifically impedes the delivery of radiosensitizer. Thus, we constructed and characterized polyethylene glycol (PEG)-functionalized silver-gold core-shell nanoparticles (PSGNPs) targeting both BBB (TfRA4) and GBM (DNA1) (TDSGNPs). Afterwards, studies conducted both in vitro and in vivo were employed to assess the BBB penetration capabilities, abilities of GBM targeting and radiosensitization effect. Transmission electron microscope images of PSGNPs showed a core-shell structure, and the results of ultraviolet-visible absorption spectroscopy and dynamic light scattering displayed that TDSGNPs were successfully constructed with excellent dispersion properties. TDSGNPs could be specifically taken up by U87MG cells and the uptake peaked at 24 h. TDSGNPs combined with RT obviously increased the apoptosis proportion of the cells. It was shown by the in vitro and in vivo investigations that TDSGNPs could target U87MG cells after crossing the BBB, and further study revealed that TDSGNPs showed an uptake peak in the tumor sites after 3 h intravenous injection. The radiosensitization of TDSGNPs was better than that of the nanoparticles modified with single aptamers and the median survival of tumor-bearing mice was greatly extended. This study demonstrated that TDSGNPs could penetrate BBB to target GBM, functioning as a promising radiosensitizer for the targeted therapy of GBM.}
+}

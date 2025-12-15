@@ -1,0 +1,13 @@
+@article{LIU2025102664,
+title = {CRAD: Cognitive Aware Feature Refinement with Missing Modalities for Early Alzheimer’s Progression Prediction},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {126},
+pages = {102664},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102664},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001739},
+author = {Fei Liu and Shiuan-Ni Liang and Mohamed Hisham Jaward and Huey Fang Ong and Huabin Wang},
+keywords = {Alzheimer’s disease diagnosis, Multimodal knowledge distillation, Confidence regularization, MRI},
+abstract = {Accurate diagnosis and early prediction of Alzheimer’s disease (AD) often require multiple neuroimageing modalities, but in many cases, only one or two modalities are available. This missing modality hinders the accuracy of diagnosis and is a critical challenge in clinical practice. Multimodal knowledge distillation (KD) offers a promising solution by aligning complete knowledge from multimodal data with that of partial modalities. However, current methods focus on aligning high-level features, which limit their effectiveness due to insufficient transfer of reliable knowledge. In this work, we propose a novel Consistency Refinement-driven Multi-level Self-Attention Distillation framework (CRAD) for Early Alzheimer’s Progression Prediction, which enables the cross-modal transfer of more robust shallow knowledge with self-attention to refine features. We develop a multi-level distillation module to progressively distill cross-modal discriminating knowledge, enabling lightweight yet reliable knowledge transfer. Moreover, we design a novel self-attention distillation module (PF-CMAD) to transfer disease-relevant intermediate knowledge, which leverages feature self-similarity to capture cross-modal correlations without introducing trainable parameters, enabling interpretable and efficient distillation. We incorporate a consistency-evaluation-driven confidence regularization strategy within the distillation process. This strategy dynamically refines knowledge using adaptive distillation controllers that assess teacher confidence. Comprehensive experiments demonstrate that our method achieves superior accuracy and robust cross-dataset generalization performance using only MRI for AD diagnosis and early progression prediction. The code is available at https://github.com/LiuFei-AHU/CRAD.}
+}

@@ -1,0 +1,13 @@
+@article{YAN2025114394,
+title = {Sulfasalazine-loaded nanoframes: A new frontier in bladder cancer therapy through ferroptosis induction},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114394},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114394},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006532},
+author = {Xieyu Yan and Quanjin Li and Shuai Xiao and Junjie Chen and Wei Song},
+keywords = {Nano-framework, Ferroptosis, GSH, POD, Sulfasalazine},
+abstract = {Promoting ferroptosis in tumor cells has emerged as a promising strategy for cancer therapy. Nonetheless, the heightened antioxidant activity within tumor cells hampers this approach, diminishing its effectiveness and fostering drug resistance. In this study, a new type of sulfasalazine (SAS) loaded nanoframe self-etched Pt-Co nanodendrites (Pt/Co-BNN@SAS) was developed, presenting a novel avenue for inducing ferroptosis in tumor cells by depleting glutathione (GSH) for cancer treatment. Pt/Co-BNN exhibits notable peroxidase (POD) activity, catalyzing the production of abundant oxygen radicals through the consumption of hydrogen peroxide (H2O2) and the concurrent depletion of GSH. Simultaneously, the liberated sulfasalazine (SAS) from Pt/Co-BNN@SAS effectively obstructs system xc-, impeding the absorption of cystine by tumor cells and thereby expediting GSH depletion. The expeditious reduction of GSH markedly stimulates the accumulation of lipid peroxides (LPO) and suppresses glutathione peroxidase 4 (GPX4), consequently triggering ferroptosis in bladder cancer cells and inhibiting the migration ability of bladder cancer cells effectively. This research contributes to a more profound comprehension of nano-drug-biological interactions and provides a prospective outlook on treating bladder cancer by instigating ferroptosis in tumor cells through GSH depletion.}
+}

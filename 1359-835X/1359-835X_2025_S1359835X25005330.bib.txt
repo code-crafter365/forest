@@ -1,0 +1,13 @@
+@article{ZHANG2025109239,
+title = {A prepreg-tool slipping model for unidirectional CF/PPS prepreg during hot-stamping process},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109239},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109239},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005330},
+author = {Wenwu Zhang and He Liao and Lidong Wang and Xiongqi Peng},
+keywords = {Thermoplastic prepreg, Forming, Prepreg-tool slipping, Numerical modeling},
+abstract = {Using a home-made pull-through testing system, the prepreg-tool slipping behavior of unidirectional carbon fiber/polyphenylene sulfide (UD CF/PPS) prepreg in hot-stamping process was investigated. The influences of metal surface, release agent and processing parameters (temperature, normal force and slipping velocity) were systematically studied. Experimental results indicated the presence of two predominant slipping modes: slip-yield and slip-relaxation. In addition, the after-slip residual stress and Stribeck analysis revealed a significant correlation of surface toughness and release agent with prepreg-tool slipping characteristics. Based on the experimental results, a simple phenomenological slipping model was proposed to characterize the prepreg-tool slipping behavior. The model was then integrated into Abaqus/Explicit as a user-defined VFRIC subroutine for the purpose of verification. This research provides theoretical insights and practical guidance for optimizing thermoplastic composite thermoforming processes through prepreg-tool slipping mechanism analysis.}
+}

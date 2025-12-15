@@ -1,0 +1,13 @@
+@article{KIM2025102651,
+title = {Enhancing intracranial vessel segmentation using diffusion models without manual annotation for 3D Time-of-Flight Magnetic Resonance Angiography},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102651},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102651},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001600},
+author = {Jonghun Kim and Inye Na and Jiwon Chung and Ha-Na Song and Kyungseo Kim and Seongvin Ju and Mi-Yeon Eun and Woo-Keun Seo and Hyunjin Park},
+keywords = {Intracranial vessel segmentation, Magnetic resonance angiography, Diffusion model, Segmentation without labels},
+abstract = {Intracranial vessel segmentation is essential for managing brain disorders, facilitating early detection and precise intervention of stroke and aneurysm. Time-of-Flight Magnetic Resonance Angiography (TOF-MRA) is a commonly used vascular imaging technique for segmenting brain vessels. Traditional rule-based MRA segmentation methods were efficient, but suffered from instability and poor performance. Deep learning models, including diffusion models, have recently gained attention in medical image segmentation. However, they require ground truth for training, which is labor-intensive and time-consuming to obtain. We propose a novel segmentation method that combines the strengths of rule-based and diffusion models to improve segmentation without relying on explicit labels. Our model adopts a Frangi filter to help with vessel detection and modifies the diffusion models to exclude memory-intensive attention modules to improve efficiency. Our condition network concatenates the feature maps to further enhance the segmentation process. Quantitative and qualitative evaluations on two datasets demonstrate that our approach not only maintains the integrity of the vascular regions but also substantially reduces noise, offering a robust solution for segmenting intracranial vessels. Our results suggest a basis for improved patient care in disorders involving brain vessels. Our code is available at github.com/jongdory/Vessel-Diffusion.}
+}

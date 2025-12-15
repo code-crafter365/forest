@@ -1,0 +1,13 @@
+@article{ZHAO2025118677,
+title = {A novel three-dimensional DEM model for recycled aggregate concrete considering material heterogeneity and microcrack evolution},
+journal = {Composite Structures},
+volume = {352},
+pages = {118677},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118677},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008055},
+author = {Haiyang Zhao and Annan Zhou and Liangchi Zhang and Arul Arulrajah},
+keywords = {Recycled concrete, Recycled aggregate, Concrete fracture mechanics, Discrete element modelling},
+abstract = {Recycled aggregate concrete presents significant potential for sustainable construction. However, its widespread adoption is impeded by a lack of comprehensive understanding of how recycled aggregates impact its mechanical properties. This paper proposes an advanced discrete element model accurately representing the concrete’s meso-structure, including diverse interfacial transition zones, random adhering mortar distributions as well as heterogeneous material properties. Furthermore, this model also allows for the identification and dynamic monitoring of microcrack initiation and propagation. Results show that low-quality recycled aggregates promote direct crack propagation through the aggregates, significantly impairing concrete performance. Adhering mortar negatively impacts concrete properties due to its poor interfacial bond with the mortar matrix and its inferior mechanical properties. The influence of the replacement ratio on the concrete properties is closely tied to the recycled aggregate quality. High-quality aggregates allow for higher replacement ratios with limited property degradation in the concrete.}
+}

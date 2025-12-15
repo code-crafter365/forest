@@ -1,0 +1,13 @@
+@article{JUNG2025118550,
+title = {Shear strengthening and damage control effects of CFRP and self-prestressing iron-based SMA for concrete columns},
+journal = {Composite Structures},
+volume = {351},
+pages = {118550},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118550},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006780},
+author = {Donghyuk Jung and Kun-Ho E. Kim and Hajin Choi and Saebyeok Jeong and Jaehee Choi and Geunoh Kim and Young K. Ju and Minsoo Sung and Sanghee Kim},
+keywords = {Shear strengthening, Iron-based shape memory alloy, Carbon fiber-reinforced polymer, RC column testing, Non-destructive evaluation},
+abstract = {Although prestressed shape memory alloy (SMA) has shown a great performance in flexural retrofitting of slender RC columns, its shear strengthening effect for squat RC columns has been barely studied. This study explores the shear strengthening and damage control effects of iron-based SMA (Fe SMA) for squat RC columns. The heat-activated prestressing of Fe SMA was evaluated first at material level, then applied to component level structural testing of RC columns. The four circular RC columns with different retrofitting schemes were tested under quasi-static lateral cyclic loading. The specimens strengthened with carbon fiber-reinforced polymer (CFRP) sheet and Fe SMA strip exhibited satisfactory global responses without showing significant shear failure. From the visual inspection and non-destructive damage assessment, the prestressed Fe SMA was found to be superior in delaying damage accumulation in concrete compared to CFRP.}
+}

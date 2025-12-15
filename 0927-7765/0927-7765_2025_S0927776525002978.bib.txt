@@ -1,0 +1,13 @@
+@article{LI2025114790,
+title = {Apatinib-loaded silicate nanoparticles coated with macrophage membranes and PD-1 antibody for enhanced chemo-immunotherapy in ovarian cancer via VEGFR2 and PD-1 dual inhibition},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114790},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114790},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002978},
+author = {Hongru Li and Yuhan Wang and Shunqing Zhou and Jianli Liu and Yuemei Jin},
+keywords = {Apatinib, Silicate nanoparticles, Chemotherapy, Immunotherapy, Ovarian cancer},
+abstract = {Ovarian cancer remains one of the most challenging malignancies to treat due to its aggressive nature and resistance to conventional therapies. In this study, we developed a nanoparticle-based system (Apa@SiO2@MP) that combines chemotherapy with immune checkpoint inhibition for enhanced treatment of ovarian cancer. The system consists of mesoporous silica nanoparticles (SiO2 NPs) coated with macrophage membranes (MP) and functionalized with programmed death 1 (PD-1) antibody, designed to improve the delivery and targeting of apatinib, a tyrosine kinase inhibitor. The system demonstrated effective drug encapsulation, controlled release, and stability in physiological environments. In vitro assays revealed that Apa@SiO2@MP had minimal cytotoxicity in normal cells but significantly reduced cell viability in ovarian cancer cells (SKOV-3), highlighting its cancer-targeting ability. Apatinib effectively inhibited VEGFR2 expression and induced reactive oxygen species (ROS) production, further promoting anti-cancer effects. In vivo, Apa@SiO2@MP treatment led to enhanced tumor inhibition, as well as significant immune response activation, including increased CD4+ and CD8+ T cells and elevated IFN-γ levels. This study provides a promising multi-modal strategy for overcoming challenges in cancer therapy by integrating chemotherapy, immunotherapy, and targeted drug delivery, offering potential for improved treatment outcomes in ovarian cancer.}
+}

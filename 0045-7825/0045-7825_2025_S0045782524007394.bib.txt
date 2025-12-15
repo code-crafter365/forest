@@ -1,0 +1,13 @@
+@article{AROSTICA2025117485,
+title = {A software benchmark for cardiac elastodynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117485},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117485},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007394},
+author = {Reidmen Aróstica and David Nolte and Aaron Brown and Amadeus Gebauer and Elias Karabelas and Javiera Jilberto and Matteo Salvador and Michele Bucelli and Roberto Piersanti and Kasra Osouli and Christoph Augustin and Henrik Finsberg and Lei Shi and Marc Hirschvogel and Martin Pfaller and Pasquale Claudio Africa and Matthias Gsell and Alison Marsden and David Nordsletten and Francesco Regazzoni and Gernot Plank and Joakim Sundnes and Luca Dede’ and Mathias Peirlinck and Vijay Vedula and Wolfgang Wall and Cristóbal Bertoglio},
+keywords = {Cardiac mechanics, Software, Finite elements, Benchmark, Hyperelasticity},
+abstract = {In cardiovascular mechanics, reaching consensus in simulation results within a physiologically relevant range of parameters is essential for reproducibility purposes. Although currently available benchmarks contain some of the features that cardiac mechanics models typically include, some important modeling aspects are missing. Therefore, we propose a new set of cardiac benchmark problems and solutions for assessing passive and active material behavior, viscous effects, and pericardial boundary condition. The problems proposed include simplified analytical fiber definitions and active stress models on a monoventricular and biventricular domains, allowing straightforward testing and validation with already developed solvers.}
+}

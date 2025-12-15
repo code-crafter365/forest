@@ -1,0 +1,13 @@
+@article{ZENG2025117635,
+title = {Probabilistic Learning on Manifolds (PLoM) for cross-scale diagnostics in structural dynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117635},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117635},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008892},
+author = {Xiaoshu Zeng and Bora Gencturk and Olivier Ezvan},
+keywords = {High-dimensional spaces, Small data, Dynamic response prediction, High-frequency response prediction, Probabilistic Learning on Manifold},
+abstract = {This work introduces an efficient methodology for: (i) predicting dynamic responses across a broad frequency band for large-scale, highly complex structures, and (ii) forecasting their high-frequency response using associated low-frequency information. Structures of interest are characterized by a large number of degrees of freedom (DOFs) and numerous local vibration modes that couple, within the frequency range of interest, with long-wavelength global elastic modes. Given this complexity, high-fidelity numerical models present a significant computational burden, and a reduced-order modeling (ROM) approach was developed by the authors using substructuring techniques. However, despite its enhanced efficiency, this ROM remains prohibitive for tasks such as uncertainty quantification (UQ). Moreover, given the limitations on the number of training samples used for machine learning tasks, the “small-data” challenge is not easily addressed by traditional machine learning paradigms. Another obstacle for this class of problems is the large number of input parameters and response quantities of interest. This high-dimensional setting exacerbates the small-data challenge for UQ and, more generally, for the development of predictive models. This paper presents a novel implementation of the Probabilistic Learning on Manifold (PLoM) method, which is adept at handling small datasets for both supervised and unsupervised learning. Even with scarce data, PLoM can identify the low-dimensional manifold inherent in the training dataset. Subsequently, projected Itô sampling—a stochastic sampling method—facilitates the generation of samples constrained to the manifold, thereby augmenting the training data. Nonparametric conditioning is then used to infer the joint distribution of a subset of the observables, conditional on another subset having been observed. The focus of this paper is particularly on a multi-level spent nuclear fuel canister, and we infer the statistical properties of high-frequency dynamics, encoded as a frequency response function (FRF), from low-frequency observations of the FRF.}
+}

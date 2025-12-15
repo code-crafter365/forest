@@ -1,0 +1,13 @@
+@article{HU2025117636,
+title = {Geometrically non-linear topology optimization via geometry projection},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117636},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117636},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008909},
+author = {Jingyu Hu and Mathias Wallin and Matti Ristinmaa and J.A. Norato and Shutian Liu},
+keywords = {Geometry-based topology optimization, Geometry projection method, Geometrically non-linear structures, Hyperelastic material behavior},
+abstract = {Geometry projection-based topology optimization has attracted a great deal of attention because it enables the design of structures consisting of a combination of geometric primitives and simplifies the integration with computer-aided design (CAD) systems. While the approach has undergone substantial development under the assumption of linear theory, it remains to be developed for non-linear hyperelastic problems. In this study, a geometrically non-linear explicit topology optimization approach is proposed in the framework of the geometry projection method. The energy transition strategy is adopted to mitigate excessive distortion in low-stiffness regions that might cause the equilibrium iterations to diverge. A neo-Hookean hyperelastic strain energy potential is used to model the material behavior. Design sensitivities of the functions passed to the gradient-based optimizer are detailed and verified. The proposed method is used to solve benchmark problems for which the output displacement in a compliant mechanism is maximized and the structural compliance is minimized.}
+}

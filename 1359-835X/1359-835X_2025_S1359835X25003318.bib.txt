@@ -1,0 +1,13 @@
+@article{TAO2025109037,
+title = {Bio-based cross-linking and esterification process for surface functionalisation of carbon fibres in fibre-reinforced cementitious composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109037},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109037},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003318},
+author = {Y. Tao and S.A. Hadigheh},
+keywords = {Carbon fibre (CF), Fibre-reinforced cementitious composite (FRCC), Surface modification, Bio-based chemicals},
+abstract = {There has been growing research interest in surface modifications of carbon fibres (CFs) to enhance their bond performance with cementitious materials. While some methods are effective, they are often limited by environmental impact, high costs, and procedural complexity. Herein, this paper proposes novel bio-based surface modifications using tannic acid (TA) and citric acid (CA) to functionalise CF. These surface modifications are developed to promote fibre–matrix interactions and thus enhance the fibre-reinforced cementitious composites (FRCC) performance. The alterations in CF’s physical and chemical properties are characterised by multiple tests. Enhanced mechanical strength is evaluated through compressive and flexural testing. The interaction mechanisms of surface-treated CFs within the cementitious matrix are analysed using SEM coupled with EDS. Co-deposition of TA with ethanolamine on the CF surface results in a polymeric layer that contributes to additional functional groups and significantly increases surface roughness. CA-treated CF also demonstrates irregular texture on the surface with the presence of ester groups through esterification reactions. The modifications facilitate hydration product precipitation, creating a denser microstructure between CF and matrix and increasing surface roughness which boosts mechanical adhesion. The proposed bio-based treatments also significantly enhance CF hydrophilicity and dispersibility, further facilitating better interactions with the cementitious matrix. Consequently, FRCC specimens containing 0.1 vol% 12 mm CF-TA and CF-CA exhibit notably enhanced compressive strength, with increases of 30.11 % and 19.82 % compared to the controlled mortar. These findings offer a new strategy for sustainable CF surface modification techniques and their application in the construction industry, promising advancements in enhancing FRCC performance.}
+}

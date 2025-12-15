@@ -1,0 +1,13 @@
+@article{XIAO2025119112,
+title = {Field-based pre-analysis and optimization for manufacturing feasibility of automated fiber placement path planning},
+journal = {Composite Structures},
+volume = {363},
+pages = {119112},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119112},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002776},
+author = {Xingya Xiao and Weiwei Qu and Di Yang and Yinglin Ke},
+keywords = {Variable angle tow, Optimization, Tow steering, Automated fiber placement, Manufacturing constraints},
+abstract = {With the advent of automated fiber placement (AFP) machines, curvilinear tow paths are more prevalent within complex laying surfaces. However, the tow-steered pattern poses a challenge to the manufacturing process, easily causing manufacturing defects such as fiber wrinkle and gap/overlap. Therefore, it is necessary to analyze and improve the laying feasibility of the designed structure. This work applies the circulation and divergence of the orthogonal vector field to conduct a pre-analysis of the manufacturing performance (path parallelism and steering radius) of the designed fiber directions represented by angle parameterization, and provides a numerical solution for triangle mesh. In addition, path breakpoints associated with triangular gaps are considered as singularities in vector field, and their distribution probability is predicted with vector circulation. The validity of key metrics has been verified through typical ply surfaces. These analytical metrics facilitates a reasonable assessment of the manufacturability of the design site prior to actual placement, reducing manufacturing challenges. Their applications are explored in guidelines selection and breakpoint editing. Finally, an efficient smoothing optimization with complex form is proposed to enhance manufacturability of the design field. The experiments show that these metrics and optimization are suitable for complex open and rotating surfaces.}
+}

@@ -1,0 +1,13 @@
+@article{ZHAO2025106716,
+title = {Extension of surface tension model in phase interface tracking method for liquid-gas two-phase flow using unstructured meshes},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106716},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106716},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001768},
+author = {Chuang-Yao Zhao and Jia-Yu Mao and Jun-Min Jiang and Di Qi and Fang-Fang Zhang and Qing Liu and Wei Xiao and Pu-Hang Jin and Kong Ling},
+keywords = {Surface tension, CICSAM method, Bubble and droplet flows, VOF method, Unstructured mesh},
+abstract = {Accurate calculation of surface tension plays a crucial role in interface-tracking computational fluid dynamics (CFD) simulations involving liquid-gas interfaces. This article extends the Continuum Surface Stress (CSS) model within the scheme of the Compressed Interface Capturing Scheme for Arbitrary Meshes (CICSAM) to enhance surface tension calculations, with numerical discretization details provided. Comparative studies between the CSS model and the widely used Continuum Surface Force (CSF) model are conducted, focusing on test cases involving droplet equilibrium and bubble rise in both structured and unstructured mesh scenarios. The results indicate that at small Laplace numbers (La), the CSS model substantially suppresses spurious currents, producing maximum velocity magnitudes that are 1.5 to 2.0 times lower than those of the CSF model for an equilibrium droplet case. Conversely, under conditions with large La, the CSF model yields smaller spurious currents, confirming its superior performance in the regime and aligning with trends in the literature. Notably, under conditions with large La, the CSS model prevents droplet disintegration and interface disturbances, thereby preserving the static droplet morphology. Furthermore, the CSS model predicts bubble dynamics with greater accuracy across various mesh types, maintaining precision even on coarser meshes. The application of this extended model to the simulation of a droplet generator and double bubble coalescence further validates its capability to produce reliable predictions, outperforming the CSF model. These findings underscore the CSS model's potential to enhance the simulation of complex liquid-gas flows, offering a robust solution for computational fluid dynamics in engineering applications.}
+}

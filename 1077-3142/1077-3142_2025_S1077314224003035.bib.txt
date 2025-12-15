@@ -1,0 +1,13 @@
+@article{WEI2025104222,
+title = {Leveraging vision-language prompts for real-world image restoration and enhancement},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104222},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104222},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003035},
+author = {Yanyan Wei and Yilin Zhang and Kun Li and Fei Wang and Shengeng Tang and Zhao Zhang},
+keywords = {Vision-language fusion, Textual prompts, Multimodal interaction, Image restoration, Synthetic data augmentation, Adverse weather removal},
+abstract = {Significant advancements have been made in image restoration methods aimed at removing adverse weather effects. However, due to natural constraints, it is challenging to collect real-world datasets for adverse weather removal tasks. Consequently, existing methods predominantly rely on synthetic datasets, which struggle to generalize to real-world data, thereby limiting their practical utility. While some real-world adverse weather removal datasets have emerged, their design, which involves capturing ground truths at a different moment, inevitably introduces interfering discrepancies between the degraded images and the ground truths. These discrepancies include variations in brightness, color, contrast, and minor misalignments. Meanwhile, real-world datasets typically involve complex rather than singular degradation types. In many samples, degradation features are not overt, which poses immense challenges to real-world adverse weather removal methodologies. To tackle these issues, we introduce the recently prominent vision-language model, CLIP, to aid in the image restoration process. An expanded and fine-tuned CLIP model acts as an ‘expert’, leveraging the image priors acquired through large-scale pre-training to guide the operation of the image restoration model. Additionally, we generate a set of pseudo-ground-truths on sequences of degraded images to further alleviate the difficulty for the model in fitting the data. To imbue the model with more prior knowledge about degradation characteristics, we also incorporate additional synthetic training data. Lastly, the progressive learning and fine-tuning strategies employed during training enhance the model’s final performance, enabling our method to surpass existing approaches in both visual quality and objective image quality assessment metrics.}
+}

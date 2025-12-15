@@ -1,0 +1,13 @@
+@article{LI2025119195,
+title = {Reinforcing shell elements for fiber-reinforced composites undergoing large deformations and general motion},
+journal = {Composite Structures},
+volume = {366},
+pages = {119195},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119195},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003605},
+author = {Yanhu Li and Yongjie Lu and Jibo Song and Linao Zhang},
+keywords = {Flexible multibody dynamics, Absolute nodal coordinate formulation, Fiber-reinforced composites, Reinforcing shell element, Deformation compatibility conditions},
+abstract = {Fiber-reinforced composites offer excellent mechanical properties and lightweight advantages in multibody systems. However, their significant anisotropy and geometrical and material nonlinearities present challenges for accurate modeling and simulation. In this paper, two new types of reinforcing shell elements are developed within the Absolute Nodal Coordinate Formulation framework. The first type assumes that each fiber behaves as an Euler beam with only tensile and bending stiffness, making it suitable for simulating reinforcing fibers with arbitrary orientations and nonuniform materials and cross-section areas. The second type employs elastic force formulation based on Kirchhoff–Love theory or continuum mechanics. It is suitable for simulating reinforcing fibers that appear in a layered form with unique orientation, material, and cross-section area. The fibers and matrix are described independently in these new reinforcing elements, coupled through consistent deformation compatibility conditions. This approach allows different material models and element formulations for the fibers and matrix to be used. Furthermore, multiple fibers (or layers) can be embedded within a single reinforcing shell element, providing more accurate representations of the actual physical structure. The effectiveness of the developed reinforcing elements is validated through several benchmark problems. Numerical results demonstrate that both types of reinforcing shell elements are locking-free and can automatically capture the reinforcing effects of the fibers and the coupled deformation modes. This investigation enriches the element library of the Absolute Nodal Coordinate Formulation and provides an effective tool for the accurate simulation and optimal design of fiber-reinforced composites in multibody systems.}
+}

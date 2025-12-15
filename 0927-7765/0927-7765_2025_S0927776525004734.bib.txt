@@ -1,0 +1,13 @@
+@article{CHEN2025114966,
+title = {Porous microneedles delivering apoptotic body-camouflaged nanozymes promote diabetic wound repairment through combined pro-angiogenesis, anti-inflammation, and bacterial elimination},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114966},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114966},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004734},
+author = {Yang Chen and Zhenlong Mu and Yunfeng Hu and Hui Wang and Jin Li},
+keywords = {Diabetic wound healing, Microneedles, Apoptotic bodies, Anti-inflammation, Pro-angiogenesis},
+abstract = {Chronic refractory diabetic wound healing remains a significant clinical problem due to hyperglycaemia-induced complicated wound microenvironments characterized by serious vascular dysfunction, dysregulated inflammatory responses, excessive reactive oxygen species (ROS) production, and recurrent bacterial infections. In this study, we developed an engineered composite termed BMn@H-Abs by encapsulating endothelial cell-derived apoptotic bodies (H-Abs) with manganese dioxide nanozymes (BMn). This BMn@H-Abs composite was further integrated into a microneedle (MN) patch using porous gelatin methacryloyl (GelMA) as the needle matrix, forming BMn@H-Abs MNs capable of penetrating dense wound eschar to achieve localized and sustained therapeutic delivery. Within diabetic wounds, the encapsulated H-Abs with inherent tissue regeneration and immunomodulatory properties effectively enhanced angiogenesis by promoting endothelial cell migration and tubulogenesis, while regulating macrophages polarization toward pro-regenerative and anti-inflammatory M2 phenotypes. The insertion of BMn@H-Abs MNs further restored oxygen supply, scavenged ROS levels, and inhibited bacterial growth through the catalase-mimetic and superoxide dismutase-mimetic activities of BMn nanozymes, as well as Mn2 + -mediated antibacterial effects. This study demonstrates a novel MN-based therapeutic strategy that not only effectively penetrates the physical barriers within wounds but also implements multi-targeted interventions addressing the etiology, offering a promising approach for diabetic wound treatment.}
+}

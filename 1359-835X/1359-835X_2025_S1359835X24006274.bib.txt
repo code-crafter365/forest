@@ -1,0 +1,13 @@
+@article{AWENLIMOBOR2025108629,
+title = {Micro-void nucleation at fiber-tips within the microstructure of additively manufactured polymer composites bead},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108629},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108629},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006274},
+author = {Aigbe Awenlimobor and Neshat Sayah and Douglas E. Smith},
+keywords = {Additive Manufacturing, Fiber Suspensions, Porosity, Polymer Composites},
+abstract = {The presence of voids within the microstructure of short carbon fiber polymer composites produced by additive manufacturing (AM) technology are known to alter the expected material behavior that impair part performance. Previous research efforts aimed at understanding the formation mechanisms of these micro-voids during the polymer extrusion/deposition process have not kept up with the advancement of this AM technology. The present study investigates the phenomenon of micro-void nucleation at the fiber/matrix interface, especially those that form at fiber tips, by characterizing the microstructural configuration of a 13 % carbon fiber filled ABS polymer composite print bead specimen using 3D X-ray micro computed tomography image acquisition and analysis. The results reveal a high level of micro-voids segregation at the ends of fibers that are relatively larger in size and less spherical as compared to micro-voids isolated within the ABS matrix. Additionally, by simulating the hydrostatic flow-field pressure distribution surrounding a single rigid ellipsoidal fibre in colloidal suspension using Jeffery’s model equations, we show that the pressure drops to a critical value at the fibre tips where the micro-voids nucleation is experimentally observed to occur. The study helps to improve our understanding of the potential mechanisms that may be responsible for micro-void development within beads printed with extrusion/deposition AM.}
+}

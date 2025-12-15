@@ -1,0 +1,13 @@
+@article{SELMI2025102315,
+title = {First identification of Brucella melitensis and Rickettsia monacensis in a red fox, Vulpes vulpes},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {117},
+pages = {102315},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102315},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000232},
+author = {Rachid Selmi and Hanène Belkahia and Mariem {Ben Abdallah} and Aymen Mamlouk and Monia Daaloul-Jedidi and Mourad {Ben Said} and Lilia Messadi},
+keywords = {Wild red fox, , , Molecular detection, Phylogeny, Tunisia},
+abstract = {Wild canids, in particular red foxes, serve as potential carriers of zoonotic pathogens. This study aimed to investigate the presence of somepathogenic bacteria relevant to veterinary public health concern. On November 15, 2023, we collected spleen and blood samples from a corpse of a red fox found randomly during a field trip in the El-Jouza district, Beja governorate, northern Tunisia. PCR amplification assays were conducted using specific primers to detect Brucella spp. and major vector-borne bacteria, including Rickettsia, Anaplasma, Borrelia, Bartonella, Coxiella, and hemotropic Mycoplasma. Species identification and genetic characterization were performed through BLAST analysis and phylogenetic studies following the sequencing of the obtained PCR products. DNA of both Brucella melitensis and Rickettsia monacensis was detected in the blood sample. Phylogenetic analysis revealed that the identified B. melitensis isolate was clustered with two strains isolated from humans in Mediterranean countries. The R. monacensis isolate was found to be genetically close to a human strain from a South Korea and several isolates infectingIxodes ticks primarily in Europe. This study revealed for the first time the potential infection of red foxes by B. melitensis and R. monacensis. Further research with larger sample sizes is needed to comprehensively understand the range of zoonotic bacteria in wildlife and to develop effective monitoring and control strategies.}
+}

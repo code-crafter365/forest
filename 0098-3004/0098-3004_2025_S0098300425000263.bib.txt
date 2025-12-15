@@ -1,0 +1,13 @@
+@article{XIAO2025105876,
+title = {A continuous piecewise polynomial fitting algorithm for trend changing points detection of sea level},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105876},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105876},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000263},
+author = {Mingyu Xiao and Taoyong Jin and Hao Ding},
+keywords = {Piecewise fitting, Sea level change, Trend changing points, Monte Carlo},
+abstract = {Sea level data often contain trend changing points, simply called breakpoints. The commonly used overall linear fitting cannot fit such data well. This paper proposed a continuous piecewise polynomial fitting algorithm for detecting the breakpoints in sea level, considering its highly nonlinear characteristics and periodic signals. Additionally, a Monte Carlo-based confidence interval estimation method is presented. The reliability of the confidence interval estimation method and the stability of the proposed algorithm are validated. Comparing to the continuous piecewise linear fitting and other commonly used methods, the proposed algorithm not only obtains better fitting results and more accurate breakpoints, but also could simultaneously estimate signal periods. The algorithm is applied to several typical sea level datasets, yielding more precise estimates of breakpoints and corresponding piecewise trends. It is found that the global mean sea level caused by glacier mass loss transitioned from a linear rise to an accelerated rise trend around the year 1962 ± 1, with two approximately 52-year and 27-year periodic signals.}
+}

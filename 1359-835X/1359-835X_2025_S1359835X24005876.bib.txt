@@ -1,0 +1,13 @@
+@article{FU2025108589,
+title = {LiDFOB-based multifunctional electrolyte-enabled high cycling stability and rate capability of solid-state batteries for composite structural batteries},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108589},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108589},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005876},
+author = {Yu Fu and Yifan Chen and Hanmo Zhou and Yan Li},
+keywords = {A. Multifunctional composites, A. Laminates, A. Thin film, Rate capability},
+abstract = {Structural batteries have sparked widespread research interest for their potential to increase energy storage, reduce weight, and save space in electrified transportation. Achieving long-lasting performance and high rate capability is crucial for practical applications. Our work successfully developed a self-supported LiDFOB-based structural electrolyte (LSPE) thin film with exceptional tensile strength of 3.65 MPa, film formability, electrochemical stability, and ionic conductivity of 2.2 × 10-4 S cm−1. This enables solid-state Li/LiFePO4 batteries to achieve superior specific capacity of 160 mAh/g and high rate capability up to 1C. Additionally, LSPE-based multifunctional energy storage composite laminates successfully powered a hologram with a starting current of ∼ 30 mA (corresponding to ∼ 1C), demonstrating its practical feasibility. Our study offers a promising method for producing high-performance structural electrolytes for structural batteries.}
+}

@@ -1,0 +1,13 @@
+@article{LIANG2025114205,
+title = {Glutathione-responsive biodegradable nanohybrid for cancer photoacoustic imaging and gas-assisted photothermal therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114205},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114205},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004648},
+author = {Shuang Liang and Jingjing Wang and Wenzhen Zhu and Li Zhang},
+keywords = {Photothermal therapy, Photoacoustic imaging, Hydrogen sulfide, Anti-inflammation, Wound healing},
+abstract = {Photothermal therapy (PTT), particularly in the near-infrared-II (NIR-II) range, has attracted widespread attention over the past years. However, the accompanied inflammatory responses can result in undesirable side effects and contribute to treatment ineffectiveness. Herein, we introduced a novel biodegradable nanoplatform (CuS/HMON-PEG) capable of PTT and hydrogen sulfide (H2S) generation, aimed at modulating inflammation for improved cancer treatment outcomes. The embedded ultrasmall copper sulphide (CuS) nanodots (1–2 nm) possessed favorable photoacoustic imaging (PAI) and NIR-II photothermal capabilities, rendering CuS/HMON-PEG an ideal phototheranostic agent. Upon internalization by 4T1 cancer cells, the hollow mesoporous organosilica nanoparticle (HMON) component could react with the overproduced glutathione (GSH) to produce H2S. In addition to the anticipated photothermal tumor ablation and H2S-induced mitochondrial dysfunction, the anti-inflammatory regulation was also been demonstrated by the downregulation of tumor necrosis factor-alpha (TNF-α), interleukin-6 (IL-6), and interleukin-1beta (IL-1β). More importantly, the modulation of inflammation also promoted wound healing mediated by PTT. This work not only presents a H2S-based nanomodulator to boost NIR-II PTT but also provides insights into the construction of novel organic/inorganic hybrid nanosystems.}
+}

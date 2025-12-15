@@ -1,0 +1,13 @@
+@article{YANG2025111282,
+title = {Vanillin-based imine curing agent for high-strength, recyclable, aging-resistant, and anticorrosive epoxy composite coatings},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111282},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111282},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002507},
+author = {Shaoheng Yang and Haohao Hu and Zhengbang Tong and Haojun Lin and Hongbo Zeng and Yang Hu and Zhuohong Yang},
+keywords = {Graphene oxide, Epoxy vitrimer, Schiff base, Aging resistant, Anti-corrosion},
+abstract = {Epoxy coatings are widely and promisingly used as anticorrosive coatings matrix for marine equipment and engineering protection because of their excellent strength and anti-corrosive performance. However, the intrinsic characteristic of traditional epoxy thermosets causes the resulting coating with unrecyclability, inadequate outdoor aging resistance and poor reprocessable performance. To address the limitations of traditional epoxy coatings, this research used polyether amine D230 and bio-based vanillin to create an amine curing agent (VAN-D230) containing imine bonds. This curing agent was subsequently combined with modified graphene oxide and epoxy resin to produce the composite coatings, which achieved tensile strength, bending strength, storage modulus at room temperature, and a glass transition temperature of 63.43 MPa, 114.97 MPa, 3799 MPa, and 96.2 °C, respectively. Furthermore, the composite material exhibited excellent stress relaxation properties, allowing physical restoration at 190 °C and 20 MPa, with a recovery rate exceeding 89 %. The cured samples also demonstrated outstanding aging resistance for 40 days and anti-corrosion behavior lasting 100 days. Taken together, this work offers a promising procedure to develop a sustainable vanillin-based imine curing agent for epoxy coatings with excellent mechanical strength, recyclability, aging resistance, reprocessability and anti-corrosion.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025104518,
+title = {Generalization-preserving adaptation of vision-language models for open-vocabulary segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104518},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104518},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002413},
+author = {Zhen Chen and Hao Tang and Shiliang Zhang},
+keywords = {Generalization-preserving model adaptation, Vision-language models, Open-vocabulary segmentation},
+abstract = {Recent progress in large-scale Vision-Language Models (VLMs) has significantly advanced open-vocabulary segmentation. Previous works typically either generate class-agnostic masks and classify them with frozen VLMs, or align the mask generator features with VLM text features. These approaches face challenges of weak spatial discrimination ability of frozen VLMs and poor generalization due to unreliable vision-language alignment. This paper introduces a novel Generalization-Preserving Adaptation (GPA) of VLMs for open-vocabulary segmentation. GPA enhances the spatial discrimination capability of pre-trained VLMs through an efficient fine-tuning scheme, which incorporates a spatial adaptation module comprising spatial dependency modeling and low-rank feature modulation for preserving the feature space. Additionally, GPA proposes a context-aware feature aggregation module to extract mask features better aligned with the VLM features for mask classification. It performs decoupled context modeling that generates object-agnostic contextualized feature map and object-specific classification maps for accentuating discriminative and contextual clues. By maintaining the original VLM feature distribution for vision-language alignment, GPA effectively preserves the generalization capabilities of VLMs while enhancing segmentation performance. Extensive experiments on multiple open-vocabulary panoptic and semantic segmentation benchmarks demonstrate both superior effectiveness and generalization capabilities compared to previous works.}
+}

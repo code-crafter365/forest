@@ -1,0 +1,13 @@
+@article{MENG2025117753,
+title = {Adaptive meta-learning stochastic gradient Hamiltonian Monte Carlo simulation for Bayesian updating of structural dynamic models},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117753},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117753},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000258},
+author = {Xianghao Meng and James L. Beck and Yong Huang and Hui Li},
+keywords = {Bayesian inference, Structural dynamics, Markov chain Monte Carlo, Meta-learning, Neural networks},
+abstract = {In the last few decades, Markov chain Monte Carlo (MCMC) methods have been widely applied to Bayesian updating of structural dynamic models in the field of structural health monitoring. Recently, several MCMC algorithms have been developed that incorporate neural networks to enhance their performance for specific Bayesian model updating problems. However, a common challenge with these approaches lies in the fact that the embedded neural networks often necessitate retraining when faced with new tasks, a process that is time-consuming and significantly undermines the competitiveness of these methods. This paper introduces a newly developed adaptive meta-learning stochastic gradient Hamiltonian Monte Carlo (AM-SGHMC) algorithm. The idea behind AM-SGHMC is to optimize the sampling strategy by training adaptive neural networks, and due to the adaptive design of the network inputs and outputs, the trained sampler can be directly applied to various Bayesian updating problems of the same type of structure without further training, thereby achieving meta-learning. Additionally, practical issues for the feasibility of the AM-SGHMC algorithm for structural dynamic model updating are addressed, and two examples involving Bayesian updating of multi-story building models with different model fidelity are used to demonstrate the effectiveness and generalization ability of the proposed method.}
+}

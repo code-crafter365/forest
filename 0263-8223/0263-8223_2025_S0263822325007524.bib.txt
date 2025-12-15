@@ -1,0 +1,13 @@
+@article{LIANG2025119587,
+title = {Dynamic mechanical response of corrugated & flat rolling (CFR) titanium/steel composite plate under ballistic impact},
+journal = {Composite Structures},
+volume = {372},
+pages = {119587},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119587},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007524},
+author = {Zirui Liang and Luze Ren and Jingyu Liu and Chuanhao Lu and Zhongwei Zhang and Yong Cao},
+keywords = {Ballistic impact behavior, CFR titanium/steel composite plates, Numerical simulation, Critical delamination velocity},
+abstract = {This study systematically investigates the dynamic mechanical behavior of corrugated & flat rolling (CFR) titanium/steel composite plates under ballistic impact. A novel metric, the critical delamination velocity (vcd), is introduced to assess the impact resistance of CFR titanium/steel composite plates. The research reveals that the position of impact on the corrugation interface curve significantly influences the failure modes. Detailed three-dimensional finite element simulations were performed to provide insights into the penetration process and energy absorption characteristics of the CFR titanium/steel composite plate, as well as the influence of the interfacial fracture toughness on impact performance. The numerical simulation reveals that the failure mode of flipped-cover possesses superior energy absorption efficiency compared to the shearing plug mode, primarily due to the enhanced plastic deformation. Furthermore, by varying the interfacial fracture toughness in the numerical model, it is demonstrated that increasing the fracture toughness can effectively reduce delamination and global plastic deformation. Additionally, the influence of interfacial geometry on mechanical response was systematically investigated by comparing the impact behavior of plates featuring corrugated and planar interfaces. The results indicate that the corrugated interface enhances the impact resistance of the composite plates by increasing the contact area and altering the failure modes.}
+}

@@ -1,0 +1,13 @@
+@article{BORISOVA2025114821,
+title = {Controlling fibrinogen adsorption on polyelectrolyte multilayer films by modifying self-assembly conditions},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114821},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114821},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003285},
+author = {Borislava Borisova and Sonia Apostolova and Irina Georgieva and Marina Ivanova and Rumen Krastev and Rumiana Tzoneva and Tonya Andreeva},
+keywords = {Polyelectrolyte multilayers (PEM), Surface properties, Wettability, Surface charge, Coatings, Fibrinogen adsorption},
+abstract = {This study investigates the relationship between fibrinogen adsorption on polyelectrolyte multilayer (PEM) films and their surface properties. The films were constructed using weak polyelectrolytes, poly(acrylic acid) (PAA), and poly(allylamine hydrochloride) (PAH), with polyethyleneimine (PEI) as a precursor layer. Different deposition conditions, such as pH levels (3.5 and 7.0) and the type of outermost layer (PAA or PAH), were used to create films with tunable hydrophilicity and surface charge. The thickness of these films was measured using ellipsometry, and surface wettability was assessed via the contact angle method. Fibrinogen adsorption was quantified using quartz crystal microbalance with dissipation monitoring (QCM-D) and enzyme immunoassay (EIA) method, focusing on its D-domain exposure concerning surface thrombogenicity. Results indicated that PEM films are generally hydrophilic. Among them, PAH, the outermost layer, is the least hydrophilic and, therefore, has the lowest surface energy. Film thickness varied with the pH of the solutions, creating a mechanism to control layer parameters. Fibrinogen adsorption was more pronounced on less hydrophilic surfaces, which were thinner, viscoelastic, more hydrated, and preferentially positively charged. These findings suggest that by controlling surface properties, one can enhance hemocompatibility by influencing fibrinogen adsorption and subsequent platelet adhesion and activation.}
+}

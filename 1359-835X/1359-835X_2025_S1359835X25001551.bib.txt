@@ -1,0 +1,13 @@
+@article{LIANG2025108861,
+title = {A novel anti-icing/deicing composite coating with superior anti-corrosion and self-healing capabilities for magnesium alloys},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108861},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108861},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001551},
+author = {Kang Liang and Cong Liu and Haoyang Tao and Jinglai Zhang and Li Wang},
+keywords = {Nano-structures, Corrosion, Surface properties, Wettability},
+abstract = {Numerous photothermal superhydrophobic coatings have been applied for anti-icing/deicing. However, they are rarely utilized on the magnesium (Mg) substrates due to the rapid heat loss and vulnerable corrosion resistance of Mg substrates. A novel hybrid coating, MDPCS, is introduced on Mg alloys integrating with efficient anti-icing/deicing, long-term anti-corrosion, and self-healing features. MAO intercalation simultaneously works as protective layer, thermal insulation layer and reservoir of corrosion inhibitors, thus, “kill three birds with one stone”. The freezing time is extended from 21 s to 670 s after covering the MDPCS coating, and the melting time is only 48 s (1 W cm−2 NIR). More importantly, the composite coating can resist 60 days of immersion in 3.5 wt% NaCl solution and 21 days of salt spray test, and can also exhibit excellent self-healing performance in corrosive environments.}
+}

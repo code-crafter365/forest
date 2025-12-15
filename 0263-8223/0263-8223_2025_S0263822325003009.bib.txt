@@ -1,0 +1,13 @@
+@article{SHI2025119135,
+title = {Improved online secondary path modelling for multiharmonic active vibration control in shape memory polymer composites},
+journal = {Composite Structures},
+volume = {363},
+pages = {119135},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119135},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003009},
+author = {Weikai Shi and Xudong Zhang and Peilei Xu and Jianlong Gao and Pengxiang Zhao and Yaxiang Sun and Xin Lan and Jinsong Leng and Yanju Liu},
+keywords = {Active vibration control, Filtered-x least mean square, Shape memory composite, Macro fiber composite, Online secondary path modelling},
+abstract = {This manuscript introduces a new approach to active vibration control (AVC), which involves the application of enhanced online secondary path modelling through a modified filtered-x least mean squares (FxLMS) algorithm. A special feature of this proposed control method is the use of an original adaptive variable step size (VSS) LMS algorithm to adjust the secondary path modelling filter. The adaptive step size is dynamically adjusted based on the modelling filter error signal, which is continuously monitored using a single exponential smoothing technique. The incorporation of the fractional derivative with the steepest descent method enhances the convergence speed of secondary path identification. Based on numerical simulations employing multilinear spectral and random vibration signals, the proposed method demonstrates advantages in convergence speed, system stability and model accuracy compared to typical existing algorithms. Specifically, the system modelling convergence rate is improved by 60 %, and the residual error convergence rate is improved by 72 %. In practical terms, the adaptive algorithm was implemented in shape memory polymer composites (SMPCs) to accommodate configuration variations. Employing multiharmonic AVC with macro fiber composite (MFC) actuators, the dynamic behavior and vibration control efficiency of SMPCs with varying carbon fiber volume fractions were subjected to comprehensive experiments and analyses. Results from the study showcase the efficacy of the proposed adaptive control strategy in significantly damping vibrations in both the original and bent shapes of SMPCs, suggesting the versatility and robustness of the control approach across different configurations. Meanwhile, this study provides support for vibration control of SMPCs in dynamic applications.}
+}

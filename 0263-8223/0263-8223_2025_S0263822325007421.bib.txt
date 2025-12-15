@@ -1,0 +1,13 @@
+@article{LU2025119577,
+title = {Numerical and experimental study on the open-hole tensile properties of angle-ply carbon/glass hybrid laminates based on thin-ply carbon fiber prepreg},
+journal = {Composite Structures},
+volume = {372},
+pages = {119577},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119577},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007421},
+author = {Wenlong Lu and Haotian Yang and Hao Dong and Dingding Chen and Junfeng Hu},
+keywords = {Angle-ply, Hybrid laminates, Open-hole tensile, Pseudo-ductility, Finite element simulation},
+abstract = {The angle-ply fiber-reinforced polymer (FRP) laminates and carbon/glass (C/G) hybrid laminates could exhibit nonlinear failure characteristics, providing an obvious warning signal before the failure of material, which is defined as pseudo-ductility. Moreover, in practical engineering applications, FRP structures often require an open hole to meet connection requirements, resulting in strength reduction of structures. In this study, four types of angle-ply C/G hybrid laminates, 0G0C, 15G15C, 45G45C, and 75G15C, were fabricated. Static tensile tests and finite element simulations were applied to research the influence of ply angle and open-hole on the pseudo-ductility of C/G hybrid laminates. The 0G0C laminate achieved a pseudo-ductile damage process through stable delamination around slits, with pseudo-ductile strains reaching 1.04 %. With the increased ply angle, the influence of slits on delamination was weakened. The introduction of hole results in tensile strength reductions of 51.8 %, 52.2 %, 48.7 %, and 31.6 % for the four structures, respectively. A multi-scale approach was applied to analyze the angle-ply laminates. The micro-scale model exhibited that the failure mode transitioned from fiber fracture to matrix damage with the increase of ply angle. The meso-scale model accurately described the damage of the angle-ply laminates, consistent with experimental observations.}
+}

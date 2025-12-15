@@ -1,0 +1,13 @@
+@article{WANG2025104229,
+title = {Multi-Scale Adaptive Skeleton Transformer for action recognition},
+journal = {Computer Vision and Image Understanding},
+volume = {250},
+pages = {104229},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104229},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003102},
+author = {Xiaotian Wang and Kai Chen and Zhifu Zhao and Guangming Shi and Xuemei Xie and Xiang Jiang and Yifan Yang},
+keywords = {Skeleton-based action recognition, Transformer, Position encoding, Multi-scale representation},
+abstract = {Transformer has demonstrated remarkable performance in various computer vision tasks. However, its potential is not fully explored in skeleton-based action recognition. On one hand, existing methods primarily utilize fixed function or pre-learned matrix to encode position information, while overlooking the sample-specific position information. On the other hand, these approaches focus on single-scale spatial relationships, while neglecting the discriminative fine-grained and coarse-grained spatial features. To address these issues, we propose a Multi-Scale Adaptive Skeleton Transformer (MSAST), including Adaptive Skeleton Position Encoding Module (ASPEM), Multi-Scale Embedding Module (MSEM), and Adaptive Relative Location Module (ARLM). ASPEM decouples spatial–temporal information in the position encoding procedure, which acquires inherent dependencies of skeleton sequences. ASPEM is also designed to be dependent on input tokens, which can learn sample-specific position information. The MSEM employs multi-scale pooling to generate multi-scale tokens that contain multi-grained features. Then, the spatial transformer captures multi-scale relations to address the subtle differences between various actions. Another contribution of this paper is that ARLM is presented to mine suitable location information for better recognition performance. Extensive experiments conducted on three benchmark datasets demonstrate that the proposed model achieves Top-1 accuracy of 94.9%/97.5% on NTU-60 C-Sub/C-View, 88.7%/91.6% on NTU-120 X-Sub/X-Set and 97.4% on NW-UCLA, respectively.}
+}

@@ -1,0 +1,13 @@
+@article{XU2025104325,
+title = {Dynamic Anchor: Density Map Guided Small Object Detector for Tiny Persons},
+journal = {Computer Vision and Image Understanding},
+volume = {255},
+pages = {104325},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104325},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000487},
+author = {Xingzhou Xu and Zhaoyong Mao and Xin Wang and Qinhao Tu and Junge Shen},
+keywords = {Adaptive anchor, Small object detection, Density map guidance, Knowledge distillation},
+abstract = {With the application of aerial and space-based equipments, such as drones in the search and rescue process, there is an increasing demand on the detection of small and even tiny human targets. However, most existing detectors rely on generating smaller and denser anchors for small target detection, which introduces a high number of redundant negative anchor samples. To alleviate this issue, we propose a novel density map-guided tiny person detector with dynamic anchor. Specifically, we elaborately design an Anchor Proposals Mask (APM) module to effectively eliminate negative anchor samples and adaptively adjust anchor distribution with the guidance of density maps produced by Density Map Generator (DMG). To promote the quality of the density map, we develop a Multi-Scale Feature Distillation (MSFD) module and incorporate the Focal Inverse Distance Transform (FIDT) map to conduct knowledge distillation for DMG with the assistance of the crowd counting network. Extensive experiments on the TinyPerson and VisDrone datasets demonstrate that our method significantly enhances the performance of two-stage detectors in terms of average precision (AP) and average recall (AR) while effectively reducing the impact of negative anchor boxes.}
+}

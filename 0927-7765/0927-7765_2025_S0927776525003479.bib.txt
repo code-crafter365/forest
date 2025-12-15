@@ -1,0 +1,13 @@
+@article{CHEN2025114840,
+title = {Molecular landscape of robust membrane disruption by Janus MoSSe nanosheet},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114840},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114840},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003479},
+author = {Jiao Chen and Zonglin Gu},
+keywords = {Janus MoSSe, Bacterial membrane perturbation, Membrane insertion, Lipids extraction, Molecular dynamics simulation},
+abstract = {Drug-resistant bacteria have become a severe threat to global health, endangering human life. Traditional antibiotics exhibit antibacterial activity by targeting specific structures or proteins, yet repeated bacterial exposure to antibiotics often leads to resistance. Thanks to their unique antibacterial mechanisms, distinct from traditional antibiotics, nanomaterials have shown significant promise as antibacterial agents. Specifically, transition metal dichalcogenide (TMD) nanomaterials exhibit excellent antibacterial performance. However, the potential antibacterial properties of Janus TMD nanomaterials, such as MoSSe, a critical subcategory of TMDs, and their underlying molecular mechanisms remain unexplored. In this study, we employ molecular dynamics (MD) simulations to investigate the interactions between Janus MoSSe nanosheets and bacterial membranes, aiming to explore the potential antibacterial activity of Janus MoSSe. Our simulations reveal that both triangular and rectangular MoSSe nanosheets can insert into and extract lipids from the membrane. Structural analyses demonstrate that the bacterial membrane undergoes significant deformation upon MoSSe insertion, severely affecting its order, fluidity, and integrity. Dynamic analyses show that van der Waals interaction mediates the spontaneous insertion of Janus MoSSe into the membrane. Free energy calculations further confirm that the spontaneous insertion of MoSSe is energetically favorable. Additionally, we find that triangular MoSSe penetrates the bacterial membrane more readily than rectangular MoSSe due to its sharper corners, which may propose an important principle into the design of antibacterial nanomaterials. Our findings not only provide the first evidence of the antibacterial activity of Janus nanomaterial monolayers, but also propose a possible design principle for antibacterial nanomaterial, which is useful for future application of antibacterial nanomaterial agents.}
+}

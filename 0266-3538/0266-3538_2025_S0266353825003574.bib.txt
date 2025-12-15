@@ -1,0 +1,13 @@
+@article{LIU2025111389,
+title = {Necklace-structured FeCoNi@N-doped porous carbon nanofibers with strong magnetic coupling for high-performance microwave absorption},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111389},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111389},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003574},
+author = {Shuai Liu and Qunfu Fan and Sijia Li and Yicang Huang and Yujie Chen and Hezhou Liu},
+keywords = {Microwave absorption, Magnetic coupling, Interface polarization, Coaxial electrospinning, Necklace-like structure},
+abstract = {One-dimensional (1D) carbon-based magnetic fibers, characterized by rational multicomponent regulation and refined microstructure design, have emerged as promising candidates for high-performance electromagnetic wave (EMW) absorption. However, conventional 1D absorbers often suffer from densely aggregated and randomly oriented magnetic nanoparticles embedded in carbon matrices, which severely restricts magnetic coupling and consequently compromises magnetic loss capabilities. In this study, 1D necklace-structured nitrogen-doped porous carbon nanofibers embedded with FeCoNi nanoparticles (FeCoNi@NPCNFs) were successfully fabricated through a synergistic combination of hydrothermal synthesis, coaxial electrospinning, and controlled carbonization. By precisely regulating the spatial arrangement of magnetic nanoparticles, we achieved uniform dispersion and enhanced interparticle magnetic interactions within the NPCNFs, resulting in stronger magnetic anisotropy and elevated saturation magnetization. Impressively, the well-designed necklace-like FeCoNi@NPCNFs demonstrated a minimum reflection loss (RLmin) of −52.36 dB at an ultrathin thickness of 1.46 mm, accompanied by a broad effective absorption bandwidth (EAB) of 5.52 GHz (11.70–17.22 GHz) measured at 1.66 mm, which significantly outperformed single-component FeCoNi@CNFs (RLmin = −17.08 dB, EAB = 4.75 GHz). Such excellent EMW absorption performance can be attributed to the multiple magnetic coupling networks, as well as the multiple interface polarization among the biphasic FeCoNi alloys, N-doped carbon species, and the core-shell porous structure. This work proposes a groundbreaking design strategy for high-efficiency, ultra-thin magnetic fibrous EMW absorbers.}
+}

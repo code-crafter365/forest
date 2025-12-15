@@ -1,0 +1,11 @@
+@article{BLANCO2025108375,
+title = {Covering letter for the CompTest2023 special issue},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108375},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108375},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24003725},
+author = {Norbert Blanco and Laura Carreras and Josep Costa and Jordi Renart}
+}

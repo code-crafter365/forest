@@ -1,0 +1,13 @@
+@article{BLUMBERG2025104234,
+title = {MultiInv: Inverting multidimensional scaling projections and computing decision maps by multilateration},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104234},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104234},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000755},
+author = {Daniela Blumberg and Yu Wang and Alexandru Telea and Daniel A. Keim and Frederik L. Dennig},
+keywords = {Inverse projections, Dimensionality reduction, Data visualization},
+abstract = {Inverse projections enable a variety of tasks such as the exploration of classifier decision boundaries, creating counterfactual explanations, and generating synthetic data. Yet, many existing inverse projection methods are difficult to implement, challenging to predict, and sensitive to parameter settings. To address these, we propose to invert distance-preserving projections like Multidimensional Scaling (MDS) projections by using multilateration – a method used for geopositioning. Our approach finds data values for locations where no data point is projected under the key assumption that a given projection technique preserves pairwise distances among data samples in the low-dimensional space. Being based on a geometrical relationship, our technique is more interpretable than comparable machine learning-based approaches and can invert 2-dimensional projections up to D−1 dimensional spaces if given at least D data points. We compare several strategies for multilateration point selection, show the application of our technique on three additional projection techniques apart from MDS, and use established quality metrics to evaluate its accuracy in comparison to existing inverse projections. We also show its application to computing decision maps for exploring the behavior of trained classification models. When the projection to invert captures data distances well, our inverse performs similarly to existing approaches while being interpretable and considerably simpler to compute.}
+}

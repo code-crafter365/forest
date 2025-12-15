@@ -1,0 +1,13 @@
+@article{KIM2025115054,
+title = {Controlled drug release properties of allopurinol-incorporated double-layered chitosan/starch patches for gout therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115054},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115054},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005612},
+author = {Kyeongjung Kim and Han-Seong Kim and Min-Jin Hwang and Chang-Moon Lee and Se-woon Choe and WonWoo Lee and Kwangcheol Casey Jeong and Soon-Do Yoon},
+keywords = {Allopurinol-incorporated double-layered patches, Drug release properties, Xanthine oxidase inhibition},
+abstract = {To develop a sustained transdermal drug delivery system for gout treatment, double-layered patches containing allopurinol (ALP) were prepared using starch, chitosan, polyvinyl alcohol, and plasticizers. The chitosan-based first layer was designed to modulate the ALP release from the starch-based second layer, enabling sustained drug delivery for continuous therapeutic effect. The physicochemical properties of ALP and the prepared patches were characterized by physical properties, FE-SEM, FT-IR, 1H NMR and 13C NMR. The in vitro release profile was evaluated using artificial and porcine skin models. ALP was significantly released in a delayed manner over 48 h in artificial skin and 60 h in porcine skin, with release rates 2.32–4.16-fold and 1.91–5.77-fold slower, respectively, compared to single-layer patches. Mathematical modeling using the Higuchi, Fickian diffusion, and Korsmeyer–Peppas models indicated a pseudo-Fickian diffusion mechanism in buffer solution, whereas a non-Fickian diffusion mechanism predominated in both artificial and porcine skin. In addition, the transdermal penetration of ALP was visualized using riboflavin-loaded patches applied to porcine skin/agar block models. Xanthine oxidase inhibitory activity and colorimetric detection of ALP in the release solution confirmed the therapeutic potential of the double-layered patches for gout treatment. Cytotoxicity evaluation using HaCaT keratinocytes revealed excellent biocompatibility of the prepared double-layered patches.}
+}

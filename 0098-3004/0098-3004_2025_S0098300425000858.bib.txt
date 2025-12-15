@@ -1,0 +1,13 @@
+@article{CHEN2025105935,
+title = {Hybrid supervised prestack three-parameter inversion method based on physical equation driving},
+journal = {Computers & Geosciences},
+volume = {201},
+pages = {105935},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105935},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000858},
+author = {Yaojie Chen and Shulin Pan and Yinghe Wu and Ziyu Qin and Shengbo Yi and Dongjun Zhang},
+keywords = {Seismic inversion, Hybrid supervised learning, Unet-GRU network, Physical equation},
+abstract = {Seismic inversion methods based on deep learning have made significant progress. However, supervised learning networks face challenges such as limited labeled data and poor generalization in transfer learning. Meanwhile, unsupervised learning inversion methods, due to the absence of labeled constraints, often suffer from insufficient inversion accuracy. In order to further improve the inversion accuracy, a hybrid supervised pre-stack three-parameter inversion method driven by physical equations is proposed. This method integrates supervised and unsupervised learning, driven by physical equations and constrained by low-frequency models, while employing a multi-trace inversion strategy. It effectively enhances the continuity of elastic parameter inversion and addresses the accuracy degradation caused by the scarcity of labeled data in seismic inversion. To fully integrate high- and low-frequency features in the inversion results and further refine accuracy, the Unet-GRU network is introduced, combining the U-shaped Network (Unet) with the Gated Recurrent Unit (GRU). In this method, a supervised network is first trained on the Marmousi2 model to learn the mapping relationship between seismic data and inversion parameters. After training, the network is applied to field seismic data to generate initial inversion results. These results are then used as inputs for the unsupervised network, followed by forward modeling processing of the final output. By minimizing the error between synthetic and observed seismic data through iterative optimization, the final inversion results are obtained. The feasibility of this method is validated using the Overthrust model, and its robustness is further tested by adding noise. Finally, the approach is applied to real field data and compared with traditional inversion methods. The results demonstrate that the proposed method significantly improves inversion accuracy and offers strong practical applicability in seismic exploration and development.}
+}

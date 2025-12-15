@@ -1,0 +1,13 @@
+@article{YAO2025118581,
+title = {Design-manufacturing-performance of electromagnetic absorbing/load bearing three-dimensional honeycomb woven composites},
+journal = {Composite Structures},
+volume = {351},
+pages = {118581},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118581},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007098},
+author = {Wenbin Yao and Xinghai Zhou and Yuan Gao and Yongfang Qian and Lihua Lyu},
+keywords = {Three-dimensional honeycomb woven composite, EMW absorption properties, Bending properties, EMW absorption mechanism, Failure mechanism},
+abstract = {Structural electromagnetic wave (EMW) absorbing composites play a critical role in both civilian and military applications. However, traditional sandwich honeycomb EMW absorbing composites have poor out-of-plane mechanical properties and load-bearing performance.This study introduces the development of a three-dimensional honeycomb woven composite (3DHWC) that integrates EMW absorption and load-bearing capabilities. A weaving loom was used to fabricate a three-dimensional honeycomb woven structure fabric (3DHSWF) with varying structural parameters. Subsequently, the composites were formed using carbon black (CB), multi-walled carbon nanotubes (MWCNTs), and carbonyl iron powder (CIP) as hybrid absorbers, epoxy resin as the matrix, combined with the vacuum-assisted resin transfer molding (VARTM) process. Testing confirmed the material’s excellent EMW absorption and mechanical properties, achieving a maximum reflection loss (RL) of −30.9 dB and an adequate EMW absorption bandwidth (EAB) of 14.58 GHz. The maximum bending load reached 5799.1 N, with no delamination observed in the samples. This material demonstrates outstanding EMW absorption performance and exhibits superior load-bearing capacity while maintaining structural integrity. Our research provides valuable insights into the design of honeycomb EMW absorbing composites, offering significant advancements in EMW absorption efficiency and bending mechanical properties.}
+}

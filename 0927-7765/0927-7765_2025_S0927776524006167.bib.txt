@@ -1,0 +1,13 @@
+@article{LIU2025114357,
+title = {Ginger vesicle as a nanocarrier to deliver 10-hydroxycamptothecin},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114357},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114357},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006167},
+author = {Zhongkai Liu and Jin Huang and Mengqi Liu and Liying Cui and Xiaoyu Li and Qi Meng and Xiaoshuai Wang and Shengkai Liu and Jinsong Peng and Zhiguo Liu},
+keywords = {Ginger Vesicles, 10-Hydroxycamptothecin, Nano formulation, Anticancer},
+abstract = {In this study, we developed the ginger vesicles as nanocarrier for the targeted delivery of 10-hydroxy-camptothecin (HCPT), aiming to improve its therapeutic efficacy while minimizing the systemic toxicity. Ginger vesicles exhibit a wide spectrum of biological activities and excellent biocompatibility, rendering them as the promising nanocarriers candidates for anticancer drug delivery. The ginger vesicles with an average diameter of 86.83 nm were successfully prepared by utilizing a gradient centrifugation method. The loading conditions for HCPT into the ginger vesicles were optimized through the addition of an appropriate amount of Ca2+. The loading efficiency, size distribution, stability, and cytotoxicity profile of the ginger vesicles were comprehensively characterized using UV spectroscopy, transmission electron microscopy (TEM), dynamic light scattering (DLS), and cytotoxicity experiments. Furthermore, in vitro cytotoxicity studies confirmed that ginger vesicles loaded with HCPT exhibited high inhibitory activity against tumor cells as evidenced by fluorescence imaging and flow cytometry analysis. Most importantly, in vivo antitumor assay demonstrated that the ginger vesicles loaded with HCPT displayed remarkable inhibitory effects on tumor growth. In summary, our results demonstrated the potential application of the ginger vesicles as ideal nanocarriers for delivering HCPT.}
+}

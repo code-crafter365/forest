@@ -1,0 +1,13 @@
+@article{SHEN2025114471,
+title = {Sandwich-type electrochemical immunosensor based on Au NPs/3D hierarchical porous carbon network and Au NPs/Cu9S8 nanocages for the detection of alpha-fetoprotein},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114471},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114471},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007306},
+author = {Qi Shen and Jianjun Ding and Zengsheng Guo and Chenchen Wang and Yuhan Zhang and Cuiping Lin and Yiqiang Sun and Lifeng Hang},
+keywords = {, , , },
+abstract = {Alpha-fetoprotein (AFP), serves as a reliable and vital biomarker for precise diagnosis and effective monitoring of hepatocellular carcinoma, requires precise detection. Herein, a sandwich-structured electrochemical immunosensor was crafted, employing three-dimensional layered porous carbon modified with gold nanoparticles (Au NPs) as the substrate and Au NPs/Cu9S8 as the labeling compound for accurate and sensitive detection of AFP. Due to the effective coordination between the 3D carbon network, Au NPs, and hollow Cu9S8 nanocubes, the sandwich-structured electrochemical immunosensor was able to produce three distinct response signals via various detection techniques, demonstrating a broad linear range (0.0001–400 ng/mL), exceptional sensitivity, and a remarkably low detection limit of 2.63 fg/mL. Moreover, the constructed immunosensor could be used to detect AFP in human serum. This research may offer a novel material framework for developing highly sensitive immunosensors.}
+}

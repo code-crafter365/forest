@@ -1,0 +1,13 @@
+@article{TAVKARI2025108568,
+title = {Thermal characterization of Xenon-Arc flash lamp heating system for automated fiber placement (AFP) of thermoplastic composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108568},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108568},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005669},
+author = {Devang Tavkari and Vishnu V. Ganesan and Sandesh Amgai and Ankur Jain and Paul Davidson},
+keywords = {Composite manufacturing, Automated fiber placement, Infrared thermography, Thermal simulation, Additive manufacturing},
+abstract = {In this study, a systematic experimental and simulations-based characterization of key thermal aspects of the arc-flash lamp based AFP heating is presented. Ex-situ measurements of heat flux output from the flash lamp as well as the resulting temperature field on a material sample are carried out in a geometry representative of actual manufacturing conditions, using a heat flux sensor and infrared thermography. A thermal simulation model is developed to predict the temperature field resulting from the measured heat flux data. Good agreement is found between experimental data and simulation predictions. This work contributes towards developing a fundamental understanding of heat transfer processes during AFP manufacturing. Data presented here may be of broad benefit to AFP-related research, and may contribute towards process design and optimization in order to further expand the capabilities of this promising additive manufacturing technology.}
+}

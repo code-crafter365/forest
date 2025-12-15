@@ -1,0 +1,13 @@
+@article{WEI2025117786,
+title = {Multi-domain topology optimization of connectable lattice structures with tunable transition patterns},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117786},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117786},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000581},
+author = {Peng Wei and Xinglong Chen and Hui Liu},
+keywords = {Topology optimization, Lattice, Connectivity, Graded interface, Multi-domain},
+abstract = {The connectivity issue has always been a critical topic in multi-domain topology optimization of lattice structures. In this work, a novel multi-domain topology optimization approach is proposed, in which a set of transitional unit cells that follow a particular varying pattern is introduced between adjacent base microstructures to achieve optimized, multi-class, and well-connected multi-scale structures. Such smooth and tunable transition patterns are realized by interpolation of bar diameter, shape-morphing, and parameterized implicit functions, which exhibit superior adaptability to disconnected microstructures with intricate geometric configurations. To embed the varying transitional unit cells at the specified interface precisely, a graded interface model that extends from the erosion-based interface identification method is established utilizing a linear density filter. Additionally, a SIMP-based multi-domain interpolation scheme considering both base microstructures and transitional unit cells is proposed, in which each piece of interface layer can be further separately defined to navigate situations with more than two lattice material phases. Several 2D and 3D numerical examples are presented to demonstrate the stability, effectiveness, and scalability of the proposed method.}
+}

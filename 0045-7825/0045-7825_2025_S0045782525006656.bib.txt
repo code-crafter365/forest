@@ -1,0 +1,13 @@
+@article{COLANERA2025118393,
+title = {Quantized local reduced-order modeling in time (ql-ROM)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118393},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118393},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006656},
+author = {Antonio Colanera and Luca Magri},
+keywords = {Nonlinear reduced-order modeling, Clustering, Nonlinear dynamics},
+abstract = {Spatiotemporally chaotic systems, such as the solutions of some nonlinear partial differential equations, are dynamical systems that evolve toward a lower dimensional manifold. This manifold has an intricate geometry with heterogeneous density, which makes the design of a single (global) nonlinear reduced-order model (ROM) challenging. In this paper, we turn this around. Instead of modeling the manifold with one single model, we partition the manifold into clusters within which the dynamics are locally modeled. This results in a quantized local reduced-order model (ql-ROM), which consists of (i) quantizing the manifold via unsupervised clustering; (ii) constructing intrusive ROMs for each cluster; and (iii) connecting the switching of local models with a change of basis and assignment functions. We test the method on two nonlinear partial differential equations, i.e., the Kuramoto-Sivashinsky and 2D Navier-Stokes equations (Kolmogorov flow), across bursting, chaotic, quasiperiodic, and turbulent regimes. The local models are built via Galerkin projection onto the local principal directions, which are centered on the cluster centroids. The dynamics are modeled by switching the local ROMs based on the cluster proximity. The proposed ql-ROM framework has three advantages over global ROMs (g-ROMs): (i) numerical stability, (ii) improved short-term prediction accuracy in time, and (iii) accurate prediction of long-term statistics, such as energy spectra and probability distributions. The computational overhead is minimal with respect to g-ROMs. The proposed framework retains the interpretability and simplicity of intrusive projection-based ROMs, whilst overcoming their limitations in modeling complex, high-dimensional, nonlinear dynamics.}
+}

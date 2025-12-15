@@ -1,0 +1,10 @@
+@article{WANG2025114943,
+title = {WITHDRAWN: A three-stage differentiation method for xeno-free iMSCs from hPSCs via gelatin screening},
+journal = {Colloids and Surfaces B: Biointerfaces},
+pages = {114943},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114943},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004503},
+author = {Linli Wang and Qiang Li and Yuanyuan Li and Luyao Chen and Jianguo Yang and Peizheng Wang and Tiancheng Zhou and Yu Liu and Yuehua Chen and Hong Wang}
+}

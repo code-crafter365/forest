@@ -1,0 +1,13 @@
+@article{WANG2025118635,
+title = {Damage evolution and failure mechanism of 2.5D woven composite tubes under quasi-static lateral compression},
+journal = {Composite Structures},
+volume = {351},
+pages = {118635},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118635},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007633},
+author = {Yajuan Wang and Zunqing Wang and Xiaoxu Wang and Diantang Zhang},
+keywords = {2.5D woven composite tube, Lateral compression, Failure mechanism, Thickness-to-diameter ratio},
+abstract = {2.5D woven composites are ideal candidate materials for deep-sea pressure tubes owing to their excellent out-of-plane properties. This paper presents the damage evolution and failure mechanism of 2.5D woven composite tubes under quasi-static lateral compression. To conduct this study, 2.5D woven composite tubes with different thickness-to-diameter ratios, 0.04, 0.07 and 0.10, were designed and prepared. The quasi-static lateral compression tests were carried out in order to evaluate the progressive damage analysis, combining high speed photographic image with acoustic emission technologies. The results show that the increase of the ratio of thickness-to-diameter, the deformation and shear failure of the sample can be inhibited obviously. Due to the enhanced interlayer interaction, the lateral stiffness of the sample is obviously improved, so the lateral bearing stability of the sample is improved. When the peak load of samples with the thickness-to-diameter ratio of 0.1 reached 11.51 kN, it exceeded that of samples with thickness-to-diameter ratios of 0.04 and 0.07 by 450% and 82%, respectively. Furthermore, the failure mechanisms of samples with the thickness-to-diameter ratio of 0.1 were controlled by delamination fracture, whereas that of 0.04 and 0.07 were mainly influenced by shear failure and delamination failure, respectively.}
+}

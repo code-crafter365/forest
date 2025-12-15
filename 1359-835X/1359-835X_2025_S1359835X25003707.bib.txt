@@ -1,0 +1,13 @@
+@article{LIU2025109076,
+title = {A mechanical metamaterial with programmable arbitrary quasi-zero-stiffness regions},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109076},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109076},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003707},
+author = {Xin Liu and Shuai Chen and Xiaojun Tan and Shuai Li and Bing Wang},
+keywords = {Mechanical metamaterial, Programmability, Quasi-zero-stiffness, Bandgap characteristics},
+abstract = {Quasi-zero-stiffness (QZS) structures have high potential in low-frequency vibration isolation. But current parallel-connected positive- and negative-stiffness-based methods have issues like loose structure, low reliability, and single QZS region. To address this problem, a metamaterial with arbitrarily programmable QZS regions (load or width) is presented in this paper, realizing strong programmability. Its base structures, from straight-beam negative-stiffness structure rotation, ensure better stability and prevent out-of-plane buckling. Rational assembly enables programmable design for various loads and QZS region widths. A stepping strategy overcomes the single-working-position problem of traditional QZS structures. The results show that it has multiple working load platforms and excellent low-frequency isolation. The QZS mechanism is entirely derived from the geometry of the structure, which is independent of the material. It could offer a promising reference for researchers in related fields and supply a brand new solution for compact multi-load QZS isolators.}
+}

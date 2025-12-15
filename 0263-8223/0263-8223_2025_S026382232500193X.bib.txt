@@ -1,0 +1,13 @@
+@article{WANG2025119028,
+title = {Adaptive 3D multi-patch isogeometric analysis for orthotropic solid},
+journal = {Composite Structures},
+volume = {360},
+pages = {119028},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119028},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500193X},
+author = {Lin Wang and Tiantang Yu and Weihua Fang},
+keywords = {Three-dimensional elasticity, Orthotropic material, Isogeometric analysis, Truncated hierarchical NURBS, Multi-patch modeling, Adaptivity},
+abstract = {This paper presents an adaptive multi-patch isogeometric analysis method with truncated hierarchical NURBS (TH-NURBS) for three-dimensional orthotropic elasticity. TH-NURBS inherit all excellent advantages of truncated hierarchical B-splines (THB-splines) and can achieve exact modeling of arbitrary complex geometry. For accurate description of complex geometry in practical engineering, multi-patch technique is introduced into isogeometric analysis, utilizing Nitsche’s method for patch coupling. In order to establish the adaptive algorithm framework, a recovery-based error estimator is presented based on TH-NURBS. The method is applied to several 3D orthotropic examples with ABAQUS solutions validating its accuracy. We also compare the computation efficiency with that obtained by uniform refinement method to show more efficient performance of the proposed adaptive method.}
+}

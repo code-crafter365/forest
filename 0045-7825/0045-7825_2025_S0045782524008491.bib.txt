@@ -1,0 +1,13 @@
+@article{FREDERIKSEN2025117595,
+title = {Improved third medium formulation for 3D topology optimization with contact},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117595},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117595},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008491},
+author = {Andreas H. Frederiksen and Anna Dalklint and Ole Sigmund and Konstantinos Poulios},
+keywords = {Third medium contact, Snap-through, Mesh regularization, 3D non-linear topology optimization},
+abstract = {This paper introduces a novel regularization term, denoted “HuHu-LuLu”, for Third Medium Contact (TMC), and shows its usefulness in 2D and 3D topology optimization problems with frictionless contact. The HuHu-LuLu regularization, where HuHu and LuLu respectively refer to the contraction of the Hessian and Laplacian of the displacement field, is designed to reduce penalization on bending and quadratic compression deformations while maintaining penalization on excessive skew deformations. This approach allows for more accurate modeling of curved contacts, which is particularly beneficial when the domain discretization is coarse. Our results show that the HuHu-LuLu regularization significantly enhances the accuracy of TMC in topology optimization, specifically achieving a 7.4% improvement in the objective value for a hook mechanism problem on a coarse 24 × 24 element discretization. The application of the method to a snap problem in 2D, made possible through a damped pseudo time-stepping scheme, represents the first such application of TMC to model snap-through. Furthermore, by adjusting the discretization of the design variable field in the topology optimization from finite elements with constant or linear shape functions, which are conventionally used in topology optimization, to finite elements with second-order shape functions. This is made feasible through a matching Gauss–Lobatto integration which, apart from stabilizing the finite element scheme, also circumvents evaluation of negative material densities, and provides increased design freedom on coarse discretizations. These advancements significantly enhance the fidelity of state-of-the-art TMC topology optimization frameworks for a given discretization, enabling the creation of advanced designs in 3D.}
+}

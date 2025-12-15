@@ -1,0 +1,13 @@
+@article{SOLIMAN2025102403,
+title = {Molecular detection and phylogenetic characterization of Borrelia theileri and a putative novel Borrelia genotype in Hyalomma dromedarii ticks infesting camels in southern Egypt},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {124},
+pages = {102403},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102403},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001110},
+author = {Ahmed M. Soliman and Hassan Y.A.H. Mahmoud and Moaz M. Amer and Samah Mohamed and Tatsuro Hifumi and Kyoko Tsukiyama-Kohara and Tetsuya Tanaka},
+keywords = {, , Camel, Egypt, 16S rRNA, },
+abstract = {Ticks are important vectors of various pathogens affecting human and animal health globally. In Egypt, camels are frequently infested with Hyalomma dromedarii, yet their role in harboring and transmitting tick-borne pathogens remains poorly understood. This study aimed to molecularly detect and characterize Borrelia species in H. dromedarii ticks collected from camels in three cities in southern Egypt: Esna, Draw, and Edfu. Of 300 ticks analyzed using PCR targeting the 16S rRNA and flaB genes, 21.3 % (64/300) tested positive for Borrelia species. The highest prevalence was recorded in Edfu (37 %), followed by Draw (19 %) and Esna (13.3 %). Sequencing of the flaB gene revealed two distinct genetic groups. Phylogenetic analysis demonstrated that one group clustered closely with Borrelia theileri, while the second formed a distinct clade within the relapsing fever group of Borrelia species, showing sufficient genetic divergence to suggest a putative novel genotype or locally adapted strain. This clade was supported by high bootstrap values (99 %) and showed no close relation to previously described species. To our knowledge, this study represents the first detection of B. theileri in camel-associated ticks in Egypt. These findings expand the known genetic diversity of Borrelia species in North Africa and highlight the need for further studies to assess the pathogenic potential and epidemiological significance of these strains in animal and human populations.}
+}

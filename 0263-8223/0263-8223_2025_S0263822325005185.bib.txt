@@ -1,0 +1,13 @@
+@article{WANG2025119353,
+title = {Synergistic reinforcement of copper matrix composites with MoSi2 and graphene: microstructure, mechanical properties, and tribological performance},
+journal = {Composite Structures},
+volume = {369},
+pages = {119353},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119353},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005185},
+author = {Yan Wang and Kunyang Fan and Qingquan Liu and Chengming Wang and Yanyan Huang and Weicai Wan and Wei Feng and Pingping Yao},
+keywords = {Metal matrix composites, Copper matrix composites, Graphene, Mechanical properties, Wear resistance},
+abstract = {This study investigates copper matrix composites reinforced with molybdenum disilicide (MoSi2) and graphene (Gr) using ball milling and spark plasma sintering. The effects of single-phase and co-doped reinforcements on the microstructure, electrical conductivity, mechanical properties, and tribological performance were analyzed. The combination of MoSi2 and Gr improved ball milling efficiency, enhanced the uniform distribution and bonding of reinforcements, and refined the copper grain structure. This led to significant improvements in mechanical properties, with the MoSi2-Gr/Cu composites achieving a tensile strength of 272.7 MPa and hardness of 88.7 HV, while maintaining electrical conductivity at 59.2 % IACS. In terms of tribological behavior, the wear resistance of MoSi2 and the self-lubricating properties of Gr acted in synergy, leading to a significant reduction in both the friction coefficient and wear rate of the copper matrix composites. Specifically, the MoSi2-Gr/Cu composites exhibited a low friction coefficient of 0.14 and a wear rate of 3.86 × 10−5 mm3/Nm. The synergistic reinforcement strategy effectively overcame the limitations of single-phase reinforcements, endowing the composites with superior anti-wear and friction-reducing properties.}
+}

@@ -1,0 +1,13 @@
+@article{GE2025105766,
+title = {A hybrid inversion algorithm to obtain the resistivity of the uninvaded zone based on the array induction log},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105766},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105766},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002498},
+author = {Xinmin Ge and Mohmmed Ishag and Haiyan Li and Jundong Liu and Cuixia Qu and Badreldein Mohamed},
+keywords = {Mud invasion, Resistivity profile, Uninvaded zone, Five-parameter formation resistivity model, Hybrid inversion},
+abstract = {This study investigates the impact of the drilling mud invasion on the borehole-measured resistivity. The primary objective is to retrieve the true resistivity of the formation, which helps in identifying different fluids in the reservoir. To achieve this goal, We proposed a hybrid inversion approach integrating the Levenberg-Marquardt and Markov Chain Monte Carlo algorithms with a five-parameter formation resistivity model. Synthetic and real-world data are utilized to assess the method's robustness and reliability. The simulated result indicated that the method is reliable when the data noise level is less than 5%. The method applied to real-world data revealed that the resistivity profile on the water zone showed a slight increase in the inverted resistivity from measured resistivity. Meanwhile, in the oil zone, the calculated resistivity revealed a high deviation from the measured resistivity, indicating the effects of mud invasion. The introduced methods are only applicable when the invasions of mud occur within the range of the logging tool's depth of investigation. Moreover, the method may give no reliable result when the invasion exceeds the tool's investigation depth. It indicates its limitation.}
+}

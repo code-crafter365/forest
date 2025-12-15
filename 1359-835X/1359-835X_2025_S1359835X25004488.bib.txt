@@ -1,0 +1,13 @@
+@article{DING2025109154,
+title = {Constructing porous thermally conductive composite film with multiple heterogeneous interfaces for enhanced electromagnetic shielding performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109154},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109154},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004488},
+author = {Xiaoxiao Ding and Yuyao Wang and Wenyuan Zhang and Debin Lin and Yongbao Feng and Huili Fu and Konghu Tian and Qiulong Li},
+keywords = {MXene, MIL-101(Fe)@ZIF-67@PPy, Hierarchical core–shell heterostructures, Porous composite membrane, Electromagnetic interference shielding},
+abstract = {MXene, as an emerging 2D material, demonstrates significant potential for application in the electromagnetic interference (EMI) shielding field due to its excellent conductivity, flexible structural design, and abundant interfaces. However, the ease of stacking in 2D structures and exacerbation of secondary pollution resulting from excessively high conductivity significantly impact the attenuation ability of electromagnetic waves (EMWs). Herein, we successfully prepared a 3D porous composite membrane through K+-induced vacuum filtration and freeze-drying, by introducing MIL-101(Fe)@ZIF-67@PPy (FCP) into MXene/PPy systems (MPFCP). The FCP nanoparticles with hierarchical core–shell heterostructures provide magnetic loss and interfacial loss, ultimately boosting the EMWs absorption. Additionally, the 1D PPy nanotubes not only enhances the conductivity but also forms hydrogen bonds with MXene nanosheets, further improving the EMI shielding, thermal transport, and mechanical properties of the MPFCP composite membranes. As a result, the MPFCP2 porous composite membrane demonstrates an excellent EMI shielding effectiveness (SE) of 63.57 dB and a high specific SE of 6145 dB cm2 g−1. More importantly, its absorption ratio of the EMI SE is significantly increased from 54.96% to 68.80% after introducing FCP. Furthermore, the MPFCP2 shows an impressive thermal conductivity of 7.92 W m−1 K−1 and mechanical strength of 6.24 MPa.}
+}

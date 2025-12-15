@@ -1,0 +1,13 @@
+@article{LU2025111049,
+title = {Experimental evaluation and modeling of the tensile and ablative behavior of 3D-knitted fabric reinforced silicone rubber composites},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111049},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111049},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500017X},
+author = {Zhaohui Lu and Wenxing Chen and Yinfu Luo and Lei Kong and Huawei Zou and Shengtai Zhou},
+keywords = {3D-knitted fabric, Silicone rubber composite, Tensile properties, Ablative behavior under coupled mechanical-thermal-oxidative conditions},
+abstract = {Silicone rubber composites are widely used in aerospace industry. However, ablation induced fracture limits their application under complex coupled mechanical-thermal-oxidative (MTO) conditions. In this study, 3D-knitted fabric was used to concurrently improve the tensile and ablative properties of silicone rubber composites. The 3D-knitted fabric was implemented in both 0° and 90° directions, and its efficacy in improving the ablative performance of corresponding composites was investigated. In addition, the tensile and ablative behavior of 3D-knitted fabric reinforced composites was studied using micro-CT and macroscale modeling strategy. The use of 3D-knitted fabric was found instrumental in enhancing the mechanical and ablative properties during ablation under the coupled MTO conditions. Moreover, the ablative performance was further improved by reducing defects through enhancing the interfacial interaction between carbon fiber fabric and the rubber matrix. To conclude, a facile and effective strategy was proposed to improve the ablative and tensile properties of silicone rubber composites under coupled MTO conditions, which exhibits potential application in the aerospace and fire protection sectors among others.}
+}

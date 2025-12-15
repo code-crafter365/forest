@@ -1,0 +1,13 @@
+@article{AKBARZADEH2025106495,
+title = {Parallel large eddy simulations with curvilinear immersed boundary method for high-speed flows},
+journal = {Computers & Fluids},
+volume = {288},
+pages = {106495},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106495},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003268},
+author = {Amir M. Akbarzadeh and Iman Borazjani},
+keywords = {Turbulent flow, Immersed boundary, Supersonic, Shock waves, Large eddy simulation (LES)},
+abstract = {A sharp-interface immersed boundary method is developed to simulate turbulent compressible flows through large-eddy simulations (LES) on curvilinear grids. The curvilinear grid enables increasing the grid resolution near regions of interest such as solid walls. To capture both shocks and turbulence, the equations are discretized using a hybrid discretization comprising a fourth-order skew-central scheme and a third-order weighted essentially nonoscillatory (WENO) scheme. A switch function is incorporated to switch between WENO in the vicinity of shocks to central far away from shocks. A dynamics Smagornisky model is used to model the subgrid scales for the central scheme. The interpolation for the immersed boundary is modified to incorporate wall functions. The code is parallelized to efficiently run on thousands of CPU cores for highly resolved grids. The method is verified and validated against several test cases including a decaying isotropic turbulent flow, turbulent channel flow, supersonic flow and shock diffraction over a cylinder. The results show that the LES can properly resolve the inertial subrange and the hybrid scheme can effectively capture shocks over the immersed bodies. It is observed that highly refined grids and low-dissipation hybrid scheme are necessary to capture fine turbulence features such as shear instabilities and shock boundary layer interaction over immersed bodies. In fine grids, however, the importance of explicit LES modeling decreases as most scales are resolved and the WENO scheme provides the dissipation implicitly. In such cases, the results are most sensitive to wall modeling which demonstrate the need for development of wall models for high-speed flows.}
+}

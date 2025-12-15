@@ -1,0 +1,13 @@
+@article{BIZZARRI2025103887,
+title = {Smooth surface finishing for 5-axis flank CNC machining of free-form geometries using custom-shaped tools},
+journal = {Computer-Aided Design},
+volume = {185},
+pages = {103887},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103887},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000491},
+author = {Michal Bizzarri and Kanika Rajain and Michael Bartoň},
+keywords = {5-axis CNC machining, Custom-shaped tools, Finishing operations, Free-form shape manufacturing, Tool path-planning},
+abstract = {Geometric modeling is traditionally a key part of an efficient manufacturing pipeline as one can decide, in virtual realm, what specific manufacturing tools to use and how to move them. Flank milling is the finishing stage of 5-axis Computer Numerically Controlled (CNC) machining, a stage where the machining accuracy is equally important as the smooth surface finish of the to-be-manufactured workpiece. The benchmark machining geometries such as propellers or blisks are doubly-curved surfaces and one typically needs several paths of the tool to get highly accurate surface finish. However, navigating a tool to move tangentially (i.e., in flank fashion) to the surface is very restrictive and in order to get highly accurate approximation, one typically has to compromise the smoothness across the neighboring paths. To connect neighboring paths in smooth (G1-continuous) fashion using a conical tool is possible only for reasonably flat target geometries, such as spiral bevel gears, however, for a general free-form surface conical tools do not offer sufficient degrees of freedom. In this work, we consider generally curved, custom-shaped, cutting tools, whose shape is a design parameter computed by the proposed optimization-based framework to adapt their motions globally to the input free-form surface, supporting a feature of G1 connection across the neighboring paths. We demonstrate our algorithm on synthetic free-form surfaces as well as on industrial benchmark datasets, showing that optimizing the shape of the tool offers more flexibility to produce G1 connections between neighboring strips and outperforms conical tools both in terms of the approximation error and the smoothness.}
+}

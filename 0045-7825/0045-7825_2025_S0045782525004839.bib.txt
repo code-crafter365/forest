@@ -1,0 +1,13 @@
+@article{CANTONSANCHEZ2025118211,
+title = {Fluid-structure interaction between dimensionally-reduced nonlinear dragged solids and incompressible flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118211},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118211},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004839},
+author = {Rafael Cantón-Sánchez and Ignacio Romero},
+keywords = {Fluid-solid interaction, Incompressible fluid, Nonlinear structure, Finite elements, Nonlinear beam, Nonlinear shell},
+abstract = {We introduce a new methodology for the formulation of finite element approximations that can compute the interaction between slender deformable structures and incompressible fluids. The numerical methods proposed are based on the construction of ancillary three-dimensional solids that extend the geometry of true structural nonlinear models, such as rods and shells. These fictitious solids have surrogate kinematics that are obtained from their structural cores without the need for constraint equations, and interact with the surrounding fluid just like standard continua. As a result, large computational savings are obtained in these solids since only the structural cores have independent degrees of freedom. In our framework, we employ a monolithic Arbitrary Lagrangian-Eulerian approximation of the coupled fluid/structural system, collecting the motion of the fluid and the ancillary solids, their interactions, and the mesh motion. The exposition is limited to geometrically exact rods and shells that have rotational degrees of freedom, but the methodology could be extended to a wide class of structural models. In the article, we provide the theoretical foundations of the approximation, numerical examples that illustrate the performance of the approach, and details on the computational implementation of the solution.}
+}

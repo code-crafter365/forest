@@ -1,0 +1,13 @@
+@article{ZHOU2025118950,
+title = {Enhancing torsional behavior of RC beams: The potential of ultra-high performance concrete (UHPC)},
+journal = {Composite Structures},
+volume = {357},
+pages = {118950},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118950},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001151},
+author = {Cong Zhou and Jianqun Wang and Xudong Shao and Lifeng Li and Minghong Qiu},
+keywords = {UHPC, Strengthening, Torsion, Experimental investigation, FE modeling, Theoretical analysis},
+abstract = {The potential of ultra-high performance concrete (UHPC) for enhancing the torsional behavior of RC beams is evaluated in this study, as a significant gap has been identified on this topic in the present. Pure torsion tests were conducted on nine specimens, including one un-strengthened and eight UHPC-strengthened RC beams. Refined finite element (FE) models were established using ATENA software to simulate the full-range torsional behavior of the specimens. Results from experiments and FE simulations indicate that the utilization of UHPC significantly improves the torsional resistance of RC beams, with an increase of 136.5 %∼488.5 % in cracking torque and an increase of 21.8 %∼593.2 % in ultimate torque. Two-sided wrapping scheme is not recommended since the failure mechanisms in those beams will induce considerable safety risks. Three-sided wrapping scheme could serve as an alternative solution to the fully-wrapped scheme if the latter cannot be realized due to space limitation. The surfaces of the RC beam should be roughened prior to the application of UHPC layers to ensure reliable bonding performance between them. The decision to incorporate steel bars into the UHPC layers should comprehensively consider the costs, constraints in dimensions and increase in torsional capacity. Finally, a theoretical formula was proposed for predicting the torsional capacity of UHPC-strengthened RC beams utilizing 4-sided wrapping configuration. The experimental results from six fully-wrapped strengthened beams in this study were used to validate the proposed formula. The mean value and standard deviation of the ratio between the theoretically obtained and experimentally obtained results were 1.10 and 0.16, respectively, indicating that the proposed formula provides a satisfactory prediction of the torsional capacity.}
+}

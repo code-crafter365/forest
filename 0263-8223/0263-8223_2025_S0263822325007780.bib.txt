@@ -1,0 +1,13 @@
+@article{OUYANG2025119613,
+title = {Interface enhancement of 3D printed CF/PLA composites by introducing “rigid-flexible” structures through multi-bond synergies},
+journal = {Composite Structures},
+volume = {372},
+pages = {119613},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119613},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007780},
+author = {He Ou-Yang and Xuanyu Zhou and Yulong Zhang and Yan Wang and Ziqiang Zhu and Jianan Bai and Wei jiang and Yanan Zhang and Yubing Hu},
+keywords = {3D printing, Carbon fibers, Surface modification, Rigid-flexible structure, Mechanical properties},
+abstract = {The interfacial properties between the components of a composite material influence the overall material properties. Herein, we proposed a “rigid-flexible” approach to improve the relatively weak interlaminar characteristic of 3D printed CF/PLA composite. Graphene oxide (GO) and polyethyleneimine (PEI) were chosen as the “rigid” and “flexible” phases, respectively. A stepwise chemical grafting technique was used to introduce “rigid-flexible” structures to the continuous carbon fiber (CCF) surface. Subsequently, filaments were prepared using modified CF and polylactic acid (PLA) and samples were obtained by FDM process. The CF-PEI-GO/PLA composites exhibited remarkable enhancements in mechanical performance relative to neat CF/PLA. Specifically, their interfacial shear strength (IFSS) doubled (101.64% increase), while impact resistance surged by 74.50%. Additionally, tensile strength and flexural strength showed substantial improvements of 31.17% and 24.86%, respectively. The interfacial enhancement mechanism was analyzed through a variety of characterization techniques such as SEM, AFM, XPS and Raman. This research offered new insights and methods towards the development of engineering materials for high performance 3d printing.}
+}

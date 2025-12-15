@@ -1,0 +1,13 @@
+@article{SOORIYAKANTHAN2025118385,
+title = {High-fidelity modelling of floor-borne vibrations in axisymmetric MRI magnets using hp-finite element method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118385},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118385},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006577},
+author = {Yashwanth Sooriyakanthan and Antonio J. Gil and Paul D. Ledger and Michael J. Mallett},
+keywords = {-finite elements, MRI scanners, Eddy currents, Electro-magneto-mechanics, Time vs frequency, Coupled physics, Floor borne vibrations},
+abstract = {Magnetic Resonance Imaging (MRI) relies on the stability of highly uniform fields from superconducting main coils and spatially varying fields from AC-driven gradient coils. Both types of coils are thermally separated, as the main coils are cryogenically cooled within a cryostat whilst gradient coils operate at room temperature. Externally generated floor-borne vibrations (FBV) can induce relative motion between radiation shields and coils, generating eddy currents in the shields. These in turn produce parasitic magnetic fields that compromise field homogeneity and degrade image quality. This paper presents a high-fidelity computational framework for simulating the magneto-mechanical effects of FBV in axisymmetric MRI scanners to inform the manufacturing design workflow. The approach introduces three key advancements: first, a nonlinear, fully coupled magneto-mechanical formulation solved using hp-Finite Element Methods (hp-FEM) in the open-source NGSolve framework, with a focus on optimal interpolation order p and time step size; second, explicit mechanical modelling of both main and gradient coils, moving beyond idealised Biot-Savart type current sources; and third, the use of realistic axisymmetric geometries with structural connectivity between coils and radiation shields in order to inform preliminary designs in Industry. A comprehensive series of numerical results is presented in order to validate the method against some benchmarked scenarios and highlight its potential for guiding vibration mitigation and improving MRI image fidelity.}
+}

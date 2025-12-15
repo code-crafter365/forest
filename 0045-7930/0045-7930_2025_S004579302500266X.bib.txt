@@ -1,0 +1,13 @@
+@article{FROLKOVIC2025106806,
+title = {Unconditionally local bounds preserving numerical scheme based on inverse Lax–Wendroff procedure for advection on networks},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106806},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106806},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500266X},
+author = {Peter Frolkovič and Svetlana Krišková and Katarína Lacková},
+keywords = {Advection equation, Networks, Inverse Lax–Wendroff procedure, High-resolution, Bounds preserving},
+abstract = {We derive an implicit numerical scheme for the solution of advection equation where the roles of space and time variables are exchanged using the inverse Lax–Wendroff procedure. The scheme contains a linear weight for which it is always second-order accurate in time and space, and the stencil in the implicit part is fully upwinded for any value of the weight, enabling a direct computation of numerical solutions by forward substitution. To fulfill the local bounds for the solution represented by the discrete minimum and maximum principle (DMP), we use a predicted value obtained with the linear weight and check a priori if the DMP is valid. If not, we can use either a nonlinear weight or a limiter function that depends on Courant number and apply such a high-resolution version of the scheme to obtain a corrected value. The advantage of the scheme obtained with the inverse Lax–Wendroff procedure is that only in the case of too small Courant numbers, the limiting is towards the first-order accurate scheme, which is not a situation occurring in numerical simulations with implicit schemes very often. In summary, the local bounds are satisfied up to rounding errors unconditionally for any Courant numbers, and the formulas for the predictor and the corrector are explicit. The high-resolution scheme can be extended straightforwardly for advection with a nonlinear retardation coefficient with numerical solutions satisfying the DMP, and a scalar nonlinear algebraic equation has to be solved to obtain each predicted and corrected value. In numerical experiments, including transport on a sewer network, we can confirm the advantageous properties of numerical solutions for several representative examples.}
+}

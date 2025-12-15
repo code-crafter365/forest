@@ -1,0 +1,13 @@
+@article{BANH2025118638,
+title = {Comprehensive stress-driven multi-material problem for heat-sinking heterogeneous structures},
+journal = {Composite Structures},
+volume = {352},
+pages = {118638},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118638},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007669},
+author = {Thanh T. Banh and Son H. Nguyen and Dongkyu Lee},
+keywords = {Multi-material topology optimization, Thermomechanical systems, Stress-driven problems, Heterogeneous materials, Polygonal discretization},
+abstract = {In the realm of designing thermoelastic structures, particularly within aerospace and broader engineering fields, complex challenges arise from the diverse behaviors of heterogeneous materials and the intricate requirements of stress-based systems in coupled thermomechanical considerations. This study addresses these challenges by proposing a comprehensive methodology with two main contributions: (i) the development of an effective unified solution for stress-driven designs that tackle heat-sinking problems by accommodating a wide range of materials, from homogeneous to heterogeneous and (ii) the introduction of a robust stress-based optimization approach for multi-material problems within coupled thermomechanical systems. The methodology employs the well-established P-norm approach to consolidate heterogeneous stresses into a unified global metric. Additionally, it integrates effective material interpolation with the generalized Solid Isotropic Material with Penalization (SIMP) framework, resulting in comprehensive multi-material models that include the constitutive matrix, thermal conductivity, thermal stress coefficient, and thermoelastic stress distributions. To further enhance adaptability and flexibility, the methodology incorporates a polygonal discretization technique. Detailed sensitivity analyses, using the adjoint variable technique, are conducted to improve computational efficiency in gradient-based mathematical programming algorithms. The efficiency, robustness, and practicality of the proposed methodology are validated through numerical examples, demonstrating its effectiveness and reliability in real-world applications.}
+}

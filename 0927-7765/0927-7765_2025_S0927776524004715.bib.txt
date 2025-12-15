@@ -1,0 +1,13 @@
+@article{SINGHDEO2025114212,
+title = {Intrinsic physiochemical insights to green synthesized Ag-decorated GO nanosheet for photoluminescence and in vivo cellular biocompatibility with embryonic zebrafish},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114212},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114212},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004715},
+author = {Simran SinghDeo and Shaikh Sheeran Naser and Aditya Nandi and Adrija Sinha and Sufiyan Ahmad Shaikh and Swagat K. Mohapatra and Mrutyunjay Suar and Suresh K. Verma and Jagnyaseni Tripathy},
+keywords = {Graphene oxide, Silver nanoparticles, Nanocomposite, Zebrafish, Photoluminescence, Biocompatibility},
+abstract = {The advancement of nanotechnology and their application has intrigued a significant interest in green synthesis and application of organic and inorganic nanomaterials like graphene oxide (GO) and silver nanoparticles (AgNP). This study explores the intrinsic physiochemical properties of silver (Ag)-decorated graphene oxide (GO) nanosheets synthesized via a green approach, focusing on their photoluminescence behaviour and in vivo cellular biocompatibility with embryonic zebrafish. The nanocomposites were characterized using various spectroscopic and microscopic techniques to elucidate their structural and optical properties. Results reveal that the Ag-decorated GO nanosheets exhibit enhanced photoluminescence compared to pristine GO with an SPR at 405 nm and emission at 676 nm, attributed to the synergistic effects of Ag nanoparticles and GO. In addition, in vivo biocompatibility assessments using embryonic zebrafish demonstrate minimal cytotoxicity and high cellular viability upon exposure to the nanocomposites with an LC50 of 38 µg/ml, indicating their potential for biomedical applications. Further investigations into the interactions between the nanomaterials and biological systems provide valuable insights into their safety profile and suggest their suitability for various biomedical and therapeutic applications. Overall, this study offers a comprehensive understanding of the physiochemical characteristics and biological compatibility of Ag-decorated GO nanosheets, contributing to the advancement of nanotechnology in biomedicine and related fields.}
+}

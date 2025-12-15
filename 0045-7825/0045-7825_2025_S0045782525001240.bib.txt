@@ -1,0 +1,13 @@
+@article{ZHANG2025117852,
+title = {Based on purely physical information in deep learning optimizes soliton system parameter identification problem},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117852},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117852},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001240},
+author = {Zhiyang Zhang and Muwei Liu and Xiaowei Xing and Shuzhuang Zhang and Zhenya Yan and Wenjun Liu},
+keywords = {Soliton, Parameter identification, Deep learning, Variational inference, Meta-learning},
+abstract = {Solitons find widespread applications across diverse disciplines. Accurate identification of the internal parameters within soliton systems allows us for precise comprehension and effective regulation of these systems. The introduction of deep learning has revolutionized the way to address the issue of parameter identification in soliton systems. However, the lack of suitable weight initialization schemes leads to the identification outcomes being prone to blurriness and errors. Consequently, we propose a novel initialization method: physical meta-learning(PML). The unique approach which relies solely on the physical information related to the system allows us to obtain the initialization weights without relying on any labeled data. In basic soliton systems experiments, PML reduces the identification error by 25% to 80%. Regarding the parameter identification task of dissipative soliton system in mode-locked lasers, the PML method significantly reduces the identification error by 98.1%. In addition to the application scenarios, we also examine the effectiveness of the PML method in different parameter identification methods. Overall, our research provides a method for optimizing the identification and simulation of complex soliton systems.}
+}

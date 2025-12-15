@@ -1,0 +1,13 @@
+@article{LI2025118070,
+title = {Adaptive phase-field modeling for electromechanical fracture in flexoelectric materials using multi-patch isogeometric analysis},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118070},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118070},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003421},
+author = {Haozhi Li and Tiantang Yu and Zhaowei Liu and Jiaping Sun and Leilei Chen},
+keywords = {Flexoelectric materials, Phase field, Strain decomposition, Nitsche’s method, Isogeometric analysis, Adaptive refinement},
+abstract = {The fracture of flexoelectric materials involves strain gradients, which pose challenges for theoretical and numerical analysis. The phase-field model (PFM) is highly effective for simulating crack propagation. However, PFM within the finite element method (FEM) framework faces certain challenges in simulating the fracture behavior of flexoelectric materials since the conventional FEM can only provide C0 continuity. In this study, an adaptive PFM within multi-patch isogeometric analysis using polynomial splines over hierarchical T-meshes (PHT-splines) is proposed to simulate electromechanical fracture in flexoelectric materials. The PHT-splines functions feature higher-order continuity and can effectively discretize the strain gradient. All computational models are accurately modeled using multiple PHT-splines patches. The continuity of field variables such as displacement, electric potential, and phase field at the coupling edge is ensured using Nitsche’s method. To effectively compute the crack-driving force, the generalized Miehe decomposition method is employed. To alleviate the computational burden, a mesh refinement adaptive scheme based on user-defined thresholds for the phase field is used. The proposed method’s accuracy, reliability, and robustness are demonstrated using several fracture simulations.}
+}

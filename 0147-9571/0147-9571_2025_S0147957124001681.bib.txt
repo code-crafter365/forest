@@ -1,0 +1,13 @@
+@article{PLA2025102291,
+title = {Leptospira spp. is recognized by TLR2 and induces IFN-β and IFN-λ expression in smegma from naturally infected bulls},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {117},
+pages = {102291},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2024.102291},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957124001681},
+author = {Natalia Plá and Yanina Paola Videla and Mercedes María Burucúa and Felipe Andrés {Cheuquepán Valenzuela} and Maia Solange Marin and Silvina Quintana},
+keywords = { spp., Bull, Preputial smegma, Receptor, Cytokine},
+abstract = {Leptospirosis, a zoonosis with a wide worldwide distribution, causes significant reproductive losses in cattle. The genital presentation of the disease has been reported, and its understanding is crucial for the implementation of adequate sanitary measures. Although Leptospira spp. modulate innate immunity, the response in the genital mucosa of bulls is unknown. The objective of this work was to evaluate the expression of innate immune receptors and cytokines in smegma from bulls with genital infection by Leptospira spp. To do so, routine preputial scraping samples were selected from breeding bulls from four establishments in the Azul District, Buenos Aires, Argentina with no reproductive problems, which were previously evaluated for the presence of Leptospira spp. DNA by qPCR detection of the secY gene. The relative gene expression of TLR2, TLR4, IFN-β and IFN-λ in the smegma samples of animals infected with Leptospira spp. was determined by RT-qPCR, with subsequent analysis of the results using REST software. The expression of TLR2 was significantly increased in animals infected with Leptospira spp. compared to uninfected control animals (4-fold), while TLR4 did not show differences. Likewise, both IFN-β and IFN-λ were significantly increased in smegma of infected animals (3.5 and 3.1-fold, respectively). Therefore, this work shows that genital infection of Leptospira spp. in bulls generates and modulates a local innate immune response, with an association between the presence of Leptospira spp. DNA and the expression levels of TLR2, IFN-β and IFN-λ.}
+}

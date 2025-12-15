@@ -1,0 +1,13 @@
+@article{CHENG2025104484,
+title = {Automating visual narratives: Learning cinematic camera perspectives from 3D human interaction},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104484},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104484},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325003255},
+author = {Boyuan Cheng and Shang Ni and Jian Jun Zhang and Xiaosong Yang},
+keywords = {Virtual cinematography, 3D human motion, Computer animation},
+abstract = {Cinematic camera control is essential for guiding audience attention and conveying narrative intent, yet current data-driven methods largely rely on predefined visual datasets and handcrafted rules, limiting generalization and creativity. This paper introduces a novel diffusion-based framework that generates camera trajectories directly from two-character 3D motion sequences, eliminating the need for paired video–camera annotations. The approach leverages Toric features to encode spatial relations between characters and conditions the diffusion process through a dual-stream motion encoder and interaction module, enabling the camera to adapt dynamically to evolving character interactions. A new dataset linking character motion with camera parameters is constructed to train and evaluate the model. Experiments demonstrate that our method outperforms strong baselines in both quantitative metrics and perceptual quality, producing camera motions that are smooth, temporally coherent, and compositionally consistent with cinematic conventions. This work opens new opportunities for automating virtual cinematography in animation, gaming, and interactive media.}
+}

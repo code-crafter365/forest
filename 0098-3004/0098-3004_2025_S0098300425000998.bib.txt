@@ -1,0 +1,13 @@
+@article{NERONE2025105949,
+title = {IntersecT: a Python script for quantitative isopleth thermobarometry of equilibrium and disequilibrium systems},
+journal = {Computers & Geosciences},
+volume = {202},
+pages = {105949},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105949},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000998},
+author = {Sara Nerone and Pierre Lanari and Hugo Dominguez and Jacob B. Forshaw and Chiara Groppo and Franco Rolfo},
+keywords = {Isopleth thermobarometry, Thermodynamic modelling, Quality factor, Perple_X},
+abstract = {Isopleth thermobarometry involves comparing compositional isopleths generated from forward thermodynamic models with the measured mineral compositions in a specific assemblage to retrieve the pressure and temperature conditions of equilibration. This technique has been used extensively in the last two decades to constrain the conditions of metamorphism for natural rock samples. However, this method is often applied qualitatively, relying on the intersection of a limited number of isopleths for a few selected phases. Recent works have introduced software solutions with more quantitative approaches; these use statistical methods to derive optimal P–T conditions and provide a more accurate interpretation of forward modelling results. Despite these advances, these methods are not commonly used. IntersecT aims at distributing a tool for statistically quantifying the quality of fit using the WERAMI output of Perple_X and applying multiple approaches, including the quality factor concept from Bingo-Antidote. This formulation allows the propagation of measurement uncertainty in isopleth thermobarometry. In addition, IntersecT applies reduced χ2 statistics to assess the weight of the considered phases, enabling the down-weighting of outlier data due to model inaccuracies or incorrect assumptions, such as disequilibrium features. The quality factor approach helps to visualize discrepancies resulting from these issues. IntersecT provides a quantitative framework to improve the interpretation of Perple_X isopleth thermobarometry results, allowing compositional uncertainties in the measured mineral composition to be considered. This approach can also help interpret how phase equilibrium experiments reproduce the observed compositions for magmatic and metamorphic systems.}
+}

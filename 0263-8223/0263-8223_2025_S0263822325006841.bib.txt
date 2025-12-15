@@ -1,0 +1,13 @@
+@article{GUAN2025119519,
+title = {Nanoscale debonding of carbon fiber/matrix interface in humid environments and silane coupling agent modification effects: Insights from molecular dynamics simulations},
+journal = {Composite Structures},
+volume = {371},
+pages = {119519},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119519},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006841},
+author = {Wangdong Guan and Haoyuan Suo and Bin Luo and Xuan Zhang and Yuan Li and Hui Cheng},
+keywords = {Polymer-matrix composite, Fiber/matrix interface, Humid environment, Debonding, Molecular dynamics},
+abstract = {Understanding and quantifying the debonding mechanisms at the fiber/matrix interface in carbon fiber-reinforced polymer (CFRP) composites at the nanoscale is challenging, due to the interplay of non-covalent and covalent interactions. In this paper, a strain energy-based covalent bond rupture criterion is established. The molecular dynamics simulations are employed to investigate the interfacial debonding behavior of original and silane coupling agent (SCA)-modified carbon fibers under both dry and humid conditions. Stress–displacement curves, along with the formation and disruption of bridging structures during debonding, are analyzed in detail. Interfacial failure modes are characterized by the distribution of resin residues, and covalent bond ruptures are closely monitored. As water molecules disrupt non-covalent interactions and accelerate the breakdown of interfacial bridges, failure tends to shift toward the adhesive mode. In contrast, the introduction of covalent bonds through SCA modification enhances the ultimate debonding displacement by 150%. The progressive debonding facilitates optimized stress transfer, effectively delaying catastrophic failure. The SCA-modified interfaces interfaces exhibit approximately 70% cohesive failure rates, attributed to covalent bond-enhanced load transfer and the stabilization of bridging structures. This paper provides a nanoscale framework to guide the design and manufacturing of CFRP composites for reliable service in high-humidity environments.}
+}

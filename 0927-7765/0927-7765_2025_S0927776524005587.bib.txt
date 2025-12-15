@@ -1,0 +1,18 @@
+@article{WANG2025114299,
+title = {Nicorandil-based hydrogel promotes bone defect reconstruction by targeting Hmox1},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114299},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114299},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005587},
+author = {Renkai Wang and Zhilong Pi and Xiang Zhu and Xinzhe Wang and Hao Zhang and Fang Ji and Hao Tang},
+keywords = {Nicorandil, Hydrogel, Bone defect, Angiogenesis, Hmox1},
+abstract = {Background
+The local use of drugs to promote bone healing is still difficult to apply clinically. We aimed to construct a nicorandil-based hydrogel to promote local bone healing by promoting angiogenesis and inhibiting osteoclastogenesis.
+Results
+In this study, we constructed a nicorandil-based hydrogel and used it to intervene in bone repair during bone defect reconstruction. The results showed that the nicorandil-based hydrogel significantly inhibited osteoclast differentiation and promoted angiogenesis in vitro. Furthermore, bone formation was significantly promoted by the use of a nicorandil-based hydrogel. Mechanistically, Hmox1 was directly targeted by nicorandil, and overexpression of Hmox1 was found to promote bone defect reconstruction.
+Conclusion
+Our study provides a fresh perspective and a potential therapeutic approach for the use of local nicorandil-based hydrogels to improve bone defect reconstruction.}
+}

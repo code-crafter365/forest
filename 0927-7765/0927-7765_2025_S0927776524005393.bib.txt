@@ -1,0 +1,13 @@
+@article{AFOLAYAN2025114280,
+title = {A rapid microwave approach for ‘one-pot’ synthesis of antibiotic conjugated silver nanoparticles with antimicrobial activity against multi-drug resistant bacterial pathogens},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114280},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114280},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005393},
+author = {Juwon S. Afolayan and Adam M. Varney and Jonathan C. Thomas and Samantha McLean and Carole C. Perry},
+keywords = {Silver, nanoparticles, Nanosilver, Antimicrobials, Antimicrobial resistance, Drug development},
+abstract = {Deaths directly attributable to drug-resistant infections reached 1.27 million in 2019 and continue to rise. This escalating resistance to antibiotics has driven a resurgence in the exploration of ancient antimicrobials to develop efficacious alternatives. The modern field of nanomaterials is a promising area of research with silver nanoparticles performing well as antimicrobial agents due to their large surface area and multiple bacterial targets. In the current study antibiotic conjugated silver nanoparticles (3–35 nm) were synthesized using β-lactam antibiotic, ampicillin. The method of heating during synthesis either microwave (4 min) or convection (4 h) influenced the physical characteristics of the ampicillin coated silver nanoparticles, however both approaches produced nanomaterials with antimicrobial activity against a variety of multi-drug resistant (MDR) clinical isolates in physiologically relevant media (when present at <0.2–2.28 mg L−1 in defined media). Critically, the microwave method is five times faster than the traditional water bath method, allowing rapid synthesis of ampicillin-conjugated nanoparticles, which supports scale up processes for industry. We suggest that the combination of antibiotic and silver in these nanoparticles produces a synergistic effect that circumvents resistance mechanisms and has the potential to provide a new line of combinatorial agents able to treat multi-drug resistant infections.}
+}

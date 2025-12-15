@@ -1,0 +1,13 @@
+@article{XU2025119206,
+title = {Quasi-static compression and impact resistances of novel re-entrant chiral hybrid honeycomb structures},
+journal = {Composite Structures},
+volume = {366},
+pages = {119206},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119206},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500371X},
+author = {Z.H. Xu and Y.J. Cui and K.F. Wang and B.L. Wang and B. Wang},
+keywords = {Re-entrant honeycombs, Chiral honeycombs, Negative Poisson’s ratio, In-plane impact, Energy absorption},
+abstract = {Negative Poisson’s ratio metamaterials have excellent energy absorption performance and have been widely used in impact protection structures. The re-entrant hexagonal honeycomb (TRH) is one typical and widely used metamaterial. However, the TRH has drawbacks of insufficient stiffness and unstable deformation. This paper combines the traditional re-entrant cell with a chiral cell to form re-entrant chiral hybrid cells (RCEs) to further improve the mechanical properties of TRH. By arranging the intercellular connectors and RCEs with different patterns, four novel negative Poisson’s ratio honeycomb structures (RCH-1, RCH-2, RCH-3 and RCH-4) are proposed. The in-plane quasi-static compression characteristic of TRH and RCH-4 are investigated through experiments and simulations. Effects of the honeycomb type, the cell wall’s thickness, the chiral ring’s radius, the impact direction and velocity on impact resistance are evaluated. It’s found that the introduction of chiral ring not only has a supportive effect on the inclined cell walls also enhances the deformation stability and load-bearing capacity of RCEs. Reducing the radius of chiral ring within a certain range can enhance the impact resistance of the proposed honeycomb structures. Properly increasing the cell wall’s thickness can improve the impact resistance of honeycomb structures. It is observed that the RCH-4 has the highest plateau stress, elastic modulus, specific energy absorption and the most stable deformation pattern under vertical impact. In the case of lateral impact, the RCH-2 has the highest specific energy absorption. At different impact velocities, the specific energy absorptions of the proposed honeycomb structures are higher than that of TRH.}
+}

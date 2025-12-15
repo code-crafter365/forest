@@ -1,0 +1,13 @@
+@article{WEN2025118813,
+title = {Design, experiment, and finite element analysis of bio-inspired novel 3D woven tubular composites},
+journal = {Composite Structures},
+volume = {354},
+pages = {118813},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118813},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009413},
+author = {Fangfang Wen and Yongfang Qian and Yuan Gao and Xinghai Zhou and Lihua Lyu},
+keywords = {Biomimetic structures, 3D woven tubula composites, Energy absorption, Finite element simulation},
+abstract = {3D textile-structured tubular composites currently suffer from problems with single cross-sectional shapes and low energy absorption efficiency. To address the above problems, this study proposes a novel tubular structure inspired by the bamboo structure, characterized by a concentric nested structure of “double tubes & double ribs.” Bio-inspired novel 3D woven tubular composites (3D-WBBTC) with the above structures were prepared using the VARTM process, aiming to enhance the energy absorption of 3D woven tubular composites. The axial compression performance and energy absorption performance of 3D-WBBTC were studied using quasi-static axial compression tests and finite element numerical simulations. The results show that the specific energy absorption ranges from 7.41 to 11.59 J·g−1 and compression force efficiency ranges between 0.50 and 0.75, significantly improved compared to traditional 3D woven tubular composites. The damage mode of 3D-WBBTC is a hybrid damage mode of “local buckling of the tube wall & partial folding of the ribs,” which includes debonding of the fiber-resin interface, different forms of fiber breakage, and peeling, shedding, and cracking of the resin. It provides a new approach to the innovative design of 3D woven tubular composites.}
+}

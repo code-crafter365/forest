@@ -1,0 +1,13 @@
+@article{AHN2025114211,
+title = {Real-time detection of Tau-381 protein using liquid crystal-based sensors for Alzheimer's disease diagnosis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114211},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114211},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004703},
+author = {Jun-Seong Ahn and Chang-Hyun Jang},
+keywords = {Liquid crystal, Interface, Tau-381, Aptamer, Sensor, Alzheimer’s disease},
+abstract = {Tau is a protein found in the central nervous system (CNS) and is involved in stabilizing microtubules in axons. Given the link between Tau levels in the body and Alzheimer's disease (AD), there is a demand for straightforward and precise strategies to detect Tau in body fluids. In this study, we report liquid crystal (LC)-based sensors for the real-time detection of Tau protein, a well-known AD biomarker. The sensor uses a detection method based on the orientation change of the LC because of the competitive biomolecular interaction between Tau and Tau aptamers with the cationic polymer poly-L-lysine (PLL). Tau and its aptamers form stable complexes through electrostatic interactions. Owing to the consumption of the aptamer, the positively charged PLL fails to interact with the aptamer but binds to the negatively charged 1.2-dioleoyl-sn-glycero-3-phospho-(1′-rac-glycerol) sodium salt (DOPG). The PLL and DOPG complex alters the orientation of the LC to ensure a planar anchoring of the 4-cyano-4′-pentylbiphenyl (5CB)/aqueous interface; this anchoring intensifies with increasing Tau concentration, thus enabling the observation of a bright optical image. Our LC-based sensor demonstrated a low detection limit of 2.77 pg/mL in phosphate buffered saline (PBS) and 10.86 pg/mL and 19.31 pg/mL in human serum and plasma, respectively. Moreover, it is anticipated to be suitable for point-of-care diagnosis of AD because it does not require specialized analytical equipment and only requires microliters of sample.}
+}

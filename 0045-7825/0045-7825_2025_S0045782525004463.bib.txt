@@ -1,0 +1,13 @@
+@article{ZHANG2025118174,
+title = {Active learning informed proper orthogonal decomposition for reduced order modelling of heat transfer in porous medium},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118174},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118174},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004463},
+author = {Pin Zhang and Brian Sheil and Mark Girolami},
+keywords = {Active learning, Model order reduction, Reduced order model, Heat transfer, Soil},
+abstract = {Modern monitoring technologies require fast and accurate inference of the spatio-temporal responses of dynamic and complex systems. Reduced order models (ROMs) offer a cost-effective way to meet this demand, yet there are many open questions to develop a robust ROM of a complex engineering problem. This study proposes an active learning (AL) informed proper orthogonal decomposition (POD) method for developing ‘non-intrusive’ ROMs. The probability density function (PDF) of ROM errors is tailored to guide AL in the search of an optimal global energy criterion. To select an appropriate machine learning algorithms (ML) for both online and offline stages, several different ML algorithms are evaluated by constructing the same ROM for comparison. The results indicate that PDF-based AL promotes a smart sampling process at the offline stage, ensuring that each sample contributes effectively towards identifying the optimal global energy criterion. Random forest embedded AL shows excellent performance, exhibiting superior accuracy and data savings during intelligent sampling. For developing surrogate models and the online expansion coefficient estimators, the radial basis function network provides optimal performance in terms of accuracy and computational speed. The proposed method accurately captures spatio-temporal heat transfer in soils under various scenarios, while mitigating overfitting and over-use of POD modes, enabling the development of robust and parsimonious ROMs. The proposed framework is also generic, enabling flexible extrapolation to tackle other computationally demanding problems where accuracy and efficiency are critical.}
+}

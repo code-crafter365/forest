@@ -1,0 +1,13 @@
+@article{CAO2025108788,
+title = {Deterioration behaviors of phenolic amine/epoxy-based GFRP laminates exposed to aggressive environments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108788},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108788},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500082X},
+author = {Yinlong Cao and Guanghui Gao and Wenhuan Wang and Genjin Liu and Jiuwen Bao and Yifei Cui and Ying Li},
+keywords = {GFRP laminates, Phenolic amine/epoxy resin system, Moisture absorption, Tensile properties, Aggressive environments},
+abstract = {The advanced resin systems are crucial for the application of GFRP in the practical marine engineering. Besides, the reliable performance data on GFRP exposed to marine environment are still lacking. This study aims to comprehensively evaluate the durability-related performance of the GFRP laminates made up of the modified resin. In this experiment, the resin and GFRP laminate specimens were exposed to deionized water (DW), real seawater (RSW), simulated pore solutions of seawater sea sand concrete (SSCSPS) and real marine environment (RME). The results showed that the moisture absorption of GFRP laminates in SSCSPS was higher than that in DW and RSW due to the destruction of GFRP multiphase structures. The tensile strength of the resin exposed to RSW and RME after 90 days was improved due to its post-curing, while that of GFRP laminates decreased by 8–9 %. Besides, it was remarkable that the tensile strength retention of the resin and GFRP laminates immersed in SSCSPS after 90 days was decreased by more than 30 %. The modified prediction model was developed by considering the resin factor on tensile strength of GFRP laminates exposed to various environments. Furthermore, the deterioration mechanisms of GFRP laminates were discussed by morphology characterization.}
+}

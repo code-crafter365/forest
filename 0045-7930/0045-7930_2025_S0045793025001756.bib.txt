@@ -1,0 +1,13 @@
+@article{MIDANI2025106715,
+title = {Immersed boundary formulation for complex geometries in hypersonic flows: Application to atmospheric reentry},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106715},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106715},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001756},
+author = {Iko Midani and Valentin Ledermann and Eddy Constant and Martin Spel and Laurent Stainier and Pierre Boivin and Julien Favier},
+keywords = {Hypersonic flows, Atmospheric re-entry, Immersed boundary methods, Euler equations},
+abstract = {This article discusses the challenges of modeling atmospheric reentry using computational fluid dynamics (CFD) due to its complexity and practical industrial applications. Ablation phenomena caused by high energy make it difficult and time-consuming to use a “high-fidelity” CFD method to accurately measure forces and heat flux. As a result, methods based on Newton’s theory are used to model aerodynamic forces, incorporating statistical correlations from CFD results to estimate heat fluxes. However, these methods sacrifice accuracy for CPU and engineering time and have difficulty representing realistic physics when complex phenomena occur, such as shock interactions. To bridge the gap between approximate and high-fidelity methods, we propose a new approach using an automatic grid generation method of the octree Cartesian type coupled to a solver solving Euler’s equations. To apply the boundary condition accurately we compared two immersed boundary methods: a diffuse interface method and a sharp interface method under hypersonic flow configurations. We present a comparative study of these two formulations on verification and validation phases, including an academic test case and an industrial case on a real reentry spacecraft. The novelty lies in applying these methods to complex cases involving strong discontinuities (attached shocks). After concluding this comparative study, we demonstrate that with adapted formulations and an optimized approach, IB methods can handle complex geometries typical of atmospheric reentry.}
+}

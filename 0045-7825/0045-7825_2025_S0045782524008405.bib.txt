@@ -1,0 +1,13 @@
+@article{MANDL2025117586,
+title = {Separable physics-informed DeepONet: Breaking the curse of dimensionality in physics-informed machine learning},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117586},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117586},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008405},
+author = {Luis Mandl and Somdatta Goswami and Lena Lambers and Tim Ricken},
+keywords = {Neural operator, Physics-informed, Scientific machine learning, Separation of variables},
+abstract = {The deep operator network (DeepONet) has shown remarkable potential in solving partial differential equations (PDEs) by mapping between infinite-dimensional function spaces using labeled datasets. However, in scenarios lacking labeled data, the physics-informed DeepONet (PI-DeepONet) approach, which utilizes the residual loss of the governing PDE to optimize the network parameters, faces significant computational challenges, particularly due to the curse of dimensionality. This limitation has hindered its application to high-dimensional problems, making even standard 3D spatial with 1D temporal problems computationally prohibitive. Additionally, the computational requirement increases exponentially with the discretization density of the domain. To address these challenges and enhance scalability for high-dimensional PDEs, we introduce the Separable physics-informed DeepONet (Sep-PI-DeepONet). This framework employs a factorization technique, utilizing sub-networks for individual one-dimensional coordinates, thereby reducing the number of forward passes and the size of the Jacobian matrix required for gradient computations. By incorporating forward-mode automatic differentiation (AD), we further optimize computational efficiency, achieving linear scaling of computational cost with discretization density and dimensionality, making our approach highly suitable for high-dimensional PDEs. We demonstrate the effectiveness of Sep-PI-DeepONet through three benchmark PDE models: the viscous Burgers’ equation, Biot’s consolidation theory, and a parameterized heat equation. Our framework maintains accuracy comparable to the conventional PI-DeepONet while reducing training time by two orders of magnitude. Notably, for the heat equation solved as a 4D problem, the conventional PI-DeepONet was computationally infeasible (estimated 289.35 h), while the Sep-PI-DeepONet completed training in just 2.5 h. These results underscore the potential of Sep-PI-DeepONet in efficiently solving complex, high-dimensional PDEs, marking a significant advancement in physics-informed machine learning.}
+}

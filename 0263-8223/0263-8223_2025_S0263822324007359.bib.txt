@@ -1,0 +1,13 @@
+@article{SCATTAREGGIAMARCHESE2025118607,
+title = {Feasibility study on additive-manufactured honeycomb sandwich structural solutions for a Fast Patrol Vessel},
+journal = {Composite Structures},
+volume = {351},
+pages = {118607},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118607},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007359},
+author = {Simone {Scattareggia Marchese} and Gabriella Epasto and Vincenzo Crupi and Yordan Garbatov},
+keywords = {Optimisation, Ship design, Light-weight structures, Fibre-reinforced plastics, Additive manufacturing, Honeycomb sandwich},
+abstract = {This work represents a significant step toward integrating additive-manufactured honeycomb sandwiches into ship hull structures. The sandwich structure consists of two continuous fibre-reinforced thermoplastic faces and a regular honeycomb core made of chopped fibre-reinforced thermoplastic. The primary goal is to create optimal manufacturing and design methods to determine to which extent the sandwich solution that has been analysed may be used as a structural component of a fast patrol vessel. The core of the design procedure is a purposely developed evolutionary multiobjective optimisation routine suited to evaluate the flexural response of the structure under investigation. The analytical formulations utilised to predict the structural response of an additive-manufactured honeycomb sandwich subjected to 3-point bending have been derived using a combined analytical and experimental approach. A fast patrol vessel made of steel has been taken as a reference to demonstrate the capabilities of the proposed solution. A steel primary stiffener and its associated plate have been extracted from the midship section and replaced by an additively manufactured honeycomb sandwich. By maintaining the same structural encumbrances, it has been found that a pseudo-optimal combination of the mechanical properties of the sandwich base materials can accomplish an exceptional weight reduction of three times.}
+}

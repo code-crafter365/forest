@@ -1,0 +1,13 @@
+@article{SARKAR2025104319,
+title = {Mandala simplification: Sacred symmetry meets minimalism},
+journal = {Computer Vision and Image Understanding},
+volume = {254},
+pages = {104319},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104319},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000426},
+author = {Tusita Sarkar and Preetam Chayan Chatterjee and Partha Bhowmick},
+keywords = {Computer graphics, Computational geometry, Image processing, Computer-aided design},
+abstract = {Mandalas, intricate artistic designs with radial symmetry, are imbued with a timeless allure that transcends cultural boundaries. Found in various cultures and spiritual traditions worldwide, mandalas hold profound significance as symbols of unity, wholeness, and spiritual transformation. At the heart of mandalas lies the concept of sacred symmetry, a timeless principle that resonates with the deepest realms of human consciousness. However, in handcrafted mandalas, symmetry often falls short of perfection, necessitating refinement to evoke harmony and balance. With this in mind, we introduce a computational approach aimed at capturing the all-round symmetry of mandalas through minimalist principles. By leveraging innovative geometric and graph-theoretic tools and an interactive twin atlas, this approach streamlines parameter domains to achieve the revered state of sacred symmetry, epitomizing harmonious balance. This is especially beneficial when dealing with handcrafted mandalas of subpar quality, necessitating concise representations for tasks like mandala editing, recreation, atlas building, and referencing. Experimental findings and related results demonstrate the effectiveness of the proposed methodology.}
+}

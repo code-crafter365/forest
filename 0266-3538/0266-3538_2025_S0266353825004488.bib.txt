@@ -1,0 +1,12 @@
+@article{DING2025111480,
+title = {Investigation on suppressing curing deformation and optimizing performance of fiber composites with gravity-driven strategies},
+journal = {Composites Science and Technology},
+pages = {111480},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111480},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825004488},
+author = {Yuhang Ding and Xishuang Jing and Fubao Xie and Jingyan An and Boyan Shen and Siyu Chen and Chengyang Zhang},
+keywords = {Fiber composites, Process-induced deformation, Gravity-driven strategies, Resin flow, Mechanical properties},
+abstract = {Process-induced deformation (PID) during the curing of thermoset composites, driven by complex mechanisms, compromises the load-bearing capacity and service life of assembled components. This study explores a gravity-driven strategy, inspired by gravitropism in plant root growth, to suppress PID and enhance the performance of thin-walled S-glass fiber-reinforced polymer (GFRP) laminates for aerospace applications. The upside-down molding (UM) process, leveraging gravitational resin flow, reduced thickness variance by up to 47.37% and curing deformation by up to 24.28% compared to conventional molding (CM). Three-point bending tests revealed UM improved bending strength stability, energy absorption density rises of 16.10%. These enhancements, attributed to optimized interlayer resin distribution, suggest potential for aerospace structural applications.}
+}

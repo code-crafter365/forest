@@ -1,0 +1,13 @@
+@article{VANDERLAAT2025105791,
+title = {tonus: Detection, characterization and cataloguing of seismo-volcanic tonal signals},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105791},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105791},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002747},
+author = {Leonardo {van der Laat} and Mauricio M. Mora and Javier Fco. Pacheco and Philippe Lesage and Esteban Meneses},
+keywords = {Tonal coda, Harmonic tremor, Volcano seismology, Turrialba, Rincón de la vieja, Costa rica},
+abstract = {Observational seismology plays a crucial role in volcano monitoring programs. It enables the detection and understanding of various volcanic processes. Among the variety of seismic signatures, tonal coda and harmonic tremor stand out. They showcase at least one prominent spectral peak and appear at various phases of volcanic activity, during late stages of pre-eruptive periods and eruptions. Previous studies have shown that the analysis of these signals can, not only enhance the understanding of volcanic processes, but potentially contribute to eruption forecasting. This research introduces tonus, a software tool designed to detect, analyze, and catalogue tonal events in a volcano observatory context. The tool provides user-friendly graphical interfaces that facilitate data visualization and analysis, parameters adjustment, and querying of a standardized database. Developed using open-source and cross-platform systems, tonus uniquely detects and systematically catalogs relevant characteristics of tonal coda and harmonic tremor events. The detection algorithm, tested with pre-eruptive data from Turrialba volcano in April 2016, achieved 95% precision and 80% recall. The occurrence of thousands of tonal events in Costa Rican volcanoes inspired the development of this software, providing us with the ability to rapidly process tonal seismicity. Over the last three years, the use of this software enabled the identification of surges in tonal coda events, characterized by decreasing spectral frequencies, preceding eruptive activities at both Turrialba and Rincón de la Vieja volcanoes. tonus represents a significant contribution to volcano seismology research and monitoring, successfully bridging a gap between academic methodologies and practical observatory applications.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025102552,
+title = {Self-supervised network predicting neoadjuvant chemoradiotherapy response to locally advanced rectal cancer patients},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102552},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102552},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000618},
+author = {Qian Chen and Jun Dang and Yuanyuan Wang and Longhao Li and Hongjian Gao and Qingshu Li and Tao Zhang and Xiangzhi Bai},
+keywords = {Locally advanced rectal cancer, Neoadjuvant chemoradiotherapy, Self-supervised learning, Response prediction},
+abstract = {Radiographic imaging is a non-invasive technique of considerable importance for evaluating tumor treatment response. However, redundancy in CT data and the lack of labeled data make it challenging to accurately assess the response of locally advanced rectal cancer (LARC) patients to neoadjuvant chemoradiotherapy (nCRT) using current imaging indicators. In this study, we propose a novel learning framework to automatically predict the response of LARC patients to nCRT. Specifically, we develop a deep learning network called the Expand Intensive Attention Network (EIA-Net), which enhances the network’s feature extraction capability through cascaded 3D convolutions and coordinate attention. Instance-oriented collaborative self-supervised learning (IOC-SSL) is proposed to leverage unlabeled data for training, reducing the reliance on labeled data. In a dataset consisting of 1,575 volumes, the proposed method achieves an AUC score of 0.8562. The dataset includes two distinct parts: the self-supervised dataset containing 1,394 volumes and the supervised dataset comprising 195 volumes. Analysis of the lifetime predictions reveals that patients with pathological complete response (pCR) predicted by EIA-Net exhibit better overall survival (OS) compared to non-pCR patients with LARC. The retrospective study demonstrates that imaging-based pCR prediction for patients with low rectal cancer can assist clinicians in making informed decisions regarding the need for Miles operation, thereby improving the likelihood of anal preservation, with an AUC of 0.8222. These results underscore the potential of our method to enhance clinical decision-making, offering a promising tool for personalized treatment and improved patient outcomes in LARC management.}
+}

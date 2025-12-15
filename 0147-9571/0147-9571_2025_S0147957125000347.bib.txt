@@ -1,0 +1,13 @@
+@article{VILAR2025102326,
+title = {Staphylococcus spp. and methicillin-resistance gene mecA dispersion in seawater: A case study of Guanabara Bay's recreational and touristic waters},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {118},
+pages = {102326},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102326},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000347},
+author = {Lucas Cecílio Vilar and Antônio Carlos Silva Rego and Marco Antônio Lemos Miguel and Rodolfo Pinheiro da Rocha Paranhos and Marinella Silva Laport and Ciro César Rossi and Marcia Giambiagi-deMarval},
+keywords = {CoNS, , Antimicrobial resistance, Horizontal gene transfer, },
+abstract = {Environmental Staphylococci, particularly coagulase-negative Staphylococci (CoNS), are known reservoirs of antimicrobial resistance genes and human-animal opportunistic pathogens, yet their role within the One Health framework remains underexplored. In this study, we isolated 12 species of CoNS from two sites 10 km apart in Guanabara Bay, Rio de Janeiro, with the most frequent species being the opportunistic Staphylococcus saprophyticus (30.3 %), Staphylococcus warneri (25.7 %), and Staphylococcus epidermidis (16.7 %). GTG5-PCR fingerprinting revealed significant genetic diversity, yet identical profiles persisted across both sites throughout the year, indicating strain dispersion and persistence. Among the 66 strains analyzed, 42 exhibited resistance to clinically significant antimicrobials, including methicillin-resistant strains harboring the mecA gene. Remarkably, 22.7 % of the strains carried CRISPR-Cas systems, a frequency unusually high for Staphylococcus spp., suggesting that bacteriophage pressure in the seawater environment may drive this increase. The presence of antimicrobial-resistant CoNS in Guanabara Bay, a popular recreational area, represents a potential public health risk.}
+}

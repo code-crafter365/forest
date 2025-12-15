@@ -1,0 +1,13 @@
+@article{XU2025106697,
+title = {Comparative analysis of the hyperbolic Maxwell equations and constrained transport methods in magnetohydrodynamics simulations},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106697},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106697},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001574},
+author = {Jiaji Xu and Yuhang Hou and Shunhao Peng and Yongliang Feng and Xiaojing Zheng},
+keywords = {Magnetohydrodynamics, Numerical simulations, Hyperbolic Maxwell equations, Constrained transport method},
+abstract = {This study presents a comparative analysis of two major numerical solution strategies for magnetohydrodynamics (MHD) simulations, the hyperbolic Maxwell system of equations and the constrained transport (CT) method, equipped with two typical discrete schemes. The computational complexity of each method was evaluated by the number of differential operators and the spectral radius. It was found that the hyperbolic Maxwell method is computationally efficient for low-conductivity problems, with conductivity ranging between 10−4 and 10−2, demonstrating 2 to 4 orders of magnitude less complexity compared to the CT-MHD method. However, at high conductivities, where the conductivity is between 102 and 104, the hyperbolic Maxwell method experiences significant increases in computational time and complexity due to the light-speed source term, resulting in an algorithmic complexity 6 to 9 orders of magnitude higher than that of the CT-MHD method. The performance of the hyperbolic Maxwell method and the CT-MHD method in MHD simulations is subsequently evaluated through a systematic series of numerical test cases, including smooth flow fluid example, magnetic vortex problem, Brio-Wu shock tube, high Mach number shock tube, Orszag-Tang vortex, and MHD rotor problem. Results indicated that both methods achieve high accuracy for smooth problems. However, CT-MHD method demonstrates superior performance in several aspects, particularly the CT-WENO scheme, which exhibits significant advantages in terms of accuracy, shock wave capture capability, stability, magnetic field divergence control and energy conservation. The findings of this study can establish a foundation for the resolution of more complex magnetohydrodynamic problems in the future.}
+}

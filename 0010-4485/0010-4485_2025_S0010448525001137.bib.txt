@@ -1,0 +1,13 @@
+@article{KRUPPA2025103952,
+title = {On tool wear optimized motion planning for 5-axis CNC machining of free-form surfaces using toroidal cutting tools},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103952},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103952},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001137},
+author = {Kinga Kruppa and Juan Zaragoza Chichell and Michal Bizzarri and Michael Bartoň},
+keywords = {5-axis CNC machining, Tool wear, Motion planning, Free-form shape manufacturing, Toroidal cutter},
+abstract = {We propose a computational framework for motion planning for 5-axis CNC machining of free-form surfaces. Given a reference surface, a set of contact paths on it, and a shape of a toroidal cutting tool as input, the proposed algorithm designs the tool motions that are by construction locally and globally collision-free, and offers a trade-off between approximation quality and tool wear using an optimization-based framework. The proposed algorithm first quickly constructs 2D time-tilt configuration spaces along each contact path, detecting regions that are collision-free. The configuration spaces are then merged into a single time-tilt configuration space to find a global tilt function to control the overall motion of the tool. An initial collision-free tilt function in B-spline form is first estimated and then optimized to minimize the machining error while distributing the tool wear as uniformly as possible along the entire cutting edge of the tool while staying in the collision-free region. Our algorithm is validated on both synthetic free-form surfaces and industrial benchmarks, showing that one can considerably reduce the tool wear without degrading the machining accuracy.}
+}

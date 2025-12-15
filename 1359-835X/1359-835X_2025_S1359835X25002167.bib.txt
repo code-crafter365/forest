@@ -1,0 +1,13 @@
+@article{ZENG2025108922,
+title = {Thermally conductive and self-healable liquid metal elastomer composites based on poly(ionic liquid)s},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108922},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108922},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002167},
+author = {Jianhui Zeng and Xuancheng Li and Ting Liang and Taoying Rao and Zeyu Zheng and Yimin Yao and Jian-Bin Xu and Rong Sun and Liejun Li},
+keywords = {Thermal interface materials, Liquid metal, Poly (ionic liquid)s, Interfacial adhesion},
+abstract = {The rapid advancement of high-density chip packaging, driven by the AI revolution, demands high-performance thermal interface materials (TIMs). Nvidia’s GPU Blackwell B200 exceeds 800 W/cm2 in heat flux, underscoring the challenge of efficient heat management as chips shrink and power density rises. However, balancing high thermal conductivity and strong adhesion remains a persistent challenge for existing TIMs. In response to this issue, we introduce a novel TIM that incorporates poly(ionic liquid)s (PILs) as the matrix and liquid metal (LM) as the thermal conductive filler. This PIL/LM composite is fabricated using a straightforward physical blending method, resulting in that the composite with a mass fraction of 90 % LM exhibits excellent thermal stability, superior mechanical compliance, excellent self-healing properties, strong interfacial adhesion (1 MPa for steel), high thermal conductivity (4.3 W/(m·K)) and low interface contact thermal resistance (5.05 ± 1.21 × 10−7 m2·K/W), which is critical for ensuring efficient heat dissipation. This TIM shows remarkable heat dissipation capabilities and robust mechanical stability under thermal stress. This work highlights the significant potential of PILs in thermal management applications and provides a promising avenue for developing flexible TIMs that combine both adhesion and thermal conductivity.}
+}

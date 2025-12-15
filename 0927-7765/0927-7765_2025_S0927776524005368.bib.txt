@@ -1,0 +1,13 @@
+@article{YAO2025114277,
+title = {Enhanced antifouling and anti-swarming properties poly (sulfobetaine methacrylate-co-2-hydroxy-3-phenoxypropyl acrylate) hydrogel coatings for urinary catheters},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114277},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114277},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005368},
+author = {Chenghao Yao and Xiao Teng and Dan Sun and Colin Peter McCoy and Shuai Zhang},
+keywords = {Urinary catheter, Coating, Biofilm, Swarming, Infection, Zwitterionic hydrogel},
+abstract = {Catheter-associated urinary tract infection (CAUTI) remains an unsolved challenge to date, particularly with the emergence and rapid spread of antimicrobial-resistant bacterial pathogens. Despite extensive research, a catheter coating that can offer intrinsic resistance to host protein deposition, bacterial biofilm formation, and swarming is still urgently required. Zwitterionic hydrogel coatings due to their superior lubricity and antifouling properties represent a promising candidate, but their weak mechanical stability in water and poor resistance to bacterial swarming migration limit their application in urinary catheters for infection control. In this research, we describe the fabrication of a multifunctional catheter coating by copolymerizing zwitterionic sulfobetaine methacrylate (SBMA) polymers and a swarming inhibitor material, 2-hydroxy-3-phenoxypropyl acrylate (HPA). The introduction of polyHPA (PHPA) effectively impeded the uncontrolled swelling behavior of the zwitterionic PSBMA hydrogel, resulting in enhanced mechanical stability. Moreover, the copolymer coating retains the antifouling and anti-swarming properties of the homopolymers when challenged with fibrinogen, Escherichia coli, and Proteus mirabilis. The HPA content significantly correlated with its anti-adhesion activity against fibrinogen and biofilm, and the coating with an SBMA: HPA monomer feed molar ratio of 4:1 showed the best antifouling activity, reducing fibrinogen deposition by about 40 % and biofilm coverage by around fourfold compared to the uncoated polydimethylsiloxane (PDMS) surface. Furthermore, the copolymer coating also exhibited no cytotoxicity, suggesting it as a promising catheter coating for preventing CAUTI.}
+}

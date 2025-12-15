@@ -1,0 +1,13 @@
+@article{JIN2025106479,
+title = {A new sharing function for the common-weights WENO reconstruction of the Euler equations},
+journal = {Computers & Fluids},
+volume = {287},
+pages = {106479},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2024.106479},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793024003104},
+author = {Yiqiu Jin and Yiqing Shen and Guowei Yang and Guannan Zheng},
+keywords = {Weighted essentially non-oscillatory scheme, Common-weights, Euler equations, Sharing function},
+abstract = {Recently, one kind of common-weights weighted essentially non-oscillatory (Co-WENO) scheme was proposed to solve the Euler equations of the compressible flows. Different from the usual component-wise weighting methods, common-weights means that, on a global stencil, one set of weights is commonly shared by all components. Hence, the Co-WENO scheme can keep the same contribution on each component numerical flux and is more efficient than the component-wise weighting methods. This paper develops the Co-WENO reconstruction of the primitive variables applied in the Riemann solvers of Euler equations. A more robust sharing function (used to calculate the common weights) is proposed by taking into account the characteristic of the compressible wave (the effect of Mach number). Numerical results show that the Co-WENO scheme based on the new sharing function has good robustness and low numerical dissipation.}
+}

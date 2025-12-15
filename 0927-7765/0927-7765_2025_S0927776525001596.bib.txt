@@ -1,0 +1,14 @@
+@article{BAYRAK2025114652,
+title = {Nintedanib loaded iron (III) chelated melanin nanoparticles as an MRI-visible antifibrotic drug delivery system},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114652},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114652},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001596},
+author = {Emirhan Bayrak and Ece Bayir and Engin Baysoy and Alpay Özcan and Bugra Ayan and Ecem Saygili and Gizem Kaleli-Can},
+keywords = {Nintedanib, Natural melanin nanoparticles, Controlled release system, Zero-order kinetic, MRI},
+abstract = {Abstract
+Idiopathic pulmonary fibrosis (IPF) is a fatal, progressive lung disease characterized by extensive scarring and thickening of lung tissue that leads to respiratory failure. Early and accurate diagnosis is crucial for monitoring disease progression and assessing therapeutic efficacy. While imaging modalities such as radiological X-rays and high-resolution computed tomography (HRCT) are commonly employed, magnetic resonance imaging (MRI) offers significant advantages, including superior soft tissue contrast and the absence of ionizing radiation. However, in lung MRIs are hindered by short transverse relaxation times, low proton density, and motion artifacts which is addressed herein by developing theranostic platform combining MRI imaging with targeted drug delivery using melanin nanoparticles conjugated with nintedanib (MNP-NIN). Chelation with ferric ions (MNP-NIN-Fe³⁺) enhanced MRI visibility enabling non-invasive imaging and drug tracking. MNP-NIN and MNP-NIN-Fe³ ⁺ nanoparticles were built with mean diameters of 189 ± 44 nm and 182 ± 35 nm, respectively and demonstrating successful NIN conjugation. Controlled NIN release followed zero-order kinetics over 36 days. MNP conjugation reduced cytotoxicity in BEAS-2B and A549 cells improving the drug's safety. MRI experiments conducted with a 7.0 T animal scanner demonstrated enhanced imaging contrast with MNP-NIN-Fe solutions compared to saline underscoring their potential for localized visualization and tracking within lung tissues. By integrating MRI diagnostics and targeted drug delivery, the MNP-NIN-Fe³ ⁺ system offers a promising solution to overcome current challenges in IPF management. This theranostic platform addresses the limitations of conventional imaging techniques while providing an innovative strategy for reducing drug-related systemic side effects and improving therapeutic efficacy.}
+}

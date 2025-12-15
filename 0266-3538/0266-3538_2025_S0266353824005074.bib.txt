@@ -1,0 +1,13 @@
+@article{DENG2025110937,
+title = {A superhydrophobic Fe3O4@MSN-PDMS based composite coating with icephobicity, long-term durability and self-healing property for anti-/de-icing},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110937},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110937},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005074},
+author = {Lechun Deng and Zongwen Wang and Junzhi Wu and Xingshi Gu and Hao Yu and Yang Li and Yaru Cao and Fa Luo and Xianhu Liu and Qiang Chen},
+keywords = {Anti-icing coating, Photothermal de-icing, Self-healing, Rotor wing},
+abstract = {Ice formation is a ubiquitous phenomenon in various fields and often leads to catastrophic consequences. Despite numerous anti-icing coating strategies have been exploited, there are still multiple roadblocks in the way of developing anti-icing coatings with durable and effective anti-/de-icing properties. In this work, Fe3O4 was coated in-situ with mesoporous silica nanoparticle (MSN), in which a high dosage of polydimethylsiloxane (PDMS) was then loaded. As-obtained core-shelled Fe3O4@MSN-PDMS aggregates were incorporated into silicone resin to construct an NIR responsive anti-/de-icing coating via spraying method. The as-prepared coating exhibited superhydrophobicity (156.7° of water contact angle) and delayed icing time to 412 s under −20 °C. Besides, the prepared coating could heat and release PDMS to constitute a PDMS/water double-layer lubricant under NIR irradiation, significantly reducing ice adhesion strength from 90.60 kPa to 12.04 kPa. Furthermore, the prepared coating demonstrates self-healing properties and high durability, releasing PDMS stored in the coating sustainably to heal the damaged coating surface and keeping superhydrophobicity after chemical etching and mechanical erosion. Finally, the de-icing applicability of the coating was validated using a homemade rotor wing model. Such core-shelled anti-/de-icing materials would provide a theoretical basis and a brand-new design strategy for development and application of anti-/de-icing materials.}
+}

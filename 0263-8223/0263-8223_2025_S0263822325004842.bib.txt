@@ -1,0 +1,13 @@
+@article{YAN2025119319,
+title = {Study on ballistic protection and flame retardant insulation properties of modified aramid based on metal-ion bridge linkage},
+journal = {Composite Structures},
+volume = {368},
+pages = {119319},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119319},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004842},
+author = {Ke Yan and Xingyu Shen and Mengqi Yuan and Zixuan Fan and Shaobo Qi and Hao Wu and Haoshi Sun and Yazhuo Qian},
+keywords = {Surface structure, Fiber grafting, Bulletproof performance, Flame retardant insulation, Mechanism research},
+abstract = {By combining macro grafting behavior with the evolution of micro bridging structure, the study explored the fundamental mechanical properties, impact resistance, flame retardancy, and thermal insulation properties of MPP-Cu-MAF. Additionally, the impact resistance, flame retardancy, and thermal insulation mechanisms of MPP-Cu-MAF fabric composites were analyzed. Characterization experiments revealed changes in the chemical structure of the fiber before and after metal ion coordination and MPP grafting modification using the metal ion coordination bridging method. The successful preparation of MPP-Cu-MAF was confirmed, maintaining the integrity of the original material’s crystal structure. Yarn pull-out tests demonstrated a 3.2-fold increase in tensile strength for MPP-Cu-MAF compared to AF, along with improved friction performance. Ballistic tests indicated that MPP-Cu-MAF could increase the ballistic limit velocity (V50) of AF from 51 m/s to 97 m/s, with significant enhancements in SEA and η values. Multi-layer laminated modified composite fiber materials exhibited strong bulletproof performance. Flame retardancy and thermal insulation experiments revealed the mechanisms behind these properties, showing that MPP-Cu-MAF outperformed AF in both aspects. These findings offer theoretical support and an experimental basis for the development and application of MPP-Cu-MAF as new protective materials in engineering practice.}
+}

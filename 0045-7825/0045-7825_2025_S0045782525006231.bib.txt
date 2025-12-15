@@ -1,0 +1,13 @@
+@article{LOFRANCO2025118351,
+title = {A hybrid flux-preserving finite element for coupled flow deformation: Linear formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118351},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118351},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006231},
+author = {Simona {Lo Franco} and Michele Terzano and Guido Borino and Gerhard A. Holzapfel and Francesco Parrinello},
+keywords = {Poroelasticity, Porous media, Variational principles, Hybrid finite element method, Coupled problems},
+abstract = {Accurate modeling of coupled solid-fluid systems in porous media poses intrinsic computational challenges due to the nonlinear interaction between kinematic fields and fluid transport. Although a wide spectrum of finite element formulations is documented in the literature, the majority are based on principles in which solid displacement and fluid pressure fields are treated as primary unknowns, leading to a saddle point problem, thus requiring the satisfaction of the inf-sup condition to ensure the well-posedness and stability of the mixed formulation. Furthermore, in critical scenarios, such as low permeability or small time steps, numerical instabilities, including pressure oscillations, may still occur, requiring the implementation of stabilization techniques or the adoption of high-resolution discretizations to maintain solution accuracy. The present contribution proposes a novel hybrid flux-preserving finite element formulation, designed to preserve mass flux consistency within each element, by adopting an alternative set of primary variables. An original hybrid variational principle is established, wherein the solid deformation and the mass flux fields are adopted as primary unknowns, while the fluid potential acts as a Lagrange multiplier to enforce weak continuity of mass flow across inter-element boundaries, thus avoiding the necessity of globally conforming function spaces. The resulting hybrid element is implemented within the open-source software FEAP. Its performance is assessed through classical benchmark problems in poroelasticity. In particular, the accurate resolution of the fluid pressure field highlights the advantages of the proposed formulation over classical displacement-pressure elements and shows the potential of the proposed method.}
+}

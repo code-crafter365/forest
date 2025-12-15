@@ -1,0 +1,13 @@
+@article{TORRES2025117452,
+title = {A variational phase-field framework for thermal softening and dynamic ductile fracture},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117452},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117452},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007072},
+author = {David E. Torres and Tianchen Hu and Andrew J. Stershic and Timothy R. Shelton and John E. Dolbow},
+keywords = {Plasticity, Phase-field, Shear, Shear-band, Variational},
+abstract = {A variational phase field model for dynamic ductile fracture is presented. The model is designed for elasto-viscoplastic materials subjected to rapid deformations in which the effects of heat generation and material softening are dominant. The variational framework allows for the consistent inclusion of plastic dissipation in the heat equation as well as thermal softening. It employs a coalescence function to degrade fracture energy during regimes of high plastic flow. A variationally consistent form of the Johnson–Cook model is developed for use with the framework. Results from various benchmark problems in dynamic ductile fracture are presented to demonstrate capabilities. In particular, the ability of the model to regularize shear band formation and subsequent damage evolution in two- and three-dimensional problems is demonstrated. Importantly, these phenomena are naturally captured through the underlying physics without the need for phenomenological criteria such as stability thresholds for the onset of shear band formation.}
+}

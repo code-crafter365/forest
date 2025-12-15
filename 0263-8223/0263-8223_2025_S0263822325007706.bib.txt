@@ -1,0 +1,13 @@
+@article{JIAXIANG2025119605,
+title = {A finite strain macro-mesoscopic damage constitutive model of particle-filled polymer composites: theoretical and numerical implementation},
+journal = {Composite Structures},
+volume = {372},
+pages = {119605},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119605},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007706},
+author = {Wang Jiaxiang and Qiang Hongfu and Wang Xueren and Wang Zhejun and Li Shiqi},
+keywords = {Particle-filled composites, Solid propellants, Constitutive model, Macro-mesoscopic, Damage},
+abstract = {A finite strain macro-mesoscopic damage constitutive model was proposed for typical particle filled polymer composites (HTPB propellants) in this study. The establishment of this model draws on the elastic–plastic multiplicative decomposition method of deformation gradient. By introducing viscoelastic model, interface dissociation and dewetting model, void deformation relaxation model, and microcrack propagation model, the total deformation gradient is decomposed into the product of viscoelastic part, dewetting void damage part, and microcrack damage propagation part, describing the macroscopic mechanical behavior and characterizing the microscopic physical mechanism of damage. We further implemented the finite strain damage model into the finite element software ABAQUS through the user material subroutine UMAT. We calibrated the model parameters using experimental data of HTPB propellant under uniaxial tension and verified the accuracy of the model through comparison with experiments. Overall, the established model can not only predict the macroscopic stress–strain response of HTPB propellants, but also conduct microscopic damage evolution analysis. This study provides a new approach for studying the mechanical behavior of particle reinforced composite materials.}
+}

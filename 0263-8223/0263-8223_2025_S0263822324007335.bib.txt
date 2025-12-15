@@ -1,0 +1,13 @@
+@article{REZATORABI2025118605,
+title = {Translaminar fracture toughness characterisation for a glass fibre/polyamide 6 laminated composite by a novel approach based on fictitious material concept},
+journal = {Composite Structures},
+volume = {351},
+pages = {118605},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118605},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007335},
+author = {Ali {Reza Torabi} and Andrea Carpinteri and Karolina Głowacka and Sobhan Mohammadi and Camilla Ronchei and Daniela Scorza and Andrea Zanichelli and Sabrina Vantadori},
+keywords = {Fictitious material concept, Fracture toughness, Laminated composite, Nonlinearity, Translaminar},
+abstract = {This paper proposes a novel approach for the characterisation of the material fracture toughness associated with translaminar tensile failure, consisting in the application of the Fictitious Material Concept (FMC) by using the testing configuration of the Modified Two Parameter Model (MTPM). The main advantage of such an approach is to avoid the use of nonlinear fracture mechanics for material fracture toughness characterisation. The novel approach is applied to compute the translaminar fracture toughness of a unidirectional glass fibre (GF)/polyamide 6 (PA6) laminated composite. Moreover, the experimental campaign carried out is numerically simulated by means of a micromechanical finite element model, and the fracture toughness is computed by employing two different approaches, that is, the novel one and the MTPM. The present study proves, for the first time, that the Fictitious Material Concept can be applied by considering both experimental and numerical structural responses since it provides, in both cases, quite satisfactory accuracy in term of laminated composite fracture toughness. Therefore, the great advantage is that, when a validated numerical model is available, experimental campaigns may be avoided, saving time and money. Moreover, it is proved that the FMC can be used to investigate specimen size effect on fracture toughness.}
+}

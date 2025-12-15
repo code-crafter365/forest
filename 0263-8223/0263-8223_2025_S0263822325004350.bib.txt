@@ -1,0 +1,13 @@
+@article{SIMSEK2025119270,
+title = {Vibration of a functionally graded (FG) prestressed beam with a parabolic tendon under series of moving loads using higher order beam theory},
+journal = {Composite Structures},
+volume = {367},
+pages = {119270},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119270},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004350},
+author = {Mesut Şimşek},
+keywords = {Vibration, Functionally graded materials, Equidistant moving loads, Third order shear deformation theory},
+abstract = {In this study, dynamic response of a functionally graded (FG) prestressed beam having a parabolic tendon under the action of the series of moving loads has been examined using the third order shear deformation beam theory. The material properties of the FG beam vary continuously in the thickness direction according to the power-law form. The time-dependent equations of the motion are obtained with the help of the Lagrange’s equations, and solved by means of the method of Newmark-β. The trial functions for axial, transverse deflections and rotation of the cross-sections are expressed in polynomial forms in order to obtain dynamic responses. Boundary conditions of the beam are satisfied by incorporating the auxiliary functions into the displacement functions. For the practical purposes, the only simply supported end conditions are considered. Assuming that the moving loads are equidistant with the same amplitude and move with the constant velocity, comprehensive numerical results are presented in tabular form and in figures so as to investigate the effects of the number of moving loads, the distance between the moving loads, the prestressing load, and the material gradient index on the dynamic deflection and the critical speed which causes resonance phenomena. Moreover, some comparisons are performed to validate the present procedure. The results show that the number of the moving loads travelling through the beam is the most important factor which causes the resonance.}
+}

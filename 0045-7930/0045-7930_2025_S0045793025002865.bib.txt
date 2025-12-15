@@ -1,0 +1,13 @@
+@article{NCHUPANG2025106826,
+title = {A stable and accurate finite difference approximation for the incompressible lid-driven cavity flow with focus on the corner singularities},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106826},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106826},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002865},
+author = {Prince Nchupang and Arnaud G. Malan and Jan Nordström},
+keywords = {Incompressible Navier–Stokes equations, Lid-driven cavity, Summation-by-parts, Weak boundary conditions, Discontinuous boundary conditions, High order accuracy},
+abstract = {The lid-driven cavity test case is widely used to validate incompressible Navier–Stokes flow solvers. However, the rigorous treatment of discontinuous corner boundary conditions remains a challenge for high-order methods. This is the main goal of the paper. We write the incompressible Navier–Stokes equations in skew-symmetric form and we impose the boundary conditions weakly which leads to boundedness without any special treatment in the corners. The continuous procedure is mimicked in the discrete setting using high-order finite difference methods in Summation-By-Parts (SBP) form complemented with weak boundary conditions using the Simultaneous Approximation Term (SAT) technique. Stability is then formally proven using the SBP-SAT framework. Numerical tests commence with a method-of-manufactured solution and the scheme is shown to be high order accurate. The lid-driven cavity test case is finally studied using a 4th order accurate scheme and the results are compared to benchmark solutions. Accurate solutions are achieved that are devoid of spurious oscillations near the top corners and the velocities remain bounded, demonstrating the unique versatility of the weak SAT boundary treatment.}
+}

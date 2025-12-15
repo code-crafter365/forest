@@ -1,0 +1,13 @@
+@article{ZHOU2025118325,
+title = {A two-field proper orthogonal decomposition for nonlinear model reduction via a Hellinger-Reissner variational formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118325},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118325},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005973},
+author = {Wenxiang Zhou and Kai Luo and Qiang Tian and Haiyan Hu},
+keywords = {Two-field POD, Hellinger-Reissner variational principle, Nonlinear model reduction, Geometric nonlinearity, Stiffness invariants},
+abstract = {The proper orthogonal decomposition (POD) enables effective reduced-order modeling of geometrically nonlinear structures through low-dimensional subspace projection. The conventional POD-based methods construct the reduced-order model solely from the reduced-order bases of global displacement field, leading to the high-order internal force vector and stiffness tensor of reduced coordinates. In this study, the method of a two-field POD is proposed with the introduction of both displacement and stress bases. First, the previous POD-based model reduction of nonlinear structures is reviewed, including the Galerkin projection-based reduction and the stiffness invariants-based reduction. Then, the two-field POD-based reduction is constructed via the Hellinger-Reissner variational formulation so that the reduced-order dynamics equations with stiffness invariants are deduced from the displacement and stress bases. The trade-off of computational cost between the reduced inertial forces and the reduced internal forces is balanced and the computational complexity of stiffness invariants is reduced from a quartic order to a cubic order. Three numerical examples are presented to verify the model reduction for geometrically nonlinear dynamics, including the free swing of a flexible pendulum, the large deformation of a continuum arm and the vibration of an aircraft wing skeleton. The proposed reduced-order model exhibits both high efficiency and high accuracy, outperforming typical reduction approaches.}
+}

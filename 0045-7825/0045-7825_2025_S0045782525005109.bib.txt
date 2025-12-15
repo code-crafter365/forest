@@ -1,0 +1,13 @@
+@article{ZHAO2025118238,
+title = {Staggered algorithms for coupled problems: Convergence analysis and application to phase field modeling of thermal cracking},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118238},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118238},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005109},
+author = {Yonghui Zhao and Juhan Jiang and Bing Lyu and Yongxing Shen},
+keywords = {Phase field model for fracture, Staggered scheme, Convergence analysis, Degree of coupling, Multi-field coupled problem, Thermal cracking},
+abstract = {The staggered algorithm is one of the most widely used iteration strategies for multi-field coupled problems. This scheme solves for the fields alternately by fixing all but one field and updating the remaining field until all fields converge. It is often stable and robust in solving for the individual fields; however, it sometimes requires many iterations between the fields, leading to high computational costs. This study reveals that a parameter coined the degree of coupling (DOC) is the deciding factor for the convergence behaviors of the staggered scheme. For two-field coupled problems, the DOC is defined based on the blocks of the Jacobian matrix (or tangent stiffness matrix). It can be proven that the staggered scheme exhibits first-order convergence, with the reduction factor of the residual and the error equal to the DOC. For coupled problems involving more fields, similar conclusions can be drawn, with the DOC defined for each possible iteration scheme, including simple schemes with cyclic permutations of the fields, and composite schemes with fields grouped into mega-fields (for example, five schemes exist for three fields, each of which has its own DOC). The predictive capability of this study is demonstrated using simple problems, classical phase field fracture examples, and the thermal-cracking problem, which involves the coupling of temperature, displacement field, and phase field. This study would be able to provide guidance in choosing among the available schemes for multi-field problems.}
+}

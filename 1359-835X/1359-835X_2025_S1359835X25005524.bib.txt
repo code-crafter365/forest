@@ -1,0 +1,13 @@
+@article{CHENG2025109258,
+title = {Interface reconfiguration in CF/PA6 composite via CNT-incorporated polyurethane sizing agent},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109258},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109258},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005524},
+author = {Jingyi Cheng and Yining Wang and Yu Deng and Zhimin Wang and Shuaining Zhou and Xigao Jian and Yousi Chen},
+keywords = {Carbon Fiber/Polyamide 6 Composites, Polyurethane, Carbon Nanotubes, Interfacial Performance},
+abstract = {Carbon fiber-reinforced polyamide 6 (CF/PA6) composites suffer from weak interfacial bonding due to the inert surface of carbon fibers, limiting their mechanical performance. Targeting the polyamide 6 (PA6) resin matrix, this study developed a novel polyurethane (PU)/carbon nanotubes (CNTs) organic–inorganic hybrid sizing agent. Leveraging the polar compatibility between the functional groups of PU and the amide groups of PA6, along with the nano-reinforcement effect of CNTs, the two components were synergistically introduced onto the carbon fiber surface via an ultrasonic dispersion process. After treatment, the fiber surface formed a unique interfacial region due to the hydrogen bonding of PU and the roughening effect of CNTs. The synergistic action of these components at processing temperatures promoted differential wetting of the fiber surface by the matrix resin, ultimately forming a “soft-hard synergistic” interphase between the fiber and matrix. The study found that when the CNTs content was 0.07 wt%, the flexural strength and interlaminar shear strength of the modified CF/PA6 composites reached 925.19 MPa and 68.20 MPa, respectively, representing increases of 20.6 % and 21.3 % compared to the unmodified samples. The hybrid sizing agent not only significantly enhanced interfacial bonding strength through multi-mechanistic synergy but also provided a new “chemical-physical” dual-optimization strategy for the interfacial design of high-performance fiber composites. Its simple and efficient processing characteristics hold significant reference value for advancing composite manufacturing.}
+}

@@ -1,0 +1,13 @@
+@article{LIN2025114542,
+title = {Platelet membrane-cloaked biomimetic nanoparticles for targeted acute lung injury therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114542},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114542},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000499},
+author = {Peihong Lin and Rui Gao and Wenjing Yang and Zhengyu Fang and Zhouru Wang and Mengdie Yu and Lihua Xu and Zhen Ma and Jie Fang and Wenying Yu},
+keywords = {Lung inflammation, Inflammation targeting, Biomimetic strategy, Macrophage polarization},
+abstract = {Acute lung injury (ALI) is a medical condition characterized by significant morbidity and elevated mortality rates; however, to date, there are no clinically approved pharmacological interventions that are both safe and effective for its treatment. In the pathophysiology of ALI, a robust inflammatory response is a critical factor. Dexamethasone (Dex), a potent glucocorticoid, is commonly employed in clinical settings to manage inflammatory conditions. However, the frequent or high-dose administration of corticosteroids can result in significant adverse effects and long-term complications. In this study, we have developed a biomimetic anti-inflammatory nanosystem, designated PM-LPs@Dex, aimed at treating ALI. This system leverages the inherent affinity of platelets for sites of inflammation, alongside the advantageous drug encapsulation properties of liposomes (LPs). By harnessing the suitable physicochemical characteristics of LPs and the distinctive biological functions of platelet membranes (PM), PM-LPs@Dex is capable of stable and sustained drug release in vitro. Experimental results regarding cellular uptake and biodistribution reveal that PM-LPs@Dex is preferentially internalized by inflammatory cells and exhibits enhanced accumulation in inflamed lung tissue compared to LPs@Dex. Pharmacokinetic studies displayed that PM-LPs@Dex showed prolonged circulation time in blood. Additionally, pharmacodynamic assessments demonstrate that PM-LPs@Dex significantly mitigates the severity of ALI, as evidenced by reductions in pulmonary edema, tissue pathology, bronchoalveolar lavage cell counts, protein concentration, and levels of inflammatory cytokines. Notably, PM-LPs@Dex also exhibits favorable biocompatibility. This research is anticipated to contribute novel strategies for the safe and effective targeted management of inflammatory diseases.}
+}

@@ -1,0 +1,13 @@
+@article{STAMATELOPOULOS2025117589,
+title = {Can diffusion models capture extreme event statistics?},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117589},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117589},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008430},
+author = {Stamatis Stamatelopoulos and Themistoklis P. Sapsis},
+keywords = {Diffusion modeling, Extreme events, Geometry},
+abstract = {For many important problems it is essential to be able to accurately quantify the statistics of extremes for specific quantities of interest, such as extreme atmospheric weather events or ocean-related quantities. While there are many classical approaches to perform such modeling tasks, recent interest has been increasing in the usage of generative models trained on available data. Despite the sporadic success of such methods, it is not clear for what systems or datasets a system-agnostic generative AI tool is capable of generating previously ‘unseen’ extreme events in a manner that accurately extrapolates the tails for the observable of interest. Here, we propose an apriori criterion, which based on the geometry of the training dataset, it can predict whether a generative AI tool will be able to extrapolate the tails, i.e. generate previously unseen extreme events. The idea is to quantify whether existing extreme events lie in the interior of the dataset or its boundary. In the former case it is shown that generative AI tools can work in an ‘interpolation’ mode and generate new extreme events. On the other hand, if the topology of the dataset is such that extremes live in the boundary of the domain then the generative AI algorithm needs to operate in an extrapolation mode which does not lead to accurate results. We illustrate our findings on a specific class of Diffusion Models (DMs) called Denoising Diffusion Probabilistic Models (DDPMs) and we test on three datasets, a simple on-hyperball dataset following a Weibull distribution for the radii of the data points of dimensionality 2⋅103, a dataset sampled from the so-called Majda–McLaughlin–Tabak Wave Model (MMT), of dimensionality 8.1⋅103 and a dataset consisting of Lagrangian turbulence trajectories, of dimensionality 2⋅103.}
+}

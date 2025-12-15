@@ -1,0 +1,13 @@
+@article{ZHAO2025118642,
+title = {Vibration suppression characteristics of a thin sandwich panel with misaligned stacking spider-web-like phononic crystal cores},
+journal = {Composite Structures},
+volume = {352},
+pages = {118642},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118642},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007700},
+author = {Fulong Zhao and Tongtong Huo and Zhijing Wu and Fengming Li},
+keywords = {Thin sandwich panel, Misaligned stacking phononic crystal, Finite element method, Band-gap characteristics, Vibration suppression},
+abstract = {A novel spider-web-like multi-hole variable cross-section phononic crystal (VCSPC) is proposed in this study, along with a misaligned stacking approach for constructing thin sandwich panels to achieve lightweight and compact structures for low-frequency vibration suppression. The band-gap (BG) characteristics and vibration modes are analyzed using the finite element method (FEM). To validate the effectiveness of the misaligned stacking approach, the finite element simulation and experimental verification of the frequency response function (FRF) are conducted. The results demonstrate that the spider-web-like configuration, with distributed masses and periodically varying cross-sections, can reduce the opening frequencies of BGs. When compared to the conventional linearly arranged panel, the misaligned stacking structure exhibits equivalent vibration BGs and attenuation characteristics. It is important to note that the misaligned stacking design significantly reduces the size in the direction of vibration attenuation. This type of thin sandwich panel is well-suited for engineering environments with size limitations on vibration reduction structures. The proposed strategy facilitates the use of large-scale phononic crystals for low-frequency vibration control, thereby promoting the application of phononic crystals in engineering through a more compact structural design.}
+}

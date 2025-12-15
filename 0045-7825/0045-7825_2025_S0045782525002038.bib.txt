@@ -1,0 +1,13 @@
+@article{MALIK2025117931,
+title = {A competitive baseline for deep learning enhanced data assimilation using conditional Gaussian ensemble Kalman filtering},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117931},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117931},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002038},
+author = {Zachariah Malik and Romit Maulik},
+keywords = {Ensemble data assimilation, Deep learning},
+abstract = {Ensemble Kalman Filtering (EnKF) is a popular technique for data assimilation, with far ranging applications. However, the vanilla EnKF framework is not well-defined when perturbations are nonlinear. We study two non-linear extensions of the vanilla EnKF – dubbed the conditional-Gaussian EnKF (CG-EnKF) and the normal score EnKF (NS-EnKF) – which sidestep assumptions of linearity by constructing the Kalman gain matrix with the ‘conditional Gaussian’ update formula in place of the traditional one. We then compare these models against a state-of-the-art deep learning based particle filter called the score filter (SF). This model uses an expensive score diffusion model for estimating densities and also requires a strong assumption on the perturbation operator for validity. In our comparison, we find that CG-EnKF and NS-EnKF dramatically outperform SF for two canonical systems in data assimilation: the Lorenz-96 system and a double well potential system. Our analysis also demonstrates that the CG-EnKF and NS-EnKF can handle highly non-Gaussian additive noise perturbations, with the latter typically outperforming the former.}
+}

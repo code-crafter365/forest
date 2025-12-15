@@ -1,0 +1,13 @@
+@article{JIANG2025114343,
+title = {Naringenin loaded fucoidan/polyvinylpyrrolidone nanoparticles protect against folic acid induced acute kidney injury in vitro and in vivo},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114343},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114343},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006027},
+author = {Tao Jiang and Feikai Zhu and Xintao Gao and Xiaochen Wu and Wenyong Zhu and Chuanlong Guo},
+keywords = {Acute kidney injury, Folic acid, Naringenin, CGAS-STING},
+abstract = {Acute kidney injury (AKI) is a common clinical problem with no effective treatment. Excessive folic acid (FA) induced kidney tubular injury is characterized by oxidative stress and inflammation, and is a common model of AKI. The excellent pharmacological activity of naringenin (NAR) makes it a potential agent for treating AKI, but its poor solubility limits its application. This study prepared NAR loaded nanoparticles (FU/PVP-NAR) using fucoidan (FU) and polyvinylpyrrolidone (PVP) as carriers, with a particle size of 23.96 ± 2.77 nm. In vitro studies showed that FU/PVP-NAR inhibited excessive FA induced proliferation inhibition, accumulation of reactive oxygen species (ROS), and disruption of mitochondrial membrane potential (MMP) of HK-2 cells. Further confirmed that FU/PVP-NAR inhibited FA induced DNA damage and Cyclic GMP–AMP synthase (cGAS)-stimulator of interferon genes (STING) activation. In vivo studies showed that excessive FA induced AKI features in mice, such as elevated serum creatinine (SCr) and blood urea nitrogen (BUN) levels, accompanied by pathological damage to kidney tissues. The above AKI characteristics induced by FA were alleviated by FU/PVP-NAR. FU/PVP-NAR also inhibited the decrease in antioxidant enzyme levels in kidney tissues induced by FA. Furthermore, in vivo mechanism studies indicated that FU/PVP-NAR inhibited the release of inflammatory factors by inhibiting DNA damage-cGAS-STING pathway. In summary, this study provided the possibility for FU/PVP-NAR as a potential candidate drug for treating FA induced AKI.}
+}

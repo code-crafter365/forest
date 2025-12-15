@@ -1,0 +1,13 @@
+@article{KIM2025114661,
+title = {Targeted drug delivery of cancer cell-derived extracellular vesicles decorated with a VEGFR-binding peptide},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114661},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114661},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001687},
+author = {Young-Min Kim and Hyeonseok Kim and Seong-Cheol Park and Mina Lee and Mi-Kyeong Jang},
+keywords = {Drug delivery system, Extracellular vesicles, Breast cancer, Doxorubicin},
+abstract = {Chemotherapy is commonly used to manage cancer lesions, but its use is limited or has a high risk of failure due to the side effects of the drugs. The use of a drug delivery system can minimize the side effects of drugs and maximize their anticancer effects. This study investigated the potential of tumor cell-derived small extracellular vesicles (sEV) as drug delivery vehicles for doxorubicin (Dox). In addition, the decoration of vascular endothelial growth factor receptor (VEGFR)-targeting peptide on the sEV provided an enhance specific cancer cell-targeting effect in vitro or homing capacity in vivo. The extrusion method was effective in loading Dox and displaying targeting peptide. The effective Dox release was resulted under acidic condition, an endosome pH. The growth of tumor masses on MCF-7 xenografted mice were significantly inhibited by this drug delivery system. We believe that our results will provide useful information for the development of chemotherapeutic drug delivery systems.}
+}

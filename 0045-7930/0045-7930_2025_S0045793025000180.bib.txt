@@ -1,0 +1,13 @@
+@article{NEAMTUHALIC2025106558,
+title = {Unsupervised extraction of rotational Lagrangian coherent structures},
+journal = {Computers & Fluids},
+volume = {290},
+pages = {106558},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106558},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000180},
+author = {Marius M. Neamtu-Halic and Stefano Brizzolara and George Haller and Markus Holzner},
+keywords = {Vortex identification methods, Lagrangian coherent structures, Turbulent flows},
+abstract = {Lagrangian coherent structures (LCSs) are widely recognized as playing a significant role in turbulence dynamics since they can control the transport of mass, momentum or heat. However, the methods used to identify these structures are often based on ambiguous definitions and arbitrary thresholding. While LCSs theory provides precise and frame-indifferent mathematical definitions of coherent structures, some of the commonly used extraction algorithms employed in the literature are still case-specific and involve user-defined parameters. In this study, we present a new, unsupervised extraction algorithm that enables the extraction of rotational LCSs based on Lagrangian average vorticity deviation from an arbitrary 3D velocity field. The algorithm utilizes two alternative methods for the identification of the LCS core (ridge): an unsupervised clustering method and a streamline-based method. In a subsequent step, the ridge curve is parametrized through a pruning procedure of minimum spanning tree graphs. To assess the effectiveness of the algorithm, we test it on two cases: (i) direct numerical simulations of forced homogeneous and isotropic turbulence and (ii) three-dimensional Particle Tracking Velocimetry experiments of a turbulent gravity current.}
+}

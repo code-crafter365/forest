@@ -1,0 +1,13 @@
+@article{PARK2025108693,
+title = {A semipermanently stable, photocrosslinkable graphene colloid: A fresh strategy for fabricating polymer nanocomposites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108693},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108693},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006912},
+author = {Seung Koo Park and Bong Je Park and Won Bae Cho and Eun Jin Shin and Suntak Park and Hyung Cheol Shin},
+keywords = {Graphene/polymer nanocomposites, Photocurable colloids, Solubility parameters, Nonlinear optics},
+abstract = {It is challenging to choose a polymer matrix suitable for preparing a homogenous graphene/polymer nanocomposite due to their incompatibility. This study introduces a highly stable, photocrosslinkable graphene colloid prepared by calculating the three-dimensional (3D) distance (Δδ¯) of solubility parameters for the polymer nanocomposites with well-distributed graphene. Δδ¯ between tetra(ethylene glycol)diacrylate (TEGDA) and graphene was calculated to be low, 4.29. The black ink-like graphene colloid solutions in TEGDA were formulated and stable for nearly one year. After UV irradiation, the colloid layers could be converted to transparent, robust, and thermostable polymer composite films with several tens-nano-sized graphene. Without light scattering loss, the transparency of the films with ca. 50 µm thickness showed 92 ∼ 47 % depending on the graphene content. They exhibited nonlinear optical properties. A conversion of reverse saturable into saturable absorption was unexpectedly observed in relatively high graphene concentrations. We proved that the colloids are fit for preparing graphene-well-dispersed polymer nanocomposites.}
+}

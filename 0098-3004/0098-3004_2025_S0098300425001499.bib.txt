@@ -1,0 +1,13 @@
+@article{GAO2025105999,
+title = {Seismicity-constrained fault detection and characterization with a multitask machine learning model},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {105999},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105999},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001499},
+author = {Kai Gao and Ting Chen},
+keywords = {Seismicity, Geological faults, Multitask machine learning, Fault detection and characterization},
+abstract = {Geological fault detection and characterization are crucial for understanding subsurface dynamics across scales. While methods for fault delineation based on either seismicity location analysis or seismic image reflector discontinuity are well-established, a systematic approach that integrates both data types remains absent. We develop a novel machine learning model that unifies seismic reflector images and seismicity location information to automatically identify geological faults and characterize their geometrical properties. The model encodes a seismic image and a seismicity location image separately, and fuses the encoded features with a spatial-channel attention fusion module to improve the learning of important features in both inputs. We design an automated strategy to generate high-quality synthetic training data and labels. To improve the realism of the seismicity location image, we include random seismicity noise and missing seismicity location associated with some of the faults. We validate the model’s efficacy and accuracy using synthetic data examples and two field data examples. Moreover, we show that fine-tuning the trained model with a small, domain-specific dataset enhances its fidelity for field data applications. The results demonstrate that integrating seismicity location and seismic images into a unified framework allows the end-to-end neural network to achieve higher fidelity and accuracy in delineating subsurface faults and their geometrical properties compared with image-only fault detection methods. Our approach offers an adaptive data-driven tool for geological fault characterization and seismic hazard mitigation, bridging the gap between seismicity location and image-based fault detection methods.}
+}

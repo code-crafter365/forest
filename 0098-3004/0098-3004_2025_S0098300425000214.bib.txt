@@ -1,0 +1,13 @@
+@article{ZHANG2025105871,
+title = {For any two arbitrary slices from one digital rock, its twins can be fast stably reconstructed: A novel integrated model of RVION with ADA-PGGAN},
+journal = {Computers & Geosciences},
+volume = {197},
+pages = {105871},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105871},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000214},
+author = {Yingqi Zhang and Liguo Niu and Xin Wang and Dongxing Du and Zhongwen Zhang},
+keywords = {Digital Rock Physics, Generative adversarial network, Latent code, GAN inversion, Dataset augmentation, Data-Scarce Scenarios},
+abstract = {The amount of digital rock samples is crucial for studying pore properties. However, it is currently challenging due to equipment limitations or cost considerations. To address this issue, we propose sorts of reconstruction solutions under Data-Scarce Scenarios based on latent inversion predictions from the proposed generative model. Firstly, a novel underlying feature distribution learning model called ResNet-VGG Inversion Optimization Network (RVION) is proposed to infer the latent codes of the real rock images. During inversion, the latent codes predicted by RVION are prepared to interpolate into latent space learned by the generative model. To stably generate high-quality images, the Adaptive Data Augmentation Progressive Growing Generative Adversarial Network (ADA-PGGAN) is proposed, which includes a mechanism to supervise discriminator’s overfitting and automatically adjust levels of data augmentation. Subsequently, interpolated latent codes are input into the generator to progressively increase image resolution and reconstruct large-scale 3D digital rocks. Finally, evaluations using various metrics were conducted in both 2D and 3D on our results. The Sliced Wasserstein Distance (SWD) was used to assess our proposed data augmentation operation. The majority of SWD values remained below 0.01, and further decreased as the resolution increased. Furthermore, generated images accurately exhibited core characteristics. We also evaluated our results in 3D with corresponding metrics, structural properties to indicate consistency with given samples.}
+}

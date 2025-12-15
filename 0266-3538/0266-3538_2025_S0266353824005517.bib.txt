@@ -1,0 +1,13 @@
+@article{HAN2025110981,
+title = {Enhancement of radar-infrared stealth performance of EPDM-based composites through the asymmetric sandwich structural construction},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110981},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110981},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005517},
+author = {Zikang Han and Rong Chen and Jiang Li and Shaoyun Guo},
+keywords = {Layered structures (A), Polymer-matrix composites (A), Electrical properties (B), Thermal properties (B), Radar-infrared-compatible stealth (nominated by us)},
+abstract = {The development of radar-infrared-compatible stealth materials is crucial for the weaponry stealth field. However, reconciling the mechanistic contradiction between radar and infrared stealth remains a challenge. In this study, an asymmetrical sandwich structure composite was developed, with an absorbing layer situated in the middle and low emissivity layers on either side. The structure and properties of the functional layers were optimized: In the absorbing layer, ethylene propylene diene monomer/carbon nanotubes/silica (EPDM/CNTs/SiO2) was foamed to enhance its microwave absorption and thermal insulation properties. In the low emissivity layers, the orientation of the flake aluminum powders was adjusted to reduce the infrared emissivity to as low as 0.236 and 0.183 at 3∼5 and 8∼14 μm, respectively. As a result, the composite achieved an effective absorption bandwidth of 7.26 GHz and maintained an equilibrium temperature of 29.4 °C after being placed on a 60 °C hot stage, demonstrating excellent infrared stealth performance. Additionally, the composite has a suitable density (0.77 g/cm3) and thickness (3.58 mm). Considering its broad bandwidth, low emissivity, lightness, and softness, the sandwich structure composite is suitable for compatible stealth applications.}
+}

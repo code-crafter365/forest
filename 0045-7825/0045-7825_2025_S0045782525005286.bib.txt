@@ -1,0 +1,13 @@
+@article{TALATAHARI2025118256,
+title = {Adaptive Strategy Management: A new framework for large-scale structural optimization design},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118256},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118256},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005286},
+author = {Siamak Talatahari and Behnaz Nouhi and Amin Beheshti and Fang Chen and Amir H. Gandomi},
+keywords = {Structural optimization design, Adaptive Strategy Management, Chaos Game Optimization, Metaheuristic framework},
+abstract = {This study introduces the Adaptive Strategy Management (ASM) framework designed to enhance the efficiency of computationally expensive optimization processes by dynamically switching between multiple solution-generation strategies. The ASM framework integrates three core steps: filtering, switching, and updating, which allow it to adaptively decide which solutions to evaluate based on real-time performance feedback. Several ASM-based variants are proposed, each implementing different filtering and switching mechanisms, such as generated-based selection, proximity-based filtering, and strategy switching guided by the current or global best solutions. Chaos Game Optimization (CGO) is selected as the core optimizer, with its updated equations modified to improve performance without incurring additional computational costs alongside strategy-level innovations. Extensive evaluations on medium-, large- and very large-scale structural problems demonstrate that the developed methods consistently outperform other approaches. Notably, the ASM-Close Global Best method, which combines proximity filtering with global best knowledge, achieved superior results across all performance intervals, showcasing robust convergence and high-quality solutions. These findings underscore the potential of Adaptive Strategy Management in improving large-scale optimization performance and open new directions for future research, including other strategy selections, broader applications across metaheuristics, and extensions to multi-objective and constrained optimization problems.}
+}

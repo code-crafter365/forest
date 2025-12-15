@@ -1,0 +1,13 @@
+@article{OKUMUS2025109213,
+title = {Modelling and experimental study of hydrogen permeation in polymer composites: Effects of fibre agglomeration and orientation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109213},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109213},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500507X},
+author = {Mustafa Okumuş and Frans Janssen and Łukasz Figiel},
+keywords = {Polymer composites, Hydrogen permeation, Finite Element Analysis (FEA), Microstructural analysis, Permeation testing},
+abstract = {This work combines modelling and experiments to provide a new insight into the effects of microstructural features on the overall hydrogen permeability of polymer composites. A three-dimensional (3D) modelling approach exploiting the representative volume element (RVE) concept was developed to investigate the influence of fibre agglomerations and fibre orientation within each ply on the overall hydrogen permeability. The model was validated using full-scale permeation experiments on a thermoplastic composite pipe (TCP) composed of E-glass fibre-reinforced high-density polyethylene (EGF/HDPE) at different temperatures. Model predictions showed that local fibre clustering can significantly reduce permeability by increasing the tortuosity of diffusion pathways, thus creating additional resistance to hydrogen permeation. The effect of fibre orientation on hydrogen permeability was found to depend on the level of fibre agglomeration — while for plies with fibre-rich domains the orientation had an insignificant effect on permeability, the latter was noticeably reduced with increasing ply misalignment when plies contained uniform fibre distribution. This research presents the first hydrogen permeability assessment of EGF/HDPE composites, highlighting the potential of this material system for hydrogen distribution applications.}
+}

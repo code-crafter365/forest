@@ -1,0 +1,13 @@
+@article{GENG2025118042,
+title = {Data-driven reduced-order models for port-Hamiltonian systems with operator inference},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118042},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118042},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003147},
+author = {Yuwei Geng and Lili Ju and Boris Kramer and Zhu Wang},
+keywords = {Port-Hamiltonian system, Operator inference, Model order reduction, Data-driven modeling},
+abstract = {Hamiltonian operator inference has been developed in Sharma et al. (2022) to learn structure-preserving reduced-order models (ROMs) for Hamiltonian systems. The method constructs a low-dimensional model using only data and knowledge of the functional form of the Hamiltonian. The resulting ROMs preserve the intrinsic structure of the system, ensuring that the mechanical and physical properties of the system are maintained. In this work, we extend this approach to port-Hamiltonian systems, which generalize Hamiltonian systems by including energy dissipation, external input, and output. Based on snapshots of the system’s state and output, together with the information about the functional form of the Hamiltonian, reduced operators are inferred through optimization and are then used to construct data-driven ROMs. To further alleviate the complexity of evaluating nonlinear terms in the ROMs, a hyper-reduction method via discrete empirical interpolation is applied. Accordingly, we derive error estimates for the ROM approximations of the state and output. Finally, we demonstrate the structure preservation, as well as the accuracy of the proposed port-Hamiltonian operator inference framework, through numerical experiments on a linear mass–spring-damper problem and a nonlinear Toda lattice problem.}
+}

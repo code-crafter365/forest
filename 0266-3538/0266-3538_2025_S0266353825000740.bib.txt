@@ -1,0 +1,13 @@
+@article{ARSLAN2025111106,
+title = {Flexural properties of sandwich panels fabricated by filament-extrusion of high-temperature thermoplastic composites},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111106},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111106},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000740},
+author = {Dogan Arslan and Mihaela Mihai and Daniel Therriault and Martin Lévesque},
+keywords = {Polyetherimide, Polyphenylene sulfide, Sandwich panel, Composite characterization, Additive manufacturing},
+abstract = {This study investigated the flexural properties of sandwich panel structures fabricated by the filament-extrusion 3D printing technology using novel high-temperature thermoplastic polymer composites of polyetherimide (PEI) and polyphenylene sulfide (PPS). Various formulations of PEI and PPS composites, combined with recycled carbon fiber (rCF) and thermal black (TB) particles, were manufactured. The flexural properties were assessed through a three-point bending test, comparing the performance of sandwich panels printed with these filaments and those printed with commercially available filaments. Dimensional accuracy was evaluated using a 3D scanner, revealing that 90 % of scanned points deviated a maximum of 0.2 mm from the CAD model. X-ray micro-tomography measured porosity, finding up to ∼12 % in PEI and ∼8 % in PPS skins. The microstructural analysis of the composites revealed a level of adhesion deemed acceptable between successive layers of printed parts and adequate dimensional accuracy. A digital image correlation (DIC) system assessed full-field strain and crack propagation during flexural testing, showing crack initiation due to strain concentration in the core region, consistent across all specimens. The sandwich panels printed with developed filaments exhibited comparable flexural properties to that of panels printed with commercial filaments, with a bending load capacity of up to 3.0 kN for approximately 50 g specimens. The printing quality and mechanical performance of the novel PEI and PPS composite formulations demonstrated in this study suggested that they could serve as viable alternatives to commercial filaments.}
+}

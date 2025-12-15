@@ -1,0 +1,13 @@
+@article{MA2025119205,
+title = {Multi-body dynamic transfer matrix modeling and validation for full-scale wind turbine blades in biaxial fatigue testing systems},
+journal = {Composite Structures},
+volume = {365},
+pages = {119205},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119205},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003708},
+author = {Yi Ma and Aiguo Zhou and Yutian Zhu and Jinlei Shi and Shiwen Zhao and Jianzhong Wu},
+keywords = {Wind turbine blade, Biaxial fatigue testing, Multi-body system, Transfer matrix, Vibration characteristics},
+abstract = {Continuous advancements in wind turbine technology, driven by the pursuit of increased power generation and extended blade dimensions, have heightened the demand for reliable biaxial fatigue testing of full-scale blades. Such testing is critical for evaluating long-term structural integrity under realistic loading conditions. This study presents a novel multi-body dynamic transfer matrix methodology to address the modeling and analysis challenges inherent in full-scale biaxial testing systems for large wind turbine blades. The proposed approach discretizes the heterogeneous blade structure into beam elements and employs transfer matrix theory to derive system matrices encompassing spatial beam dynamics, mass distribution, damping characteristics, and elastic properties. Through the systematic formulation of the dynamic transfer equations and subsequent numerical solutions of the characteristic equations, this method enables comprehensive vibration analysis of the multi-body test system. Comparative validation through finite element simulations and experimental measurements demonstrates that the equivalent model achieves prediction discrepancies below 7% across multiple blade configurations. The developed framework provides an effective multibody transfer matrix model for investigating vibration characteristics and bending moment distributions in blade fatigue testing systems, establishing theoretical foundations for dynamic characterization and optimized design of full-scale biaxial fatigue testing platforms.}
+}

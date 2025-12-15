@@ -1,0 +1,13 @@
+@article{YIN2025114968,
+title = {Boosting ferroptosis therapy by sorafenib and ML385 loaded CuFe2O4 nanozymes},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114968},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114968},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004758},
+author = {Yanzhao Yin and Junsheng Zhao and Mengxiao Liu and Ying Lu and Jin Cao and Rong Zhao and Lin Wu and Song Shen},
+keywords = {Ferroptosis, Nanozymes, Copper ferrite, GSH consuming, Reactive oxygen species},
+abstract = {Ferroptosis as a promising therapeutic modality has been widely employed in cancer treatment. However, low efficacy of Fenton reaction and the presence of antioxidants, including glutathione (GSH) and glutathione peroxidase 4 (GPX4), weaken the ferroptosis anticancer effects. In this study, we synthesized copper ferrite (CuFe2O4) nanozymes loaded with sorafenib and ML385 to boost ROS generation and improve the ferroptosis effects. The CuFe2O4 nanozymes exhibited superior Fenton reaction catalytic activities due to the coexistence of iron and copper ions. While, sorafenib and ML385 inhibited the antioxidant effect by impeding the synthesis of GSH and the expression of NRF2, respectively. To prevent the CuFe2O4 nanozymes from being quickly cleared by the reticuloendothelial system (RES), the nanozymes were further coated with the macrophage membrane. What's more, the CuFe2O4 also demonstrated excellent photothermal effect. This nanoplatform exhibited superior tumor therapeutic efficacy due to its exceptional GSH depletion ability, high ROS generation efficiency, and excellent photothermal therapy (PTT) effect, presenting considerable potential for cancer treatment.}
+}

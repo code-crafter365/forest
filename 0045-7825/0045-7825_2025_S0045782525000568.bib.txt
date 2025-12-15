@@ -1,0 +1,13 @@
+@article{ABBASI2025117784,
+title = {History-Matching of imbibition flow in fractured porous media Using Physics-Informed Neural Networks (PINNs)},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117784},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117784},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000568},
+author = {Jassem Abbasi and Ben Moseley and Takeshi Kurotori and Ameya D. Jagtap and Anthony R. Kovscek and Aksel Hiorth and Pål {Østebø Andersen}},
+keywords = {Physics-Informed Neural Networks (PINNs), Multiphase flow, Inverse calculations, Fractured porous media},
+abstract = {In this work, we propose a workflow based on physics-informed neural networks (PINNs) to model multiphase fluid flow in fractured porous media. After validating the workflow in forward and inverse modeling of a synthetic problem of flow in fractured porous media, we applied it to a real experimental dataset in which brine is injected at a constant pressure drop into a CO2 saturated naturally fractured shale core plug. The exact spatial positions of natural fractures and the dynamic in-situ distribution of fluids were imaged using a CT-scan setup. To model the targeted system, we followed a domain decomposition approach for matrix and fractures and a multi-network architecture for the separate calculation of water saturation and pressure. The flow equations in the matrix, fractures and interplay between them were solved during training. Prior to fully-coupled simulations, we suggested pre-training the model. This aided in a more efficient and successful training of the coupled system. Both for the synthetic and experimental inverse problems, we determined flow parameters within the matrix and the fractures. Multiple random initializations of network and system parameters were performed to assess the uncertainty and uniqueness of the resulting calculations. The results confirmed the precision of the inverse calculated parameters in retrieving the main flow characteristics of the system. The consideration of matrix-fracture interactions is commonly overlooked in existing workflows. Accounting for them led to several orders of magnitude variations in the calculated flow properties compared to not accounting for them. The proposed PINNs-based workflow offer a reliable and computationally efficient solution for inverse modeling of multiphase flow in fractured porous media, achieved through history-matching noisy and multi-fidelity experimental measurements.}
+}

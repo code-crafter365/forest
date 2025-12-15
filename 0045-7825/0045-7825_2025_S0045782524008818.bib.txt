@@ -1,0 +1,13 @@
+@article{GUO2025117627,
+title = {Concurrent structural topology and fabrication sequence optimization for multi-axis additive manufacturing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117627},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117627},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008818},
+author = {Yifan Guo and Jikai Liu and Rafiq Ahmad and Yongsheng Ma},
+keywords = {Topology optimization, Additive manufacturing, Multi-axis, Fabrication sequence optimization, Geometric constraints},
+abstract = {This paper presents a concurrent optimization method for structural topology and fabrication sequence, aiming at designing for multi-axis additive manufacturing. The proposed method involves two fields: the density field representing the structure, and the time field representing the manufacturing sequence. In addition, angle variables are introduced to represent the designable build directions. The continuous time field is transformed into a few separated binary time fields through projection, and coupled with the densities, divides the structure into several sequenced sub-parts. To realize the synchronous optimization of the two fields and the build directions, a coupled and differentiable optimization model is established, including a convolution self-support constraint to eliminate the need for supports while avoiding the droplet effect, and a convolution collision-free constraint to avoid collisions between printing nozzle and workpiece due to rotating the build platform. Additionally, a length scale constraint is applied to the sequenced sub-parts as well, to prevent the appearance of small features due to inappropriately dividing the time field. To validate the proposed method, 2D and 3D numerical examples are studied, and the numerical results prove that, the self-support and collision-free topological designs perform close to the conventional freeform results, vanishing the performance compromise due to self-support considerations.}
+}

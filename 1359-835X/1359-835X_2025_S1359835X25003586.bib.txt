@@ -1,0 +1,13 @@
+@article{XU2025109064,
+title = {Sub-microstructure restoration, surface activation, and interface enhancement of polyimide fibers via multifunctional epoxy/acetone sizing method},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109064},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109064},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003586},
+author = {Hongjie Xu and Yi Yao and Yuelin Jin and Jiayu Zhan and Zheng Zhao and Shengli Qi and Guofeng Tian and Dezhen Wu},
+keywords = {Polyimide fiber, Fiber-reinforced resin composite, Sub-microstructure restoration, Interfacial property},
+abstract = {With the development of high-performance organic fiber reinforced composites, challenges related to fiber microstructural defects and surface inertness have attracted increasing attention. To address these issues, this study proposes effective and commercially viable strategies for restoring sub-microstructures and activating fiber surfaces. Through the synergistic effect of acetone and epoxy, the epoxy not only adsorbed onto and activated the fiber surface but also deeply penetrated into the fibers, thereby restoring the fibril-void structure. The multifunctional epoxy significantly improved the structural and interfacial strength, leading to significant improvements in the tensile and compressive strength of the monofilament, with increases of 15 % and 59 %, respectively. Upon preparation into a composite, the interfacial shear and compressive strength were enhanced by 75 % and 53 %, respectively. Furthermore, molecular dynamics simulations revealed that the interfacial enhancement mechanism is closely associated with the increased interfacial energy and thickness, as well as the enhanced reactivity of the epoxy.}
+}

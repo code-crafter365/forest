@@ -1,0 +1,13 @@
+@article{DAS2025114322,
+title = {Physico-chemical properties and biological evaluation of graphene quantum dots for anticancer drug susceptibility},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114322},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114322},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005812},
+author = {Nirupam Das and Ravishankar Srivastava and Sawna Roy and Arup K. De and Rajiv K. Kar},
+keywords = {Graphene quantum dots, Optical characterization, Molecular dynamics, MTT assay, Anticancerous activity},
+abstract = {Graphene quantum dots (GQDs) possess unique optical and biocompatible properties, making them suitable candidates for biomedical and pharmaceutical applications. This study reports the hydrothermal synthesis of pristine-GQD and doped variants: Nitrogen-GQD and Sulfur-GQD. The materials underwent thorough characterization techniques such as UV–vis, fluorescence, XRD, FE-TEM/SEM, EDX, and Raman spectroscopy. The particle sizes of these GQDs range from 2 to 5 nm. We conducted a comprehensive study through MTT assays to evaluate the potential cytotoxic effect of GQD and the doped variants. This study demonstrated their synergistic interactions with an anti-cancer drug, methotrexate (MTX), and also improvement of cytocompatibility in the presence of folic acid (FA). Systematic MD simulations revealed a compacting effect on the dynamic behavior of GQD and its variants in the presence of drugs. Fluorescence spectroscopy and computational modeling suggest non-intercalative surface interactions between GQDs and the drugs. The cytotoxic activity of pristine GQD on HeLa cervical cancer cells is higher than that of N-GQD and S-GQD. When treated with GQD-IC50–MTX-IC50, only 5.6 % of HeLa cells remained viable. The doped variants exhibited bio-compatibility when tested on normal HEK cell lines. Overall, this study emphasizes the potential of GQDs for targeted cancer therapy through an interdisciplinary approach involving material characterization, computational modeling, and biological assays.}
+}

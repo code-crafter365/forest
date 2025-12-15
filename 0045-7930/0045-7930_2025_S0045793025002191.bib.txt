@@ -1,0 +1,13 @@
+@article{NEUHOFF2025106759,
+title = {Enhanced simulation techniques in predicting sonic boom loudness using CFD},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106759},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106759},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002191},
+author = {S. Neuhoff and C. Ashby and J. Housman and J. Duensing},
+keywords = {Aero-acoustics, Sonic Boom, Adaptation},
+abstract = {This paper outlines advancements in predicting sonic boom loudness within the Launch, Ascent, and Vehicle Aerodynamics computational framework. Traditionally, a two step process consisting of a steady state computational fluid dynamics problem for near-field analysis and a far-field propagation solver for calculation of loudness metrics has been used. Improvements to this process made in this work include utilizing a high-order space marching method for mid-field computations, applying an output-based mesh adaptation method targeting error in near-field pressure signatures, and implementing a scripting system using curvilinear grids to increase robustness and simplify the process of running large databases of simulation cases. These advancements are detailed and applied to the simulation of the X-59 as a representative example, presenting comparative cost and timing analyses between the prior two step workflow and the current three step procedure. We achieve increased accuracy and robustness for loudness predictions with at least a 50% computational cost reduction.}
+}

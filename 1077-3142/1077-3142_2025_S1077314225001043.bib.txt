@@ -1,0 +1,13 @@
+@article{SON2025104381,
+title = {STELA: Spatial–temporal enhanced learning with an anatomical graph transformer for 3D human pose estimation},
+journal = {Computer Vision and Image Understanding},
+volume = {257},
+pages = {104381},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104381},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001043},
+author = {Jian Son and Jiho Lee and Eunwoo Kim},
+keywords = {3D human pose estimation, Graph transformer, Spatial–temporal learning, Anatomical relationship},
+abstract = {Transformers have led to remarkable performance improvements in 3D human pose estimation by capturing global dependencies between joints in spatial and temporal aspects. To leverage human body topology information, attempts have been made to incorporate graph representation within a transformer architecture. However, they neglect spatial–temporal anatomical knowledge inherent in the human body, without considering the implicit relationships of non-connected joints. Furthermore, they disregard the movement patterns between joint trajectories, concentrating on the trajectories of individual joints. In this paper, we propose Spatial–Temporal Enhanced Learning with an Anatomical graph transformer (STELA) to aggregate the spatial–temporal global relationships and intricate anatomical relationships between joints. It consists of Global Self-attention (GS) and Anatomical Graph-attention (AG) branches. GS learns long-range dependencies between all joints across entire frames. AG focuses on the anatomical relationships of the human body in the spatial–temporal aspect using skeleton and motion pattern graphs. Extensive experiments demonstrate that STELA outperforms state-of-the-art approaches with an average of 41% fewer parameters, reducing MPJPE by an average of 2.7 mm on Human3.6M and 1.5 mm on MPI-INF-3DHP.}
+}

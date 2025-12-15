@@ -1,0 +1,13 @@
+@article{CHEN2025119528,
+title = {Axial compressive performance of UHTCC-encased circular steel tubular columns with different PBL connection details},
+journal = {Composite Structures},
+volume = {371},
+pages = {119528},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119528},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006932},
+author = {Yun-Long Chen and Jing-Zhong Tong and Qing-Hua Li and Hui Jin and Shi-Lang Xu},
+keywords = {Ultra-high toughness cementitious composite (UHTCC), Composite column, Axial performance, Perfobond leiste (PBL) connectors},
+abstract = {Ultra-high toughness cementitious composite (UHTCC), characterized by its tensile strain-hardening behavior and superior crack control capability, offers exceptional durability in structural applications. This study introduces a novel circular UHTCC-encased steel tubular (UEST) columns, incorporating open-hole perfobond leiste (PBL) connectors to enhance construction efficiency, and explores its axial performance. Four UEST columns with varying PBL hole shapes (O-shaped, C-shaped, U-shaped) and stirrup conditions (with and without stirrups) were tested under axial compression. Digital image correlation (DIC) and strain gauges were employed to analyze failure modes, strain distribution, and buckling behavior. Finite element (FE) models were established to conduct parametric studies on the PBL rib number, yield strength of steel tube, UHTCC layer thickness, and PBL hole type. A theoretical model was developed to quantify the pull-out stiffness of PBL connectors, elucidating their role in governing buckling modes and axial resistance. The results indicate that UEST columns equipped with open-hole PBL connectors experience minimal reduction in axial resistance compared to the original closed-hole PBL specimens, while exhibiting enhanced ductility. This highlights the feasibility of using open-hole PBL configurations in practical engineering, as they strike an effective balance between bearing performance and construction efficiency.}
+}

@@ -1,0 +1,13 @@
+@article{YUAN2025114668,
+title = {Recent advances in biomimetic nanodelivery systems for the treatment of glioblastoma},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114668},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114668},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001754},
+author = {Zhenru Yuan and Jing Li and Qi Na},
+keywords = {Glioblastoma, Biomimetic, Targeted delivery, Nanomedicine},
+abstract = {Glioblastoma remain one of the deadliest malignant tumors in the central nervous system, largely due to their aggressiveness, high degree of heterogeneity, and the protective barrier of the blood-brain barrier (BBB). Conventional therapies including surgery, chemotherapy and radiotherapy often fail to improve patient prognosis due to limited drug penetration and non-specific toxicity. We then present recent advances in biomimetic nanodelivery systems, focusing on cell membrane coatings, nanoenzymes, and exosome-based carriers. By mimicking endogenous biological functions, these systems demonstrate improved immune evasion, enhanced BBB traversal, and selective drug release within the tumor microenvironment. Nevertheless, we acknowledge unresolved bottlenecks related to large-scale production, stability, and the intricacies of regulatory compliance. Looking forward, we propose an interdisciplinary roadmap that combines materials engineering, cellular biology, and clinical expertise. Through this collaborative approach, this work aims to optimize biomimetic nanodelivery for glioma therapy and ultimately improve patient outcomes.}
+}

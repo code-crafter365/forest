@@ -1,0 +1,13 @@
+@article{LAMBA2025118317,
+title = {A low-level teamwork hybrid model based swarm intelligent algorithm for engineering design optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118317},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118317},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005894},
+author = {Amanjot Kaur Lamba and Rohit Salgotra and Nitin Mittal},
+keywords = {Numerical optimization, Multi-hybrid algorithm, Image thresholding, Self-adaptivity, Naked mole rat algorithm},
+abstract = {We introduce a multi-algorithm hybrid strategy, named WIFN, to mitigate the poor performance of the naked mole-rat algorithm (NMRA). The proposed WIFN algorithm employs the best exploration and exploitation properties of existing algorithms, viz. weighted mean of vectors (INFO), whale optimization algorithm (WOA) and fission fusion optimization (FuFiO). These algorithms are integrated into the worker phase of the NMRA. A new stagnation phase is introduced in WIFN to minimize the effect of local optima stagnation. To add self-adaptivity, five new mutation/inertia weight strategies are added to the parameters of WIFN. To assess its performance, four data sets are used: classical benchmarks, CEC 2014, CEC 2017 and CEC 2019. An experimental study is carried out using i) five constrained engineering design problems and ii) 15 real-world constrained problems from the CEC 2020 benchmark dataset to analyze the applicability of WIFN for computationally expensive problems. In addition, WIFN is applied to multilevel image thresholding with type-II fuzzy sets. It is tested using a real image set that features different histogram distributions for three different threshold numbers. Experimental results suggest that WIFN perform significantly better than the existing state-of-the-art algorithms in terms of quality metrics, viz. mean squared error (MSE), peak signal-to-noise ratio (PSNR), and structural similarity index (SSIM). Wilcoxon’s ranksum and the Friedman test establish the superiority of WIFN statistically.}
+}

@@ -1,0 +1,13 @@
+@article{WEI2025114776,
+title = {Novel colchicine ethosomes cataplasm for the treatment of acute gouty arthritis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114776},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114776},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002838},
+author = {Yao-Yao Wei and Yang Zhang and Xue Lu and Jie Zhou and Huang-Wei Cheng and Yuan-Yuan Liu and Hua Zhang and Wen Chen},
+keywords = {Colchicine, Gout, Ethosomes, Cataplasm, Pharmacodynamics},
+abstract = {Gout is a disease caused by the deposition of sodium urate (MSU) crystals in the joints and tissues. Colchicine (COL) has become the first-line drug for the treatment of acute gout due to its low price and efficacy. However, colchicine is highly cytotoxic and oral administration is prone to cause severe adverse effects on the gastrointestinal tract, liver and kidney. Therefore, this study aimed to develop a novel dermal delivery formulation for addressing the safety concerns of this drug. The researchers used ethosomes encapsulation technology to improve the skin permeability of COL. In addition, in order to improve the performance of the ethosomes, it was screened and determined that the addition of 1.0–1.5 mg of ceramide III (Cer3) per mL of ethosomes as a modifier could significantly enhance the stability of the ethosomes, Cer3/COL-ethosomes (CCE) were successfully constructed. The CCE was then mixed with a cataplasm matrix to produce a colchicine-carrying CCE cataplasm, which demonstrated the superimposed effect of the advantages of the two dosage forms, the ethosomes and the cataplasm. Compared with the traditional delivery method of COL, this topical formulation is an attractive alternative for the treatment of gout as it can achieve effective blood levels without causing fluctuations in blood levels, and has good efficacy and higher safety profile.}
+}

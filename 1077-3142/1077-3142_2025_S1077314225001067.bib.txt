@@ -1,0 +1,13 @@
+@article{SANTOS2025104383,
+title = {Grad-CAM: The impact of large receptive fields and other caveats},
+journal = {Computer Vision and Image Understanding},
+volume = {258},
+pages = {104383},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104383},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001067},
+author = {Rui Santos and João Pedrosa and Ana Maria Mendonça and Aurélio Campilho},
+keywords = {Deep learning, Explainability, Grad-CAM, Receptive field, Effective receptive field},
+abstract = {The increase in complexity of deep learning models demands explanations that can be obtained with methods like Grad-CAM. This method computes an importance map for the last convolutional layer relative to a specific class, which is then upsampled to match the size of the input. However, this final step assumes that there is a spatial correspondence between the last feature map and the input, which may not be the case. We hypothesize that, for models with large receptive fields, the feature spatial organization is not kept during the forward pass, which may render the explanations devoid of meaning. To test this hypothesis, common architectures were applied to a medical scenario on the public VinDr-CXR dataset, to a subset of ImageNet and to datasets derived from MNIST. The results show a significant dispersion of the spatial information, which goes against the assumption of Grad-CAM, and that explainability maps are affected by this dispersion. Furthermore, we discuss several other caveats regarding Grad-CAM, such as feature map rectification, empty maps and the impact of global average pooling or flatten layers. Altogether, this work addresses some key limitations of Grad-CAM which may go unnoticed for common users, taking one step further in the pursuit for more reliable explainability methods.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025108849,
+title = {Multi-mode triggered bio-based epoxy resin/lauric acid/graphene paper flexible phase change materials with high enthalpy value, multi-functionality, and personal thermal management ability},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108849},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108849},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001435},
+author = {Yanyun Li and Tiancheng Wang and Junying Zhang and Jue Cheng and Qingsong Lian},
+keywords = {Wearable thermal management, High enthalpy value, Flexibility, Multi-functional integration},
+abstract = {In recent years, thermal management technology based on phase change materials (PCMs) has provided a new solution for the development of wearable thermal management systems. However, because the high enthalpy value, flexibility, and multi-functional integration of PCMs are mutually restricted, most of the reported wearable thermal management materials cannot achieve the synergic development of flexibility at room temperature, multi-functionality, and heat storage capacity of PCMs. In this paper, a new type of flexible PCMs was prepared by using bio-based modified eugenol epoxy resin and lauric acid. It is worth noting that due to the flexibility of the epoxy network itself and its excellent compatibility with La, the final PCMs exhibit high encapsulation rate (80 wt%) and high enthalpy value (163.3 J/g). Finally, the PCMs were combined with graphene paper to prepare a composite film, which has excellent thermal conductivity (3.28 Wm−1 K−1), electromagnetic interference shielding property (42 dB), solar-thermal (86.7 %, 1000 W/m2), and electro-thermal (89.3 %, 3.0 V) conversion and storage capabilities. Besides, the composite film not only has good flexibility at room temperature, but also shows excellent multi-mode shape memory performances. Last but not least, the composite film has great application potential in the field of wearable thermal therapy equipment.}
+}

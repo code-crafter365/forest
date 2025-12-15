@@ -1,0 +1,13 @@
+@article{HE2025119030,
+title = {Biomass aerogel with double layer heterostructure for sound absorption and sound insulation},
+journal = {Composite Structures},
+volume = {359},
+pages = {119030},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119030},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001953},
+author = {Liting He and Dongyang Li and Lulu Song and Jing Fang and Hao Li and Xiaoang Liu},
+keywords = {Sound absorption, Sound insulation, Aerogel, Heterogeneous structure, Kapok fiber, PDMS},
+abstract = {Sound absorption materials are usually used to reduce room reverberation, and sound insulation materials are used to prevent sound transmission. However, traditional sound absorption or sound insulation materials often exhibit only a single acoustic function. As a result, they cannot provide both sound absorption and sound insulation at the same time. For this purpose, back coated double layer aerogel was prepared by thermal curing method. It solves the problem that sound absorption and sound insulation cannot exist at the same time. The structure consists of a sound absorption layer made from biomass aerogel and a damping layer coated with polydimethylsiloxane (PDMS). The sound absorption layer consists of a porous network structure formed by crosslinking delignified kapok fibers and sodium alginate with calcium ion (Ca2+). The damping layer is constructed by the back-coated PDMS damping material. The effects of the concentration of Ca2+ and the coating method of PDMS on the acoustic behavior of the aerogel were investigated. At 50 ∼ 6300 Hz, the aerogel not only has good sound absorption performance but also has sound insulation performance. Furthermore, aerogel effectively addresses the issue of interfacial incompatibility in multilayer heterogeneous composites, providing a promising approach for designing modern noise reduction materials.}
+}

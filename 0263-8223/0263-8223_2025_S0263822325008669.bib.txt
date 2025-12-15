@@ -1,0 +1,13 @@
+@article{GARBOWSKI2025119701,
+title = {Inverse-based multi-step numerical homogenization for mechanical characterization of converted corrugated board},
+journal = {Composite Structures},
+volume = {373},
+pages = {119701},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119701},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008669},
+author = {Tomasz Garbowski and Aram Cornaggia and Tomasz Gajewski and Jakub K. Grabski and Damian Mrówczyński},
+keywords = {Material identification, Corrugated board, Numerical homogenization, Artificial neural network, Inverse analysis, Finite element method},
+abstract = {This paper presents a two-step inverse-based numerical homogenization framework for the mechanical characterization of converted corrugated board. The methodology combines high-fidelity 3D simulations with global plate modeling, enabling the extraction of homogenized stiffness parameters that account for imperfections such as fluting flattening and local degradation of paper properties during converting processes. In the first step, a 3D finite element model of a corrugated structure is perturbed to simulate realistic imperfections. The mechanical response is computed for multiple loading conditions. A simplified homogenized plate model is then calibrated using inverse optimization to match the 3D response, resulting in an identified plane stress membrane, bending and shear components known from the standard plate and shell theories of orthotropic materials In the second step, these reference stiffness values are used to inversely identify the geometric and material parameters of the constituent layers. The design variables include fluting geometry and the thickness and orthotropic elastic properties of each paper layer. The optimization reveals which parameters have the strongest influence on global behavior, offering insights into process sensitivity. The proposed method provides a robust and efficient path from microstructural features to global mechanical performance, suitable for design and quality control in industrial packaging applications. The framework may also be extended using neural networks for rapid estimation, enabling integration into broader simulation pipelines.}
+}

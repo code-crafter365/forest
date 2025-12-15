@@ -1,0 +1,13 @@
+@article{WANG2025118053,
+title = {Parametric Gaussian quadratures for discrete unified gas kinetic scheme},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118053},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118053},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003251},
+author = {Lu Wang and Hong Liang and Jiangrong Xu},
+keywords = {Discrete unified gas kinetic scheme, Discrete velocity method, Gauss–Hermite, Newton–Cotes},
+abstract = {The discrete unified gas kinetic scheme (DUGKS) has emerged as a promising Boltzmann solver capable of effectively capturing flow physics across all Knudsen numbers. However, simulating rarefied flows at high Knudsen numbers remains computationally demanding. This paper introduces a parametric Gaussian quadrature (PGQ) rule designed to improve the computational efficiency of DUGKS. The PGQ rule employs Gaussian functions for weighting and introduces several novel forms of higher-dimensional Gauss–Hermite quadrature. Initially, the velocity space is mapped to polar or spherical coordinates using a parameterized integral transformation method, which converts multiple integrals into repeated parametric integrals. Subsequently, Gaussian points and weight coefficients are computed based on the newly defined parametric weight functions. The parameters in PGQ allow the distribution of Gaussian points to be adjusted according to computational requirements, addressing the limitations of traditional Gaussian quadratures where Gaussian points are difficult to match the distribution of real particles in rarefied flows. To validate the proposed approach, numerical examples across various Knudsen numbers are provided. The simulation results demonstrate that PGQ offers superior computational efficiency and flexibility compared to the traditional Newton–Cotes rule and the half-range Gaussian Hermite rule, achieving computational efficiency that is tens of times higher than that of the Newton–Cotes method. This significantly enhances the computational efficiency of DUGKS and augments its ability to accurately simulate rarefied flow dynamics.}
+}

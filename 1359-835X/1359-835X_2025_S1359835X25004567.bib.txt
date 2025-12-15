@@ -1,0 +1,13 @@
+@article{SCHAFER2025109162,
+title = {3D solid-shell element for macroscopic composite forming simulation enabling thickness prediction},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109162},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109162},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004567},
+author = {Bastian Schäfer and Johannes Mitsch and Luise Kärger},
+keywords = {Solid-shell, Finite element analysis, Non-crimp fabric, Process simulation, Forming simulation, Preforming},
+abstract = {Accurate finite element (FE) forming simulations of engineering textiles are essential for optimizing manufacturing processes such as liquid composite molding (LCM). Traditional two-dimensional approaches often neglect through-thickness compaction, which is essential for predicting fiber volume content and final part thickness. This study presents an advanced reduced-integrated 8-node hexahedral solid-shell element designed specifically for macroscopic forming simulations of engineering textiles. The proposed element incorporates methods to prevent numerical locking, a membrane-bending decoupling method and a novel hourglass stabilization technique to ensure numerical efficiency. The solid-shell is implemented as a user-defined element (Vuel) in Abaqus/Explicit and applied to a bidirectional non-crimp fabric (NCF). It is parameterized based on experimental bias-extension, plate-to-plate compaction, and cantilever bending tests. Application to hemispherical forming simulations validates its forming behavior, achieving comparable accuracy to conventional 2D methods with the additional advantage of predicting thickness changes. In conclusion, this work provides a three-dimensional modeling approach that enhances process simulation capabilities for composite preforming, enabling more accurate predictions of effects in thickness direction.}
+}

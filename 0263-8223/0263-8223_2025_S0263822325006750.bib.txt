@@ -1,0 +1,13 @@
+@article{BI2025119510,
+title = {Compression behavior of 1D and 2D aligned steel fiber reinforced cement-based composites},
+journal = {Composite Structures},
+volume = {371},
+pages = {119510},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119510},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006750},
+author = {Mengdi Bi and Longbang Qing and Ru Mu and Mingqi Li},
+keywords = {Compressive performance, SFRC, Fiber orientation, Uniaxial compressive stress–strain curve, Constitutive model},
+abstract = {The compressive performance of steel fiber reinforced cement-based composites is highly affected by fiber orientation. In this study, specimens of cement-based composites with unidirectionally and two-dimensionally aligned steel fibers (1D-ASFRC and 2D-ASFRC) were manufactured based on electromagnetic field treatment, and the cubic compressive and prism uniaxial compressive test were conducted. The results showed that compared with randomly distributed steel fiber reinforced cement-based composites (SFRC), the cubic compressive strength of 1D-ASFRC and 2D-ASFRC was increased up to 9.4 % and 15.7 %, respectively. The uniaxial compressive strength of 2D-ASFRC and 1D-ASFRC rose by over 4 % and 8.9 %. Additionally, compression absorbed energy and compression toughness ratio were also observed an increasing trend for 1D-ASFRC and 2D-ASFRC. The fiber orientation influence coefficient was proposed to characterize the contribution of fiber orientation on the uniaxial compressive behavior, and the stress–strain constitutive models of SFRC, 1D-ASFRC and 2D-ASFRC were established. The failure patterns of 2D-ASFRC were found to be different from that of SFRC. A typical oblique shear failure mode can be observed in SFRC and 1D-ASFRC specimens, while 2D-ASFRC demonstrated the improved compression toughness with multiple discontinuous narrow cracks and without penetrating cracks. The reinforcement mechanism of 1D- and 2D- aligned steel fibers was revealed from fiber distribution.}
+}

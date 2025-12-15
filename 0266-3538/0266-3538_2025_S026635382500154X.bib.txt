@@ -1,0 +1,13 @@
+@article{GUO2025111186,
+title = {Designing Microcapsules/Ti3C2Tx MXene-based composite fabric coatings for human moist-heat monitoring and management},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111186},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111186},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500154X},
+author = {Yunyi Guo and Fanrong Sun and Ajiao Zhao and Kunlin Chen},
+keywords = {Microcapsules, TiCT MXene, Fabric coating, Humidity sensing, Thermal management},
+abstract = {Humidity monitoring plays a crucial role in human health monitoring by enabling real-time tracking of human skin's sweating conditions. However, traditional humidity-sensing fabrics are limited in their ability to achieve coordinated regulation and effective management of both humidity and heat in practical applications. In this study, a microcapsule/Ti3C2Tx-based composite fabric coating is designed by combining phase-change microcapsules with Ti3C2Tx nanosheets through electrostatic attraction, further incorporating hydrophilic polyacrylate. The incorporation of microcapsules effectively enhances the specific surface area and expands the moisture adsorption channels. Within a relative humidity range of 11–97 %, the sensitivity of the coated fabric can reach an impressive 1619 %. Additionally, the coated fabric maintains excellent breathability (>500 mm/s), facilitating sweat evaporation. The integration of phase-change materials further equips the fabric with thermal management capabilities, enabling it to regulate skin temperature by absorbing and releasing heat during sweat evaporation. The practicality of the coated fabric is further assessed using the wet cup method to simulate skin sweating, during which changes in humidity and temperature are recorded throughout the heating and cooling processes. Consequently, the developed coating demonstrates high sensitivity, effective moist-heat management, and comfort, offering innovative ideas and strategies for the design of humidity-monitoring textiles.}
+}

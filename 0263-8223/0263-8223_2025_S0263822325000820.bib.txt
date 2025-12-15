@@ -1,0 +1,13 @@
+@article{LI2025118917,
+title = {Flexural behavior of Strain-Hardening Cementitious Composite beams with bio-inspired triangular and wavy suture joints},
+journal = {Composite Structures},
+volume = {357},
+pages = {118917},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118917},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000820},
+author = {Shiping Li and Yan Sun and Ye Qian},
+keywords = {Bio-inspired periodic suture joint, Strain-Hardening Cementitious Composite (SHCC), Flexural performance, Energy absorption, Tooth shape, Failure mode},
+abstract = {Inspired by the fascinating biological suture joints, this study focuses on Strain-Hardening Cementitious Composite (SHCC) suture joints, exploring the flexural behavior of two innovative periodic suture joints: triangular and wavy suture joints. Through systematically exploring the effect of suture joints of different wavelengths and amplitudes on the flexural properties, this study thoroughly analyzes the mechanical properties and failure modes of the interlocking suture interface, while delving deeply into the abnormal deformation mechanisms of the SHCC suture joints. The research findings highlight that wavy suture joints surpass triangular counterparts in terms of significant mechanical characteristics and deformation performance, showcasing robust bonding capabilities and exceptional flexural strength. Compared to conventional linear suture joints, the ultimate bearing capacity of wavy suture joints has increased by 19.08 times, while the energy absorption has increased by 545.15 times, achieving mechanical characteristics comparable to the SHCC base material. Through effective design and optimization of suture geometry, a seamless integration of the suture structure was achieved, enabling the SHCC suture joint to achieve exceptional strength and superior energy absorption. This innovative connection technology echoes the potential future of concrete connections and may bring a new type of connection tool to the field of construction engineering.}
+}

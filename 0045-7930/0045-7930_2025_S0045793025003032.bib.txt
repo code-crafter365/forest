@@ -1,0 +1,13 @@
+@article{VALLISA2025106843,
+title = {A novel interface reconstruction method based on B-Spline parametric surfaces: Application to free-falling natural particle in thermo-buoyant flows},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106843},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106843},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003032},
+author = {Lorenzo Vallisa and Delphine Laboureur and Maria Teresa Scelzo and Silvania Lopes and Michel {De Paepe}},
+keywords = {B-Spline surfaces, Complex geometries, Explicit interface reconstruction, Solid–liquid interactions, Thermobuoyant flows},
+abstract = {This paper provides an innovative formulation based on B-Spline surfaces to explicitly represent liquid–solid interfaces in multiphase problems. B-Spline surfaces constitute a robust framework for representing complex geometries. Their ability to provide continuous access to surface information across the entire parametric domain offers a substantial advantage in managing boundary point distributions, particularly when compared to the traditional connectivity matrix employed in hybrid front-tracking methods and immersed boundary approaches. This work begins by introducing a definition for a closed parametric surface that fully encompasses the boundary of a solid object. Building on this foundation, it presents a parsing algorithm designed for systematic organization. The algorithm processes an unordered set of boundary points, representing the rigid body’s boundary, and arranges them into a structure aligned with the defined closed parametric surface. Leveraging the advanced geometric capabilities of B-Splines, we introduce a novel procedure for the computation of the indicator function, whose computational advantages over established methods such as the Poisson equation is then proved in a benchmark test. The presented geometrical tools are then integrated into a direct-forcing immersed boundary method. The solver is enhanced with a extension field technique, to address numerical instabilities caused by spurious oscillations arising near the immersed boundary. Additionally, it is extended to incorporate the effects of thermobuoyant flow dynamics. The solver is rigorously validated through both isothermal and non-isothermal test cases and subsequently applied to investigate the comparative free-falling behavior of a spherical object and a natural particle with an equivalent spherical volume. The results demonstrate that, despite the morphology of the natural particle exhibits only a slight deviation from that of a spherical object, its asymmetries significantly influence its trajectory.}
+}

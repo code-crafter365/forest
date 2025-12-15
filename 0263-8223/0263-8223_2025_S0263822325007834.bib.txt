@@ -1,0 +1,13 @@
+@article{WANG2025119618,
+title = {Braided GFRP sleeving reinforced parallel bamboo strand lumber columns: an efficient way to improve compression performance},
+journal = {Composite Structures},
+volume = {372},
+pages = {119618},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119618},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007834},
+author = {Hui Wang and Zicheng Zhang and Zhenyu Qiu},
+keywords = {Braided GFRP sleeving, Bamboo columns, Theoretical prediction},
+abstract = {This study designed and tested seven groups of parallel bamboo strand lumber columns and GFRP-reinforced parallel bamboo strand lumber columns with different slenderness ratios in axial compression tests, evaluating the beneficial effects of GFRP reinforcement on the mechanical properties of the columns. The test results showed that the failure modes of the column members could be categorized into compressive failure and buckling failure. The load–displacement curve included elastic stage, crack development stage, plateau stage, and falling stage. The GFRP casing reinforcement did not significantly affect the failure mode of the columns but improved the axial compressive strength and ductility to a certain extent. Compared to parallel bamboo strand lumber columns, the maximum increase in axial compressive strength and ductility of GFRP-reinforced parallel bamboo strand lumber columns reached 15.50% and 68.78%, respectively. In addition, this study employed both a DIC 3D strain measurement system and conventional strain gauges to monitor the strains, and the results showed high agreement. Furthermore, prediction equations for the maximum load-carrying capacity of both parallel bamboo strand lumber columns and GFRP-restrained parallel bamboo strand lumber columns were established. The theoretical values agreed with the experimental results, with the general error being <20 %.}
+}

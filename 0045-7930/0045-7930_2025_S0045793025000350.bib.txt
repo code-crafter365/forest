@@ -1,0 +1,13 @@
+@article{GUO2025106575,
+title = {A hybrid diffuse boundary approach for modeling contact-line dynamics within the framework of phase-field lattice Boltzmann method},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106575},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106575},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000350},
+author = {Guanlong Guo and Beichen Ji and Pei Zhang and Bin Chen and S.A. Galindo-Torres},
+keywords = {Contact-line dynamics, Phase-Field method, Diffuse domain method, Smoothed profile method, Lattice Boltzmann Method},
+abstract = {Modeling the dynamics of the contact line among liquid, gas, and solid phases requires enforcing three fundamental boundary conditions on the solid surface: non-penetration, no-slip, and wetting. This study presents a hybrid diffuse boundary approach within the phase-field lattice Boltzmann method to effectively model contact-line dynamics. The proposed method integrates the diffuse domain approach into the Cahn-Hilliard equation to impose the wetting boundary condition, while the smoothed profile method is incorporated into the Navier–Stokes equation to enforce the no-slip and non-penetration conditions. By leveraging the diffuse nature of the boundary/interface, this approach naturally embeds all three boundary conditions directly into the governing equations, eliminating the need for complex numerical treatments at solid boundaries. Compared to the conventional sharp boundary method and the immersed boundary method, the hybrid approach significantly simplifies boundary condition implementation, particularly for complex geometries and moving solid boundaries. Validation tests confirm the accuracy of the method in reproducing prescribed contact angles and ensuring mass conservation. Furthermore, the approach is applied to simulate bubble migration through a pore throat, demonstrating a linear relationship between the Bond number and the contact angle, which delineates distinct passing and trapping behaviors.}
+}

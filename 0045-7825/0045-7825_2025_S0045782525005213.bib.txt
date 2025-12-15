@@ -1,0 +1,13 @@
+@article{BLEIMERSAGLIO2025118249,
+title = {A p-adaptive polytopal discontinuous Galerkin method for high-order approximation of brain electrophysiology},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118249},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118249},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005213},
+author = {Caterina {B․ Leimer Saglio} and Stefano Pagani and Paola {F․ Antonietti}},
+keywords = {Brain modeling, Neuronal electrophysiology, -adaptive algorithms, A-posteriori error estimators, Discontinuous Galerkin methods},
+abstract = {Multiscale mathematical models have shown significant potential in computational brain electrophysiology. However, their practical implementation is still limited by the substantial computational costs associated with the brain’s rapid dynamics and complex geometries, which require exceedingly fine spatio-temporal resolution. In this paper, we propose a novel p-adaptive discontinuous Galerkin method on polytopal grids (PolyDG) coupled with Crank–Nicolson time stepping for the numerical discretization of a brain electrophysiology model consisting of the monodomain equation coupled with the Barreto–Cressman ionic model. The proposed p-adaptive strategy enhances local accuracy through dynamic, element-wise polynomial refinement and coarsening, guided by a-posteriori error estimators. To further enhance computational efficiency, we introduce a novel clustering algorithm that automatically and dynamically identifies the subset of mesh elements where p-adaptive updates are required. Comprehensive numerical experiments, including benchmark test cases and simulations of epileptic seizure activity in a sagittal section of the human brainstem, demonstrate the method’s ability to significantly reduce the global number of degrees of freedom while maintaining the accuracy necessary to resolve complex wavefront dynamics.}
+}

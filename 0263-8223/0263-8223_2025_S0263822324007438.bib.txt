@@ -1,0 +1,13 @@
+@article{SHABANI2025118615,
+title = {Low-velocity impact (LVI) and compression after impact (CAI) of Double-Double composite laminates},
+journal = {Composite Structures},
+volume = {351},
+pages = {118615},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118615},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007438},
+author = {Peyman Shabani and Lucy Li and Jeremy Laliberte},
+keywords = {Composite laminates, Low-velocity impact, Compression after impact, Double-Double laminates},
+abstract = {Tailorability is a key advantage of fiber-reinforced composites over other material systems. While tailoring a single isolated laminate is relatively simple, challenges arise when designing larger integrated components while ensuring compatibility between laminates and avoiding sharp changes in local stiffness. The innovative Double-Double (DD) laminate design method simplifies the optimization and processing of laminates by incorporating 4-ply building blocks consisting of +ϕ, −ϕ, +ψ, and −ψ ply orientations. As a relatively new concept, DD laminate design requires careful assessment to ensure its performance is equivalent to that of conventional designs. The current study compares impact damage tolerance of quadriaxial (QUAD) laminates consisting of 0°, 90°, and ±45° ply orientations with equivalent DD laminates under Low-Velocity Impact (LVI) and Compression After Impact (CAI) loadings. To this end, a validated three-dimensional high-fidelity finite element model capable of capturing fiber breakage, splitting, kinking, as well as matrix cracking and delamination, was used. A computer tool was developed to identify equivalent DD laminates and to find the best stacking sequence for achieving layup homogenization. Three equivalent DD laminates were selected for the [0/45/90/−45]4s. The first laminate had an equal in-plane stiffness [A] matrix ([67.5/–22.5/22.5/−67.5]8T), the second laminate had an equal flexural stiffness [D] matrix ([64.5/−17/17/−64.5]8T), and the third laminate ([65.5/−18.5/18.5/−65.5]8T) had a similar [D] matrix while keeping the difference between each element of [A] matrices below 10 %. The results indicate that the QUAD laminates can be replaced by equivalent DD without compromising impact damage tolerance while benefiting from the improved design and manufacturing ease of the DD laminate configuration.}
+}

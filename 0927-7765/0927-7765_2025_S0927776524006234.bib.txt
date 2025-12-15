@@ -1,0 +1,13 @@
+@article{ZHU2025114364,
+title = {Fabrication of functional interface on magnetic beads via various amino acids and their application in chemiluminescent immunoassay as carrier},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114364},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114364},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006234},
+author = {Shihong Zhu and Daohang Du and Zhimin Zhao and Xianfeng Chu and Daoxiang Su and Shuli Yu and Ting Tao and Yong Jiang and Zhifei Wang},
+keywords = {Amino acid, Phenylalanine, Magnetic beads, Protein adsorption, Chemiluminescence immunoassay},
+abstract = {Magnetic polymer microspheres with superparamagnetism, high specificity, and monodispersity play a crucial role in the field of in vitro diagnostics. However, the surface modification process of magnetic beads is often complex, and it remains a significant challenge to prepare high-performance magnetic beads easily. To overcome these drawbacks, herein we fabricated functional interface on magnetic bead with the various amino acid via the ring-opening reaction of amino acids with epoxy groups, with attempt to produce carboxylated magnetic beads (MPS-GA) in a convenient way. Results indicate that when compared to other amino acids, the phenylalanine magnetic beads (MPS-GA1) developed in this study exhibit strong adsorption for mouse immunoglobulin (IgG), streptavidin (SA), and protamine (PA), with an IgG adsorption capacity of 53.5 μg/mg and a coupling capacity of 52.5 μg/mg. It is found that electrostatic forces and hydrophobic interactions are key factors influencing biomolecular interactions. Additionally, these magnetic beads can generate strong chemiluminescent signals, significantly reducing background levels by up to 99.7 %. Therefore, the magnetic beads proposed in this paper can serve as carriers for chemiluminescent immunoassay (CLIA), providing new insights into the synthesis of high-quality magnetic bead.}
+}

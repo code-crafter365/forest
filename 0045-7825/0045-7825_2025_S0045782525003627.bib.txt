@@ -1,0 +1,13 @@
+@article{BASTIDASOLIVARES2025118090,
+title = {A posteriori algebraic error estimates and nonoverlapping domain decomposition in mixed formulations: energy coarse grid balancing, local mass conservation on each step, and line search},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118090},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118090},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003627},
+author = {Manuela {Bastidas Olivares} and Akram {Beni Hamad} and Martin Vohralík and Ivan Yotov},
+keywords = {Mixed finite elements, Saddle-point system, Iterative algebraic solver, Algebraic error, A posteriori estimate, Domain decomposition method, Coarse grid solver, Subdomain Neumann solver, Subdomain Dirichlet solver, Balancing, Local mass conservation, Line search},
+abstract = {We consider iterative algebraic solvers for saddle-point mixed finite element discretizations of the model Darcy flow problem. We propose a posteriori error estimators of the algebraic error as well as a nonoverlapping domain decomposition algorithm. The estimators control the algebraic error from above and from below in a guaranteed and fully computable way. The distinctive feature of the domain decomposition algorithm is that it produces a locally mass conservative approximation on each iteration. Both the estimate and the algorithm rely on a coarse grid solver, a subdomain Neumann solver, and a subdomain Dirichlet solver. The algorithm also employs a line search to determine the optimal step size, leading to a Pythagoras formula for the algebraic error decrease in each iteration. We suppose that the fine mesh is a refinement of a coarse mesh, where both meshes need to be formed by simplices or rectangular parallelepipeds. Numerical experiments illustrate the theoretical developments and confirm the efficiency of the algebraic error estimates and of the domain decomposition algorithm.}
+}

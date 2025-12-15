@@ -1,0 +1,13 @@
+@article{CHEN2025119699,
+title = {Hygrothermal aging effects on tensile strength of acrylic vs. epoxy adhesive CFRP lap joints: a comparative analysis},
+journal = {Composite Structures},
+volume = {373},
+pages = {119699},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119699},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008645},
+author = {Dong Chen and Junwei Zhang and Kou Du and Meng Weng and Zhaohui Bai and Cheng Li and Jianwei Shi},
+keywords = {Single lap joints, CFRP, Hygrothermal aging, Finite element method, Failure morphology},
+abstract = {Carbon fiber reinforced polymer (CFRP) bonded structures are widely used due to their lightweight and high specific strength. However, research on durability of adhesively bonded single lap joint (SLJ) under hygrothermal conditions remain insufficient. Therefore, the aging process and residual strength of CFRP-bonded SLJs with different adhesives were studied. Condition were set to 55 °C and 95 % relative humidity (RH) to accelerate the hygrothermal aging tests. The accelerated aging time represents 5.77 times of that in 25 °C 70 %RH environment. Moisture absorption behavior of CFRP adherent and adhesive layer were analyzed, respectively. After the same aging period, residual tensile strength and decrease rate of acrylic-based specimens and epoxy-based specimens were compared. For each specimen, Digital image correlation (DIC) technique is used to record the deformation and load–displacement curve from the beginning until fracture. Then the morphology of the failure surfaces was analyzed by using a super-depth microscope. To evaluate their performance and clarify the failure mechanisms, Finite element method (FEM) simulations were conducted. Coupling with experiment results, tensile force was addressed to the correlated peak stress on the bonding interface, and fracture evolution were predicted. The results show if hygrothermal time is short, the acrylic-based adhesive behaves better. But from the view of decrease rate, epoxy-based show better aging resistance, especially when hygrothermal time is longer. The proposed coupling method and study results may help in the design of adhesively bonded CFRP structures.}
+}

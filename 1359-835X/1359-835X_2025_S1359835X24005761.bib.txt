@@ -1,0 +1,13 @@
+@article{MAZUMDER2025108578,
+title = {Digitalization of composite manufacturing using nanomaterials based piezoresistive sensors},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108578},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108578},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005761},
+author = {Md Rahinul Hasan Mazumder and Premika Govindaraj and Nisa Salim and Dennis Antiohos and Franz Konstantin Fuss and Nishar Hameed},
+keywords = {Vacuum-assisted resin transfer molding, Process monitoring, Nanomaterials, Sensors, Digitalization},
+abstract = {In 4th industrial revolution, sensors will play a pivotal part in digitalization of composite manufacturing through factory automation. The ability to track and monitor the composite manufacturing process triggers improved manufacturing process, provides crucial data for defect tracking and predictive maintenance and finally improves the overall production efficiency. Sensors provide vital information during manufacturing and the data is transferred as resources to the system that operates remotely via conventional wireless networks. Among various kinds of electromechanical sensors, nanomaterials based piezoresistive sensors have been largely preferred for their excellent sensitivity, minimally invasive structure, and continuity. Piezoresistive sensors can collect vast amounts of data in real-time during production to set up a digital twin of the manufacturing process. This review outlines the application of nanomaterial-based piezoresistive sensors to create a digital passport of the vacuum-assisted resin transfer molding (VARTM) process. Different kinds of defects that might emerge during VARTM process are briefly discussed. Fundamental principles of various types of sensors for in-situ monitoring are discussed to compare with the piezoresistive sensors. Several strategies for designing nanomaterial-based piezoresistive sensors for on-line monitoring along with interpreting the data obtained during distinct VARTM stages are also presented. Finally, a machine learning (ML) framework for process optimization is proposed to create a digital passport of the VARTM process.}
+}

@@ -1,0 +1,13 @@
+@article{ZHONG2025115005,
+title = {pH-modulated electrostatic steering enhances SPAAC-mediated peptide grafting on titanium implants},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115005},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115005},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005120},
+author = {Ru Zhong and Gaosheng Zhang and Lin Wang and Yingjun Wang},
+keywords = {Peptide, Click chemistry, Surface modification, Titanium implant},
+abstract = {This study investigates the impact of peptide charge states on strain-promoted azide–alkyne cycloaddition (SPAAC)--mediated grafting efficiency on titanium-based substrates. Cationic peptides exhibited superior grafting in a normal aqueous environment due to electrostatic complementarity with negatively charged dibenzocyclooctyne (DBCO)-functionalized surfaces. Anionic peptides required pH modulation to reverse charge disparities, achieving enhanced grafting at lower pH. This pH-tuned strategy enables universal surface functionalization for diverse therapeutic peptides on titanium-based implants.}
+}

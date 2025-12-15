@@ -1,0 +1,13 @@
+@article{LIU2025118871,
+title = {Pullout behavior of single and multiple arc-shaped fibers in SIFCON with various fiber spacings and loading rates},
+journal = {Composite Structures},
+volume = {355},
+pages = {118871},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118871},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000364},
+author = {Fengshan Liu and Yabiao Li and Qingyu Li and Xiufang Zhang and Yunfeng Pan and Minjia Wang and Hedong Li and Fujiang Mu},
+keywords = {Fiber spacing, Arc-shaped fibers, Loading rates, Prediction model, Slurry-infiltrated fiber concrete},
+abstract = {Pullout experimental study of multiple arc-shaped (1BA) and hooked-end (1BS) steel fibers was conducted to investigate their pullout behaviors in slurry-infiltrated fiber concrete (SIFCON). The main variable parameters were loading rates and fiber spacings. For further investigate the effect of fiber shape on pullout behavior, single-fiber pullout tests were also considered. The results show that single 1BA fiber has stronger pullout resistance compared to single 1BS fiber. The average bond strengths of the 1BA fibers and the 1BS fibers with various spacings in SIFCON matrix are in the following order: 5 mm > 2 mm > 0 mm and 2 mm > 5 mm > 0 mm, respectively. The reason of the opposite results for the 1BA and the 1BS fibers at 2 mm and 5 mm spacing is that the 1BA fibers have a larger matrix spalling at smaller spacing. Adding fibers into the brittle matrix is an effective way to mitigate this phenomenon. In the most cases, the bond strength of the fibers enhances as the loading rate rises. However, for samples with 0 mm and 2 mm fiber spacing, the bond strength of 1BA fibers decreases with the increase in loading rate due to the larger area of matrix spalling. Furthermore, a single 1BA and 1BS steel fiber pullout model is proposed, which can well predict the pullout behavior of a single fiber in SIFCON matrix. In conclusion, 1BA fibers may be the more noteworthy fiber shape for the ductile matrix rather than the brittle matrix.}
+}

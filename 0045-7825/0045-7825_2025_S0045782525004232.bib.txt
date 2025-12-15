@@ -1,0 +1,13 @@
+@article{LI2025118151,
+title = {Generalizability of local neural operator: Example for elastodynamic problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118151},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118151},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004232},
+author = {Hongyu Li and Ximeng Ye and Lei He and Weiqi Qian and Peng Jiang and Tiejun Wang},
+keywords = {Deep learning, Local neural operator (LNO), Generalizability, Elastodynamics},
+abstract = {Local neural operator (LNO) conception has provided a feasible way for scientific computations. The LNO learns transient partial differential equations from random field samples, and then the pre-trained LNO solves practical problems on specific computational domains. For applications, we may ask: Are the training samples rich enough? To what extent can we trust the solutions obtained from pre-trained LNO models for unknown cases? The generalizability of LNO could answer these questions. Here, we propose to use two plain scalar features, the amplitude and wavenumber of the input functions, to indicate the richness of training samples and to evaluate the generalization error of pre-trained LNO. In elastodynamic practices, we find that isolated evolving wavenumber modes for Lamé–Navier equation caused the training dataset to lack mode diversity. By data supplementation and model fine-tuning targeting to the discovered lack modes, the pre-trained and fine-tuned LNO model solves Lamb problem correctly and efficiently. These results and the proposed generalization criteria provide a paradigm for LNO applications.}
+}

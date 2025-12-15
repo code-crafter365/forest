@@ -1,0 +1,13 @@
+@article{STANKIEWICZ2025109192,
+title = {Processing opportunities for glass fiber reinforced polyphenylensulfide (PPS) composite recyclate},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109192},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109192},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004865},
+author = {Karolina Stankiewicz and Adrian Lipkowski and Arnold Jędral and Anna Bona and Piotr Kowalczyk},
+keywords = {Recycling, Resistance welding, Thermoplastic composites, High-performance thermoplastic composites, Circular economy},
+abstract = {This study aimed to investigate the feasibility of recycling and reprocessing glass fiber-reinforced polyphenylene sulfide (GF/PPS) composites, focusing on their structural integrity and welding capabilities post-recycling. A pre-impregnated GF/PPS composite was first consolidated into a thermoplastic laminate using hot press technology and subsequently shredded into 20 × 20 mm flakes using an industrial shredder. Composite panels were then fabricated entirely from the recycled material without additional thermoplastic polymer input. The internal structure of the recycled GF/PPS (rGF/PPS) flat panels was examined through non-destructive ultrasonic inspection and validated via microscopic analysis, revealing a non-uniform internal structure with quasi-isotropic fiber orientation. The material was also tested for resistance welding, confirming its effective weldability. Both recycled and original samples were evaluated for their mechanical and physicochemical properties. The tensile and short beam shear strengths of the original material were 427.50 MPa and 35.62 MPa, respectively, whereas the recycled material showed a decrease of 87 % and 25 %, respectively, to 54.3 MPa and 26.83 MPa. DMA results indicated that GF/PPS exhibited a Tg of 115 °C and rGF/PPS a slightly higher Tg of 120 °C; however, rGF/PPS had a higher tan δ peak and a lower storage modulus (E’), indicating reduced stiffness and increased damping. DSC analysis revealed a more significant decrease in Tg (from 120.24 °C in GF/PPS to 96.55 °C in rGF/PPS) and a reduction in Tm (from 283 °C to 273 °C), suggesting increased polymer chain mobility and lower crystallinity due to reprocessing. Despite the reduction in mechanical properties, the recycled GF/PPS composite demonstrates adequate performance for secondary structures, supporting the main load-bearing structure but not carrying critical loads. This study highlights the feasibility of thermoplastic composite recycling, supporting sustainable manufacturing.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025102653,
+title = {Coronary artery calcification segmentation with sparse annotations in intravascular OCT: Leveraging self-supervised learning and consistency regularization},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102653},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102653},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001624},
+author = {Chao Li and Zhifeng Qin and Zhenfei Tang and Yidan Wang and Bo Zhang and Jinwei Tian and Zhao Wang},
+keywords = {Coronary artery calcification, Optical coherence tomography, Consistency regularization, Sparse annotation, Self-supervised learning, Transformer},
+abstract = {Assessing coronary artery calcification (CAC) is crucial in evaluating the progression of atherosclerosis and planning percutaneous coronary intervention (PCI). Intravascular Optical Coherence Tomography (OCT) is a commonly used imaging tool for evaluating CAC at micrometer-scale level and in three-dimensions for optimizing PCI. While existing deep learning methods have proven effective in OCT image analysis, they are hindered by the lack of large-scale, high-quality labels to train deep neural networks that can reach human level performance in practice. In this work, we propose an annotation-efficient approach for segmenting CAC in intravascular OCT images, leveraging self-supervised learning and consistency regularization. We employ a transformer encoder paired with a simple linear projection layer for self-supervised pre-training on unlabeled OCT data. Subsequently, a transformer-based segmentation model is fine-tuned on sparsely annotated OCT pullbacks with a contrast loss using a combination of unlabeled and labeled data. We collected 2,549,073 unlabeled OCT images from 7,108 OCT pullbacks for pre-training, and 1,106,347 sparsely annotated OCT images from 3,025 OCT pullbacks for model training and testing. The proposed approach consistently outperformed existing sparsely supervised methods on both internal and external datasets. In addition, extensive comparisons under full, partial, and sparse annotation schemes substantiated its high annotation efficiency. With 80% reduction in image labeling efforts, our method has the potential to expedite the development of deep learning models for processing large-scale medical image data.}
+}

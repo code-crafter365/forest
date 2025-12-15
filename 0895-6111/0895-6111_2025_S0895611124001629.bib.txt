@@ -1,0 +1,13 @@
+@article{JIANG2025102485,
+title = {NURBS curve shape prior-guided multiscale attention network for automatic segmentation of the inferior alveolar nerve},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102485},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102485},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001629},
+author = {Shuanglin Jiang and Jiangchang Xu and Wenyin Wang and Baoxin Tao and Yiqun Wu and Xiaojun Chen},
+keywords = {NURBS curve shape prior, Inferior alveolar nerve segmentation, Multiscale attention network, Dilation selective attention},
+abstract = {Accurate segmentation of the inferior alveolar nerve (IAN) within Cone-Beam Computed Tomography (CBCT) images is critical for the precise planning of oral and maxillofacial surgeries, especially to avoid IAN damage. Existing methods often fail due to the low contrast of the IAN and the presence of artifacts, which can cause segmentation discontinuities. To address these challenges, this paper proposes a novel approach that employs Non-Uniform Rational B-Spline (NURBS) curve shape priors into a multiscale attention network for the automatic segmentation of the IAN. Firstly, an automatic method for generating non-uniform rational B-spline (NURBS) shape prior is proposed and introduced into the segmentation network, which significantly enhancing the continuity and accuracy of IAN segmentation. Then a multiscale attention segmentation network, incorporating a dilation selective attention module is developed, to improve the network’s feature extraction capacity. The proposed approach is validated on both in-house and public datasets, showcasing superior performance compared to established benchmarks, achieving 80.29±11.04% dice coefficient (Dice) and 68.14±12.06% intersection of union (IoU), the 95% Hausdorff distance (95HD) reaches 1.61±6.14 mm and mean surface distance (MSD) reaches 0.64±2.16 mm on private dataset. On public dataset, the Dice reaches 80.69±4.93%, IoU reaches 67.86±6.73%, 95HD reaches 1.04±0.95 mm, and MSD reaches 0.42±0.34 mm. Compared to state-of-the-art networks, the proposed approach out-performs in both voxel accuracy and surface distance. It offers significant potential to improve doctors’ efficiency in segmentation tasks and holds promise for applications in dental surgery planning. The source codes are available at https://github.com/SJTUjsl/NURBS_IAN.git.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025114910,
+title = {NO-generating self-delivery liposomes for synergistic photodynamic-gas therapy against hypoxic tumors},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114910},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114910},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004175},
+author = {Yimei Zhang and Kai Ran and Hui Liu and Dianyong Tang and Zhongzhu Chen and Zheng Huang},
+keywords = {Liposomes, Nitric oxide, Arginine, Tumor hypoxia, Photodynamic therapy},
+abstract = {Photodynamic therapy (PDT) is an effective non-invasive tumor treatment strategy that has been widely used for anti-tumor therapy. However, the hypoxic tumor microenvironment significantly limits the therapeutic efficacy of photodynamic therapy (PDT). Herein, a laser-activated drug delivery system is successfully developed for photodynamic-gas synergistic therapy. Specifically, reactive oxygen species (ROS)-responsive liposomes loaded with pyropheophorbide a (PPa@FALA NPs) are constructed using Fmoc-L-arginine-linolyl alcohol (FALA) as both the carrier and a nitric oxide (NO)-generating agent. The obtained liposomes exhibit 4-fold higher cellular internalization efficiency than free PPa. Upon laser irradiation, the encapsulated photosensitizer PPa generated ROS, which oxidize the linolyl alcohol chains. This oxidation could result in structural disruption of the liposomes and subsequent drug release. Crucially, the released FALA efficiently produced NO through both endogenous and exogenous ROS pathways. This NO generation downregulated HIF-1α protein expression to 65 % compared with control, alleviated tumor hypoxia and consequently enhanced PDT efficacy ∼2-fold. Notably, these self-delivery liposomes were fabricated without complex synthesis procedures, ensuring potential for mass production and biosafety. This study presented a simple and effective drug delivery system, which provided a promising strategy for synergistic photodynamic-gas therapy in tumor treatment.}
+}

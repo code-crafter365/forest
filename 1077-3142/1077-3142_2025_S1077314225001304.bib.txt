@@ -1,0 +1,13 @@
+@article{LIU2025104407,
+title = {Progressive Reverse Attention Network for image inpainting detection and localization},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104407},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104407},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001304},
+author = {Shuai Liu and Jiyou Chen and Xiangling Ding and Gaobo Yang},
+keywords = {Image inpainting forensics, Attention mechanism, Edge supervision, Loss function},
+abstract = {Image inpainting is originally presented to restore damaged image areas, but it might be maliciously used for object removal that change image semantic content. This easily leads to serious public confidence crises. Up to present, image inpainting forensics works have achieved remarkable results, but they usually ignore or fail to capture subtle artifacts near object boundary, resulting in inaccurate object mask localization. To address this issue, we propose a Progressive Reverse Attention Network (PRA-Net) for image inpainting detection and localization. Different from the traditional convolutional neural networks (CNN) structure, PRA-Net follows an encoder and decoder architecture. The encoder leverages features at different scales with dense cross-connections to locate inpainted regions and generates global map with our designed multi-scale extraction module. A reverse attention module is used as the backbone of the decoder to progressively refine the details of predictions. Experimental results show that PRA-Net achieves accurate image inpainting localization and desirable robustness.}
+}

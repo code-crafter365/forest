@@ -1,0 +1,13 @@
+@article{DONG2025119229,
+title = {Three-dimensional annular negative stiffness honeycomb structure design and performance study},
+journal = {Composite Structures},
+volume = {367},
+pages = {119229},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119229},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003940},
+author = {Yangyang Dong and Fangzhi Yan and Zijian Zhang},
+keywords = {ANSH, Repeatable energy absorption, Finite element simulation, Quasi-static compression},
+abstract = {This paper introduces a novel three-dimensional annular negative stiffness honeycomb (ANSH) structure. Initially, a variety of center angles were used to design a negative stiffness honeycomb (NSH) structure, based on NSH theory principles. Finite element methods were applied to analyze its negative stiffness and mechanical properties under compression, identifying the optimal angle for unit structure. Subsequently, multiple layers were stacked to develop the three-dimensional ANSH structure. Quasi-static compression simulations and experiments with different layer counts demonstrated that the new NSH structure’s mechanical properties and energy absorption capabilities improve with increasing layer count. Moreover, for three-layer honeycomb structures with identical unit numbers, the three-layer NSH structure can withstand a maximum force threshold 1.55-fold higher than the three-layer OH structure when beam thickness is constant, and its energy absorption increases by 1.43-fold. Despite a 2.57-fold increase in beam thickness for the three-layer OH structure under the same mass, the mechanical properties and energy-absorption performance of the three-layer NSH structure remain comparable, and cyclic experiments indicate that it has superior repeatable energy-absorption characteristics. The printed structure shows self-recovery after deformation and effective shock absorption under various loading conditions, ensuring traversal capability and maintaining motion performance post-obstacle crossing, indicating significant potential for engineering applications.}
+}

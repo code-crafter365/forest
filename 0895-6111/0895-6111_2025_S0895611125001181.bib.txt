@@ -1,0 +1,13 @@
+@article{ZHU2025102609,
+title = {Characterizing and differentiating brain states through a CS-KBRs framework for highlighting the synergy of common and specific brain regions},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102609},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102609},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001181},
+author = {Di Zhu and Shu Zhang and Sigang Yu and Qilong Yuan and Kui Zhao and Yanqing Kang and Tuo Zhang and Xi Jiang and Tianming Liu},
+keywords = {Brain states, Neural network interpretability, Hub, Graph convolutional network},
+abstract = {In the field of neuroscience, understanding the coordination of different brain regions to drive various brain states is critical for revealing the nature of cognitive processes and their manifestation in brain functions and disorders. Despite the promise shown by deep learning methods in brain state classification using fMRI data, their interpretability remains a challenge, particularly in understanding the distinct characteristics of the identified ROIs. This study introduces a novel framework based on the Dynamic Graph Convolutional Neural Network (DGCNN) to identify key brain regions (KBRs) crucial for brain state classification tasks. By dynamically updating the adjacency matrix, this approach more effectively evaluates the importance of each brain region, allowing for the accurate selection of 56 KBRs from 148 regions, which significantly enhance brain state classification performance compared to using all brain regions. To further investigate why KBRs show superior performance, we categorize these KBRs into hub-like Common and Specific regions, forming a CS-KBRs framework, it shows that Common regions act as central hubs with strong connectivity, enabling global integration across the brain, while Specific regions capture localized, task-relevant details that are vital for differentiating particular brain states. This core-peripheral complementary relationship between Common and Specific regions provides a comprehensive representation of both global and local features, which is essential for accurately distinguishing brain states. Our findings reveal that this synergistic mechanism within the CS-KBRs framework not only enhances model accuracy but also offers a deeper understanding of how different brain regions collectively contribute to the expression and differentiation of various brain states.}
+}

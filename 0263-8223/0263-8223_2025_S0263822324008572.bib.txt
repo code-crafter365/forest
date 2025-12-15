@@ -1,0 +1,13 @@
+@article{CIAMPAGLIA2025118729,
+title = {Experimental study on the electrical conductivity and strain sensitivity of fibre-reinforced thermoplastic for structural health monitoring},
+journal = {Composite Structures},
+volume = {353},
+pages = {118729},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118729},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008572},
+author = {Alberto Ciampaglia and Salvatore Roccia and Raffaele Ciardiello},
+keywords = {Conductive polymers, Polymers, PA66, Smart material, Electrical resistance, Conductivity},
+abstract = {This experimental study explores the mechanical, electrical, and piezometric characteristics of conductive thermoplastic polymers reinforced with short carbon and glass fibres. The work investigates how the local anisotropy induced during the manufacturing injection process impacts the properties of the composite. Tensile tests showed that the material orientation respect to the injection flow direction significantly affects the mechanical properties due to the alignment of the fibres with the injection flow, as shown through microscopy analysis. Contrarily, electrically conductive tests showed that the influence of the orientation on the conductive properties of the material is negligible. The study also unveils the difference in the surface and bulk conductivity with the increasing distance of the electrodes. Tensile tests with in-situ electrical measurements were conducted to assess strain sensitivity by correlating stress–strain curves with changes in material conductivity. The results demonstrate the predominant impact of local anisotropy on piezometric response. Finally, a model for the piezometric response of the material is proposed and applied for the structural health monitoring of a tensile specimen, revealing its ability to detect local damage before final failure. This application underscores the prognostic capabilities of this material and its potential significance in ensuring structural integrity.}
+}

@@ -1,0 +1,13 @@
+@article{NAGASAKA2025114307,
+title = {Elevation and adhesion properties of injectable hydrogels based on catechol/boronic acid-modified Alaska pollock gelatin for endoscopic submucosal dissection},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114307},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114307},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005666},
+author = {Kazuhiro Nagasaka and Hiyori Komatsu and Shima Ito and Debabrata Palai and Akihiro Nishiguchi and Tetsushi Taguchi},
+keywords = {Catechol-boronic acid interaction, Endoscopic submucosal dissection, Submucosal injection material, Injectable hydrogel, Tissue adhesive},
+abstract = {Elevation of early-stage gastrointestinal cancer using submucosal injection materials (SIMs) and postoperative wound care with adhesive materials are crucial for preventing complications arising from endoscopic submucosal dissection (ESD). Several types of SIMs have been developed; however, they often provide insufficient tissue elevation and fail to adequately adhere to the defect following the removal of early-stage gastrointestinal cancer. In this study, we present the development of injectable Cat-PBA-ApGltn hydrogels, which are based on catechol group-modified Alaska pollock gelatin (Cat-ApGltn) and phenylboronic acid-modified Alaska pollock gelatin (PBA-ApGltn), serving as multifunctional SIMs. A Cat-ApGltn/PBA-ApGltn mixed solution formed a hydrogel within 3 seconds. The resulting Cat-PBA-ApGltn hydrogels were easily injected manually through a 23 G needle due to their shear-thinning properties. Additionally, 10 w/v% Cat-PBA-ApGltn hydrogels demonstrated a 2.3-fold increase in mucosal elevation (7.2 ± 0.4 mm) compared with a commercially available SIM (3.1 ± 0.7 mm). The 10 w/v% Cat-PBA-ApGltn hydrogel, when adhered to porcine gastric submucosa, exhibited a burst strength 7 times greater than the average human intragastric pressure. Furthermore, the Cat-PBA-ApGltn hydrogels demonstrated biodegradability without inducing severe inflammation upon implantation in rat subcutaneous tissue. These Cat-PBA-ApGltn hydrogels hold promise as multifunctional SIMs, boasting injectability, excellent elevation, adhesion capabilities, and biodegradability.}
+}

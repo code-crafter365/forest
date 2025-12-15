@@ -1,0 +1,13 @@
+@article{PIROZZOLI2025106768,
+title = {Efficient implementation of the Allen–Cahn phase-field method for material interface tracking},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106768},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106768},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002282},
+author = {Sergio Pirozzoli and Simone {Di Giorgio} and Daniele Rossi},
+keywords = {Material interfaces, Multiphase flows, Allen–Cahn model, Upwind discretization},
+abstract = {We consider a modified version of the conservative Allen–Cahn phase-field method for tracking material interfaces. By removing the diffusive term and discretizing the advective terms with a first-order upwind scheme, we achieve a substantial reduction in numerical diffusion, resulting in sharper interfaces for a given compression parameter. The resulting scheme is monotone, leading to key numerical properties such as boundedness and convergence to weak entropy solutions. Notably, the new method permits a significantly larger time step compared to standard implementations, especially in multiple spatial dimensions. Numerical tests support these theoretical findings and demonstrate effectiveness and robustness of the new algorithm across a range of multiphase flow problems.}
+}

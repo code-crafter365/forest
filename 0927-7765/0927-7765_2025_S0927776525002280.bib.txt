@@ -1,0 +1,13 @@
+@article{CHEN2025114721,
+title = {Quaternized chitosan-based injectable self-healing hydrogel for improving wound management in aging populations},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114721},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114721},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002280},
+author = {Guochang Chen and Xiaowei Xun and Haiyong Ao and Ziqing Chen and Dingyun Wang and Maohu Wang and Dongxue Zhang and Minzhuo Liu and Guanghua Guo},
+keywords = {Aging wound, Quaternized chitosan, Self-healing hydrogel, Hemostasis, Antibacterial properties},
+abstract = {The clinical management and treatment of skin wounds in the elderly present significant challenges due to changes in skin structure and function. This study introduces a novel injectable self-healing hydrogel composed of quaternized chitosan and carboxymethyl chitosan (HACC/CMCS, HC), designed through electrostatic interactions. Its excellent injectability and self-healing properties enhance the application of hydrogel dressings and prolong their functional lifespan. Moreover, the adhesion and flexibility of HC hydrogel contribute to their stability in highly dynamic regions, thereby preventing detachment and enhancing their hemostatic function. The material exhibits excellent biocompatibility and possesses antibacterial properties that protect wounds from external microbial damage, thereby reducing the risk of infection while maintaining a moist environment that facilitates healing. Importantly, the in vivo test have demonstrated that the HC hydrogel significantly enhances collagen deposition, reduces senescent cell accumulation, and accelerates wound closure. Therefore, this study offers a safe, effective, and cost-efficient solution for managing wounds in the aging population.}
+}

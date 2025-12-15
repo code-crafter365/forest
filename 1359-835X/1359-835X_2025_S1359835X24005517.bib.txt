@@ -1,0 +1,13 @@
+@article{XIONG2025108553,
+title = {Aminopropyltriethoxysilane-modified MXene for remarkably enhancing tracking resistance and flame retardancy of silicone rubber},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108553},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108553},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005517},
+author = {Jianxiang Xiong and Yiming Liao and Xuejun Lai and Hongqiang Li and Xingrong Zeng},
+keywords = {A. Nanocomposites, A. Polymer-matrix composites, B. Thermal properties, B. Electrical properties},
+abstract = {The preparation of silicone rubber with excellent tracking resistance and flame retardancy is of great significance for application in high-voltage electrical insulation. Unfortunately, to date there lacks an effective strategy to simultaneously endow silicone rubber with satisfied tracking resistance and flame retardancy. In this work, aminopropyltriethoxysilane-modified MXene (APTES-MXene) was prepared by dehydrative condensation between the Si-OH in the hydrolyzed aminopropyltriethoxysilane (APTES) and the hydroxyl groups in MXene. The APTES-MXene was homogeneously dispersed in addition-cure liquid silicone rubber (ALSR). The effects of APTES-MXene on the tracking resistance and flame retardancy of ALSR were investigated. Incorporating 0.175 phr APTES-MXene and 15 ppm Pt catalyst enabled ALSR to pass 1A4.5 level, with a low erosion rate of only 0.29 %, indicating a significantly improved tracking resistance. Meanwhile, the 0.175 phr APTES-MXene also endowed ALSR a UL-94 V-0 rating and the limiting oxygen index (LOI) value reached 32.8 %. It was found that APTES-MXene and Pt catalyst synergistically promoted ALSR forming ceramic layer at elevated temperature. The mechanism for APTES-MXene improving the tracking resistance of ALSR was also proposed. This work provided new insights for high performance high-voltage insulation silicone rubber.}
+}

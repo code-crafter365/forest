@@ -1,0 +1,13 @@
+@article{YU2025111082,
+title = {Organic-inorganic crosslinking PVDF composites for high storage densities},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111082},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111082},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000508},
+author = {Qianqian Yu and Haijun Wang and Yisha Ma and Shaojuan Wang and Jian Hu and Hao Zhang and Tong Wang and Leipeng Liu and Shouke Yan},
+keywords = {Poly (vinylidene fluoride), Inorganic ionic oligomers, Composites, Dielectric constant, Energy storage density},
+abstract = {The rapid development of modern electronic and electrical applications has attracted extensive attention to dielectric polymer matrix composites with high dielectric constant and energy density. In this study, an organic-inorganic homogeneous composite with improved phase interface was prepared by physically cross-linking amorphous calcium sulfate oligomers (CSOs) with PVDF chains. The dielectric properties and energy storage properties of the composite films were improved by controlling the microstructure of PVDF composite films by CSOs. The results show that the addition of CSOs has a strong inducing effect on the polarity of PVDF, while reducing the crystallinity and crystallite size of PVDF, thereby improving the breakdown performance of the composites. When the applied electric field is 324 kV/mm, the maximum energy storage density is 16.12 J/cm3 and the energy storage efficiency is maintained at 87.17 %. Therefore, this work provides a new strategy for the preparation of high-performance polymer-based energy storage materials.}
+}

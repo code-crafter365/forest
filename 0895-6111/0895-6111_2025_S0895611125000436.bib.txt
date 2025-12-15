@@ -1,0 +1,13 @@
+@article{ZHANG2025102534,
+title = {ULST: U-shaped LeWin Spectral Transformer for virtual staining of pathological sections},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102534},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102534},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000436},
+author = {Haoran Zhang and Mingzhong Pan and Chenglong Zhang and Chenyang Xu and Hongxing Qi and Dapeng Lei and Xiaopeng Ma},
+keywords = {Virtual staining, HE stain, Microscopic hyperspectral imaging, Deep learning},
+abstract = {At present, pathological section staining faces several challenges, including complex sample preparation and stringent infrastructure requirements. Virtual staining methods utilizing deep neural networks to automatically generate stained images are gaining recognition. However, most current virtual staining techniques rely on standard RGB microscopy, which lacks spatial spectral information. In contrast, hyperspectral imaging of pathological sections provides rich spatial spectral data while maintaining high resolution. To address this issue, the U-shaped Locally-enhanced Window (LeWin) Spectral Transformer (ULST) was developed to convert unstained hyperspectral microscopic images into RGB equivalents of hematoxylin and eosin (HE) stained samples. The LeWin Spectral Transformer (LST) block within ULST takes full advantage of the transformer’s attention extraction capabilities. It applies local self-attention in the spatial domain using non-overlapping windows to capture local context while significantly reducing computational complexity for high-resolution feature maps and preserving spatial features from hyperspectral images (HSI). Furthermore, the Spectral Transformer collects spectral features without losing spatial information. By integrating a multi-scale encoder-bottle-decoder structure in a U-shaped network configuration with sequential symmetric connections of LSTs, ULST performs virtual HE staining on microscopic images of unstained hyperspectral pathological sections. Qualitative and quantitative experiments show that ULST performs better than other advanced virtual staining methods in the virtual HE staining task.}
+}

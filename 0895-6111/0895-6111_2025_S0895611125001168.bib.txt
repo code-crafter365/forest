@@ -1,0 +1,13 @@
+@article{GAN2025102607,
+title = {SML-Net: Semi-supervised multi-task learning network for carotid plaque segmentation and classification},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102607},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102607},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001168},
+author = {Haitao Gan and Liang Liu and Furong Wang and Zhi Yang and Zhongwei Huang and Ran Zhou},
+keywords = {Artificial intelligence diagnosis, Carotid plaques, Classification, Multi-task learning, Segmentation, Semi-supervised learning},
+abstract = {Carotid ultrasound image segmentation and classification are crucial in assessing the severity of carotid plaques which serve as a major cause of ischemic stroke. Although many methods are employed for carotid plaque segmentation and classification, treating these tasks separately neglects their interrelatedness. Currently, there is limited research exploring the key information of both plaque and background regions, and collecting and annotating extensive segmentation data is a costly and time-intensive task. To address these two issues, we propose an end-to-end semi-supervised multi-task learning network(SML-Net), which can classify plaques while performing segmentation. SML-Net identifies regions by extracting image features and fuses multi-scale features to improve semi-supervised segmentation. SML-Net effectively utilizes plaque and background regions from the segmentation results and extracts features from various dimensions, thereby facilitating the classification task. Our experimental results indicate that SML-Net achieves a plaque classification accuracy of 86.59% and a Dice Similarity Coefficient (DSC) of 82.36%. Compared to the leading single-task network, SML-Net improves DSC by 1.2% and accuracy by 1.84%. Similarly, when compared to the best-performing multi-task network, our method achieves a 1.05% increase in DSC and a 2.15% improvement in classification accuracy.}
+}

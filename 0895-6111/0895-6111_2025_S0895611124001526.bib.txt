@@ -1,0 +1,13 @@
+@article{XU2025102475,
+title = {Attention incorporated network for sharing low-rank, image and k-space information during MR image reconstruction to achieve single breath-hold cardiac Cine imaging},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102475},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102475},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001526},
+author = {Siying Xu and Kerstin Hammernik and Andreas Lingg and Jens Kübler and Patrick Krumm and Daniel Rueckert and Sergios Gatidis and Thomas Küstner},
+keywords = {Deep learning, Image reconstruction, Cardiac CINE MR imaging, Attention mechanisms},
+abstract = {Cardiac Cine Magnetic Resonance Imaging (MRI) provides an accurate assessment of heart morphology and function in clinical practice. However, MRI requires long acquisition times, with recent deep learning-based methods showing great promise to accelerate imaging and enhance reconstruction quality. Existing networks exhibit some common limitations that constrain further acceleration possibilities, including single-domain learning, reliance on a single regularization term, and equal feature contribution. To address these limitations, we propose to embed information from multiple domains, including low-rank, image, and k-space, in a novel deep learning network for MRI reconstruction, which we denote as A-LIKNet. A-LIKNet adopts a parallel-branch structure, enabling independent learning in the k-space and image domain. Coupled information sharing layers realize the information exchange between domains. Furthermore, we introduce attention mechanisms into the network to assign greater weights to more critical coils or important temporal frames. Training and testing were conducted on an in-house dataset, including 91 cardiovascular patients and 38 healthy subjects scanned with 2D cardiac Cine using retrospective undersampling. Additionally, we evaluated A-LIKNet on the real-time prospectively undersampled data from the OCMR dataset. The results demonstrate that our proposed A-LIKNet outperforms existing methods and provides high-quality reconstructions. The network can effectively reconstruct highly retrospectively undersampled dynamic MR images up to 24× accelerations, indicating its potential for single breath-hold imaging.}
+}

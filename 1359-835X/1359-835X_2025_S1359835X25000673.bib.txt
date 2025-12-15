@@ -1,0 +1,13 @@
+@article{THOMSON2025108773,
+title = {A review of the effect of loading rate on the mechanical properties of unidirectional carbon fibre reinforced polymer composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108773},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108773},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000673},
+author = {D. Thomson and M. Ploeckl and J. Hoffmann and M. Lißner and C. Pohl and G. Quino and K. Ramakrishnan and M. Toenjes and H. Cui and N. Petrinic},
+keywords = {Carbon fibre, Composite laminate, Strain rate, Mechanical properties, Literature review},
+abstract = {A comprehensive literature review on the rate dependency of unidirectional CFRP composites has been carried out. Starting with the micro-scale constituents, literature data on the effect of loading rate on stiffness, strength, and fracture properties have been compared. While carbon fibres showed no significant rate effects, the rate dependency of the strength and stiffness properties was found consistent across various polymer matrix materials. In contrast, there was a general lack of consensus on the rate dependency of the matrix fracture properties. At the macroscopic scale, the rate effects on the composite strength and stiffness properties were found to remain consistent across different combinations of constituent materials, while conflicting reports have been found on the rate dependency of the fracture properties. Finally, it has been shown that the rate dependency of composite strength and stiffness properties can be related to the constituent properties through established homogenisation theories and failure criteria.}
+}

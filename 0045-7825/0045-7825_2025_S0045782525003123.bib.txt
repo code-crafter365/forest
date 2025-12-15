@@ -1,0 +1,13 @@
+@article{HAN2025118040,
+title = {Learning physics-consistent material behavior from dynamic displacements},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118040},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118040},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003123},
+author = {Zhichao Han and Mohit Pundir and Olga Fink and David S. Kammer},
+keywords = {Constitutive relation, Hyperelasticity, Dynamics, Unsupervised learning, Physics-consistent, Convergence},
+abstract = {Accurately modeling the mechanical behavior of materials is crucial for numerous engineering applications. The quality of these models depends directly on the accuracy of the constitutive law that defines the stress–strain relation. However, discovering these constitutive material laws remains a significant challenge, in particular when only material deformation data is available. To address this challenge, unsupervised machine learning methods have been proposed to learn the constitutive law from deformation data. Nonetheless, existing approaches have several limitations: they either fail to ensure that the learned constitutive relations are consistent with physical principles, or they rely on boundary force data for training which are unavailable in many in-situ scenarios. Here, we introduce a machine learning approach to learn physics-consistent constitutive relations solely from material deformation without boundary force information. This is achieved by considering a dynamic formulation rather than static equilibrium data and applying an input convex neural network (ICNN). We validate the effectiveness of the proposed method on a diverse range of hyperelastic material laws. We demonstrate that it is robust to a significant level of noise and that it converges to the ground truth with increasing data resolution. We also show that the model can be effectively trained using a displacement field from a subdomain of the test specimen and that the learned constitutive relation from one material sample is transferable to other samples with different geometries. The developed methodology provides an effective tool for discovering constitutive relations. It is, due to its design based on dynamics, particularly suited for applications to strain-rate-dependent materials and situations where constitutive laws need to be inferred from in-situ measurements without access to global force data.}
+}

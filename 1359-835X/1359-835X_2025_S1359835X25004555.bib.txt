@@ -1,0 +1,13 @@
+@article{YOU2025109161,
+title = {Chemical design and microphase separation of silicone/phenolic resin double-network aerogels for superior flexibility and thermal insulation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109161},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109161},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004555},
+author = {Qi You and Xiaolin Liu and Yichen Ou and Ya Zhong and Zhongyang Wu and Yiqi Zhao and Sheng Cui},
+keywords = {Hybrid, Microstructures, Elasticity, Thermal properties},
+abstract = {Flexible aerogels play an important role in aerospace and architectural applications. However, it remains challenging to fabricate thermostable aerogels that combine flexibility, self-cleaning capability, and freeze resistance. Here, by strategically incorporating flexible long-chain silanes into the rigid aerogel network while precisely adjusting the skeleton and pore structure through microcosmic phase separation, we significantly improved both the flexibility and functionality of phenolic resin aerogels (PRAs). The micro nano structure regulated a unique network structure that made the aerogel highly flexible and thermal insulating. The as-prepared flexible aerogel exhibited outstanding deformability (up to 90 % damage strain) and great fatigue resistance (>500 compression cycles at 40 % strain), while maintaining ultra-low density (0.052 g·cm−3) and low thermal conductivity (0.0364 W·m−1·K−1). It also showed interesting self-cleaning and frost resistance properties. Thanks to its excellent thermal stability, this flexible aerogel is suitable for use as static thermal insulation below 220°C. Remarkably, it serves as an outstanding energy-saving building material: the house model constructed with this flexible aerogel maintained an indoor temperature of 15°C even in frigid environments as low as −12 °C. The unique combination of properties makes this flexible aerogel a highly promising thermal insulation material for both construction and aerospace applications.}
+}

@@ -1,0 +1,13 @@
+@article{YAO2025114759,
+title = {Macrophage-membrane-engineered NIR II biomimetic nanomaterials for enhanced synergistic chemo-photothermal immunotherapy in cancer treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114759},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114759},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002668},
+author = {Bo Yao and Jingpei Zhang and Zhenghui Chen and Huayu Qiu and Dongdong Xu and Yang Li and Shouchun Yin},
+keywords = {Macrophage, NIR-II, Biomimetic nanomaterials, Immuno-phototherapy, Cancer treatment},
+abstract = {Nanoparticle encapsulated with PEG-based polymers face limitations in their circulation stability and tumor tissue accumulation during blood transport due to the production of anti-PEG antibodies and their inherent nature as foreign substances, which leads to immune surveillance and clearance by the body. The design of biomimetic nanomaterials based on cell membranes offers a solution to these issues. In this context, we have successfully developed a biomimetic nanomaterials designed for the near-infrared region II (NIR II), which leverage the combined power of chemotherapy and photothermal therapy to activate an immune response against tumors. We synthesized nanoparticle loaded with IR1061 and doxorubicin (DOX) using microemulsion and nano-precipitation techniques, and then coated them with the pluronic (F127) polymer to enhance their stability and biocompatibility within biological systems. To further extend their circulation time and minimize the risk of immune detection, we encapsulated the nanoparticle within macrophage membranes. These customized nanoparticle, termed CIN and CDN, are capable of precisely targeting tumors through the bloodstream and effectively eliminating cancer cells under the dual onslaught of photothermal and chemotherapeutic actions. Throughout the treatment, the destruction of tumor cells triggers the release of antigens, which in turn activate CD4+ and CD8+ T cells, stimulating an immune response. Our findings indicate that the integration of chemotherapy with immunotherapy can significantly amplify the immune response by facilitating the demise of tumor cells, representing a highly promising synergistic strategy in the fight against cancer.}
+}

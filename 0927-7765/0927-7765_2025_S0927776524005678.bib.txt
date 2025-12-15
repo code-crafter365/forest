@@ -1,0 +1,13 @@
+@article{ZHANG2025114308,
+title = {Redox-responsive degradation of antimicrobials with programmable drug release for enhanced antibacterial activity},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114308},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114308},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005678},
+author = {Yue Zhang and Xuehan Yang and Yawei Zhao and Fangman Chen and Tongfei Shi and Ziping Wu and Xuenian Chen and Ming Zhang and Li Chen},
+keywords = {Mesoporous organosilica nanocarriers, Nanoantibiotics, Responsive degradation, Drug release, Silver nanoparticles},
+abstract = {The global crisis of antibiotic resistance has impelled the exigency to develop more effective drug delivery systems for the treatment of bacterial infection. The development of possessing high biocompatibility and targeted delivery of antimicrobials remains a persisting challenge. For programmable release of efficient antimicrobials in infection sites to enhance antibacterial activity, herein, we fabricated diselenide-bridged mesoporous organosilica nanoparticle-supported silver nanoparticles (Ag NPs) with high drug-loading capacity for the co-delivery of tobramycin (TOB) within one drug delivery system (Ag-MON@TOB (Se)). The resultant Ag-MON@TOB (Se) exhibited favorable biocompatibility due to its high stability in the physiological condition. Notably, such Ag-MON@TOB (Se) manifested a programmable structural destabilization to trigger sequential drug release in response to the oxidative stimuli within the bacterial infection microenvironment. In contradistinction to the oxidation-stable disulfide bond moieties within the framework of the nanocarrier (Ag-MON@TOB (S)), the Ag-MON@TOB (Se) with its programmed drug release behavior augmented prominent antibacterial therapy both in vitro and in vivo. This work represents a promising strategy for programmable drug release by harnessing a responsive degradable vehicle to enhance the treatment of bacterial infection.}
+}

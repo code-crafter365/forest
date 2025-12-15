@@ -1,0 +1,13 @@
+@article{WANG2025102591,
+title = {PedSemiSeg: Pedagogy-inspired semi-supervised polyp segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102591},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102591},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001004},
+author = {An Wang and Haoyu Ma and Long Bai and Yanan Wu and Mengya Xu and Yang Zhang and Mobarakol Islam and Hongliang Ren},
+keywords = {Semi-supervised learning, Polyp segmentation, Consistency regularization, Negative learning, Pedagogy-inspired learning, Computer-aided diagnosis},
+abstract = {Recent advancements in deep learning techniques have contributed to developing improved polyp segmentation methods, thereby aiding in the diagnosis of colorectal cancer and facilitating automated surgery like endoscopic submucosal dissection (ESD). However, the scarcity of well-annotated data poses challenges by increasing the annotation burden and diminishing the performance of fully-supervised learning approaches. Additionally, distribution shifts due to variations among patients and medical centers require the model to generalize well during testing. To address these concerns, we present PedSemiSeg, a pedagogy-inspired semi-supervised learning framework designed to enhance polyp segmentation performance with limited labeled training data. In particular, we take inspiration from the pedagogy used in real-world educational settings, where teacher feedback and peer tutoring are both crucial in influencing the overall learning outcome. Expanding upon this concept, our approach involves supervising the outputs of the strongly augmented input (the students) using the pseudo and complementary labels crafted from the output of the weakly augmented input (the teacher) in both positive and negative learning manners. Additionally, we introduce reciprocal peer tutoring among the students, guided by respective prediction entropy. With these holistic learning processes, we aim to achieve consistent predictions for various versions of the same input and maximize the utilization of the abundant unlabeled data. Experimental results on two public datasets demonstrate the superiority of our method in polyp segmentation across various labeled data ratios. Furthermore, our approach exhibits excellent generalization capabilities on external unseen multi-center datasets, highlighting its broader clinical significance in practical applications during deployment.}
+}

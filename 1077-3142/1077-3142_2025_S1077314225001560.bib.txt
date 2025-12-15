@@ -1,0 +1,13 @@
+@article{LI2025104433,
+title = {Cross-graph meta matching correction for noisy graph matching},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104433},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104433},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001560},
+author = {Fangkai Li and Feiyu Pan and Wenjia Meng and Haoliang Sun and Xiushan Nie and Yilong Yin and Xiankai Lu},
+keywords = {Graph matching, Noisy correspondence, Meta learning, Bi-level optimization},
+abstract = {In recent years, significant advancements have been made in image feature point matching within the context of deep graph matching. However, keypoint annotations in images can be inaccurate due to various issues such as occlusion, changes in viewpoint, or poor recognizability, leading to noisy correspondence. To address this limitation, we propose a novel Meta Matching Correction for noisy Graph Matching (MCGM), which introduces meta-learning to mitigate noisy correspondence for the first time. Specifically, we design a Meta Correcting Network (MCN) that integrates global features and geometric consistency information of graphs to generate confidence scores for nodes and edges. Based on the scores, MCN adaptively adjusts and penalizes the noisy assignments, enhancing the model’s ability to handle noisy correspondence. We conduct joint training of the main network and MCN to achieve dynamic correction through a bi-level optimization framework. Experimental evaluations on three public benchmark datasets demonstrate that our proposed method delivers robust performance improvements over state-of-the-art graph matching solutions and exhibits excellent stability when handling images under complex conditions.}
+}

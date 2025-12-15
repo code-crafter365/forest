@@ -1,0 +1,13 @@
+@article{LI2025108526,
+title = {Bearing performance and progressive failure analysis of bolted joint in 3D printed pseudo-woven CFRP composite with fibre steering},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108526},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108526},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005244},
+author = {Aonan Li and Haoqi Zhang and Dongmin Yang},
+keywords = {3D printing, Fibre steering, Woven composite, Failure mode, Finite element analysis},
+abstract = {This study investigates the bearing failure process of 3D printed pseudo-woven carbon fibre reinforced polymer (CFRP) composite joints, with a particular focus on the damage mechanisms influenced by steered fibres. A multiscale finite element model employing LaRC05 failure criteria is developed and validated against the experimental load–displacement curves and micro-computed microtomography (CT) images of four distinct cases. The model clearly demonstrates the critical importance of maintaining fibre continuity around the bolt hole, as this significantly influences the ability to reduce stress concentrations caused by the direct bearing loads from the bolt. Moreover, the model reveals that fibre steering can substantially improve the composite joint’s performance. This enhancement is achieved by adjusting the level of shear-induced damage propagation in individual filaments. The results demonstrate the potential and capability of the model to capture individual filament behaviour for the failure analysis of 3D printed composites, achieving good correlations with experimental measurements and observations, in terms of failure modes and load-bearing capacities.}
+}

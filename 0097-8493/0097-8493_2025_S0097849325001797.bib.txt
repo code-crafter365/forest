@@ -1,0 +1,13 @@
+@article{PAN2025104338,
+title = {AgentCoord: Visually exploring coordination strategy for LLM-based multi-agent collaboration},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104338},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104338},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001797},
+author = {Bo Pan and Jiaying Lu and Ke Wang and Li Zheng and Zhen Wen and Yingchaojie Feng and Minfeng Zhu and Wei Chen},
+keywords = {Large language model, LLM-based agent, Multi-agent collaboration, Visual exploration, Natural language interface},
+abstract = {Large Language Model (LLM)-based multi-agent collaboration has recently garnered widespread attention for its great potential for automatic task-solving. However, the coordination strategies of LLM agents are made of complex components, encompassing numerous entities and intricate relationships. When users use natural language to design these strategies and communicate with LLMs, the large amount of text containing complex information hinders their ability to understand and iterate on strategies. To address this, we present a visual agent collaboration strategy design framework, AgentCoord, which provides an interactive visual interface for users to design, edit, and debug the coordination strategies of LLM agents. We first establish a structured representation for LLM-based multi-agent coordination strategy to enforce explicit articulation of the entities and their relationships during collaboration. Based on this structure, we devise a three-stage generation method that leverages LLMs to convert a user’s general goal into a visually organized initial strategy. Users can further intervene at any stage of the generation process, utilizing LLMs and a set of interactions to explore the potential design space of alternative strategies. To display the effectiveness of user-designed strategies, we design a visualization of agent collaboration results, highlighting the specific effects of strategies by visual linkages. To evaluate our approach, we conduct a formal user study to demonstrate the feasibility and effectiveness of our approach.}
+}

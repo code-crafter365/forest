@@ -1,0 +1,13 @@
+@article{XIE2025119584,
+title = {Energy absorption and mechanical properties of bio-inspired porous helical layer structures},
+journal = {Composite Structures},
+volume = {372},
+pages = {119584},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119584},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007494},
+author = {Baocheng Xie and Xuedong Xie and Yongqi Yang and Lu Han and Farui Yan and Zikang Lu},
+keywords = {Bio-inspired structures, Porous helical layer structures, Energy absorption, Mechanical properties, Finite element simulations},
+abstract = {Inspired by the mantis shrimp exoskeleton’s remarkable helical layer architecture, this study proposes three novel bio-inspired porous helical layer structures: helical hollow hexagon, helical hollow hexagon filled with hexagon, and helical hollow hexagon filled with circular. Finite element simulations and quasi-static compression experiments were conducted to analyze the influence of helical angles on mechanical properties and energy absorption performance. Results revealed that optimal helical angle configurations significantly enhanced structural performance, with these three structures achieving their best mechanical characteristics at helical angles of 44°, 82°, and 86°, respectively. Compared to the other two structures, the helical hollow hexagon filled with circular structure exhibited the highest energy absorption capability and the most stable deformation response. Experimental validation confirmed the accuracy of the finite element simulations and demonstrated that helical angle optimization promotes uniform load distribution and induces beneficial layer-by-layer stacking effects. These findings provide valuable insights for designing high-performance porous helical layer structures with enhanced energy absorption efficiency for engineering applications.}
+}

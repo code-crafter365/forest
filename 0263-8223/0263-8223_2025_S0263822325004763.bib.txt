@@ -1,0 +1,13 @@
+@article{WANG2025119311,
+title = {Mixed-variable isogeometric integrated material optimization of bi-directional functionally graded porous plates},
+journal = {Composite Structures},
+volume = {370},
+pages = {119311},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119311},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004763},
+author = {Chao Wang and Yun Chong and Lei Zeng and Liangliang Ma and Hongwen Mao and Wenfeng Hu},
+keywords = {Bi-directional functionally graded porous plates, Isogeometric analysis, Material optimization, Volume fractions, Mixed-variables},
+abstract = {This paper proposes an integrated optimization methodology for the material distribution of bi-directional functionally graded (2D-FG) porous plates by mixed-variables. The methodology combines isogeometric analysis with simple first-order shear deformation theory to analyze the mechanical behavior of the plates. In the optimization design problem, the first natural frequency is maximized as the objective. The design variables include the control points of 2D NURBS describing the ceramic volume fraction, the selection type of the porosity distribution pattern, and the porosity coefficient. The optimization is constrained by limited arbitrary deflection, and an improved PSO-GA with hybrid algorithm is employed as the solver. Several numerical examples demonstrate the effectiveness and applicability of this innovative combination. This methodology is the first to achieve integrated optimization of discrete porosity selection and continuous material parameter design for 2D-FG porous plates.}
+}

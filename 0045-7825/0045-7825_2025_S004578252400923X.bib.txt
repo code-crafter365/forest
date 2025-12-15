@@ -1,0 +1,13 @@
+@article{LI2025117669,
+title = {A clustering adaptive Gaussian process regression method: Response patterns based real-time prediction for nonlinear solid mechanics problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117669},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117669},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400923X},
+author = {Ming-Jian Li and Yanping Lian and Zhanshan Cheng and Lehui Li and Zhidong Wang and Ruxin Gao and Daining Fang},
+keywords = {Gaussian process regression, Nonlinear problems, Real-time prediction, Machine learning},
+abstract = {Numerical simulation is a powerful approach to study nonlinear solid mechanics problems. However, mesh-based or particle-based numerical methods suffer from the common shortcoming of being time-consuming, particularly for complex problems with real-time analysis requirements. This study presents a clustering adaptive Gaussian process regression (CAG) method aiming for real-time prediction for nonlinear structural responses in solid mechanics. It is a data-driven machine learning method featuring a small sample size, high accuracy, and high efficiency, leveraging nonlinear structural response patterns. Similar to the traditional Gaussian process regression (GPR) method, it operates in offline and online stages. In the offline stage, an adaptive sample generation technique is introduced to cluster datasets into distinct patterns for demand-driven sample allocation. This ensures comprehensive coverage of the critical samples for the solution space of interest. In the online stage, following the divide-and-conquer strategy, a pre-prediction classification categorizes problems into predefined patterns sequentially predicted by the trained multi-pattern Gaussian process regressor. In addition, dimension reduction and restoration techniques are employed in the proposed method to enhance its efficiency. A set of problems involving material, geometric, and boundary condition nonlinearities is presented to demonstrate the CAG method’s predictive abilities. The proposed method can offer predictions within a second and attain high precision with only about 20 samples within the context of this study, outperforming the traditional GPR using uniformly distributed samples for error reductions ranging from 1 to 3 orders of magnitude. The CAG method is expected to offer a powerful tool for real-time prediction of nonlinear solid mechanical problems and shed light on the complex nonlinear structural response pattern.}
+}

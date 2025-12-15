@@ -1,0 +1,13 @@
+@article{GUPTA2025105948,
+title = {PyInvGeo: An open-source Python package for regularized linear inversion in geophysics},
+journal = {Computers & Geosciences},
+volume = {202},
+pages = {105948},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105948},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000986},
+author = {Naveen Gupta and Nasser Kazemi},
+keywords = {Inversion, Regularization, Sparsity, Smoothness, Deconvolution, Multiple suppression},
+abstract = {We developed several algorithms to solve the generalized linear inversion problem. In real-world problems, the datasets are huge and direct inversion of data matrix is not possible. Iterative algorithms can provide the desired solution by iteratively updating the solution along the opposite direction of the gradient. Hence, we develop steepest descent with ℓ2, Huber, Cauchy, and hybrid ℓ1/ℓ2 norms regularization, conjugate gradient with smoothness and sparsity constraints, FISTA, and alternating minimization algorithms. L-curve for the ℓ2−ℓ2 minimization and Generalized Cross Validation function for the ℓ2−ℓ1 minimization are used to provide the optimum regularization parameter. The numerical seismic deconvolution tests on synthetic single-channel data show the performances of the different algorithms and the parameter selections. Then, based on the performances of the algorithms on single channel data, we select the conjugate gradient with sparsity constraint and FISTA for deconvolution of Teapot dome 2D real data. We find that on 2D data, the FISTA method provides sparser solutions. However, through deconvolution of 3D seismic data, by increasing the dimensions and complexity of signals of interest, we show that the FISTA algorithm struggles to provide continuous and interpretable results. To address this issue, we introduce the Hoyer-squared norm to promote sparsity. Hoyer-squared norm is almost everywhere differentiable, scale-invariant, and contrary to ℓ1 norm it does not equally shrink all the coefficients. The 3D deconvolution shows that the Hoyer-squared method outperforms FISTA and provides a continuous and interpretable solution. Finally, we develop a Hoyer-squared-based multiple suppression in the Radon domain and successfully test the algorithm on synthetic and real marine Gulf of Mexico data. The multiple suppression algorithm is based on the parabolic Radon transform. The Python package for the algorithms and numerical testes is included for reproducibility purposes and to facilitate the use of the algorithms on different problems.}
+}

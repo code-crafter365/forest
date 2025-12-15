@@ -1,0 +1,13 @@
+@article{RAMESH2025114798,
+title = {Green synthesis of nanoceria using Terminalia Arjuna extract for enhanced stability, antioxidant, and anticancer properties than their chemical counterparts},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114798},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114798},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003054},
+author = {Purnimajayasree Ramesh and Arunkumar Palaniappan},
+keywords = {Antioxidant, Phyto synthesis, Pro-oxidant, Cerium oxide nano, Nanozymes},
+abstract = {Nanoceria, a potent nanozyme, widely explored for biomedical applications, often faces toxicity and stability issues when synthesized chemically. In this study, nanoceria (NC-G) is synthesized via a simple green method using Terminalia arjuna extract as a reducing and capping agent and is compared with chemically synthesized nanoceria (NC-C) for stability, antioxidant, and anti-cancer properties. The mean sizes and surface charge of NC-C and NC-G was found to be 37.78 ± 15.5 nm (-16.2 ± 7.6 mV) and 21.8 ± 5.3 nm (-51.4 ± 8.9 mV) respectively. The percentage of Ce 3 + and Ce 4+ was determined using XPS analyses. Superoxide dismutase (SOD), catalase and antioxidant regenerative properties of NC-G was determined to have better performance than NC-C. Thus, NC-G demonstrated an improvement in cyto-compatibility when compared to NC-C using MTT assay. Moreover, NC-G showed enhanced intracellular antioxidant and cyto-protective properties under oxidative stress in rat cardiomyocytes cell line (H9C2). Further, both NC-C and NC-G showed dose-dependent anti-cancerous activity towards human breast cancer cell line (MCF7), with NC-G demonstrating enhanced pro-oxidant properties on MCF7 cells. The results from this study indicate that NC-G could be a potential nanomedicine as an antioxidant therapy in cardiovascular diseases or as pro-oxidant therapeutics in oncology.}
+}

@@ -1,0 +1,13 @@
+@article{HAN2025118803,
+title = {Experimental and numerical investigation on the mechanical behavior of 3D star-shaped auxetic structure},
+journal = {Composite Structures},
+volume = {354},
+pages = {118803},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118803},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009310},
+author = {Wenjie Han and Yuliang Hou and Jianwei Shi and Liang Meng and Thaneshan Sapanathan},
+keywords = {3D auxetic structure, Mechanical properties, Quasi-static compression, Low-velocity impact, Energy absorption},
+abstract = {This study proposes a novel 3D star-shaped auxetic (3D-SAU) structure and investigates the mechanical behavior using experimental and numerical approaches. Three lattice structures have been initially additively-manufactured using 3D-SAU cell, as well as the conventional body-centered-cubic (BCC) and 3D re-entrant (3D-RE) structures. Quasi-static compressive and low-velocity impact (LVI) tests have been performed on those additively-manufactured structures, to characterize the mechanical properties. The experimental and numerical results indicate that 3D-SAU structure possesses a more stable and prolonged stress plateau stage than BCC and 3D-RE structures, demonstrating its superior protective capacity. Moreover, LVI test results reveal that the structures with auxetic effect exhibit lower peak forces and longer impact durations compared to BCC structure. Both auxetic structures are found to possess better energy-absorption capacity during high energy impact cases. Finally, a parametric study of design parameters has been performed for 3D-SAU structure through quasi-static compressive tests, to optimize its performance in protecting internal components.}
+}

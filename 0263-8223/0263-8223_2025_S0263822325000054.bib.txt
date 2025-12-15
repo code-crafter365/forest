@@ -1,0 +1,13 @@
+@article{ZHU2025118840,
+title = {Simulation analysis and optimization of 3D printed continuous carbon fiber reinforced composites},
+journal = {Composite Structures},
+volume = {355},
+pages = {118840},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118840},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000054},
+author = {Wanying Zhu and Shixian Li and Hongmei Long and Shaoqi Dong and Kui Wang and Yong Peng},
+keywords = {3D printing, Continuous carbon fiber, Interlayer mechanical properties, Finite element method, Heat treatment},
+abstract = {Recently published research focused on the interlayer bonding properties of 3D printed continuous carbon fiber (CCF) reinforced composites (CCFRCs). However, existing tests were limited and insufficient to accurately characterize delamination evolution in these composites. This study aimed to simulate the peeling behavior of 3D printed CCFRCs under various printing parameters. Results showed that the mechanical properties of printed composites depended on the presence and distribution of CCF within the CCFRCs. The maximum load-bearing capacity of the CCF layer in CCFRCs was approximately 20 times that of the matrix layer. Moreover, heat treatment effectively enhanced the interlayer properties of CCFRCs. After heat treatment, the average peeling strength of CCFRCs increased by 10.17 % to 16.10 %. Based on the simulation results, the specimen’s parameters were optimized, followed by heat treatment of the optimized specimen. Compared with the specimen reinforced with concentrated CCF layers, the optimized specimen exhibited maximum increases of 70.71 %, 59.96 %, and 115.78 % in flexural strength, flexural modulus, and energy absorption, respectively. This work intended to serve as a reference for the interfacial properties, processing control, and scalability of 3D printed composites. Besides, these insights had significant potential for customizing high-performance 3D printed composite parts in the aerospace, automotive, and biomedical sectors.}
+}

@@ -1,0 +1,13 @@
+@article{DU2025102496,
+title = {Adjacent point aided vertebral landmark detection and Cobb angle measurement for automated AIS diagnosis},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {121},
+pages = {102496},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102496},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000059},
+author = {Xiaopeng Du and Hongyu Wang and Lihang Jiang and Changlin Lv and Yongming Xi and Huan Yang},
+keywords = {Spinal X-ray image, Keypoint detection, Cobb angle estimation, Lenke classification},
+abstract = {Adolescent Idiopathic Scoliosis (AIS) is a prevalent structural deformity disease of human spine, and accurate assessment of spinal anatomical parameters is essential for clinical diagnosis and treatment planning. In recent years, significant progress has been made in automatic AIS diagnosis based on deep learning methods. However, effectively utilizing spinal structure information to improve the parameter measurement and diagnosis accuracy from spinal X-ray images remains challenging. This paper proposes a novel spine keypoint detection framework to complete the intelligent diagnosis of AIS, with the assistance of spine rigid structure information. Specifically, a deep learning architecture called Landmark and Adjacent offset Detection (LAD-Net) is designed to predict spine centre and corner points as well as their related offset vectors, based on which error-detected landmarks can be effectively corrected via the proposed Adjacent Centre Iterative Correction (ACIC) and Corner Feature Optimization and Fusion (CFOF) modules. Based on the detected spine landmarks, spine key parameters (i.e. Cobb angles) can be computed to finish the AIS Lenke diagnosis. Experimental results demonstrate the superiority of the proposed framework on spine landmark detection and Lenke classification, providing strong support for AIS diagnosis and treatment.}
+}

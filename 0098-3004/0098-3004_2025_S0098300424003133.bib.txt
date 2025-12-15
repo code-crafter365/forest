@@ -1,0 +1,13 @@
+@article{YANG2025105830,
+title = {Discrimination of earthquakes, explosions, and collapses based on the deep learning: Applications to DiTing 2.0 dataset},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105830},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105830},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003133},
+author = {Zujian Yang and Xiao Tian and Xiangteng Wang and Yue Wang and Xiong Zhang},
+keywords = {Natural earthquake, Explosion, Collapse, Convolutional neural networks},
+abstract = {The discrimination of natural and unnatural seismic events is an important part of earthquake monitoring and early warning. Deep learning algorithms, with their powerful feature extraction and classification capabilities, are extensively applied in seismic event identification. In this study, we utilized the DiTing 2.0 dataset to develop binary-class networks for distinguishing low-magnitude earthquakes from explosions, as well as three-class networks for identifying low-magnitude earthquakes, explosions, and collapses. The accuracies achieved for discriminating earthquakes from explosions using waveform and spectrogram datasets are 94% and 87%, respectively. The accuracies for discriminating earthquakes, explosions, and collapses using waveform and spectrogram datasets are 85% and 83%, respectively. We then apply the trained three-class model to discriminate explosions and collapses in four different regions in China. The prediction results indicate that the trained model can accurately identify event types and exhibits a good performance in low-magnitude seismic event (ML <5) discrimination, demonstrating the effectiveness and generality of the models developed in this study.}
+}

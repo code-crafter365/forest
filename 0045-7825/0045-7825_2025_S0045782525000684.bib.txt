@@ -1,0 +1,13 @@
+@article{ZIARELLI2025117796,
+title = {A model learning framework for inferring the dynamics of transmission rate depending on exogenous variables for epidemic forecasts},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117796},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117796},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000684},
+author = {Giovanni Ziarelli and Stefano Pagani and Nicola Parolini and Francesco Regazzoni and Marco Verani},
+keywords = {Scientific machine learning, Model learning, Data assimilation, Epidemiology, Forecasts, Neural differential equations, Hidden dynamics},
+abstract = {In this work, we aim to formalize a novel scientific machine learning framework to reconstruct the hidden dynamics of the transmission rate, whose inaccurate extrapolation can significantly impair the quality of the epidemic forecasts, by incorporating the influence of exogenous variables (such as environmental conditions and strain-specific characteristics). We propose a hybrid model that blends a data-driven layer with a physics-based one. The data-driven layer is based on a neural ordinary differential equation that learns the dynamics of the transmission rate, conditioned on the meteorological data and wave-specific latent parameters. The physics-based layer, instead, consists of a standard SEIR compartmental model, wherein the transmission rate represents an input. The learning strategy follows an end-to-end approach: the loss function quantifies the mismatch between the actual numbers of infections and its numerical prediction obtained from the SEIR model incorporating as an input the transmission rate predicted by the neural ordinary differential equation. We apply this original approach to both a synthetic test case and a realistic test case based on meteorological data (temperature and humidity) and influenza data from Italy between 2010 and 2020. In both scenarios, we achieve low generalization error on the test set and observe strong alignment between the reconstructed model and established findings on the influence of meteorological factors on epidemic spread. Finally, we implement a data assimilation strategy to adapt the neural equation to the specific characteristics of an epidemic wave under investigation, and we conduct sensitivity tests on the network’s hyperparameters.}
+}

@@ -1,0 +1,13 @@
+@article{KHANEHMASJEDI2025118282,
+title = {Isogeometric collocation for locking-free large deflection analysis of geometrically exact beams with intrinsic formulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118282},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118282},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005547},
+author = {Pedram {Khaneh Masjedi} and Sajad Jangravi and Alessandro Reali},
+keywords = {Isogeometric collocation method, Geometrically exact beam, Intrinsic formulation, Large deflections, Locking-free},
+abstract = {This paper presents an isogeometric collocation method for the large deflection analysis of geometrically exact beams using a fully intrinsic formulation. The intrinsic formulation is free from displacement or rotation variables and exhibits a low order of nonlinearity (quadratic at most), offering significant computational advantages over displacement-based formulations with higher-order nonlinearities. For the first time, we introduce the isogeometric collocation method to solve the strong form of the static intrinsic governing equations of geometrically exact beams in the present work. One of the key features of the proposed formulation is its ability to handle both conservative and follower loads within a unified framework. Through a series of benchmark problems, we demonstrate the accuracy of the proposed approach against analytical and finite element solutions and show that it is locking-free. We further demonstrate that statically indeterminate configurations can be effectively handled within the intrinsic formulation using an iterative shooting approach, without introducing displacement or rotation variables into the governing equations. Together, these features provide a reliable and efficient tool for analyzing arbitrarily large deflections of beam-like structures.}
+}

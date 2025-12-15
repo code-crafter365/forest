@@ -1,0 +1,13 @@
+@article{HAO2025118710,
+title = {Experimental and numerical investigation on the size effect of interlaminar shear strength for thick composites},
+journal = {Composite Structures},
+volume = {353},
+pages = {118710},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118710},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008389},
+author = {Ziqing Hao and Xiaoyu Wang and Hongjun Ke and Gaojian Wei and George Kardomateas and Liu Liu},
+keywords = {Thick composites, Scaling principle, Interlaminar shear strength, Irregular void, Void concentration},
+abstract = {The study investigates the variation of interlaminar shear properties for unidirectional glass fiber reinforced polymer (GFRP) composites with different thickness using the short-beam shear (SBS) test in conjunction with DIC. To verify the scaling principle and clarify possible mechanisms of the interlaminar shear strength size effect, the quantitative parameters for characterizing randomly distributed irregular voids are proposed. It is seen that the variation of probability for void characteristics with thickness is one of the mechanisms for the interlaminar shear strength size effect. Furthermore, a micromechanical representative volume element (RVE) model with randomly distributed irregular voids is developed for numerical verication. The analysis indicates that the weakest link is related to not only the void size but also the void irregularity and void concentration. The void concentration has a pronounced negative impact on shear strength due to the intersection of the microcracks around the voids.}
+}

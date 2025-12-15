@@ -1,0 +1,13 @@
+@article{LI2025106851,
+title = {Constructing the body source for high-order lattice Boltzmann method},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106851},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106851},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003111},
+author = {Shunyang Li and Li Wan and Nan Gui and Xingtuan Yang and Jiyuan Tu and Shengyao Jiang},
+keywords = {High-order lattice Boltzmann method, Source term, Thermal compressible flow, Multiphase flow},
+abstract = {This paper presents a novel strategy for constructing body source terms in the high-order lattice Boltzmann method (LBM), designed to efficiently introduce various physical phenomena by modifying the non-equilibrium distribution function. The source term, expressed as a Hermite polynomial, provides a flexible framework for simulating complex fluid flows. Three typical source terms are given: a body force source for gravity-driven flows, a thermal dissipation source for controlling the Prandtl number, and a pressure tensor source for modeling multiphase flows. Chapman-Enskog analysis confirms that the source terms recover the expected macroscopic equations. Notably, the proposed strategy eliminates the need for explicit construction of the collision operator, a challenge in conventional approaches for handling diverse physical scenarios. Furthermore, the method is compatible with the traditional BGK model, ensuring its applicability to various high-order lattices. The model’s accuracy and versatility are validated through a series of benchmark tests, showing excellent agreement with existing literature results.}
+}

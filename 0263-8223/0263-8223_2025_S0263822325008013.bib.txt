@@ -1,0 +1,13 @@
+@article{YAO2025119636,
+title = {Influence of voids and yarn content on mechanical properties and damage evolution of fine woven pierced C/C composites},
+journal = {Composite Structures},
+volume = {373},
+pages = {119636},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119636},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008013},
+author = {Tianlei Yao and Diansen Li and Lei Jiang and Frederik Desplentere and Stepan V. Lomov},
+keywords = {Carbon-carbon composites (CCCs), Mechanical properties, Finite element analysis (FEA), Defects},
+abstract = {Fine woven pierced C/C composites with low density, good three-dimensional monolithic properties, high strength have a great deal of application in the defense and aerospace. Both voids and yarn content always had a crucial influence on C/C composites. In this work, the structural information including voids content and yarn dimension was statistically investigated by Micro-CT. Parametric finite element models considering voids were established, and the effects of voids and Z-yarn contents on the compression properties and damage mechanism were investigated. Results showed that the established FEM with voids had better prediction accuracy than FEM without voids. The compressive properties decreased remarkably with the increase of voids, and the presence of voids caused damage to the material at low strains and also enabled a more uniform stress distribution to some extent. Because the introduction of Z-direction yarns slightly increased the volume fraction of fiber, the compressive strength and modulus increased by increasing Z-yarn content.}
+}

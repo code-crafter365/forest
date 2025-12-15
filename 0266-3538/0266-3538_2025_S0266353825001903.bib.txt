@@ -1,0 +1,13 @@
+@article{WANG2025111222,
+title = {Multifunctional bulletproof composite structure with broadband radar absorbing performance},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111222},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111222},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001903},
+author = {Yunyi Wang and Qian Luo and Weibang Lyu and Lichen Wang and Mingji Chen},
+keywords = {Composite armor, Radar absorption, Multifunctional structure, Structure optimization},
+abstract = {Lightweight composite armor and radar absorbing composites (RAC) are two typical applications of advanced composites. However, due to their different requirements in the performance of component materials, the design of a multi-functional structure for both radar absorbing and ballistic protection becomes challenging. This paper reports a multifunctional bulletproof and radar absorbing composite structure (MBRACS) constructed from ultra-high molecular weight polyethylene (UHMWPE), aramid fiber reinforced composites (AFRC), carbon fiber reinforced composites (CFRC), and bulletproof SiC ceramics. Through interfacial impedance design as well as matched design of the flexible and hard materials, the compatibility of broadband radar absorbing performance and efficient bulletproof performance is realized. An innovative method for designing the patterned resistive films (PRFs) as interfacial absorbents by using the hyperelliptic equation has been proposed, which was combined with the genetic algorithm to optimize the patterns of PRFs together with the structural geometric and material parameters of the outer radar absorbing panel (RAP). Meanwhile, the layer thickness ratio of bulletproof SiC ceramics to UHMWPE backplate was optimized under a similar total surface density. The bullet action time and strike position on SiC ceramics, as well as the role of SiC ceramics and UHMWPE backplate in ballistic performance were analyzed. The experimental results show that the proposed MBRACS is capable of efficient radar absorption with −10dB reflectivity in the frequency range of 3.5 GHz–35GHz, and effective protection against three rounds of armor-piercing bullets is also demonstrated.}
+}

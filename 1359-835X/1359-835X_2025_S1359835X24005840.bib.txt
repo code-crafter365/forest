@@ -1,0 +1,13 @@
+@article{TSENG2025108586,
+title = {Laser-induced nano-Ag/graphene composites for highly responsive flexible strain sensors},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108586},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108586},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005840},
+author = {Shih-Feng Tseng and Han-Ting Tsai and Chang-Chun Lee and Chil-Chyuan Kuo},
+keywords = {A. Multifunctional composites, B. Mechanical properties, C. Mechanical testing, E. Surface treatments},
+abstract = {In this focused on laser-induced nano-Ag/graphene composites were evaluated as an electrode layer for highly responsive flexible strain sensors. The dimension of Ag nanoparticles was adjusted using potassium hydroxide (KOH) at different concentrations. Moreover, the characteristics of laser-induced nano-Ag/graphene composites were examined by scanning electron microscope, X-ray photoelectron spectroscopy, and X-ray diffraction. The performance of the proposed sensor was tested using a single-column universal test equipment combined with a precision electrical meter. The 6 M KOH nano-Ag/graphene-based strain sensor had large gauge factors of 23.1 under a micro-strain of 0.0042 % and 492.95 under a 16 % strain. Furthermore, the strain sensor under 10 cycles of stretching/releasing demonstrated excellent linearity, repeatability, and stability of response in different strain ranges of 1 % to 13 % at 2 % intervals. The sensor under 3 % and 5 % strain for 1000 cycles of stretching/releasing tests exhibited good stability and durability. The proposed sensor used to detect wind turbine blade deformation exhibited better response performance. The developed sensor holds a great application potential in real-time monitoring of the structural health of bridges and deformation of railway tracks, tracking human movement, identifying hill slides, assessing fatigue of mechanical components, etc.}
+}

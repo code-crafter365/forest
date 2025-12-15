@@ -1,0 +1,13 @@
+@article{GANBAATAR2025114242,
+title = {Evaluation of antibacterial activity on nanoline-array surfaces with different spacing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114242},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114242},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005010},
+author = {Suvd Erdene Ganbaatar and You Min Kim and Hee-Kyeong Kim and Young-Sam Cho and Hyun-Ha Park},
+keywords = {Bactericidal, Bacteriostatic, Nanoline array, Transparent, Flexible film},
+abstract = {Extensive research has been conducted on anti-biofouling or antibacterial surfaces, with nanostructured surfaces that mimic cicada and dragonfly wings emerging as promising candidates for mechano-bactericidal applications. These biomimetic nanostructured surfaces are capable of exerting a bactericidal effect by directly damaging the membranes of bacteria attached to nanostructures. Although research on bactericidal effect using various nanostructures have been conducted, no specific studies have yet reported on the antibacterial efficiency of the surface having nanoline array, especially regarding the spacing between nanolines. This study details the fabrication of nanoline array via ultraviolet (UV) molding with polyurethane acrylate (PUA), noted for its UV sensitivity and rapid curing, enabling the fabrication of precise and scalable nanoscale structures. Investigation into the nanoline array’s antibacterial effects against Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus) reveals that nanoline spacing critically influences bacterial adherence and viability, with specific spacings enhancing antibacterial properties. Scanning electron microscopy (SEM) and confocal microscopy analyses show that surface topography significantly affects bacterial behavior, with specific spacings leading to varied bacterial responses, including membrane damage and altered attachment patterns. The study highlights the potential of nanoline array in fabricating surfaces with tailored antibacterial properties, emphasizing the importance of nanoscale design in influencing bacterial interaction and viability. We also confirm the relative mechanical rigidity of the nanoline array, which exhibits antibacterial effects, through both experimental observations and numerical analysis. This indicates our proposed nanoline-array surface could have potential future applications in mechanical anti-bacterial functions that require such structural robustness.}
+}

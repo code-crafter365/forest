@@ -1,0 +1,10 @@
+@article{2025111145,
+title = {Editorial Board},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111145},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/S0266-3538(25)00113-7},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001137}
+}

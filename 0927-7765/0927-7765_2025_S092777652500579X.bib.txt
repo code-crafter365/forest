@@ -1,0 +1,13 @@
+@article{BAO2025115072,
+title = {Gold nanocages coated with polyoxazoline: A NIR-triggered strategy for dual antibacterial and osteogenic enhancement},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115072},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115072},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500579X},
+author = {Ying Bao and Zhenzhen Feng and Changhao Huang and Fangzheng Chen and Zhaoyi Ye and Yushan Li and Yaoxun Zeng and Wenxia Wang and Yan He and Xujie Liu},
+keywords = {Gold nanocages, Polyoxazoline, Photothermal therapy, Osteogenic capability, Antibacterial activity},
+abstract = {Orthopedic-associated infections remain a significant challenge in orthopedic surgery, often leading to bacterial infections and impaired bone healing. Addressing these complications requires innovative strategies that simultaneously combat infections and enhance bone regeneration. In this study, we developed gold nanocages coated with polyoxazoline (AuNCs@PEtOx) via surface carboxylation, designed for dual-functional antibacterial and osteogenic applications under near-infrared (NIR) irradiation. Upon exposure to an 808 nm laser, AuNCs@PEtOx demonstrated high photothermal conversion efficiency, effectively eradicating bacteria and inhibiting biofilm formation. The antibacterial mechanism involved bacterial membrane rupture, intracellular leakage, and metabolic disruption, leading to bacterial cell death. Furthermore, the photothermal effect of AuNCs@PEtOx significantly enhanced the expression of osteogenesis-related proteins and genes, promoting the osteogenic differentiation of MC3T3-E1 cells. Transcriptomic analysis revealed that the PI3K-Akt and ECM-receptor interaction pathways played key roles in mediating osteogenic differentiation under AuNCs@PEtOx and NIR stimulation. Overall, this study highlights the dual functionality of AuNCs@PEtOx in dual-functional photothermal therapy, demonstrating its potential as a promising therapeutic strategy for both antimicrobial treatment and bone regeneration.}
+}

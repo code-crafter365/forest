@@ -1,0 +1,13 @@
+@article{ALTLAND2025106651,
+title = {A distributed element roughness model for generalized surface morphologies},
+journal = {Computers & Fluids},
+volume = {298},
+pages = {106651},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106651},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001112},
+author = {Samuel Altland and Vishal Wadhai and Shyam Nair and Xiang Yang and Robert Kunz and Stephen McClain},
+keywords = {DERM, DANS, Surface roughness, Roughness modeling, CFD},
+abstract = {Flow over rough surfaces has been studied and modeled for many decades, due to its important role in turbulent boundary layer evolution and attendant drag and heat transfer amplification. While explicit resolution of deterministic and random roughness morphologies is often feasible given a geometry specification (i.e., CAD and/or optical scanning), CFD modeling of these roughness resolved configurations can be cost prohibitive in a design environment for DNS, LES and even sublayer resolved RANS. For this reason, surface parameterization based modeling is widely used to reduce computational cost. However, this approach suffers from many deficiencies, including ambiguity in determining the appropriate representative roughness length scale, and limitations associated with correctly predicting friction and heat transfer simultaneously. An alternative to surface parametrization is volumetric parameterization. Distributed Element Roughness Modeling (DERM) is an example of such a method. In this work, a DERM model based on the Double-Averaged Navier–Stokes (DANS) equations is developed. This formulation represents a complete treatment in that the three unclosed momentum transport processes that arise are each modeled; the roughness induced drag, the dispersive stress and the spatially averaged Reynolds stress. The models presented here are formulated based on physical and dimensional arguments, and are calibrated and validated using roughness resolved DNS, and neural network based machine learning. Three classes of surface topology are considered. These include cube arrays of varying packing density, sinusoidal roughness patterns of varying wavelengths, and random distributions associated with real additively manufactured surfaces. While DERM models are typically calibrated to specific deterministic roughness shape families, the results shown here demonstrate the wider range of applicability for the present, more generalized formulation.}
+}

@@ -1,0 +1,13 @@
+@article{YAO2025115078,
+title = {Porous microneedle-mediated continuous glucose monitoring based on reverse iontophoresis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115078},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115078},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005855},
+author = {Rui Yao and Olanrewaju Yaasir Olatunji and Rui Wang and Zhenyu Wu and Guohua Jiang},
+keywords = {Reverse iontophoresis, Porous microneedles, Continuous glucose monitoring, Glucose biosensor, Glucose oxidase},
+abstract = {Measuring blood glucose concentrations via continuous glucose monitoring is an important aspect of management for patients with diabetes. In this study, a continuous glucose monitoring device has been developed by integration of porous microneedles, reverse iontophoresis and biosensor technologies. An enzyme-based glucose biosensor as working electrode was firstly fabricated by electrodepositing polydopamine (PDA) onto screen-printed electrodes, and following depositing glucose oxidase (GOx) by linking of glutaric dialdehyde. The interstitial fluid (ISF) extraction could be accelerated with assistance of reverse iontophoresis. The glucose in the ISF could react with GOx on the electrode to generate a current response of blood glucose concentration. The minimally measurement results for blood glucose showed an enhanced sensitivity of 0.934 μA/mM with a high correlation (R2>0.99), low limit of detection (LOD ≈ 19.3 μM), broad linear detection range (LDR = 2–18 mM) that satisfices glucose detection application.}
+}

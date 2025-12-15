@@ -1,0 +1,12 @@
+@article{XU2025115347,
+title = {Biomineralized Self-Assembled Peptide Metallo-Hydrogels: Enhanced Stability, Mechanical Properties, and Mild-Temperature Photothermal Effects Facilitate Controlled Drug Release and Combined Tumor Therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+pages = {115347},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115347},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525008549},
+author = {Jun Xu and Qinqing Xie and Yin Wang and Yaxin Zheng and Xuan Luo and Keming Xu and Wenying Zhong},
+keywords = {Self-assembling peptides, Metallohydrogels, Drug delivery, Mild-temperature photothermal therapy, Combination therapy},
+abstract = {Hydrogels have attracted extensive attention in the field of drug delivery due to their biocompatibility and tunable properties. However, their limited mechanical strength and uncontrollable drug release behavior remain major obstacles to clinical translation. Inspired by the hierarchical structure of diatoms, we report an in situ mineralized hydrogel (Fmoc-1-OH/AuNPs) based on self-assembling peptides. The hydrogel is formed through the coupling interactions between the peptide side chains and Au³⁺ ions. Within the mineralized matrix, gold nanoparticles (AuNPs) not only serve as structural enhancers but also facilitate photothermal effects and on-demand release of doxorubicin hydrochloride (DOX·HCl). Specifically, DOX release is accelerated upon laser irradiation and decelerated when the laser is turned off, demonstrating a reversible and externally controllable release profile. Notably, the Fmoc-1-OH/AuNPs·DOX hydrogel exhibits superior mechanical integrity, photothermal stability, and freeze-drying resistance compared to conventional physically blended hydrogels. Further in vitro and in vivo experiments confirm the enhanced antitumor efficacy of Fmoc-1-OH/AuNPs·DOX, which is mediated by a synergistic combination of chemotherapy (via DOX) and photothermal therapy (via AuNPs). In contrast, monotherapy fails to achieve comparable therapeutic outcomes under the same dosage. This study presents a promising strategy for constructing multifunctional nanocomposite hydrogels with on-demand drug delivery capabilities and improved structural performance.}
+}

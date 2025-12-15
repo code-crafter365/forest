@@ -1,0 +1,13 @@
+@article{LI2025118516,
+title = {Mechanical evaluation of multi-continuous interpenetrating phase composites based on Schwarz Primitive cellular structure},
+journal = {Composite Structures},
+volume = {351},
+pages = {118516},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118516},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006445},
+author = {Jian Li and Jin Xu and Jiaxing Li and Yuyu Tian and Tengjie Li and Xicheng Huang},
+keywords = {3D printing, Schwarz Primitive, Interpenetrating phase composite, Mechanical properties, Deformation mechanism},
+abstract = {Interpenetrating phase composites (IPCs) have been extensively promoted due to their robust mechanical properties. To further obtain the enhanced properties and elucidate the underlying mechanical mechanism, we designed and manufactured the tri-continuous IPCs by filling hyperelastic PDMS into a 3D-printed Schwarz Primitive (P) cellular skeleton based on the viscoplastic polymer. Subsequently, the compressive properties, cyclic properties, and relaxation properties of the IPCs were experimentally investigated. Results demonstrated that interpenetrating can improve the compressive properties, reduce the relaxation behavior, and weaken the cyclic softening effect. By incorporating a user material subroutine in simulations, we analyzed the deformation behaviors of P cellular material and IPCs. Through a combination of experimental observations and simulated outcomes, we refined our understanding of the deformation mechanism of IPCs. Our analysis revealed that filled PDMS played a positive role in enhancing the mechanical performance of TC-IPCs through three key mechanisms: Firstly, it shears part of the external load of TC-IPCs. Secondly, it astricts the bending deformation in the skeleton, thereby preventing the stress drop induced by buckling. Thirdly, the interaction between PDMS and P cellular skeleton puts them in compressive stress in tri-direction, enhancing the overall mechanical properties. These findings contribute to advancing the development and application of IPCs.}
+}

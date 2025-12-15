@@ -1,0 +1,13 @@
+@article{BURMAN2025118111,
+title = {Stabilizing and solving unique continuation problems by parameterizing data and learning finite element solution operators},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118111},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118111},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003834},
+author = {Erik Burman and Mats G. Larson and Karl Larsson and Carl Lundholm},
+keywords = {Inverse problems, Nonlinear PDE, Machine learning, Unique continuation problem},
+abstract = {We consider an inverse problem involving the reconstruction of the solution to a nonlinear partial differential equation (PDE) with unknown boundary conditions. Instead of direct boundary data, we are provided with a large dataset of boundary observations for typical solutions (collective data) and a bulk measurement of a specific realization. To leverage this collective data, we first compress the boundary data using proper orthogonal decomposition (POD) in a linear expansion. Next, we identify a possible nonlinear low-dimensional structure in the expansion coefficients using an autoencoder, which provides a parametrization of the dataset in a lower-dimensional latent space. We then train an operator network to map the expansion coefficients representing the boundary data to the finite element (FE) solution of the PDE. Finally, we connect the autoencoder’s decoder to the operator network which enables us to solve the inverse problem by optimizing a data-fitting term over the latent space. We analyze the underlying stabilized finite element method (FEM) in the linear setting and establish an optimal error estimate in the H1-norm. The nonlinear problem is then studied numerically, demonstrating the effectiveness of our approach.}
+}

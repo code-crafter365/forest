@@ -1,0 +1,13 @@
+@article{ZHANG2025103850,
+title = {Reinforcement learning based automatic block decomposition of solid models for hexahedral meshing},
+journal = {Computer-Aided Design},
+volume = {182},
+pages = {103850},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103850},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000120},
+author = {Shuming Zhang and Zhidong Guan and Xiaodong Wang and Pingan Tan and Hao Jiang},
+keywords = {CAD/CAE, Block decomposition, Reinforcement learning, Hexahedral mesh generation},
+abstract = {Generating high-quality meshes for CAD models is a crucial preprocessing task for numerical simulation. Although mesh generation techniques are well-established, automatic hexahedral meshing remains challenging, particularly for complex geometries. Conventional methods often require manual intervention to decompose solid models into simpler, meshable blocks, which is labor-intensive and demands expert knowledge. To address the challenge of automating the block decomposition of solid models for hexahedral meshing, we propose a novel reinforcement learning (RL) framework. This framework enables an agent to learn optimal decomposition strategies by interacting with a CAD modeling environment. Key contributions include a network-friendly method for representing and learning the environment’s state and the agent’s actions—3D geometric shapes and the corresponding block decomposition operations; a two-step training strategy that integrates imitation learning with reinforcement learning to improve training efficiency. Experimental results demonstrate that our RL-based method achieves a more effective automatic block decomposition of complex 3D solid models for generating high-quality hexahedral meshes.}
+}

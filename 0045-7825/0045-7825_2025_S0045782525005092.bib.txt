@@ -1,0 +1,13 @@
+@article{TANG2025118237,
+title = {Dynamic reconstruction of signed distance field for efficient contact analysis of irregular deformable bodies},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118237},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118237},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005092},
+author = {Tiantian Tang and Kai Luo and Qiang Tian and Haiyan Hu},
+keywords = {Irregular surface contact, Deformable bodies, Signed distance field (SDF), Gappy proper orthogonal decomposition, Real-time reconstruction},
+abstract = {The approach of signed distance field (SDF) is a powerful tool for efficient contact analysis involving complex and irregular geometries. Due to a need of the prescribed field vectors, however, it is only applicable to the contact detection of rigid surfaces. In this paper, a new method of dynamic reconstruction of SDF is proposed for efficient contact dynamics of irregular and deformable bodies. First, the contact dynamics of moving deformable bodies is formulated via the finite element method. Then, the algorithm of contact detection based on reconfigurable SDF is presented. To achieve a real-time reconstruction of SDF, a set of pre-trained basis vectors are introduced and the gappy proper orthogonal decomposition is employed to update the deformed SDF. The criterion of relative errors of the reconstructed SDF is provided for the quantitative analysis of the reconstruction. On this basis, a two-phase detection strategy is developed, i.e. a globally coarse search ensuring efficient detection and a locally fine search ensuring accurate detection. Meanwhile, a node-to-surface contact formulation with penalty constraints is integrated to reduce penetration during contact process. Afterwards, the procedure of the complete algorithm is given for the contact dynamics simulation. Three challenging numerical examples of dynamic contacts, involving irregular body shapes, finite rigid-body motions, and finite deformations, demonstrate the accuracy of the proposed method. The benchmark comparisons reveal significant improvements in computational efficiency (up to 54% reduction in time) and robustness over conventional AABB (axis-aligned bounding box)-based approaches, suggesting strong potential for complex contact dynamics.}
+}

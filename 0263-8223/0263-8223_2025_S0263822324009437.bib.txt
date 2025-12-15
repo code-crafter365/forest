@@ -1,0 +1,13 @@
+@article{WU2025118815,
+title = {Dual-composite additive manufacturing of glass fibre and recycled carbon fibre reinforced thermoplastic composites with customised fibre layout},
+journal = {Composite Structures},
+volume = {354},
+pages = {118815},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118815},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009437},
+author = {Jiang Wu and Aonan Li and Yahui Lyu and Bin Yang and Kunkun Fu and Dongmin Yang},
+keywords = {Glass fibre, Recycled carbon fibre, Additive manufacturing, Dual-composites, Thermoplastic},
+abstract = {This study proposes a customised fibre layout dual-composite additive manufacturing method utilising economical and sustainable recycled discontinuous carbon fibres (rCF) and continuous glass fibres (CGF)/PA6 composites. Based on material properties of prepared filaments, the fibre layout of the dual-composite structures is designed using finite element analysis (FEA). The filaments for dual-composites are both developed in-house. Therefore, the study divides into two parts, the first part involves the preparation of two types of filaments. The pure CGF filaments are produced using a pre-impregnation filament fabrication method. Additionally, the challenge of extruding longer rCF is addressed by mixing CGF and rCF through material extrusion for filament fabrication and mechanical tests verify that the CGF/rCF filaments with longer rCF length possess superior compressive strength, while the CGF filaments exhibit higher tensile properties. And in the second part, the mechanical properties of dual-composites are evaluated through three-point bending and other designed complex case experiments according to finite element analysis, aiming to validate the feasibility of custom path design. Through experimentation, the dual-composites effectively compensate for the mechanical performance deficiencies of single-composites. The flexural modulus of dual-composites is increased by 59 % compared to CGF/rCF composites. The flexural strength of the dual-composites increases by 76 % compared to CGF composites while maintaining the same modulus, and reaches 78 % of the strength of continuous carbon fibre (CCF) composites. The energy absorption of dual-composites is increased by 94 % and 65 % compared to CCF and CGF composites, respectively.}
+}

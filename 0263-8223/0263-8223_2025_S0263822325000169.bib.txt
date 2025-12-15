@@ -1,0 +1,13 @@
+@article{CHEN2025118851,
+title = {Semi-analytical free vibration analysis of multi-directional functionally graded materials (MDFGMs) irregular polyhedral structural elements with generalized elastic boundaries},
+journal = {Composite Structures},
+volume = {355},
+pages = {118851},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118851},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000169},
+author = {Xiaochao Chen and Runbin Li and Chengcheng Chang and Lin Cheng},
+keywords = {MDFGMs polyhedral structures, Elastic edge restraints, 3D elastic theory, Trilinear transformation, Free vibration},
+abstract = {This study proposes a semi-analytical method for free vibration analysis of typical polyhedral structural elements based on 3D elasticity theory. The polyhedral structures incorporate generalized elastic boundaries modeled using artificial springs to represent boundary stiffness. The material properties of these structures vary according to gradients in multiple directions. The Lagrangian energy function for the polyhedral element is derived within its original irregular physical domain. The proposed method employs a trilinear transformation to map the irregular hexahedral domain into a regular cubic domain, where the Jacobi orthogonal polynomials-based Ritz process is used to determine vibration characteristics. Initially developed for irregular hexahedron, the presented method can also be extended to pentahedral and tetrahedral structures, such as triangular plates/prisms and quadrilateral/triangular pyramids, which can be viewed as special cases of hexahedron with some coincident vertices. This extends the applicability of the proposed method beyond the regular physical domains handled by the classical Ritz method. Mover,the presented method leverages three-dimensional elasticity theory without displacement field assumptions, enabling it to handle polyhedron with various geometric characteristics including solids, plates and prisms. The validity of method is demonstrated by comparing its results with finite element analysis and open literature. Numerical simulations on MDFGMs parallelogram plate reveal the effects of material gradients, geometric configurations, and boundary restraints on vibration characteristics. The results have, for the first time, demonstrated that variations in material gradients within structural elements can alter the modal sequence.}
+}

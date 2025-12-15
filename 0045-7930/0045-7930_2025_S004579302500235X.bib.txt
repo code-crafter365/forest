@@ -1,0 +1,13 @@
+@article{BOULBRACHENE2025106775,
+title = {A dynamic immersed boundary method for simulating an adaptive nozzle generating discrete wind gusts},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106775},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106775},
+url = {https://www.sciencedirect.com/science/article/pii/S004579302500235X},
+author = {K. Boulbrachene and M. Breuer},
+keywords = {Horizontal wind gusts, Numerical wind tunnel, Immersed boundary method, Moving-least-squares, Large-eddy simulation, Fluid–structure interaction},
+abstract = {The recently developed wind gust generator, the adaptive nozzle (Wood and Breuer, 2025) , features a nozzle with a fully rotatable upper contour, enabling a smooth gust generation with low unwanted flow disturbances. While preserving the underlying gust-generation principle of its predecessor, the new design significantly reduces pressure losses caused by flow blockage and preserves the original horizontal trajectory of the flow along the streamwise direction. While experiments have validated the improved design, a comprehensive numerical analysis is crucial to resolve the three-dimensional flow fields across the entire computational domain. This shall also facilitate capturing the resulting transient aerodynamic loads on a wind tunnel specimen — quantities difficult to measure experimentally. To accurately capture the complex flow dynamics, high-fidelity large-eddy simulations are conducted, modeling the nozzle’s upper contour as a dynamic immersed boundary (IB). A curvilinear Eulerian grid is employed to ensure both efficient and precise spatial resolution of the problem. The moving least-squares (MLS) version of the direct forcing IB approach (Vanella and Balaras, 2009) is used to construct an IB kernel for each Lagrangian marker. Additionally, the MLS approach is also applied to construct one-sided kernel functions for Lagrangian points near the boundaries of the computational domain. Challenges related to the efficient IB simulation on curvilinear grids are addressed, and a solution is proposed within the MLS framework. The predicted results are analyzed in detail and validated against the experimental data by Wood and Breuer (2025) , providing insights into the effectiveness of the new design in generating controlled wind gusts.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025115082,
+title = {Alginate-encapsulated ZIF-67 composite gel spheres for enhanced tetracycline removal and fixed-bed application},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115082},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115082},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005892},
+author = {Fuyan Zhang and Dilong Zhang and Xueyan Ran and Mingzhu Xiao and Lu Gan and Xiujie Yang and Yong Xie and Qi Sun},
+keywords = {ZIF-67, Sodium alginate hydrogel, Tetracycline removal, Adsorption mechanism, Fixed-bed application},
+abstract = {The pervasive accumulation of tetracycline (TC) in aquatic ecosystems poses severe ecological and health threats, yet conventional technologies rarely achieve reliable removal under continuous-flow conditions. To overcome the intrinsic brittleness, aggregation and leaching of powdered ZIF-67, this study developed novel alginate-encapsulated MOF composite gel spheres (ALG/ZIF-67) via in-situ crystallization. This simple strategy generates hierarchical pores, anchors Co-N active sites and imparts mechanical robustness without sacrificing adsorption kinetics. Comprehensive characterization confirmed a hierarchical porous structure with uniformly dispersed ZIF-67 nanoparticles. Batch experiments demonstrated exceptional TC adsorption (89.45 mg/g), following pseudo-second-order kinetics and the Langmuir isotherm, indicating chemisorption-driven monolayer adsorption via π–π interactions, hydrogen bonding, and coordination with unsaturated Co²⁺ sites. Fixed-bed applications showcased remarkable stability, maintaining > 80 % TC removal over 6 h with negligible ZIF-67 leaching. The alginate matrix enhanced mechanical robustness and recyclability, mitigating MOF limitations in flow systems. This work provides a scalable, eco-friendly adsorbent for antibiotic-laden wastewater, bridging laboratory innovation and industrial deployment while addressing persistent contaminant challenges.}
+}

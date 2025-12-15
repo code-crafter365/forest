@@ -1,0 +1,13 @@
+@article{MIETTINEN2025104443,
+title = {Separable distributed local thickness algorithm for efficient morphological characterization of terapixel-scale volume images},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104443},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104443},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001663},
+author = {Arttu Miettinen and Elena Borisova and Marco Stampanoni and Goran Lovric},
+keywords = {Euclidean distance transformation, Granulometry, Opening transform, Probability density, Thickness, Three-dimensional morphometry},
+abstract = {Thickness of structures is a fundamental quantity in the morphometric study of volumetric datasets. The local thickness transform allows to quantify the local structure thickness in a model-independent and direct way. However, till now implementations of local thickness algorithms suffer from very high computational cost when applied to multi-dimensional image data with structure sizes extending over several orders of magnitude. We show that this bottleneck can be addressed, albeit on the expense of increased memory requirements, thus rendering the problem as a typical case example of a time-memory trade-off. We propose a new separable algorithm for local thickness transformation with a potential performance increase of up to several orders of magnitude. By distributing the processing into smaller tasks, the algorithm can be executed on a computer cluster in a fully parallelized manner as well as on a computer with limited memory by executing each of the tasks sequentially. We further propose an approximation of the original local thickness and show that an additional increase in computation speed is possible, at the expense of error that is often negligible. To demonstrate the performance of the algorithm, we use computer-generated images as well as a real terapixel-scale tomographic volume. All the algorithms are published in the open source pi2 software package as well as integrated in the popular ImageJ image processing framework.}
+}

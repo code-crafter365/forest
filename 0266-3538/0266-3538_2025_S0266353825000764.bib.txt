@@ -1,0 +1,13 @@
+@article{ASHOURISANJANI2025111108,
+title = {Flexible triple-layer graphene composites for broadband high-absorption electromagnetic shielding},
+journal = {Composites Science and Technology},
+volume = {263},
+pages = {111108},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111108},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000764},
+author = {Mehran Ashouri-Sanjani and Reza Rahmati and Mahdi Hamidinejad and Chul B. Park},
+keywords = {Absorption-dominated shielding, Low reflectivity, Multilayer composites, Flexible electronics, Electromagnetic simulation},
+abstract = {Electromagnetic interference (EMI) presents significant challenges in today's electronics, disrupting device performance and posing health risks. We introduce a novel flexible composite with exceptional EMI shielding effectiveness and absorption-dominated performance across the Ku-band (12.4–18 GHz). The composite features a strategically engineered triple-layer architecture: two layers of reduced graphene oxide (rGO) aerogels with aligned porosities and a dense rGO film, all embedded within a polydimethylsiloxane (PDMS) matrix. This design achieves an outstanding average absorptivity of 95.4 % and a total shielding effectiveness of 42.6 dB within a minimal thickness of 2.5 mm. The superior performance arises from meticulous tuning of each layer's electrical conductivity, optimizing impedance matching and enhancing electromagnetic absorption through multiple reflection and scattering mechanisms. Finite element method simulations elucidate the electromagnetic interactions within the multilayer structure, confirming the effectiveness of our design. This work pioneers the development of next-generation EMI shielding materials that synergistically combine high absorptivity, mechanical flexibility, and robust performance, meeting the demanding requirements of modern electronics.}
+}

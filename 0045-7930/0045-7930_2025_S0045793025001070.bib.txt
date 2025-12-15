@@ -1,0 +1,13 @@
+@article{HUSSAIN2025106647,
+title = {Vortex-Induced Vibrations of in-line cantilevered cylinders},
+journal = {Computers & Fluids},
+volume = {297},
+pages = {106647},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106647},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001070},
+author = {M.M.M.D. Hussain and K. Zwijsen and A.H. {van Zuijlen}},
+keywords = {Vortex-Induced Vibrations, Fluid-Structure Interactions, Flow-Induced Vibrations, URANS, Turbulence Modelling, STAR-CCM+},
+abstract = {The advent of global warming has brought an increased interest in non-conventional sources of energy, one of which is nuclear energy. Threatening the almost year-round functioning of nuclear power plants are Flow-Induced Vibrations (FIV). One mechanism of FIV, Vortex-Induced Vibration (VIV), holds importance in areas of cross-flow in nuclear power plants where lock-in occurs. To make safe-life designs, computational analysis in the domain of Fluid-Structure Interactions (FSI) has been increasing over the past two decades. This article aims to add to the body of knowledge by making predictions for an in-line two-cylinder configuration, set up as part of a benchmark proposed by the Nuclear Energy Agency (NEA) of the Organization for Economic Co-operation and Development (OECD), using the commercial code Simcenter STAR-CCM+ (V2020.3.1). The main objective of this study is to test the efficacy of the URANS framework in predicting VIV, which is connected with the objective of the OECD/NEA to propose recommendations for the Best Practice Guidelines. The benchmark was structured in two phases: the open phase where the experimental results were available to the benchmark participants a priori and the blind phase where the experimental results, with cylinders having different natural frequencies than that of the open phase, were released to the benchmark participants only after all computational results were submitted to the OECD/NEA. The open phase was used to test 3 turbulence models, namely ‘K-ω SST: Quadratic’, ‘K-ω SST: Quadratic + GRT transition’ and ‘Standard K-ϵ Low Re: Cubic’ in order to choose the most appropriate model for the blind phase. Key results from this study revealed the ‘Standard K-ϵ Low Re: Cubic’ model to be the most apt for the benchmark. Furthermore, gaps are also identified in the application of URANS to predict VIV resonance conditions, namely the overprediction of the vortex shedding frequency, adoption of inflow turbulence and the underprediction of high frequency range spectra.}
+}

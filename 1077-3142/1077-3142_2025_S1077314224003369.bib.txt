@@ -1,0 +1,13 @@
+@article{LIU2025104255,
+title = {Adaptive semantic guidance network for video captioning},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104255},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104255},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003369},
+author = {Yuanyuan Liu and Hong Zhu and Zhong Wu and Sen Du and Shuning Wu and Jing Shi},
+keywords = {Video captioning, Adaptive semantic guidance network, Semantic enhancement encoder, Adaptive control decoder},
+abstract = {Video captioning aims to describe video content using natural language, and effectively integrating information of visual and textual is crucial for generating accurate captions. However, we find that the existing methods over-rely on the language-prior information about the text acquired by training, resulting in the model tending to output high-frequency fixed phrases. In order to solve the above problems, we extract high-quality semantic information from multi-modal input and then build a semantic guidance mechanism to adapt to the contribution of visual semantics and text semantics to generate captions. We propose an Adaptive Semantic Guidance Network (ASGNet) for video captioning. The ASGNet consists of a Semantic Enhancement Encoder (SEE) and an Adaptive Control Decoder (ACD). Specifically, the SEE helps the model obtain high-quality semantic representations by exploring the rich semantic information from visual and textual. The ACD dynamically adjusts the contribution weights of semantics about visual and textual for word generation, guiding the model to adaptively focus on the correct semantic information. These two modules work together to help the model overcome the problem of over-reliance on language priors, resulting in more accurate video captions. Finally, we conducted extensive experiments on commonly used video captioning datasets. MSVD and MSR-VTT reached the state-of-the-art, and YouCookII also achieved good performance. These experiments fully verified the advantages of our method.}
+}

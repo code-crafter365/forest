@@ -1,0 +1,13 @@
+@article{GU2025118929,
+title = {Rapid thermo-mechanical performance prediction and multi-objective optimization of tri-directional functionally graded material considering complex geometry and arbitrary graded paths},
+journal = {Composite Structures},
+volume = {357},
+pages = {118929},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118929},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000947},
+author = {Guangshuai Gu and Pin Wen and Fei Chen},
+keywords = {Tri-directional functionally graded material, Isogeometric analysis, Convolutional neural network, Multi-objective optimization},
+abstract = {This paper proposes an innovative framework for rapid performance prediction and multi-objective optimization of tri-directional functionally graded material, considering complex geometry and arbitrary graded paths in thermal environments. The framework employs non-uniform rational B-splines to describe the material distribution and geometric configuration of tri-directional functionally graded material. Based on three-dimensional elasticity theory and isogeometric analysis, the free vibration and bending behaviors of variable shape tri-directional functionally graded material in thermal environments are analyzed. To replace the time-consuming numerical calculation process, a three-dimensional convolutional neural network is introduced for the first time to construct a rapid performance prediction platform with ultra-high accuracy. Additionally, the multi-objective optimization of the material distribution and shape of tri-directional functionally graded material is realized by combining the non-dominated sorting genetic algorithm III. The framework’s effectiveness is verified by several numerical cases, including square plates, cutout plates and cylindrical shells, and the effects of different boundary conditions, temperature fields, and loading conditions on the results are discussed in depth. The results show that, compared with traditional one-directional functionally graded material, the tri-directional functionally graded material with numerous design variables optimized by the proposed framework exhibits significantly improved performance, highlighting the efficiency and versatility of this framework.}
+}

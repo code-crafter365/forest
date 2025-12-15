@@ -1,0 +1,13 @@
+@article{CHUNG2025118342,
+title = {A locking free multiscale method for linear elasticity in stress-displacement formulation with high contrast coefficients},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118342},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118342},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006140},
+author = {Eric T. Chung and Changqing Ye and Xiang Zhong},
+keywords = {Multiscale method, Mixed formulation, Linear elasticity, High contrast},
+abstract = {Achieving strongly symmetric stress approximations for linear elasticity problems in high-contrast media poses a significant computational challenge. Conventional methods often struggle with prohibitively high computational costs due to excessive degrees of freedom, limiting their practical applicability. To overcome this challenge, we introduce an efficient multiscale model reduction method and a computationally inexpensive coarse-grid simulation technique for linear elasticity equations in highly heterogeneous, high-contrast media. We first utilize a stable stress-displacement mixed finite element method to discretize the linear elasticity problem and then present the construction of multiscale basis functions for the displacement and the stress. The mixed formulation offers several advantages such as direct stress computation without post-processing, local momentum conservation (ensuring physical consistency), and robustness against locking effects, even for nearly incompressible materials. Theoretical analysis confirms that our method is inf-sup stable and locking-free, with first-order convergence relative to the coarse mesh size. Notably, the convergence remains independent of contrast ratios as enlarging oversampling regions. Numerical experiments validate the method’s effectiveness, demonstrating its superior performance even under extreme contrast conditions.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025111062,
+title = {Ultralight and high sensitive CA/TPU/PPy nanofiber aerogels with coaxial conductive structure for wearable piezoresistive sensors},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111062},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111062},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000302},
+author = {Long Chen and Siqi Chen and Jiaqi Li and Chenyao Hu and Miaomiao Zhu and Ranhua Xiong and Chaobo Huang},
+keywords = {Electrospinning, Polypyrrole, Nanofiber aerogel, Wearable sensors},
+abstract = {Flexible wearable electronics impose ever-more stringent demands on the design strategies for piezoresistive sensing materials. Nanofiber aerogels (NFAs) have emerged as a focal point in this field, attributed to their unique characteristics such as low density, extensive specific surface area, high porosity, and outstanding mechanical performance. Conventional methods for fabricating conductive NFA composites often entail complex procedures, including additional thermal annealing and carbonization, to establish three-dimensional conductive networks, which significantly hinder scalability and practical applications. To overcome this challenge, we propose a sustainable, cost-effective, and efficient hydrogen-bonded self-assembly drive strategy for designing conductive nanofiber networks with robust coaxial structures. During polymerization, pyrrole monomers were in situ polymerized onto cellulose acetate/thermoplastic polyurethane (CA/TPU) composite nanofibers through hydrogen-bonding, forming a roubst conductive shell layer while facilitating the mutual cross-linking of short nanofibers to establish a porous three-dimensional network. Benefiting from the nanofiber skeleton and multilevel pore structure, the resultant CA/TPU/PPy NFA (CTP-NFA) possesses an ultra-low volume density (30.77 mg cm−3) and remarkable mechanical properties (55.78 kPa at 80 % strain), enduring deformation under 1700 times its weight. Furthermore, the associated aerogel sensor exhibits ultra-high sensitivity (33.56 kPa−1), rapid response time (100 ms), and exceptional cycling stability (>5500 cycles of compression). Significantly, the NFA-based piezoresistive sensor precisely detects pressure signals as low as 30 Pa, enabling accurate monitoring of adult pulse waveforms. Given its superior performance, the resultant NFA presents substantial promise for applications in human health monitoring and human-computer interaction.}
+}

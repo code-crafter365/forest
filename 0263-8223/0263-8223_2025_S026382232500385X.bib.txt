@@ -1,0 +1,13 @@
+@article{LI2025119220,
+title = {Constitutive modelling of time-dependent polymer matrix composites: Incorporating a visco-hyperelastic model into the micromechanical framework},
+journal = {Composite Structures},
+volume = {366},
+pages = {119220},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119220},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500385X},
+author = {Wenlong Li and Shiyu Wu and Jianguo Zhu and Lili Zhang and Jing Zheng and Haojing Wang and Yaping Qiu and Guihua Xie and Cheng Li},
+keywords = {Polymer matrix composite, Time-dependent, Micromechanics, Off-axis, Hyperelastic},
+abstract = {Accurately modelling the stress–strain response of carbon fiber reinforced polymer composites (CFRPs) at high strain rates remains challenging due to the nonlinear time-dependent behavior of the polymer matrix. In this work, we develop and validate a new micromechanics-based constitutive model that, for the first time, integrates a single-relaxing-component visco-hyperelastic formulation, also called internal state variable model, into the method of cells (MoC). To account for the effects of shear stress concentration at the fiber–matrix interface, a scaling parameter is introduced in the matrix overstress term. For brittle thermoset matrices, a degraded pseudo tensile yield stress is implemented to represent interface de-bonding during the early loading stage. To capture the pronounced nonlinear stress–strain characteristics of CFRPs, a monotonically increasing resistant stress term is employed in the matrix flow rule. The proposed model successfully predicts the off-axis tensile responses at various strain rates for three kinds of composites, including both thermoplastic and thermoset matrix composites, with carbon fiber moduli ranging from 200 GPa to 300 GPa. This favourable validation indicates that a more comprehensive visco-hyperelastic formulation with multiple relaxing components for the polymer matrix can be readily incorporated into the current framework, thus enabling accurate predictions for CFRPs at higher strain rates.}
+}

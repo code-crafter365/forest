@@ -1,0 +1,13 @@
+@article{WANG2025119455,
+title = {Damage behavior and residual compressive strength of Carbon/Glass bionic spiral composites under multiple low-velocity impacts},
+journal = {Composite Structures},
+volume = {371},
+pages = {119455},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119455},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006208},
+author = {Ben Wang and Qihui Lyu and Zhipeng Liang and Lanlan Jiang and Biao Wang},
+keywords = {Bio-inspired composites, Low-velocity impact, Finite element analysis, Residual compressive strength},
+abstract = {Based on the concept of bionic design, crossed-spiral structural composites with varying proportions of carbon fiber and glass fiber plies are constructed and fabricated. Through drop-weight impact testing, CAI (Compression After Impact) testing, ultrasonic C-scan and X-ray CT scanning, the damage mechanism and residual compressive strength of four crossed-spiral laminates under 1, 3 and 5 impacts with 15 J/times are characterized. Then, combining the experimental results, an integrated “single impact-multiple impacts-CAI testing” finite element model of carbon/glass bionic composite laminates is established and validated. On this basis, the configurations of bionic carbon/glass composite laminates with different ply sequences and spiral angles are investigated. The results indicate that for the impact resistance and damage tolerance of carbon/glass bionic composite laminates, the ply ratio and spiral angle have more significant effects than the ply sequence. Additionally, only by considering both the biomimetic crossed-spiral angle and the ply configuration on the impact side can the performance of the laminate be optimized to its fullest potential. The study findings can provide valuable guidance for the biomimetic design of composite structures with ultra-lightweight, multi-impact resistance, and high damage tolerance.}
+}

@@ -1,0 +1,13 @@
+@article{LIN2025117892,
+title = {The Lagrangian-Eulerian described Particle Flow Topology Optimization (PFTO) approach with isogeometric material point method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117892},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117892},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001641},
+author = {Daji Lin and Liang Gao and Jie Gao},
+keywords = {Material point method, Topology optimization, Particle flow, Isogeometric analysis},
+abstract = {Recently, several topology optimization methods in the Lagrangian or Eulerian description has accepted a wide of discussions, which have been applied to several design problems. In the current work, the primary intention is to propose the Particle Flow Topology Optimization (PFTO) approach in a Lagrangian-Eulerian description, which can sufficiently unify their unique characteristics and superiorities for the optimization with a higher effectiveness. Firstly, an Isogeometric Material Points Method (I-MPM) is applied to develop the numerical analysis framework for particles to solve the static equilibrium equation, which can maintain the consistency of geometrical model and analysis model using the same NURBS (non-uniform rational B-splines) basis functions. Secondly, a Lagrangian-Eulerian particle flow model is proposed for representing structural topology in the optimization, which consists of several critical components, namely the mappings of physical information (P2C: Particles to Control points, C2G: Control points to Gauss quadrature points), the inverse mappings of sensitivity information (G2C and C2P). Thirdly, the mathematical formulation for the maximization of structural loading-capability is developed using the PFTO approach, in which physical positions and material consumptions of particles are design variables to drive the evolvement of structural topology. The sensitivity analysis of the objective and constraint functions with respect to design variables at particles, namely physical information is derived in detail. Finally, several numerical design examples in 2D and 3D are performed to demonstrate the validity, effectiveness, and superiority of the proposed PFTO approach, and the indispensability of particles movement for the optimization is also sufficiently studied.}
+}

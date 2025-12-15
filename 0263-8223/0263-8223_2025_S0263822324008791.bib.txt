@@ -1,0 +1,13 @@
+@article{FANG2025118751,
+title = {Three-point bending behaviors of sandwich beams with data-driven 3D auxetic lattice core based on deep learning},
+journal = {Composite Structures},
+volume = {354},
+pages = {118751},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118751},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008791},
+author = {Xi Fang and Hui-Shen Shen and Hai Wang},
+keywords = {Three-point bending, Deep learning, Auxetic metamaterial, Sandwich beam, Inverse design},
+abstract = {In this paper, flexural behavior of a novel sandwich beam featuring a 3D auxetic lattice core developed using an inverse design method powered by deep learning under three-point bending is investigated. Specifically, the bending behavior and effective Poisson’s ratio (EPR) of such beams under large deflection is demonstrated. With inverse design method based on conditional generative deep learning model, finite element analysis (FEA) results indicate that the sandwich beams with data-driven auxetic core have superior bending behavior compared to those obtained through forward topology optimization in previous studies. In order to validate the mechanical performances of data-driven 3D auxetic lattice structures and further explore the influence of incline angle on the EPR, experimental tests under uniform pressure are carried out with metal specimens fabricated through selective laser melting manufacturing process. Comprehensive FE simulations, incorporating analytical model and temperature-dependent material properties explore the effect of various factors on the bending behavior and EPR as the beam undergoes large deflection. Results demonstrate that functionally graded configurations, length-to-thickness ratio, facesheet-to-core thickness ratio, truss radii, and thermal environmental conditions will significantly affect the flexural behavior and EPR of the data-driven sandwich beam.}
+}

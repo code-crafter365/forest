@@ -1,0 +1,13 @@
+@article{LIANG2025114902,
+title = {Biomineralized CaCO3@Pd@C nanosystem as multifunctional nanozyme for intervening in tumor microenvironment to efficient cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114902},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114902},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004096},
+author = {Xiaoping Liang and Mengyang Cui and Suet Cheung and Xinmei Xu and Imamdin Chandio and Xiang Ni and Yongjian Ai and Qionglin Liang},
+keywords = {Biomineralized nanoparticles, Multifunctional nanozyme, Fully active nanomedicine, Intervening in microenvironment, Effective cancer therapy},
+abstract = {The development of nanozyme to intervene in the tumor microenvironment (TME) is significant for tumor treatment. Comprehensive interventions of the TME based on different components and combined with advanced therapies are expected to improve tumor therapeutic effects, which could provide patients with new choices for therapeutic. Here, we developed a novel biomineralized nanosystem (CaCO3@Pd@C) as multifunctional nanozyme for intervening in the microenvironment to effectively treat cancer. The CaCO3@Pd@C was synthesized using the Stöber-like method and calcination treatment. The CaCO3@Pd@C possesses excellent peroxidase-like activity, good acid consumption capability, and efficient photothermal conversion effect in the TME. Mechanistic studies have shown that the inner CaCO3 core consume H+ to change the acidity, the middle layer of Pd nanoparticles catalyze the intracellular hydrogen peroxide conversion into hydroxyl radicals, and the outer layer of carbon nanosphere can convert near-infrared light into thermal energy in the TME. The cell and animal experiment results showed that the biocompatible biomineralized nanosystem can rapidly induce tumor cell apoptosis under synergistic effects. This work not only provides new perspectives for constructing microenvironmentally responsive nanosystems but also puts forward new prospects for developing fully active nanozymes and their biomedical applications.}
+}

@@ -1,0 +1,13 @@
+@article{DONG2025119715,
+title = {Damage suppression and process optimization in grinding CFRP circular cells under thermo-mechanical coupling},
+journal = {Composite Structures},
+volume = {374},
+pages = {119715},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119715},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008803},
+author = {Zhigang Dong and Yanling Feng and Yan Wang and Yan Bao and Renke Kang and Yan Qin},
+keywords = {Grinding temperature, CFRP circular cell, End-face grinding, Grinding parameters, Grinding force, Processing damage},
+abstract = {Carbon fiber reinforced polymer (CFRP) circular cells are critical in aerospace applications due to their high strength-to-weight ratio. However, during end-face grinding, thermal challenges arise as heat buildup can exceed the glass transition temperature of the resin matrix material (Tg), leading to thermal overload. This results in matrix softening and reduced fiber reinforcement, causing subsurface tearing, fiber–matrix debonding, and compromised structural integrity. Despite the importance of managing grinding-induced thermal effects, there is limited research on temperature distribution, damage mechanisms, and process optimization for CFRP circular cells. This study investigates the end-face grinding of CFRP circular cells using real-time thermal imaging to monitor temperature field distribution. Key process parameters — grinding speed (vs), cut-out angle (φ), axial grinding depth (ap), and feed rate (f)—are analyzed for their impact on grinding temperature, force, and thermal defects. The objective of this study is to address the critical gap in understanding thermal behavior and damage mechanisms during end-face grinding of CFRP circular cells—thin-walled, low-rigidity structures distinct from conventional CFRP laminates. Its novelty lies in: (1) focusing on the unique thermo-mechanical response of circular cell architectures (rather than laminates) under grinding; (2) establishing a geometric model of contact arc length to link cut-out angles with material removal mechanisms; and (3) quantifying the correlation between process parameters, localized thermal softening, and damage propagation. Results reveal that resin thermal softening due to localized heat exacerbates interfacial debonding, accelerating damage propagation. Parametric optimization, including grinding speeds below 10.5 m/s, cut-out angles between 120° and 140°, and feed rates above 0.2 mm/r, maintains grinding temperatures below the resin Tg, preventing pyrolysis and preserving fiber–matrix bond strength. These findings provide a basis for high-precision, low-damage CFRP circular cell processing.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025111236,
+title = {Enhanced electroless metallization of aramid fibers via non-destructive π–π surface engineering for EMI shielding},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111236},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111236},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002040},
+author = {Tianyi Zhang and Jinglun Guo and Shuaijie Liu and Lang Gong and Xiaoyu Hao and Qian Ye and Jingyu Kang and Le Cao and Xuqing Liu},
+keywords = {Electromagnetic interference, Aramid fiber, Electroless deposition, Tannic acid, Environmental durability},
+abstract = {Electromagnetic pollution has become a growing concern with the rapid expansion of 5G and 6G technologies, creating an urgent need for lightweight, flexible materials that can shield against electromagnetic interference (EMI) while also offering high electrical conductivity, strong mechanical properties, and reliable environmental stability. Aramid fiber-reinforced composites, already widely used in aerospace electronics due to their excellent strength and heat resistance, show significant potential for effective EMI shielding. However, because aramid fibers are chemically inert, it is challenging to achieve strong adhesion between EMI coatings and the fiber surface, which limits practical applications. Although chemical etching can create active sites for metal particle attachment, it often compromises the fibers’ intrinsic mechanical properties. To address this issue, a non-destructive π–π modification method was introduced. This process adds active sites to the otherwise inert fiber surface without damaging the fibers, thereby enabling a uniform and well-controlled electroless metal coating. Composites prepared using this approach display exceptional EMI shielding performance, exceeding 90 dB. Furthermore, computer simulations were conducted to evaluate the feasibility of applying these modified aramid fiber preforms in larger composite structures. The simulation outcomes are consistent with experimental findings, indicating that the dual-metal Cu/Ni@AF composite delivers outstanding EMI shielding performance. Overall, this method offers a new way to safely modify aramid fibers and paves the way for more sustainable, high-performance shielding materials.}
+}

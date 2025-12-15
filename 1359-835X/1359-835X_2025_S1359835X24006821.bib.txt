@@ -1,0 +1,13 @@
+@article{KHERADPISHEH2025108684,
+title = {A novel compaction roller with variable pressure distribution and contact time for automated fiber placement: Experimental and numerical analysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108684},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108684},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006821},
+author = {Meisam Kheradpisheh and Mehdi Hojjati},
+keywords = {Automated fiber placement, New compaction roller, Altering pressure distribution and contact length, reducing defect, Finite element model},
+abstract = {Automated fiber placement (AFP) technology has gained significant traction due to its adaptability in processing large composite parts with complex geometry. However, a key challenge remains in reducing defects during the layup process to enhance the quality of AFP-manufactured components. This study aims to reduce defect formation in the AFP by introducing a new approach that involves altering the pressure distribution and contact length exerted by the compaction roller during the AFP process. To demonstrate the effectiveness of this approach, the research focuses on out-of-plane defects, commonly known as wrinkle and tape folding deformations, which occur during fiber steering. To address this issue, a new designed compaction roller has been designed and manufactured to provide variable pressure distributions and contact length based on the geometry of the part, unlike traditional rollers. This new roller features a concave shape that adjusts pressure application and contact duration along its length, applying higher pressure for extended periods at the towpreg edges. Finite element (FE) analysis was employed to simulate the roller deformation and pressure distribution, helping to determine the dimensions, particularly the concave radius. A three-part PLA mold was manufactured using the dimensions obtained from the simulations, and polyurethane rollers were produced through casting into the molds. AFP trials were conducted to compare the performance of the new roller against standard compaction rollers. The results demonstrated a 24 percent reduction in wrinkle length with the new roller, highlighting its effectiveness in improving the AFP process.}
+}

@@ -1,0 +1,12 @@
+@article{TIAN2025119167,
+title = {An explicit finite element discrete crack analysis of open hole compression failure in composites},
+journal = {Composite Structures},
+volume = {364},
+pages = {119167},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119167},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003320},
+author = {K. Tian and J. Zhi and V.B.C. Tan and T.E. Tay},
+abstract = {This paper presents a comparative study of implicit and explicit finite element methods in simulating open hole compression (OHC) failure in composite laminates, employing the Discrete Crack Method (DCM) with the Floating Node Method (FNM) for enhanced accuracy in matrix crack modeling. The finite element models are built upon experimental OHC tests of carbon fiber/epoxy laminates with both ply-level and sub-laminate scaling. The models are validated through a series of simulations studying the effects of hole sizes on ultimate strength and damage modes. The FNM allows for accurate tracking of crack initiation and propagation. Additionally, parametric analysis further evaluates the impact of factors such as damping, mass scaling, and matrix cracks spacing on the simulation outcomes. The explicit method shows significant savings in computational times. The study demonstrates the effectiveness of the FNM within the explicit FEM framework for predicting OHC failure in composite laminates with precision and efficiency.}
+}

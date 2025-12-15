@@ -1,0 +1,10 @@
+@article{2025106863,
+title = {Editorial Board},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106863},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/S0045-7930(25)00323-8},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003238}
+}

@@ -1,0 +1,13 @@
+@article{CASTILLOACUNA2025118293,
+title = {Multiphysics modeling of hydrogels with a maximum-entropy-based meshless framework},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118293},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118293},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005651},
+author = {Rodrigo Castillo-Acuna and Dennis M. Kochmann},
+keywords = {Meshless method, Multiphysics, Hydrogel, Swelling, Chemo-mechanical coupling},
+abstract = {Hydrogels are soft, stimuli-responsive materials with attractive applications from soft robotics to biomedical engineering. Their multiphysics nature combined with their ability to undergo large deformation and mechanical instability makes their computational modeling challenging. As a potential remedy, we here introduce a meshless multiphysics framework based on enhanced local maximum-entropy (max-ent) interpolants. This formulation, tailored for hydrogel simulations, leverages the flexibility of the meshless max-ent scheme (without the need to remesh up to large deformation and significant distortion), the robustness of the enhanced local max-ent interpolants, and the physio-mechanically coupled monophasic continuum theory of hydrogels (combining a transient Fickian-type diffusion model with quasistatic finite-strain mechanics). The effectiveness of our approach is verified through a series of benchmark tests, including the free swelling of different hydrogel sample geometries in 3D and the deformation of complex 2D and 3D hollow hydrogel structures. Our results demonstrate that the proposed framework maintains stability up to large deformation and large distortions of the initial geometry, thus making it a promising tool for hydrogel simulations, particularly in applications involving complex geometries made possible by recent advances in hydrogel manufacturing, such as 3D printing.}
+}

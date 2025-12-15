@@ -1,0 +1,12 @@
+@article{TIJANI2025119905,
+title = {Gui-based hybrid ML model for predicting ultimate strength of FRP-confined UHPC with CTGAN-augmented data},
+journal = {Composite Structures},
+pages = {119905},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119905},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010700},
+author = {Ibrahim Tijani and Cheng Jiang},
+keywords = {CTGAN, Explainability, FRP confinement, Machine learning, UHPC},
+abstract = {Fiber-reinforced polymer (FRP)-confined ultra-high-performance concrete (UHPC) is a promising form for advanced structural applications because of its superior mechanical performance and resilience. Meanwhile, consistent prediction models for the ultimate strength of FRP-confined UHPC stays limited, specifically due to the scarcity of sufficient experimental data. Hence, the current study proposes innovative machine learning (ML)-based framework that combines a conditional tabular generative adversarial network (CTGAN) with Optuna, a cutting-edge hyperparameter optimization algorithm, to address limitations of datasets and improve model generality. A processed experimental data consisting of 145 FRP-confined UHPC samples was assembled from the literature and utilized to train the model. Using the augmented dataset, a stacked hybrid ML model integrating multiple algorithms with ridge regression as the meta-learner was developed. The proposed model demonstrated superior predictive performance compared to individual ML models, achieving a correlation coefficient of 0.984 along with consistently low performance error metric. SHAP analysis shown that feature hierarchies between original and augmented datasets were strongly correlated, confirming that CTGAN preserved the input–output relationships. Furthermore, the leave-one-study-out validation demonstrated robust cross-study generalization, with CTGAN-generated data achieving error levels comparable to experimental datasets. Finally, a user-friendly graphical user interface (GUI) was developed for structural design applications.}
+}

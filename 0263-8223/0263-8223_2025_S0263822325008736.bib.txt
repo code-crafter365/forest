@@ -1,0 +1,12 @@
+@article{ROJASSANCHEZ2025119708,
+title = {Synchrotron microtomography results for notched composites under quasi-static and fatigue loading},
+journal = {Composite Structures},
+volume = {373},
+pages = {119708},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119708},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008736},
+author = {J. Fernando {Rojas Sanchez} and Anthony M. Waas and Wooseok Ji and Chaeyoung Hong and Minsu Park},
+abstract = {X-ray computed microtomography (mCT) results, using the high fluxes from a synchrotron source in conjunction with a novel application of digital volume correlation (DVC) is used to study the damage initiation mechanisms in laminated cross-ply composites. This imaging and analysis framework enables to capture 3D deformation within material volumes with high spatial resolution at macroscopic to submicroscopic scales. We present novel high-resolution experimental measurements that show the sequence by which damage is initiated in a notched composite and how damage progresses under quasi-static loading and cyclic loading conditions. These experimental results serve to develop multi-scale modeling methods that provide deformation response and fatigue life estimates accurately. Damage mechanisms and measurements at these length scales are scarce in the literature.}
+}

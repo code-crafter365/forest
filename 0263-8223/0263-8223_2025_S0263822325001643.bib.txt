@@ -1,0 +1,13 @@
+@article{CAMARENA2025118999,
+title = {A critical verification of beam and shell models of wind turbine blades},
+journal = {Composite Structures},
+volume = {360},
+pages = {118999},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118999},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001643},
+author = {Ernesto Camarena and Evan Anderson},
+keywords = {Wind turbine blades, Finite element modeling, Large-deflection, Torsional stiffness, Stress concentrations, Cross section},
+abstract = {Ever-increasing wind turbine size has challenged predictive capabilities on several fronts. To address part of the blade structural modeling uncertainty, a systematic model fidelity comparison study was conducted on commonly used finite elements. pyNuMAD was utilized to create beam, shell, and solid models of a 100 m long blade undergoing large static deflections. The solid model avoided the use of layered-solid elements by resolving core and facesheet layers. An unprecedented model with 73.7 million elements revealed insights that have never been possible from prior experimental and numerical studies. As compared to the solid element model, the tip deflection from the shell and beam model was found to be about 2% and 4.3% too low, respectively. The twist from the beam model was found to be about 5.6% too high, while the twist from shell model was 24% too low, though improvement was demonstrated with mesh refinement. The beam model adhesive stresses were more accurate than the shell model. Out-of-plane stresses were of great significance near geometric and material discontinuities, and neither the shell nor beam model captured these effects well. Failure predictions from beam, shell, or layered-solid models are unlikely to be reliable at trailing edges, adhesives, ply-drops, spar-cap boundaries.}
+}

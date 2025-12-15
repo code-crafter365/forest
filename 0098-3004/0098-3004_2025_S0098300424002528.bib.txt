@@ -1,0 +1,13 @@
+@article{REN2025105769,
+title = {MagTFs: A tool for estimating multiple magnetic transfer functions to constrain Earth’s electrical conductivity structure},
+journal = {Computers & Geosciences},
+volume = {195},
+pages = {105769},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105769},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002528},
+author = {Zhengyong Ren and Zijun Zuo and Hongbo Yao and Chaojian Chen and Linan Xu and Jingtian Tang and Keke Zhang},
+keywords = {Electromagnetic induction, Transfer functions, Mantle electrical conductivity, Geomagnetic data, Ionospheric and magnetospheric sources},
+abstract = {Time-varying magnetic signals measured by geomagnetic observatories and satellites carry information about the Earth’s deep electrical conductivity structure and external current sources in the ionosphere and magnetosphere. Estimating magnetic transfer functions (TFs), which reflect the Earth’s internal conductivity structure, is a primary task in interpreting geomagnetic data from observatories and satellites. However, available TFs estimation tools either focus on a single source (ionosphere currents or magnetosphere currents) or are not publicly accessible. Therefore, we developed a flexible TFs estimation tool, named MagTFs, to achieve robust and precise estimation of magnetic TFs from the time series of magnetic field data acquired through land or satellite-based observations. This tool can handle magnetic data originating from time-varying currents in both the ionosphere and magnetosphere. We tested its performance on four kinds of data sets, and the good agreements with published results underscore the tool’s maturity and versatility in accurately estimating multi-source TFs. As a contribution to the scientific community, we have released MagTFs as an open-source tool, facilitating broader utilization and collaborative advancements.}
+}

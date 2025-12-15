@@ -1,0 +1,13 @@
+@article{WANG2025115050,
+title = {Bacterial cellulose hydrogel incorporating epigallocatechin-3-gallate for improved treatment of third-degree burns},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115050},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115050},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005570},
+author = {Zhongjuan Wang and Ruyue Shi and Mingcong Niu and Cuiman Tang and Shuangjun Li and Xiuhua Zhao},
+keywords = {Bacterial cellulose, Epigallocatechin-3-gallate (EGCG), Third degree burn, Wound healing},
+abstract = {Bacterial cellulose (BC) is highly valued in biomedicine for its exceptional properties, though its lack of antimicrobial activity restricts its effectiveness in wound healing. To address this issue, a hydrogel incorporating epigallocatechin-3-gallate (EGCG) into BC (BCE hydrogel) was developed for treating third-degree burns. The thermal and chemical characteristics of the EGCG-loaded BC were analyzed through differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), and Fourier transform infrared (FTIR) spectroscopy. The antimicrobial efficacy of the BCE hydrogel was confirmed, showing substantial biocidal effects against bacteria in burn wounds. The biocompatibility of the hydrogel was tested in vitro using the 3T3 mouse fibroblast cell line. Additionally, an in vivo wound healing study in female albino Wistar rats demonstrated that wounds treated with the BCE hydrogel healed more rapidly than those treated with BC alone or left untreated. These results indicate that the BCE hydrogel holds significant promise as a natural dressing for burn wound care.}
+}

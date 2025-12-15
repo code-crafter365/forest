@@ -1,0 +1,13 @@
+@article{LI2025117513,
+title = {A novel data-driven framework of elastoplastic constitutive model based on geometric physical information},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117513},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117513},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007679},
+author = {Luyu Li and Zhihao Yan and Shichao Wang and Xue Zhang and Xinglang Fan},
+keywords = {IDD-EP, Geometric physical information, Image-data driven, Earthquake, Elastoplastic constitutive model, Modular strategy},
+abstract = {The advantages of data science have inspired the development of data-driven approaches for solving constitutive modeling problems, which have become a new research focus in engineering mechanics. These approaches help fully utilize the information inherent in the data, bypassing the traditional modeling processes. In order to advance the development of Constitutive Model Based on Data-Driven (CMBDD), we introduced a novel framework called the Geometric Physical Information-enhanced Data-Driven ElastoPlastic constitutive model (IDD-EP) under hysteretic loading paths. IDD-EP adopts an ”Encoder-Decoder” framework, with the information transmission between the encoder and decoder facilitated by the ”Geometric Physical Information” proposed in this paper. Specifically, IDD-EP-I, serving as the encoder, extracts Geometric Physical Information from experimental constitutive images, which is then transmitted to the modular data-driven decoder IDD-EP-II, designed based on physical mechanisms, to compute material responses under arbitrary paths. IDD-EP aims to establish a constitutive model relying solely on a single small sample without using deep learning techniques and avoids the challenge of model parameter fitting in classical models through a non-mathematical model design. In addition to discussing the general framework of IDD-EP, this paper specifically demonstrates a specialized version of the IDD-EP framework based on uniaxial buckling-restrained braces (BRBs), which are commonly used in structural vibration control, in order to showcase a specific implementation example of the IDD-EP model. The IDD-EP method in this paper accurately predicts the mechanical response of the BRB using only one constitutive experimental image, without the need to pre-select a base constitutive model or fit model parameters. This innovative approach to IDD-EP opens a new avenue for constitutive modeling of elastoplastic materials and may offer solutions to a wider range of history-dependent constitutive modeling challenges in the future.}
+}

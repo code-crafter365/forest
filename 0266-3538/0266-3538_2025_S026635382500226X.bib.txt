@@ -1,0 +1,13 @@
+@article{ZHOU2025111258,
+title = {Effective thermal conductivity and elastic modulus of elastomer composites with liquid metal and solid inclusions},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111258},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111258},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500226X},
+author = {Lijun Zhou and Sebastian Bustos-Nuño and Krithika Manohar and Mohammad H. Malakooti},
+keywords = {Liquid metals, Solid-liquid composites, Micromechanics modeling, Thermal conductivity, Mechanical properties},
+abstract = {Embedding a secondary filler phase into liquid metal polymer composites is a promising strategy to enhance the effective properties of these composites and introduce additional functionalities. This study presents a physics-based model, validated through experiments, to predict the thermal conductivity and elastic modulus of elastomers with liquid and solid inclusions. Given the high filler-to-matrix volume ratios typical in these multifunctional composites, the model's accuracy is first confirmed for liquid metal elastomer composites with filler volume fractions exceeding 50 %. It is then extended to composites containing both liquid and solid particles. To investigate the effects of filler phase, size, and volume fraction, we synthesized and characterized three composite types: one with only liquid eutectic gallium-indium droplets, one with only solid zinc oxide particles, and one with both. This comprehensive study of modeling and experimental results, alongside failure strain analysis, provides new insights into the elasticity of functional elastomer composites with mixed filler types.}
+}

@@ -1,0 +1,13 @@
+@article{NASKAR2025105784,
+title = {Spectral whitening based seismic data preprocessing technique to improve the quality of surface wave's velocity spectra},
+journal = {Computers & Geosciences},
+volume = {195},
+pages = {105784},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105784},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042400267X},
+author = {Tarun Naskar and Mrinal Bhaumik and Sayan Mukherjee and Sai Vivek Adari},
+keywords = {Spectral whitening, MASW, Wavefield transform, Velocity spectrum},
+abstract = {A high-quality surface wave velocity spectrum, also known as a dispersion image, is paramount for any MASW survey to accurately predict subsurface earth properties. The presence of diversified noise during field acquisition and dissimilar attenuation due to mechanical and radial damping makes it challenging for any wavefield transformation technique to produce a detailed and precise velocity spectrum. Standard surface wave data preprocessing techniques, such as trace normalization and bandpass filtering, along with postprocessing techniques like frequency-wise amplitude normalization, fail to address all these issues appropriately. In this paper, we present a spectral whitening-based data preprocessing technique that can adequately eradicate most of the shortcomings associated with different wavefield transformation techniques. Instead of normalizing each trace, it normalizes the amplitude of every frequency present in the seismogram. The spectral whitening can regain the relative amplitude losses due to both radial and mechanical damping, thus improving the signal-to-noise ratio. Along with diversified field data including Love and Rayleigh wave surveys, a synthetic dataset is used to demonstrate the efficacy of the proposed technique. Furthermore, field noise is added to random traces to test the ability of the proposed technique to filter asymmetric noise. Overall, the spectral whitening procedure significantly improves the quality of the velocity spectrum and produces a sharper dispersion image with well-separated modes. The work presented here enhances our ability to interpret surface wave velocity spectra precisely and helps explore accurate properties of the subsurface earth. It can help avoid the need for repeated field tests in cases of extremely noisy data, thereby significantly reducing costs and saving time.}
+}

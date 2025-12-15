@@ -1,0 +1,13 @@
+@article{LUO2025114495,
+title = {Self-assembled water soluble and bone-targeting phosphorylated quercetin ameliorates postmenopausal osteoporosis in ovariectomy mice},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114495},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114495},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000025},
+author = {Peng Luo and Yanlong Zhong and Xiaowei Yang and Qi Lai and Shaorong Huang and Xiaoyong Zhang and Bin Zhang and Yen Wei},
+keywords = {Phosphorylated quercetin, Bone-targeting nanomedicine, Osteoporosis treatment},
+abstract = {Natural compounds have shown promising application prospects in preventing or treating various diseases, including osteoporosis on account of their abundant sources, low price, multi-targeting and multiple biological effects. As a bioactive natural product, quercetin (Que) has previously demonstrated to ameliorate osteoporosis (OP), however, its poor bioavailability resulting from low water solubility, poor stability and lack of bone-targeting largely restricted its efficacy and clinical applications. Inspired by the bone-targeting capability of phosphate compounds, we reported a one-step procedure for synthesis of phosphorylated Que (p-Que) by direct phosphorylating phenol groups of Que for the first time. The phosphate groups on p-Que could not only improve the water dispersibility of Que, but also endow p-Que desirable bioavailability and bone-targeting feature. The results from biological assays suggested that p-Que could inhibit osteoclastogenesis and bone resorption and alleviate trabeculae loss in osteoporotic mice. In conclusion, this work demonstrated that phosphorylation strategy can effectively solve low water solubility, lack of bone-targeting capability and poor bioavailability of natural compounds, providing a novel and efficient approach for development of OP nanomedicines.}
+}

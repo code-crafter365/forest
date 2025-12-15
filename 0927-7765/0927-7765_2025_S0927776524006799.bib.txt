@@ -1,0 +1,13 @@
+@article{DAWIT2025114420,
+title = {Fabrication of nanoparticle-reinforced composite hydrogel for improved durability, antifouling, and thrombosis-resistance in arteriovenous grafts},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114420},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114420},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006799},
+author = {Hewan Dawit and Shah Mehmood and Zahid Hussain and Syed Rashedul Islam and Zhili Wang and Yi Cao and Xingzhu Liu and Zixun Wang and Renjun Pei},
+keywords = {Vascular graft, Nanohybrid hydrogel, Antifouling, Anti-thrombosis, Blood contacting device},
+abstract = {Arteriovenous grafts are routinely designed to provide a deliberate connection between an artery and vein in patients during hemodialysis. The commonly used grafts present significant drawbacks such as thrombosis, bacterial infection, and biofouling which prevents their functionality. To endow hydrogels with improved anti-thrombosis, stable antifouling, and strong mechanical strength, a surface-modified nanoparticle-reinforced nanohybrid hydrogel is developed. In brief, zwitterionic sulfobetaine methacrylate (SBMA) is coated on bentonite clay (BC) nanoparticles via a simple method. BC-SBMA nanoparticles were then loaded onto sodium alginate /polyvinyl alcohol hydrogel composite. Calcium chloride (Ca2+) crosslinking is employed to form stable network and optimize polyvinyl alcohol/sodium alginate (PS) hydrogel composite. BC-SBMA particles were dispersed into PS hydrogel and crosslinked to form nanohybrid hydrogel (PS@BC-SBMA). The nanohybrid hydrogel was characterized for its morphological, mechanical, physicochemical, antibacterial, biocompatibility, antifouling, ex-vivo anti-thrombogenic, and in-vivo anti-inflammatory properties. The results revealed that the presence ofBC-SBMA particles boosted the mechanical strength and facilitated biocompatibility. The presence of zwitterionic polymers provided excellent antifouling properties toward blood platelets, unnecessary proteins, and bacterial strains. Hence, the cooperative effects of the nanohybrid hydrogel such as biocompatibility, antifouling, and mechanical properties lead to a desirable candidate for blood-contacting implants.}
+}

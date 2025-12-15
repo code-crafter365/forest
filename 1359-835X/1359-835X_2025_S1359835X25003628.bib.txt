@@ -1,0 +1,13 @@
+@article{HU2025109068,
+title = {Bioinspired coral-like FeC/C nanofibers networks for enhanced microwave absorption and multifunctional protection properties of polyurea coatings},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109068},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109068},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003628},
+author = {Jinhu Hu and Jialin Jiang and Qianlong Li and Jin Cao and Xiuhong Sun and Siqi Huo and Zhaolu Qin and Ye-Tang Pan},
+keywords = {Bionic structure, Electrospinning, Microwave absorption, Polyurea composite},
+abstract = {With the rapid development of electronic communication technology, the issue of electromagnetic pollution has become increasingly prominent. Developing multifunctional protective materials that combine efficient electromagnetic microwave (EMW) absorption with environmental durability is of great significance. Inspired by the multi-branched structure of coral, this study successfully fabricated FeC/C nanofiber EMW absorbers with a coral-like network structure through electrospinning and carbonization processes and applied them to polyurea (PUA) coatings. The microstructure, electromagnetic parameters, and performance modulation mechanisms of the materials were systematically investigated. The results indicate that the bioinspired coral-like network structure optimizes multiple scattering paths of EMW and impedance matching characteristics, enabling FeC/C nanofibers to exhibit excellent EMW absorption performance, with a minimum reflection loss (RLmin) of −67.24 dB at a thickness of 1.82 mm and an effective absorption bandwidth (EAB) of 5.24 GHz. When applied to PUA coatings, this structure not only significantly enhances the EMW absorption performance of the composites (with P-30 exhibiting a RLmin of −62.67 dB at 2.0 mm and an EAB of 6.22 GHz), but also imparts hydrophobic properties to the P-40 sample by constructing a micro/nano-scale rough surface. Meanwhile, the mechanical properties are notably improved, with the tensile strength of P-40 reaching 23.04 MPa and the tear strength of P-20 reaching 41.73 MPa. This study provides new design insights and technical references for the development of novel bioinspired multifunctional coating materials that integrate electromagnetic protection, environmental durability, and mechanical strength.}
+}

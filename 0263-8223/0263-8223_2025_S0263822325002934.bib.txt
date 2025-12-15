@@ -1,0 +1,13 @@
+@article{LIU2025119128,
+title = {Investigation of temperature and structural configuration effects on the mechanical properties of CFRP bolted joints},
+journal = {Composite Structures},
+volume = {362},
+pages = {119128},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119128},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002934},
+author = {Xiaodong Liu and Kai Huang and Xiaojian Han and Jindi Zhou and Li Zhang and Licheng Guo},
+keywords = {Plain-woven composite, Bolted joint, Damage mode identification, Damage initiation, Temperature effect},
+abstract = {Composite bolted joints are extensively employed in structural applications and have garnered notable interest in composite component design. This research examined how temperature, hole size, and washer configuration influence the composite bolted joint’s tensile properties, using 3D digital image correlation (DIC) and acoustic emission (AE) methods. The study analyzed load–displacement response, surface strain evolution, damage mode characterization, and damage initiation of joint throughout the tensile testing. The strain and displacement fields of the joint surfaces effectively revealed the competing evolution mechanisms between axial tensile effect and secondary bending effect. The k-means++ clustering algorithm and sentry function were employed to accurately identify damage modes and initiation in the joints. The results indicate that temperature, hole diameter, and washer configuration significantly influence joint strength, with the dominance of axial tensile effects and secondary bending effects varying depending on the load level. Double-sided washers delay damage initiation, while an increase in hole diameter causes damage to initiate earlier. High temperatures significantly delay the initiation of various damage modes.}
+}

@@ -1,0 +1,13 @@
+@article{DISFANI2025102340,
+title = {Comparative global epidemiology and species distribution of Sarcocystis spp. in new and old world camelids: A systematic review and meta-analysis},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {120},
+pages = {102340},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102340},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000487},
+author = {Reza Ataee Disfani and Ali Asghari and Ali Pouryousef and Laya Shamsi and Amir Farzam and Mohammad Ghafari-Cherati and Behzad Bijani and Farajolah Maleki},
+keywords = { spp., Camels, Camelids, Epidemiology, Systematic review, Meta-analysis},
+abstract = {This study aimed to investigate the global prevalence, species diversity, and geographical distribution of Sarcocystis spp. in Old World Camelids (OWCs) and New World Camelids (NWCs). A comprehensive literature search was conducted across multiple databases, covering studies up to December 22, 2024. The analysis included 36 studies (28 on OWCs and 8 on NWCs), comprising data from 5942 camelids (4850 OWCs and 1092 NWCs) across 13 countries in three continents. A random-effects model was used to estimate pooled prevalence rates, and heterogeneity was assessed using the I² statistic. The overall prevalence of Sarcocystis spp. in camelids was 57.7 % (95 % CI: 49.4–65.6 %). NWCs exhibited a significantly higher pooled prevalence (77.6 %, 95 % CI: 55–90.8 %) compared to OWCs (55.1 %, 95 % CI: 46.4–63.6 %). The highest regional pooled prevalence was observed in South America (82.3 %), particularly in the WHO AMR region (82.3 %), with Peru reporting the highest pooled prevalence at 99.3 %. The oesophagus was the most frequently infected tissue. Four valid Sarcocystis species were identified in camelids: S. cameli and S. ippeni in OWCs, and S. aucheniae and S. masoni in NWCs. Many positive samples were classified only as Sarcocystis spp. Although none of these species poses a zoonotic risk, some like S. cameli and S. aucheniae are particularly significant due to their economic and veterinary impact on camelids. Their ability to form macroscopic cysts can negatively affect meat quality, leading to considerable economic losses in the camel industry. Targeted surveillance and control measures are recommended, particularly in high-prevalence regions.}
+}

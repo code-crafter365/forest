@@ -1,0 +1,13 @@
+@article{ZHANG2025103888,
+title = {Face2Wear: An automatic and user-friendly facewear personalization framework with 3D symmetry-aware face registration using RGB-D selfies},
+journal = {Computer-Aided Design},
+volume = {185},
+pages = {103888},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103888},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000508},
+author = {Jie Zhang and Luwei Chen and Hang Ren and Yan Luximon and Ping Li},
+keywords = {Facewear personalization, RGB-D selfies capture, 3D symmetry-aware face registration},
+abstract = {The realm of personalized human wearable has undergone significant evolution. However, existing methodologies often lack in addressing crucial factors essential for comprehensive facewear customization, including automation, accuracy, convenience, and comfort. To bridge this gap, we propose an automated and user-friendly approach for ergonomic facewear personalized based on 3D face modeling and registration. Our approach involves the development of a user-friendly 3D face scanning technique utilizing RGB-D selfies captured by smartphone depth cameras, simplifying the process of personal data collection. Subsequently, we present a precise 3D symmetry-aware face registration method integrated with automatic facial landmark detection to produce parameterized 3D facial meshes featuring accurate symmetry panels. Additionally, we introduce a comfort-centric eyeglasses customization process to showcase its practical applications. Qualitative and quantitative comparisons with state-of-the-art techniques highlight the efficacy of our symmetry-aware registration method. Experimental findings also showcase the versatility of our approach across various scanning data. Evaluation results underscore the practical utility of our method in creating personalized eyeglasses with significantly enhanced comfort levels. Moreover, our method can be extended to other symmetric facewear designs, such as sunglasses, swimming goggles, and respirators.}
+}

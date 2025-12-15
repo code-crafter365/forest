@@ -1,0 +1,13 @@
+@article{JADOON2025117653,
+title = {Automated model discovery of finite strain elastoplasticity from uniaxial experiments},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117653},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117653},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009071},
+author = {Asghar Arshad Jadoon and Knut Andreas Meyer and Jan Niklas Fuhg},
+keywords = {Physics-augmented neural networks, Solid mechanics, Machine learning, Nonlinear kinematic hardening, Data-driven constitutive models, Finite strain plasticity},
+abstract = {Constitutive modeling lies at the core of mechanics, allowing us to map strains onto stresses for a material in a given mechanical setting. Historically, researchers relied on phenomenological modeling where simple mathematical relationships were derived through experimentation and curve fitting. Recently, to automate the constitutive modeling process, data-driven approaches based on neural networks have been explored. While initial naive approaches violated established mechanical principles, recent efforts concentrate on designing neural network architectures that incorporate physics and mechanistic assumptions into machine-learning-based constitutive models. For history-dependent materials, these models have so far predominantly been restricted to small-strain formulations. In this work, we develop a finite strain plasticity formulation based on thermodynamic potentials to model mixed isotropic and kinematic hardening. We then leverage physics-augmented neural networks to automate the discovery of thermodynamically consistent constitutive models of finite strain elastoplasticity from uniaxial experiments. We apply the framework to both synthetic and experimental data, demonstrating its ability to capture complex material behavior under cyclic uniaxial loading. Furthermore, we show that the neural network enhanced model trains easier than traditional phenomenological models as it is less sensitive to varying initial seeds. Our model’s ability to generalize beyond the training set underscores its robustness and predictive power. By automating the discovery of hardening models, our approach eliminates user bias and ensures that the resulting constitutive model complies with thermodynamic principles, thus offering a more systematic and physics-enforced framework.}
+}

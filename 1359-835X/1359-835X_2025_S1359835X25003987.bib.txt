@@ -1,0 +1,13 @@
+@article{YANG2025109104,
+title = {Significantly Boosted High-Temperature energy storage of polyetherimide film induced by BaTiO3/Al2O3/Ag composites nanofibers},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109104},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109104},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003987},
+author = {LiHao Yang and QingYang Tang and ShuiMiao Xia and Jie Huang and GuanFei Liu and XuYuan Fan and Davoud Dastan and ZhiCheng Shi},
+keywords = {Polymer dielectrics, High-temperature properties, Breakdown strength, Composite materials},
+abstract = {Polymer dielectrics are essential materials for next − generation power systems. However, they suffer from low energy density and poor breakdown performance at high temperatures, which restricts their application in high-temperature fields. The BaTiO3/Al2O3/Ag nanofibers (BT/AO/Ag NFs) were fabricated via electrospinning as nanofillers to boost the high-temperature energy storage of polyetherimide (PEI) composites. Experiments and finite electric field simulations demonstrate that combining high permittivity BaTiO3, highly insulating Al2O3, and metallic Ag improves the dielectric permittivity and breakdown strength of PEI composites at high temperatures. Remarkably, the composite film incorporating merely 0.3 wt% BT/AO/Ag NFs achieves an ultra − high energy density of 9.047 J cm−3 at 200 ℃, representing a 147 % enhancement compared to pure PEI and surpassing most polymer composites filled with alternative nanofillers. Furthermore, this composite exhibits outstanding charge–discharge cycling stability (>100,000 cycles at 200 MV m−1) and superior power density (>1.145 MW cm−3) at 200 ℃, positioning it as an ideal candidate for high-temperature capacitor applications. The work indicates that this nanofiber architectural design not only provides an effective strategy for developing high-temperature dielectric composites, but also shows great potential in next − generation dielectric capacitors.}
+}

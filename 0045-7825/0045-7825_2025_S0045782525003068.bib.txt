@@ -1,0 +1,13 @@
+@article{SELLMANN2025118034,
+title = {Goal-oriented dual-weighted residual error estimation for the Virtual Elements Method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118034},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118034},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003068},
+author = {C. Sellmann and P. Junker},
+keywords = {Virtual Elements, Goal-Oriented DWR error estimation, Adaptivity},
+abstract = {Goal-oriented a posteriori error estimation is crucial for solving partial differential equations (PDEs) efficiently and reliably. The Virtual Element Method (VEM) shows promise in this context due to its ability to handle general polygonal elements, eliminating the need for special treatment of hanging nodes. However, a suitable framework for goal-oriented error estimation in VEM has not been developed so far. This work addresses this gap by deriving an appropriate estimator formulation for linear PDEs using VEM. We tackle two key challenges for first-order Virtual Elements: approximating virtual basis functions within elements and efficiently approximating the exact adjoint solution, where standard methods used for finite element approximations are not suitable. To overcome these challenges, we introduce new techniques, including the Gauss-Point Reconstruction Method (GPRM). Our theoretical developments are verified through diverse numerical experiments, demonstrating their correctness and effectiveness. We further showcase the practical utility of our framework through its application to adaptive mesh refinement, which enhances solution accuracy while optimizing computational resources. This work lays the foundation for extending goal-oriented error estimation to more complex problems using VEM.}
+}

@@ -1,0 +1,13 @@
+@article{DISTELFELD2025119679,
+title = {Efficient multi-objective optimization of composite microstructures for thermal protection systems},
+journal = {Composite Structures},
+volume = {373},
+pages = {119679},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119679},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500844X},
+author = {Idan Distelfeld and Shmuel Osovski},
+keywords = {Multi-objective optimization, Homogenization, Parametric design, Machine learning},
+abstract = {This paper presents a surrogate model-based approach for multi-objective optimization of composite representative volume elements under thermo-mechanical loading. The RVE architecture, inspired by metallic honeycomb structures with inclined fibers, allows tailoring the anisotropy of thermal and mechanical properties. A parametric model is analyzed using Finite Element Analysis with periodic boundary conditions and homogenization theory. The 10-dimensional design space is sampled using Latin Hypercube Sampling, and simulated to calculate effective elastic moduli and thermal conductivity. This dataset is used to train a shallow neural network (SNN) model, offering computational efficiency and rapid exploration of complex design spaces. The SNN is employed in a multi-objective optimization process using the NSGA-II algorithm, allowing simultaneous optimization of elastic properties, thermal conductivity, and density. This reveals trade-offs between competing objectives, with resulting Pareto frontiers providing crucial information for informed design decisions. The method demonstrates a fast, accurate, and flexible approach for optimizing composite architectures. Combining advanced modeling techniques with efficient optimization algorithms, this work contributes to developing lightweight, multifunctional materials for aerospace, automotive, and other demanding applications. The approach has significant implications for optimizing composite materials in complex structures, advancing the state-of-the-art in composite materials research and providing a powerful tool for high-performance material design.}
+}

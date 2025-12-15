@@ -1,0 +1,13 @@
+@article{GUO2025114372,
+title = {Facultative probiotics enable improved tumor distribution and deep penetration of photosensitizer for enhanced photodynamic therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114372},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114372},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006313},
+author = {Yuxin Guo and Peipei Wan and Yue Xu and Siqin Zhang and Chenhui Li and Yueying Wang and Weili Heng and Wenjun Miao},
+keywords = {Photodynamic therapy, Facultative probiotics,  Nissle 1917, Tumor distribution and penetration},
+abstract = {Photodynamic therapy (PDT) is an emerging cancer therapy known for its non-invasive approach and minimal side effects. However, the clinical effectiveness of PDT is limited by the poor distribution and penetration of photosensitizers (PS) in tumors. In this research, we developed a novel delivery system for PS, termed EWC, using the facultative probiotic Escherichia coli Nissle 1917 (EcN) as a carrier. Chlorin e6 (Ce6) was electrostatically adsorbed onto the surface of EcN with the assistance of water-soluble chitosan (WCS). EWC demonstrated effective photodynamic activity and was readily internalized by human lung cancer cells (A549). In vitro assays confirmed its low toxicity to mammalian cells and potent photodynamic cytotoxicity against A549 cells. Additionally, EWC penetrated tumor spheroids and inhibited their growth, as shown by 3D fluorescence imaging. In vivo tests revealed that EWC enhanced the distribution and accumulation of Ce6 at the tumor site, effectively inhibiting tumor growth under light stimulation. Moreover, EWC exhibited excellent biocompatibility in mice. This facultative probiotics-based delivery system significantly improves the efficiency of PDT, offering a promising approach for low-toxicity and high-efficiency tumor therapy.}
+}

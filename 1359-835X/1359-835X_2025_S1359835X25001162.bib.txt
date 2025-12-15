@@ -1,0 +1,13 @@
+@article{KHAN2025108822,
+title = {In-plane waviness parameterisation from in-factory photographs of non-crimp fabrics},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108822},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108822},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001162},
+author = {Umeir Khan and Vincent K. Maes and Robert Hughes and Jon Wright and Petar Zivkovic and Turlough McMahon and James Kratz},
+keywords = {B. Defects, D. Non-destructive testing, E. Forming, Deep learning},
+abstract = {Applying a Deep Learning-based framework has enabled macroscale waviness of Non-Crimp Fabric preforms to be quantified through analysis of in-factory photographs in a fast (∼45 s total processing time per photo) and straightforward way. Historically, image processing techniques, i.e. 2D Fast Fourier Transforms have been used to trace waviness. However, these approaches show shortcomings when applied to visually-complex surfaces, i.e. stitched preforms. In this study, a U-Net model was trained to segment tow and gap regions from in-factory photographs. Applying the model enabled waviness tracings that were then numerically parameterisation. Further stress-testing of the technique was used to interrogate the waviness in (a) visually-similar photographs, and (b) those obtained with compromised imaging conditions. The key finding from this study is that Deep Learning has shown potential in enabling a rapid and cost-effective form of quantitative inspection.}
+}

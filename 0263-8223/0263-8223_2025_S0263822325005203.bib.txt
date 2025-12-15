@@ -1,0 +1,13 @@
+@article{TIAN2025119355,
+title = {Variable-fidelity optimization method with dynamic search space reduction for variable stiffness composite cylinders},
+journal = {Composite Structures},
+volume = {370},
+pages = {119355},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119355},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005203},
+author = {Kuo Tian and Zhiyong Sun and Tianhe Gao and Chong Liu},
+keywords = {Variable stiffness composite cylinders, Multiple manufacturing constraints, Dynamic search space reduction, Variable-fidelity surrogate model, Optimization design},
+abstract = {Incorporating multiple manufacturing constraints leads to a highly nonlinear and non-convex feasible design space for variable stiffness composite (VSC) cylinders, significantly increasing the difficulty and computational cost associated with achieving optimization design. To enhance the global optimization capability within this complex constrained design space, a novel variable-fidelity surrogate model with dynamic search space reduction (VFSM-DSSR) is introduced in this paper. Firstly, a mathematical description method of multiple manufacturing constraints is presented for VSC cylinders to ensure the manufacturability of fibers, establishing the constraint conditions for subsequent optimization. Particularly, the fiber path divergence formula for cylindrical structures is derived for the first time. Furthermore, an optimization framework based on VFSM-DSSR is established consisting of a two-stage search space reduction strategy. In the first stage, a pre-screening of search space is carried out using the Fuzzy C-means Clustering algorithm and a low-fidelity surrogate model. This allows for a rapid identification of the high-potential search space while considering multiple constraints. Subsequently, in the second stage, a local high-precision VFSM is constructed within the initial reduced search space. Then, a dynamic search space reduction strategy is introduced through search space shifting and scaling, which helps avoid falling in local optima and enhance the global optimization capability. Finally, to verify the effectiveness of the proposed method, an optimization example of a VSC cylinder under multiple manufacturing constraints is conducted. Results indicate that with comparable computational cost, the VFSM-DSSR method achieves a significant improvement in the buckling load of the VSC cylinder. Specifically, it outperforms the direct surrogate-based optimal result within the original design space by over 22.22%.}
+}

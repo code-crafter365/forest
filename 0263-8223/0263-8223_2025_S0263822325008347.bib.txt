@@ -1,0 +1,13 @@
+@article{LIU2025119669,
+title = {Multilevel homogenization framework for equivalent elastic properties of TSV heterostructures: integrating theoretical modeling and micromechanical FEM},
+journal = {Composite Structures},
+volume = {373},
+pages = {119669},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119669},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008347},
+author = {Jian Liu and Xiaojing Zheng and Qingya Li},
+keywords = {Through-Silicon Via, Orthotropy, Equivalent Material Properties, Multilevel Homogenization, Micromechanics Finite Element Method},
+abstract = {This study presents a hetero-structured interposer incorporating complete Through-Silicon Vias (TSVs) with functional barriers and insulating layers. A multiscale homogenization framework is developed to characterize the mechanical behavior of TSV architectures, explicitly considering constitutive relationships among constituent materials to capture intrinsic heterogeneities affecting macroscale interposer performance. The proposed methodology combines elastic mechanics theory with micromechanical finite element analysis to calculate equivalent elastic constants and thermal expansion coefficients of TSV assemblies through a representative volume element model. Numerical validation demonstrates maximum discrepancies of 13.16% between theoretical predictions and finite element simulations when scaling TSV copper core diameters from 0.1 mm to 0.6 mm. Parametric analysis reveals significant orthotropic effects: modeling silicon as isotropic induces substantial errors (42.94%) in equivalent properties compared to orthotropic treatment, emphasizing the critical need to account for crystalline orientation in TSV mechanical analysis. The homogenization framework successfully predicts the bending deformation and free vibration responses of TSV-embedded interposers under clamped boundary conditions. Comparative assessments show excellent agreement between theoretical and numerical results, with displacement errors below 8% and natural frequency deviations within 5%, confirming the model’s accuracy in capturing global structural behavior. This methodology establishes a validated computational framework for TSV reliability assessment in 3D integrated circuits, achieving less than 15% prediction errors that meet industrial accuracy requirements. The demonstrated capability to resolve interfacial stress interactions while maintaining computational efficiency positions this approach as a critical tool for advanced packaging optimization.}
+}

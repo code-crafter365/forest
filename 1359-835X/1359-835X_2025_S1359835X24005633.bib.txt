@@ -1,0 +1,13 @@
+@article{ZHAO2025108565,
+title = {Hierarchical hollow MnO/carbon fiber@WS2 composite material exhibits strong wideband electromagnetic wave attenuation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108565},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108565},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005633},
+author = {Xiaoxiao Zhao and Ying Huang and Huiyang Jiang and Xudong Liu and Xiaofang Ma and Panbo Liu and Meng Zong},
+keywords = {Microwave absorption, WS, Carbon fiber, Hollow structure},
+abstract = {Constructing multi-layer heterogeneous interfaces has been studied as one of the important means to optimize electromagnetic wave absorption performance. WS2, as a special layered material with high specific surface area and multiple anionic vacancies, although its multi-layered interface structure cannot meet the requirements of all absorbing materials, composite absorbers designed through composition and structure are undoubtedly not one of the strategies to improve absorption bandwidth. In this study, we utilized the defect rich characteristics of WS2 Nano flowers and designed a multi-layer core–shell MnO/CF@WS2 (H-MCW) hybrid materials using carbon fiber (CF) as a carrier to provide a carbon source. The core cavity of H-MCW is conducive to multiple scattering of electromagnetic waves, with a large number of defects leading to an increase in electrochemical active sites in the material, and enhanced dipoles helping to improve impedance matching. This work provides a new method for designing lightweight thin film absorbing materials.}
+}

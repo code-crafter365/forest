@@ -1,0 +1,13 @@
+@article{BADIA2025118343,
+title = {A velocity-vorticity-pressure formulation for the steady Navier–Stokes–Brinkman–Forchheimer problem},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118343},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118343},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006152},
+author = {Santiago Badia and Carsten Carstensen and Alberto F. Martín and Ricardo Ruiz-Baier and Segundo Villa-Fuentes},
+keywords = {Navier–Stokes–Brinkman–Forchheimer equations, Pressure robustness, Nonconforming finite elements, Banach fixed-point theory, A priori and a posteriori error estimates},
+abstract = {The flow of incompressible fluid in highly permeable porous media in vorticity - velocity - Bernoulli pressure form leads to a double saddle-point problem in the Navier–Stokes–Brinkman–Forchheimer equations. The paper establishes, for small sources, the existence of solutions on the continuous and discrete level of lowest-order piecewise divergence-free Crouzeix–Raviart finite elements. The vorticity employs a vector version of the pressure space with normal and tangential velocity jump penalisation terms. A simple Raviart–Thomas interpolant leads to pressure-robust a priori error estimates. An explicit residual-based a posteriori error estimate allows for efficient and reliable a posteriori error control. The efficiency for the Forchheimer nonlinearity requires a novel discrete inequality of independent interest. The implementation is based upon a light-weight forest-of-trees data structure handled by a highly parallel set of adaptive mesh refining algorithms. Numerical simulations reveal robustness of the a posteriori error estimates and improved convergence rates by adaptive mesh-refining.}
+}

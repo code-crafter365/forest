@@ -1,0 +1,13 @@
+@article{XIE2025119308,
+title = {A viscoelastic micromechanical damage model for multiphase porous composites: Model development and application},
+journal = {Composite Structures},
+volume = {368},
+pages = {119308},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119308},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004738},
+author = {Rui Xie and Qing Liu and Mingzhu Qiu and Peng Cao and Zhifei Tan and Liang Cao and Guizhu Zhang},
+keywords = {Micromechanical model, Multiphase porous composites, Micromechanics, Viscoelastic, Damage constitutive model},
+abstract = {Multiphase porous composites are widely used in engineering applications, but their complex microstructure poses significant challenges in predicting their mechanical performance. To address this issue, a novel viscoelastic micromechanical damage constitutive model for multiphase porous composites is proposed. The model comprehensively incorporates the material’s multiphase heterogeneity, random damage evolution, and viscoelastic properties. Specifically, the composite is represented using an (n + 1) phase model, with the viscoelastic behavior of the matrix characterized by the Prony series, and the random damage evolution modeled using both Log-normal and Weibull distributions. The model’s validity is confirmed through uniaxial compression test results on asphalt-calcareous sand mixtures with varying asphalt content and calcareous sand gradations. Additionally, sensitivity analyses are conducted on key parameters, including aggregate modulus, asphalt modulus, asphalt content, air voids content, particle size, viscous parameters, strain rate and damage statistical parameters. The results reveal that enhancing the strength of calcareous sand, selecting stiffer asphalt, and reducing asphalt and air void contents effectively improve the strength of asphalt-calcareous sand mixtures. This developed model provides a robust framework for predicting the mechanical performance of various types of multiphase porous composites, expanding its potential applications in engineering practice.}
+}

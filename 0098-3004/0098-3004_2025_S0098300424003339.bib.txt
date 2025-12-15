@@ -1,0 +1,13 @@
+@article{ZHANG2025105850,
+title = {An optimized 2D/3D finite-difference seismic wave propagator using rotated staggered grid for complex elastic anisotropic structures},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105850},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105850},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003339},
+author = {Oumeng Zhang and Douglas R. Schmitt},
+keywords = {Elastic wave propagation, Anisotropy, Modeling, Finite-difference},
+abstract = {The synergy of computing power and physical simulation has enabled deeper insights into geological processes and properties. In geophysics, seismic anisotropy is one such crucial yet often oversimplified property, where wave propagation velocity varies with direction. To simulate the seismic wave propagation in complex anisotropic media, the rotated staggered grid (RSG) scheme was introduced decades ago. However, publicly available software for this purpose has been scarce. To address this gap, we present a newly implemented wave solver, integrated with the open-source finite-difference package Devito, that supports the simulation of seismic wave propagation in both 2D and 3D complex anisotropic media at variable spatial orders. Our implementation includes strategies to mitigate checkerboard artifacts and optimizations to reduce the number of derivative operations, thereby enhancing performance and efficiency. This wave solver aims to assist the geophysics community in more accurately modeling seismic wave propagation in intricate materials, ultimately improving our understanding of geological processes, physical properties of earth material, and subsurface structures.}
+}

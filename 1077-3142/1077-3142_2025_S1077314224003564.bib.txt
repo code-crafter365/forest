@@ -1,0 +1,13 @@
+@article{KOURBANE2025104275,
+title = {SSL-Rehab: Assessment of physical rehabilitation exercises through self-supervised learning of 3D skeleton representations},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104275},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104275},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003564},
+author = {Ikram Kourbane and Panagiotis Papadakis and Mihai Andries},
+keywords = {Rehabilitation, Quality score assessment, Self-supervised learning, Transfer learning, Graph convolutional networks, Transformer},
+abstract = {Rehabilitation aims to assist individuals in recovering or enhancing functions that have been lost or impaired due to injury, illness, or disease. The automatic assessment of physical rehabilitation exercises offers a valuable method for patient supervision, complementing or potentially substituting traditional clinical evaluations. However, acquiring large-scale annotated datasets presents challenges, prompting the need for self-supervised learning and transfer learning in the rehabilitation domain. Our proposed approach integrates these two strategies through Low-Rank Adaptation (LoRA) for both pretraining and fine-tuning. Specifically, we train a foundation model to learn robust 3D skeleton features that adapt to varying levels of masked motion complexity through a three-stage process. In the first stage, we apply a high masking ratio to a subset of joints, using a transformer-based architecture with a graph embedding layer to capture fundamental motion features. In the second stage, we reduce the masking ratio and expand the model’s capacity to learn more intricate motion patterns and interactions between joints. Finally, in the third stage, we further lower the masking ratio to enable the model to refine its understanding of detailed motion dynamics, optimizing its overall performance. During the second and third stages, LoRA layers are incorporated to extract unique features tailored to each masking level, ensuring efficient adaptation without significantly increasing the model size. Fine-tuning for downstream tasks shows that the model performs better when different masked motion levels are utilized. Through extensive experiments conducted on the publicly available KIMORE and UI-PRMD datasets, we demonstrate the effectiveness of our approach in accurately evaluating the execution quality of rehabilitation exercises, surpassing state-of-the-art performance across all metrics. Our project page is available online.}
+}

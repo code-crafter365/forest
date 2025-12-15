@@ -1,0 +1,13 @@
+@article{REN2025104419,
+title = {MSCA: A few-shot segmentation framework driven by multi-scale cross-attention and information extraction},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104419},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104419},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001420},
+author = {Zhihao Ren and Shengning Lu and Xinhua Wang and Yaoming Liu and Yong Liang},
+keywords = {Few-shot semantic segmentation, Semantic segmentation, Few-shot learning, Computer vision},
+abstract = {Few-Shot Semantic Segmentation (FSS) aims to achieve precise pixel-level segmentation of target objects in query images using only a small number of annotated support images. The main challenge lies in effectively capturing and transferring critical information from support samples while establishing fine-grained semantic associations between query and support images to improve segmentation accuracy. However, existing methods struggle with spatial alignment issues caused by intra-class variations and inter-class visual similarities, and they fail to fully integrate high-level and low-level decoder features. To address these limitations, we propose a novel framework based on cross-scale interactive attention mechanisms. This framework employs a hybrid mask-guided multi-scale feature fusion strategy, constructing a cross-scale attention network that spans from local details to global context. It dynamically enhances target region representation and alleviates spatial misalignment issues. Furthermore, we design a hierarchical multi-axis decoding architecture that progressively integrates multi-resolution feature pathways, enabling the model to focus on semantic associations within foreground regions. Experimental results show that our Multi-Scale Cross-Attention (MSCA) model performs exceptionally well on the PASCAL-5i and COCO-20i benchmark datasets, achieving highly competitive results. Notably, the model contains only 1.86 million learnable parameters, demonstrating its efficiency and practical applicability.}
+}

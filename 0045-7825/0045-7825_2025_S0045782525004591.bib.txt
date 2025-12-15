@@ -1,0 +1,13 @@
+@article{ZOU2025118187,
+title = {MAT-parameterization: Volumetric multi-patch parameterizations of complex domains for isogeometric analysis using MAT-based decomposition},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118187},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118187},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004591},
+author = {Ruijie Zou and Maodong Pan and Ye Zheng and Falai Chen and Weihua Tong},
+keywords = {Volumetric multi-patch parameterization, Domain decomposition, Medial axis transform, Isogeometric analysis},
+abstract = {Constructing volumetric spline parameterizations for physical domains from their given boundary representations is a crucial step in isogeometric analysis. However, this task remains challenging, particularly for complex geometries. This paper presents a novel multi-patch volumetric parameterization method specifically designed for complex domains with arbitrary topologies. The new method unfolds in two main stages: First, the input complex domain is decomposed into structurally meaningful patches using information from its medial axis transform (MAT). This process includes simplifying the extracted MAT, refining the curve skeleton, segmenting the MAT, optimizing boundary cuts, and performing domain decomposition. Second, constructing C0 multi-patch parameterizations of the physical domain, which involves establishing boundary correspondence, ensuring C0 continuity between adjacent surfaces, and computing high-quality single-patch parameterizations. Various tested examples and the comparisons with a state-of-the-art approach demonstrate the capability and superiority of the proposed method.}
+}

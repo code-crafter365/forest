@@ -1,0 +1,13 @@
+@article{SHIH2025117560,
+title = {Transformers as neural operators for solutions of differential equations with finite regularity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117560},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117560},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008144},
+author = {Benjamin Shih and Ahmad Peyvan and Zhongqiang Zhang and George Em Karniadakis},
+keywords = {Neural operators, Riemann problems, Tempered fractional neuron models, Operator learning},
+abstract = {Neural operator learning models have emerged as very effective surrogates in data-driven methods for partial differential equations (PDEs) across different applications from computational science and engineering. Such operator learning models not only predict particular instances of a physical or biological system in real-time but also forecast classes of solutions corresponding to a distribution of initial and boundary conditions or forcing terms. DeepONet is the first neural operator model and has been tested extensively for a broad class of solutions, including Riemann problems. Transformers have not been used in that capacity, and specifically, they have not been tested for solutions of PDEs with low regularity. In this work, we first establish the theoretical groundwork that transformers possess the universal approximation property as operator learning models. We then apply transformers to forecast solutions of diverse dynamical systems with solutions of finite regularity for a plurality of initial conditions and forcing terms. In particular, we consider three examples: the Izhikevich neuron model, the tempered fractional-order Leaky Integrate-and-Fire (LIF) model, and the one-dimensional Euler equation Riemann problem. For the latter problem, we also compare with variants of DeepONet, and we find that transformers outperform DeepONet in accuracy but they are computationally more expensive.}
+}

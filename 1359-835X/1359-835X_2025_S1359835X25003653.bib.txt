@@ -1,0 +1,13 @@
+@article{LI2025109071,
+title = {A heat-transfer-inhibition strategy without compromising strengths for nanoporous phenolic composites: Designing hybrid carbon cloth/quartz felt needle-punched fabrics},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109071},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109071},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003653},
+author = {Yaolan Li and Bo Niu and Hongxiang Cai and Xuanfeng Zhang and Xiaofei Zhu and Yu Cao and Yayun Zhang and Donghui Long},
+keywords = {Polymer-matrix composites (PMCs), Thermal properties, Mechanical properties, CT analysis},
+abstract = {Phenolic-based composites have great application prospects in the field of ablative thermal protection materials, but the optimization of their thermal insulation performance is generally at the expense of mechanical properties. Herein, an innovative strategy is proposed to improve thermal insulation without compromising strengths by reinforcing nanoporous phenolic with hybrid carbon cloth/quartz felt needle-punched fabrics. By moderately replacing carbon felt in the needle-punched carbon fabrics with quartz felt possessing lower thermal conductivity, the thermal conductivity of composites is effectively reduced from 0.24 W/m⋅K to 0.18 W/m⋅K. More interestingly, the high strength of composites can be maintained (285.6 ± 4.7 MPa under tensile, 289.0 ± 12.4 MPa under compression). Finite element analysis of heat transfer verifies that fiber felt is the main unit of inhibiting thermal conduction through thickness direction, highlighting the significant contribution of quartz felt to the improvement of thermal insulation. The in-situ micro-CT tests use CT imaging to capture the evolution of the internal microstructure of composites under tensile loading, which reveal that the fracture of composites coincides with the breakage of carbon cloths, underscoring the crucial role of carbon cloths in maintaining mechanical properties. Compared with traditional dense carbon/phenolic composites, composites in this work exhibit 21.0 % lower density, 75.3 % lower thermal conductivity, 101.3 % higher tensile strength and modified ablative properties. This study will promote the structural optimization of phenolic-based composite and its application in extremely thermo-mechanical coupling environments.}
+}

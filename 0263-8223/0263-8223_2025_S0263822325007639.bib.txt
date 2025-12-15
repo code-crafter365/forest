@@ -1,0 +1,13 @@
+@article{LI2025119598,
+title = {Progress and prospects in cutting of particle reinforced metal matrix composites},
+journal = {Composite Structures},
+volume = {372},
+pages = {119598},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119598},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007639},
+author = {Ming Li and Qingguang Li and Xianchao Pan and Zuoquan Zhang and Mengjie Li and Shengzhi Xu and Zixuan Wang and Yunguang Zhou and Lianjie Ma and Tianbiao Yu and Ji Zhao},
+keywords = {PRMMCs, Cutting, Modeling, Numerical simulation, Assisted cutting technology},
+abstract = {Particle reinforced metal matrix composites (PRMMCs) are widely used in aerospace and automotive sectors due to their superior mechanical properties. However, their heterogeneous microstructures and hard reinforcements pose serious challenges to conventional machining, leading to issues such as interfacial debonding, tool wear, and surface degradation. This review provides a comprehensive summary of recent advances in the cutting of PRMMCs, covering cutting mechanisms, modeling strategies, simulation methods, and assisted cutting technologies. First, the influence of microstructural parameters and interfacial behavior on cutting deformation and damage evolution is analyzed. Then, key geometric modeling approaches and constitutive model developments are discussed, along with a comparative evaluation of numerical methods such as FEM, DEM, MD, and SPH. The advantages and limitations of each method in capturing multiscale damage and interfacial failure are highlighted. Furthermore, advanced cutting technologies—including ultrasonic vibration, laser assistance, minimum quantity lubrication (MQL), and novel hybrid-assisted methods—are reviewed in terms of their mechanisms and process benefits. Finally, the review outlines current research gaps in dynamic damage characterization, simulation accuracy, and multi-field coupling, and proposes future directions such as multiscale–multiphyics modeling, intelligent process control, and green cutting technologies. This work aims to offer theoretical support and guidance for the cutting of PRMMCs.}
+}

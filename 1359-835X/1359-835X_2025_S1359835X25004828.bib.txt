@@ -1,0 +1,13 @@
+@article{PENG2025109188,
+title = {Microstructural and viscoelastic parameters effect analysis on the time-dependent behaviour of bio-fibrous composites based on a structure-driven unit cell model},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109188},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109188},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004828},
+author = {Guangyuan Peng and Li Liu and Zhonghua Wang and Tianheng Chao and Yu Han and Yan Sun},
+keywords = {Bio-fibrous composites, Anisotropic visco-hyperelastic model, Microstructure, Viscoelastic behaviour},
+abstract = {Bio-fibrous composites exhibit typical anisotropic visco-hyperelastic responses, and the viscoelasticity-induced dissipation mechanism endows them with excellent impact resistance and fatigue properties. Accordingly, an anisotropic visco-hyperelastic model is applied and implemented into finite element analysis to investigate their time-dependent behaviour. By employing a structure-driven unit cell model (UCM), we simulate stress relaxation, creep, and loading–unloading responses to systematically quantify the effects of fiber crimp morphology (crimped amplitude H, roughness ω, waviness χ) and viscoelastic parameters (relaxation time τ, relative stiffness γ) on time-dependent mechanical behaviour. The numerical results indicate that the microstructure of fibers is critical in regulating the overall stiffness and creep resistance of bio-fibrous composites. The analysis of viscoelastic parameters reveals that the relaxation time plays a significant role in determining the rate of viscoelastic dissipation, and the relative stiffness mainly determines its degree. Significantly, the crimped fiber shows higher sensitivity to viscoelastic behaviour owing to its higher stiffness than the soft matrix, and the stress concentration caused by it can be alleviated. This study bridges critical gaps between morphological features, viscoelastic parameterization and time-dependent energy dissipation. The quantified sensitivity of the relaxation time and the relative stiffness provides foundational theoretical guidance and empirical data support for designing biomimetic composites with programmable viscoelasticity, particularly in applications requiring impact energy absorption or fatigue resistance.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025104378,
+title = {Design and evaluation of a virtual rehabilitation system integrating intangible cultural heritage: A case study of Baduanjin-based somatosensory training},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104378},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104378},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002195},
+author = {Yifan Zhang and Lanqi Xu and Xu Lang and Jianing Liu and Pengfei Leng and Xuanchi Gong and Xiao Song and Zhigeng Pan},
+keywords = {Motor coordination disorder, Somatosensory interaction, Game-based rehabilitation, Intangible cultural heritage},
+abstract = {Motor coordination disorders significantly impair patients’ ability to perform daily activities. Traditional rehabilitation approaches often suffer from low adherence due to their monotony. This study presents The Wonderful Journey Based on Baduanjin (TWJB), a gamified virtual rehabilitation system that integrates somatosensory interaction with the traditional Chinese exercise Baduanjin. The system employs embodied narrative scenarios and avatar-guided mechanisms to facilitate culturally embedded rehabilitation training. By incorporating real-time motion capture, dynamic feedback, and interactive knowledge cards, the system enhances user immersion and rehabilitation motivation. A controlled experiment was conducted to evaluate its effectiveness. Results indicate that TWJB outperforms conventional rehabilitation methods in terms of user engagement, cultural knowledge acquisition, and functional recovery. These findings underscore the potential of combining traditional culture with intelligent interaction technologies in modern rehabilitation medicine.}
+}

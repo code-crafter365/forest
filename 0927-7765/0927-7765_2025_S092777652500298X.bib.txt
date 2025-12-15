@@ -1,0 +1,13 @@
+@article{HAIDER2025114791,
+title = {Unlocking the secrets: Structure-function dynamics of plant proteins},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114791},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114791},
+url = {https://www.sciencedirect.com/science/article/pii/S092777652500298X},
+author = {Tanweer Haider and Wasim Akram and Ramakant Joshi and Monika Vishwakarma and Shivani Saraf and Vandana Soni and Navneet Garud},
+keywords = {Structure-function relationship, Plant proteins, Targeted drug delivery, Protein modification, Drug encapsulation},
+abstract = {Plant-based proteins are becoming essential resources for sustainable food systems, pharmaceutical innovations, and functional materials. This review examines the complex structure-function relationships of plant proteins, emphasising their crucial role in defining functional properties and applications. The primary structure, consisting of amino acid sequences, along with secondary, tertiary, and quaternary structures, profoundly affects protein behaviour. External factors such as pH, ionic strength, temperature, and processing techniques like extrusion and enzymatic modification can influence protein structure, consequently modifying their functional properties. Consider rewording to "Advanced processing techniques, such as high-pressure and non-thermal methods, effectively refine protein structures while preserving their functionality.Computational modelling, employing molecular dynamics and artificial intelligence, is proposed as a revolutionary instrument for forecasting and enhancing structure-function relationships. An emerging application of plant proteins is targeted drug delivery, whose structural characteristics facilitate accurate encapsulation and release of therapeutic agents. Case studies highlight the importance of protein surface characteristics in attaining precise cellular or tissue targeting, especially for conditions related to cancer and inflammation. This review concludes by highlighting strategic avenues for harnessing the complete potential of plant proteins, placing them at the cutting edge of innovation in food science, biotechnology, and drug delivery.}
+}

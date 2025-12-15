@@ -1,0 +1,10 @@
+@article{2025104283,
+title = {Editorial Board},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104283},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/S0097-8493(25)00124-4},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001244}
+}

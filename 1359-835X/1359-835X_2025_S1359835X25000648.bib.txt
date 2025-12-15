@@ -1,0 +1,13 @@
+@article{HAN2025108770,
+title = {Structural and hetero-interfacial engineering of magnetic bimetallic composites based polyurethane microwave absorbing coating for marine environment},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108770},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108770},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000648},
+author = {Qiaoqiao Han and Junhuai Xu and Jianyang Shi and Mi Zhou and Haibo Wang and Liang Geng and Junjie Xiong and Zongliang Du},
+keywords = {Interface, Nanocomposites, Corrosion, Heat treatment},
+abstract = {Construction of microwave-absorbing materials adapted to marine application scenarios remain a challenge. Herein, environmentally stable CoxNiy@C absorbers are fabricated. The CoNi-C heterogeneous interface in these absorbers induces a more inhomogeneous space charge distribution than Co-C and Ni-C interfaces, contributing to strong hetero-interfacial polarization and thereby improving microwave absorption performance. The C2 absorber demonstrated an EAB of 5.68 GHz, covering the entire Ku-band at a thickness of 1.98 mm. Additionally, simulations revealed an excellent radar stealth effect in unmanned aerial vehicle (UAV) mode. The 3D graphite skeleton of the absorber can extend the diffusion path of corrosive media and facilitate bacterial deposition, producing synergistic anti-corrosion and antibacterial effects. After immersion in a 3.5 % NaCl solution for 47 days, the |Z|0.01Hz value of polyurethane (PU)/C2 coating remained at 6.32 × 108 Ω cm2, indicating superior anticorrosion characteristics. The antibacterial rates of C2 reached 99.77 % against Escherichia coli and 99.11 % against Staphylococcus aureus. This work offers fresh concepts for the development of next-generation multifunctional microwave absorbents.}
+}

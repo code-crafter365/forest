@@ -1,0 +1,13 @@
+@article{WEDLER2025114276,
+title = {Shell-by-Shell functionalized nanoparticles as radiosensitizers and radioprotectors in radiation therapy of cancer cells and tumor spheroids},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114276},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114276},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005356},
+author = {Vincent Wedler and Lisa M.S. Stiegler and Teresa Gandziarowski and Johannes Walter and Wolfgang Peukert and Luitpold V.R. Distel and Andreas Hirsch and Stefanie Klein},
+keywords = {CoFeO nanoparticles, TiO nanoparticles,  functionalization, Phenolic acids, Radioprotectors, Radiosensitizers, Amphiphiles},
+abstract = {Shell-by-Shell (SbS)-functionalized NPs can be tailor-made by combining a metal oxide NP core of choice with any desired phosphonic acids and amphiphiles as 1st or 2nd ligand shell building blocks. The complementary composition of such highly hierarchical structures makes them interesting candidates for various biomedical applications, as certain active ingredients can be incorporated into the structure. Here, we used TiO2 and CoFe2O4 NPs as drug delivery tools and coated them with a hexadecylphosphonic acid and with hexadecyl ammonium phenolates (caffeate, p-coumarate, ferulate), that possess anticancer as well as antioxidant properties. These architectures were then incubated in 2D and 3D cell cultures of non-tumorigenic and tumorigenic breast cells and irradiated to study their anticancer effect. It was found that both, the functionalized TiO2 and CoFe2O4 NPs acted as strong protective agents in non-tumorigenic spheroids. In contrast, the functionalized CoFe2O4 NPs induce a higher damage in irradiated tumor spheroids compared to the functionalized TiO2 NPs. CoFe3O4 NPs act additionally as radiosensitizing agents to the tumor spheroids. The radio-enhancement of the CoFe2O4 NPs is due to the generation of highly toxic hydroxyl radicals during X-ray irradiation. The irradiation exposed the CoFe2O4 surface, releasing the anticancer drugs into the cytoplasm and making the surface Co2+ ions accessible. These surface ions catalyze the Fenton reaction. This combination of radiosensitizer and anticancer drug delivery proved to be a very effective nanotherapeutic in 2D and 3D cell cultures of breast cancer cells.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025114392,
+title = {Low toxicity ginsenoside Rg1-carbon nanodots as a potential therapeutic agent for human non-small cell lung cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114392},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114392},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006519},
+author = {Jifeng Wang and Ning Tian and Tenghui Tian and Lizhi Xiao and Xuechun Zhou and Guancheng Liu and Zhe Zhang and Yu Zhao and Jiajuan Guo and Quan Lin and Yingnan Jiang},
+keywords = {Nanomedicine, Carbon nanodots, Non-small-cell lung cancer, Herbal extract, Low toxicity},
+abstract = {Here ginsenoside Rg1 was used to synthesise Rg1 carbon nanodots via a one-step hydrothermal method. The surface of the Rg1 carbon nanodots is rich in hydrophilic functional groups with good water solubility and biocompatibility. The Rg1 carbon nanodots exhibited a high inhibitory effect on the proliferation, migration, and proapoptotic ability of non-small cell lung cancer A549 cells. The changes in the levels of ROS, Ca2+, and MMP in A549 cells after the administration of Rg1 carbon nanodots were evaluated and further correlated with relevant proteins in the caspase apoptotic pathway. Proteomic screening revealed that the Rg1 carbon nanodots could regulate A549 cell apoptosis by activating the expression of MAPK pathway-related proteins. In the in vivo experiment, the therapeutic efficacy of the Rg1 carbon nanodots in inhibiting tumour growth was much higher than that of commonly used chemotherapy drugs, with negligible toxicity and side effects. Immunohistochemical staining showed that the expression of caspase- and MAPK pathway-related proteins in mouse tumour tissues was consistent with that at the cellular level. The results suggest that Rg1 carbon nanodots can promote tumour apoptosis and represent a potential therapeutic agent for human non-small-cell lung cancer.}
+}

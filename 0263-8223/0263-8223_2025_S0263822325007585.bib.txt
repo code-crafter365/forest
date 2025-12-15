@@ -1,0 +1,13 @@
+@article{BAI2025119593,
+title = {A multilayer shell approach for simulating composite preforming with varying fibre orientations},
+journal = {Composite Structures},
+volume = {372},
+pages = {119593},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119593},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007585},
+author = {Renzi Bai and Eduardo Guzman-Maldonado and Julien Colmars and Hui Cheng and Kaifu Zhang},
+keywords = {Fabrics/textiles, Preforming, Multi-layer reinforcement, Finite element analysis (FEA)},
+abstract = {Modern composite structures often incorporate multiple reinforcement layers, but simulating each layer individually leads to computationally expensive models. Textile composite reinforcement preforming exhibits special fibre slippage behaviour, which deviates from classical shell theories because of the quasi-inextensibility of fibres and potential inter-fibre slippage. While the fibrous shell model, based on these principles, has been proposed for reinforcements with fibres oriented in single warp and weft directions, its application is limited for stacks composed of layers with varying orientations. This paper presents a multilayer fibrous shell approach in which all layers with the same fibres orientations within a composite stack are represented by a single finite element layer. By superimposing these layers, the method homogenizes each material family, enabling efficient simulation of complex preforming behaviours such as differential draw-in and transverse slippage. The method’s accuracy is demonstrated through experimental validation, offering a practical solution for modelling industrial-scale composite forming processes.}
+}

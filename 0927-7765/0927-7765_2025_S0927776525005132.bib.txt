@@ -1,0 +1,11 @@
+@article{SUN2025115006,
+title = {Corrigendum to 'Quaternary ammonium grafted chitosan hydrogel with enhanced antibacterial performance as tannin acid and deferoxamine carrier to promote diabetic wound healing', [Coll. Surf. B: Biointerfaces, 244 (2024) 114160]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115006},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115006},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005132},
+author = {Weichen Sun and Xiaoting Zuo and Yu Zhang and Chengyan Zhou and Shuai Guo and Wenjuan Li and Mingtao Run and Jianglei Qin}
+}

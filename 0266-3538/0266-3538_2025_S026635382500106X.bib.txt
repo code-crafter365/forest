@@ -1,0 +1,13 @@
+@article{LUO2025111138,
+title = {Construction of multifunctional composite hydrogels via zwitterionic osmosis, the Hofmeister effect, and metal complexation for flexible sensors},
+journal = {Composites Science and Technology},
+volume = {265},
+pages = {111138},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111138},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382500106X},
+author = {Qiuyan Luo and Siyu Yang and Zewen Wu and Juguo Dai and Meng Wang and Yiting Xu and Lizong Dai},
+keywords = {Multi-scale synergistic, Zwitterionic osmosis, Hofmeister effect, Metal complexation, Multifunctional composite hydrogels},
+abstract = {Hydrogel-based flexible sensors have emerged as a prominent research focus within the scientific research. However, effectively balancing the electrical conductivity and mechanical properties of hydrogels presents significant challenges. In this study, a polyacrylamide/gelatin/cellulose composite hydrogel (PGC) scaffold was initially synthesized, followed by immersion in a solution of betaine and zinc sulfate, and a multifunctional composite hydrogel (PGC-BZn) with excellent mechanical properties and electrical conductivity was successfully prepared through multi-scale synergistic interactions. The results indicate that the Hofmeister effect induced by sulfate ions, the metal complexation effect introduced by zinc ions, and the synergistic interactions of hydrogen bonding and electrostatic forces stemming from betaine penetration collectively confer notable characteristics to the composite hydrogel, including high transparency (70 %), remarkable stretchability (∼411 %), good conductivity (43.1 mS/m), outstanding freeze resistance (−27.9 °C), excellent antibacterial activity, and superior moisture retention. The strain sensors constructed from the PGC-BZn composite hydrogel demonstrated high sensitivity (GF = 5.891), a broad sensing detection range (0 %–450 %), as well as rapid response times and good cyclic stability. This research presents a simple and versatile method for the preparation of multifunctional composite hydrogels, with potential applicability to other salts, zwitterions, and polymer systems. This innovative approach offers new perspectives for the construction of multifunctional composite hydrogels, contributing to the advancement of flexible sensor technology.}
+}

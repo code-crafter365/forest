@@ -1,0 +1,13 @@
+@article{HABIBURRAHMAN2025109193,
+title = {Influence of electrically aligned carbon nanofiber Z-threading on the fatigue behavior of CFRP composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109193},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109193},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004877},
+author = {Julkarnyne M. {Habibur Rahman} and Pharindra Pathak and Ryan Warren and Obaidul Hasan and Kuang-Ting Hsiao and Suhasini Gururaja},
+keywords = {Infrared thermography, Fatigue, CFRP, CNF Z-threads, Second harmonic},
+abstract = {A rapid fatigue characterization method using full-field temporal surface temperature measurements has been used to study the effect of microstructural modification in unidirectional carbon fiber reinforced plastics (UD-CFRP) via electrically aligned Z-threaded carbon nanofibers (CNF). 1 wt% CNF were aligned in the Z-direction via electric means using a patented roll-to-roll process, enabling ZT-CNF-CFRP prepreg production. Three configurations were tested under fatigue: ZT-CNF-UD-CFRP (ZTE), UD-CFRPs with Unaligned CNF, and UD-CFRPs without CNF (Control). Mean surface temperatures measured via passive infrared thermography (IRT) was used to estimate the fatigue limit for these materials using a staircase loading method. Further, harmonic analysis of the obtained temporal full-field temperature data was used to monitor the damage evolution. Finally, the fatigue limit was also determined using the residual threshold method based on the second harmonic signal. Fatigue limits obtained for the three configurations via the bi-linear method were 62.36 ± 0.42 % σuts for ZTE, 64.7 ± 1.83 % σuts for Unaligned and 49.29 ± 2.47 % σuts for Control. While the presence of 1 wt% CNF improves the fatigue limit; the effect of Z-threading could not be accurately quantified since the Z-threading manufacturing process was found to increase the matrix content of the composite. CNF Z-threads increased thermal conductivity, enabling better in situ damage monitoring. Different failure modes were found and discussed to understand the roles of CNF in the fatigue behavior of UD-CFRP laminates.}
+}

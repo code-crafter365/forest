@@ -1,0 +1,13 @@
+@article{LEE2025104358,
+title = {Modality mixer exploiting complementary information for multi-modal action recognition},
+journal = {Computer Vision and Image Understanding},
+volume = {256},
+pages = {104358},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104358},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000815},
+author = {Sumin Lee and Sangmin Woo and Muhammad Adi Nugroho and Changick Kim},
+keywords = {Multi-modality, Action recognition, Recurrent unit},
+abstract = {Due to the distinctive characteristics of sensors, each modality exhibits unique physical properties. For this reason, in the context of multi-modal action recognition, it is important to consider not only the overall action content but also the complementary nature of different modalities. In this paper, we propose a novel network, named Modality Mixer (M-Mixer) network, which effectively leverages and incorporates the complementary information across modalities with the temporal context of actions for action recognition. A key component of our proposed M-Mixer is the Multi-modal Contextualization Unit (MCU), a simple yet effective recurrent unit. Our MCU is responsible for temporally encoding a sequence of one modality (e.g., RGB) with action content features of other modalities (e.g., depth and infrared modalities). This process encourages M-Mixer network to exploit global action content and also to supplement complementary information of other modalities. Furthermore, to extract appropriate complementary information regarding to the given modality settings, we introduce a new module, named Complementary Feature Extraction Module (CFEM). CFEM incorporates separate learnable query embeddings for each modality, which guide CFEM to extract complementary information and global action content from the other modalities. As a result, our proposed method outperforms state-of-the-art methods on NTU RGB+D 60, NTU RGB+D 120, and NW-UCLA datasets. Moreover, through comprehensive ablation studies, we further validate the effectiveness of our proposed method.}
+}

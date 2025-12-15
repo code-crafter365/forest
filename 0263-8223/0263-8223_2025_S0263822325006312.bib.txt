@@ -1,0 +1,13 @@
+@article{YING2025119466,
+title = {Geometric reconstruction of mesoscopic models for three-dimensional woven composites using micro-CT technology},
+journal = {Composite Structures},
+volume = {371},
+pages = {119466},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119466},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006312},
+author = {Zhiping Ying and Haiyang Chen and Xiaohui Pan and Zhenyu Wu and Laihu Peng and Xiaoying Cheng and Jiahao Ou},
+keywords = {Micro-CT, Deep learning, 3D woven composites, Three-dimensional reconstruction},
+abstract = {This paper introduces an innovative method for creating 3D woven composite models by utilizing CT images and deep learning techniques. A Deep Convolutional Neural Network (DCNN) is used for the initial segmentation of yarn cross-sections in the CT images, which is then enhanced through image erosion and the detection of concave points at overlapping junctions. Solid modeling is carried out using the identified contour points from the yarn cross-section, and a technique is suggested to identify and adjust the contour points in the overlapping areas between yarns. A morphological analysis of the yarns in the developed model is conducted, and the locations of pore defects are mapped onto a finite element model for tensile testing simulations. The findings indicate that this method is effective and can be broadly applied to the 3D reconstruction of fiber composites with improved accuracy, aiding in the understanding and enhancement of composite design performance.}
+}

@@ -1,0 +1,13 @@
+@article{SEHRAWAT2025108958,
+title = {Enhancing interlaminar fracture toughness in CFRP composites using ethanolamine-coated CNT sheets},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108958},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108958},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002520},
+author = {Manoj Sehrawat and Mamta Rani and Karishma Jain and Sonu Rani and Sony Bharadwaj and Bhanu Pratap Singh and Raj Ladani and Brian G. Falzon},
+keywords = {Interlaminar fracture toughness, Carbon nanotube sheets, Floating catalyst chemical vapour deposition, Interleaving, Laminar CFRP composites},
+abstract = {Traditional interleaving of carbon nanotube (CNT) sheets in CFRP composites often leads to poor resin infiltration, resulting in lower interlaminar fracture toughness. This study proposes a novel strategy to modify CNT sheets with non-covalent amine groups to enhance their interaction with the polar epoxy matrix, thereby improving wettability and infiltration. CFRP composites containing amine-modified CNT sheets exhibited a remarkable 206% increase in Mode I fracture toughness due to stronger interlaminar interactions and enhanced fibre bridging. The use of these amine-modified CNT sheets induced the transfer of nanotubes onto the carbon fibre (CF) surface, resulting in nanomodified CFs with increased active sites for matrix bonding, resulting in increased fibre bridging between the delaminated plies. The mode II fracture toughness values show a slight reduction (8.2%) with the use of ethanolamine coated CNT (EACNT) interleaves, as the toughened interlayer does not allow the crack to traverse through it, resulting in a shorter crack path. Nonetheless, this strategy offers a promising advancement towards the use of CNT sheet interleaves for the effective enhancement of CFRP composite fracture toughness.}
+}

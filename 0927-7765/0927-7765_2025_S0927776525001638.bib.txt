@@ -1,0 +1,13 @@
+@article{TAN2025114656,
+title = {Decellularized human amniotic member hydrogel promotes limbal stem cells proliferation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114656},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114656},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001638},
+author = {Yongyao Tan and Wei Wang and Lingjuan Xu and Xiao Zhou and Jiachao Shen and Tianyu Zhou and Chengen Duan and Xuying Wang and Zibin Liu and Mingwu Wang and Guigang Li},
+keywords = {Decellularized amniotic membrane, Hydrogel, Limbal stem cells, Limbal niche, Agrin},
+abstract = {Allogeneic cultured limbal epithelial stem cell transplantation has shown variable clinical success in treating limbal stem cell deficiency, low success cases are likely due to insufficient stem cell quantity or functional impairment. In this study, we engineered a decellularized amniotic membrane hydrogel (dAM-gel) using a freeze-thaw protocol designed to retain extracellular matrix integrity. Post-processing, collagen content decreased modestly from 313.50 ± 27.89 μg/mg to 284.8 ± 14.82 μg/mg (P = 0.08), while glycosaminoglycan levels shifted from 7.20 ± 1.66 μg/mg to 6.28 ± 0.55 μg/mg (P = 0.27). Crucially, the protocol achieved near-complete DNA removal (7.41 ± 0.78 μg/mg vs. 0.14 ± 0.06 μg/mg) (P < 0.0001), ensuring minimal immunogenicity. Although the dAM-gel demonstrates limited gelation capacity at lower concentrations, it achieves robust gelation at 14 mg/ml, completing the process within 28.26 ± 1.21 minutes. Furthermore, dAM-gel facilitates the migration and proliferation of limbal stem cells, particularly p63 + cells, which are known to correlate with the success of clinical treatments. A plausible explanation for this phenomenon is that dAM-gel contains a high concentration of agrin, which facilitates the proliferation of limbal stem cells while preserving their stemness via the Yap1-cyclin D1 signaling pathway. In conclusion, dAM-gel derived from amniotic membrane presents therapeutic promise for treating limbal stem cell deficiency by enhancing the proliferation of limbal stem cells while maintaining their stem cell phenotype.}
+}

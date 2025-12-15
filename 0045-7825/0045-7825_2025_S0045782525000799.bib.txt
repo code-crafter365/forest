@@ -1,0 +1,13 @@
+@article{FU2025117807,
+title = {A parametric non-linear non-intrusive reduce-order model using deep transfer learning},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117807},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117807},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000799},
+author = {R. Fu and D. Xiao and A.G. Buchan and X. Lin and Y. Feng and G. Dong},
+keywords = {NIROM, Deep learning, Auto-encoder, ResNet, Transfer learning},
+abstract = {Reduced order modelling is popular and widely used in engineering as it has the potential to gain several orders of magnitude CPU speedup for simulations with different parameters such as different initial or boundary conditions. This work presents a new parametric non-linear non-intrusive reduced-order model (P-NLNIROM) for the fluid problems, which extends the capabilities for non-linear NIROM Fuet al. (2023) on parametric problems. The Deep Auto-Encoder (DAE), Deep Residual Learning Neural network (ResNet), and deep transfer learning are used to construct the P-NLNIROM. The DAE is developed to project or map the original high-dimensional dynamical systems into a much lower dimensional nonlinear reduced latent space and the deep ResNet is used to construct a set of functions that represents the relationships between model input parameters (such as initial or boundary conditions) and extracted representations in the latent or reduced space (reduced representation of fluid dynamics). Transfer learning is used to extend the predictive capability of the model for different parameters. The novelty of this work lies in that ResNet and transfer learning are used to predict different parametric conditions for the AutoEncoder-based, non-linear, non-intrusive reduced-order model (NLNIROM). Transfer learning expands the predictive range of parametric space and makes the transferred P-NLNIROM perform well with much less data. The capability of this new P-NLNIROM is illustrated numerically by two test cases: a lock exchange, and a flow past a cylinder. The results obtained show that the P-NLNIROM performs well and the transferred model shows more promising results under new parameter conditions.}
+}

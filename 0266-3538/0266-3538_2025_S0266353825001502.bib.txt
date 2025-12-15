@@ -1,0 +1,13 @@
+@article{CHEN2025111182,
+title = {Arch-inspired flexible dual-mode sensor with ultra-high linearity based on carbon nanomaterials/conducting polymer composites for bioelectronic monitoring and thermal perception},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111182},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111182},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001502},
+author = {Chaoyue Chen and Peng Wang and Weiqiang Hong and Xiaowen Zhu and Jianhong Hao and Congguang He and Hao Hou and Deli Kong and Tianqi Liu and Yunong Zhao and Xiaohui Guo},
+keywords = {Nanocomposites, Arch-inspired structure, Dual-mode flexible sensor, Strain/temperature sensing, Ultra-high linearity},
+abstract = {With the rapid development of nanocomposites-based wearable electronic devices, there has been a significant increase in demand for flexible strain sensors capable of detecting mechanical force and temperature. Currently, the high linearity and wide sensing range of strain sensors are difficult to achieve. Herein, a flexible strain/temperature sensor (FSTS) is developed based on arch-inspired bionic structure and multi-walled carbon nanotubes/carbon black/polyaniline/silicone rubber nanocomposites. The prepared FSTS has both strain and temperature sensing capabilities. It functions as a FSTS with a high sensitivity of 3.432 and an ultra-low lower limit of detection (0.1 % strain). The wide linear detection range (0–190 % strain range) and ultra-high linearity (0.996) are realized simultaneously. These properties are attributed to arch-like fingerprint structure and multi-dimensional mixed materials. In addition, the designed FSTS has a resistive temperature coefficient of up to 57.301, a linearity of 0.999 over an ultra-wide temperature range (25–120 °C), and fine repeatability. Due to its improved sensing capabilities, FSTS can be applied to recognize sign language movements and intelligently temperature monitoring. This work introduces a novel approach to consider both linearity and sensing range, which has the potential to accelerate the development of composites-based strain sensor.}
+}

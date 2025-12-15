@@ -1,0 +1,13 @@
+@article{XIA2025119310,
+title = {Programmable and temperature-dependent mechanical and thermal properties of anti-tetra-chiral metamaterials with bi-material curved beams},
+journal = {Composite Structures},
+volume = {370},
+pages = {119310},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119310},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004751},
+author = {Jinwen Xia and Kaifa Wang and Baolin Wang},
+keywords = {Anti-chiral metamaterial, Coefficient of thermal expansion, Mechanical properties, Temperature-dependent},
+abstract = {Bi-material beams, due to their thermally induced bending characteristics, are often incorporated into metamaterial designs to create materials with tunable thermal expansion coefficients. Existing research has overlooked critical aspects of metamaterial behavior under thermal loading, including temperature-dependent properties, the role of beam curvature in deformation accuracy, and geometric constraint effects. To address these gaps, we develop a theoretical model to predict effective properties of the anti-tetra-chiral metamaterial with bi-material curved beams such as coefficient of thermal expansion (CTE), thermal conductivity, elastic modulus, Poisson’s ratio and shear modulus. By comparing the size of the metamaterial before and after deformation, we determine the effective CTE; subsequently, the thermal conductivity is derived via introducing thermal resistance; and the effective mechanical properties finally obtained through energy methods. All the effective properties of the metamaterial are subsequently validated through finite element analysis. There are two significant findings: (1) As temperature increases, the metamaterial’s effective properties demonstrate pronounced temperature dependence; (2) By accounting for self-contact behavior, all effective properties exhibit exceptional tunability ranges—particularly, the effective CTE can be tuned to achieve positive, zero, and negative thermal expansion through altering the curvature modulation of curved beams. Overall, anti-tetra-chiral metamaterials with bi-material curved beams demonstrate outstanding engineering application potential, particularly in terms of large CTE, optimal stiffness, and lightweight properties.}
+}

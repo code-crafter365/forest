@@ -1,0 +1,13 @@
+@article{AZARHOOSH2025117508,
+title = {A Review of Recent Advances in Surrogate Models for Uncertainty Quantification of High-Dimensional Engineering Applications},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117508},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117508},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400762X},
+author = {Zeynab Azarhoosh and Majid {Ilchi Ghazaan}},
+keywords = {Uncertainty quantification, Uncertainty propagation, Surrogate modeling, High-dimensionality, Curse of dimensionality},
+abstract = {In fields where predictions may have vital consequences, uncertainty quantification (UQ) plays a crucial role, as it enables more accurate forecasts and mitigates the potential risks associated with decision-making. However, performing uncertainty quantification in real-world scenarios necessitates multiple evaluations of complex computational models, which can be both costly and time-consuming. To address these challenges, surrogate models (also known as meta-models)—which are low-cost approximations of computational models—can be an influential tool. Nonetheless, as the complexity of the problem increases and the number of input variables grows, the computational burden of constructing an efficient surrogate model also rises, leading to the so-called curse of dimensionality in uncertainty propagation from inputs to outputs. Additionally, dealing with constraints, ensuring the robustness and generalization of surrogate models across different inputs, and interpreting the output results can present significant difficulties. Therefore, techniques must be implemented to enhance the performance of these models. This paper reviews the developments of the past years in surrogate modeling for high-dimensional inputs, with the goal of quantifying output uncertainty. It proposes general approaches, including dimension reduction techniques, multi-fidelity surrogate models, and advanced sampling schemes, to overcome challenges in various practical problems. This comprehensive study provides an initial guide for effective surrogate modeling in engineering practices by outlining key components of solving algorithms and screening mathematical benchmark functions, all while ensuring sufficient accuracy for overall predictions. Additionally, this study identifies research gaps, suggests future directions, and describes the applications of the proposed solutions.}
+}

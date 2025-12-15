@@ -1,0 +1,13 @@
+@article{BAHIG2025114354,
+title = {Impact of pH-dependent dynamics of human serum proteins on dialysis membranes: Cryptographic structure assessment, synchrotron imaging of membrane-protein adsorption, and molecular docking studies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114354},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114354},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006131},
+author = {Jumanah Bahig and Hira Syeda and Ahmed Shoker and Huu Doan and Amira Abdelrasoul},
+keywords = {Hemodialysis membranes, PH variations, Protein dynamics, Metabolic reaction, Protein adsorption, Conformational variations},
+abstract = {Proteins are fundamental to biochemical processes and critical in hemodialysis. This study investigates the impact of pH on human serum albumin (HSA), fibrinogen (FB), and transferrin (TRF) interactions with polyarylethersulfone (PAES) hemodialysis membranes. A multi-method approach was utilized, including protein crystallography for structural insights, hydration layer analysis to explore solvation and interaction potentials, molecular docking using AutoDock 4.0 for binding affinity simulations, and in-situ X-ray synchrotron SR-μCT imaging to observe protein deposition dynamics. Molecular docking revealed that PAES demonstrated superior binding energies and interaction patterns with FB and TRF compared to cellulose triacetate (CTA), facilitated by specific hydrogen bonding within a water shell. CTA displayed weaker, hydration-sensitive interactions varying with pH. Imaging studies indicated that FB showed higher adsorption at pH 6 than at pH 7.2, predominantly in the middle membrane regions. Similarly, HSA and TRF exhibited increased adsorption at pH 6, suggesting a stronger affinity under acidic conditions. Mixed protein solutions also indicated higher adsorption at pH 6, emphasizing an increased risk of membrane fouling. These findings highlight the crucial role of pH in modulating protein-membrane interactions and enhancing the efficacy of hemodialysis. A deeper understanding of hydration environments and their effects on protein binding affinities provides valuable insights for optimizing membrane design and performance. Clinically, this research suggests that fine-tuning pH during hemodialysis could mitigate protein fouling on membranes, thereby improving procedural efficiency and potentially leading to better patient outcomes through enhanced dialysis effectiveness.}
+}

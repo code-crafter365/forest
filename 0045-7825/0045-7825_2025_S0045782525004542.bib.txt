@@ -1,0 +1,13 @@
+@article{WIJAYA2025118182,
+title = {Mixture models and stabilized methods for cure kinetics in material processing and for frontal polymerization in direct ink writing},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118182},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118182},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004542},
+author = {Ignasius P.A. Wijaya and Richard B. Hall and Kumbakonam R. Rajagopal and Arif Masud},
+keywords = {Mixture models, Thermo-chemo-mechanical curing processes, Nonlinear stabilized FEM, Monolithic coupled-solution algorithms, Frontal polymerization, Direct ink writing},
+abstract = {A mixture model incorporating thermochemical cure kinetics is presented for modeling the manufacturing process of multiconstituent materials. The model employs non-negative entropy production constraint to ensure compliance with the second law of thermodynamics. Computational aspects of the coupled thermo-mechanical equations for material property evolution and the implementation of the mixture model within the stabilized finite element method are discussed. The enhanced stability of the method addresses the classical inf-sup stability condition for the mixed-field formulation, allowing the use of arbitrary-order interpolation functions for the mechanical and thermal fields. This relaxation allows the use of equal-order interpolations for the discrete mixed form that helps in developing a two-way coupled monolithic algorithm for concurrent solution of the unknown fields. The method is implemented with quadratic hexahedral and quadratic tetrahedral elements, and variational consistency of the discrete form is shown through a numerical rate of convergence study. The proposed method accommodates a variety of cure models for material property evolution. Numerical test cases including thermally controlled curing in layered materials and frontal polymerization in direct ink writing demonstrate the applicability of the method for modeling the process of manufacturing multiconstituent and functionally graded engineered materials.}
+}

@@ -1,0 +1,13 @@
+@article{GENG2025109205,
+title = {A conductive composite hydrogel for promoting bone defect regeneration through microcurrent stimulation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109205},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109205},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004993},
+author = {Qiangwang Geng and Huichao Fu and Xiongjie Liang and Xiaoyan Wang and Yunjiao Wu and Fenghua Zhang and Gongping Xu and Jinsong Leng},
+keywords = {Conductive hydrogel, Composite hydrogel, Biocompatible, Bone Repair},
+abstract = {Although microcurrent stimulation (MCS) has been demonstrated to enhance tissue repair, a significant limitation of MCS in clinical applications is the scarcity of suitable biomaterials, which can effectively deliver microcurrents while conforming well to bone tissue. In this study, carbon nanotubes (CNTs) and graphene oxide (GO) were incorporated into double-network hydrogels synthesized from gelatin and polyacrylamide (PAAm) to render the hydrogels conductive. CNTs were identified as the optimal nanofillers via simulations and experimental investigations. The optimal gelation and mechanical properties of the hydrogel are achieved when the initiator content is 0.8 wt%. The obtained conductive hydrogel exhibits mechanical properties of 0.23 MPa, meeting the biomechanical requirements. When both CNT and GO are added at 1.0 wt%, the conductivity of the CNT-included composite hydrogel is 10.17 times that of the GO-included hydrogel. Meanwhile, this CNT-doped composite hydrogel demonstrates excellent biocompatibility. Upon implantation of the hydrogel into an animal model with skull defects followed by electrical stimulation, it was confirmed that these hydrogels can promote skull repair. This conductive hydrogel holds promise in addressing current challenges related to material acquisition difficulties and postoperative infection risks associated with bone repair procedures.}
+}

@@ -1,0 +1,13 @@
+@article{MOHAMMADI2025118632,
+title = {An interpretable machine learning-based model for shear resistance prediction of CFRP-strengthened RC beams using experimental and synthetic dataset},
+journal = {Composite Structures},
+volume = {351},
+pages = {118632},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118632},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007608},
+author = {Amirhossein Mohammadi and Joaquim A.O. Barros and José Sena-Cruz},
+keywords = {Machine learning (ML), RC beams, Shear strengthening, Externally Bonded Reinforcement (EBR), Carbon Fibre Reinforced Polymer (CFRP), Synthetic dataset},
+abstract = {Existing analytical models for predicting the shear resistance of RC beams strengthened with externally bonded CFRP reinforcements exhibit deficient performance due to their inability to accurately capture the complex resisting mechanisms. Combined with significant statistical uncertainties in shear failure, driven by its brittle nature, this further undermines the reliability of these models. To address these limitations, this study leverages Machine Learning (ML) to develop more robust and reliable predictive tool. A rigorous feature-selection process identified eight predictors as the most influential. Subsequently, nine ML-algorithms were trained on a refined experimental dataset comprising 239 beams, with XGBoost emerging as the top performer. This model also outperformed established models likefib Bulletin-90 and ACI 2023 models. However, the limited scope of the experimental dataset constrained the model’s predictive performance especially when separately evaluated on beams strengthened with U-wraps, full wraps or side-bonded FRP configurations. Therefore, to achieve a more reliable model a synthetic dataset was generated using Tabular Variational Auto-Encoder. The XGBoost model trained with the synthetic dataset significantly improved the performance of the former model and exhibited better predictions for all strengthening configurations. Finally, to ensure the physical consistency of predictions, values obtained from the SHapley Additive exPlanations method were analysed.}
+}

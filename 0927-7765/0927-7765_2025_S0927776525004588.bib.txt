@@ -1,0 +1,13 @@
+@article{MANNO2025114951,
+title = {Optimized synthesis and characterization of highly reproducible carbon dots for bioimaging applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114951},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114951},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004588},
+author = {D. Manno and M.M. Orlando and A. Gabriele and G.G. Carbone and A. Buccolieri and L. Calcagnile and A. Bibi and D. {De Benedictis} and G. Capitanio and D. {De Rasmo} and A. Signorile and G. Giancane and A. Serra},
+keywords = {Doped carbon dots, Photoluminescence, Optical characterization, Electron microscopy characterization, Cytocompatibility, Bioimaging},
+abstract = {In this paper, we present the optimization of synthesis parameters to obtain highly stable fluorescent Carbon Dots (CDs). This was achieved through a multidisciplinary approach that combined systematic variation of synthesis conditions with comprehensive characterization techniques. Spectroscopic analyses, including absorbance and fluorescence measurements, along with transmission electron microscopy, confirmed the uniform morphology and distinctive optical emission of the CDs. Additionally, electron energy loss spectroscopy provided valuable insights into their chemical composition, while high-resolution transmission electron microscopy (HRTEM) revealed structural order at the nanometer scale. Among the synthesized CDs, those exhibiting the most promising optical and physicochemical properties were further tested to assess their cellular imaging potential, cytocompatibility, and non-toxicity. The data showed that CDs were cytocompatible and can permeate the cell membrane localizing in the cells. Notably, these CDs showed the ability to targeting mitochondria, underscoring their potential for analyses of mitochondrial structure and function in different physiological and pathological conditions.}
+}

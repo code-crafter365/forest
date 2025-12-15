@@ -1,0 +1,13 @@
+@article{YI2025119450,
+title = {Comprehensive performance enhancement by ion-induced membrane formation for reed fiber/silicate lightweight thermal insulation composites},
+journal = {Composite Structures},
+volume = {371},
+pages = {119450},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119450},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006154},
+author = {Jiajun Yi and Xingong Li and Yanxiang Xiao and Xia Zheng},
+keywords = {Reed fiber, Silicate, Thermal insulation, Metal chelation, Film forming, Building energy efficiency},
+abstract = {To achieve building energy conservation and reduce consumption, and alleviate the load-bearing pressure of high-rise buildings. Used bamboo waste and silicate cementitious materials to prepare porous reed fiber/silicate lightweight insulation composites was beneficial for promoting high-value waste utilization and reducing environmental hazards. However, owing to the concentration of internal stress and the presence of numerous gaps, these composites exhibit high brittleness and poor water resistance, thereby hindering them from achieving lightweight and high-strength properties. This significantly hinders the material’s promotion and application. Therefore, this study utilized a chelation reaction between ethylene–vinyl acetate and metal ions Mg2+ to create a tough thin film on the surface of crystal clusters, resulting in an extremely stable crystal structure. This enhancement provided the composites with excellent water resistance and durability, thereby reducing water absorption by nearly 20 % and increasing strength retention by nearly 66 %. Consequently, the material achieved a lightweight and high-strength profile, with a 60 % improvement in specific strength. The formation of high-quality pores with uniform sizes in the composites significantly reduced harmful defects such as perforations and parallel perforations. The composites exhibited a significantly lower thermal conductivity of 0.078 W·m−1·K−1 than traditional cement-based insulation materials, indicating excellent insulation performance. The reed fiber/silicate lightweight insulation materials have great potential applications in enhancing building insulation systems, supporting sustainable agriculture, and improving energy efficiency in buildings.}
+}

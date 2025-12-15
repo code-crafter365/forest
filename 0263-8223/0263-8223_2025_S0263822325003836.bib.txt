@@ -1,0 +1,13 @@
+@article{HELWING2025119218,
+title = {Damage evolution in fiber-reinforced polymers under high and very high cycle fatigue using AI-assisted computed tomography analysis},
+journal = {Composite Structures},
+volume = {367},
+pages = {119218},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119218},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003836},
+author = {Ramon Helwing and Frank Walther},
+keywords = {Damage accumulation, Fiber-reinforced polymer, Deep learning, Very high cycle fatigue},
+abstract = {The fatigue behavior of fiber reinforced polymers (FRPs), especially in the very high cycle fatigue (VHCF) regime, remains underexplored. This study compares damage progression in the high cycle fatigue (HCF) and VHCF regimes under axial loading. VHCF tests were conducted using a 1 kHz resonant system, while HCF tests were conducted using a 4.8 Hz servo-hydraulic system. Damage analysis was performed using micro-computed tomography (μCT) and U-Net-based deep learning segmentation to obtain robust Dice scores for interfiber failure, matrix cracking, and delamination. This approach effectively automated damage detection and provided detailed insight into defect density and damage mechanisms. Substantial differences were observed between HCF and VHCF. HCF exhibited pronounced edge effects with damage concentrated along laminate edges, particularly in 90°/0° plies, which became more uniform with fatigue progression. VHCF exhibited less damage accumulation, fewer matrix cracks, and minimal edge effects. The absence of edge effects in VHCF suggests that reducing the cross-sectional area of the specimen could improve test efficiency and allow for higher test frequencies. These results improve the understanding of FRP fatigue behavior and inform design strategies for durable components in critical applications.}
+}

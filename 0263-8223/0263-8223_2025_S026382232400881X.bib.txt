@@ -1,0 +1,13 @@
+@article{SHEN2025118753,
+title = {Exploring deformability in 3D tufted composite reinforcements: Understanding bending behaviors in forming applications},
+journal = {Composite Structures},
+volume = {354},
+pages = {118753},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118753},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400881X},
+author = {Hao Shen and Jue Zhao and Shenglei Xiao and Peng Wang},
+keywords = {3D composite reinforcements, Bending behavior, Tufting, Forming, Analytical model},
+abstract = {In simulations, the bending stiffness of fibrous reinforcements plays a crucial role in accurately predicting the morphology of wrinkle defects during the forming process. Three-dimensional (3D) tufted reinforcements exhibit distinct bending behaviors compared to traditional two-dimensional (2D) reinforcements due to the presence of tufting yarns in the thickness direction. This study employs cantilever bending tests to measure the bending stiffness of tufted reinforcements, examining the effects of various parameters, including tufting points, tufting distribution, number of layers, and tufting loop length, on their bending behavior. The experimental results show that through-thickness tufting yarns significantly enhance the bending stiffness of multilayered reinforcements, but have little impact on single-layer reinforcements. The improvement in bending stiffness is nonlinearly related to the number of tufting points, fabric layers, and tufting loop length, while tufting distribution has no effect. The underlying mechanisms of these tufting parameters are analyzed, and an analytical model is developed to explain the influence of tufting loop length.}
+}

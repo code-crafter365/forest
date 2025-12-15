@@ -1,0 +1,13 @@
+@article{MULLER2025118076,
+title = {Extending the Lattice Boltzmann Method to non-linear elastodynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118076},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118076},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003482},
+author = {Henning Müller and Erik Faust and Alexander Schlüter and Ralf Müller},
+keywords = {Computational solid mechanics, Lattice Boltzmann, Non-linear elasticity, Elastodynamics, Finite strains},
+abstract = {This work outlines a Lattice Boltzmann Method (LBM) for geometrically and constitutively non-linear solid mechanics to simulate large deformations under dynamic loading conditions. The method utilises the moment chain approach, where the non-linear constitutive law is incorporated via a forcing term. Stress and deformation measures are expressed in the reference configuration. Finite difference schemes are employed for gradient and divergence computations, and Neumann- and Dirichlet-type boundary conditions are introduced. Numerical studies are performed to assess the proposed method and illustrate its capabilities. Benchmark tests for weakly dynamic uniaxial tension and simple shear across a range of Poisson’s ratios demonstrate the feasibility of the scheme and serve as validation of the implementation. Furthermore, a dynamic test case involving the propagation of bending waves in a cantilever beam highlights the potential of the method to model complex dynamic phenomena.}
+}

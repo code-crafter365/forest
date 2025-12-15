@@ -1,0 +1,13 @@
+@article{DJEDDOU2025106755,
+title = {A Large Eddy Simulation of airflow inside a full-scale car cabin},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106755},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106755},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002154},
+author = {Mokhtar Djeddou and Anne Tanière and Georges Fokoua and Amine Mehel and Patrick Chevrier},
+keywords = {Airflow inside a car cabin, Large Eddy simulation, Reynolds-averaged Navier–Stokes, Turbulence structure},
+abstract = {This study investigates the application of Large Eddy Simulation (LES) to model airflow within a full-scale car cabin at a Reynolds number of Re=2×104. To assess the performance of Reynolds-Averaged Navier–Stokes (RANS) methods, results from the shear stress transport (SST) k-ω model are compared. The mean flow topology was analyzed in three longitudinal planes, revealing similar flow structures in both approaches, characterized by turbulent jets emerging from dashboard air vents and forming large-scale recirculations in the rear compartment. Predictions of mean velocity and turbulence intensity showed globally reasonable agreement with experimental measurements. However, LES tended to overestimate turbulence intensity, particularly in jet-dominated regions, while the RANS model provided slightly more consistent levels, albeit with reduced fidelity in capturing fine-scale structures. Further analysis using the Q-criterion revealed well-organized vortex structures in the LES results, especially within the central jet and trunk zones. In addition, the Anisotropy Invariant Map (AIM) analysis showed a fundamental difference in turbulence structure, as LES captured highly anisotropic behavior, while the RANS SST k-ω model predominantly returned quasi-isotropic turbulence.}
+}

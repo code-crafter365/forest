@@ -1,0 +1,13 @@
+@article{HAN2025104259,
+title = {Real-time dynamic 3D geological visualization based on Octree-TEN},
+journal = {Computers & Graphics},
+volume = {130},
+pages = {104259},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104259},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001001},
+author = {Yu Han and Weiduo Xu and Pingan Liu and Xinyu Xu and Xi Duan and Bo Qin and Xinjie Wang},
+keywords = {Octree, Tetrahedral network, Position based dynamics, 3D geological visualization},
+abstract = {3D geological visualization offers extensive support for geographic information systems. Grid space division is a fundamental technique of 3D geological visualization. However, to our knowledge, the existing division structures give little consideration to the construction or simulation of physical processes; meanwhile, most physical systems only focus on the calculation of physical fields, failing to build indexes and control voxel units. To tackle these challenges, we propose a novel real-time dynamic 3D geological visualization method based on the Octree and Tetrahedral Network (Octree-TEN). Our method combines Octree-TEN with Position-based Dynamics (PBD) to achieve voxel-controllable PBD physical field calculations. Therefore, it is suitable for data-driven visualization of fractured-grid physical field calculations, such as landslide simulation. Furthermore, in the data pre-processing phase, i.e. the process of generating voxelized grids from raw data, we employ an enhanced Delaunay Triangulation method to improve efficiency. To build a practical visualization system, we optimize load balancing at the engine rendering stage and the Delaunay simplification stage, respectively. In the experiment, we dynamically visualize geological information containing nearly 2 million voxels, which reach 118.5 FPS on an NVIDIA GeForce 3060 GPU. It indicates that the proposed method is both effective and feasible. Moreover, our method has potential applications in other fields, such as geological disaster prediction, mineral resource exploration, and popular science education.}
+}

@@ -1,0 +1,13 @@
+@article{OJOGBO2025108632,
+title = {Silane-modified cellulose nanocrystals (CNCs) based natural rubber composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108632},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108632},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006304},
+author = {Ewomazino Ojogbo and Costas Tzoganakis and Tizazu H. Mekonnen},
+keywords = {A. Biocomposite, B. Fibre/matrix bond, B. Thermomechanical, D. Mechanical testing},
+abstract = {This research explored the use of cellulose nanocrystals (CNC) modified with 3-isocyanotopropyltriethoxysilane (IPTS) as a reinforcing agent of natural rubber (NR). A single-step heterogeneous reaction was employed to modify the surface hydroxyl (OH) groups of the CNC using IPTS. Various characterizations were employed to evaluate the surface modification of CNCs. X-ray diffractometry (XRD) showed 18 % reduction in crystallinity demonstrated the preservation of the crystal structure of the modified CNC, while an increase in the contact angle verified the altered polarity. Subsequently, nanocomposites of NR- modified CNCs (mCNC) were fabricated, and resulted showed that the CNC modification significantly enhanced the interaction between CNCs and NR, leading to reduced cure time, ease of processibility, and improved mechanical properties with a 71 % increase in tensile strength. The findings highlighted the effectiveness of CNCs modification in enhancing the properties of NR nanocomposites and provide valuable insights into the optimal loading concentration for effective reinforcement.}
+}

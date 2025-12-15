@@ -1,0 +1,13 @@
+@article{WANG2025114666,
+title = {Enhanced antibacterial and corrosion resistance performance of fluorine-doped diamond-like carbon coatings on 316 L stainless steel},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114666},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114666},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001730},
+author = {Yimeng Wang and Temitope O. Olugbade and Stefan Wackerow and Yongwei Cai and Shuai Zhang and Amin Abdolvand and Svetlana A. Zolotovskaya and Qi Zhao},
+keywords = {Diamond-like carbon coatings, Biomedical applications, Antibacterial surface, Bacterial adhesion, Corrosion resistance},
+abstract = {Biomedical materials must meet increasingly stringent standards for antibacterial efficacy and corrosion resistance. This study investigates the enhancement of these properties in 316 L stainless steel through the application of fluorine-doped diamond-like carbon (F-DLC) coatings. A series of F-DLC coatings with varying fluorine (F) concentrations were fabricated using plasma-enhanced chemical vapour deposition (PECVD). Fluorine doping increased the sp2/sp3 ratio (0.65–0.93) and enhanced surface hydrophobicity, as indicated by an increase in the contact angle from 63.1° to 79.7°. The impact of F concentration on bacterial adhesion was investigated using Escherichia coli (E. coli) and Staphylococcus aureus (S. aureus). DLC coatings with higher F concentrations and sp2/sp3 ratios exhibited a notable reduction in bacterial adhesion - up to 74 % for E. coli and 77 % for S. aureus - compared to uncoated stainless steel. The extended Derjaguin-Landau-Verwey-Overbeek (XDLVO) theory was employed to model bacteria-surface interactions, revealing the role of F in bacterial adhesion behaviour. Furthermore, the F-DLC coatings achieved a significant corrosion inhibition rate of 98.3 % in Hanks' balanced salt solution at 37 °C. Overall, higher F concentrations in the DLC coatings promote antibacterial and anti-corrosion performance by shifting the carbon structure from a three-dimensional sp3-dominated configuration to a two-dimensional sp2-rich structure.}
+}

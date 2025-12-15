@@ -1,0 +1,13 @@
+@article{WU2025119461,
+title = {Process-induced residual stresses of CFRP laminates with integrated rubber layer},
+journal = {Composite Structures},
+volume = {371},
+pages = {119461},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119461},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006269},
+author = {Jing Wu and Yutong Fu and Linhui Gong and Jia Li and Dan Xia and Jia-Yu Li and Fang-Liang Guo and Yuan-Qing Li and Shao-Yun Fu},
+keywords = {Polymer-matrix composites (PMCs), Rigid-flexible laminates, Cure process, Residual stress, Finite element analysis (FEA)},
+abstract = {The low impact damage resistance of carbon fiber reinforced polymer (CFRP) composite structures is one of the major obstacles to their wide applications. Thus, the rigid-flexible coupled structures of CFRP/rubber composite laminates have been recently developed to overcome this problem. However, due to the mismatch of thermal expansion and chemical shrinkage etc. between CFRP and rubber, the process-induced residual stresses would generate and significantly influence the mechanical behavior of the laminates. In this study, a numerical simulation is established to precisely predict the process-induced residual stresses. Firstly, a theoretical viscoelastic framework for the curing process of CFRP/rubber laminates is proposed, which considers the heat transfer, curing kinetics and mechanical behavior of both CFRP and rubber. Secondly, based on the theoretical framework, the curing process of CFRP/rubber laminates is simulated by finite element method, which is then verified by the experimental results of residual stresses. Finally, the effects of curing temperature, heating rate, and rubber thickness on the residual stresses of rigid-flexible laminated structures are discussed. This work could provide theoretical guidance for design and optimization of the process parameters of CFRP/rubber laminates with significant implications for end usages.}
+}

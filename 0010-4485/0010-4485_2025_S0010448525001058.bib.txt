@@ -1,0 +1,13 @@
+@article{WU2025103944,
+title = {EPR-Net: Enhanced patch representation network for point cloud normal estimation},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103944},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103944},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525001058},
+author = {Min Wu and Yinghui Wang and Liangyi Huang and Jinlong Yang and Wei Li and Jiaxing Shen and Xiaojuan Ning},
+keywords = {Point cloud, Normal estimation, Dynamic graph convolution, Poolformer},
+abstract = {Normal estimation for point clouds is fundamental to 3D geometric processing and applications. Despite recent advances by deep learning-based methods, effectively representing geometric structures in regions with sharp features and complex geometries remains challenging. This limitation primarily arises from the use of general architectures (e.g., CNNs, PointNet) or conventional graph convolutions, which limits the ability to capture fine geometric details in local point cloud patches. Moreover, the persistent issue of scale ambiguity in selecting optimal neighborhoods further hinders precise encoding of local structures. To address these challenges, we propose EPR-Net, a novel framework that enhances local patch representation learning for normal estimation in point clouds. Specifically, we introduce the GraphFormer module, which builds on the PoolFormer architecture to improve feature learning and incorporates graph convolution with adaptive kernels to capture geometric details across different semantic regions, thereby enabling more discriminative feature encodings. Additionally, we design the pyramid dynamic graph update (PDGU) strategy, which guides multi-scale feature aggregation through geometric weights to alleviate the scale ambiguity in neighborhood selection. PDGU also dynamically updates the local k-nearest neighbor (kNN) graph to expand the receptive field, thereby enhancing the ability of the model to extract long-range semantic information from point cloud patches. Extensive experiments are conducted on both synthetic and real-world datasets, and the qualitative and quantitative evaluations demonstrate the superiority of our method in point cloud normal estimation.}
+}

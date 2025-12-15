@@ -1,0 +1,13 @@
+@article{PANDEY2025108682,
+title = {Fabrication, progress and future perspective of MXene/polymeric nano composites for electromagnetic shielding application – A review},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108682},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108682},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006808},
+author = {Mayank Pandey and C. Anju and B.V.S. Praveen and Ali Dashan and Raj Kumar Verma and Bahram Ramezanzadeh},
+keywords = {MXene, Polymer Nanocomposites, EMI Shielding, Functionalization},
+abstract = {MXene is the fastest-growing 2D material with remarkable qualities including surface tunability, high conductivity, easy processibility, thermal stability, and water dispersibility. MXene also represents effective electromagnetic interference (EMI) shielding properties, which can be further enhanced by adopting it with other materials such as polymers, carbon derivatives, fibers, and metal–organic frameworks (MOF). MXene/polymer nanocomposites harness the advantageous traits of both MXenes and polymers, combining the inherent strength of MXenes with the flexibility and ease of processing of polymers. These composite materials exhibit remarkable attributes, including exceptional electromagnetic interference shielding and impressive charge storage capabilities, surpassing those of alternative nanocomposites. This comprehensive review examines the fundamental theory and mechanism of EMI shielding followed by various fabrication processes of MXene-based Polymeric nanocomposites. This paper summarizes the current state of the art, as well as the potential future developments, in the manufacturing of MXene materials for electromagnetic interference (EMI) shielding.}
+}

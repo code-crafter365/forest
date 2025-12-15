@@ -1,0 +1,13 @@
+@article{CHENG2025104499,
+title = {KD-Mamba: Selective state space models with knowledge distillation for trajectory prediction},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104499},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104499},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500222X},
+author = {Shaokang Cheng and Sourav Das and Shiru Qu and Lamberto Ballan},
+keywords = {Trajectory prediction, Selective state space models, Knowledge distillation},
+abstract = {Trajectory prediction is a key component of intelligent mobility systems and human–robot interaction. The inherently stochastic nature of human behavior, coupled with external environmental influences, poses significant challenges for long-term prediction. However, existing approaches struggle to effectively model spatial interactions and accurately predict long-term destinations, while their high computational demands limit real-world applicability. To address these limitations, this paper presents KD-Mamba, the Selective State Space Models with Knowledge Distillation for trajectory prediction. The model incorporates the U-CMamba module, which features a U-shaped encoder–decoder architecture. By integrating convolutional neural networks (CNN) with the Mamba mechanism, this module effectively captures local spatial interactions and global contextual information of human motion patterns. Subsequently, we introduce a Bi-Mamba module, which captures long-term dependencies in human movement, ensuring a more accurate representation of trajectory dynamics. Knowledge distillation strengthens both modules by facilitating knowledge transfer across diverse scenarios. Compared to transformer-based approaches, KD-Mamba reduces computational complexity from quadratic to linear. Extensive experimental results from two real-world trajectory datasets indicate that KD-Mamba outperforms the existing mainstream baselines. The proposed method provides insights into the application of trajectory prediction in human-in-the-loop assistive systems.}
+}

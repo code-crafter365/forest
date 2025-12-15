@@ -1,0 +1,13 @@
+@article{KUMAR2025104444,
+title = {S2DNet: A self-supervised deraining network using monocular videos},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104444},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104444},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001675},
+author = {Aman Kumar and Aditya Mohan and A.N. Rajagopalan},
+keywords = {Single image deraining, Self-supervised, View-synthesis},
+abstract = {Rainy conditions degrade the visual quality of images, thus presenting significant challenges for various vision-based downstream tasks. Traditional deraining approaches often rely on supervised learning methods requiring large, paired datasets of rainy and clean images. However, due to the dynamic and complex nature of rain, compiling such datasets is challenging and often insufficient for training robust models. As a result, researchers often resort to synthetic datasets. However, synthetic datasets have limitations because they often lack realism, can introduce biases, and seldom capture the diversity of real rain scenes. We propose a self-supervised method for image deraining using monocular videos that leverages the fact that rain moves spatially across frames, independently of the static elements in a scene, thus enabling isolation of rain-affected regions. We utilize depth information from the target frame and the camera’s relative pose (translations and rotations) across frames to achieve scene alignment. We apply a view-synthesis constraint that warps features from adjacent frames to the target frame, which enables us to generate pseudo-ground truth images by selecting clean pixels from the warped frame. The pseudo-clean images thus generated are effectively leveraged by our network to remove rain from images in a self-supervised manner without the need for a real rain paired dataset which is difficult to capture. Extensive evaluations on diverse real-world rainy datasets demonstrate that our approach achieves state-of-the-art performance in real image deraining, outperforming existing unsupervised methods.}
+}

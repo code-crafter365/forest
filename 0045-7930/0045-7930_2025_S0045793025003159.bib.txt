@@ -1,0 +1,13 @@
+@article{SMIRNOVA2025106855,
+title = {Convergence acceleration algorithms for non-overlapping domain decomposition in near-wall turbulence modeling},
+journal = {Computers & Fluids},
+volume = {303},
+pages = {106855},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106855},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003159},
+author = {N. Smirnova and S. Utyuzhnikov and V. Titarev and M. Petrov},
+keywords = {Near-wall domain decomposition, Interface boundary condition, Turbulence, Low-Reynolds-number model, Preconditioner, GMRES},
+abstract = {In turbulence modeling the resolution of near-wall boundary layer requires most of computing time. The near-wall domain decomposition (NDD) approach proved to be efficient in tackling this problem. It represents a trade-off between computing time and accuracy. In this method, the computational domain is divided into two non-overlapping subdomains: the inner layer and region outside. The interface boundary conditions of Robin type are set by transferring the boundary conditions from the wall to the interface boundary. In contrast to the exact NDD, in the approximate NDD a simplified system of equations is solved in the near-wall subdomain. In the current paper a variant of the exact NDD is proposed, that uses an operator corresponding to the approximate NDD approach as a preconditioner. To improve the efficiency of NDD methods the GMRES method is applied. The efficacy of NDD algorithms are compared against for the low-Reynolds-number model.}
+}

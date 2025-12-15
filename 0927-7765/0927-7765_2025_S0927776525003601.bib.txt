@@ -1,0 +1,13 @@
+@article{YANG2025114853,
+title = {Enamel remineralization enhancement by mesoporous bioactive glass (MBG) in commercial fluoride varnish and development of an MBG/fluoride chitosan composite hydrogel},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114853},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114853},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003601},
+author = {Linjing Yang and Jiayu Guo and Dan Lin},
+keywords = {Mesoporous bioactive glass, Fluoride, Chitosan, Enamel remineralization, Preventive dentistry},
+abstract = {With its excellent bioactivity and mesoporosity that endows controlled release of chemical or biological cues, mesoporous bioactive glass (MBG) is widely used in bone regeneration, yet less recognized in dentistry. This study investigates the enamel remineralization effect of MBG in commercial fluoride varnishes (FVs), and developes an MBG/fluoride chitosan composite hydrogel. MBG powders are added into commercial FVs (3M™ Clinpro™, Duraphat™) at different ratios to screen out the optimized proportion for mineralization. Further, an MBG/fluoride chitosan composite hydrogel (MBG/NaF/CS) has been developed at the optimized ratio, and its in vitro remineralization effect on tooth enamel after artificial saliva soaking for 1/3/5 days are evaluated via SEM, EDS and Vickers hardness test. Incorporation of 5 wt% MBG in FVs results in the most rapid and extensive hydroxyapatite (HAp) deposition within 24 h. MBG/NaF/CS hydrogel exhibits homogeneity instead of fluoride precipitation in NaF/CS hydrogel. The addition of MBG contributes to rapid, larger, and continuous fluorapatite (FAp) remineralization on enamel surface over time, and restores the hardness of enamel over normal level after 24 h. It is indicated that F- adsorption in MBG mesopores endowed the MBG/NaF/CS hydrogel an unreported continuous enamel remineralization effect up to 5 days under daily brushing. MBG enhances enamel remineralizing capacity of commercial FVs, and the novel MBG/fluoride chitosan composite hydrogel with continuous enamel remineralization effect represented a promising approach for caries management. This study may shed light on further application of MBG in dentistry.}
+}

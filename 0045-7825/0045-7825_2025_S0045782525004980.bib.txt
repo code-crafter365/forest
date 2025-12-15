@@ -1,0 +1,13 @@
+@article{BIRRELL2025118226,
+title = {Nonlinear denoising score matching for enhanced learning of structured distributions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118226},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118226},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004980},
+author = {Jeremiah Birrell and Markos A. Katsoulakis and Luc Rey-Bellet and Benjamin J. Zhang and Wei Zhu},
+keywords = {Score-based generative modeling, Structure-preserving generative modeling, Denoising score-matching, Control variates, Learning from scarce data},
+abstract = {We present a novel method for training score-based generative models which uses nonlinear noising dynamics to improve learning of structured distributions. Generalizing to a nonlinear drift allows for additional structure to be incorporated into the dynamics, thus making the training better adapted to the data, e.g., in the case of multimodality or (approximate) symmetries. Such structure can be obtained from the data by an inexpensive preprocessing step. The nonlinear dynamics introduces new challenges into training which we address in two ways: 1) we develop a new nonlinear denoising score matching (NDSM) method, 2) we introduce neural control variates in order to reduce the variance of the NDSM training objective. We demonstrate the effectiveness of this method on several examples: a) a collection of low-dimensional examples, motivated by clustering in latent space, b) high-dimensional images, addressing issues with mode imbalance, small training sets, and approximate symmetries, the latter being a challenge for methods based on equivariant neural networks, which require exact symmetries, c) latent space representation of high-dimensional data, demonstrating improved performance with greatly reduced computational cost. Our method learns score-based generative models with less data by flexibly incorporating structure arising in the dataset.}
+}

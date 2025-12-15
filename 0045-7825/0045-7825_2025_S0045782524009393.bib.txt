@@ -1,0 +1,13 @@
+@article{MENG2025117685,
+title = {The interior penalty virtual element method for the two-dimensional biharmonic eigenvalue problem},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117685},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117685},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009393},
+author = {Jian Meng and Bing-Bing Xu and Fang Su and Xu Qian},
+keywords = {Interior penalty VEM, Biharmonic eigenvalue problem, The vibration and buckling problems of Kirchhoff–Love plate, Spectral approximation, Error estimates},
+abstract = {The biharmonic eigenvalue problem is a fourth order eigenmodel appearing in many applications of the mechanics, fluid and inverse scattering theory. In this paper, we introduce the interior penalty virtual element method for the biharmonic eigenvalue problem in two dimensions. It preserves the symmetric positive-definiteness of the continuous problem and reduces the total number of required degrees of freedom. Considering standard assumptions on polygonal meshes, we prove the correct approximation of spectrum for the proposed virtual element scheme. Necessitated by supporting the convergence analysis, representative numerical examples are reported, including the optimal convergence on different meshes, the associate vibration and buckling problems with clamped, simply supported and Cahn–Hilliard boundary conditions, together with developing Serendipity version dropping the internal-to-element degrees of freedom.}
+}

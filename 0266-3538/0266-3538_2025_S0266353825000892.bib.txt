@@ -1,0 +1,13 @@
+@article{MENG2025111121,
+title = {Energy-efficient, highly robust anti-icing/de-icing composites and icing wind tunnel assessment},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111121},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111121},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000892},
+author = {Yunyun Meng and Nan Wu and Yanxin Zhang and Jinshui Yang and Song Wang and Suli Xing and Senyun Liu and Xian Yi},
+keywords = {Anti-Icing/de-icing, Superhydrophobic surface, Energy-efficient, High durability, FRPC},
+abstract = {Superhydrophobic surfaces have been extensively developed as attractive anti-icing/de-icing candidate materials for fiber-reinforced polymer-based composites (FRPCs), thereby often being integrated with electrothermal effect to minimize its energy consumption. However, the structural incoordination between FRPC, superhydrophobic surfaces, and electric heating elements usually leads to high energy loss and low durability. Herein, a wet spraying method was proposed for the fabrication of robust superhydrophobic electrothermal films and that were subsequently endowed to the FRPC surfaces through pressure-assisted integrating molding. Our structural-functional integration strategy does not compromise the molding conditions and key components of FRPC, yielding a >95 % retention of the mechanical strength. Additionally, the electrothermal effect was proven well preserved, thereby enhancing the freezing-delaying effect of 1 + 1>2, reducing ice adhesion strength from 234 kPa to 5.4 kPa, and remaining unchanged superhydrophobicity after 100 cycles of icing/de-icing. The underlying mechanism can be attributed to thermal-governed heat and mass transfer at the interface facilitating synergistic regulation of phase transition and wettability of water/ice. Importantly, the practical value of multi-functionalized FRPC was assessed by icing wind tunnel, confirming the anti-icing effect at 0.3 W/cm2 and 26 % reduction in de-icing energy consumption. The prepared energy-efficient and highly robust anti-icing/de-icing FRPC should satisfy the growing demands in the aviation and energy fields.}
+}

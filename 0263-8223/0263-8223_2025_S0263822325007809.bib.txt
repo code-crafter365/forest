@@ -1,0 +1,13 @@
+@article{KATILI2025119615,
+title = {DSQK finite element with assumed orthogonality bending energy and mixed transverse shear strains for thermal buckling analysis of three-layer functionally graded sandwich plates},
+journal = {Composite Structures},
+volume = {372},
+pages = {119615},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119615},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007809},
+author = {Irwan Katili and Sundararajan Natarajan and Magd Abdel Wahab and Susilo Widyatmoko},
+keywords = {DSQK quadrilateral element, Assumed orthogonality bending energy, Mixed transverse shear strains, Thermal buckling, FSDT, FGM},
+abstract = {Thermal buckling of three-layer functionally graded sandwich plates is numerically studied using a new modified discrete shear quadrilateral plate element called the DSQK element. The plate kinematics is based on the Mindlin-Reissner formulation, and the proposed plate element has five degrees of freedom per node. To pass the constant bending strain patch test, an assumed orthogonality in bending strain energy is adopted from Bergan’s free formulation. The shear locking is alleviated by mixed transverse shear strains that are expressed by the second derivative of rotations obtained from the kinematic relationship, constitutive law, and equilibrium equations. The proposed element is valid for both thin and thick plates. The accuracy and the robustness of the proposed element are demonstrated with a few numerical examples. Furthermore, the influence of the plate aspect ratio, material gradient index, various schemes and thicknesses of three-layer functionally graded sandwich plates on the thermal buckling behaviour is studied.}
+}

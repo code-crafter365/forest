@@ -1,0 +1,13 @@
+@article{DENUNZIO2025119540,
+title = {Experimental validation of an innovative inverse material constants identification method based on natural frequencies},
+journal = {Composite Structures},
+volume = {372},
+pages = {119540},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119540},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007056},
+author = {Andrea Vincenzo {De Nunzio} and Riccardo Nobile and Giada Faraco and Arcangelo Messina},
+keywords = {Composites, Material properties, Experimental Modal Analysis, Nondestructive evaluation, Natural frequencies, Classical plate theory},
+abstract = {This manuscript presents an innovative inverse identification method based on experimental modal analysis (EMA) to identify the elastic constants of a material without prior knowledge of its nature, whether isotropic, orthotropic, or anisotropic, nor the fiber orientation. The proposed approach combines numerical and experimental techniques, leveraging a Ritz-type model and an optimization algorithm to minimize the discrepancy between experimental and numerical modal data. The objective is to demonstrate the effectiveness of the method through an extensive experimental campaign on 3D-printed polylactic acid specimens, which are expected to exhibit orthotropic behavior due to the manufacturing process. To validate the results, a static measurement campaign using traditional methods was conducted after the dynamic measurements, allowing for material property identification and a direct comparison between the two identification approaches. The results show that the method can identify the material’s engineering constants with a deviation of about 7%, when compared to static tests which is negligible compared to the advantages of EMA techniques, such as fast execution and non-destructive testing. Moreover, the proposed method is also capable of identifying the fiber orientation angle, which represents a novelty compared to other methods based on EMA that can be found in the literature.}
+}

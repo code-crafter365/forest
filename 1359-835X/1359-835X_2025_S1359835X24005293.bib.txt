@@ -1,0 +1,13 @@
+@article{LI2025108531,
+title = {Analysis of rapid decompression failure in polymer liner of Type IV hydrogen storage vessels using a novel fluid–solid coupling model},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108531},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108531},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005293},
+author = {Yitao Li and Zhongmin Xiao and Yanmei Zhang and Weiguo Li and Wengang Zhang},
+keywords = {Type IV hydrogen storage vessels, Fluid-solid coupling model, Critical decompression rate, Nonlinear buckling},
+abstract = {Type IV vessels have been developed for hydrogen storage systems, but the rapid decompression failure during the decompression process can lead to the collapse of the liner, significantly reducing the lifespan of vessels. This study aims to investigate nonlinear buckling behaviors and collapse mechanisms of polymer liner in Type IV hydrogen storage vessels. Considering the intrinsic coupling between hydrogen gas decompression and mechanical behavior of vessels, a fluid–solid coupling model for the decompression process of Type IV vessels was proposed using the fluid cavity techniques and HyperMesh. Results indicated that the pressure difference generated on the liner is the primary cause leading to the polymer liner collapse. The critical pressure difference significantly increases with the thickness of the liner, while it decreases nonlinearly with the increase in void defect size. Parametric sensitivity analysis highlighted the depth of initial void defect and the liner thickness as two significant influencing factors in the critical decompression rate.}
+}

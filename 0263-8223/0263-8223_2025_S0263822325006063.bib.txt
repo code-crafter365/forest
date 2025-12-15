@@ -1,0 +1,13 @@
+@article{NATRAJ2025119441,
+title = {Ferroelectric and energy harvesting properties of lithium niobate/PDMS composite films for knee squat detection and self-powered humidity sensor},
+journal = {Composite Structures},
+volume = {370},
+pages = {119441},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119441},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006063},
+author = {Vishal Natraj and Vigneshwaran Mohan and Parthiban Pazhamalai and Sang-Jae Kim},
+keywords = {Lithium niobate, Ferroelectricity, Hybrid nanogenerator, Knee squat, Humidity sensor},
+abstract = {Biomechanical energy harvesters have created significant attention in the energy sector as it is ease to integration in the real time application for powering smart wearable electronics. This study showcases the preparation and application of lithium niobate (LiNbO3) nanostructures towards hybrid nanogenerators (piezo-/triboelectric) for self-powered applications. The physicochemical characterization includes XRD, FT-IR, and SEM validate the formation of lithium niobate. LCR, P-E loop, and d33 coefficient analyses for LNO/PDMS composite films reveal their outstanding dielectric and ferroelectric properties. The hybrid nanogenerator device delivers a high output voltage of 200 V with a power of 21.2 μW/cm2 compared to that of the standalone piezoelectric (65 V) and triboelectric nanogenerator (130 V), this is due to the enhanced surface charge confirmed using Kelvin probe force microscopy (KPFM) technique. For the proof of concept, we developed a knee squat sensor to diagnose osteoarthritis using piezoelectric nanogenerator and a self-powered humidity sensor using the hybrid nanogenerator device. The developed self-powered humidity sensor exhibited excellent linearity and sensitivity of 0.99915 and 0.01254 ± 0.00021/RH% in the relative humidity range of 30–80 % RH. Overall, the experimental results suggest the promising use of lithium niobate in the field of energy harvesting towards the development of self-powered sensors/systems.}
+}

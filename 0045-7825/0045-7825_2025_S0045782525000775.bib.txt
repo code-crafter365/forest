@@ -1,0 +1,13 @@
+@article{SOMA2025117805,
+title = {Topology optimization considering shielding and penetrating features based on fictitious physical model},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117805},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117805},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000775},
+author = {Daiki Soma and Kota Sakai and Takayuki Yamada},
+keywords = {Topology optimization, Fictitious physical model, Shielding condition, Penetrating condition, Geometric condition},
+abstract = {This paper proposes topology optimization for considering shielding and penetrating features. Based on the fictitious physical model, which is a useful approach to control geometric features, the proposed method analyzes fictitious steady-state temperature fields and interprets target geometric features by examining the temperature change. First, the concept of topology optimization based on the level set method is introduced. Next, the basic idea of the fictitious physical model for considering geometric features is explained. Then, the differences between the shielding and penetrating features are clarified, and the fictitious physical model for evaluating these features is proposed. Furthermore, topology optimization for the minimum mean compliance problem with geometric conditions is formulated. Finally, 2D and 3D numerical examples are presented to validate the proposed method.}
+}

@@ -1,0 +1,13 @@
+@article{YAN2025117950,
+title = {Populating cellular metamaterials on the extrema of attainable elasticity through neuroevolution},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117950},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117950},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002221},
+author = {Maohua Yan and Ruicheng Wang and Ke Liu},
+keywords = {Metamaterials, Neuroevolution, Multi-objective optimization, Mechanical oroperties, Compositional pattern-producing networks (CPPNs)},
+abstract = {The trade-offs between different mechanical properties of materials pose fundamental challenges in engineering material design, such as balancing stiffness versus toughness, weight versus energy-absorbing capacity, and among the various elastic coefficients. Although gradient-based topology optimization approaches have been effective in finding specific designs and properties, they are not efficient tools for surveying the vast design space of metamaterials, and thus unable to reveal the attainable bound of interdependent material properties. Other common methods, such as parametric design or data-driven approaches, are limited by either the lack of diversity in geometry or the difficulty to extrapolate from known data, respectively. In this work, we formulate the simultaneous exploration of multiple competing material properties as a multi-objective optimization (MOO) problem and employ a neuroevolution algorithm to efficiently solve it. The Compositional Pattern-Producing Networks (CPPNs) is used as the generative model for unit cell designs, which provide very compact yet lossless encoding of geometry. A modified Neuroevolution of Augmenting Topologies (NEAT) algorithm is employed to evolve the CPPNs such that they create metamaterial designs on the Pareto front of the MOO problem, revealing empirical bounds of different combinations of elastic properties. Looking ahead, our method serves as a universal framework for the computational discovery of diverse metamaterials across a range of fields, including robotics, biomedicine, thermal engineering, and photonics.}
+}

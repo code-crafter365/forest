@@ -1,0 +1,13 @@
+@article{QI2025104495,
+title = {FCNet: A feature complementary network for nighttime flare removal},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104495},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104495},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002188},
+author = {Kejing Qi and Bo Wang and Chongyi Li},
+keywords = {Nighttime flare removal, Fourier transform, Transformer},
+abstract = {Nighttime image flare removal is a very challenging task due to the presence of various types of unfavorable degrading effects, including glare, shimmer, streak and saturated blobs. Most of the existing methods focus on the spatial domain and limited perception field, resulting in incomplete flare removal and severe artifacts. To address these challenges, we propose a two-stage feature complementary network for nighttime flare removal, which is used for flare perception and removal, respectively. In the first stage, a Spatial-Frequency Complementary Module (SFCM) is designed to perceive the flare region from different domains to get a mask of the flare. In the second stage, the flare mask and image are fed into the Spatial-Frequency Complementary Gating Module (SFCGM) to preserve the background information, while removing the flares from different angles and restoring the detailed features. Finally the flare and non-flare regions are modeled by the Flare Interactive Module (FIM) to refine the flare regions at a fine-grained level to suppress the artifact problem. Extensive experiments on Flare 7K++ validate the superiority of the proposed approach over state-of-the-arts, both qualitatively and quantitatively.}
+}

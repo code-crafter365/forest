@@ -1,0 +1,13 @@
+@article{LIU2025114258,
+title = {Engineering of exosome-liposome hybrid-based theranostic nanomedicines for NIR-II fluorescence imaging-guided and targeted NIR-II photothermal therapy of subcutaneous glioblastoma},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114258},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114258},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005174},
+author = {Yue Liu and Menglong Li and Jingsi Gu and Haiyan Huang and Hui Xie and Chen Yu and Shubham Roy and Xin Chen and Ting Kuang and Yinghe Zhang and Shengwei Jiang and Bing Guo},
+keywords = {Fluorescence imaging in the second near-infrared window, Photothermal therapy, Exosomes, Brain tumor, Theranostics},
+abstract = {Exosome-liposome hybrid-based vehicles (ELV) are promising carriers for cancer treatment, but there are rare efficient theranostic probes to label their lipid bilayer membrane for precisely tracing biodistribution and execute potent therapy. As both fluorescence imaging and photothermal therapy in the second near-infrared window (NIR-II) has intrinsically deep penetration and high efficacy to ablate tumors, herein the design and synthesis of lipophilic NIR-II cyanine dyes with strong donor strength is reported to label lipid bilayer membrane of ELV for NIR-II fluorescence image-guided and targeted NIR-II photothermal treatment of subcutaneous glioblastoma. Via lipid film hydration and subsequent extrusion method, the synthesized ELV (NIR-C12-EL) is formulated with NIR-C12 labeling, cyclic arginylglycylaspartic acid decoration, liposomal PEGylation, and biological exosome function. NIR-C12-EL exhibits excellent colloidal stability, good biocompatibility, strong light harvesting capability, high NIR-II photoconversion efficiency (62.28 %), and targeting capability to diagnose and ablate tumors, which together contribute to the extended life-span of the mice treatment with NIR-C12-EL and continuous 1064 nm laser irradiation. This study provides insight into not only designing of lipophilic NIR-II fluorescence probes for labeling of exosome-liposome hybrid-based vehicles but also the engineering of theranostic nanoplatforms for precise treatment of glioblastoma.}
+}

@@ -1,0 +1,13 @@
+@article{LI2025102489,
+title = {DDEvENet: Evidence-based ensemble learning for uncertainty-aware brain parcellation using diffusion MRI},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102489},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102489},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001666},
+author = {Chenjun Li and Dian Yang and Shun Yao and Shuyue Wang and Ye Wu and Le Zhang and Qiannuo Li and Kang Ik Kevin Cho and Johanna Seitz-Holland and Lipeng Ning and Jon Haitz Legarreta and Yogesh Rathi and Carl-Fredrik Westin and Lauren J. O’Donnell and Nir A. Sochen and Ofer Pasternak and Fan Zhang},
+keywords = {Diffusion MRI, Uncertainty estimation, Brain parcellation, Deep learning},
+abstract = {In this study, we developed an Evidential Ensemble Neural Network based on Deep learning and Diffusion MRI, namely DDEvENet, for anatomical brain parcellation. The key innovation of DDEvENet is the design of an evidential deep learning framework to quantify predictive uncertainty at each voxel during a single inference. To do so, we design an evidence-based ensemble learning framework for uncertainty-aware parcellation to leverage the multiple dMRI parameters derived from diffusion MRI. Using DDEvENet, we obtained accurate parcellation and uncertainty estimates across different datasets from healthy and clinical populations and with different imaging acquisitions. The overall network includes five parallel subnetworks, where each is dedicated to learning the FreeSurfer parcellation for a certain diffusion MRI parameter. An evidence-based ensemble methodology is then proposed to fuse the individual outputs. We perform experimental evaluations on large-scale datasets from multiple imaging sources, including high-quality diffusion MRI data from healthy adults and clinically diffusion MRI data from participants with various brain diseases (schizophrenia, bipolar disorder, attention-deficit/hyperactivity disorder, Parkinson’s disease, cerebral small vessel disease, and neurosurgical patients with brain tumors). Compared to several state-of-the-art methods, our experimental results demonstrate highly improved parcellation accuracy across the multiple testing datasets despite the differences in dMRI acquisition protocols and health conditions. Furthermore, thanks to the uncertainty estimation, our DDEvENet approach demonstrates a good ability to detect abnormal brain regions in patients with lesions that are consistent with expert-drawn results, enhancing the interpretability and reliability of the segmentation results.}
+}

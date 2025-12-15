@@ -1,0 +1,13 @@
+@article{ZHANG2025119415,
+title = {A new integrated modeling method for investigating the impact of cure process on the compressive response of z-pinned CFRP laminates},
+journal = {Composite Structures},
+volume = {370},
+pages = {119415},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119415},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500580X},
+author = {Shengnan Zhang and Yutong Jia and Yingjie Xu and Weihong Zhang},
+keywords = {Through-thickness reinforcement, Resin matrix composites, Microstructural characteristics, Curing residual stress, Finite element, Mechanical properties},
+abstract = {The application of z-pinning significantly enhances the interlaminar performance of carbon fiber reinforced polymer (CFRP) composites. However, the insertion of z-pins can induce fiber distortion with the formation of resin-rich regions, which may compromise in-plane mechanical properties. This study considers the influence of the cure process on the in-plane compressive behavior of z-pinned laminates. A novel micromechanical model is proposed that incorporates temporal material curing properties. The model employs a cohesive element approach with a bilinear constitutive law to accurately simulate interactions within the z-pins and resin-rich regions. As a consequence of pronounced discrepancies in thermal expansion and chemical shrinkage, substantial residual stresses develop around the z-pins following curing. Under compressive loading, the interface with reduced mechanical integrity is prone to initial crack formation, with progressive damage that is propagated into adjacent resin-rich areas. In addition, a parametric analysis has been conducted to evaluate the effects of various z-pin diameters and z-pin densities on the in-plane compressive characteristics, offering valuable insights for optimizing high in-plane mechanical performance.}
+}

@@ -1,0 +1,13 @@
+@article{ELIAS2025117688,
+title = {Macroscopic stress, couple stress and flux tensors derived through energetic equivalence from microscopic continuous and discrete heterogeneous finite representative volumes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117688},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117688},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009423},
+author = {Jan Eliáš and Gianluca Cusatis},
+keywords = {Heterogeneity, Mesoscale, Discrete model, Cosserat continuum, Homogenization, Macroscale, Energy equivalence, Mechanics, Poisson’s equation},
+abstract = {This paper presents a rigorous derivation of equations to evaluate the macroscopic stress tensor, the couple stress tensor, and the flux vector equivalent to underlying microscopic fields in continuous and discrete heterogeneous systems with independent displacements and rotations. Contrary to the classical asymptotic expansion homogenization, finite size representative volume is considered. First, the macroscopic quantities are derived for a heterogeneous Cosserat continuum. The resulting continuum equations are discretized to provide macroscopic quantities in discrete heterogeneous systems. Finally, the expressions for discrete system are derived once again, this time considering the discrete nature directly. The formulations are presented in two variants, considering either internal or external forces, couples, and fluxes. The derivation is based on the virtual work equivalence and elucidates the fundamental significance of the couple stress tensor in the context of balance equations and admissible virtual deformation modes. Notably, an additional term in the couple stress tensor formula emerges, explaining its dependence on the reference system and position of the macroscopic point. The resulting equations are verified by comparing their predictions with known analytical solutions and results of other numerical models under both steady state and transient conditions.}
+}

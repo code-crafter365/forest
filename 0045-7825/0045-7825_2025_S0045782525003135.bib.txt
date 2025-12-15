@@ -1,0 +1,13 @@
+@article{ASTUTO2025118041,
+title = {A nodal ghost method based on variational formulation and regular square grid for elliptic problems on arbitrary domains in two space dimensions},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118041},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118041},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003135},
+author = {Clarissa Astuto and Daniele Boffi and Giovanni Russo and Umberto Zerbinati},
+keywords = {Elliptic equations, Arbitrary domain, Nodal ghost elements, a priori convergence analysis, Unfitted boundary methods},
+abstract = {This paper focuses on the numerical solution of elliptic partial differential equations (PDEs) with Dirichlet and mixed boundary conditions, specifically addressing the challenges arising from irregular domains. Both finite element method (FEM) and finite difference method (FDM), face difficulties in dealing with arbitrary domains. The paper introduces a novel nodal symmetric ghost method based on a variational formulation, which combines the advantages of FEM and FDM. The method employs bilinear finite elements on a structured mesh and provides a detailed implementation description. A rigorous a priori convergence rate analysis is also presented. The convergence rates are validated with many numerical experiments, in both one and two space dimensions.}
+}

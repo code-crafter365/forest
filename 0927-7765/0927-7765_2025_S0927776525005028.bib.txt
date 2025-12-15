@@ -1,0 +1,11 @@
+@article{XIANG2025114995,
+title = {Corrigendum to “Copper tannate nanosheets-embedded multifunctional coating for antifouling and photothermal bactericidal application” [Colloids Surf. B: Biointerfaces 245 (2025) 114208]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114995},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114995},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005028},
+author = {Li Xiang and Weizhe Li and Yanqing Liu and Gnanasekar Sathishkumar and Xiaodong He and Huajun Wu and Runlong Ran and Kai Zhang and Xi Rao and En-Tang Kang and Liqun Xu}
+}

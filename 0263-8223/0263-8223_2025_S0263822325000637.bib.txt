@@ -1,0 +1,13 @@
+@article{RIZZONI2025118898,
+title = {Localization effects in micropolar laminated composites with imperfect contact conditions},
+journal = {Composite Structures},
+volume = {357},
+pages = {118898},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118898},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000637},
+author = {Raffaella Rizzoni and Michele Serpilli and Reinaldo Rodríguez-Ramos and Yoanh Espinosa-Almeyda and Frédéric Lebon and Maria Letizia Raffa and Serge Dumont},
+keywords = {Micropolar elasticity, Laminate, Homogenization, Strain concentration, Stress concentration},
+abstract = {Within the framework of three-dimensional linear micropolar media, the Asymptotic Homogenization Method (AHM) has been recently applied to obtain the effective engineering moduli for a laminated composite with imperfect contact between the layers. The imperfect contact is prescribed by using a micropolar spring-type interface model, and the interface parameters enter the engineering constants related to the stiffness and torque. In this work, we obtain the concentration tensors linking the macroscopic averaged quantities (stress/couple-stress and strain/curvature) with their microscopic counterparts. A numerical example is proposed to illustrate the influence of the phases volume fraction and of the interface parameters on the strain/curvature and stress/couple-stress concentrations.}
+}

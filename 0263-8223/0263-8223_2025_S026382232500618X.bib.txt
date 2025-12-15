@@ -1,0 +1,13 @@
+@article{SHEN2025119453,
+title = {A modification method of Hashin failure criteria considering multiaxial coupling effect for unidirectional composites},
+journal = {Composite Structures},
+volume = {371},
+pages = {119453},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119453},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500618X},
+author = {Jiongyao Shen and Junhua Guo and Huabing Wen and Chun Guo and Yifan Zhang and Weidong Wen and Wantao Guo},
+keywords = {Unidirectional composites, Hashin failure criteria, Multiaxial coupling modification, Off-axis strength prediction, Failure envelope evaluation},
+abstract = {The Hashin failure criteria is widely used for failure assessment in composites, but long-term engineering application experience shows that the criteria are not sufficiently accurate for failure determination under multiaxial stress states, especially in cases involving combined longitudinal and transverse stresses. In this work, the coefficients of the uncoupled terms under different stress states are determined from the general stress failure function by comparing with the original Hashin criteria. Furthermore, the current popular assumption of infinite transverse hydrostatic compressive strength is discarded, and the differential failure modes of simultaneous increase in absolute values of triaxial stresses at different anisotropic strength of composites are considered, which in turn leads to the construction of a computational model for the multiaxial coupling coefficients, and these coefficients are solved in some special stress states. Subsequently, experimental data from existing literatures are used to validate the original and modified Hashin criteria, followed by an evaluation of the basic mechanical parameters for the modified Hashin criteria. The results indicate that, the modified Hashin criteria show only a marginal improvement in predicting off-axis strength, while the accuracy of biaxial and multiaxial failure envelope predictions is significantly higher compared to the original criteria. Therefore, the modified Hashin criteria provides a more precise approach for the composite structural design, offering significant theoretical and practical value.}
+}

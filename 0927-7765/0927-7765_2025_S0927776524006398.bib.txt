@@ -1,0 +1,13 @@
+@article{SHAO2025114380,
+title = {Photocatalytic, photothermal, and blood-brain barrier-permeable carbon nanodots: A potent multifunctional scavenger for β-amyloid plaque},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114380},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114380},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006398},
+author = {Xu Shao and Muqiong Li and Chaoren Yan and Chao Wang and Xin Wang and Ping Guan and Xiaoling Hu and Li Fan},
+keywords = {Carbon nanodot, Amyloid, Photooxidation, Photothermal, Blood-brain barrier},
+abstract = {Alzheimer’s disease (AD) is associated with amyloid production and buildup in the brain, leading to neurodegeneration. In this study, we used a solvent-thermal technique to produce light-sensitive carbon nanodots (L-CNDs). L-CNDs exhibit outstanding photocatalytic properties, producing singlet oxygen (1O2) under 630 nm irradiation. L-CNDs have a high photothermal conversion efficiency of 68.25 % under 808 nm irradiation, allowing for localized heating and regulation of Aβ aggregation. L-CNDs bind Aβ through hydrophobic interaction and π-π stacking. L-CNDs inhibit Aβ aggregation with efficiencies of 61.08 %, 75.09 %, and 91.72 % at 10 μg·mL−1 in photothermal therapy (PTT), photodynamic therapy (PDT), and PTT/PDT synergistic therapy, respectively. L-CNDs efficiently suppress Aβ misfolding, inhibit fibrillation, and promote disaggregation of mature fibrils. L-CNDs mitigate Aβ-induced cytotoxicity in PC12 and HT22 cells. Interestingly, the data showed that 84.6 % of the L-CNDs could penetrate bEnd.3 cells after 8 h of treatment, demonstrating that they have the capacity to cross the blood-brain barrier (BBB) because of their small size. In vitro investigations have shown that L-CNDs can pass through the BBB. Collectively, our findings reveal a unique technique for treating amyloid disorders using carbon nanodots with significant potential for future studies in this area.}
+}

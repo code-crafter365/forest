@@ -1,0 +1,13 @@
+@article{LU2025117794,
+title = {Coupled semi-Lagrangian and poroelastic peridynamics for modeling hydraulic fracturing in porous media},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117794},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117794},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000660},
+author = {Zirui Lu and Fan Zhu and Yosuke Higo and Jidong Zhao},
+keywords = {Porous media, Fracture, Fluid-solid interaction, Peridynamics, Leak-off},
+abstract = {A novel peridynamics-based computational approach is proposed for modeling hydraulic fracturing in porous media with consideration of leak-off effect. The approach features the use of the semi-Lagrangian peridynamics (PD) formulation which simulates fluid, and the poroelastic PD formulation which simulates deformation and fracture of porous solid with seepage flow. A new porous flow equation, which suits in the state-based PD, is derived using Non-local Differential Operators (NDOs) and based on Darcy’s law. A novel fluid-solid interface (FSI) model is proposed by coupling the two PD formulations. The FSI considers both the hydraulic forces applied on the fracture surfaces and the leak-off of fluid into poroelastic media. The proposed model is verified by benchmark cases including one-dimensional consolidation, 2-D Mandel’s problem, and constant head permeability test, for which analytical solutions are available. It is then applied to simulate hydraulic fracturing in porous media with consideration of the fluid leak-off and benchmarked with the analytical solutions from the Kristianovich-Geertsma-de Klerk (KGD) model and Carter’s equation. Simulation results demonstrate that the proposed model can reasonably capture the porous flow and pore pressure variation with solid deformation, the mass exchange between the fluid in the fracture and porous flow, and the fracture propagation in the porous media with concurrent leak-off.}
+}

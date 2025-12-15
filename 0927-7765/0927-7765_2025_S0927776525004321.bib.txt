@@ -1,0 +1,13 @@
+@article{LI2025114925,
+title = {Strategies for regulating catalytic specificity of nanozyme},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114925},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114925},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004321},
+author = {Zhen Li and Min Gao and Luqman Ali Shah and Hongbin Zhao and Daixin Ye},
+keywords = {Nanozymes, Catalytic specificity, Molecular imprinting, Bionics design},
+abstract = {Nanozymes represent an emerging class of nanomaterials that exhibit enzyme-like activity and mimic the kinetics of enzyme-catalyzed reactions. Their superior stability, catalytic activity, and cost-effectiveness have garnered significant attention in recent years. Highly specificity nanozymes can increase catalytic efficiency by dozens of times, Enhancing catalytic specificity is crucial for their practical production and application. This review provides a detailed discussion on the regulation of nanozymes and their catalytic specificity. Specifically, the construction principles and methods for enhancing the catalytic selectivity of nanozymes are introduced from two main aspects: the design of nanozymes and the alteration of external environmental conditions. Designing nanozymes encompasses strategies such as modifying the structural properties of nanozymes to optimize active sites, employing doping techniques to introduce specific functional groups, and engineering the surface characteristics to facilitate selective interactions with target substrates. Changing external environmental conditions involves modulating factors such as pH, temperature and light. The concludes by presenting a comprehensive analysis of the emerging applications and future development directions in precision regulation of nanozyme specificity.}
+}

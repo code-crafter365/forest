@@ -1,0 +1,13 @@
+@article{ZHONG2025117540,
+title = {Physics-Informed Geometry-Aware Neural Operator},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117540},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117540},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007941},
+author = {Weiheng Zhong and Hadi Meidani},
+keywords = {Physics-informed deep learning, Neural operator, Geometry generalization},
+abstract = {Engineering design problems often involve solving parametric Partial Differential Equations (PDEs) under variable PDE parameters and domain geometry. Recently, neural operators have shown promise in learning PDE operators and quickly predicting the PDE solutions. However, training these neural operators typically requires large datasets, the acquisition of which can be prohibitively expensive. To overcome this, physics-informed training offers an alternative way of building neural operators, eliminating the high computational costs associated with Finite Element generation of training data. Nevertheless, current physics-informed neural operators struggle with limitations, either in handling varying domain geometries or varying PDE parameters. In this research, we introduce a novel method, the Physics-Informed Geometry-Aware Neural Operator (PI-GANO), designed to simultaneously generalize across both PDE parameters and domain geometries. We adopt a geometry encoder to capture the domain geometry features, and design a novel pipeline to integrate this component within the existing Deep Compositional Operator Network architecture. Numerical results demonstrate the accuracy and efficiency of the proposed method. All the codes and data related to this work are available on GitHub: https://github.com/uq-group/codes/tree/main/PI-GANO.}
+}

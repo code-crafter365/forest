@@ -1,0 +1,13 @@
+@article{RONCONI2025108940,
+title = {Mechanical characterisation and interfacial analysis of continuous flax fibre reinforced unidirectional green composites using filament winding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108940},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108940},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002349},
+author = {G. Ronconi and A. Behrens and R. Hirschberg and M. Zanelli and N. Graupner and J. Müssig and P. Russo and F. Mollica and V. Mazzanti},
+keywords = {Biobased materials, Microbond, Shear properties, Polylactide, Natural fibres, Thermoplastic hot compaction},
+abstract = {Plant fibre-reinforced biobased thermoplastics (also known as “green composites”) are interesting materials from the point of view of eco-sustainability but still have problems of lower mechanical properties and difficult processability when compared to other more common composite materials, such as continuous glass or carbon fibre-reinforced thermosets. In this paper, unidirectional green composite laminae made of flax fibre-reinforced polylactide (PLA) were obtained through film stacking together with a filament winding process followed by a hot compaction phase. This technique permits to apply pretensioning on the flax rovings before hot compaction to limit possible misalignment. Interfacial properties measurement, analysis of fracture surfaces and a complete tensile mechanical characterisation were performed to evaluate the effectiveness of this procedure. The results showed that a structural composite in the longitudinal direction (∼170 MPa strength) can be obtained that has a low void content, an adequate fibre–matrix macro-impregnation and a limited dispersion in mechanical properties due to the limited fibre misalignment.}
+}

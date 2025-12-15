@@ -1,0 +1,13 @@
+@article{K2025114301,
+title = {Reusable and non-invasive TiO2-based photodynamic transdermal patch (RPT) for treating MDR-negative bacteria strain and promote wound healing through a synergistic approach of ROS-induced RNS},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114301},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114301},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005605},
+author = {Thala K and Aditi Machina and Shagufta Parveen and Lakshmi Narashimhan Ramana},
+keywords = {Reusable photodynamic transdermal patch, Reactive oxygen species, Reactive nitrogen species, Antibacterial, Wound healing},
+abstract = {Wound healing is delayed due to the infection and biofilm formation of antibiotic-resistant species of gram-negative bacteria especially Pseudomonas aeruginosa and Escherichia coli. Antibacterial photodynamic therapy provides an efficient therapeutic strategy for overcoming drug resistance by producing reactive oxygen species (ROS) and reactive nitrogen species (RNS). Here, we have designed a low-cost light emitting diode (LED) based reusable and non-invasive titanium dioxide nanoparticles patch which is sandwiched between the thin polymer layers. The light-induced pore formation in the polymeric film due to the free radical, in turn, passes through the system and kills the bacteria rather than nanoparticles entering the system resulting in the reusability nature of the patch. The patch's in vitro antibacterial and antibiofilm activity and their mechanism (synergic ROS-induced RNS) were studied. In addition, the reusable antibacterial properties, biocompatibility and wound-healing properties of the patch were also successfully elucidated.}
+}

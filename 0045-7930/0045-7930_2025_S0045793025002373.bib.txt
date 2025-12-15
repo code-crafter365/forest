@@ -1,0 +1,13 @@
+@article{YAJAMAN2025106777,
+title = {A new polynomial reconstruction scheme AENO-C for ADER methods to very-high orders of accuracy},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106777},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106777},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002373},
+author = {Siddharth Yajaman and Eleuterio F. Toro and Riccardo Demattè},
+keywords = {Hyperbolic equations, Finite volume, ADER methods, High-order methods, Polynomial reconstruction},
+abstract = {In this paper, we introduce AENO-C, a high-order polynomial reconstruction scheme that builds upon AENO by employing a special averaging of the ENO polynomial and a conservative polynomial constructed from the centred stencil closest to the ENO stencil, using a new joining function with improved asymptotic properties. The scheme is systematically evaluated within the ADER finite-volume framework up to tenth-order accuracy on test cases involving the linear advection equation, Burgers’ equation with a source term, and the Euler equations. It is found to perform highly satisfactorily across different scenarios, including both smooth and discontinuous profiles, and for all considered orders of accuracy. For smooth solutions, it exhibits convergence rates clearly superior to ENO and the original AENO, making it competitive and, in many situations, even more efficient than WENO in achieving a given error tolerance. For discontinuous solutions, it demonstrates remarkable robustness, effectively resolving complex features with high fidelity while preventing the appearance of spurious oscillations. The new reconstruction scheme is simple to implement, computationally cheap, with a cost comparable to ENO and AENO, and provides a closed form polynomial expression which can be evaluated at any desired point.}
+}

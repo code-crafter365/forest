@@ -1,0 +1,13 @@
+@article{TARAFDAR2025111382,
+title = {In-plane vs. out-of-plane auxetic architecture: Uncoupling tensile strength and indentation resistance of layered composite structures},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111382},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111382},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003501},
+author = {Amirreza Tarafdar and Wenhua Lin and Andrea J. Hoe and Yeqing Wang},
+keywords = {Layered composite structures, Auxetic layup, Negative Poisson's ratio, Tensile properties, Quasi-static indentation},
+abstract = {Auxetic layered composites offer exceptional resistance to indentation and impact, but their application is often hindered by a critical trade-off in tensile strength. This study first systematically quantifies this compromise, demonstrating through integrated experimental and theoretical analysis that an in-plane auxetic design sacrifices over half its ultimate tensile strength compared to a non-auxetic counterpart. This weakness is confirmed to originate from transverse strain amplification that promotes premature failure. The central contribution of this work, however, is the resolution of this long-standing dilemma. We present the design and validation of an out-of-plane auxetic architecture that eliminates the tensile penalty, achieving a comparable tensile strength compared to its stiffness-matched, non-auxetic counterpart. Furthermore, this tensile-friendly design exhibits a remarkable enhancement in indentation resistance. Under quasi-static indentation, it sustains higher loads and shows over 40 % less permanent indentation. The micro-CT analysis reveals the energy absorption mechanism. The auxetic effect mitigates damage by promoting widespread, energy dissipating internal delamination. Ultimately, this research proves that the tensile trade-off is not an intrinsic gap but a solvable design challenge. It provides a clear pathway toward multifunctional composites that are simultaneously tensile reliable and indentation resistant, significantly advancing their potential for demanding structural applications.}
+}

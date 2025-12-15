@@ -1,0 +1,13 @@
+@article{PANG2025118163,
+title = {AK-UL: An active learning kriging method based on uniform sampling and local refinement for efficient reliability analysis with small failure probability},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118163},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118163},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004359},
+author = {Yong Pang and Xiwang He and Pengwei Liang and Xueguan Song and Ziyun Kan},
+keywords = {Reliability analysis, Kriging model, Small failure probability, Uniform sampling},
+abstract = {This paper introduces a novel active learning kriging-based reliability analysis method that uses uniform sampling and local refinement, termed AK-UL, with a focus on problems involving small failure probabilities. Traditional methods, such as AK-MCS, struggle to identify failure regions efficiently because of the irregular distribution of candidate points and the high computational cost of generating many samples. The AK-UL method overcomes these challenges by introducing a uniform sampling employed in active learning, which is separated from the random samples used for failure probability calculation. This separation ensures a more uniform distribution of training data around the limit state function, thereby enhancing the efficiency of failure region identification. Additionally, a small uniform sample set dramatically reduces the computational cost of the evaluation by the surrogate model in a small failure probability problem. Additionally, a local search process is incorporated to refine candidate points, guiding them closer to the limit state function along the gradient direction of the performance function and overcoming the sparse problem of the small uniform set that is not able to infill the design space. Numerical examples and an engineering case study demonstrate that AK-UL reduces the computational time and improves the accuracy compared with traditional methods. The results highlight that AK-UL is particularly effective for complex reliability analysis problems with small failure probabilities, offering significant computational cost savings while maintaining high accuracy.}
+}

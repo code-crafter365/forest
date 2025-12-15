@@ -1,0 +1,13 @@
+@article{HU2025111324,
+title = {Enhanced high-temperature electrostatic energy storage performance of a polymer blend film with suppressed phase separation},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111324},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111324},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002921},
+author = {Yuqing Hu and Weixuan Zhang and Wuwei Feng and Xin Zhang and Yingda Zhang and Jinzhang Liu},
+keywords = {Film capacitor, Polymer film, Dielectric property, Breakdown strength, Electrostatic energy storage},
+abstract = {The development of advanced film capacitors possessing high-temperature stability and high energy density represents a pressing challenge. If using a polymer blend as the dielectric spacer, normally the phase separation is inevitable and critically influences the dielectric performance. This study introduces a strategy, optimizing inter-polymer interactions via molecular design, to suppress such separation. Poly(vinylidene fluoride) (PVDF) is blended with fluorinated polyimide (FPI) to make films, and it is found that strong dipole-dipole interactions between fluorine-containing groups of FPI and PVDF segments significantly enhances their compatibility. As a result, macroscopic phase separation is suppressed and nanoscale PVDF crystalline domains are fostered within the FPI matrix. This meticulously controlled nanostructure stands in stark contrast to the severe micron-scale phase separation and consequent breakdown strength deterioration observed in conventional polyimide (PI)/PVDF and polyetherimide (PEI)/PVDF blends. The optimized FPI/PVDF (5 wt% PVDF) film exhibits a significant increase in breakdown strength and maintains a high energy density of 5.3 J/cm3 at 150 °C. Systematic experimental characterizations, corroborated by multi-physics phase-field simulations, confirm that inhibiting phase separation is pivotal for enhancing the dielectric breakdown strength and energy storage performance of polymer blends. This work would shed light on the design of next-generation, high-performance, high-temperature resistant dielectric materials.}
+}

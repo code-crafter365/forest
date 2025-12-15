@@ -1,0 +1,12 @@
+@article{DUAN2025119929,
+title = {Molecular-level insights into graphene oxide enhanced calcium dissolution in cementitious composites hydration},
+journal = {Composite Structures},
+pages = {119929},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119929},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010943},
+author = {Anqi Duan and Ming Qiu and Timon Rabczuk and K.M. Liew},
+keywords = {Graphene Oxide, Cementitious composites, Calcium dissolution, Molecular dynamics simulations},
+abstract = {Graphene oxide (GO) is a promising nanomaterial for improving cementitious composites, yet the atomistic mechanisms underlying its role in accelerating cement hydration remain elusive. Here, molecular dynamics simulations reveal that GO promotes calcium (Ca) ion dissolution from tricalcium silicate (C3S) by restructuring interfacial hydroxyl (OH) groups and facilitating their migration into solution. This interfacial reorganization strengthens the hydrogen-bond network between water and surface OH groups, reduces water mobility, and creates a favorable solvation environment for Ca release. The resulting coordination changes enhance Ca dissolution without altering its fundamental pathway. Notably, C3S exhibits higher Ca dissolution in the presence of single-functional-group GO (e.g., hydroxyl or ether) than multifunctional GO, as fewer intragroup interactions on the GO surface enable more effective Ca dissolution. These findings clarify the nanoscale mechanisms by which GO accelerates early hydration and establish design guidelines for optimizing nanomaterial additives in high-performance cementitious systems.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025119567,
+title = {Research on dynamic mechanical behavior and damage mechanisms of CFRP under short-term and multi-scale lightning strikes},
+journal = {Composite Structures},
+volume = {372},
+pages = {119567},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119567},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007329},
+author = {Hanyang Wu and Yongjian Jiang and Hanyi Peng and Wenjun Xu and Jinru Sun and Xiangyu Tian and Xueling Yao and Shiju E},
+keywords = {CFRP laminates, A-component current, Dynamic mechanical response, Vibration mode shape, Inherent frequency},
+abstract = {Lightning-induced damage to Carbon Fiber Reinforced Polymer (CFRP) materials results from coupled thermal, electrical, and mechanical effects, with the mechanical aspect being particularly challenging. Under Current Component A, CFRP laminates experience high-amplitude, rapid current pulses (200 kA, rise time < 50 μs). Direct measurement of the mechanical and vibrational responses of CFRP specimens is difficult, making it challenging to describe the generated mechanical effects and study the progression of damage. This study investigates the spatiotemporal distribution of CFRP laminates’ dynamic responses to lightning current Component A on an experimental platform. The experiments vary grounding conditions, discharge gaps, and current amplitudes, with high-precision displacement sensors used to measure responses at different locations. Time-frequency analysis and adaptive data-driven stochastic subspace identification techniques are employed to separate shockwave and pyrolytic damage. The results identify three stages of the lightning strike: (1) 40–200 μs: Air breakdown causes a gas explosion, generating a shockwave toward the CFRP surface. (2) 200 μs to 1 ms: Current is injected to the laminate, vaporizing the resin between layers, forming a high-pressure region that causes explosive shock and tearing of carbon fiber layers. (3) After 1 ms: The explosive strain energy converts into mechanical vibration, dissipating over time. The study captures these vibration signals and correlates them with the extent of damage. Results show that internal damage continues post-strike, with significant reductions in the first and second-order modes of the structure, particularly influenced by pyrolytic damage. These findings provide insights into assessing lightning strike damage through structural vibration responses.}
+}

@@ -1,0 +1,13 @@
+@article{BODAGHI2025109028,
+title = {On the understanding of GRAM® technology- robotic wet filament winding- for high-performance fibre-reinforced thermoset composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109028},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109028},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003227},
+author = {Masoud Bodaghi and Lyazid Bouhala and Claus G. Bayreuther and Ahmed El Moumen and David Macieira and Martin Kerschbaum},
+keywords = {E: Filament winding, B: Voids, C: Fibre-tows, D: Mechanical properties},
+abstract = {This study examined the effects of nozzle diameter and fibre pre-tension on the impregnation quality and mechanical performance of GRAM robotized wet filament-wound composites. The use of a larger nozzle improved fibre impregnation, reduced void content from 6 % to 2 %, and enhanced composite uniformity. Higher fibre pre-tension (10 N) flattened fibre tows, increasing packing density and resin distribution, which minimized voids and improved mechanical properties. In contrast, lower pre-tension (5 N) resulted in increased voids and weaker composites. Mechanical testing showed that samples produced with higher pre-tension and larger nozzles exhibited more consistent mechanical responses. Although the larger nozzle samples were ∼7 % stronger than those made with a smaller nozzle, the study highlighted the importance of optimizing fibre impregnation & compaction for achieving high-performance filament-wound composites.}
+}

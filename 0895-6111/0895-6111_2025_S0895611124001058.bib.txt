@@ -1,0 +1,11 @@
+@article{LEE2025102428,
+title = {Corrigendum to ‘Development and evaluation of an integrated model based on a deep segmentation network and demography-added radiomics algorithm for segmentation and diagnosis of early lung adenocarcinoma’ [Computerized Medical Imaging and Graphics Volume 109 (2023) 102299]},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {120},
+pages = {102428},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2024.102428},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611124001058},
+author = {Juyoung Lee and Jaehee Chun and Hojin Kim and Jin Sung Kim and Seong Yong Park}
+}

@@ -1,0 +1,13 @@
+@article{RAZMJOO2025119099,
+title = {Modified friction stir deposition – Additive manufacturing, an approach to fabricate multi-layered AA5083/CeO2/B4C nano-composites with enhanced corrosion and tribological behavior},
+journal = {Composite Structures},
+volume = {363},
+pages = {119099},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119099},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002648},
+author = {Hossein Razmjoo and Seyyed Ehsan Mirsalehi},
+keywords = {Metal additive manufacturing, Friction stir deposition, Aluminum matrix composite, Wear behavior, Corrosion resistance},
+abstract = {Modified friction stir deposition – additive manufacturing (MFSD-AM), also called friction stir additive manufacturing, was used to fabricate additive aluminum matrix composites (AAMCs) with constant process parameters. MFSD-AM uses consumable tools instead of the unconsumable hollow tool used in conventional methods. The rotating tool withdraws as soon as a specified amount of the consumable is deposited. Layer-by-layer deposition of the consumables produces AAMC. Consumable Al-Mg tools were drilled and different portions of nano-sized cerium oxide and boron carbide reinforcements were sealed in the tools. One reference – additive manufactured product (Ref-AMP) was fabricated without inserting reinforcements to be compared with AAMCs and to observe the effects of embedding reinforcements. This study designates the outcomes of inserting different reinforcement volume ratios on microstructure, hardness, wear performance, and corrosion behavior of the resulting AAMCs. Up to 52.9 % grain refinement was achieved for AAMCs compared to the Ref-AMP. Excellent reinforcement circulation inside AAMCs was assured. Up to 34.7 % increase in hardness was achieved for AAMCs compared to the Ref-AMP. Up to 43.6 % decrease for AAMCs was achieved compared to the specific wear rate of the Ref-AMP. Corrosion resistance increased for AAMCs compared to the Ref-AMP. AAMCs exhibited up to 503 mV passivation ranges.}
+}

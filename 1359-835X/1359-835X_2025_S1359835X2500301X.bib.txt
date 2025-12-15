@@ -1,0 +1,13 @@
+@article{WANG2025109007,
+title = {Theoretical analysis of cutting mechanisms for CF/epoxy and CF/PEEK considering their elasto-plastic properties},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109007},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109007},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500301X},
+author = {Fuji Wang and Xiaohang Hu and Rao Fu and Lianheng Ge and Pengcheng Ju and Zhenyuan Jia},
+keywords = {Thermoplastic resin, Analytical modelling, CFRP, CFRTP},
+abstract = {Carbon fiber-reinforced plastic composites including CF/PEEK and CF/epoxy are hard-to-cut materials. Accurate modeling of their material removal behavior is essential for deep understanding and effective control of cutting process. Previous cutting models have not fully considered material plasticity, resulting in inaccurately predicting cutting process, particularly for highly plastic composites and under high-temperature conditions. This paper proposed a novel theoretical model for cutting composites considering matrix elasto-plastic properties. The model first characterized the coupled constraint relationship between fiber and matrix, and quantitatively analyzed the impact of matrix elasto-plastic properties on material removal. Comparative investigations and validations for CF/PEEK and CF/epoxy were conducted under 25 °C and 200 °C. The proposed model has improved predicting accuracy for subsurface damage, cutting force and thrust force by 13.48%, 5.49%, and 17.47%, respectively, comparing to that without considering plasticity. Moreover, the influence mechanism of matrix plasticity on the material removal process was elucidated by the model. Specifically, due to its superior ductility, CF/PEEK experienced more serious subsurface damage, especially under 200 °C, while the cutting forces were lower compared to cutting CF/epoxy.}
+}

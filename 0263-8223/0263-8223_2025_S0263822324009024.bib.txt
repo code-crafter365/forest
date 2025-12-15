@@ -1,0 +1,13 @@
+@article{TAO2025118774,
+title = {Numerical analysis of particle reinforced composites with interphases by three-dimensional thermal-elasto-plastic Voronoi cell finite element method},
+journal = {Composite Structures},
+volume = {354},
+pages = {118774},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118774},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009024},
+author = {Jiangbo Tao and Rui Zhang and Ran Guo},
+keywords = {Incremental modified complementary energy function, 3D Voronoi element with interphase, Plastic, Thermal, Delaunay tetrahedrons},
+abstract = {Research results on linear elasticity problems by the three-dimensional Voronoi cell finite element method (VCFEM) are available. This paper presents a three-dimensional thermo-elasto-plastic VCFEM for analyzing the nonlinear mechanical behavior of particle-reinforced composites containing interphase. The model includes a matrix phase, interphase phase, and inclusion phase, and the three phases satisfy the continuity condition of traction. This paper derives an incrementally modified complementary function and constructs a higher order stress function considering the ellipsoidal interface, which is used in the iterative analysis of the plasticity and thermal problems of three-dimensional Voronoi cells with interphase. Compared with the displacement finite element method, the comparison result pointed out that VCFEM has the advantages of simple mesh generation and fast speed under the same accuracy.}
+}

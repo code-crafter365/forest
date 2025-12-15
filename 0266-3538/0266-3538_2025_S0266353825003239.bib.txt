@@ -1,0 +1,13 @@
+@article{WANG2025111355,
+title = {Mesoporous silica reinforced triple-network poly-zwitterionic hydrogel with high-strength and excellent anti-fouling performance},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111355},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111355},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003239},
+author = {Lei Wang and Wen Li and Lin Cao and Huimeng Feng and Yan Liu and Xiao Sun and Jia Cheng and Meiyan Yu and Shougang Chen},
+keywords = {Zwitterionic polymer, Nanocomposite hydrogels, Anti-fouling, Mesoporous silica},
+abstract = {Zwitterionic hydrogels have garnered considerable attention due to their excellent anti-fouling properties and biocompatibility. However, the application of zwitterionic hydrogels in the seawater is usually limited by excessive swelling and weak mechanical properties caused by the “anti-polyelectrolyte” effect. Moreover, relying on a single anti-fouling mechanism cannot provide long-term protection. In this study, a zwitterionic nanocomposite triple-network hydrogel (UM-T) fabricated through a combination of nanoparticle reinforcement and a multiple network strategy is proposed. This hydrogel exhibits outstanding mechanical strength and exceptional anti-fouling performance. Surface-modified nanoparticles (Ugi-MSNs) served as “anchoring” effect for the molecular chains within the hydrogel enhance network entanglement, while the robust electrostatic interactions within the triple-network structure dissipate energy, thus improving toughness. As a result, the hydrogel demonstrated remarkable mechanical properties in saline environments with a compressive fracture stress of 19.3 MPa, toughness of 2.4 MJ m−3, and modulus of 0.63 MPa. Additionally, capsaicin loaded in Ugi-MSNs enables sustained release of capsaicin for bactericidal effects. The hydrogel effectively resists the attachment of proteins, bacteria, and cells, making it highly effective in marine anti-fouling applications.}
+}

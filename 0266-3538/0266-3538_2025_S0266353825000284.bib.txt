@@ -1,0 +1,13 @@
+@article{ZHANG2025111060,
+title = {Component-level fatigue life prediction of short fiber reinforced polymers via a novel parametric fatigue dataset generation method},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111060},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111060},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000284},
+author = {Lei Zhang and Hanyu Zhang and Zhao Liu and Ping Zhu},
+keywords = {Short fiber reinforced polymer, Fatigue life prediction, Fatigue dataset generation, Constant fatigue life diagram, Multiaxial fatigue criterion},
+abstract = {Predicting the fatigue life of short fiber reinforced polymers (SFRP) is complicated due to their inherent heterogeneity and in-service alternating loads. Despite numerous research addressing the fatigue life prediction of SFRP specimens, applying these findings to engineering applications remains challenging. This study presents an innovative component-level fatigue life prediction framework for SFRP components, central to which is a parametric material fatigue dataset (MFD) generation method considering fiber microstructures and stress ratios. Local fiber orientation tensors from mold flow analysis are then mapped onto the structural mesh to obtain the stress field. Fatigue life is subsequently solved using MFD and local stress via a polynomial-form parametric multiaxial fatigue failure criterion. The accuracy of the MFD generation method and the fatigue life calculation algorithm is confirmed through micromechanical models and fatigue tests on specimens with various orientations and stress ratios. Final validation is achieved via fatigue tests and numerical modeling of an SFRP automobile tailgate. Results show that the fatigue crack initiation is accurately identified, and the predicted life falls within a threefold error band of the experimental value, confirming the high reliability of this framework. This study advances component-level fatigue life prediction of SFRP, offering a procedural and parametric tool for engineering applications.}
+}

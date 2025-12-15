@@ -1,0 +1,13 @@
+@article{LEI2025105930,
+title = {OPTIM: A Python-based optimization framework for geophysical problems},
+journal = {Computers & Geosciences},
+volume = {201},
+pages = {105930},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105930},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000809},
+author = {Tao Lei and Wei Zhang and Yongming Lu and Li Yang},
+keywords = {Data processing, Inverse problem, Parameter estimation, Optimization, Numerical study, Tomography},
+abstract = {Geophysical inverse problems, such as full waveform inversion, involve significant computational demands and algorithmic complexity. Geophysicists aim to resolve numerous unknown parameters within a limited number of inversion iterations, necessitating both efficient and accurate geophysical modules (e.g., forward modeling and sensitivity kernel calculations) and robust optimization frameworks to drive the inversion process. To facilitate the rapid construction of comprehensive inversion workflows, we present OPTIM, a Python-based open-source local optimization software package. OPTIM structures each optimization step as an independent program, exchanging information between adjacent steps through files and parameters. Its implementation closely follows mathematical formulations, allowing users to easily identify and modify specific modules as needed. Constructing an inversion workflow with the proposed software is analogous to assembling modular components, minimizing concerns about program interfaces and lifecycle management. Through a series of examples, we demonstrate how the proposed software enables efficient inverse workflow construction and large-scale geophysical inversion on multi-node high-performance clusters. OPTIM empowers researchers to rapidly and robustly develop novel geophysical inversion processes without compromising on performance and scalability. This capability significantly streamlines the complexity in solving geophysical inverse problems and accelerates the development cycle.}
+}

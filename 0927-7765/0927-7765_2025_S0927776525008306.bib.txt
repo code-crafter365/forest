@@ -1,0 +1,10 @@
+@article{SHI2025115323,
+title = {Corrigendum to “Multifunctional mesoporous silica nanoparticles for pH-response and photothermy enhanced osteosarcoma therapy” [Colloids Surf. B Biointerfaces, 217 (2022) 112615/COLSUB-D-22-00508]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+pages = {115323},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115323},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525008306},
+author = {Qinying Shi and Ying Lu and Guannan Zhang and Xin Yang and Rong Li and Guoliang Zhang and Xiudong Guo and Jianbo Song and Qin Ding}
+}

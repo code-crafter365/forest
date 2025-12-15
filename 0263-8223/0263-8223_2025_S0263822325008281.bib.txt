@@ -1,0 +1,13 @@
+@article{ZHAN2025119663,
+title = {Effect of low strain rate on the strength of CFRP laminates after hygrothermal exposure in seawater},
+journal = {Composite Structures},
+volume = {373},
+pages = {119663},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119663},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008281},
+author = {Haiwei Zhan and Jiayu Wu and Jian-Fei Chen},
+keywords = {CFRP laminates, Strain rate effect, Hygrothermal exposure, Water absorption, Particle swarm optimization},
+abstract = {This paper presents a study on the effect of strain rate on the strength of carbon fiber reinforced polymer (CFRP) laminates after hygrothermal exposure in seawater at 60 °C. A ten-month water absorption test was conducted on CFRP immersed in 60 °C seawater, and its non-Fickian moisture uptake behavior was accurately modeled using a Weibull relaxation model optimized by particle swarm optimization (PSO). Tensile tests were conducted on CFRP specimens subjected to varying seawater aging durations (0, 35, 70, and 105 days) at different strain rates (from 10−7 to 10−3 s−1). The experimental results indicate that the strength of CFRP increases with an increase in strain rate, regardless of whether the material has undergone seawater aging. It decreases with aging time until reaching water absorption saturation across all test strain rates, but increases slightly after saturation. A two-way analysis of variance (ANOVA) was innovatively applied to assess the interaction effects of strain rate and aging time on CFRP strength. The results confirmed that both factors are statistically independent, offering a novel and quantitative perspective on the mechanical-environmental coupling effects. Finally, an empirical model is developed to represent the strengths of CFRP at different strain rates following hygrothermal exposure.}
+}

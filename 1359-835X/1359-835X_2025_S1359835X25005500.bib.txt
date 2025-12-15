@@ -1,0 +1,13 @@
+@article{MOU2025109256,
+title = {2D layered graphite-enhanced TPU/EPDM composites with superior resistance to hydrogen-induced damage and dual hydrogen barrier networks},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109256},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109256},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005500},
+author = {Wenjie Mou and Xiaoquan Li and Bing Gan and Yuanming Zhang and Yaling Liu and Chilou Zhou},
+keywords = {Layered graphite, Polymer-based composites, Dual Hydrogen Barrier Networks, Rubber seals, Hydrogen-induced damage, Hydrogen permeation, Hydrogen compatibility},
+abstract = {This study explores two-dimensional layered graphite for improving hydrogen barrier properties and resistance to hydrogen-induced damage in polymer composites. Graphite was surface-modified with (3-Aminopropyl) triethoxysilane (APTES) and incorporated in polymer matrix composites via melt mixing. FT-IR quantified the degree of hydrogen bonding in the composites, while SEM showed TPU as the matrix, EPDM as the dispersed phase, and uniformly distributed graphite. A composite with 5 phr modified graphite (G5) demonstrated exceptional resistance to hydrogen-induced damage, with mechanical property changes below 10 % after high-pressure hydrogen exposure. TGA and DSC confirmed excellent thermal stability, though hydrogen exposure slightly reduced crystallinity. Hydrogen permeability tests showed a permeability coefficient of 0.789 × 10-9 mol·m/(m2·s·MPa) for G5, 61.3 % lower than TPU and 92.09 % lower than EPDM. These enhancements are attributed to layered graphite filling free volume, increasing density, and forming the dual hydrogen barrier networks with EPDM. This complex structure significantly extended hydrogen diffusion pathways.}
+}

@@ -1,0 +1,13 @@
+@article{TAGHAVIAN2025111185,
+title = {A unified approach to the effect of in-plane biaxial loading on delamination progression in laminated composite structures},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111185},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111185},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001538},
+author = {S.H. Taghavian and A.R. Ghasemi},
+keywords = {Delamination propagation, Biaxial loading, Composite laminates, Layer wise plate theory, Cohesive zone modeling},
+abstract = {This study presents a comprehensive numerical and experimental investigation of delamination progression in thin composite laminates subjected to in-plane biaxial tensile loading. Utilizing the full layerwise plate theory and an interface element approach, a dedicated computational framework was developed to simulate the growth behavior of delaminated regions. To experimentally validate the numerical predictions, a custom-designed biaxial loading frame was fabricated, enabling controlled biaxial tensile testing. Load-displacement curves were recorded, and delamination propagation was monitored using thermographic imaging for composite laminates with various stacking sequences. The numerical and experimental results demonstrate a strong dependence of delamination behavior on laminate geometric parameters. The findings highlight that delaminated regions of relatively large dimensions significantly affect the structural integrity of specimens under biaxial tensile loading. Moreover, the study reveals that the sensitivity of composites to delamination under biaxial tensile loading is considerably different from that observed in other loading scenarios, such as buckling.}
+}

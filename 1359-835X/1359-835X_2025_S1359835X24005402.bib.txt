@@ -1,0 +1,13 @@
+@article{GAITANELIS2025108542,
+title = {A simplified methodology for assessing the interface of CFRPs with fibre push-out testing},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108542},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108542},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005402},
+author = {Dimitrios Gaitanelis and Craig J. Williams and Jack Donoghue and Clara Frias},
+keywords = {A. Polymer-matrix composites (PMCs), A. Carbon fibres, B. Interface/interphase, B Fibre/matrix bond},
+abstract = {This work proposes a simplified methodology for examining the interface of fibre reinforced composites with fibre push-out testing. Demonstrated in a carbon fibre (CF) reinforced polymer (CFRP) case study, it examines the interface of a commercial epoxy with the 31E, 50C, and F0E T700 CFs. Atomic force microscopy, attenuated total reflection – Fourier transform infrared spectroscopy, and scanning electron microscopy are used to characterise the fibres, and the CFRP samples are manufactured with wet winding. To create trenches of suitable thickness within the bulk composite, femtosecond-laser processing is proposed as a localised material subtractive method, facilitating the fibre push-out testing with the flat nanoindenter tip. The results highlight the influence of the CF sizing agent on the CFRP interface, and overall, a methodology is defined that simplifies the specimen preparation for assessing the interface of FRPs. This advancement holds promise for a broader adoption of such tests from both academia and industry.}
+}

@@ -1,0 +1,20 @@
+@article{ZHAO2025102628,
+title = {AI-driven multi-modal framework for prognostic modeling in glioblastoma: Enhancing clinical decision support},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102628},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102628},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001375},
+author = {Zihan Zhao and Nguyen Quoc Khanh Le and Matthew Chin Heng Chua},
+keywords = {Clinical decision support system, Multi-omics integration, Glioblastoma, Survival prediction, Vision transformer, Explainable AI, Attention-based deep learning},
+abstract = {Objective
+Glioblastoma (GBM) is the most aggressive malignant brain tumor, associated with poor prognosis and limited therapeutic options. Accurate prognostic modeling is essential for guiding personalized treatment strategies. However, existing models often rely on single-modality data, limiting their ability to capture the complex molecular and histopathological heterogeneity of GBM. This study proposes an AI-driven, multi-modal framework for clinical decision support, encompassing both early triage and prognostic evaluation stages. A Vision Transformer (ViT) is first employed to classify tumor grades (WHO grades 2–4) using radiological images. Subsequently, an attention-based deep learning model integrates histopathological and transcriptomic data to improve risk stratification and inform treatment planning.
+Methods
+The ViT model was trained on FLAIR MRI scans from the UCSF-PDGM dataset to perform tumor grading during the early triage phase. For prognostic modeling, whole-slide histopathological images and RNA sequencing profiles were integrated using an attention-based deep learning architecture. Model performance was evaluated using the area under the curve (AUC), concordance index (C-index), and Kaplan–Meier survival analysis across independent CPTAC-GBM and TCGA-GBM cohorts.
+Results
+The ViT model achieved F1-scores exceeding 0.89 across all WHO tumor grades. The multi-modal model significantly outperformed single-modality baselines, demonstrating higher C-index values and superior prognostic accuracy. Kaplan–Meier analysis revealed statistically significant differences (p < 0.0001) between high- and low-risk patient groups.
+Conclusion
+This AI-enabled, multi-modal framework improves clinical decision support in GBM by enabling accurate risk stratification and treatment planning. The integration of radiological imaging, histopathology, and transcriptomics offers a comprehensive and personalized approach to GBM prognosis.}
+}

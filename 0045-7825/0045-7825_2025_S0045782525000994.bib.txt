@@ -1,0 +1,13 @@
+@article{KIM2025117827,
+title = {Accelerating the data-driven multiscale finite element analysis for elastoplastic materials by using proper orthogonal decomposition and transformer architecture},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117827},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117827},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000994},
+author = {Suhan Kim and Hyunseong Shin},
+keywords = {Nonlinear homogenization, Multiscale finite element method, Transformer architecture, Proper orthogonal decomposition},
+abstract = {Nonlinear history-dependent behaviors and heterogeneity render multiscale finite element (FE2) simulation of elastoplastic materials challenging. Concurrently addressing micro- and macroscales involves discretizing the macro structure into representative volume elements (RVEs) and iteratively solving microscale problems under complex loading paths. Therefore, we proposed a novel integrated surrogate model that combines proper orthogonal decomposition (POD) with a transformer (TF) to capture the evolution of physical state variables in the local microstructure. This framework accelerates FE2 simulations at the micro level for history-dependent materials. In the microscopic offline computing stage, sequential data were obtained from FE simulations conducted on an elasto–plastic composite RVE subjected to random and cyclic loading paths. Prior to use for training, the high-dimensional micro–stress field data were reduced to low-dimensional POD coefficient data, extracting information by using a small number of modes. This reduction in data dimensions renders operation easy and maintains essential features. The encoder-based TF model effectively captured global dependencies by using a self-attention mechanism. The proposed POD-TF surrogate model constructed in this manner plays a crucial role in accelerating FE2. In the online computing stage, a nonlinear FE2 combined with the proposed POD-TF surrogate model was conducted in a single simulation on a commercial FE. Therefore, the proposed approach allows simultaneous observation of physical states distributions at both micro-and macro scales, providing a comprehensive representation of the underlying multiscale phenomena. Additionally, fine-tuning enables the pre-trained POD-TF surrogate model to efficiently adapt to small variations in microstructure and material properties, enhancing flexibility and computational efficiency.}
+}

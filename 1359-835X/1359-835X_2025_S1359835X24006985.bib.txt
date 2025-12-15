@@ -1,0 +1,13 @@
+@article{ZHOU2025108700,
+title = {Interface engineering of Fe/Fe3C@C magnetic-carbon composites for superior microwave absorption},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108700},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108700},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006985},
+author = {Yihui Zhou and Jin Qian and Zhe Qiang and Weiqing Kong and Changhuai Ye and Meifang Zhu},
+keywords = {Multiple heterointerfaces, Interfacial polarization, Electrostatic attraction, Impedance matching},
+abstract = {Heterogeneous interfaces are crucial for enhancing the polarization loss in composite materials, thereby improving microwave absorption capabilities. However, creating well-defined multiple heterogeneous interfaces essential for optimal absorber performance presents a significant challenge. Herein, Fe/Fe3C@C magnetic-carbon composites featuring Fe-Fe3C-C multiple heterogeneous interfaces were fabricated through in-situ growth of Fe3O4 on polydopamine nanospheres, followed by thermal reduction and carbonization. Owing to the controllable Fe-Fe3C-C multiple heterointerface design, the outer-layer magnetic components not only significantly improve impedance matching but also enhance the interface polarization loss. The optimized Fe/Fe3C@C-9–1 composite exhibits excellent microwave absorption performance, achieving a minimum reflection loss (RLmin) of −64.4 dB and a broad effective absorption bandwidth (EAB) of 6.0 GHz at a thin matching thickness of only 1.5 mm, surpassing neat carbon nanospheres and most magnetic-carbon materials. Additionally, simulations conducted using Computer Simulation Technology (CST) demonstrate that the Fe/Fe3C@C-9–1 coating significantly reduces radar cross-section (RCS), with values below −20 dB across nearly the entire frequency range of 2–18 GHz, highlighting its potential for radar stealth applications. This work provides a simple yet effective approach for tuning the interface properties of carbon-based materials, underscoring the promise of Fe-Fe3C-C multiple heterogeneous interfaces in the development of broadband, thin microwave absorbers.}
+}

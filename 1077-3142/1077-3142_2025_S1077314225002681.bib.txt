@@ -1,0 +1,13 @@
+@article{XU2025104545,
+title = {VMM: Video-Music Mamba for generating background music from videos},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104545},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104545},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002681},
+author = {Jiajun Xu and Zixiang Lu and Ping Gao and Qiguang Miao and Kun Xie},
+keywords = {Music generation, Mamba, Generative AI, Multimodal},
+abstract = {This paper addresses the task of video background music generation, focusing on symbolic music generation. We propose a hybrid modeling approach that jointly considers both long-term and short-term musical structures. While existing research predominantly focuses on long-term patterns in music, the critical role of short-term structures in shaping musical expressiveness has been largely overlooked. Short-term structures provide intrinsic logic and emotional tension through dynamic variations and immediacy, synergizing with long-term structures to form cohesive musical narratives. To this end, we propose the VMM model, which innovatively integrates Mamba and Transformer: the Mamba module is designed to captures long-term dependencies via state space modeling, while the Transformer decodes short-term interactions among local notes through self-attention mechanisms. To further enhance multimodal understanding, we introduce Video-Music Generation Framework (VMGF), which incorporates a Switch Schedule mechanism that dynamically selects fusion strategies between video features and chord features during training and mitigates multimodal representation conflicts through gradient control. Experiments demonstrate that VMM achieves state-of-the-art performance in symbolic music generation tasks, excelling in metrics such as structural coherence and emotional consistency, thereby validating its leading capabilities in the field of symbolic music generation. Code and generated samples are available at https://jiajunxiii.github.io/VMM-Video-Music-Mamba.}
+}

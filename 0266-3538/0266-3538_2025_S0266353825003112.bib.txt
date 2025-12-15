@@ -1,0 +1,13 @@
+@article{HE2025111343,
+title = {Mechanistic modelling of fused filament fabrication process for carbon fibre reinforced composites},
+journal = {Composites Science and Technology},
+volume = {271},
+pages = {111343},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111343},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003112},
+author = {Qinghao He and Yuan Chen and Lin Ye and Jiazhi Su and Wenlei Xiong and Rujing Shi},
+keywords = {3D printing, Fused filament fabrication, Continuous carbon fibre, Intimate contact, Modelling},
+abstract = {This study develops a mechanistic model aided by a 3D dynamometer to achieve in-process characterisation of three-dimensional forces during a fused filament fabrication (FFF) process, enabling a deeper insight to the FFF process for carbon fibre reinforced composites. First, a 3D printing system integrated with a dynamometer of high precision was developed to measure the three-dimensional loads during the fabrication of both short carbon fibre (SCF) and continuous carbon fibre (CCF) reinforced polyamide (PA6) with the FFF process. Then, both microstructural and mechanistic studies addressing the intimate contact and autohesion mechanisms during the FFF processes were conducted to explore the process-structure relationships of the printed composites. The results show that the compacting force of SCF/PA6 is much smaller than that of CCF/PA6 during the deposition. A compressive pressure of 1 MPa from the printing nozzle at a nozzle temperature of 252 °C and a deposition speed of 15 mm/s proves just sufficient for achieving complete intimate contact in the CCF/PA6 composite by the analysis of the mechanistic model. Microstructural characterisations of 3D printed CCF/PA6 composites also reveal a difference in the compacting force recorded in printing adjacent filaments associated with inaccurate positioning of printing paths, leading to poor fusion quality and existence of voids. Further, the effects of reduced nozzle height on the resultant deposition pressure and the printing quality of CCF/PA6 composites were also investigated in this study.}
+}

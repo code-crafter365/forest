@@ -1,0 +1,13 @@
+@article{PATHAK2025108881,
+title = {Porosity evolution in additively manufactured compression molded short fiber thermoplastics under cyclic loading: Insights from micro-computed tomography and infrared thermography},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108881},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108881},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001757},
+author = {Pharindra Pathak and Suhasini Gururaja},
+keywords = {SFTs, AM-CM, Process-induced defects, Fatigue limit},
+abstract = {Composite structures, integral to lightweight, high-performance applications, often suffer from premature fatigue failure due to process-induced defects such as porosity. The recently developed additive manufacturing and compression molding (AM-CM) process enables short fiber thermoplastics (SFTs) with greater fiber orientational control and low porosity. However, the existing pores in SFTs act as fatigue damage initiators, emphasizing the need for a better understanding of the effect of pores on the fatigue behavior of SFTs. In this study, process defects in 20 wt% carbon fiber reinforced acrylonitrile butadiene styrene (C/ABS) SFTs produced through AM-CM were first identified using ultrasonic inspection and analyzed in detail via micro-computed tomography (μ-CT). A rapid fatigue testing approach was employed to characterize the cyclic degradation of SFTs, utilizing infrared thermography (IRT) to measure surface temperature changes induced by self-heating, combined with a staircase cyclic loading profile. Porosity evolution in AM-SFTs under cyclic loading was tracked by interrupting the test before the expected fatigue and post-fatigue limits for a precise correlation between defect progression and fatigue performance. The findings demonstrate that increased porosity significantly reduces fatigue resistance, while μ-CT reveals clustering near fiber ends and within fiber-rich zones as critical contributors to damage initiation. Numerical homogenization, incorporating μ-CT fiber and pore statistical data within an octree-based algorithm for microstructure generation, validated the experimental observations and provided insights into effective property degradation. This study establishes a robust framework for characterizing fatigue behavior in SFT composites, offering significant potential for improving predictive models and optimizing manufacturing processes to mitigate defects and enhance performance.}
+}

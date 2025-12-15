@@ -1,0 +1,13 @@
+@article{DING2025108789,
+title = {Organic-Inorganic hybrid polymeric flame retardant coating for fire safety rigid polyurethane foam},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108789},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108789},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000831},
+author = {Hongliang Ding and Chuanshen Wang and Jue Wang and Lini Wu and Na Sun and Hongfei He and Lu Liu and Wei Wang and Keqing Zhou and Wei Zhang and Bin Yu},
+keywords = {Rigid polyurethane foam, Flame-retardant coating, Organic–inorganic hybrid, Flame retardancy},
+abstract = {Rigid polyurethane foams (RPUFs) are widely used for their excellent performance but are limited by their flammability. Flame-retardant coatings are an effective solution to address this issue without compromising their mechanical properties. Herein, flame-retardant copolymer poly(HBA-co-VBS) is synthesized via radical copolymerization of hydroxybutyl acrylate (HBA) and sodium 4-vinylbenzenesulfinate (VBS). A series of transition metal oxide-loaded halloysite nanotubes (Mo-HNTs, Co-HNTs) and hexagonal boron nitride (Mo-BN, Co-BN) are synthesized via impregnation method to prepare organic–inorganic hybrid flame-retardant coatings. The coated RPUFs reach V-0 rating in the UL-94 test with higher LOI over 31 %. Co-HNTs sample exhibits the best flame-retardant performance with the lowest PHRR (142.5 kW m−2) and lowest THR (49.9 MJ m−2). Inorganic nanoparticles reduce toxic gas emissions, especially CO emission, due to the catalysis effect of Mo and Co. This research provides a novel approach to design high-performance flame-retardant coatings.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025114604,
+title = {Biomaterial-based drug delivery strategies for oral mucosa},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114604},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114604},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001110},
+author = {Junhui Liu and Jiao Sun and Jun Hu and Huaqian Xue and Lanjie Lei and Xiaoyi Pan},
+keywords = {Biomaterials, Oral mucosa, Drug delivery, Hydrogel, Microneedles},
+abstract = {Drug therapy is a key field in modern medicine, and the optimization of its delivery method is crucial. Traditional methods are inherently limited by first-pass effects, high-risk adverse reactions, and patient compliance challenges, which significantly restrict the effectiveness and application potential of drugs. Oral mucosal drug delivery has become a minimally invasive and effective drug delivery strategy. The unique anatomical structure of the oral mucosa facilitates the rapid absorption of drugs into the systemic circulation, thus producing rapid therapeutic effects. However, a complex oral microenvironment and mucosal barrier impede drug absorption. Biomaterials have become an important driving force for the innovative development of oral medicine, owing to their unique and excellent properties. They are widely used for preventing, diagnosing, treating, and rehabilitating oral diseases. This review explores recent advancements in biomaterial-enabled oral mucosal drug delivery systems, analyzing key physiological factors and absorption barriers that impact therapeutic outcomes. Focusing on innovative material engineering strategies highlights significant progress in extending drug residence time and improving delivery precision within the oral cavity. Furthermore, the study identifies critical challenges in translating these advancements from research to clinical practice, emphasizing the need for solutions to bridge this gap.}
+}

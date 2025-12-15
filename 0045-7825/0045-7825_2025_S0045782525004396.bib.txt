@@ -1,0 +1,14 @@
+@article{LEE2025118167,
+title = {An adaptive procedure for the analysis of transient wave propagation using interpolation covers},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118167},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118167},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004396},
+author = {Jeehwan Lee and Giseok Yun and Do-Nyun Kim},
+keywords = {Finite element analysis, Enriched finite element, Time-domain wave analysis, Adaptive computation},
+abstract = {Abstract
+In this study, we propose an adaptive interpolation cover for transient wave propagation that locally enriches the finite element mesh. High-order functions are selectively assigned to nodes near wave features, while low-order functions are applied to other regions, without altering the mesh generated prior to time integration. To define wave front nodes, a threshold is established, and the concept of wave radius is introduced to control the re-evaluation count, enhancing simulation efficiency. Simultaneously, to alleviate the error resulting from mesh distortion, an adaptive wave radius is proposed whose magnitude changes depending on the size of elements as the wave propagates. Our results demonstrate that the proposed method significantly improves the efficiency of transient wave analysis compared to the original interpolation cover. Through parameter studies, we identified suitable analysis settings and verified the robustness of the proposed method to mesh distortion. Furthermore, the method’s performance is demonstrated on more general problems in both two- and three-dimensional domains, highlighting its effectiveness and applicability.}
+}

@@ -1,0 +1,13 @@
+@article{DIFONZO2025117727,
+title = {Physics informed neural networks for learning the horizon size in bond-based peridynamic models},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117727},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117727},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009836},
+author = {Fabio V. Difonzo and Luciano Lopez and Sabrina F. Pellegrino},
+keywords = {Physics informed neural network, Bond-based peridynamic theory, Horizon},
+abstract = {This paper broaches the peridynamic inverse problem of determining the horizon size of the kernel function in a one-dimensional model of a linear microelastic material. We explore different kernel functions, including V-shaped, distributed, and tent kernels. The paper presents numerical experiments using PINNs to learn the horizon parameter for problems in one and two spatial dimensions. The results demonstrate the effectiveness of PINNs in solving the peridynamic inverse problem, even in the presence of challenging kernel functions. We observe and prove a one-sided convergence behavior of the Stochastic Gradient Descent method towards a global minimum of the loss function, suggesting that the true value of the horizon parameter is an unstable equilibrium point for the PINN’s gradient flow dynamics.}
+}

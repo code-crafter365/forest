@@ -1,0 +1,13 @@
+@article{ZHOU2025104520,
+title = {SVFFNet: A Scale-Aware Voxel Flow Fusion Network for video prediction},
+journal = {Computer Vision and Image Understanding},
+volume = {261},
+pages = {104520},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104520},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002437},
+author = {Yao Zhou and Jinpeng Wei and Xueyong Zhang and Yusong Zhai and Jian Wei},
+keywords = {Video prediction, Flow estimation, Multi-scale feature fusion},
+abstract = {Video prediction is a challenging task due to the potential for various motion scales in the complex scene. The diversity of motion scales stems from the time-variant and object-dependent motion magnitudes, as well as the multiple image resolutions across datasets. However, the vast majority of frame forecasting networks do not distinguish between treatment of different motion scales. Therefore, their receptive field is normally insufficient to capture larger-scale motions. Those that do, often yield significant local distortions in the predicted images. The reasons lie in their fixed choice of scale factors and lack of cross-scale interaction between motion features. In this work, we propose a Scale-Aware Voxel Flow Fusion Network (SVFFNet) to address the motion scale inconsistency problem and fully integrate multi-scale feature. This network consists of a set of flow estimation blocks, each block containing a selector module and a fusion module. The selector module adaptively selects the appropriate scale-processing branch for the input frames, thus facilitating acquisition of more refined features for large-scale motion. The fusion module then combines these features with the original motion information via an attention mechanism, preserving the actually existing structural details. Experimental results on four widely used benchmark datasets demonstrate that our method outperforms previously published baselines for video prediction. The code is available at: https://github.com/zyaojlu/SVFFNet.}
+}

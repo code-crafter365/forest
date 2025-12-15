@@ -1,0 +1,13 @@
+@article{XING2025110983,
+title = {A novel green mechanical recycling strategy for carbon fiber-reinforced polymer laminates based on the glass transition principle},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110983},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110983},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005530},
+author = {Mingfei Xing and Zhan Li and Wanting Xu and Fayang Guo and Li Zhao and Jiacheng Wang and Ruyue Yin and Yaping Wang},
+keywords = {Carbon fiber-reinforced polymer composites, Glass transition, Mechanical recycling, Delamination, Hot pressing},
+abstract = {A novel glass transition-assisted mechanical delamination process was developed for the environmentally friendly and high-value recovery of carbon fiber reinforced polymer (CFRP) laminates. When heated to 250–350 °C for 5–15 min in an air atmosphere, the resin matrix quickly transitioned from a rigid glassy state to a flexible rubbery state, making the CFRP laminates soft and bendable. Simultaneously, the shear strength of the resin in the rubbery state decreased significantly to 0.35%–4.58 % of its original value. The softened CFRP laminates could be easily bent by a bending machine. Excessive bending deformation caused the resin between adjacent carbon fiber (CF) sheets to tear and debond, resulting in delamination of the laminates into individual CF sheets. Upon cooling to the glassy state, the shear strength of the resin was restored to 87.59%–98.55 % of its original value. This mild glass transition treatment did not significantly affect the mechanical properties of the CF. The resulting monolayer CF sheets could be easily cut into thin slices or filaments of uniform size and hot-pressed into new CFRP plates. The flexural and tensile strengths of the refabricated CFRP plates were approximately 58.98%–82.71 % and 54.55%–87.79 % of those of the original laminates, respectively.}
+}

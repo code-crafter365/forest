@@ -1,0 +1,13 @@
+@article{GAO2025109050,
+title = {A deep learning-assisted inverse design framework for nacre-like composites with excellent specific damping performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109050},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109050},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003446},
+author = {Yibo Gao and Linghua Xiao and Yan Li and Ke Duan and Yonglyu He and Li Li},
+keywords = {Generative AI, Automated dataset generation, Ultra-high specific damping performance, Nacre-like composites, Viscoelasticity, Bio-inspired structure},
+abstract = {Achieving stiffness and damping are key requirements for total mechanical energy loss, and unfortunately, these two properties are often mutually exclusive. Nacre-like composites have been experimentally proven to have both high modulus and high damping, however, there is still a lack of design tools to generate new nacreous microstructures that meet the desired requirement of specific damping performance. In this paper, we propose a deep learning-assisted inverse design framework, called the Denoising Diffusion Probabilistic Model with Frequency-aware feature Fusion and External Attention module (DDPM-FFEA), to generate new nacreous microstructures meeting excellent specific damping performance. The frequency-aware feature fusion and external attention module are integrated into DDPM to provide more accurate spatial boundary features and a larger structural design domain, making the DDPM-FFEA framework suitable for designing nacreous composites with clear feature consistency and boundary definition within a limited design domain. The DDPM-FFEA inverse model is trained to highlight nacreous composites with counterintuitive asymmetric microstructures by specifying ultrahigh specific damping property. By studying various asymmetric microstructures, the ultra-high specific damping performance is attributed to the tensile-bending coupling effect. Microstructural asymmetry becomes a key morphological feature in damping materials, which may explain why asymmetry-induced gradient materials are widely present in natural materials.}
+}

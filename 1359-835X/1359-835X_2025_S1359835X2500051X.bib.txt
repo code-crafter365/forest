@@ -1,0 +1,13 @@
+@article{CHAO2025108757,
+title = {Ultrahigh-solid-content silica/epoxy composite for high-performance semiconductor packaging},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108757},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108757},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500051X},
+author = {Wei-Cheng Chao and Chia-Pei Chu and Ying-Chih Liao},
+keywords = {Epoxy composites, Rheology properties, Liquid molding compounds, Semiconductor packaging, Thermal conductivity},
+abstract = {Packaging materials are crucial for chip performance, directly impacting heat dissipation, warpage, and signal quality. However, balancing flowability and solid content often limits their effectiveness. Herein, a novel methodology is developed for creating ultrahigh-solid-content liquid molding compounds (LMCs) with low viscosity and exceptional properties. By establishing a mathematical model that accurately predicts composites’ viscosity and optimal maximum packing density based on binary size-distributed samples, achieving 78.0 vol% LMC. Its excellent flowability enables superior processability, with precise thickness control and low surface roughness on wafer coatings. The low thermal expansion coefficient (α1 = 11.4 ppm °C−1) ensures minimal warpage and strong adhesion. Dielectric properties (Dk/Df = 2.62/0.0062) significantly lower than commercial FR-4 materials are reached. Besides a high flexural strength of 142.2 MPa, the 78 vol% LMC demonstrates thermal conductivity (1.33 W m−1 K−1) closely approaching pure silica. These outstanding properties highlight the practicality of the ultrahigh-solid-content LMCs for advanced wafer-level packaging applications.}
+}

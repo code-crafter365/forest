@@ -1,0 +1,13 @@
+@article{SHENG2025105844,
+title = {A first arrival picking method of microseismic signals based on semi-supervised learning using FreeMatch and MS-Picking},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105844},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105844},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003273},
+author = {Guanqun Sheng and Zhuka Zhang and Xingong Tang and Kai Xie},
+keywords = {Microseismic monitoring, Deep learning, Semi-supervised learning, First arrival picking},
+abstract = {The small magnitude and low signal-to-noise ratio (SNR) of these signals make picking the arrivals challenging. Recent advancements in deep learning-based methods for picking the first arrivals of microseismic signals have effectively addressed traditional methods' inefficiency and inaccuracy problems. However, these methods often require a large amount of training data, and the substantial size and labeling effort significantly hinder further development of deep learning-based first-arrival picking methods. In recent years, semi-supervised methods have dealt with the small-sample problem. This approach establishes a semi-supervised learning framework, automatically labeling microseismic signals after sample augmentation, which can significantly reduce the time required for sample labeling. Still, in the microseismic domain, microseismic data face issues of low SNR and poor quality of pseudo-labels, which affects the performance of semi-supervised learning methods. Therefore, this study proposes a semi-supervised method that uses FreeMatch and MS-Picking, called Semi-MS-Picking, to improve the accuracy and efficiency of microseismic arrival picking under small sample labeling conditions. The first-arrival picking experiments are conducted under low-SNR conditions using synthetic signals and real microseismic records. The experimental results showed that the proposed Semi-MS-Picking method can outperform the FixMatch, Π Model, Pseudo Label, and AdaMatch methods, achieving a picking accuracy of 73% TOP-1 accuracy, while the other semi-supervised methods do not exceed the 50% TOP-1 accuracy. The proposed method can surpass typical deep learning-based first-arrival picking methods for microseismic signals, demonstrating good performance in intelligent microseismic data processing.}
+}

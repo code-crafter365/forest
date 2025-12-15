@@ -1,0 +1,13 @@
+@article{SIGNORILE2025118246,
+title = {A 3D Lattice Boltzmann method for accurate wetting of ternary fluids with broad rheological variability},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118246},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118246},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005183},
+author = {Simona Signorile and Dario {De Marinis} and Marco Donato {de Tullio}},
+keywords = {Immiscible ternary fluids, Lattice Boltzmann method, Conservative phase-field model, Wetting boundary conditions},
+abstract = {A numerical framework is presented to predict the dynamics of droplets in contact with both hydrophilic and hydrophobic surfaces. We propose a three-dimensional Lattice Boltzmann solver based on the conservative phase-field method for ternary fluid systems. The interface evolution is retrieved by solving the conservative Allen–Cahn equation for two of the three phase-field variables involved in the ternary fluid system whose dynamics is governed by the mass and momentum equations. Such equations are discretized on the lattice nodes: the mass and momentum equations are described using a set of hydrodynamic distribution functions, while the Allen–Cahn equations using two sets of phase-field distribution functions. The boundary conditions for wettability are integrated using a novel non-equilibrium bounce back method for surfaces lying on the lattice nodes. The effectiveness of the solver is validated by means of several test cases of increasing complexity involving: droplets in a quiescent fluid for both low- and high- density ratios, spinodal decomposition of a ternary fluid system, the spreading of a liquid lens, and both static and dynamic configurations of droplets on wettable substrates. The results obtained throughout the validation show very good agreement with the related analytical solutions. A better conservation of physical variables at the boundaries is ensured, thus improving accuracy and mass conserving properties of the overall solver, especially in dynamic cases with high density- and/or viscosity- ratios. Finally, the deformation of a three-layer leukocyte under shear is investigated by means of three-dimensional simulations to demonstrate the effectiveness of the proposed framework.}
+}

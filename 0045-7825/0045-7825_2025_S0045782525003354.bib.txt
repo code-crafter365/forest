@@ -1,0 +1,13 @@
+@article{LIU2025118063,
+title = {A stress-driven bi-level design method for variable radius Voronoi porous structures with enhanced mechanical performance},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118063},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118063},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003354},
+author = {Bin Liu and Longcheng Cai and Wei Cao and Ping Lu},
+keywords = {Voronoi porous structure, Variable radius, Stress-driven, Implicit surface},
+abstract = {Porous structures have gained widespread applications in aerospace, biomedical, and other fields due to their lightweight, high specific strength, and energy absorption properties. However, existing gradient design methods for Voronoi porous structures predominantly rely on iterative optimization and explicit modeling, which suffer from high computational costs, insufficient precision in local density control, and stress concentration at strut junctions. To address these challenges, this study proposes a stress-driven bi-level design method for three-dimensional variable radius Voronoi strut structures, enabling precise control of relative density distribution through macroscopic-global and cellular-local synergistic regulation. At the macroscopic level, finite element analysis (FEA) is employed to obtain stress distributions, and a weighted random sampling strategy is implemented to regulate Voronoi site distribution, thereby generating an initial constant-radius strut structure. At the cellular level, a stress-relative density mapping function is constructed, and weighting factors are embedded into an implicit surface potential energy model to dynamically adjust strut radius, achieving adaptive optimization of local density. The proposed method leverages implicit surface modeling to circumvent geometric discontinuities caused by explicit Boolean operations, ensuring smooth transitions in variable radius struts. FEA and mechanical experiments demonstrate that, compared to constant radius structures with random sites, the variable radius structure designed in this work reduces the maximum von Mises stress by 53.8 %, enhances three-point bending load capacity by 42.3 %, and significantly diminishes failure regions under identical porosity conditions. This approach provides an efficient and high-precision solution for lightweight component design under complex loading scenarios, with experimental validation confirming its effectiveness in improving material utilization and stress uniformity.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025114993,
+title = {Engineered cyclodextrin-protein domain interface modulation and application in nanoscale delivery systems development for therapeutic proteins},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114993},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114993},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005004},
+author = {Qiyue Wang and Chenguang Guo and Yu Ding and Xuesong Zhong and Kexin Sun and Jie Tan and Xiaoyu Xu and Xueming Li and Chao Teng and Xiaofei Xin},
+keywords = {Cyclodextrins, Protein stabilization, Drug delivery, Protein corona, CD-derivatives},
+abstract = {With the development of molecular biology and pharmacology, proteins have been considered essential therapeutic agents that directly or indirectly participate in disease treatment. However, protein-based formulations face significant drawbacks, including low storage stability, rapid metabolism in vivo, and limited organ-selective delivery. Moreover, the internal protein also participated in drug transportation and cellular endocytosis. Therefore, effectively regulating the proteins' properties by interaction with biocompatible materials could be a potential strategy to overcome the drawbacks and improve therapeutic efficiency. Applying Cyclodextrins (CDs) in protein-based medicines has generated widespread attention due to their unique structures and favorable biological properties. While the relationship between proteins and CD-based nanoplatforms still needs to be clarified. Herein, we first introduce the physicochemical properties of CDs and their derivatives, followed by a summary of their interactions with proteins, including their ability and mechanism to affect protein drug stability, soluble protein-based corona formation, and their applications in effective protein drug delivery. Moreover, the potential of CDs to directly participate in the biological signaling pathway regulation is attended. We expect the review will illuminate the wide potential application of CDs in protein drug development and inspire the sophisticated design of CD-related protein drug delivery systems.}
+}

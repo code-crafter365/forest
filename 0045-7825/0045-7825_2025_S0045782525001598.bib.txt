@@ -1,0 +1,13 @@
+@article{ZHANG2025117887,
+title = {Output probability distribution estimation of stochastic static and dynamic systems using Laplace transform and maximum entropy},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {439},
+pages = {117887},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117887},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001598},
+author = {Yang Zhang and Chao Dang and Jun Xu and Michael Beer},
+keywords = {Stochastic system, Probability distribution estimation, Complex distribution, Laplace transform, Inverse Laplace transform, Maximum entropy},
+abstract = {Effectively estimating output probability distributions in stochastic static and dynamic systems with a limited number of simulations is a significant challenge, especially for complex distributions with multi-modality and heavy tails. To address this challenge, this work explores the potential of the Laplace Transform (LT) and its inversion. First, the statistical information embedded in the derivatives of the LT is analysed, establishing the theoretical foundation for recovering output probability distributions. Subsequently, a novel analytical expression for the response probability density function (PDF) is derived by decomposing its inverse LT (ILT) using Euler’s formula. Building on the numerically estimated LT, a non-parametric numerical solution, termed the Numerical Decomposed ILT (NDILT) algorithm, is developed to flexibly estimate the main body of complex PDFs with limited samples. Second, the Taylor expansion of the real component of LT (RCLT) reveals its rich statistical content. Exploiting this property, another parametric method, the LT-based Maximum Entropy Method (LT-MEM), is proposed, incorporating estimated RCLT as constraints of the maximum entropy principle. By solving an optimization problem, LT-MEM can effectively reconstruct complex PDFs across their entire distribution domain using a small sample size. The proposed methods rediscover and harness the power of the LT and ILT to reconstruct complex-shaped probability distributions, offering a valuable alternative. Parameter selection strategies for NDILT and LT-MEM are provided, and their robust accuracy is validated through analytical and numerical examples across various challenging distributions.}
+}

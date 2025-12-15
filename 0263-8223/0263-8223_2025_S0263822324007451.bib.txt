@@ -1,0 +1,13 @@
+@article{SANTOS2025118617,
+title = {Prediction of composite pressure vessels’ burst strength through machine learning},
+journal = {Composite Structures},
+volume = {351},
+pages = {118617},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118617},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007451},
+author = {Rafael Santos and Dirk Vandepitte and David Moens},
+keywords = {Vessel manufacturing, Burst testing, Carbon fiber, Machine learning, Pressure vessels},
+abstract = {In Hydrogen Fuel Cell Electric Vehicles, hydrogen is stored as compressed gas in tanks made from carbon fiber composite. Tanks are designed to withstand 2.25 times the nominal working pressure. If low variability in tank strength can be demonstrated, this margin of safety could be reduced. This requires accurate prediction of the strength of the vessel and quantification of its uncertainty. In this work, several composite pressure vessels are manufactured using filament winding, and the parameters that control the winding and curing recorded as time signals. Process parameters include fiber tension, winding speed, liner pressure, fiber volume fraction, winding time and curing pressure. The vessels are tested for burst pressure. Several configurations are defined, where each manufacturing parameter is changed. The recorded manufacturing data are fed to machine learning(ML) algorithms and trained to predict the vessel’s burst pressure. These ML algorithms include neural networks, Gaussian process regression GPR, Kernel Principal Component Analysis-Lasso (kPCA-Lasso), and an Ensemble regressor. The KPCA-Lasso and GPR models show good correlation. The Ensemble regressor yields better results by combining the KPCA-Lasso and GPR models. The study demonstrates the potential of ML algorithms in predicting the burst pressure of carbon fiber vessels from the monitored manufacturing data.}
+}

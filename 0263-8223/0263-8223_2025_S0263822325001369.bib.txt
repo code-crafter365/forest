@@ -1,0 +1,13 @@
+@article{DANG2025118971,
+title = {Buckling and bending analysis of FGP nanoplates resting on Pasternak foundation considering non-local and surface effects simultaneously using pb2-Ritz method},
+journal = {Composite Structures},
+volume = {359},
+pages = {118971},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118971},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001369},
+author = {Xuan-Trung Dang and Van-Long Nguyen and Minh-Tu Tran and Bich-Phuong Nguyen-Thi and Tien-Thinh Le},
+keywords = {Functionally graded porous nanoplates, Non-local elasticity theory, Surface energy, Buckling and bending analysis, pb2-Ritz method},
+abstract = {For nanoplate structures, due to the large surface-area-to-volume ratio, surface stress exhibits a great influence on the mechanical behavior of the structure. This paper develops a semi-analytical solution using the pb2-Ritz method for bending and buckling analysis of functionally graded porous nanoplates, considering simultaneously non-local and surface effects. The equilibrium equations for the nanoplate on the Pasternak elastic foundation according to Reddy’s third-order shear deformation theory are established based on the principle of minimum potential energy. The critical load in buckling analysis and deflection in the nanoplate subjected to bending are determined through semi-analytical solutions for different types of boundary conditions. The influence of the surface effect, non-local parameters, material parameters, elastic foundation and boundary conditions on the bending and buckling behaviors of the nanoplate is demonstrated through numerical examples. The numerical solutions and theoretical advances reported here provide important insights for surface energy and nonlocal theories of nanoplate structures.}
+}

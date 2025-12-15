@@ -1,0 +1,13 @@
+@article{LOREZ2025117929,
+title = {Frictional contact between solids: A fully Eulerian phase-field approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {440},
+pages = {117929},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117929},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002014},
+author = {Flavio Lorez and Mohit Pundir},
+keywords = {Contact mechanics, Phase-field model, Eulerian formulation},
+abstract = {Recent advancements have demonstrated that fully Eulerian methods can effectively model frictionless contact between deformable solids. Unlike traditional Lagrangian approaches, which require contact detection and resolution algorithms, the Eulerian framework utilizes a single, fixed spatial mesh combined with a diffuse interface phase-field approach, simplifying contact resolution significantly. Moreover, the Eulerian method is well-suited for developing a unified framework to handle multiphysical systems involving growing bodies that interact with a constraining medium. In this work, we extend our previous methodology to incorporate frictional contact. By leveraging the intersection of the phase fields of multiple bodies, we define normal and tangential penalty force fields, which are incorporated into the linear momentum equations to capture frictional interactions. This formulation allows independent motion of each body using distinct velocity fields, coupled solely through interfacial forces arising from contact and friction. We thoroughly validate the proposed approach through several numerical examples. The method is shown to handle large sliding effortlessly, accurately capture the stick–slip transition, and preserve history-dependent energy dissipation, offering a solution for modeling frictional contact in Eulerian models.}
+}

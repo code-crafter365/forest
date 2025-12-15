@@ -1,0 +1,13 @@
+@article{VERSTRAETE2025108867,
+title = {Process optimization to maximize bonding performance of injection-moulded short-fibre composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108867},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108867},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001617},
+author = {Sofie Verstraete and Gokhan Serhat and Stijn Debruyne and Frederik Desplentere},
+keywords = {Short fibre reinforced thermoplastics, Injection moulding, Adhesive bonding, Process optimization},
+abstract = {Adhesive bonding has the major advantage of preserving structural integrity when joining laminated composites, whose stacking sequence influences the joint strength. For short fibre reinforced thermoplastics (SFRT), injection moulding process parameters such as the flow rate, wall temperature, and packing pressure directly affect the resulting fibre orientations. This study explores the fundamental effects of the fibre architecture in SFRT substrates on the stress distribution in single lap joints. Considering the observed influences, a metamodel-based optimization approach is proposed to improve the joint bonding performance by modifying the production process, where the maximization of the bending stiffness is selected as the primary performance indicator. Experimental results validate the introduced methodology as they revealed approximately 30 % average difference of between the lap shear strength levels of the samples with maximized and minimized bending stiffness. These findings highlight the importance of a well-controlled production procedure respecting the bonding area of SFRT composites.}
+}

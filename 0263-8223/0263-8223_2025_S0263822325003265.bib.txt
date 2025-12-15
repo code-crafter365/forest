@@ -1,0 +1,13 @@
+@article{DACOSTAMATTOS2025119161,
+title = {Influence of the application time on the failure pressure of bonded metal/composite layers in presurized blister tests},
+journal = {Composite Structures},
+volume = {364},
+pages = {119161},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119161},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003265},
+author = {Heraldo S. {Da Costa Mattos} and João Laredo {dos Reis} and Bernardo Santiago Areias and Sérgio Luiz {de Souza Junior} and Maria Laura Martins-Costa},
+keywords = {Blister test, Adhering metal/composite layers, Adhesive primer layer, Application time interval, Failure pressure, Composite repair systems for corroded pipelines},
+abstract = {An alternative method to repair through-wall corrosion defects in pipelines is to use a composite sleeve over the damaged region. Between the metallic surface and the composite surface, it is usually applied an adhesive primer layer. The adhesive is a mixture of a resin (which may not be the same used in the composite) and a curing agent. The bonding efficiency can be significantly impacted by the time it takes to join the adherends with the adhesive after mixing the resin with the hardener. This study investigates the influence of this time interval to join a particular class of composite and metal adherends (which will be called the Initial Time for Application ti) on the failure pressures obtained in hydrostatic blister tests. Blister tests were carried out to verify the failure pressure considering different time intervals ti. It is observed that the failure pressure may increase significantly after a given time interval. An analytical model is proposed to predict the failure pressure as a function of ti. Finally, it is suggested how to adapt these experimental observations to the testing and design of real corroded pipeline repairs with composites using concepts from Linear Elastic Fracture Mechanics.}
+}

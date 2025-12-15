@@ -1,0 +1,13 @@
+@article{ZHOU2025111237,
+title = {Experimental and modelling of dynamic response and damage of CFRP composites under lightning strike: coupled electrical-thermal-mechanical analysis},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111237},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111237},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002052},
+author = {Yuchen Zhou and Kunkun Fu and Bin Yang and Huixin Zhu and Yan Li},
+keywords = {Carbon fiber reinforced polymer (CFRP), Coupled electrical-thermal-mechanical model, Lightning strike damage, Dynamic response},
+abstract = {The mechanism by which lightning strikes composite materials involves complex multi-field interactions. This study presents a coupled electrical-thermal-mechanical model designed to predict the dynamic responses and damage of carbon fiber reinforced polymer (CFRP) composites subjected to lightning strikes. Multi-field theories were drawn on and implemented into an electrical-thermal-mechanical finite element (FE) model for simulation. In its thermal analysis, the model incorporated heat absorption during resin decomposition and heat transfer via pyrolysis gas diffusion, while the filtration of pyrolysis gases was factored into the evaluation of impact-induced mechanical damage. A thermo-elastic constitutive relationship was established, including stiffness matrix degradation due to both thermal and mechanical damages. Additionally, artificial lightning strike tests were conducted, utilizing a laser sensor system to measure the dynamic response of CFRP laminates. The results indicate that FE predictions in terms of maximum dynamic displacement, damage area, and depth align closely with experimental findings, thereby demonstrating the effectiveness of the proposed electrical-thermal-mechanical FE model. The propagation of stress waves as well as the formation of pyrolysis gases and their resultant damage were discussed in detail. It was determined that resin pyrolysis and gas filtration are the primary contributors to damage induced by lightning strikes in CFRP composites, as demonstrated through our electrical-thermal-mechanical FE model. Finally, the effectiveness of our FE model especially subjected to lightning strikes with a high current peak was demonstrated.}
+}

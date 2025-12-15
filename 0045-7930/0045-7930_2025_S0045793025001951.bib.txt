@@ -1,0 +1,13 @@
+@article{MI2025106735,
+title = {Microscopic mechanism model of eddy flow and nonlinear flow characteristic analysis in rough rock fractures based on lattice Boltzmann method},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106735},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106735},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001951},
+author = {Changning Mi and Jianping Zuo},
+keywords = {Roughness rock fractures, Perturbation expansion, LBM-MRT, Nonlinear flow, Flow state partitioning},
+abstract = {Nonlinear flow through rough rock fractures is studied using theoretical analysis and numerical simulation. Based on the incompressible Navier–Stokes equations with explicit velocity field decomposition, we introduce vortex momentum and derive an approximate inertial term via perturbation expansion. A novel Laminar–Eddy (LE) microscopic flow model is thereby proposed to elucidate the fundamental microscale mechanisms of nonlinear flow. Using a self-developed GPU-parallelized lattice Boltzmann solver, we simulate fluid flow through nine synthetic fractures with systematically varied fractal roughness and apertures under a series of imposed pressure gradients. The results show that the flow rate–pressure gradient relationship deviates from linearity as pressure increases. Flow field visualization reveals that eddy formation and growth near rough walls are the key factors behind nonlinear macroscopic behavior and complex velocity distributions. Analysis of the normalized transmissivity versus Reynolds number demonstrates the transition from viscous to inertial flow regimes. These findings clarify the micro-mechanisms behind nonlinear fracture flow, providing insight beyond traditional empirical models and guiding future permeability models in complex fracture networks.}
+}

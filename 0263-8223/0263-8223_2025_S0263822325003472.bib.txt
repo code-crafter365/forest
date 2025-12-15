@@ -1,0 +1,13 @@
+@article{MA2025119182,
+title = {Design and analysis of the thick-wall cylindrical origami metamaterials based on tessellation principles},
+journal = {Composite Structures},
+volume = {366},
+pages = {119182},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119182},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003472},
+author = {Zihang Ma and Keyao Song and Jaehyung Ju and Yongbin Wang and He Jia and Xiang Zhou},
+keywords = {Energy absorption performance, Protection performance, Origami-based mechanical metamaterials, Tessellation principle, Optimization method},
+abstract = {Origami structures with embedded creases provide predesigned deformed paths that could enhance the mechanical properties upon loading. Nature has provided hints from the cross-section of the hexagon-filled tessellation pattern of the bamboo and the porous protective layer of the pomelo peel, but the design method of the mechanical metamaterials that combines both energy absorption and protection capacities remains unknown. Inspired by this, the novel design method of the thick-wall cylindrical origami-based metamaterials (TCOM) derived from different tessellation patterns is provided, and both capacities are studied under two loading cases. The main parameters, such as layer heights ranging from 5mm to 10mm and rotation angles of 1°, 3°, and 5°, are varied to investigate their influence on these two capacities. The results show that these two capacities are generally incompatible, and the mixed polygon tessellation patterns stand out. We found that the specific energy absorption (SEA) capacity could be inversely programmable from the parametric study results, hence an optimization method based on the Gaussian Process Regression is provided as a design tool by a simple input of a user-preferred SEA value, hence providing a programmable energy-absorption capacity design tool for the future applications of the cylindrical origami-based mechanical metamaterials. The research here sheds light on the effects of tessellation design principles on origami-based mechanical metamaterial design.}
+}

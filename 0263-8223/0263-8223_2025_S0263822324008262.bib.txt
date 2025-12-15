@@ -1,0 +1,13 @@
+@article{ZHANG2025118698,
+title = {Inverse design method of deployable cylindrical composite shells for solar sail structure},
+journal = {Composite Structures},
+volume = {352},
+pages = {118698},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118698},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008262},
+author = {Zheng Zhang and Diyong Huang and Baisong Pan and Huping Zhou and Jingya Ma and Min Sun and Shouzhi Ren and Guang Zhang},
+keywords = {Solar sail structure, Deployable composite shell, Inverse design, Coiling radius, Driving characteristics},
+abstract = {The deployable cylindrical composite shell (DCCS) applied in the solar sail structure requires suitable geometric parameters to have high storage capacity and large sunlight area. However, it is difficult to obtain the suitable geometric parameters of DCCS. An inverse design method combining the advantages of radial basis function artificial neural network (RBFANN) and multi-island genetic algorithm (MIGA) is proposed to obtain the geometric parameters of DCCS in this paper. RBFANN has the ability of self-learning and nonlinear problem solving, MIGA has the ability of global optimization. The specimens of DCCS were manufactured based on the obtained geometric parameters. The coiling radius, driving characteristics of specimens were studied by experiment and finite element simulation, and the numerical results are in good agreement with the experimental results, which verify the effectiveness of the inverse design method. The inverse design method proposed in this paper can effectively obtain the geometric parameters of DCCS, which also can guide the design of solar sail structure.}
+}

@@ -1,0 +1,13 @@
+@article{ARBOGAST2025117500,
+title = {Direct serendipity finite elements on cuboidal hexahedra},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117500},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117500},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007540},
+author = {Todd Arbogast and Chuning Wang},
+keywords = {Hexahedral mesh, Serendipity finite elements, Direct finite elements, Conforming finite elements, Optimal approximation, Convergence},
+abstract = {We construct direct serendipity finite elements on general cuboidal hexahedra, which are H1-conforming and optimally approximate to any order. The new finite elements are direct in that the shape functions are directly defined on the physical element. Moreover, they are serendipity by possessing a minimal number of degrees of freedom satisfying the conformity requirement. Their shape function spaces consist of polynomials plus (generally nonpolynomial) supplemental functions, where the polynomials are included for the approximation property and supplements are added to achieve H1-conformity. The finite elements are fully constructive. The shape function spaces of higher order r≥3 are developed first, and then the lower order spaces are constructed as subspaces of the third order space. Under a shape regularity assumption, and a mild restriction on the choice of supplemental functions, we develop the convergence properties of the new direct serendipity finite elements. Numerical results with different choices of supplements are compared on two mesh sequences, one regularly distorted and the other one randomly distorted. They all possess a convergence rate that aligns with the theory, while a slight difference lies in their performance.}
+}

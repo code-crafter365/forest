@@ -1,0 +1,13 @@
+@article{LEE2025111177,
+title = {Interface-driven structural engineering of polypropylene carbonate-modified MgO composites for enhanced thermal conductivity},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111177},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111177},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001459},
+author = {Ye-Ji Lee and Ji Young Park and Hong-Baek Cho and Yong-Ho Choa},
+keywords = {Thermal interface materials, Magnesium oxide, Polypropylene carbonate, Epoxy matrix composites, Thermal conductivity},
+abstract = {As electric vehicle (EV) batteries evolve toward higher energy densities, the demand for advanced thermal interface materials (TIMs) with high thermal conductivity (TC), superior mechanical strength, and anti-hydration properties becomes critical. TIMs must effectively dissipate heat while maintaining structural integrity under harsh thermal and humid conditions to ensure long-term reliability. In this study, we developed a high-performance epoxy composite incorporating thermally and chemically engineered magnesium oxide (MgO) fillers. The MgO was modified via thermal treatment and polypropylene carbonate (PPC) surface functionalization, forming a 365 nm hydrophobic coating layer while increasing the average grain size from 0.9 μm to 22 μm. This novel approach significantly mitigated Mg(OH)2 formation after 120 h in deionized water at 50 °C.Furthermore, the interface engineering between PPC-modified MgO and epoxy enhanced phonon transport while reducing interfacial resistance, leading to a 65 % increase in tensile stress and a TC enhancement from 1.192 W/mK to 2.036 W/mK. By optimizing the high-density packaging (HDP) process, we achieved an unprecedented TC of 9.22 W/mK at a filler content of 75.1 vol%, surpassing conventional epoxy-based TIMs. This study demonstrates a synergistic strategy combining grain boundary engineering, interfacial optimization, and dense filler packing to develop next-generation TIMs.}
+}

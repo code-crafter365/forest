@@ -1,0 +1,13 @@
+@article{WU2025103932,
+title = {ViewCloud: A lightweight multi-view point cloud representation for efficient 3D recognition and cross-domain retrieval},
+journal = {Computer-Aided Design},
+volume = {189},
+pages = {103932},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103932},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000934},
+author = {Zhihe Wu and Yaomin Wang and Zhenzhong Kuang and Jiajun Ding and Min Tan and Xuefei Yin and Yanming Zhu},
+keywords = {Lightweight 3D representation, Multi-view point clouds, 3D recognition, Cross-domain 3D retrieval},
+abstract = {Point clouds are widely used across various domains, yet their unordered and unstructured nature presents challenges for lightweight models and real-time inference. This paper introduces ViewCloud, a novel multi-view point-cloud-like representation that integrates the advantages of 2D renderings and 3D point clouds while maintaining a compact and efficient structure. Unlike conventional 3D representations, ViewCloud explicitly preserves viewpoint-specific geometric and semantic features, ensuring high information density with minimal redundancy. To construct ViewCloud, we propose an adaptive sampling strategy that extracts contour and interior pixels from multi-view 2D renderings, capturing essential shape characteristics while reducing storage overhead. We further design a ViewCloud-based multi-view feature aggregation Network, incorporating a contrastive learning-based semantic alignment Loss to enhance cross-view consistency and improve 3D recognition. Additionally, we extend ViewCloud to cross-domain retrieval, leveraging it as an intermediate representation to bridge 2D images and 3D point clouds within a shared feature space. Experiments on three benchmark datasets demonstrate that ViewCloud surpasses state-of-the-art methods in 3D recognition and cross-domain retrieval while significantly reducing storage and computational costs. These results establish ViewCloud as a scalable, efficient, and generalizable 3D representation.}
+}

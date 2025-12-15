@@ -1,0 +1,13 @@
+@article{MARTYNYUK2025114269,
+title = {The effects of plant flavones on the membrane boundary potential and lipid packing stress},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114269},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114269},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005289},
+author = {Vera A. Martynyuk and Svetlana S. Efimova and Anna I. Malykhina and Olga S. Ostroumova},
+keywords = {Phytochemicals, Polyphenols, Lipid bilayers, Membrane boundary potential, Lipid-packing stress},
+abstract = {Here we have revealed the effects of different plant flavones on the physicochemical properties of model lipid membranes. We have demonstrated that baicalein increases the boundary potential of membranes composed of phosphatidylcholine, while wogonin does not affect it. Other flavones tested reduce membrane boundary potential, with this ability increasing among scutellarein, chrysin, apigenin, morin, fisetin, and luteolin. Molecular dynamics simulations demonstrate connection of alteration in boundary potential with the preferential orientation of intrinsic flavone dipole moments in membranes. We have also shown that flavones reduce the melting point of phosphatidylcholine, and this ability increases in the series of luteolin, morin, wogonin, scutellarein, apigenin, baicalein, chrysin, and fisetin. The introduction of baicalein, chrysin and fisetin also leads to a significant decrease in the sharpness of the lipid phase transition. We have hypothesized that the localization of flavones in the glycerol backbone or in the C1-C8 methylene region of lipid hydrocarbon chains leads to an increase in the area per lipid and, as a consequence, to an expansion of the lipid melting peak. Replacement of neutral phosphatidylcholine with negatively charged phosphatidylserine affects the membrane-modifying activity of flavones which given the externalization of phosphatidylserine on the surface of cancer cells may be crucial in the flavone anticancer effects.}
+}

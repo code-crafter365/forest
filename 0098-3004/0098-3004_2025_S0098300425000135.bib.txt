@@ -1,0 +1,13 @@
+@article{SPREMIC2025105863,
+title = {Local conditioning in posterior sampling methods with example cases in subsurface inversion},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105863},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105863},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000135},
+author = {Mina Spremić and Jo Eidsvik and Thomas Mejer Hansen},
+keywords = {Monte Carlo sampling, Data assimilation, Localization methods, Bayesian inversion},
+abstract = {Local approaches have gained interest because they can provide fast approximate solutions for inverse problems. Following the idea of split-and-conquer, one aims to effectively condition variables to data using only small parts of the big model. We study and compare local approaches for conditioning in the context of seismic amplitude data and tomography, with two datasets relevant to improved oil and gas recovery in the North Sea and groundwater characterization in Denmark. In our comparison we study a local variant of an extended rejection sampler, termed localized extended rejection sampler (LERS), and a local ensemble transform Kalman filter (LETKF). Using various output statistics, we investigate the performance of the methods at marginal (e.g. mean and variance) level and joint properties (e.g. volume uncertainty and connectivity) of the subsurface variables of interest. Computed posterior statistics are compared with a reference Markov chain Monte Carlo solution. The results highlight benefits of the methods, such as fast reliable performance on the marginal properties, while joint properties in the more difficult cases show potential challenges of applying these local methodologies. Based on the results in our two cases, we discuss the applicability of the methods. We conclude that the localization methods are efficient and useful for estimating marginal properties and associated uncertainty, and can be an inexpensive tool for evaluating the need for further data processing. Local assimilation as outlined here is not suitable for generating posterior realizations of the spatial process variables.}
+}

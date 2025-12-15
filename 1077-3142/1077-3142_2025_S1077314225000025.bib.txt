@@ -1,0 +1,13 @@
+@article{LI2025104279,
+title = {Joint Generating Terminal Correction Imaging method for modular LED integral imaging systems},
+journal = {Computer Vision and Image Understanding},
+volume = {252},
+pages = {104279},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104279},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000025},
+author = {Tianshu Li and Shigang Wang},
+keywords = {Integral imaging, Lens module array, Element image, Correction matrix},
+abstract = {Integral imaging has garnered significant attention in 3D display technology due to its potential for high-quality visualization. However, elemental images in integral imaging systems usually suffer from misalignment due to the mechanical or human-induced assembly within the lens arrays, leading to undesirable display quality. This paper introduces a novel Joint-Generating Terminal Correction Imaging (JGTCI) approach tailored for large-scale, modular LED integral imaging systems to address the misalignment between the optical centers of physical lens arrays and the camera in generated elemental image arrays. Specifically, we propose: (1) a high-sensitivity calibration marker to enhance alignment precision by accurately matching lens centers to the central points of elemental images; (2) a partitioned calibration strategy that supports independent calibration of display sections, enabling seamless system expansion without recalibrating previously adjusted regions; and (3) a calibration setup where markers are strategically placed near the lens focal length, ensuring optimal pixel coverage in the camera frame for improved accuracy. Extensive experimental results demonstrate that our JGTCI approach significantly enhances 3D display accuracy, extends the viewing angle, and improves the scalability and practicality of modular integral imaging systems, outperforming recent state-of-the-art methods.}
+}

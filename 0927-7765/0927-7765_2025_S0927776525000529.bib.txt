@@ -1,0 +1,13 @@
+@article{LEI2025114545,
+title = {Colon-targeted dual-coating MOF nanoparticles for the delivery of curcumin with anti-inflammatory properties in the treatment of ulcerative colitis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {250},
+pages = {114545},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114545},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000529},
+author = {Haoqiang Lei and Yipeng Liu and Jing Li and Junyuan Chen and Liji Chen and Ying Liu and Hongsheng Liu and Wenqiang Li and Zhuofei Jiang and Zhidong Li and Xiaohua Su},
+keywords = {Curcumin, UiO-66, Dopamine, Colon targeting, Ulcerative colitis},
+abstract = {The inflammatory response is the core mechanism of the pathogenesis and symptoms of ulcerative colitis (UC), and inhibiting inflammation is a promising therapeutic approach to improving UC. Curcumin is considered a potential treatment for UC due to its significant anti-inflammatory and antioxidant effects. However, its bioavailability in the post-oral administration is limited. Therefore, the stability, sustained release, and colon targeting of curcumin in the treatment of UC have become a challenge. Herein, curcumin was efficiently filled in the porous structure of University of Oslo 66 (UiO-66). Amino-functionalized UiO-66 (MOF) was bound to hyaluronic acid (HA) via chemical crosslinking and electrostatic interactions. Polydopamine (PDA) layer was then applied to form Cur@MOF@HA-PDA NPs for colon targeting for UC treatment. Cur@MOF@HA-PDA NPs not only enhanced the stability of curcumin but also possessed acid resistance and reactive oxygen species (ROS) responsive properties, enabling it to be effectively delivered to the UC lesion site for curcumin release after oral administration, thereby enhancing the therapeutic effect. In vitro studies revealed that Cur@MOF@HA-PDA NPs possessed the ability to eliminate intracellular ROS, inhibit inflammatory (M1) polarization, and promote anti-inflammatory (M2) polarization. Additionally, in vivo experiments demonstrated that Cur@MOF@HA-PDA NPs could effectively alleviate the intestinal inflammatory symptoms of UC mice, promoting intestinal tissue repair. Furthermore, it was also confirmed that Cur@MOF@HA-PDA NPs achieved the treatment of UC by inhibiting inflammatory responses, modulating intestinal immune functions, and promoting the polarization of M2 macrophages. In short, Cur@MOF@HA-PDA NPs, as colon-targeted drug delivery nanosystems, offer a promising therapeutic strategy for the treatment of UC.}
+}

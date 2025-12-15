@@ -1,0 +1,13 @@
+@article{CHEN2025119561,
+title = {Significantly improve the mode Ⅱ interlaminar and in-plane tensile properties of needled composites by novel short fiber felt peeling method},
+journal = {Composite Structures},
+volume = {372},
+pages = {119561},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119561},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007263},
+author = {Xiaoming Chen and Qi Zheng and Wenguang Liu and Zexiong Wang and Zhipeng Ren},
+keywords = {Needling, Textile composites, Needled fabrics, Needled composites, Properties},
+abstract = {Traditional felt/felt and felt/base cloth laminated needled preforms contain low-density short fiber felt, limiting the mechanical performance of the needled composites, which is hard to apply in thin-walled high load-bearing composite structures. To address this issue, this paper proposed a novel method for preparing high load-bearing needled fabrics by short fiber felt peeling. Short fiber felt peeled needled fabrics and their composites were designed and prepared, and the fabric structure was characterized. The Mode II interlaminar shear performance, in-plane tensile mechanical properties, and failure mechanisms of short fiber felt peeled needled composites were studied. The results indicated that under the same needling process conditions, the fiber volume content of short fiber felt peeled needled fabric increased by 52.24% compared to traditional needled fabric, and the fiber bundle length increased by 112.69%. The Mode II interlaminar shear strength of short fiber felt peeled needled composites enhancedby 61.43% to 252.53% compared to traditional needled composites. The in-plane tensile strength and modulus improved by 59.54% and 49.46%, respectively. The needling method based on short fiber felt peeling greatly improved the mechanical properties of needled composites, and it is expected to be applied in the preparation of structural–functional integrated materials for high-speed aircraft.}
+}

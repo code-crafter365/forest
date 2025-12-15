@@ -1,0 +1,13 @@
+@article{PAPINI2025114997,
+title = {Green bleaching of fungal nanochitin to enhance the functional properties of food packaging materials},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114997},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114997},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005041},
+author = {Sara Papini and Madalen Azpitarte Aretxabaleta and Justin O. Zoppe and Erlantz Lizundia},
+keywords = {Chitin nanofibrils, Fungal chitin, Bleaching, Biocolloid, Optical properties},
+abstract = {Non-renewable plastics significantly challenge current sustainability efforts. Polysaccharide colloids emerge as promising contenders for alleviating the environmental impact of the packaging industry. Fungal chitin nanofibrils (ChNFs) are particularly attractive for sustainable packaging given their ease of isolation. However, its inherent brown color hinders its use in food packaging. Accordingly, here we bleach ChNFs using hydrogen peroxide at temperatures ranging from 50 to 70 ºC for 150 min, and with high solid-to-liquid ratios of 15 wt% H2O2, to produce transformative polysaccharide materials for food packaging. The structural, morphological and conformational features of bleached ChNFs are investigated. Bleached ChNF is utilized to reinforce a model packaging material such as polyvinyl alcohol in concentrations up to 10 wt% by developing free-standing nanocomposite films. Bleaching improves the optical transparency as indicated by the opacity decrease from 1.40 mm−1 to 1.11 mm−1 for the PVA film containing 10 wt% of non-bleached and bleached ChNFs, respectively. Importantly, Young´s modulus values increase from 672 ± 23 MPa for neat PVA, to 1140 ± 54 MPa and 1552 ± 136 MPa for the 10 wt% nanocomposites containing non-bleached and bleached ChNFs, respectively. Coatings of bleached ChNFs applied to fresh strawberries by dip coating in aqueous suspensions are able to limit the weight loss of strawberries from 69 ± 19 to 35 ± 15 % by after coating, demonstrating a good capacity for substantially delaying enzymatic degradation. Overall, bleaching provides a desirable set of characteristics for packaging, representing a significant step forward in developing biobased food packaging materials.}
+}

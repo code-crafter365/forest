@@ -1,0 +1,13 @@
+@article{MAO2025119454,
+title = {Customized design of lattice structures in performance based on dispersion strengthening and multiple mechanical response},
+journal = {Composite Structures},
+volume = {371},
+pages = {119454},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119454},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006191},
+author = {Zhongfa Mao and Weichao Wang and Wen Peng and Xiulin Ji and Fengtao Wang},
+keywords = {Lattice structure, Dispersion strengthening, Mechanical response, Energy absorption, Deformation simulation},
+abstract = {Lattice structure has been widely used in construction, medicine, aerospace, and other fields due to the advantages of lightweight, high specific strength, and excellent energy absorption. However, the homogeneous structure still faces the danger of sudden failure in the shear band when loaded beyond the yield point, which brings many limitations to the popularization and application of the lattice structure. In this research, a design method of strengthening and toughening for lattice structures is proposed by introducing a dispersion strengthening mechanism in crystalline materials and multiple mechanical response mechanisms based on a dual-scale configuration design. As such, various composite structures are designed and manufactured to verify the feasibility of this approach. Their mechanical response and deformation mechanisms are investigated through quasi-static compression experiments and finite element methods. The results indicate that the dispersion strengthening mechanism can effectively inhibit the rapid decreases in stress and propagation of shear bands, thus improving the lattice structure’s mechanical properties and energy absorption. The configuration of the hard phase plays a vital role in regulating the failure mode of the lattice structure. This approach paves the way for developing excellent comprehensive performance lattice structures through dual-scale design based on multiple mechanical responses.}
+}

@@ -1,0 +1,13 @@
+@article{SHEKAR2025108698,
+title = {Optimization of surface texturing parameters in additively manufactured continuous fiber composites using abrasive waterjet technique for composite repair applications},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108698},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108698},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006961},
+author = {Arjun Chandra Shekar and Atef Sawalmeh and Redouane Zitoune and Lucas A. Hof},
+keywords = {Additive manufacturing, Abrasive waterjet process, Surface quality, Composite repair},
+abstract = {Surface texturing is critical in adhesive bonding strength, hence crucial for composite repair. This study evaluates the influence of abrasive waterjet (AWJ) machining as a texturing technique for surface preparation of additively manufactured (AM) composite parts. Effects of waterjet pressure (WP) and traverse speed (TS) on crater volume (Cv) and arithmetic mean height (Sa) were studied. Digital and electron microscopy validated surface textures, observed damage patterns, and assessed contamination due to abrasive embedment. Increasing WP from 60 to 100 MPa significantly increased Cv by 179.6 % and Sa by 410.6 %, highlighting its strong influence. In contrast, TS showed a secondary effect when increased from 10 to 20 m/min, with higher speeds producing smoother surfaces and reducing Cv and Sa by 30.78 % and 28.59 % respectively. The findings, supported by statistical analysis and multi-objective optimization, show that Cv and Sa are effective metrics for surface texture quantification in AWJ textured AM composite specimens.}
+}

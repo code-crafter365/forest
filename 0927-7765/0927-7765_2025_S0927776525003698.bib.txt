@@ -1,0 +1,13 @@
+@article{ZHANG2025114862,
+title = {Cell-interface engineering of Shewanella oneidensis MR-1 for enhanced stability of viability and functions},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114862},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114862},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003698},
+author = {Tong-Kai Zhang and Jie Liu and Zi-Qian Yi and Kai-Qi Ye and Wei Geng and Yao-Qi Huang and Ge Tian and Xiao-Yu Yang},
+keywords = {Cell-interface engineering, TA-Fe, Cytoprotective, Degradable, Precise functions},
+abstract = {Creating synthetic interface from non-life materials to improve Shewanella stability and endow them with precise functionalities could revolutionize cell-based biotechnologies. Herein, a stable and cytoprotective biointerface on Shewanella surface are rapidly generated through immediate coordination complexes of TA and Fe (Ⅲ) ions. TA-FeⅢ-based biointerface engineered Shewanella cells can be endowed with extremophile properties of resistance to high temperature, osmotic stress, UV light and lysozyme, and can be released from TA-FeⅢ biointerface through the acidic condition-triggered decomplexation. Furthermore, various functional materials with abiotic properties like conductivity and magnetism can be induced onto surface of Shewanella through co-self-assembly with TA-FeⅢ interface.}
+}

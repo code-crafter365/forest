@@ -1,0 +1,13 @@
+@article{ZHANG2025114374,
+title = {Gadolinium ion-loaded mesoporous organosilica nanoplatform for enhanced radiotherapy in breast tumor treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114374},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114374},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006337},
+author = {Junjie Zhang and Li Lu and Wenqing Zhang and Yuchen Miao and Hengda Du and Hui Xia and Zhiyong Tao and Zhaofeng Du and Yulong Tang and Qiang Fang},
+keywords = {Mesoporous organosilica, Nanocarrier, Nanoplatforms, Tumor therapy, Radiosensitizer},
+abstract = {Triple-negative breast cancer (TNBC) is a highly aggressive subtype with limited therapeutic options, often exhibiting resistance to standard radiotherapy (RT) and chemotherapy. Recent advancements in nanomedicine provide an opportunity to enhance treatment efficacy through innovative drug delivery systems and radiosensitizers. In this study, we present a novel nanotheranostic platform, MOs-G@DOX, engineered to enhance the therapeutic efficacy of RT in the treatment of TNBC. This platform consists of gadolinium-containing mesoporous organosilica nanoparticles (MOs-G) that serve a dual function as a drug carrier and a radiosensitizer. The MOs-G were synthesized via a surfactant-mediated sol-gel process, followed by gadolinium incorporation through nanoprecipitation. The antitumor drug doxorubicin (DOX) was subsequently loaded into the mesoporous structure, forming the MOs-G@DOX nanoplatform. Comprehensive in vitro and in vivo studies demonstrated that MOs-G@DOX exhibits excellent biocompatibility and significantly enhances the radiosensitivity of TNBC cells, leading to superior tumor growth inhibition compared to conventional treatments. The stability of MOs-G, with minimal gadolinium ion leakage, further underscores its potential as a safe and effective nanomedicine. Additionally, the combination of MOs-G@DOX with RT showed a marked increase in reactive oxygen species (ROS) generation and tumor cell apoptosis, which were confirmed through histological analyses. These findings suggest that MOs-G@DOX is a promising candidate for advancing cancer therapy, particularly in the context of RT for TNBC.}
+}

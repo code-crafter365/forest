@@ -1,0 +1,13 @@
+@article{KEOHANE2025105874,
+title = {Indications of abundant off-axis activity at the east Pacific rise, 9°50’ N, using a machine learning “chimney identification tool”},
+journal = {Computers & Geosciences},
+volume = {197},
+pages = {105874},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105874},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042500024X},
+author = {Isaac Keohane and Jyun-Nai Wu and Scott M. White and Ross Parnell-Turner},
+keywords = {Machine learning, High-resolution bathymetry, Neural networks, Hydrothermal chimneys, Seafloor mapping, Mid-ocean ridge},
+abstract = {Deep-sea hydrothermal vent systems are a key mechanism for fluid and heat exchanges between the solid Earth and the ocean, but the inaccessible location, scattered occurrence, and meter scale size of vent chimneys make finding them challenging. Now that chimney-sized structures are resolved by near-bottom bathymetric maps, methods to identify potential hydrothermal chimneys in an efficient and reproducible way can be used to develop catalogs of chimney distribution and size. This study investigates the use of a previously developed machine learning Chimney Identification Tool (CIT) to identify potential chimneys in 1 m gridded bathymetric data collected by autonomous underwater vehicle Sentry in 2019–2021. The CIT uses a convolutional neural network, a deep learning model that is well suited to recognize textures and shapes in rasters, that was trained on examples from two other spreading ridge environments. This neural network is combined with a selective search to output individual point locations from input gridded bathymetric data. The CIT picked 119 chimney-like structures up to 4000 m away from the ridge axis and summit collapse trough at the East Pacific Rise between 9°43′N and 9°57′N, suggesting an abundance of off-axis hydrothermal activity that has not been previously acknowledged in estimates or models of hydrothermal activity. This machine learning approach is also compared to interpretations by two expert human analysts. We observe a wide range between the human interpretations, primarily resulting from different levels of including smaller features, with the outputs of the CIT falling within this range. These results illustrate how uncertainty is inherent to identifying seafloor chimneys from bathymetric data, whether manually or algorithmically, due to variation and ambiguity in chimney morphology. We suggest that our results underscore the promise of using an algorithmic method to produce reproducible inventories of potential chimneys with consistent criteria that can be used for broader spatial distribution insights.}
+}

@@ -1,0 +1,13 @@
+@article{GESING2025106677,
+title = {On the 3D Stokes flow around non-slender MEMS resonators},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106677},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106677},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001379},
+author = {A. Gesing and D. Platz and U. Schmid},
+keywords = {MEMS, Fluid–structure interaction, MEMS-FSI, FEM},
+abstract = {Micro-electro-mechanical systems (MEMS) interact with surrounding fluids, influencing their dynamics across various fluid flow regimes. Accurate modeling of MEMS fluid–structure interaction (FSI) is essential, especially for non-slender geometries where traditional two-dimensional (2D) Stokes flow approximations often do not suffice. This study presents a numerical method incorporating 2D and three-dimensional (3D) Stokes flow for analyzing non-slender MEMS resonators. By comparing the dynamics of cantilevers and bridge resonators in viscous environments, we highlight the limitations of the 2D approach, particularly as the resonator width increases. 3D fluid flow becomes increasingly significant for wider geometries and higher-order vibrational modes, with deviations in the Q-factor and resonance frequencies exceeding 70% and 120%, respectively, for specific modes. These findings underscore the necessity of 3D FSI methods for accurately predicting MEMS dynamics and allowing improved design and optimization of MEMS devices in applications such as biomedical sensing and environmental monitoring.}
+}

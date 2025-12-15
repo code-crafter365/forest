@@ -1,0 +1,13 @@
+@article{XIONG2025117681,
+title = {The deep finite element method: A deep learning framework integrating the physics-informed neural networks with the finite element method},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117681},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117681},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009356},
+author = {Wei Xiong and Xiangyun Long and Stéphane P.A. Bordas and Chao Jiang},
+keywords = {Deep finite element method, Physics-informed neural networks, Deep energy method, Solid elasticity mechanics, Three-dimensional structures},
+abstract = {This paper proposes a deep finite element method (DFEM), which integrates physics-informed neural networks (PINNs) with the finite element method (FEM). The DFEM provides a versatile and robust framework that seamlessly combines observational data with physical laws. In this method, the outputs of the deep neural networks are utilized for approximating the displacements of grid nodes, while shape functions are used to construct trial functions within elements. A loss function is then designed by combining deep neural networks with stiffness matrices, avoiding the high-order derivative terms. Furthermore, the theoretical convergence stability of the proposed DFEM is analyzed. Finally, the training stability and predictive accuracy of the DFEM are validated through numerical examples. The results demonstrate that the proposed method greatly reduces the relative error compared to the deep energy method (DEM). Moreover, by integrating pre-training, the DFEM experiences a significant enhancement in training efficiency, reducing computation time by up to 7/8 compared to the FEM. This makes it a promising tool for fast computations and digital twin applications.}
+}

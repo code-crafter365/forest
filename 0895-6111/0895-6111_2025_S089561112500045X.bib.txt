@@ -1,0 +1,13 @@
+@article{JIN2025102536,
+title = {LA-ResUNet: Attention-based network for longitudinal liver tumor segmentation from CT images},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102536},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102536},
+url = {https://www.sciencedirect.com/science/article/pii/S089561112500045X},
+author = {Ri Jin and Hu-Ying Tang and Qian Yang and Wei Chen},
+keywords = {Longitudinal segmentation, Liver tumor, Image co-segmentation, Attention mechanism, Longitudinal medical dataset},
+abstract = {Longitudinal liver tumor segmentation plays a fundamental role in studying and monitoring the progression of associated diseases. The correlation and differences between longitudinal data can further improve segmentation performance, which are inevitably omitted in single-time-point segmentation. However, there is no research in this field due to the lack of relevant data. To this issue, we collect and annotate the first longitudinal liver tumor segmentation benchmark dataset. A novel strategy that utilizes images from one time point to facilitate the image segmentation from another time point of the same patient is presented. On this basis, we propose a longitudinal attention based residual U-shaped network. Within it, a channel & spatial attention module quantifies both channel-wise and spatial-wise dependencies of each feature to refine feature representations. And a longitudinal co-segmentation module captures cross-temporal correlation to recalibrate the feature at one time point according to another one for enhanced segmentation. Longitudinal segmentation is achieved by plugging these two multi-scale modules into each layer of the backbone network. Extensive experiments on our CT liver tumor dataset and an MRI brain tumor dataset have validated the effectiveness of the established strategy and the longitudinal segmentation ability of our network. Ablation studies have verified the functions of the proposed modules and their respective components.}
+}

@@ -1,0 +1,13 @@
+@article{HUANG2025114703,
+title = {Nanoscale cuttlebone-doped PVA/SA hydrogel with hemostatic and antibacterial properties},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114703},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114703},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002103},
+author = {Ying Huang and Zhengao Wang and Meimei Fu and Dongsong Lin and Fuyu Zhao and Keke Wu and Xia Ren and Xianjun Fu and Wuyi Zhou},
+keywords = {Cuttlebone, Hemostatic, Anti-bacterial, Wound dressing, Sodium alginate},
+abstract = {Effective wound management remains a major clinical challenge, especially in preventing infections and promoting rapid healing. However, traditional wound dressings often lack multifunctionality, limiting their ability to support hemostasis and antibacterial protection. To address this challenge, in this work, a novel wound dressing was developed utilizing nano-cuttlebone particles, which are rich in calcium carbonate and chitin, to enhance hemostatic and antimicrobial functionality. The dressing, composed of polyvinyl alcohol, sodium alginate, and nano-cuttlebone, addresses the need for advanced wound care solutions. The particle size distribution of the powder was evaluated using a laser particle size analyzer, and the particle size of the nano-cuttlebone was around 75 nm. The drug release experiment showed that the drug release of nano cuttlebone hydrogel was 1.4 times that of micro cuttlebone hydrogel in 48 h. The antibacterial activity of the nano-cuttlebone-doped dressing against S. aureus was 97.32 % and against E. coli was 99.99 %. The cell scratch test showed that the nano-cuttlebone hydrogel gradually migrated to the central area, and its migration rate was 61.43 % after 12 hours. The hydrogel also demonstrated excellent hemostatic ability in a mouse liver injury model and could rapidly stop bleeding within 1 min. In a full-thickness wound model, the nano-cuttlebone hydrogel enhanced collagen deposition and promoted faster wound closure. This study highlights the potential of marine biomaterials for developing multifunctional wound dressings to improve patient outcomes.}
+}

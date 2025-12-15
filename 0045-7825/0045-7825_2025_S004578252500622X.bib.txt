@@ -1,0 +1,13 @@
+@article{SCABBIA2025118350,
+title = {Peridynamic correspondence model for nearly-incompressible finite elasticity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118350},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118350},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500622X},
+author = {Francesco Scabbia and Vito Diana and Francesca Fantoni and Mirco Zaccariotto and Ugo Galvanetto},
+keywords = {State-based models, Hyperelasticity, Large deformations, Elastomers, Soft tissues},
+abstract = {This paper presents a correspondence model for use with peridynamic states in the context of nearly incompressible finite elasticity. An isochoric/volumetric decomposition is adopted, enabling the derivation of the peridynamic force state from a purely spherical, pointwise non-local deformation gradient and a deviatoric, bond-level non-local deformation gradient. This approach leads to a stable one-field, state-based peridynamic formulation that is free from zero-energy modes and capable of accurately capturing the mechanical behavior of elastic materials under large deformations, including those with low or negligible compressibility, typical of unfilled elastomers and isotropic soft biological tissues. Notably, the proposed correspondence model, based on a selective bond-associated deformation gradient, avoids the artificial stiffening commonly observed in standard displacement-based formulations near the incompressible limit. Moreover, its performance is shown to be independent of the specific compressibility ratio assumed in the hyperelastic constitutive law. The model has been successfully validated using classical polynomial strain energy functions through a series of illustrative examples involving both homogeneous and inhomogeneous finite deformations in isotropic hyperelastic solids.}
+}

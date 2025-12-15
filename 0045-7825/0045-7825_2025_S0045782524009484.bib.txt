@@ -1,0 +1,13 @@
+@article{WANG2025117694,
+title = {GPM-PeNN: A generalized plasticity model-based data-driven constitutive modeling framework using physics-encoded neural network},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117694},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117694},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009484},
+author = {Jingzhou Wang and Gang Ma and Tongming Qu and Shaoheng Guan and Wei Zhou and Xiaolin Chang},
+keywords = {Physics-encoded neural networks, Constitutive modeling, Data-driven computing, Generalized plasticity, Boundary value problem},
+abstract = {Data-driven surrogate modeling provides a new way to characterize and predict the mechanical behavior of materials. However, pure data-driven models tend to suffer from problems with stress path generalization ability. The model's performance is not stable enough especially when dealing with boundary value problems because of the various loading paths and historical influences. In this study, a physics-encoded data-driven constitutive modeling framework based on generalized plasticity, known as GPM-PeNN (Generalized Plasticity Model-based Physics-encoded Neural Network), is proposed, aiming to improve the stress path generalization ability and robustness of the model for extrapolated predictions. In this framework, the theory of generalized plasticity model is encoded as the physical priori. By leveraging generalized plasticity knowledge for task decomposition, the complex relationships of materials have been transformed into sub-relations that are more easily discernible by neural networks. Additionally, the generalized plasticity theory-consistent information flow structure limits the scope of fitting in traditional constitutive modeling, enhancing the robustness. Considering the assumptions like elastoplastic decomposition and associated flow rule, this framework is suitable for the modeling of small strain elastoplastic materials. The GPM-PeNN is also embedded into the general finite element program Abaqus through UMAT subroutine to solve boundary value problems and accurately reproduce ground truth solutions. Sensitivity analysis of data quantity and noise level is conducted to evaluate the model's performance on small datasets and resistance to noise. The results show that the GPM-PeNN trained with even limited data or noisy datasets can still provide stable solutions against boundary value problems, which unequivocally demonstrates its stress path generalization ability and robustness.}
+}

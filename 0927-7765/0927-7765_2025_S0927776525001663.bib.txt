@@ -1,0 +1,13 @@
+@article{LI2025114659,
+title = {Enhanced ocular retention and intraocular pressure-lowering efficacy of hydrophobic microspheres for glaucoma treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114659},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114659},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001663},
+author = {Qinyu Li and Bowen Pan and Kangyiran Pan and Yangrong Zhang and Ilva D. Rupenthal and Li Liu and Yuexian Hong and Lin He and Xifeng Teng and Xiao Yu and Zhenping Xiao and Ji Huang and Tianying Huang and Yihan Shi and Wen Rui and Qinqiang Long and Dongzhi Hou},
+keywords = {Betaxolol hydrochloride, Glaucoma, Montmorillonite, Mesoporous silica, Microspheres},
+abstract = {Glaucoma eye drops often suffer from low bioavailability due to rapid drug release and poor ocular retention. This study aimed to address these challenges by developing betaxolol hydrochloride-loaded mesoporous silica polyacrylic resin microspheres (BH@MCM-41 MPs) and comparing their safety, ocular retention, and intraocular pressure (IOP)-lowering efficacy with previously reported betaxolol hydrochloride-loaded montmorillonite polyacrylic resin microspheres (BH@MMT MPs), BH solution, and commercially available Betoptic®. Both BH@MCM-41 MPs and BH@MMT MPs demonstrated sustained drug release over 12 h and good biocompatibility. The impact of physicochemical particle characteristics on micro-interactions with tear film mucins and corneal epithelial cells was investigated. BH@MCM-41 MPs exhibited significantly higher mucin-binding capacity compared to BH@MMT MPs, with approximately double the binding at mucin concentrations over 0.4 mg·mL−1. Rose Bengal assays indicated a more hydrophobic surface for BH@MCM-41 MPs, with a binding constant (K) of 88.51, compared to 69.84 for BH@MMT MPs. In addition, these positively charged microspheres demonstrated prolonged precorneal retention, with BH@MCM-41 MPs achieving 58.17 minutes, compared to 44.49 minutes for BH@MMT MPs. Tear pharmacokinetics further confirmed the extended precorneal residence time of these formulations. Ex vivo corneal permeation studies revealed that the hydrophobic surface of BH@MCM-41 MPs enhanced interaction with corneal epithelial cells, promoting drug release and permeation. The area under the IOP reduction curve (AUC0–36h) for BH@MCM-41 MPs was 1.2-fold greater than for BH@MMT MPs, and significantly higher than for the BH solution and Betoptic. These findings suggest that BH@MCM-41 MPs offer enhanced efficacy for sustained glaucoma treatment through improving precorneal retention.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025119644,
+title = {TPMS-based PLA/PETG interpenetrating composites: The synergistic enhancement of mechanical properties for bone implant},
+journal = {Composite Structures},
+volume = {373},
+pages = {119644},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119644},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008098},
+author = {Chenyu Wang and Haowen Xue and Qian Wan and Bin Zhou and Xingchen Guo and Yue Lu and Qing Han and Hao Chen and Jincheng Wang},
+keywords = {Interpenetrating phase composites, Triply periodic minimal surface, Mechanical performance enhancement, Energy absorption, Biocompatibility},
+abstract = {Maxillofacial bone repair demands implants that match native mechanics, yet conventional designs struggle to balance strength and toughness. We present an interpenetrating phase composite (IPC) that couples a PLA lattice with a PETG network, printed via multimaterial FDM into P-type TPMS architectures with offset thickness d = 0.4–1.2 mm. The IPC shows a synergistic “1 + 1 > 2” effect: versus porous PLA, compressive strength increases by 153–244 %. Finite-element analysis reveals more uniform stress fields and delayed local buckling under compression. A modified dual-phase Gibson–Ashby model predicts elastic modulus and yield strength across densities and compositions, with good agreement to experiments. Calcein-AM/PI and CCK-8 assays indicate high cell viability and negligible cytotoxicity. ALP activity and Alizarin Red staining support preserved osteogenic potential, while short-term subcutaneous implantation demonstrates favorable tissue responses with neovascularization and collagen remodeling. Simulated body-fluid immersion shows composition-dependent, predictable hydrolytic behavior. Collectively, the rigid–flexible coupling of PLA/PETG IPC TPMS structures yields concurrent gains in strength, toughness, and energy absorption with reassuring biosafety, positioning this platform as a promising option for load-bearing, patient-specific craniofacial implants and offering a practical framework for performance prediction and design optimization.}
+}

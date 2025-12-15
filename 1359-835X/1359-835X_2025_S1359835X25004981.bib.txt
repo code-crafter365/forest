@@ -1,0 +1,13 @@
+@article{SHIN2025109204,
+title = {Double-layered radar absorbing MWCNT/PDMS composites optimized by genetic algorithm using complex permittivity as a continuous variable},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109204},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109204},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004981},
+author = {Seung-Cheol Shin and Myungjin Hong and Sang Eui Lee},
+keywords = {MWCNT, Double layer, Radar absorbing material, Modified power law, Genetic algorithm},
+abstract = {In this study, a double-layered radar absorbing material (RAM) with reduced thickness was designed using a multi-walled carbon nanotube-loaded polydimethylsiloxane (MWCNT/PDMS) composite, in which the electromagnetic properties were defined as continuous variables depending on frequency and filler content, and integrated with a genetic algorithm (GA) to achieve full absorption across the X-band (8.2–12.4 GHz). Based on percolation theory, a modified power law was proposed to express the complex permittivity of the MWCNT/PDMS RAM as a function of frequency and filler content, considering the frequency-dependent increase in imaginary part of permittivity of PDMS. The modified model was found to accurately predict the dielectric properties of the MWCNT/PDMS RAM under different filler content and frequency. Through this approach, the complex permittivity was defined as a continuous variable rather than a discrete one, allowing the entire range of measured permittivity values as the design space, which led to improved design optimization. GA optimization was performed using both the conventional method based on fixed permittivity values and the modified power law model with continuously defined permittivity. As a result, the thickness of the double-layered MWCNT/PDMS RAM achieving a reflection loss greater than 10 dB across the X-band was reduced by 10 % (from 3.30 mm to 3.00 mm). Therefore, the proposed design methodology demonstrates its effectiveness in developing thinner radar absorbing materials over the full target frequency range.}
+}

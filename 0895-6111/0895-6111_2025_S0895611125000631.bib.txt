@@ -1,0 +1,13 @@
+@article{YAN2025102554,
+title = {Two-stage color fundus image registration via Keypoint Refinement and Confidence-Guided Estimation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102554},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102554},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000631},
+author = {Feihong Yan and Yubin Xu and Yiran Kong and Weihang Zhang and Huiqi Li},
+keywords = {Fundus images, Image registration, Confidence, Deep learning},
+abstract = {Color fundus images are widely used for diagnosing diseases such as Glaucoma, Cataracts, and Diabetic Retinopathy. The registration of color fundus images is crucial for assessing changes in fundus appearance to determine disease progression. In this paper, a novel two-stage framework is proposed for conducting end-to-end color fundus image registration without requiring any training or annotation. In the first stage, a pre-trained SuperPoint and SuperGlue network are used to obtain matching pairs, which are then refined based on their slopes. In the second stage, Confidence-Guided Transformation Matrix Estimation (CGTME) is proposed to estimate the final perspective transformation matrix. Specifically, a variant of 4-point algorithm, namely CG 4-point algorithm, is designed to adjust the contribution of matched points in estimating the perspective transformation matrix based on the confidence of SuperGlue. Then, we select the matched points with high confidence for the final estimation of transformation matrix. Experimental results show that our proposed algorithm can improve the registration performance effectively.}
+}

@@ -1,0 +1,13 @@
+@article{JING2025118235,
+title = {A novel isogeometric scaled coordinate transformation boundary element method for identifying steady-state surface heat sources},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118235},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118235},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005079},
+author = {Ruijiang Jing and Bo Yu and Shanhong Ren and Leilei Chen and Haolong Chen and Weian Yao},
+keywords = {Isogeometric scaled coordinate transformation BEM, Dual shape functions strategy, Dual interpolation technique, Surface heat source identification},
+abstract = {This study proposes a novel isogeometric scaled coordinate transformation boundary element method (IG-SCTBEM) and establishes a corresponding framework for steady-state heat source identification. In IG-SCTBEM, a dual shape functions strategy is adopted to enable precise geometric representation and accurate load application, where Non-Uniform Rational B-Splines (NURBS) characterize geometric quantities while Lagrange shape functions describe physical quantities. To tackle the corner problem and improve heat flux solution accuracy, a dual interpolation technique is introduced, thereby ensuring that the degrees of freedom in IG-SCTBEM equal the number of elements. To effectively address the heat source identification issue while balancing accuracy and computational cost, RBFI (radial basis function interpolation) are employed to characterize arbitrary heat sources using a limited number of undetermined coefficients. Given that transfer matrices are independent of heat source, only a single computation is required, significantly improving optimization efficiency. Moreover, an objective function integrating regularization and prior information, formulated via the Lagrange multiplier method for constraint handling, improves noise resistance and stability while preserving sensitivity analysis simplicity. Numerical examples demonstrate that IG-SCTBEM exhibits superior accuracy, particularly in heat flux computations. Moreover, leveraging the high-precision heat flux calculations, the heat source identification framework enables accurate identification of diverse surface heat sources using only a few measurement points, even under convective heat transfer boundary conditions and complex geometric configurations.}
+}

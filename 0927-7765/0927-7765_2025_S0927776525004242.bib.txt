@@ -1,0 +1,13 @@
+@article{WANG2025114917,
+title = {Partially substituting whey protein by rice protein hydrolysate to fabricate emulsions: Physicochemical properties, stability and digestion behavior},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114917},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114917},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004242},
+author = {Wen Wang and Yaxuan Liu and Meijun Liu and Feng Gao and Boxue Xia and Ru Zhao and Xinxin Yin and Cuina Wang},
+keywords = {Whey protein, Rice protein hydrolysate, Emulsion, Stability, Digestion behavior},
+abstract = {The partial substitution of whey protein with plant-derived proteins in the formulation of new products has garnered significant attention. This study investigated emulsions stabilized by varying blends of whey protein concentrate (WPC) and rice protein hydrolysate (RPH) in mass ratios ranging from 100:0–0:100, focusing on their physicochemical properties, stability, and digestive characteristics. RPH was obtained via trypsin hydrolysis, achieving a solubility of up to 92.4 % across pH values of 3–9. Increasing the ratio of RPH in blend led to a reduction in particle size, an increase in surface charge, a decrease in surface hydrophobicity, and a more flexible secondary structure. The emulsions exhibited particle sizes below 325 nm with a narrow size distribution and high surface charge. The gradual replacement of WPC with RPH resulted in decreased physical stability of the emulsions under varying pH and ionic strength conditions. Emulsions composed of 75 % WPC and 25 % RPH demonstrated the highest stability against lipid oxidation. The incorporation of RPH into WPC formulations enhanced the fatty acid release rate of the emulsions compared to those stabilized by individual emulsifiers. These findings may offer a robust theoretical foundation for the selection and utilization of blended animal and plant proteins in emulsion technology.}
+}

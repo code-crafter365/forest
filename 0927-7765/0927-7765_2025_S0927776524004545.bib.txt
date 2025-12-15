@@ -1,0 +1,13 @@
+@article{KIRLA2025114195,
+title = {One-pot synthesis and covalent conjugation of methylene blue in mesoporous silica nanoparticles – A platform for enhanced photodynamic therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114195},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114195},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004545},
+author = {Haritha Kirla and Jiansha Wu and Juliana Hamzah and David J. Henry},
+keywords = {Mesoporous silica nanoparticle (MSN), Methylene blue silane, Covalent encapsulation, Photodynamic therapy (PDT), Singlet oxygen quantum yield},
+abstract = {Photodynamic therapy (PDT) is an emerging clinical modality for diverse disease conditions, including cancer. This technique involves, the generation of cytotoxic reactive oxygen species by a photosensitizer in the presence of light and oxygen. Methylene blue (MB) is a cationic dye with an ability to act as photosensitizing and bioimaging agent. The direct utilization of MB as photosensitizer for biological applications has often been impeded by its poor photostability and unwanted tissue interactions. Nanocarriers such as mesoporous silica nanoparticles (MSNs) provide an effective means of overcoming these limitations. However, the mere physical adsorption of the dye within the MSN can result in leakage, compromising the effectiveness of PDT. Therefore, in this work, we report the conjugation of MB into MSNs using novel MB-silane derivatives, namely MBS1 and MBS2, to create dye-doped and amine-functionalized MSNs (MBS1-AMSN and MBS2-AMSN). The PDT efficacy and bioimaging capability of these nanoparticles were compared with those of MSNs in which MB was non-covalently encapsulated (MB@AMSN). The synthesized nanoparticles, ultra-small in size (≤ 35 ± 4 nm) with monodispersity, exhibited enhanced fluorescence quantum yields. MBS1-AMSN demonstrated 70-fold increase, while MBS2-AMSN showed 33-fold improvement in fluorescence quantum yields compared to MB@AMSN at the same concentration. Covalent conjugation resulted in a 2-fold enhancement in the singlet oxygen quantum yield of the dye in MBS1-AMSN and 1.2-fold improvement in MBS2-AMSN, compared to non-covalent encapsulation. Assessment on RAW 264.7 macrophages revealed superior fluorescence in cell imaging for MBS1-AMSN, establishing it as a more efficient PDT agent compared to MBS2-AMSN and MB@AMSN. These findings suggest that MBS1-AMSN holds significant potential as a theranostic nanoplatform for image-guided PDT.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025118079,
+title = {Constitutive model-constrained physics-informed neural networks framework for nonlinear structural seismic response prediction},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118079},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118079},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003512},
+author = {Yongxin Wu and Zhanpeng Yin and Yufeng Gao and Shangchuan Yang and Yue Hou},
+keywords = {Constitutive model, Physics-informed deep learning, Meta-modeling, Adaptive loss weight initialization, LSTM, CM-PINNs},
+abstract = {Seismic response prediction presents a significant challenge in earthquake engineering, particularly in balancing computational efficiency with physical accuracy. Traditional numerical methods are computationally expensive for performing large-scale nonlinear analyses, while data-driven machine learning approaches, though computational efficiency, often lack physical constraints and sufficient training data. Physics-Informed Neural Networks (PINNs), an emerging approach that integrates physical laws with deep learning techniques to solve complex scientific and engineering problems, show great potential. However, incorporating nonlinear constitutive models to accurately describe the structural behavior under seismic loading remains a challenge. In this study, a new framework, constitutive model-constrained physics-informed neural networks (CM-PINNs), is proposed to address this issue. This framework enhances prediction accuracy and physical interpretability by incorporating nonlinear constitutive constraints into the loss function. It also uses a fully connected skip LSTM architecture and implements an adaptive loss weight initialization strategy. Numerical validation demonstrates the superior performance of the CM-PINNs framework in simulating single-degree-of-freedom nonlinear seismic responses. Under limited training data conditions, CM-PINNs demonstrates notably superior performance compared to existing methods such as physics-informed multi-LSTM networks (PhyLSTM). Additionally, the scalability of CM-PINNs is verified through its application to multi-layer shear building structures. The results demonstrate that CM-PINNs provide a computationally efficient and reliable approach for seismic response prediction.}
+}

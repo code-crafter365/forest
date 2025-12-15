@@ -1,0 +1,13 @@
+@article{SCHNEIDER2025108858,
+title = {Switchable failure modes in architected lattice composites via processing-induced size effect anomaly},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108858},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108858},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001526},
+author = {Johannes Schneider and Ankit Krishna and Sourabh K. Saha and S. Kumar},
+keywords = {Lattice composites, Autonomous sensing, Programmable materials, DLP 3D printing, Size-effect anomaly},
+abstract = {This study uncovers an unexpected processing-induced size effect anomaly in additively manufactured photopolymer lattice composites fabricated via Digital Light Processing (DLP) 3D printing. Despite identical processing conditions, lattices with the same relative density and topology exhibit scale-dependent macroscopic responses due to feature size variations. By strategically harnessing these anomalies, deformation and failure modes are tailored, enabling precise control over energy absorption. As strut size increases, the response transitions from strain-tolerant elastic bending and buckling to brittle fracture. Post-curing mitigates size effects, enhancing material performance by 138% to 1871% across scales. The incorporation of carbon nanotubes enables autonomous sensing, with piezoresistive properties strongly influenced by feature size and post-curing. These findings underscore the potential of DLP 3D printing to engineer architected lattice composites with tunable mechanical and sensing properties, paving the way for programmable energy absorbing materials with self-sensing capabilities in advanced structural applications, including aerospace, wearable technology, and impact-resistant systems.}
+}

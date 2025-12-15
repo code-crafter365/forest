@@ -1,0 +1,13 @@
+@article{ZHENG2025114918,
+title = {ATB0,+-targeted nanoparticles trigger STAT3-ferroptosis regulatory axis for enhanced gastric cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114918},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114918},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004254},
+author = {Hailun Zheng and Xiaoyan Mao and Zhiwei Chen and Linying Wang and Fuxiang Shangguan and Zihao Tao and Jinyao Ye and Weilan Cao and Qing Yao and Lili Yan and Ruijie Chen and Shihui Bao and Longfa Kou},
+keywords = {Nanoparticles, ATB, STAT3, Chemoresistance, Gastric cancer},
+abstract = {Chemotherapy remains one of the main treatments for gastric cancer, but the efficacy of 5-fluorouracil (5-FU) is limited by drug resistance. Ferroptosis is a unique mode of regulated cell death characterized by iron accumulation and lipid peroxidation, and its induction by aberrant STAT3 signaling may contribute to chemotherapy resistance. Cryptotanshinone (Cpt) is a bioactive compound extracted from Salvia miltiorrhiza that acts as a STAT3 inhibitor and has shown efficacy against several malignancies, endowing its potential as an agent to overcome the chemotherapy of gastric cancer. Importantly, cancer cells—especially drug-resistant cells—often upregulate amino acid transporters to import indispensable nutrients that support rapid proliferation, and therefore these transporters could guide the target delivery of chemotherapeutics for enhanced delivery efficiency. Here, we developed an amino acid transporter-targeted nanoplatform (F/C@Trp-NPs) co-loaded with 5-FU and Cpt to target the SLC6A14 (ATB0,+) transporter, which is abnormally upregulated in gastric cancer cells, and evaluated its anticancer effects. The F/C@Trp-NPs significantly inhibited gastric cancer cell proliferation in vitro, consistent with the in vivo results. This study provides a promising new therapeutic strategy for gastric cancer.}
+}

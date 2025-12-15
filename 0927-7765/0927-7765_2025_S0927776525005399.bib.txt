@@ -1,0 +1,13 @@
+@article{LI2025115032,
+title = {Cobalt-based nanozymes: Design strategies, biomedical applications, and future challenges},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115032},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115032},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005399},
+author = {Yinxi Li and Xiaowen Hu and Hui Deng},
+keywords = {Cobalt-based nanozymes, Catalytic mechanism, Enzyme-mimicking activity, Biomedical applications, Disease therapy},
+abstract = {Cobalt-based nanozymes, as a new generation of artificial enzyme-mimicking materials, have demonstrated immense potential in biomedical and catalytic fields due to their tunable redox activity, high catalytic efficiency, and exceptional biocompatibility. This paper systematically reviews the design strategies and catalytic mechanisms of cobalt-based nanozymes, with a particular focus on the structural properties and activity modulation of cobalt single-atom nanozymes, cobalt oxide-based nanozymes, and carbon material-composite cobalt nanozymes. In biomedical applications, cobalt-based nanozymes have made significant strides in tumor catalytic therapy, antibacterial infection control, colorimetric sensing, and oxidative stress regulation by mimicking multi-enzyme activities such as peroxidase (POD), oxidase (OXD), and superoxide dismutase (SOD). However, current research still faces challenges, including insufficient standardization in activity evaluation, unclear mechanisms of multi-enzyme synergy, limited targeting specificity, and the need to optimize in vivo metabolic safety. Future studies should focus on the precise design of active sites, the development of exogenous stimulus-responsive nanozymes, and the establishment of element composition-activity correlation models to promote the leap from fundamental research to clinical translation of cobalt-based nanozymes.}
+}

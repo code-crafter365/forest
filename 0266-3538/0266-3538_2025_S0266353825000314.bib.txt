@@ -1,0 +1,13 @@
+@article{XU2025111063,
+title = {Thermo-oxidative ageing effect on the anisotropic compressive properties of 3D angle-interlock woven composites},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111063},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111063},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000314},
+author = {Feng Xu and Jing Long and Baozhong Sun and Zhao Sha and Chun H. Wang and Jin Zhang and Bohong Gu},
+keywords = {3D woven composites, Thermo-oxidative ageing, Anisotropic behaviour, Mechanical properties, Progressive failure},
+abstract = {Thermo-oxidative ageing of 3D interlock woven composites can significantly degrade their mechanical properties, yet the complex interplay between the temperature-time degradation of the matrix and the 3D fibre architecture remains poorly understood. Herein, we investigate how thermo-oxidative ageing affects the anisotropic compressive properties of 3D angle-interlock woven composites. High-resolution digital image correlation (DIC) and high-speed imaging were employed to analyse the deformation behaviours, as well as failure initiation and progression processes, in different directions under quasi-static compressive loading. The results reveal that oxidative ageing caused matrix microcracking and degradations in the matrix's properties, with significant reductions in the composite's compressive properties in different directions. Matrix degradation emerged as the dominant factor, with ageing over 32 days causing a 17.33 % and 27.64 % reduction in the yield strength and compression modulus, respectively. The retentions of compressive properties of the composite exhibited significant directional dependence, with the Z-direction showing the most severe degradation due to the combined effects of resin degradation and interfacial debonding. Additionally, the integrated interwoven warp-weft structure and the increased Poisson's ratio effect by ageing-induced microcracks cracks resulted in greater transverse strains along the Y-direction (warp-direction) than the X-direction (weft-direction). Furthermore, the ageing-induced microcracks affected damage progression paths and accelerated the damage propagation rates while not changing the final V-shaped shear band. These findings provide crucial insights into the effects of thermo-oxidative ageing on the compressive mechanical properties of 3D angle-interlock woven composites, providing new knowledge to ensure the safe application of composites under extreme thermal-oxidative environments.}
+}

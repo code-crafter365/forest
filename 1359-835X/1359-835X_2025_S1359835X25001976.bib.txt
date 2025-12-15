@@ -1,0 +1,13 @@
+@article{DING2025108903,
+title = {Synergistic improvement of toughness and thermal properties of phthalonitrile resin based on the multiple curing mechanism of amino-carborane},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108903},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108903},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001976},
+author = {Zichun Ding and Jianjian Jiao and Yuhang Wang and Runze Liu and Qing Wang and Jianing Guo and Siying Wang and Lishuai Zong and Xigao Jian and Jinyan Wang},
+keywords = {Organic inorganic hybridization, A. Polymer-matrix composites, B. Mechanical properties, B. Thermal properties},
+abstract = {Ultra heat-resistant phthalonitrile resin has faced serious challenges of the trade-off between temperature resistance and toughness and seriously affects its application in the field of temperature resistant structural composites. In this work, a kind of oligo (aryl ethers) containing phenyl-s-triazine and pendent amino group (AFT-Ph/PAFT-Ph) were first selected as modifier co-cured with phthalonitrile prepolymers containing a carborane (CEPN) to achieve synergistic improvement in toughness and heat resistance performance. The flexural and impact strengths of optimized composites reach 278.6 MPa and 58.4 kJ/m2, which are increased by 92.7 % and 1091.8 % compared to the blank contrast. The glass transition temperature (Tg) remained consistent with that of the blank control group, both exceeding 550 ℃. Furthermore, the Td5%–N2 shows a marginal increase from 706 ℃ in the blank contrast to 713 ℃ in the modified material. Simultaneously conducting research on the mechanism of collaborative improvement mentioned above.}
+}

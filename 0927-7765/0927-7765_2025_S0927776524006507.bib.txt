@@ -1,0 +1,13 @@
+@article{EZHUMALAI2025114391,
+title = {Self-assembly of differently charged trimesic based lithocholic amphiphiles and their assessment on antimicrobial and biostimulant properties},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114391},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114391},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006507},
+author = {Nishanthi Ezhumalai and Santhiya Panchalingam and Kasivelu Govindaraju and Malaichamy Kannan and Jayapalan Kasthuri and Nagappan Rajendiran},
+keywords = {Lithocholic acid, Self-assembly, Seed germination, Maize and green gram},
+abstract = {Biosurfactant based biostimulants plays a vital role in agriculture filed by enhancing the soil quality, promote plant growth, and eliminate plant pathogens, and increasing nutrient uptake. This manuscript describes the synthesis of trimesic based lithocholic ester functionalized amphiphiles (TMLCEA) with oppositely charged head groups using thiol-yne click chemistry, which is an effective and simple approach. The trimesic based lithocholic ester functionalized zwitterionic penicillamine (TMLCEPA), cationic cysteamine·HCl (TMLCECy), and anionic thiomalic acid (TMLCETM) exhibited hierarchically self-assembled microstructures from below to above the CMC. In below the CMC, TMLCEPA, TMLCECy, and TMLCETM showed a bundle of petals, flower-like morphology, and grass seed-like patterns respectively. The morphology of self-assembly was studied by FE-SEM, DLS, OPM, contact angle, and zeta potential measurements. Among these amphiphiles, TMLCECy exhibited potential antimicrobial activity at above the CMC. The biostimulant effect of different concentration of TMLCEA treated with maize and green gram seeds were evaluated under in vitro condition, wherein TMLCECy showed improved seed germination and seedling parameters at 750 µL/mL as compared to TMLCEPA, TMLCETM and untreated amphiphiles as control. Molecular docking and molecular dynamic simulations show that TMLCEPA and TMLCETM showed higher binding affinity for dengue methyltransferase protein. The result of the present study opens up new avenues for bile acid-based amphiphiles as bio-based and cost-effective biostimulants for sustainable agriculture.}
+}

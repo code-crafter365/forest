@@ -1,0 +1,13 @@
+@article{CAI2025118362,
+title = {Virtual element methods for HJB equations with Cordes coefficients},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118362},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118362},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006346},
+author = {Ying Cai and Hailong Guo and Zhimin Zhang},
+keywords = {HJB equation, Virtual element, Cordes condition, Semismooth Newton’s method},
+abstract = {In this paper, we propose and analyze both conforming and nonconforming virtual element methods (VEMs) for the fully nonlinear second-order elliptic Hamilton-Jacobi-Bellman (HJB) equations with Cordes coefficients. By incorporating stabilization terms, we establish the well-posedness of the proposed methods, thus avoiding the need to construct a discrete Miranda-Talenti estimate. We derive the optimal error estimate in the discrete H2 norm for both numerical formulations. Furthermore, a semismooth Newton’s method is employed to linearize the discrete problems. Several numerical experiments using the lowest-order VEMs are provided to demonstrate the efficacy of the proposed methods and to validate our theoretical results.}
+}

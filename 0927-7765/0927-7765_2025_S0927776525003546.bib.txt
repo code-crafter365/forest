@@ -1,0 +1,13 @@
+@article{XIA2025114847,
+title = {A dual-functional mitochondrial probe for melanoma visualization and PI3K/AKT/mTOR-EMT signaling axis-mediated antitumor therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114847},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114847},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003546},
+author = {Tong Xia and Hongye Liao and Ziyuan Zeng and Meili Li and Simei Yang and Xun Yang and Yuanmin He and Jie Qing and Li Liu and Xia Xiong and Changzhen Sun},
+keywords = {Near-infrared fluorescent probe, Anti-cancer, Melanoma, Mitochondrial-targeted, Apoptosis},
+abstract = {Melanoma is a highly metastatic cancer with poor treatment outcomes. Mitochondria, regulated by various signaling pathways, are an important target in cancer therapy. Near-infrared (NIR) fluorescence probes have gained interest due to their properties such as deep tissue penetration, high image sensitivity, and precision targeting. In this study, we developed a novel NIR fluorescent probe IR-545 for melanoma imaging, which demonstrated mitochondrial targeting and antitumor activity in melanoma cells. In vitro experiments showed that IR-545 was taken up by melanoma cells through organic anion-transport polypeptides and targeted tumor cell mitochondria. IR-545 induced apoptosis by inhibiting the PI3K/AKT/mTOR pathway and epithelial–mesenchymal transition (EMT) and suppressed the proliferation and metastasis of melanoma cells. In vivo, IR-545 significantly inhibited tumor growth in BALB/c nude mice. Immunofluorescence, immunohistochemistry, and H&E staining confirmed that IR-545 induced tumor cell apoptosis and inhibited proliferation without notable side effects. In conclusion, IR-545 shows significant potential in imaging and treating melanoma, offering a promising new therapeutic approach.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025111131,
+title = {Multifunctional meta-absorber based on CB-PLA composite and magnetic materials for electromagnetic absorption and load-bearing capacity},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111131},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111131},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000995},
+author = {Sen Zhang and Qing An and Dawei Li and Ke Chen and Junming Zhao and Tian Jiang and Ping Chen and Wenhe Liao and Tingting Liu and Yijun Feng},
+keywords = {Multifunctional, Meta-absorber, EM absorption, Load bearing},
+abstract = {Low-profile electromagnetic (EM) absorbers with broadband absorption properties meet the stealth requirements of low-observable platforms. However, most studies of these EM absorbers rarely focus on mechanical properties. Based on carbon black (CB)-polylatic acid (PLA) composite and magnetic materials, this study offers a novel design recipe for meta-absorbers with excellent EM performance and mechanical properties. The three dimensional (3-D) printed lossy dielectric structure, with a thickness of 20.1 ± 0.1 mm and fabricated from the CB-PLA composite, and the 1.3 mm thick magnetic substrate are utilized as the principal frequency-dependent functional motifs. To validate the design, the optimized meta-absorber was manufactured, and the experimental findings demonstrate that its reflection coefficient remains below −10 dB within the frequency range of 1.36–40 GHz. The lossy dielectric structure exhibits a compressive strength of up to 3.75 MPa while maintaining a density of just 178.2 kg/m3, with an energy absorption capacity of 1.49 × 103 kJ/m3 per unit volume. The overall thickness of the meta-absorber is 21.4 mm, equivalent to approximately 0.097 times the wavelength at 1.36 GHz. The proposal paves the way for the new paradigm of multifunctional meta-absorbers for both EM absorption and load bearing.}
+}

@@ -1,0 +1,13 @@
+@article{MIAO2025102646,
+title = {A segmentation-based hierarchical feature interaction attention model for gene mutation status identification in colorectal cancer},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {125},
+pages = {102646},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102646},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001557},
+author = {Yu Miao and Sijie Song and Lin Zhao and Jun Zhao and Yingsen Wang and Ran Gong and Yan Qiang and Hua Zhang and Juanjuan Zhao},
+keywords = {Colorectal cancer, KRAS gene mutation status, Hierarchical feature interaction, Local–global information, Generalization ability},
+abstract = {Precise identification of Kirsten Rat Sarcoma (KRAS) gene mutation status is critical for both qualitative analysis of colorectal cancer and formulation of personalized therapeutic regimens. In this paper, we propose a Segmentation-based Hierarchical feature Interaction Attention Model (SHIAM) that synergizes multi-task learning with hierarchical feature integration, aiming to achieve accurate prediction of the KRAS gene mutation status. Specifically, we integrate segmentation and classification tasks, sharing feature representations between them. To fully focus on the lesion areas at different levels and their potential associations, we design a multi-level synergistic attention block that enables adaptive fusion of lesion characteristics of varying granularity with their contextual associations. To transcend the constraints of conventional methodologies in modeling long-range relationships, we design a global collaborative interaction attention module, an efficient improved long-range perception Transformer. As the core component of module, the long-range perception block provides robust support for mining feature integrity with its excellent perception ability. Furthermore, we introduce a hybrid feature engineering strategy that integrates hand-crafted features encoded as statistical information entropy with automatically learned deep representations, thereby establishing a complementary feature space. Our SHIAM has been rigorously trained and verified on the colorectal cancer dataset provided by Shanxi Cancer Hospital. The results show that it achieves an accuracy of 89.42% and an AUC value of 95.89% in KRAS gene mutation status prediction, with comprehensive performance superior to all current non-invasive assays. In clinical practice, our model possesses the capability to enable computer-aided diagnosis, effectively assisting physicians in formulating suitable personalized treatment plans for patients.}
+}

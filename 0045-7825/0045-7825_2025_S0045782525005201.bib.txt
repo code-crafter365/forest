@@ -1,0 +1,13 @@
+@article{KARKI2025118248,
+title = {Direct flow simulations with implicit neural representation of complex geometry},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118248},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118248},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005201},
+author = {Samundra Karki and Mehdi Shadkhah and Cheng-Hau Yang and Aditya Balu and Guglielmo Scovazzi and Adarsh Krishnamurthy and Baskar Ganapathysubramanian},
+keywords = {Implicit neural representations, Shifted boundary method, Flow simulations},
+abstract = {Implicit neural representations (e.g., neural network-based signed distance fields) have emerged as a powerful approach for encoding complex geometries as continuous functions. These implicit models are widely used in computer vision and 3D content creation, but their integration into scientific computing workflows, such as finite element or finite volume simulations, remains limited. One reason is that conventional simulation pipelines require explicit geometric inputs (meshes), forcing INR-based shapes to be converted to meshes—a step that introduces approximation errors, computational overhead, and significant manual effort. Immersed boundary methods partially alleviate this issue by allowing simulations on background grids without body-fitted meshes. However, they still require an explicit boundary description and can suffer from numerical artifacts, such as sliver cut cells. The shifted boundary method (SBM) eliminates the need for explicit geometry by using grid-aligned surrogate boundaries, making it inherently compatible with implicit shape representations. Here, we present a framework that directly couples neural implicit geometries with SBM to perform high-fidelity fluid flow simulations without any intermediate mesh generation. By leveraging neural network inference, our approach computes the surrogate boundary and distance vectors required by SBM on-the-fly directly from the INR, thus completely bypassing traditional geometry processing. We demonstrate this approach on canonical 2D and 3D flow benchmarks (lid-driven cavity flows) and complex geometries (gyroids, the Stanford bunny, and AI-generated shapes), achieving simulation accuracy comparable to conventional mesh-based methods. This work highlights a novel pathway for integrating AI-driven geometric representations into computational physics, establishing INRs as a versatile and scalable tool for simulations and removing a long-standing bottleneck in geometry handling.}
+}

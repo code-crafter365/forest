@@ -1,0 +1,13 @@
+@article{YANG2025108640,
+title = {Improving mechanical performance of immiscible polypropylene/poly(methyl methacrylate) blends by adding calcium carbonate nanoparticles with bifunctions of compatibilization and β-nucleation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {190},
+pages = {108640},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108640},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006389},
+author = {Xin Yang and Jiachun Feng},
+keywords = {Nanoparticle, Nucleation, Compatibilization},
+abstract = {For crystalline/amorphous polymer blend, the final properties strongly rely on its morphology which is not only related to the compatibility of different components but also to crystallization characteristics of the crystalline component, and therefore simultaneously improving compatibility and optimizing crystalline behavior of the blends is valuable. Herein, a bifunctional calcium carbonate nanoparticle (NCN) with both compatibilization and nucleating functions was synthesized by introducing MAPP-g-PMMA grafts and calcium pimelate (CaPA) on nanoparticle surface, respectively, and its effects on immiscible crystalline polypropylene (PP)/amorphous poly(methyl methacrylate) (PMMA) (80/20, w/w) model system were investigated. It was found that the Pickering effect of nanoparticle nucleus and the amphipathy of MAPP-g-PMMA grafts endowed NCN with compatibilization function and the CaPA endowed with β-nucleating ability for PP. Only 1 wt% NCN could remarkably decrease droplets size and improve elongation at break of blends. This work paves a new avenue to design multifunctional inorganic nanoparticles and high-performance polymer alloys.}
+}

@@ -1,0 +1,13 @@
+@article{ZHU2025118183,
+title = {Data-driven multiscale lattice discrete particle model for digital twin modeling of concrete structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118183},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118183},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004554},
+author = {Yingbo Zhu and John Brigham and Alessandro Fascetti},
+keywords = {Multi-long short-term memory, Multiscale lattice discrete particle model, Data-driven computational model, Digital Twin, Structural Identification, Inverse Analysis},
+abstract = {In this study, a Multi-Long Short-Term Memory Multiscale Lattice Discrete Particle Model (M-LSTM-M-LDPM) is developed within a Digital Twin (DT) framework to identify the damage and assess the current state of concrete structures. The first step includes the development of a Multi-Long Short-Term Memory (M-LSTM) model to replace the computationally intensive calculation of representative volume element response at each Gauss point in the Multiscale Lattice Discrete Particle Model (M-LDPM), enabling efficient prediction of the nonlinear response of undamaged structures. Building upon this, a generalized M-LSTM model is introduced to extend the predictive capabilities of the approach to damaged conditions, by introducing novel idealizations of the relationship between properties at the mesoscopic and macroscopic levels in the multiscale framework. Lastly, the generalized M-LSTM-M-LDPM is integrated into a DT framework using a genetic algorithm-based multi-objective optimization approach for damage identification in concrete structures. Results demonstrate that by integrating physics information and leveraging the multi-LSTM architecture, the proposed M-LSTM-M-LDPM exhibits high generalization capabilities in predicting the overall nonlinear response of both intact and damaged concrete. In addition, the computational cost of the M-LSTM-M-LDPM is significantly reduced, with a 4.0-fold decrease in computation time and a 2.7-fold reduction in memory usage compared to M-LDPM. Inverse analysis results further indicate that the genetic-algorithm-based multi-objective optimization approach yields accurate predictions of material properties in the damaged regions.}
+}

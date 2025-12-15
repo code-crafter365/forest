@@ -1,0 +1,12 @@
+@article{JALALI2025119928,
+title = {Predictive micromechanical modeling of silk-fiber-reinforced composites: Toward optimal fiber dissolution for enhanced performance},
+journal = {Composite Structures},
+pages = {119928},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119928},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325010931},
+author = {S. Kamal Jalali and Nicola M. Pugno},
+keywords = {Silk-fiber-reinforced polymers, Micromechanics, Fiber dissolution, Weibull statistics, Shear-lag model, Sustainable composites},
+abstract = {This study develops a micromechanical model to predict the uniaxial tensile properties of aligned Silk-fiber-reinforced polymers (SFRPs), incorporating fiber–matrix interfacial interactions, progressive fiber breakage modeled via the Weibull statistical distribution, and, uniquely, the effect of fiber dissolution over time. The model captures the competition between three key factors during fiber dissolution: (i) the reduction in fiber volume fraction, weakening SFRPs, (ii) the increase in fiber perimeter-to-area ratio, enhancing stress transfer through a shear-lag mechanism, and (iii) the potential improvement in fiber–matrix bonding, which can partially recover or even enhance properties. The novel idea of optimizing the dissolution rate and extent to balance interfacial load transfer improvements and fiber volume fraction loss is introduced as a potential strategy for enhancing mechanical performance. Ashby plots illustrate the design space of SFRPs, showing that while they exhibit lower specific stiffness than carbon and glass fiber-reinforced polymers (CFRPs and GFRPs), their specific strength remains competitive. Their superior failure strain and specific energy absorption further establish them as promising candidates for applications requiring toughness. These findings provide a pathway for optimizing SFRPs through controlled fiber dissolution. Validation against independent experimental data shows the model’s flexibility and its ability to reproduce key mechanical trends.}
+}

@@ -1,0 +1,13 @@
+@article{FANG2025119198,
+title = {Development of an effective modelling method for the mechanical analysis of submarine power cables under bending},
+journal = {Composite Structures},
+volume = {366},
+pages = {119198},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119198},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003630},
+author = {Pan Fang and Xiao Li and Xiaoli Jiang and Hans Hopman and Yong Bai},
+keywords = {Periodical boundary conditions, Damping, Initial residual stress, Bending, Submarine power cables},
+abstract = {The complex interplay of numerous helical components within submarine power cables (SPCs), especially those with significant contact issues due to initial residual stress, complicates their modelling and limits our understanding of these structures. In this paper we proposed an effective modelling method designed for the local mechanical analysis of SPCs under bending. The method was developed based on three key aspects: (1) constructing appropriate finite elements to reduce the number of elements required; (2) employing contact damping to address the effects of initial residual stress at contact interfaces; and (3) applying periodic boundary conditions on a repeated unit cell (RUC) to reduce the model size. The accuracy of this method was validated through extensive testing on both single-core and three-core SPC samples, and its efficiency was confirmed by comparing these results with those obtained from traditional full-scale models. Following validation, the model was employed to illustrate the local mechanical behaviours of SPCs under bending, both at the overall level and at the component level. This model serves as a powerful tool for cable engineers, offering deeper insights into the internal interplays of SPCs. All relevant codes developed in this paper are freely available at https://pan-fang.github.io/Codes/.}
+}

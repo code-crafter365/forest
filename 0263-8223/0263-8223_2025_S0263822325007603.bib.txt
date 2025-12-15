@@ -1,0 +1,13 @@
+@article{SOLIMAN2025119595,
+title = {Shear strengthening of RC beams with fabric-reinforced cementitious matrix: analytical modeling and machine learning approaches},
+journal = {Composite Structures},
+volume = {373},
+pages = {119595},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119595},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007603},
+author = {Osama E. Soliman and Ahmed El Refai and Luca Sorelli},
+keywords = {Shear, Strengthening, fabric-reinforced cementitious matrix (FRCM), Debonding, Composites, Modeling, Machine learning},
+abstract = {Fabric-reinforced cementitious matrix (FRCM) systems are increasingly recognized in the construction industry for their notable effectiveness in strengthening reinforced concrete (RC) structures. This study examines the contribution of FRCM systems in the shear strengthening of RC elements using a comprehensive database of 158 shear-strengthened structural elements. The database includes 20 key input parameters related to beam geometry, internal reinforcement, and FRCM systems. A new predictive equation for FRCM shear contribution is developed and validated against five existing analytical models. Additionally, machine learning (ML) algorithms, specifically the extreme gradient boosting (XGBoost) model, are utilized to predict the shear contributions of FRCM systems. The XGBoost model also evaluates the critical input parameters influencing the effectiveness of FRCM systems in improving the shear performance of RC structures. This analysis identifies the fabric depth and the number of fabric layers as the most influential parameters, contributing 28.0% and 23.6%, respectively, to FRCM shear capacity. The properties of both the fabric and the mortar are also identified as crucial factors in improving the performance of the system. This work advances the integration of ML with experimental research to refine design models and provides strategic recommendations for future investigations.}
+}

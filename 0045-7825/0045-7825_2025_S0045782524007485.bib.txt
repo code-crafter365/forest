@@ -1,0 +1,13 @@
+@article{YIN2025117494,
+title = {Modeling via peridynamics for damage and failure of hyperelastic composites},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117494},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117494},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007485},
+author = {Binbin Yin and Weikang Sun and Chuan Wang and K.M. Liew},
+keywords = {Peridynamics, Rupture behaviors, Large deformation, Hyperelastic composites, Nonlinear bond force-stretch relationship},
+abstract = {Modeling damage and failure behaviors of hyperelastic composites under large deformations is pivotal for advancing the design of cutting-edge elastomers used in biomedical engineering and soft robotics. However, existing methods struggle with capturing the non-linearities and singularities in the displacement field under such conditions. To address these difficulties, we propose a novel bond-based peridynamics (PD) framework with multiple advancements. First, we develop a PD bond strain model grounded in the nonlinear Piola-Kirchhoff stress-stretch relationship, precisely capturing hyperelasticity and ensuring full compliance with thermodynamic laws and kinematics in large deformation scenarios. Second, our framework employs a particle discretization technique that not only sidesteps the mesh distortion issues commonly encountered in grid-based methods subjected to large deformation but also significantly lowers the computational complexity due to the ease of numerical implementation of random inclusion distributions. Third, we propose, for the first time, a refined 3D hyperelastic model within the PD framework that enables a more comprehensive and accurate prediction of material responses to external loads, surpassing the limitations of conventional 2D simulations. Validation against experimental data demonstrates that our model accurately captures key physical phenomena in hyperelastic composites, such as spontaneous crack initiation and propagation, interface debonding, crack coalescence, and the formation of non-smooth crack surfaces. Crucially, this framework is versatile and adaptable to a wide range of engineered composite systems with different inclusions and matrices, making it a powerful tool for predicting and analyzing large deformation behaviors in various advanced applications.}
+}

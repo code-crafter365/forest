@@ -1,0 +1,13 @@
+@article{JUNG2025119131,
+title = {Strength through curvature: Engineering multi-phase materials based on chiral aperiodic monotile patterns},
+journal = {Composite Structures},
+volume = {365},
+pages = {119131},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119131},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500296X},
+author = {Jiyoung Jung and Kundo Park and Grace X. Gu},
+keywords = {Chiral aperiodic monotile, Fracture resistance, Bayesian optimization, Additive manufacturing, Phase-field models},
+abstract = {Developing new materials with superior mechanical properties is crucial in various engineering applications. This study introduces novel multi-phase materials created using chiral aperiodic monotile patterns, distinguished by their curved edges and ability to cover a surface without translational symmetry. We employ multi-objective Bayesian optimization and crack phase-field modeling to explore the mechanical properties of the chiral aperiodic monotile composites, considering the topology, volume fraction, and constituent materials as design variables. Pareto-optimal designs are selected for experimental validation using additive manufacturing and mechanical testing. The experimental results show that these aperiodic composites exhibit an improved balance of mechanical properties, including strength, work of fracture, and failure strain, that typically involve trade-offs in conventional periodic structures. This is primarily attributed to the superior interlocking effect introduced by the curved edges, leveraging the load-bearing capacity of both constituent materials. Additionally, our findings show that the toughening mechanisms and crack propagation paths of these aperiodic composites can be tuned to undergo different failure modes from brittle to ductile fracture along the Pareto front, highlighting the composite’s exceptional ability to be tailored for different design purposes. This research underscores the potential of chiral aperiodic monotiles, paving the way for developing high-performance structural materials.}
+}

@@ -1,0 +1,13 @@
+@article{HAN2025114510,
+title = {Exploring the binding mode of BBA protein anchored on defective graphene and evaluating the biocompatibility of two types of graphene with λ-repressor protein},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114510},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114510},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000177},
+author = {Lu Han and Xiaoyun Zhang and Fei Wu and Tianhua Wang and Honglin Zhai},
+keywords = {Defective graphene, π-π stacking interaction, Hydrogen bonds, Biocompatibility},
+abstract = {Since defects in nanomaterials are inevitable during experimental manipulation, investigating the interactions between defective materials and active biological proteins is crucial for evaluating the biocompatibility and biosafety of nanomaterials. This study employs molecular dynamics simulation techniques to investigate the interaction mechanisms between two types of graphene (ideal graphene and defective graphene) and two model proteins (BBA protein and λ-repressor protein). The simulation results indicate that both types of graphene exhibit superior biocompatibility with the λ-repressor protein compared to the BBA protein. The difference in binding modes of the BBA protein with the two graphenes arises mainly from its initial orientation. Notably, the positively charged Arg residue forces the BBA protein to "anchor" to the surface of defective graphene, significantly restricting its lateral migration. The λ-repressor protein is "anchored" onto the surface of defective graphene through hydrogen bonding interactions involving its Ser residue. Such hydrogen bonding was never reported in similar systems. The distinctive binding modes of these two model proteins with defective graphene are beneficial for the future development of safer and more efficient nanomedicine technologies.}
+}

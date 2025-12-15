@@ -1,0 +1,13 @@
+@article{QIN2025106605,
+title = {Unified algorithm to efficiently implement high-order schemes of differential form on unstructured grids},
+journal = {Computers & Fluids},
+volume = {293},
+pages = {106605},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106605},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000659},
+author = {Jiaxian Qin and Yaming Chen and Xiaogang Deng},
+keywords = {High-order method, Unstructured grid, Hamiltonian path, Cell-based schemes, Navier–Stokes equations},
+abstract = {It is well recognized that structured grid methods have the advantage of significantly lower computational cost needed for achieving higher accuracy, and unstructured grid methods are welcomed for their convenience in grid generation. Nevertheless, the major obstacle hindering the practical application of structured grid methods to complex engineering problems is the generation of high-quality grids, whereas the bottleneck for high-order unstructured grid methods lies in their huge demand for computational resource and memory. In this work, we propose a novel algorithm which enables the efficient implementation of high-order schemes of differential form on unstructured grids. By dividing the initial simplex cells locally into quadrilateral or hexahedral sub-cells, unique line-structures called Hamiltonian path can be identified. Subsequently, high-order spacial discretization can be done in a dimension-by-dimension manner along the lines, inheriting the accuracy and efficiency of structured grid methods. Meanwhile, the line-structures make the application of robust line-implicit time-marching schemes on fully unstructured grid possible, leading to excellent efficiency and robustness.}
+}

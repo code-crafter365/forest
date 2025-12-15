@@ -1,0 +1,13 @@
+@article{ZHANG2025108738,
+title = {Nano-/micron-scale synergistic toughening of carbon fiber/epoxy composites via interleaving co-polyimide film},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108738},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108738},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000326},
+author = {Lili Zhang and Gong-qiu Peng and Deqi Jing and Ying-fen Wang and Shouchun Zhang},
+keywords = {Multi-scale toughening, CF/EP composite, Interlaminar fracture toughness, Co-polyimide film},
+abstract = {Carbon fiber/epoxy composites (CF/EP) are significant components of engineering materials in defense, aerospace and transportation field. Nevertheless, one of the main obstacles to improve mechanical strength of CF/EP is delamination. In this study, a kind of hydroxyl-functionalized block co-polyimide (BOH) filming as interleaves achieved multi-scale synergistic toughening, including reaction-induced phase separation structures at nano-scale and plastic deformation of BOH enrichment at micro-scale, which aims to improve the interlaminar fracture toughness of CF/EP composites effectively. As a result, mode I interlaminar toughness at initial (GIC-NL) and at propagation (GIC-Prop) of CF/EP laminates interleaved with 7 μm BOH film (CF-EP/BOH7) are increased by 126 % and 183 %, respectively. CF-EP/BOH7 laminates exhibit improvement of 206 % in mode II interlaminar toughness. This multi-scale toughening method initiates a new way for improving the interlaminar toughness of CF/EP composites.}
+}

@@ -1,0 +1,13 @@
+@article{KOZHANOVA2025106609,
+title = {A 3D numerical strategy for the computations of shock-induced bubble collapse near a wall},
+journal = {Computers & Fluids},
+volume = {293},
+pages = {106609},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106609},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000696},
+author = {Ksenia Kozhanova and Yannick Hoarau and Eric Goncalves {da Silva}},
+keywords = {Diffuse interface methods, Riemann solver, WENO scheme, Bubble collapse, Shock waves},
+abstract = {The importance of modelling two-phase flows involving shock waves arises from many engineering and medical applications. The presence of strong shock waves and their interactions with bubble interfaces, the high density ratio between phases and the large variation of material properties makes the resolution of such problems a complicated task for the numerical methods. While the variety of numerical techniques to solve these problems exist, e.g. the sharp interface or the diffuse interface methods, these strategies can lead to spurious oscillations of the solution near the interface. It is well known that it is difficult to achieve both a high order accuracy of the scheme and the monotonicity of the solution. In this paper a four-equation two-phase model is employed and integrated in an explicit fully parallelised finite-volume solver with HLLC numerical scheme coupled with WENO reconstruction methods and Hancock predictor–corrector scheme and non-uniform mesh based on stretching function in order to compute a 3D shock-induced bubble collapse near a wall. The novelty of our work is improved accuracy of computations of such a problem with optimised computational cost thanks to the non-uniform mesh introduction in 3D computations.}
+}

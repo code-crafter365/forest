@@ -1,0 +1,13 @@
+@article{YUAN2025119551,
+title = {Spatial orientation on manufacturing fidelity and mechanical-transport-biological performances of 3D-printed microlattice structures},
+journal = {Composite Structures},
+volume = {372},
+pages = {119551},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119551},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007160},
+author = {Xi Yuan and Guanghao Li and Lei Zhang and Jun Song and Jiayi Chen and Jiale Zheng and Hanjing Li and Shibin Xie and Fuming Wang and Qing Wan and Fanrong Ai and Bo Song and Bin Zhang and Yusheng Shi},
+keywords = {Laser powder bed fusion, Selective laser melting, Lattice structure, Manufacturing fidelity, Bone scaffold},
+abstract = {The research on 3D printing of metallic microlattice structures for biological bone scaffolds has attracted more and more attention. Still, the mechanism by which 3D printing processes constraints such as manufacturing deviations and pore defects affect the mechanical, transport, and biological properties of microlattice scaffolds is unclear. This work involved constructing diamond-type microlattice structures with different spatial orientations and forming them using laser powder bed fusion additive manufacturing (LPBF-AM). The LPBF-printing defect formation mechanism of LPBF-printed diamond microlattices was studied, and the influences of different orientations on mechanical-transport-biological performances were systematically evaluated. The results show that the number and angle of the inclined struts in the microlattice structure are proportional to the manufacturing accuracy. The mechanical and transport properties of the CT-reconstructed 3D-printed microlattice structure are higher than those of the as-designed ones. In vitro cell experiments show that the [111]-oriented microlattice has the best stem cell proliferation and differentiation properties. This work provides guidance and reference for applying LPBF-manufactured microlattice bone scaffolds and can inspire research on designing and manufacturing next-generation 3D-printed bone scaffolds.}
+}

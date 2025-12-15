@@ -1,0 +1,13 @@
+@article{LI2025117793,
+title = {A universal surrogate modeling method based on heterogeneous graph neural network for nonlinear analysis},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117793},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117793},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000659},
+author = {Yongcheng Li and Changsheng Wang and Wenbin Hou},
+keywords = {Finite element method, Physics-informed neural network, Heterogeneous graph neural network, Surrogate modeling, Nonlinear finite element analysis},
+abstract = {Nonlinear finite element analysis (FEA) is typically time-consuming, primarily due to its reliance on incremental solution schemes which require repeated stiffness matrix assembly and inversion at each step. In scenarios like structural optimization, where numerous FEA iterations are needed, deep learning-based surrogate models are usually employed as alternatives owing to their extremely high inference efficiency. However, they may exhibit weak generalization ability and produce predictions that violate established physical laws. Furthermore, their network types, such as multi-layer perceptron (MLP), limit the scalability of surrogate modeling methods, as a single model is restricted to a specific structural topology. To address these issues, we propose a universal surrogate modeling method based on heterogeneous graph neural network (HGNN) for nonlinear analysis, enhancing both scalability and generalization. Our method starts by decomposing an arbitrary engineering structure into components of different types and representing it as heterogeneous graph data, which establish a foundation for the method’s universality. Then, each increment step in the nonlinear FEA is used to extract a new sample, achieving significant data augmentation without additional computation. To further improve prediction accuracy, we leverage a physical loss derived from the nonlinear equations of each increment step to direct the model’s training process. Numerical experiments on the car body frame and car roof achieved prediction accuracies of 99.45% and 99.66%, respectively, demonstrating our method’s feasibility and efficacy.}
+}

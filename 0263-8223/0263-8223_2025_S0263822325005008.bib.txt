@@ -1,0 +1,13 @@
+@article{LIU2025119335,
+title = {High-velocity impact behavior of curved fiber-reinforced foam sandwich materials after seawater exposure},
+journal = {Composite Structures},
+volume = {369},
+pages = {119335},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119335},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005008},
+author = {Xiaohan Liu and Yun Su and Miao Tian and Yunyi Wang},
+keywords = {Curved sandwich materials, Seawater exposure, Impact resistance, Material degradation},
+abstract = {Seawater exposure affects the impact resistance of composite materials, yet the evolution mechanism of curved structures remains unclear. This study examines the effects of single and cyclic seawater exposure on the microstructural aging and impact resistance of curved composite materials. A sandwich structure was designed with carbon fiber/aramid laminates and polyurethane foam, with curvature based on human body point cloud data, and fabricated via hot-pressing. The results revealed that under single seawater exposure, the curved material has a slower diffusion rate (0.124 mm2/s) compared to flat materials. In cyclic seawater exposure, the seawater absorption rate initially increases, reaches a peak, and then declines. The repeated wetting and drying cycles induce fatigue, thereby accelerating the degradation of the material’s microstructure. DSC analysis revealed that curved materials had more stable thermal properties and smaller Tg reductions than flat ones, indicating greater moisture resistance. While flat materials are suitable for short-term use, their impact resistance declines rapidly (80.71 %) with prolonged exposure. The curved material demonstrates greater stability with a 63.4 % performance reduction, making it more suitable for extended use in underwater environments. This study provides valuable insights into designing durable materials and advancing technology for protective applications.}
+}

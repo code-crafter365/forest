@@ -1,0 +1,13 @@
+@article{YANG2025118198,
+title = {Active learning of model discrepancy with Bayesian experimental design},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118198},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118198},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004700},
+author = {Huchen Yang and Chuanqi Chen and Jin-Long Wu},
+keywords = {Model discrepancy, Bayesian experimental design, Active learning, Neural ODE, Ensemble Kalman method},
+abstract = {Digital twins have been actively explored in many engineering applications, such as manufacturing and autonomous systems. However, model discrepancy is ubiquitous in most digital twin models and has significant impacts on the performance of using those models. In recent years, data-driven modeling techniques have been demonstrated promising in characterizing the model discrepancy in existing models, while the training data for the learning of model discrepancy is often obtained in an empirical way and an active approach of gathering informative data can potentially benefit the learning of model discrepancy. On the other hand, Bayesian experimental design (BED) provides a systematic approach to gathering the most informative data, but its performance is often negatively impacted by the model discrepancy. In this work, we build on sequential BED and propose an efficient approach to iteratively learn the model discrepancy based on the data from the BED. The performance of the proposed method is validated by a classical numerical example governed by a convection–diffusion equation, for which full BED is still feasible. The proposed method is then further studied in the same numerical example with a high-dimensional model discrepancy, which serves as a demonstration for the scenarios where full BED is not practical anymore. In this example with time-varying velocity, the network only learns the stationary discrepancy and leaves the time dependence being handled by the physics-based model itself, which helps mitigate ill-posedness of the joint learning problem. An ensemble-based approximation of information gain is further utilized to assess the data informativeness and to enhance learning model discrepancy. The results show that the proposed method is efficient and robust to the active learning of high-dimensional model discrepancy, using data suggested by the sequential BED. We also demonstrate that the proposed method is compatible with both classical numerical solvers and modern auto-differentiable solvers.}
+}

@@ -1,0 +1,13 @@
+@article{TOMCZYK2025118890,
+title = {Tolerance modelling of vibrations of thin functionally graded cylindrical shells},
+journal = {Composite Structures},
+volume = {356},
+pages = {118890},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118890},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000558},
+author = {B. Tomczyk and M. Gołąbczak and V. Bagdasaryan},
+keywords = {Thin transversally graded shells, Tolerance-periodic microstructure, Tolerance and asymptotic modelling, Dynamic problems, Length-scale effect},
+abstract = {The objects of considerations are thin, linearly elastic, Kirchhoff-Love-type, open, circular, cylindrical shells having a functionally graded macrostructure and a tolerance-periodic microstructure in circumferential direction. At the same time, the shells have constant geometrical, elastic and inertial properties in axial direction. The aim of this contribution is to investigate the effect of a microstructure size on the transversal free vibration frequencies of such shells. Moreover, the influence of differences between elastic and inertial properties of the constituent materials on these frequencies will be studied. Many functions describing the distribution of material properties will be taken into account. This dynamic problem will be analysed in the framework of a certain mathematical, averaged, non-asymptotic model derived by means of the tolerance modelling procedure. Contrary to the starting exact shell equations with highly oscillating, non-continuous and tolerance-periodic coefficients, governing equations of the tolerance model have continuous and slowly varying coefficients dependent also on a microstructure size. It will be shown that in the framework of the tolerance model not only the fundamental, cell-independent, but also the new, additional, cell-dependent free vibration frequencies can be derived and analysed. The results obtained from the non-asymptotic tolerance model will be compared with those derived from the mathematical, averaged asymptotic model formulated by applying the consistent asymptotic modelling technique. Governing equations of the asymptotic model have continuous and slowly-varying coefficients, but independent of the microstructure size.}
+}

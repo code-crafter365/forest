@@ -1,0 +1,13 @@
+@article{VESCOVINI2025119066,
+title = {The R-functions combined with the Ritz method: An assessment on the integration schemes},
+journal = {Composite Structures},
+volume = {362},
+pages = {119066},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119066},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002314},
+author = {R. Vescovini},
+keywords = {Ritz method, R-functions, Numerical integration, Plate analysis},
+abstract = {This work introduces a method based on the combination of the R-functions and the Ritz method for the static and free vibration analysis of plates, overcoming several limitations commonly associated with Ritz-based approaches. The proposed method enables the study of arbitrary geometries, boundary conditions, and loading configurations while also allowing for the analysis of plates with spatially varying stiffness distributions. The study focuses on the integration techniques employed to construct the governing equations, proposing a novel sub-cell representation method. This approach ensures both robustness and simplicity in implementation, while providing an accurate domain representation and enhanced computational efficiency. Through a series of representative numerical examples and comparisons with benchmark solutions, the influence of integration techniques on solution accuracy and the Ritz upper bound property is examined. The results demonstrate the superior performance of the proposed methodology compared to existing techniques, establishing it as a promising alternative for structural analysis applications.}
+}

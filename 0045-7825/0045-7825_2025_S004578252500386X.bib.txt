@@ -1,0 +1,13 @@
+@article{SHENG2025118114,
+title = {Isogeometric topology optimization of thin-walled structures with complex design domains},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118114},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118114},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500386X},
+author = {Ji Sheng and Xiaodong Wei},
+keywords = {Analysis-suitable unstructured T-splines, Topology optimization, Kirchhoff–Love shell, Cahn–Hilliard model, Isogeometric analysis},
+abstract = {In this work, we present a novel isogeometric topology optimization (TO) method for shell structures that involve complex design domains. In particular, analysis-suitable unstructured T-splines (ASUTS) are used to represent complex design domains in a smooth and watertight manner. On top of such domains, minimum compliance is studied as the model problem, where the Kirchhoff–Love shell is used to compute the structural response and a generalized Cahn–Hilliard phase-field model is proposed to perform TO. Since both models are governed by high-order partial differential equations, ASUTS-based isogeometric analysis (IGA) is adopted for the spatial discretization due to its high-order smooth basis functions. Moreover, IGA provides the possibility to seamlessly integrate design, analysis, and optimization. To demonstrate the efficacy of the proposed method, we first perform several benchmark tests to show that the generalized Cahn–Hilliard model can naturally handle complex topological changes without special treatment. In the end, a couple of real-world engineering structures are studied to show the capability of the proposed method dealing with complex design domains.}
+}

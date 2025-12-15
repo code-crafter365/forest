@@ -1,0 +1,13 @@
+@article{NOVAK2025119225,
+title = {Quasi-static and impact behaviour of polymer-metal interpenetrating phase TPMS composites},
+journal = {Composite Structures},
+volume = {366},
+pages = {119225},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119225},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003903},
+author = {Nejc Novak and Oraib Al-Ketan and Anja Mauko and Lovre Krstulović-Opara and Shigeru Tanaka and Matej Borovinšek and Boštjan Vihar and Uroš Maver and Kazuyuki Hokamoto and Matej Vesenjak and Zoran Ren},
+keywords = {TPMS, Interpenetrating phase composite, Polymer filler, Hybrid structure, Experimental testing, Mechanical properties, Strain rate effect},
+abstract = {Interpenetrating phase composites (IPC) are materials with two or more mutually continuous, interconnected phases. This structure allows each phase to retain its properties, while together they exhibit enhanced synergistic properties. In this work, polymer-metal IPCs with Triply Periodical Minimal Surface (TPMS) structures were fabricated and tested for their mechanical properties at different impact velocities (ranging from 0.1 mm/s to 250 m/s). Samples. The samples comprise a stainless steel reinforcement phase and two polymeric matrices (silicone and epoxy). Computed tomography was used to evaluate the internal structure and the fabrication quality. The results showed that the samples were thoroughly infiltrated with polymeric filler, achieving a high degree of homogeneity in the composite. The compression tests of silicone-filled IPCs showed an increase in stiffness. Still, the Specific Energy Absorption (SEA) was not improved due to the non-optimal stiffness ratio between the polymeric matrix and the metallic reinforcement phase. However, using epoxy as the matrix resulted in the SEA enhancement of 38 %. This is attributed to the interlocking mechanism between the two phases, which improved the macroscopic mechanical properties. The compression tests showed significant strain rate hardening due to the base material’s strain rate sensitivity and the inertia effects.}
+}

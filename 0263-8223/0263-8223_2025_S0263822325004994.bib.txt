@@ -1,0 +1,13 @@
+@article{WANG2025119334,
+title = {Multi-faceted interpretable machine learning approach for feature parameter analysis on performance of magnetoelectric composites},
+journal = {Composite Structures},
+volume = {369},
+pages = {119334},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119334},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004994},
+author = {Huan Wang and Lin Ye and Jianbiao Wen and Kai Luo and Wenbo Ma},
+keywords = {Magnetoelectric composites (ME), Feature parameter analysis, Interpretable machine learning, SHapley Additive exPlanation value (SHAP), Symbolic regression (SR)},
+abstract = {Excessive feature parameters introduced by existing methods used to understand the mutual regulation mechanisms of two-phase materials in magnetoelectric (ME) composites can lead to significant challenges, including increased computational complexity and elevated costs. To address this challenge, this study proposes a multi-faceted interpretable machine learning (ML) aimed at optimizing feature parameters of ME composites efficiently, delivering both accuracy and speed in the solution process. Leveraging SHapley Additive exPlanation (SHAP) importance and a neural network (NN) feature parameter selection model, the input feature parameters are reconstructed to accelerate the evaluation of the ME composite. Meanwhile, Bayesian Optimization (BO) is used to adaptively refine the NN model inputs, which significantly enhances the accuracy of the ML models. All ML models developed in this study achieve high prediction accuracy. Ultimately, XGBoost-SHAP model and symbolic regression (SR) with Pareto boundary give remarkable and comprehensive effects for discovering complex qualitative and quantitative relationships between 8 representative feature parameters and ME coefficient. This study proposes an interpretable ML framework that differs from traditional methods, which ensures the accuracy of ME coefficient predictions while providing a transparent interaction between influencing parameters and ME responses with lower computational cost. Besides, it may assist in identifying or developing appropriate component materials to enhance the performance of ME composites.}
+}

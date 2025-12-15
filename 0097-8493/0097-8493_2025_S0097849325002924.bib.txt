@@ -1,0 +1,13 @@
+@article{FENG2025104451,
+title = {CaRoLS: Condition-adaptive multi-level road layout synthesis},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104451},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104451},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002924},
+author = {Tian Feng and Long Li and Weitao Li and Bo Li and Junao Shen},
+keywords = {Multi-level road layout synthesis, Condition-adaptive synthesis, Diffusion models},
+abstract = {Synthesizing road layouts, which define the spatial structure of cities, is critical for many urban applications. Conventional deep learning methods, however, struggle to handle both unconditional and conditional inputs, and rarely capture the multi-level complexity of real road networks. We propose CaRoLS, a unified two-stage method for condition-adaptive multi-level road layout synthesis. Specifically, the Multi-level Layout Reconstruction stage uses a pre-trained variational autoencoder to encode a real-world road layout into a latent representation and then reconstructs the image. The Condition-adaptive Representation Generation stage employs a diffusion model to generate a latent representation from Gaussian noise, or from noise combined with an optional conditioning image containing natural and socio-economic information. This design balances computational efficiency with the ability to model continuous data. To further enhance output quality, we introduce a Condition-aware Decoder Block module that integrates global context and local details, replacing the standard U-Net decoder blocks in the diffusion model. Experiments on an Australian metropolitan dataset show that CaRoLS outperforms representative general and specialized synthesis methods. Compared to the current state-of-the-art methods, improvements reach up to 36.47% and 4.05% in image and topological metrics for the unconditional mode, and 56.25% and 3.18% in the conditional mode. These results demonstrate that CaRoLS generates multi-level road layouts with strong structural fidelity and high connectivity, and provides a unified pipeline for both unconditional and conditional synthesis.}
+}

@@ -1,0 +1,13 @@
+@article{JIA2025119717,
+title = {Crash performance study of a novel re-entrant hexagonal honeycomb composite guardrail on highways using numerical simulation},
+journal = {Composite Structures},
+volume = {374},
+pages = {119717},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119717},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008827},
+author = {Buyu Jia and Zhaofan Liang and Xiaolin Yu and Shenglin Zhang},
+keywords = {Composite structure, Crashworthy guardrail, 3D printing, Finite element simulation, Auxetic honeycomb},
+abstract = {Conventional concrete guardrails typically suffer from excessive rigidity and insufficient cushioning capacity. In contrast, re-entrant honeycomb structures with negative Poisson’s ratio (NPR) offer excellent impact resistance and energy absorption capabilities. In this study, a novel SA-grade F-shaped composite crashworthy guardrail was proposed by embedding a re-entrant hexagonal honeycomb structure as an energy-absorbing layer to enhance crash energy dissipation. The accuracy of the finite element (FE) model for the proposed guardrail was validated through quasi-static compression tests on 3D-printed honeycomb specimens, showing good agreement with the simulation results. The applicability of the vehicle FE models was confirmed in accordance with relevant safety standards. Sensitivity analyses were conducted to optimize the honeycomb structure configuration, including geometric design, material selection, and cell wall thickness. A comprehensive crashworthiness evaluation was then performed under various vehicle–guardrail collision scenarios following the specification requirements. The results demonstrate that, compared to the F-shaped guardrail, the proposed design reduces the peak impact forces by 15.1%, 25.2%, and 26.7% for passenger car, bus, and truck, respectively, indicating a significant improvement in cushioning performance. This design concept provides practical insights into the application of auxetic honeycomb structures in the development of advanced guardrail systems.}
+}

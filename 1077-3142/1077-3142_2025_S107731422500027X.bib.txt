@@ -1,0 +1,13 @@
+@article{BECKOVA2025104304,
+title = {A multi-modal explainability approach for human-aware robots in multi-party conversation},
+journal = {Computer Vision and Image Understanding},
+volume = {253},
+pages = {104304},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104304},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500027X},
+author = {Iveta Bečková and Štefan Pócoš and Giulia Belgiovine and Marco Matarese and Omar Eldardeer and Alessandra Sciutti and Carlo Mazzola},
+keywords = {Human activity recognition, Explainable AI, Transparency, Attention, Human–robot interaction, Addressee estimation},
+abstract = {The addressee estimation (understanding to whom somebody is talking) is a fundamental task for human activity recognition in multi-party conversation scenarios. Specifically, in the field of human–robot interaction, it becomes even more crucial to enable social robots to participate in such interactive contexts. However, it is usually implemented as a binary classification task, restricting the robot’s capability to estimate whether it was addressed or not, which limits its interactive skills. For a social robot to gain the trust of humans, it is also important to manifest a certain level of transparency and explainability. Explainable artificial intelligence thus plays a significant role in the current machine learning applications and models, to provide explanations for their decisions besides excellent performance. In our work, we (a) present an addressee estimation model with improved performance in comparison with the previous state-of-the-art; (b) further modify this model to include inherently explainable attention-based segments; (c) implement the explainable addressee estimation as part of a modular cognitive architecture for multi-party conversation in an iCub robot; (d) validate the real-time performance of the explainable model in multi-party human–robot interaction; (e) propose several ways to incorporate explainability and transparency in the aforementioned architecture; and (f) perform an online user study to analyze the effect of various explanations on how human participants perceive the robot.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025118025,
+title = {Physics-encoded convolutional attention network for forward and inverse analysis of spatial-temporal parabolic dynamics considering discontinuous heterogeneity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118025},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118025},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500297X},
+author = {Xi Wang and Zhen-Yu Yin},
+keywords = {Physics-encoded convolutional attention network (PECAN), Physics-informed neural network (PINN), Spatial-temporal forward and inverse analysis, Nonsmooth heterogeneity},
+abstract = {Physics-informed neural network (PINN) prevails as a differentiable computational network to unify forward and inverse analysis of partial differential equations (PDEs). However, PINN suffers limited ability in complex transient physics with nonsmooth heterogeneity, and the training cost can be unaffordable. To this end, we propose a novel framework named physics-encoded convolutional attention network (PECAN). Leveraging physics-encoded convolution kernels, automatic differentiations are circumvented when deriving spatial derivatives. The truncated self-attention is built to handle variable temporal sequences in parallel. The positional encoding is avoided by considering temporal evolution direction and step size. PECAN enables a global-range consideration of temporal data and significantly reduces sequential operations. Encoding physics knowledge into the network greatly simplifies the architecture and reduces blackbox parameters. To conduct a comprehensive investigation of different physics-encoded architectures for the first time, the parabolic PDE that describes a broad scope of physical phenomena is investigated in depth. The PECAN proves to be four orders of magnitude faster and more accurate than PINNs for inverse analysis. It can readily handle discontinuous heterogeneity containing multiple distinct materials with discontinuous material interfaces, while PINNs fail. Accurate parameters of discontinuous heterogeneous materials (relative errors < 2 %) are recovered even with 50 % Gaussian noise or sparse data with non-Gaussian noise. Superior performance warrants further development of this novel framework.}
+}

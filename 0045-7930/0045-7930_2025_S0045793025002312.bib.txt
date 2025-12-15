@@ -1,0 +1,13 @@
+@article{DONG2025106771,
+title = {Flow around square, rounded, and round-convex cylinders at Reynolds numbers 20 to 22,000},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106771},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106771},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002312},
+author = {Haotian Dong and Shuting Fang and Xiaoqing Du},
+keywords = {Reynolds number effect, Flow-induced loading, Aerodynamic shape modification, Square-like cylinder, Flow separation, Turbulent transition},
+abstract = {Flow around a square-like cylinder with round corners at a radius R = B/7 (B: nominal side length) and round sides at a radius K = B were numerically investigated at Reynolds numbers Re = 20 to 22,000. The Re-dependence of flow-induced loading and flow features of this “round-convex” cylinder was compared with square and rounded cylinders. Compared with the square and rounded cylinders, the round-convex cross-section has a smaller and declining drag, lower fluctuating loads, and a weaker vortex shedding from Re = 1000 to 22,000, showing distinct Reynolds number effects. A steady regime at Re = 20 and 45, a 2D regime at Re = 100 and 200, a 3D regime at Re = 300, 500, and 1000, and a turbulent regime at Re = 3900, 10,000, and 22,000 are identified for the round-convex and rounded cylinders, while a 3D flow is observed at Re = 300 for the square cylinder. The flow separation shifts from the rear corner to the front corner at Re = 200 and 300 for the square and rounded cylinders, respectively, while the separation point gradually moves to the middle of lateral sides for round-convex cylinders, which is similar to a circular cylinder.}
+}

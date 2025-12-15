@@ -1,0 +1,13 @@
+@article{YANG2025103913,
+title = {High-resolution fiber-level simulation of knitted patterns},
+journal = {Computer-Aided Design},
+volume = {188},
+pages = {103913},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2025.103913},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448525000740},
+author = {Xin Yang and Cheng Lu and Huiqi Shao and Guangwei Shao and Jinhua Jiang and Siyi Bi and Nanliang Chen},
+keywords = {Fiber-level modeling, Knitted fabric simulation, Digital element method, Periodic boundary condition, Topology optimization},
+abstract = {Knitted fabrics, characterized by intricate patterns, vibrant colors, and soft tactile properties, have long served as a source of inspiration in textile design. Leveraging digital technology to translate these design concepts into realistic models, this paper proposes a fiber-level 3D simulation framework for complex knitted structures, inspired by the digital element methodology. In this approach, yarns are discretized into fiber assemblies represented by sequences of control points. Improved beam elements connect adjacent points to model bending behavior, while rod elements simulate inter-fiber interactions. To improve structural controllability, dynamic boundary conditions and variable driving forces are introduced, enabling accurate capture of both global and local deformations. An efficient Array operation is developed to support scalable generation of fabric patterns under a modified periodic boundary condition. Experimental evaluations demonstrate that the proposed method achieves visually and structurally accurate simulations within a limited number of iterations. Comparative analysis with real fabric samples validates the effectiveness and fidelity of the simulation framework, making it suitable for applications in virtual textile design and performance prediction.}
+}

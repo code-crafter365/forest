@@ -1,0 +1,13 @@
+@article{YU2025109251,
+title = {In-situ ultrasonic quantification of volumetric impact damage in CFRP laminate with full matrix capture},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109251},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109251},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005457},
+author = {Zhenyang Yu and Wenting Ouyang and Zheng Zhu and Gaozheng Zhao and Huan Wang and Hua-Xin Peng and Zheng Fan and Jian Chen},
+keywords = {Carbon fibre-reinforced polymer, Anisotropy, Barely visible impact damage, Ultrasonic phased array, Volumetric imaging},
+abstract = {Ultrasound is the ideal candidate for in-situ characterization of impact-induced damages in large-scale composite components. However, the volumetric distribution of impact damages and anisotropy of composite laminates pose critical challenges to ultrasonic quantification. Traditional B-scan and C-scan ultrasonic imaging could provide lateral perspectives of volumetric impact damage, but these methods are fundamentally limited in resolution and contrast, hindering their widespread application in impact damage quantification. In this work, an ultrasonic method is proposed to quantify volumetric impact damage in CFRP laminates through full matrix capture using a phased array transducer. Specifically, a thickness-weighted homogenisation algorithm with dynamic aperture angle is developed to extract homogenous elastic parameters while preserving near-surface information from the full matrix dataset. Anisotropy correction is then applied to enable full-matrix imaging, delivering a high-resolution volumetric damage map through scanning. Simulated and experimental results show strong agreement and are comparable to X-ray computed tomography, validating the effectiveness of the proposed method. The proposed method shows remarkably low errors relative to X-ray computed tomography, with only 1.70% deviation in maximum damage area and 14.91% in damage volume. This work provides a powerful and reliable approach for ultrasonic quantification of impact damages in anisotropic CFRP laminates, enhancing the performance of the CFRP components, particularly in scenarios requiring in-situ inspection.}
+}

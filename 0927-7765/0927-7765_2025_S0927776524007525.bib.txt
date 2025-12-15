@@ -1,0 +1,13 @@
+@article{CHEN2025114493,
+title = {Integration of EMAP-II-targeted anti-angiogenesis and photodynamic therapy using zinc phthalocyanine nanosystem for enhanced cancer treatment},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114493},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114493},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007525},
+author = {Liyun Chen and Linlin Li and Hailong Zhao and Hao Li and Jiahui Li and Chao Li and Yang Zhou and Luxuan Yang and Jun Liang and Honglian Zhang and Juan Li and Peng Xu and Cai Yuan and Zhenhua Liu and Mingdong Huang and Longguang Jiang},
+keywords = {Phthalocyanine, EMAP-II, Anti-tumor, Angiogenesis},
+abstract = {Angiogenesis provides essential nutrients and oxygen to tumors during tumorigenesis, facilitating invasion and metastasis. Consequently, inhibiting tumor angiogenesis is an established strategy in anti-cancer therapy. In this study, we engineered a dual-function nanosystem with both antiangiogenic and photodynamic properties. We transformed the hydrophobic photosensitizer zinc phthalocyanine (PS) into a hydrophilic form via protein renaturation, resulting in a novel photosensitizer: Monocyte-Activating Polypeptide-II (EMAP-II:PS@NPs). Characterization through dynamic light scattering (DLS) and UV–vis spectroscopy showed that these nanoparticles exhibited uniform size and stability, and enhanced solubility. We further demonstrated that EMAP-II:PS@NPs effectively target tumor vascular endothelia causing intracellular photodynamic cytotoxicity. Notably, EMAP-II:PS@NPs achieved effective ablation of solid tumors at significantly reduced dosages of drugs compared to conventional therapies, due to their potent apoptotic effects on light-exposed cells. This study highlights the potential of combining anti-angiogenic activity with phototherapy, paving the way for innovative cancer treatment strategies.}
+}

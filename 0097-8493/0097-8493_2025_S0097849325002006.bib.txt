@@ -1,0 +1,13 @@
+@article{LI2025104359,
+title = {Conformable mechanisms on freeform surfaces},
+journal = {Computers & Graphics},
+volume = {132},
+pages = {104359},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104359},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325002006},
+author = {Siqi Li and Haoyu Tang and Peng Song and Bailin Deng and Jianmin Zheng},
+keywords = {Conformable mechanism, Path generation, Motion generation, Freeform surface, Computational design},
+abstract = {This paper introduces a new class of linkage mechanisms called surface-conformable mechanisms or simply conformable mechanisms. A conformable mechanism conforms to a freeform surface in one of its configurations, in which the mechanism’s joints and links are exactly on the surface. Conformable mechanisms can be stowed compactly when not in use and accomplish complex motion transfer tasks when deployed. This paper aims to model and design conformable mechanisms for 3D path and motion generation. To achieve this goal, we enumerate topologies of conformable mechanisms, and model their geometry in the parameterization space of a freeform surface for surface conformity. To ensure a working and fabricable mechanism, we propose an efficient approach to processing the freeform surface by first removing a portion of the surface that collides with the moving links and joints and then removing disconnected patches and fragile features from the surface. Taking the modeling and processing as a foundation, we propose an optimization-based approach to designing a conformable mechanism for generating a target 3D path/motion, while preserving the mechanism’s appearance in the stowed state. We demonstrate the effectiveness of our approach by designing conformable mechanisms that conform to various freeform surfaces, evaluating their kinematic performance in 3D path and motion generation, validating their functionality with a 3D printed prototype, and showing three applications of these mechanisms.}
+}

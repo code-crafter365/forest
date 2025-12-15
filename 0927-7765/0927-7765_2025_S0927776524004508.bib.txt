@@ -1,0 +1,13 @@
+@article{ZABOROWSKAMAZURKIEWICZ2025114191,
+title = {Oxidation of lipid membrane cholesterol by cholesterol oxidase and its effects on raft model membrane structure},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114191},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114191},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004508},
+author = {Michalina Zaborowska-Mazurkiewicz and Teresa Bizoń and Dorota Matyszewska and Philippe Fontaine and Renata Bilewicz},
+keywords = {Cholesterol, Langmuir monolayer, Cholesterol oxidase, Cholesterol oxidation, Lipid raft, Liposomes},
+abstract = {The effects of a peripheral protein – cholesterol oxidase (3β-hydroxysteroid oxidase, ChOx) on the characteristics of model lipid membranes composed of cholesterol, cholesterol:sphingomyelin (1:1), and the raft model composed of DOPC:Chol:SM (1:1:1) were investigated using two membrane model systems: the flat monolayer prepared by the Langmuir technique and the curved model consisting of liposome of the same lipids. The planar monolayers and liposomes were employed to follow membrane cholesterol oxidation to cholestenone catalyzed by ChOx and changes in the lipid membrane structure accompanying this reaction. Changes in the structure of liposomes in the presence of the enzyme were reflected in the changes of hydrodynamic diameter and fluorescence microscopy images, while changes of surface properties of planar membranes were evaluated by grazing incidence X-ray diffraction (GIXD) and Brewster angle microscopy. UV-Vis absorbance measurements confirmed the activity of the enzyme in the tested systems. A better understanding of the interactions between the enzyme and the cell membrane may help in finding alternative ways to decrease excessive cholesterol levels than the common approach of treating hypercholesterolemia with statins, which are not free from undesirable side effects, repeatedly reported in the literature and observed by the patients.}
+}

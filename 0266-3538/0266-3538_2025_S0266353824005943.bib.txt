@@ -1,0 +1,13 @@
+@article{FENG2025111023,
+title = {High-velocity impact behavior of scarf-repaired composite laminates},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111023},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111023},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005943},
+author = {Zhicheng Feng and Peng Liu and Shanyong Xuan and Yimeng Shan and Xuefeng Yao},
+keywords = {Scarf-repaired laminate, High-velocity impact, Strain rate dependence, Perforation resistance, Failure mechanisms},
+abstract = {This study provides a systematic investigation of the perforation resistance and failure mechanisms of scarf-repaired composite laminates under high-velocity impact. First, a geometric model of the scarf-repaired laminate was established based on a rate-dependent constitutive equation, with the adhesive layer modeled using the Cowper-Symonds constitutive law, both implemented in ABAQUS/Explicit. Second, model parameters were calibrated using experimental data from the literature, and the numerical predictions aligned well with the experimental results, validating the model's accuracy in predicting the laminate response under high-velocity impact. Finally, various impact conditions, including impact velocity (angle and speed), locations and different scarf angles, were simulated to systematically analyze the impact resistance and failure modes of the repaired structure. This research provides theoretical and practical insights into the design and engineering applications of damage repair in composite structures.}
+}

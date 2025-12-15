@@ -1,0 +1,13 @@
+@article{QIN2025104336,
+title = {Video-based driver drowsiness detection using stacked landmark heatmaps and spatial–temporal attention},
+journal = {Computers & Graphics},
+volume = {131},
+pages = {104336},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104336},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001773},
+author = {Wenhu Qin and Liao Liu and Libo Sun},
+keywords = {Driver drowsiness detection, Video processing, Face alignment, Landmark heatmap, Intelligent cabins},
+abstract = {Driver drowsiness poses a critical threat to road safety and remains a persistent challenge even in advanced autonomous driving systems. However, existing vision-based detection methods extract facial features inefficiently and are susceptible to cumulative errors from external face alignment models. To address these limitations, we develop a novel video-based framework that combines trainable facial feature extraction with efficient spatial–temporal analysis. Our feature extraction module employs stacked landmark heatmaps to extract structural facial features efficiently while can be trained for drowsiness-specific features. Furthermore, we introduce a diagonal embedding strategy to enhance the geometric relations between landmarks of a single stacked heatmap. To adequately analyze the spatial–temporal features, a two-stream structure combining 2D and 3D convolutions with multi-head self-attention is utilized in this article. Experimental results validate that our method outperforms existing methods and achieves higher detection accuracy.}
+}

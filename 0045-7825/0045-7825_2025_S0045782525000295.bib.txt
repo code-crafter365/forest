@@ -1,0 +1,13 @@
+@article{BAHARLOUEI2025117757,
+title = {A Least-Squares-Based Neural Network (LS-Net) for Solving Linear Parametric PDEs},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117757},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117757},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000295},
+author = {Shima Baharlouei and Jamie M. Taylor and Carlos Uriarte and David Pardo},
+keywords = {Parametric partial differential equations, Deep learning, Neural network, Least-squares, Physics-informed neural networks, Deep Fourier residual},
+abstract = {Developing efficient methods for solving parametric partial differential equations is crucial for addressing inverse problems. This work introduces a Least-Squares-based Neural Network (LS-Net) method for solving linear parametric PDEs. It utilizes a separated representation form for the parametric PDE solution via a deep neural network and a least-squares solver. In this approach, the output of the deep neural network consists of a vector-valued function, interpreted as basis functions for the parametric solution space, and the least-squares solver determines the optimal solution within the constructed solution space for each given parameter. The LS-Net method requires a quadratic loss function for the least-squares solver to find optimal solutions given the set of basis functions. In this study, we consider loss functions derived from the Deep Fourier Residual and Physics-Informed Neural Networks approaches. We also provide theoretical results similar to the Universal Approximation Theorem, stating that there exists a sufficiently large neural network that can theoretically approximate solutions of parametric PDEs with the desired accuracy. We illustrate the LS-net method by solving one- and two-dimensional problems. Numerical results clearly demonstrate the method’s ability to approximate parametric solutions.}
+}

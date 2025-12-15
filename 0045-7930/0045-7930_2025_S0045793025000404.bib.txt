@@ -1,0 +1,13 @@
+@article{MENG2025106580,
+title = {Modeling of interfacial two-phase flows via VOF-based LS method with WENO scheme in the finite volume method},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106580},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106580},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000404},
+author = {Wenkang Meng and Ching-hao Yu and Jia Li and Zhiyuan Wu and Ruidong An},
+keywords = {Two-phase flow, Level set, Volume of fluid, WENO, Finite volume method},
+abstract = {The modeling of interfacial two-phase flows involves various fields such as hydraulic engineering, marine engineering, chemical industry, etc., whose difficulty lies in the accurate simulation of the two-phase flow interface. This paper presents a VOF(volume of fluid)-based LS (level set) method with WENO (weighted essentially non-oscillatory) scheme in the finite volume method. The proposed method initializes the LS function by transforming the VOF function, which does not have the characteristics of the distance function yet. Therefore, the next step is to re-distance the transformed LS function by solving the re-initialization equation. For solving the re-initialization equation, the WENO scheme in the finite volume method is employed, providing fifth-order accuracy for the convection term. To validate the proposed VOF-based LS method combined with the WENO scheme, five test cases are presented, including Zalesak's disk, vortex deformation, Rayleigh-Taylor instability, two-dimensional bubble rise, and dam break flow. The numerical results from these interfacial two-phase flow cases demonstrate that the VOF-based LS method with the WENO scheme in the finite volume method can achieve accurate capture of the interface while maintaining excellent mass conservation characteristics.}
+}

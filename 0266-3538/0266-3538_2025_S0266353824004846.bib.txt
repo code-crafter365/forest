@@ -1,0 +1,13 @@
+@article{LIU2025110914,
+title = {Rate-dependent mechanical and self-monitoring behaviors of 3D printed continuous carbon fiber composites},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110914},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110914},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824004846},
+author = {Lanting Liu and Yinggang Miao and Qiong Deng and Xiaobin Hu and Yu Zhang and Ruifeng Wang and Yongshuai Wang and Mengjia Su and Yiu-Wing Mai},
+keywords = {3D printing, Self-sensing behavior, Electrical resistance prediction model, Strain-rate dependence, Deformation mechanism},
+abstract = {3D printed continuous carbon fiber reinforced polymer (CFRP) composites offer great advantages in structural health monitoring (SHM) owing to their flexibility in complex structure fabrication. Considering the many prospective aerospace applications, tensile experiments were designed to study their mechanical and self-sensing behaviors under a wide range of strain rates. The turning points in the resistance vs strain curves reveal the damage evolution of the specimens and divide the deformations into linear straining and damage evolution regions. Fiber elongation and fiber contact reduction dominate the resistance increase in the linear straining region and the resistance curve behaves linearly. But fiber breakage is the predominant factor in the damage evolution region, yielding a concave resistance curve. Strength, fracture strain, and resistance variation are found to display significant strain rate dependencies that increase with increasing strain rate. Numerous microcracks are formed and evolved into secondary cracks under dynamic loading. This process absorbs more strain energy and produces more carbon fiber breaks, sustaining a higher fracture strain and resistance variations. A model is developed to describe the strain- and strain rate-dependent resistance behaviors, and the predicted results agree well with experimental data. The outcomes of this work contribute to the application of 3D printed continuous CFRP composites in SHM.}
+}

@@ -1,0 +1,13 @@
+@article{BERKOWITZ2025119534,
+title = {Comparison of interlaminar damage modeling strategies for hybrid composite/aluminum laminates subjected to low-velocity impact},
+journal = {Composite Structures},
+volume = {372},
+pages = {119534},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119534},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006993},
+author = {Katherine Berkowitz and Drew E. Sommer and Brian T. Werner and Kevin N. Long and Alyssa J. Skulborstad},
+keywords = {Carbon fiber, Damage mechanics, Numerical modeling, Composite laminate, Dynamic},
+abstract = {Low-velocity impact of hybrid metal-composite structures was investigated experimentally and computationally. Composite laminates consisting of 2D woven glass fiber reinforced polymer (GFRP) and carbon fiber reinforced polymer (CFRP) were joined with a 6061-T6 aluminum plate using an epoxy adhesive. Two variations of the structure were studied; one consisting of all plies oriented at 0° and one consisting of all plies oriented at 45°. A drop tower was used to impact structures at a range of energies, including energies above and below the threshold at which the aluminum layer was perforated. Numerical simulations were implemented using Sierra/SM, an in-house transient dynamics finite element code developed at Sandia National Laboratories. A Hosford plasticity model was used to describe the response of the aluminum layer. A newly implemented orthotropic continuum damage mechanics (CDM) constitutive model was used to represent the composite laminate. This 3D-CDM model was compared to a cohesive zone model (2D-CDM/CZM) to investigate efficacy of aluminum perforation energy prediction, delamination prediction, and computational cost. Accuracy of each model was evaluated using the experimental results. Each showed good agreement with the tests for both the force and velocity histories, as well as the observed damage mechanisms. The 2D-CDM/CZM model was marginally more accurate in capturing both the composite and aluminum behavior — this model averaged error percentages of −11.2% and 10.8% for residual velocity and peak force, respectively. Meanwhile, the 3D-CDM model predictions yielded average error percentages of −35.5% (velocity) and 22.6% (force). However, the 3D-CDM model generally resulted in a decreased computational cost; the average run time was 14% shorter than the 2D-CDM/CZM model and 3x as many timesteps per hour were computed using the same computational resources. New experimental data on the impact and perforation resistance of metal-composite laminates is presented in addition to numerical predictions of the impact behavior.}
+}

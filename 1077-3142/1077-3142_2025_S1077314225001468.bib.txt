@@ -1,0 +1,13 @@
+@article{ZHAN2025104423,
+title = {Exploring black-box adversarial attacks on Interpretable Deep Learning Systems},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104423},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104423},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001468},
+author = {Yike Zhan and Baolin Zheng and Dongxin Liu and Boren Deng and Xu Yang},
+keywords = {Interpretability in computer vision, Deep learning systems, Adversarial examples, Black-box attacks},
+abstract = {Recent studies have empirically demonstrated that neural network interpretability is susceptible to malicious manipulations. However, existing attacks on Interpretable Deep Learning Systems (IDLSes) predominantly focus on the white-box setting, which is impractical for real-world applications. In this paper, we present the first attempt to attack IDLSes in more challenging and realistic black-box settings. We introduce a novel framework called Dual Black-box Adversarial Attack (DBAA) which can generate adversarial examples that are misclassified as the target class, while maintaining interpretations similar to their benign counterparts. In our method, adversarial examples are generated via black-box adversarial attacks and then refined using ADV-Plugin, a novel approach proposed in this paper, which employs single-pixel perturbation and an adaptive step-size algorithm to enhance explanation similarity with benign samples while preserving adversarial properties. We conduct extensive experiments on multiple datasets (CIFAR-10, ImageNet, and Caltech-101) and various combinations of classifiers and interpreters, comparing our approach against five baseline methods. Empirical results indicate that DBAA is comparable to regular adversarial attacks in compromising classifiers and significantly enhances interpretability deception. Specifically, DBAA achieves Intersection over Union (IoU) scores exceeding 0.5 across all interpreters, approximately doubling the performance of regular attacks, while concurrently reducing the average ℓ2 distance between its attribution maps and those of benign samples by about 50%.}
+}

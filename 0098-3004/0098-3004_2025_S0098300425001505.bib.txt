@@ -1,0 +1,13 @@
+@article{LI2025106000,
+title = {Physics-embedded deep learning inversion for transient electromagnetic method survey data},
+journal = {Computers & Geosciences},
+volume = {204},
+pages = {106000},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.106000},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001505},
+author = {Ruiyou Li and Yong Zhang and Jiayi Ju and Rongqiang Liu},
+keywords = {Transient electromagnetic inversion, Physical laws, Unsupervised deep learning, Attention mechanism, MVMD},
+abstract = {The transient electromagnetic method (TEM) is a widely used geophysical technique for investigating complex geological conditions. Deep learning (DL) provides a novel approach for solving the complex, nonlinear TEM inversion problem. However, most current DL inversion methods for TEM survey data depend heavily on labeled data (real resistivity models), which are difficult to acquire from field surveys. In this study, we propose an unsupervised DL inversion method for TEM survey data based on the physical laws that govern electric field propagation. First, we integrate forward modeling into the training process, allowing the predicted resistivity model to be converted into simulated data. This simulated data is then compared with observed data to calculate a data misfit. Then, unsupervised training (label-independent) is achieved using the data misfit as the loss function, with dynamic smoothing constraints employed to alleviate the ill-posed inversion problem. Furthermore, the DL network incorporates an Attention mechanism to extract crucial feature information for TEM inversion. Finally, the multivariate variational mode decomposition (MVMD) technique optimized by the whale optimization algorithm (WOA) is adopted to reduce noise in the survey data and enhance TEM inversion precision. Both synthetic examples and field surveys show that our proposed approach accurately delineates subsurface model structures, offering an innovative solution for TEM inversion.}
+}

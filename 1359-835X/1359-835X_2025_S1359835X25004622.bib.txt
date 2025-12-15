@@ -1,0 +1,13 @@
+@article{MINDERMANN2025109168,
+title = {Exploring the sustainability potential of lightweight structures made from Phormium tenax fibers by hybrid coreless filament winding},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109168},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109168},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004622},
+author = {Pascal Mindermann and Yifan Lv and Malaya Prasad Behera and Romain Meot and Marie-Joo {Le Guen} and Sarat Singamneni},
+keywords = {Coreless filament winding, Natural fibers, , },
+abstract = {Fiber-reinforced plastics enable lightweight building systems through digitizable and automatable additive manufacturing techniques such as coreless filament winding (CFW). Replacing carbon fibers with low-CO2-impact natural fibers offers opportunities for sustainable structures. A prior CFW study using four-point bending demonstrated the eco-mechanical potential of Linum usitatissimum fibers but was confined to simple sample geometries, emphasizing material over structural performance. This study addresses this limitation by introducing a new structural sample fabricated with a 3D-printed winding fixture and hybrid CFW. Samples from Phormium tenax fibers were experimentally benchmarked against carbon and L. usitatissimum fiber samples. Carbon samples exhibited 2.15× the mass/CO2-specific stiffness and failure load of the natural fiber samples. L. usitatissimum slightly outperformed P. tenax due to greater raw material optimization. Projections suggest increasing fiber volume ratios, coupled with advances in fabrication, could close performance gaps while balancing lightweight and sustainability goals.}
+}

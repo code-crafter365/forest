@@ -1,0 +1,13 @@
+@article{CHEN2025111397,
+title = {Enhanced self-lubricating and wear-resistance of epoxy composites synergistically reinforced by HBPSi and MXene/WS2 heterostructured filler},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111397},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111397},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003653},
+author = {Zhengyan Chen and Zhou Lan and Wei Huang and Penggang Ren and Hongxia Yan and Zhengzheng Guo and Yanling Jin and Zhenfeng Sun},
+keywords = {MXene/WS, HBPSi, Epoxy resin, Lubrication},
+abstract = {Despite the evident potential of layered MXene and WS2 as lubricant additives for epoxy (EP) resin, their practical applications are significantly hindered by inadequate interfacial adhesion with the EP matrix. Herein, hyperbranched polysiloxane with hydroxyl terminal groups (HBPSi–OH) was synthesized, which serves as a “bridge” agent to improve the interfacial adhesion between heterostructured MXene/WS2 filler and EP resin. Then, HBPSi and MXene/WS2 hybrids were incorporated into EP as toughening agents and lubricant additives to fabricate composites. Benefiting from enhanced interfacial bonding strength, prominent toughening effect of HBPSi, “soft-rigid” synergy of HBPSi and MXene/WS2, the MXene/WS2/HBPSi/EP (MWH/EP) composites exhibited remarkable mechanical and tribological properties. Notably, compared with pristine EP, 0.6 wt% MXene/WS2-1/4 wt% HBPSi/EP composite demonstrated significant increases of 74.6 % and 48.3 % in impact and flexural strengths. The average coefficient of friction reaches the lowest value of 0.30, concomitant with a reduction in the volumetric wear rate exceeding 97 %. This study offers significant contributions to the advancement of high-performance solid lubricant additives for polymeric composites.}
+}

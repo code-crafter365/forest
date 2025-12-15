@@ -1,0 +1,13 @@
+@article{GUO2025111215,
+title = {Simultaneous improvement of thermal stability, mechanical properties, and combustion safety in polycaprolactone via blending with a tiny amount of aramid nanofiber},
+journal = {Composites Science and Technology},
+volume = {268},
+pages = {111215},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111215},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001836},
+author = {Yinzhou Guo and Wenchen Hu and Chenhui Cui and Jiaying Liu and Xiaoqing Ming and Qiang Zhang and Yilong Cheng and Zhishen Ge and Yanfeng Zhang},
+keywords = {Polycaprolactone, Aramid nanofiber, Thermal stability, Strength and toughness, Combustion safety},
+abstract = {Thermoplastic polyesters, polycaprolactone (PCL), are widely used in engineering and biomedical fields due to their flexibility, biodegradability, and processability. However, PCL's poor mechanical strength and thermal stability (e.g. high-temperature deformation, melt dripping) limit its applications. To address these limitations, this work develops novel aramid nanofiber (ANF)-reinforced PCL composites. By incorporating a tiny amount (2 wt%) of ANF into the PCL matrix via a banburying process, the mechanical properties and thermal stability of the composites are significantly improved. Compared with pure PCL, the tensile strength and toughness of the composites reach 35.6 MPa and 236 MJ/m3, respectively, significantly exceeding pure PCL of 21.3 MPa and 160 MJ/m3. Furthermore, the composite exhibits excellent shape stability and maintains its original shape even at 100 °C. More importantly, under combustion conditions, the composite completely avoids burning dripping observed in pure PCL, greatly improving its combustion safety. In addition, the composites still maintain the same excellent biocompatibility as PCL. Therefore, PCL@ANF composites show outstanding strength, toughness, thermal stability, providing huge potentials as high-performance biomedical engineering materials for fracture fixation applications.}
+}

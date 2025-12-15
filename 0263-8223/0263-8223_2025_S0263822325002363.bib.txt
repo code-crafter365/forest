@@ -1,0 +1,13 @@
+@article{ZHAO2025119071,
+title = {Cross-dataset semantic segmentation for composite crack detection using unsupervised transfer learning},
+journal = {Composite Structures},
+volume = {362},
+pages = {119071},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119071},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002363},
+author = {Pengchao Zhao and Wenyuan Xu and Dawei Qi and Bo Yuan},
+keywords = {Crack detection, Semantic segmentation, Transfer learning, Unsupervised domain adaptation, Generative adversarial network},
+abstract = {Deep learning-based segmentation has emerged as a powerful tool for pixel-level crack detection in composite and concrete structures. However, the width and orientation of fine cracks may be stealthily altered due to domain shifts, over-adaptation, and uncontrolled feature mapping across labeled and unlabeled datasets. This study proposes an unsupervised framework that integrates hybrid feature- and instance-based transfer learning techniques, investigating transfer directions and data reconstruction. Specifically, a Cycle Generative Adversarial Network is employed to align features without annotating target data. Additionally, a U-Net architecture enhanced with Squeeze-and-Excitation attention mechanisms—establishing weight relationships through channel-wise feature mapping—is utilized to improve crack feature extraction and segmentation accuracy. Experimental results demonstrate that bidirectional feature transfer from both source and target datasets to shared auxiliary feature spaces enforces the independent and identically distributed data structure, effectively mitigating over-adaptation and feature loss in hierarchical networks. The proposed framework exhibits strong scalability, accuracy, and adaptability across diverse datasets, making it a promising solution for structural health monitoring in composite and concrete materials.}
+}

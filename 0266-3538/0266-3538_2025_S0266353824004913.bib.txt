@@ -1,0 +1,13 @@
+@article{AN2025110921,
+title = {Vascular bundle-structured polymeric composites with fire-safe, self-detecting and heat warning capabilities for power batteries thermal management},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110921},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110921},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824004913},
+author = {Xinyan An and Nvfan Tang and Yilin Liu and Shiqiang Song and Chaoyue Chen and Guohao Han and Weizhen Li and Yong Zhang},
+keywords = {Polymer-based composites, Thermal properties, Fire safety, Heat warning, Intelligent damage self-detection},
+abstract = {The trend of miniaturization and integration poses challenges to the thermal management of electronic devices, requiring high thermal conductivity and potential fire safety, etc. In this study, inspired by plant vascular structure, we developed a polymer composite with a vertical vascular bundle structure via a sacrificial template method and subsequent assembly of transition metal carbides/nitrides (MXene) nanosheets and phytic acid (PA) coordinated cobalt ions (Co2+) complex. The embedded MXene and PA@Co exhibit multilayer multiscale structural features, forming heat transfer channels and protective cells within the composite. The resultant composites possess high out-of-plane thermal conductivity (∼1.54 W‧m−1‧k−1) and excellent flame retardancy, including self-extinguishing, and significantly reduced heat and smoke release. Interestingly, the MXene vascular bundle structure imparts heat early warning capabilities and intelligent damage self-detection, suggesting an effective means of preventing early-stage fires and real-time monitoring of composite structural and functional integrity. Such biomimetic strategies enable new insights into the designing of multifunctional, intelligent polymer composites.}
+}

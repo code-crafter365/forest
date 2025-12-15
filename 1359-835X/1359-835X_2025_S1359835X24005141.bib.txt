@@ -1,0 +1,13 @@
+@article{BI2025108516,
+title = {Freeform trajectory generation for fiber reinforced polymer composites additive manufacturing with variable-deposition-width},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108516},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108516},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005141},
+author = {Danjie Bi and Pengcheng Hu and Zhaoyu Li and Jiancheng Hao and Kai Tang and Molong Duan},
+keywords = {Continuous carbon fiber-reinforced polymers, Trajectory generation, Streamline, Variable-deposition-width},
+abstract = {Continuous carbon fiber-reinforced polymers (CCFRPs) printing is a unique additive manufacturing (AM) technique that enhances design flexibility and enables on-demand production of lightweight, high-strength composite parts. However, current trajectory generation methods for CCFRPs-AM have limited control over fiber placement and flexible matrix path infill, particularly in complex regions, often using constant deposition widths that restrict path coverage and mechanical properties. To address these limitations, this paper presents a variable-deposition-width (VDW) trajectory generation method for CCFRPs-AM. The approach integrates a streamline-based technique for fiber paths with a Voronoi diagram-based method for matrix path generation, optimizing path placement based on 2D stress fields while accommodating user-defined fiber paths. Mechanical tests by us on fabricated open-hole composite components demonstrate that the proposed approach enhances the interfacial bonding and increases the maximal loading capacity under tensile stress.}
+}

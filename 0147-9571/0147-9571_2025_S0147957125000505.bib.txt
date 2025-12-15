@@ -1,0 +1,13 @@
+@article{MERRADI2025102342,
+title = {Plasmid mediated colistin resistance in ESBL producing Enterobacterales based on both phenotypic and molecular analysis in companion and farm animals from Algeria},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {120},
+pages = {102342},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102342},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000505},
+author = {Manel Merradi and Fatma Zohra Chebaani and Nouzha Heleili and Maria V. Alvanou and Ioannis A. Giantsis},
+keywords = {Third generation cephalosporins resistance, ESBL, , Biofilm, Animals, Algeria},
+abstract = {The third-generation cephalosporin (3GC)-resistant Enterobacterales strains have been detected worldwide in humans and animals. Hence, in this study, we evaluated the prevalence and genetic characteristics of 3GC-resistant Enterobacterales in animals and their environment from Algeria, a country that combines traditional farming techniques with current efforts of veterinary development. Rectal samples were collected from 126 healthy livestock, poultry, pets and environment surfaces between 2022 and 2023. Antimicrobial susceptibility testing was performed according to Kirby-Bauer method and genes associated with resistance in 3GC-resistant isolates were identified using polymerase chain reaction (PCR) and DNA sequencing. Biofilm formation was assessed using the red Congo agar and tube methods with molecular study of biofilm genes. We obtained 49 non-duplicated 3GC-resistant Enterobacterales. Different species was isolated and the predominant ones were Escherichia coli 32,65 % (16/49) and Entrobacter cloacae 26,53 % (13/49). ESBL phenotype was detected in 46 strains. ESBL genes were blaTEM, blaOXA, blaCTX-Mg2, blaSHV and blaCTX-Mg1. The combination of blaTEM and blaOXA was present in 25 isolates, blaOXA in 15 isolates, both blaTEM and the combination of blaTEM+blaOXA+blaCTX-Mg1 in 2 isolates, blaTEM+blaOXA+blaCTX-Mg2 and blaOXA+blaSHV+ blaCTX-Mg1 were detected in one isolate. Two colistin resistant strains harbored mcr-1 gene and co-expressing blaTEM+blaOXA ESBL were isolated. Biofilm production was 18,37 % according to Red Congo agar method and 20,41 % in tube method. Biofilm genes csgA and bssb were detected in 20 isolates. Our study findings indicated that blaTEM+blaOXA is predominant in the 3GC resistant strains with the presence of mcr-1.}
+}

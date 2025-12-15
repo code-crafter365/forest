@@ -1,0 +1,13 @@
+@article{SUN2025108777,
+title = {Validity of LEFM to measure the Mode II and Mixed Mode I/II fracture toughness of adhesively bonded CFRP},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108777},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108777},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000715},
+author = {Fengzhen Sun and Qianming Wang and Bamber R.K. Blackman},
+keywords = {Energy release rate, -integral, Linear Elastic Fracture Mechanics (LEFM), Validity of LEFM, Mode II, Mixed Mode I/II},
+abstract = {In this work, the validity of Linear Elastic Fracture Mechanics (LEFM) for measuring the energy release rates for adhesively bonded carbon fibre reinforced plastic (CFRP) joints under Mode II and Mixed Mode I/II loading, using end loaded split (ELS) and fixed ratio mixed mode (FRMM) specimens respectively, has been investigated. The G values determined using LEFM coupled with an effective crack length approach have been compared with the J-integral values measured simultaneously using the crack length independent slope-based J-integral methods. It is shown that higher GIIc values than JIIc values were measured using ELS specimens, but the GI/IIc values were in good agreement with the JI/IIc values measured using FRMM specimens. It is shown (by experimental and numerical investigations) that LEFM became invalid in Mode II due to the occurrence of local damage in the bondline of the specimen close to the clamp. This local damage resulted in erroneously high GIIc values being measured via LEFM. In contrast, the J method was able to provide accurate and valid toughness values as the contribution of local damage could be excluded through careful selection of the integral contour. Further analysis indicates that, if the local damage was eliminated by adding additional constraint to the specimen at the clamp, then valid values of GIIc via LEFM could be obtained. The J-integral method in this work provides an alternative tool to determine the fracture toughness of adhesive joints under Mode II loading in case of additional (secondary) damage outside the fracture process zone (FPZ) occurs, which is quite challenging for LEFM methods to separate the energy dissipated in and outside the FPZ.}
+}

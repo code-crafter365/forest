@@ -1,0 +1,13 @@
+@article{LI2025104481,
+title = {Adaptive DETR: A framework with dynamic sampling points and feature-guided adaptive attention updates},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104481},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104481},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002048},
+author = {Botao Li and Huguang Yang and Chenglong Xia and Han Zheng and Aziguli Wulamu and Taohong Zhang},
+keywords = {Dynamic sampling points, Feature-guided adaptive encoding, Deformable attention},
+abstract = {In recent years, DETR-based models have advanced object detection but still face key challenges: the encoder’s high complexity and limited adaptability, and the decoder’s slow convergence due to query initialization. We propose Adaptive DETR, a framework with dynamic sampling and adaptive feature encoding. First, we design an attention update strategy that computes weights based on image features, enhancing detection accuracy. Second, we enable dynamic adjustment of sampling points in deformable attention, improving adaptability in complex scenes. Finally, we optimize the decoder by performing attention between bounding-box and semantic queries during initialization, effectively injecting semantics, accelerating convergence, and improving localization. Experiments on COCO, UAVDT, VisDrone, and RSOD confirm that Adaptive DETR achieves superior accuracy and generalization with improved efficiency.}
+}

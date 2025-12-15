@@ -1,0 +1,13 @@
+@article{VIDAL2025118963,
+title = {Modeling of variable angle tow composites using a variable separation method based on a unified formulation},
+journal = {Composite Structures},
+volume = {359},
+pages = {118963},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118963},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500128X},
+author = {P. Vidal and G. Giunta and D.A. Iannotta and L. Gallimard and O. Polit},
+keywords = {Variable angle tow, Layerwise approach, Separation of variables, Finite element, Carrera’s unified formulation},
+abstract = {In this article, we are interested in the modeling of variable stiffness plate structures through a variable separation approach. The displacement field is approximated as a sum of separated functions of the in-plane coordinates x, y and the transverse coordinate z. A non-linear problem is derived. It can be solved using an iterative process involving 2D and 1D linear problems successively. To keep the separability feature ensuring a computational efficiency, the so-called Carrera’s Unified Formulation (CUF) is adapted to our framework. Classical Finite Element method is used. In the thickness direction, a fourth-order expansion in each layer is considered. The number of unknowns is reduced compared to classical LayerWise (LW) approach. Test cases encountered in the literature are provided to assess the present LW method and compare the results with reference solutions. Laminated and sandwich structures with different slenderness ratios and variations of angle tows are addressed. Very satisfactory results with a low computational cost are obtained.}
+}

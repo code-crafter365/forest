@@ -1,0 +1,11 @@
+@article{MUSSE2025104460,
+title = {Preface to the special issue: SIBGRAPI 2024 tutorials},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104460},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104460},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325003012},
+author = {Soraia Raupp Musse and Ricardo Marroquim and Zenilton K.G. Patrocínio}
+}

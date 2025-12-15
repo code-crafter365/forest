@@ -1,0 +1,13 @@
+@article{QIN2025105840,
+title = {3D adaptive finite-element forward modeling for direct current resistivity method using geometric multigrid solver},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105840},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105840},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003236},
+author = {Ce Qin and Wenliang Fu and Ning Zhao and Jun Zhou},
+keywords = {Direct current resistivity method, Geometric multigrid method, Adaptive finite element method, Three-dimensional forward modeling},
+abstract = {The direct current (DC) resistivity method is an effective method for detecting subsurface structures with conductive differences. The three-dimensional forward modeling of DC resistivity is essential for data processing and interpretation. In the forward modeling process, solving the large-scale linear system is the most time-consuming step. Traditional algebraic multigrid (AMG) method has been successfully applied to solve the linear system. However, the performance of AMG will deteriorate when dealing with high-order discretization and highly stretched grids. Additionally, in the context of adaptive mesh refinement, the hanging nodes will further complicate the solving process. To address these challenges, we propose a novel geometric multigrid (GMG) method combined with local smoothing for solving the linear system in three-dimensional DC resistivity forward modeling. In this work, we employ high-order basis functions to discretize the problem. To further enhance the accuracy of the numerical solution, the mesh is adaptively refined based on the goal-oriented posterior error estimator. We utilize a V-cycle geometric multigrid on locally refined grids and the hanging node issue is effectively addressed through local smoothing. We also employ the mesh partitioning technique to parallel the solution process. The efficiency, robustness, and parallel performance of our algorithm are verified through various numerical examples.}
+}

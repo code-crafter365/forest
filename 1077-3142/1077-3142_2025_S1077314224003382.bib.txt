@@ -1,0 +1,13 @@
+@article{DONG2025104257,
+title = {Graph-based Dense Event Grounding with relative positional encoding},
+journal = {Computer Vision and Image Understanding},
+volume = {251},
+pages = {104257},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2024.104257},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314224003382},
+author = {Jianxiang Dong and Zhaozheng Yin},
+keywords = {Dense Event Grounding, Temporal sentence grounding, Video grounding, Relative positional encoding},
+abstract = {Temporal Sentence Grounding (TSG) in videos aims to localize a temporal moment from an untrimmed video that is relevant to a given query sentence. Most existing methods focus on addressing the problem of single sentence grounding. Recently, researchers proposed a new Dense Event Grounding (DEG) problem by extending the single event localization to a multi-event localization, where the temporal moments of multiple events described by multiple sentences are retrieved. In this paper, we introduce an effective proposal-based approach to solve the DEG problem. A Relative Sentence Interaction (RSI) module using graph neural network is proposed to model the event relationship by introducing a temporal relative positional encoding to learn the relative temporal order information between sentences in a dense multi-sentence query. In addition, we design an Event-contextualized Cross-modal Interaction (ECI) module to tackle the lack of global information from other related events when fusing visual and sentence features. Finally, we construct an Event Graph (EG) with intra-event edges and inter-event edges to model the relationship between proposals in the same event and proposals in different events to further refine their representations for final localizations. Extensive experiments on ActivityNet-Captions and TACoS datasets show the effectiveness of our solution.}
+}

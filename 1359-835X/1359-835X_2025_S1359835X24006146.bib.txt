@@ -1,0 +1,13 @@
+@article{LI2025108616,
+title = {Effects of two phosphonamide flame retardants derived from biomass pyridine on flame retardancy and flame-retardant mechanism of Polyamide 6},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108616},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108616},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006146},
+author = {Yanyan Li and Yikang Wang and Li Cui and Lie Zhao and Youyi Tian and Jiajia Shen and Junfeng Zhang and Huawei Xu and Meifang Zhu},
+keywords = {Polyamide 6, Phosphonamide, Flame retardant, Tensile performance},
+abstract = {Achieving favorable flame retardancy in polyamide 6 (PA6) without compromising its mechanical performance remains a challenge, with a notable gap in understanding the influence of flame-retardant structure on PA6 properties and mechanisms. In this study, two biomass-derived phosphonamide flame retardants, P,P-diphenyl-N-(pyridin-3-yl) phosphonamide (DPDA) and P,P-Diphenoxy-N-(pyridin-3-yl) phosphonamide (DPPA), were synthesized and incorporated into PA6 to develop flame retardant composites. Results demonstrated that the PA6-9DPDA, containing a P-C bond, achieved a UL-94 V-0 rating with a Limiting Oxygen Index (LOI) of 27.9 %, while PA6-9DPPA, containing a P-O-C bond, maintained the UL-94 V-2 rating of pure PA6 but with an increased LOI of 29.4 %. DPPA exhibited a more favorable impact than DPDA on enhancing the tensile performance of PA6. Mechanisms indicated that DPDA primarily operates through vapor phase flame retardancy, whereas DPPA utilizes condensed phase flame retardancy. Overall, this study proposes a sustainable approach for fabricating PA6 composites with enhanced comprehensive performance.}
+}

@@ -1,0 +1,13 @@
+@article{YU2025111288,
+title = {An anisotropic multi-phase field model for damage of fiber reinforced composites},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111288},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111288},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002568},
+author = {Yuanfeng Yu and Chi Hou},
+keywords = {Composites, Failure mechanism, Crack propagation, Multi phase field model, Driving force},
+abstract = {In this paper, an anisotropic multi phase field variables model is proposed for the failure of fiber reinforced composites. In composites, to calculate the strain field at different fiber orientations, the strain in the global coordinate system can be converted to strain in local one by means of a coordinate transformation matrix. Inspired by this idea, a coordinate transformation matrix for the phase field variable is proposed. Based on the coordinate transformation, an anisotropic crack density function capable of describing different fiber orientations is constructed. Secondly, the phase field distribution function and crack bandwidths corresponding to the new crack density function are derived, the influence of different model parameter on the fracture properties are further analyzed, and the reasonable value ranges of these parameters are determined. In order to characterize the effects of different properties of fiber and matrix on the damage evolution of the structure, a mixed mode driving force is proposed. Meanwhile, based on the driving force, the fiber and matrix damage initiation criteria are derived, and the Hashin failure criteria of different dimensions corresponding to the fiber and matrix under tensile conditions are obtained, thus determining the damage evolution laws of fibers and matrix. Finally, the presented model is validated by some examples. The numerical results indicate that the new model can be effectively adopted to study the interlaminar and interface damage of composites under different modes, showing the validity of the proposed model.}
+}

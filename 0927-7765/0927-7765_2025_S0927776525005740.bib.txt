@@ -1,0 +1,13 @@
+@article{OMOLE2025115067,
+title = {Bionanoformulated creams of silver (AgNPs), gold (AuNPs) and bimetallic silver-gold composites (Ag-AuNCPs) for tissue regeneration of MDR Pseudomonas aeruginosa-infected excision wounds in Wistar Rats},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115067},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115067},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005740},
+author = {Richard Kolade Omole and Nkem Torimiro and Oluwole Isaac Adeyemi and Muthupandian Saravanan and Mohanraj Karthik Ganesh},
+keywords = {Wound healing, Histopathology, Mechanisms, Antimicrobial, Nanomedicine},
+abstract = {Multidrug-resistant (MDR) Pseudomonas aeruginosa (P. aeruginosa) is a Gram-negative pathogen with advanced antibiotic resistance and biofilm-forming machineries that cause delayed infections (especially in human chronic wounds). Novel therapeutics such as antibiofilm agents, antimicrobial peptides and nanoformulated creams are being developed to treat P. aeruginosa-infected wounds. Therefore, Lysinibacillus fusiformis-synthesized AgNPs, AuNPs and Ag-AuNCPs were incorporated into oil-in-water creams. These bionanoformulated creams were adopted for tissue regeneration of P. aeruginosa-infected excision wounds (250 mm2 area) in Wistar rats (seven weeks old; 150–200 g). Histopathological examinations (haematoxylin and eosin staining) were performed on the regenerated skin tissues, and the biochemical mechanisms of action of the bionanoformulated creams were assessed. The AgNPs spectra peaked at 404 nm after 72 h, with a spherical shape of 18.42 nm in size, whereas the AuNPs spectra peaked at 546 nm after 48 h, with a spherical shape of 18.6 nm in size. The Ag-AuNCPs spectra recorded UV–vis λmax at 600.5 nm after 8 h with a spherically-clustered shape of 19.13 nm in size. The bionanoformulated creams of AgNPs, AuNPs, and Ag-AuNCPs regenerated the P. aeruginosa-infected tissues within 13 days, 15 days, and 11 days, respectively. Dermal collagen fibers, sebaceous glands, hair follicles, and epithelial glands were expressed in the regenerated tissues. These bionanoformulated creams reversed the oxidative stress induced by P. aeruginosa in the excised tissues, maintained the appropriate level of superoxide dismutase, and reduced lipid peroxidation in the tissues. This investigation makes a major contribution to public health research and global health advancement. These intriguing outcomes could be a blueprint for human clinical trials.}
+}

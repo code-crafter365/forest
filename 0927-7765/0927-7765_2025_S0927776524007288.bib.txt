@@ -1,0 +1,11 @@
+@article{YUAN2025114469,
+title = {Corrigendum to “Effects of gold nanostructures on differentiation of mesenchymal stem cells” [Colloid. Surf. B: Biointerfaces 184 (2019) 110494]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {248},
+pages = {114469},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114469},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007288},
+author = {Long Yuan and Xiaowei Qi and Gaoping Qin and Qi Liu and Fan Zhang and Yong Song and Jun Deng}
+}

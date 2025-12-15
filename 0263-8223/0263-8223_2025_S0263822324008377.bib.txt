@@ -1,0 +1,13 @@
+@article{WANG2025118709,
+title = {Additively manufactured plate lattice interpenetrating composites with high yield strength and energy absorbing capability},
+journal = {Composite Structures},
+volume = {353},
+pages = {118709},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118709},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008377},
+author = {Xiaobo Wang and Bo Song and Hanxing Zhu and Zhi Zhang and Lei Zhang and Yusheng Shi},
+keywords = {Additive manufacturing, Interpenetrating composites, Plate lattice architecture, High strength, Energy absorbing},
+abstract = {Mechanical metamaterials with plate lattice architectures have been proven to possess specific stiffness and strength superior to that of traditional truss lattice structures. Current research mainly focuses on the mechanical properties of plate lattice skeletons, leaving interpenetrating composites with plate lattice architectures unexplored. In this work, plate lattice interpenetrating composites have been prepared by filling epoxy resin matrix to additively manufactured stainless steel plate lattice skeletons. By conducting uniaxial quasi-static compression tests and performing finite element analysis, mechanical performance and deformation patterns of plate lattice interpenetrating composites have been revealed. Results show that Young’s modulus and yield strength of plate lattice skeletons can be greatly enhanced by introducing an epoxy resin matrix to form interpenetrating composites. In addition, interpenetrating composites have been observed to deform stably without shear damage or fracture, facilitating the increase of energy-absorbing capability. Specific energy absorption of interpenetrating composites is up to three times higher than that of corresponding pure skeletons, which could extend the potentials of plate lattice metamaterials in energy-absorbing applications.}
+}

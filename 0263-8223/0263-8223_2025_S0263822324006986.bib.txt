@@ -1,0 +1,13 @@
+@article{PYRIALAKOS2025118570,
+title = {An efficient hierarchical Bayesian framework for multiscale material modeling},
+journal = {Composite Structures},
+volume = {351},
+pages = {118570},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118570},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324006986},
+author = {Stefanos Pyrialakos and Ioannis Kalogeris and Vissarion Papadopoulos},
+keywords = {Parameter identification, Hierarchical Bayesian method, Multiscale material modeling, Neural networks, CNT-reinforced concrete},
+abstract = {This paper introduces a novel approach to infer the material properties of multiscale material systems through a variety of experimental scenarios. We utilize the hierarchical Bayesian paradigm which enables us to integrate multiple experimental data at different length scales and/or different material compositions, in a systematic way. Specifically, a probabilistic model is constructed which implements the Transitional Markov Chain Monte Carlo method to extract samples from the posterior distributions of both the multiscale model parameters and the hierarchical hyperparameters. The posterior distribution of the hyperparameters encapsulates the information from all the different experiments and it is utilized to derive an informed set of physical parameters, which can be used for making predictions in future material models. Feed forward neural networks play a crucial role in mitigating the computational effort of implementing the hierarchical Bayesian analysis on top of multiscale nonlinear computational homogenization analyses. Their purpose is to learn and accurately emulate the nonlinear constitutive law across multiple length scales. The proposed methodology is demonstrated on a case study of carbon nanotube (CNT) reinforced cementitious material configurations through the investigation of the CNT interfacial mechanical behavior. The hierarchical Bayesian framework is applied on a set of measurements gathered from independent literature experiments performed on dissimilar material compositions on the macroscopic structural scale.}
+}

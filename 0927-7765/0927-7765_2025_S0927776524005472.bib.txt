@@ -1,0 +1,13 @@
+@article{HOU2025114288,
+title = {Construction of BSA-ZnO&Quercetin based multifunctional bionic self-assembly system and their antibacterial mechanism study},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114288},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114288},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005472},
+author = {Shuxian Hou and Ye Hong and Jihua Shang and Yimei Wang and Xuechao Shi and Xinxin Liu and Guoqiang Yang and Yuxuan Wang and Fei Ge and Yao Xiao and Chaldi Kaoutar and Yuan Wu and Jun Wang},
+keywords = {Zinc oxide, Quercetin, Bionic self-assembly, Antibacterial mechanism},
+abstract = {The misuse of antibiotics has led to the growing problem of multidrug-resistant (MDR) bacteria, and there is still a lack of effective antibacterial agents that can replace antibiotics. Therefore, the design and development of multifunctional nanomaterials with long-term inhibitory effects on drug-resistant bacteria are extremely challenging. In this study, a multifunctional biomimetic self-assembly system, BSA-ZnO&Quercetin, based on bovine serum albumin (BSA), ZnO, and quercetin, was established using a simple and controllable method. The prepared self-assembly system has high stability and biocompatibility, and could fully combine the performance advantages of each component. BSA-ZnO&Quercetin showed excellent broad-spectrum antibacterial activity without inducing bacterial resistance. The related antibacterial mechanism of BSA-ZnO&Quercetin primarily involves biofilm inhibition and destruction, and inducing the production of reactive oxygen species, resulting in the death of the bacteria. The biomimetic self-assembly system BSA-ZnO&Quercetin constructed in this research is expected to replace antibiotics for antibacterial application.}
+}

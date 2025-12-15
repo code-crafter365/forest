@@ -1,0 +1,13 @@
+@article{SCHMIDT2025114605,
+title = {Polymeric nanocomposites in a biological interface: From a molecular view to final applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114605},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114605},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001122},
+author = {Rita de Cássia dos Reis Schmidt and Tiago Espinosa de Oliveira and Monique Deon},
+keywords = {Hybrid materials, Polymer matrices, Nanobiointerface, Designed material, Nanofiller, Interfacial interaction},
+abstract = {Polymeric nanocomposites have been valuable materials for the pharmaceutical and biomedical fields because they associate the unique properties of a material on a nanoscale with a polymeric matrix, with a synergistic outcome that improves their physical, chemical, and mechanical properties. Understanding the nature of the physical and chemical interactions and effects that take place at the polymer-nanomaterial interface is crucial to predict and explain how the nanocomposite behaves when set forth a health-related application and faces a biological interface. Therefore, this review aimed to assemble and examine experimental articles in which the molecular-level interaction between nanomaterials and polymer matrices were determinants of the biological outcome. For health applications, the nanocomposite systems were found to be most applied as antimicrobials, for tissue engineering, and for drug delivery. A plethora of biocompatible polymers have been reported, although for nanomaterials the most distinguished effects were attained with metal and metal oxide nanoparticles. The bioactivity of the nanocomposite was found to be dependent on features such as: colloidal size, release, and disintegration of the nanoparticle, controlled by the polymer matrix; hydrophilicity, degree of crosslinking, porosity, mechanical strength, and stability/responsiveness of the polymer, modified by the nanofiller; and the final charge and functional groups available at the whole nanocomposite surface. As a result, researchers can gather insights to design and characterize advanced polymeric nanocomposites with optimized performance for use in biomedical devices, drug delivery systems, and other therapeutic applications.}
+}

@@ -1,0 +1,13 @@
+@article{BHOWMICK2025106696,
+title = {Palabos Turret: A particle-resolved numerical framework for settling dynamics of arbitrary-shaped particles},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106696},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106696},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001562},
+author = {Taraprasad Bhowmick and Jonas Latt and Yong Wang and Gholamhossein Bagheri},
+keywords = {Terminal velocity, Free-fall, Lattice Boltzmann, Immersed boundary method, Irregular geometry, Rotational dynamics},
+abstract = {Particles transported in fluids are everywhere, occurring for example in indoor air, the atmosphere, the oceans, and engineering applications. In this study, a new three-dimensional numerical framework — the Palabos Turret is presented, which allows fully resolved simulations of the settling dynamics of heavy particles with arbitrary shapes over a wide range of particle Reynolds numbers. The numerical solver is based on the lattice Boltzmann method utilizing immersed-boundary approach and a recursive-regularized collision model to fully resolve the particle–fluid interactions. A predictor–corrector scheme is applied for the robust time integration of the six-degrees-of-freedom (6DOF) rigid-body motion. Particularly, the multi-scale nature arising from the long free-fall distances of a particle is addressed through a dynamic memory allocation scheme allowing for a virtually infinite falling distance. The proposed framework is validated using the analytical and experimental data of freely-falling spheres, ellipsoids, and an irregular volcanic particle in a wide range of Reynolds numbers between 5×10−1 and 4×104. For different Reynolds numbers and particle shapes considered, the Palabos Turret shows excellent agreement compared to the theoretical and experimental values of the terminal velocities with a median relative deviation of ±1.5% and a maximum deviation of ±5%. We further present new numerical and experimental results on the settling dynamics of particles of various shapes and sizes. The Palabos Turret also resolves the surface stress distribution on the particles with complex geometry, which enables an in-depth analysis of their translational and rotational dynamics. Therefore, this framework can be used as an invaluable tool to complement experimental data and to overcome the limitations of experiments and analytical models.}
+}

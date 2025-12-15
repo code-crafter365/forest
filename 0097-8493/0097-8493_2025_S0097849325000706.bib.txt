@@ -1,0 +1,13 @@
+@article{CHEN2025104229,
+title = {Parametric 3D human modeling with biharmonic SMPL},
+journal = {Computers & Graphics},
+volume = {129},
+pages = {104229},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104229},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325000706},
+author = {Yin Chen and Yuping Ye and Weiwei Xu and Qiliang Yang and Qizhen Zhou},
+keywords = {3D human body parametric models, Biharmonic, Data driven, Model training},
+abstract = {3D human body parametric models are high-level semantic information that can provide effective prior knowledge for 3D human body reconstruction. The existing parametric models all use manual rigid part segmentation, which is difficult to ensure rationality. Meanwhile, without considering the local similarity of parameters, it is difficult to ensure the generation of a smooth model. We propose parametric 3D human modeling with biharmonic SMPL to address the above issues. Firstly, based on the SMPL model, biharmonic constraints are introduced into the vertex skinning deformation and non-rigid deformation processes to ensure that the parameters satisfy local similarity. Then rigid parts are segmented automatically based on the optimized skinning weights. Finally, in order to increase the solution space and obtain more reasonable model parameters, we propose a coregistration framework from the original point cloud to accomplish parametric model training and mesh registration. During the coregistration process, biharmonic constraints are introduced, and the process is transformed into several optimization problems. Experiments conducted on the large dataset consisting of SCAPE, CAESAR and FAUST demonstrate the superiority of our model. Compared with manual segmentation methods, the skinning weight distribution and rigid part segmentation of our model are more reasonable. Compared with the SMPL model, the area with fitting errors exceeding 5 mm in our model decreases by 17.6% after skinning weight optimization. And the area with smoothing errors exceeding 5 mm decreases by 83.2% after optimization of non-rigid deformation parameters.}
+}

@@ -1,0 +1,13 @@
+@article{GHOUSE2025104522,
+title = {MOSAIC: A multi-view 2.5D organ slice selector with cross-attentional reasoning for anatomically-aware CT localization in medical organ segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104522},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104522},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002450},
+author = {Hania Ghouse and Muzammil Behzad},
+keywords = {Artificial Intelligence, Computer Vision, CT scan, 2D segmentation, 2.5D segmentation, Vision-language models, Medical image analysis, Medical AI, AI for Healthcare},
+abstract = {Efficient and accurate multi-organ segmentation from abdominal CT volumes is a fundamental challenge in medical image analysis. Existing 3D segmentation approaches are computationally and memory intensive, often processing entire volumes that contain many anatomically irrelevant slices. Meanwhile, 2D methods suffer from class imbalance and lack cross-view contextual awareness. To address these limitations, we propose a novel, anatomically-aware slice selector pipeline that reduces input volume prior to segmentation. Our unified framework introduces a vision-language model (VLM) for cross-view organ presence detection using fused tri-slice (2.5D) representations from axial, sagittal, and coronal planes. Our proposed model acts as an “expert” in anatomical localization, reasoning over multi-view representations to selectively retain slices with high structural relevance. This enables spatially consistent filtering across orientations while preserving contextual cues. More importantly, since standard segmentation metrics such as Dice or IoU fail to measure the spatial precision of such slice selection, we introduce a novel metric, Slice Localization Concordance (SLC), which jointly captures anatomical coverage and spatial alignment with organ-centric reference slices. Unlike segmentation-specific metrics, SLC provides a model-agnostic evaluation of localization fidelity. Our model offers substantial improvement gains against several baselines across all organs, demonstrating both accurate and reliable organ-focused slice filtering. These results show that our method enables efficient and spatially consistent organ filtering, thereby significantly reducing downstream segmentation cost while maintaining high anatomical fidelity.}
+}

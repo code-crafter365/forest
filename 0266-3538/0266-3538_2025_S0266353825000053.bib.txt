@@ -1,0 +1,13 @@
+@article{LI2025111037,
+title = {Insulation properties of polypropylene and silicone rubber modified by barium strontium titanate and interfacial charge accumulation properties},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111037},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111037},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000053},
+author = {Guochang Li and Xiaolong Chen and Hao Guo and Lu Liu and Shengtao Li and Yuanwei Zhu and Yanhui Wei},
+keywords = {Silicone rubber, Polypropylene, Conductivity properties, Interfacial charge accumulation},
+abstract = {The conductivity mismatch between the silicone rubber insulation (SiR) and the main insulation in the high-voltage cable accessory is an important reason of charge accumulation at the interface. The interfacial charge accumulation can cause electric field distortions, which leads to cable system failures. In this work, the high dielectric barium strontium titanate (BST) particles are used to modify SiR. The dielectric and conductive properties of BST/SiR and polypropylene (PP) materials are tested, and the interfacial charge accumulation properties of PP-BST/SiR are analyzed by Maxwell-Wagner polarization model. The experimental results show that the conductivity and interfacial charge density of PP and pure SiR increase gradually with the increase of temperature and electric field. With the gradual increase of BST content, the conductivity of BST/SiR shows an increasing trend and the interfacial charge accumulation density of PP-BST/SiR gradually decreases. When the BST content is 20 %, the interfacial charge density of PP-BST/SiR can be as low as 3.83 × 10−5C/m2, which is about 81 % less than that of PP-SiR. Meanwhile, when 5 % BST is added to the SiR matrix, the breakdown strength of the composite is increased by about 10 %. This work is an important reference for the development of environmentally friendly PP cables and the exploration of matching SiR materials.}
+}

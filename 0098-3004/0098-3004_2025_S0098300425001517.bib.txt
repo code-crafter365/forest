@@ -1,0 +1,13 @@
+@article{DELCHIARO2025106001,
+title = {BankfullMapper: a semi-automated MATLAB tool on high-resolution digital terrain models for spatio-temporal monitoring of bankfull geometry and discharge},
+journal = {Computers & Geosciences},
+volume = {205},
+pages = {106001},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.106001},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425001517},
+author = {Michele Delchiaro and Valeria Ruscitto and Wolfgang Schwanghart and Eleonora Brignone and Daniela Piacentini and Francesco Troiani},
+keywords = {Bankfull geometry, Bankfull discharge, LiDAR, Hydraulic hazard, Flood mapping, MATLAB functions},
+abstract = {Understanding river channel bankfull geometry is crucial for fluvial monitoring and flood prediction. The bankfull stage, typically reached every 1–2 years, marks when water spills onto the floodplain and strongly influences channel morphology. In our study, we present a novel approach for detecting river channel bankfull levels, utilizing a specialized MATLAB tool we developed, called BankfullMapper. The tool divides rivers into evenly spaced sections and computes a hydraulic depth function, plotting elevation above the thalweg against the area-to-width ratio. Bankfull levels are identified through (i) the lowest breakpoints from the thalweg or (ii) the most prominent breakpoints. Using Manning’s equation, the tool also estimates bankfull discharge. We applied the method to two Italian rivers with contrasting hydrological settings: the single-channel Potenza River and the braided-to-wandering Marecchia River. Potenza was used for checking the tool's spatial analysis capability, while Marecchia served for spatio-temporal testing (2009 vs. 2022). Modelled bankfull extents were validated against expert-mapped active channel polygons using accuracy, precision, sensitivity, and specificity metrics. For Potenza, bankfull discharges (33.9–52 m3 s⁻1) closely matched gauge data (2010–2023) using Gumbel distribution. The method showed high accuracy (0.90–0.92), sensitivity (0.94–0.95), and specificity (0.89–0.92), with moderate precision (0.53–0.61). For Marecchia, sensitivity ranged from 0.63 to 0.92, specificity from 0.73 to 0.89, accuracy from 0.80 to 0.83, and precision from 0.56 to 0.65. Overall, the semi-automated approach reliably captures spatial and temporal changes in bankfull geometry and discharge across diverse river systems. It performs best using the lowest morphological breakpoints and offers a robust, detailed tool for hydrological research and river management.}
+}

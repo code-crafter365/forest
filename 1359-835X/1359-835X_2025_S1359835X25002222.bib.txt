@@ -1,0 +1,13 @@
+@article{KHODAEI2025108928,
+title = {Vibration-Assisted Thermal Repairing (VATR) of thermoplastic composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108928},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108928},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002222},
+author = {Arash Khodaei and Farjad Shadmehri},
+keywords = {Vibration-Assisted Thermal Repairing (VATR), Thermoplastic composite repair, PEI interlayer film, Lap shear strength, Microstructure},
+abstract = {Repairing composite structures is crucial for extending their service life, and there is an increasing need for repair techniques compatible with thermoplastic composites (TPCs). As the significance of welding TPC joints grows, evaluating their repairability becomes essential. Therefore, this study focuses on developing an innovative method called vibration-assisted thermal repairing (VATR) for matrix repairing of carbon fiber/polyetheretherketone (CF/PEEK) thermoplastic joints by inserting an amorphous polyetherimide (PEI) resin at the interface of two CF/PEEK substrates. In this regard, initially, a four-layer CF/PEEK laminate was manufactured using Automated Fiber Placement (AFP). The CF/PEEK specimens were then stacked with an amorphous PEI layer inserted between them and welded at 310 °C under a constant pressure using two methods: traditional thermal repairing and vibration-assisted thermal repairing. To study the feasibility of VATR technique, a custom experimental setup was designed and built to enable controlled thermal welding, with and without the application of vibration. The effects of frequency and time on the lap shear strength and void content were then compared for both repair methods. Additionally, interface zone mapping was employed using a pseudo-coloring method to analyze the effect of vibration on polymer chain diffusion. Results from the VATR method revealed a stronger and more uniform repair interface, with greater diffusion of PEI in the parental CF/PEEK substrates compared to traditional thermal repairing. Overall, this new repair method demonstrated significant potential for TPC joint repair, showing a 22% improvement in shear strength and a 35% reduction in void content.}
+}

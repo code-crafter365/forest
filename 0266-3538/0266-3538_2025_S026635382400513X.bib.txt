@@ -1,0 +1,13 @@
+@article{MARTULLI2025110943,
+title = {Fully automated measurement of the spatial distribution of both fibre length and orientation from micro-CT images of short fibre reinforced polymers},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110943},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110943},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400513X},
+author = {L.M. Martulli and M. Sordi and A. Dinosio and A. Bernasconi},
+keywords = {Fibre segmentation, Fibre length distribution, Fibre orientation distribution, Short fibre reinforced plastics, Micro computed tomography},
+abstract = {The morphology of Short Fibre Reinforced Polymers (SFRPs) plays a fundamental role in determining their stiffness, strength and fracture behaviour. Measurements tools for the analysis of their microstructure are therefore of paramount importance. To this end, a fully automated algorithm able to segment single fibres from X-ray micro-computed tomography images was developed. This method was tailored to reconstruct the microstructure of large volumes of material; in particular, to acquire fibre length, position and orientation, even dealing with low-resolution images. The algorithm was tested on different specimens of short glass fibre-reinforced polyamide and it was validated comparing the fibre orientation with the one obtained with commercial software analysis and the fibre length with the experimentally determined one. Therefore, the proposed algorithm allows to easily identify microstructural trends without requiring the usual complex evaluating procedures.}
+}

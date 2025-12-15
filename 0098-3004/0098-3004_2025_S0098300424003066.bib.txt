@@ -1,0 +1,13 @@
+@article{ORE2025105823,
+title = {SeisSegDiff: A label-efficient few-shot texture segmentation diffusion model for seismic facies classification},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105823},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105823},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003066},
+author = {Tobi Ore and Dengliang Gao},
+keywords = {Seismic facies, Diffusion model, Deep learning, Seismic segmentation, Semi-supervised learning},
+abstract = {Traditional seismic facies analysis, which depends on manual interpretation of seimic amplitude, encounters difficulties because of the complexity, volume, and limited resolution of the seismic data. To tackle these problems, seismic texture based deep learning has emerged as a highly promising technique. However, the reliance on extensive labeled datasets poses a significant hurdle. Here we introduce SeisSegDiff, an innovative approach to seismic texture classification that combines diffusion probabilistic models with deep learning models. We use diffusion models to enhance the generalization capabilities and accuracy of deep learning models for seismic facies segmentation. The proposed method utilizes the feature maps obtained from the intermediate layers of a Unet denoising network that estimates the Markov phase of the reverse diffusion process, serving as seismic image representations. These feature maps serve as high-level semantic information for addressing deep learning seismic interpretation challenges, hence reducing the requirement for large, labeled datasets. We assess the effectiveness of SeisSegDiff by conducting experiments on two seismic benchmark datasets from the Netherlands F3 and the Parihaka Basin. The results demonstrate the exceptional performance of our method in defining subsurface facies boundaries and structures. The ability of SeisSegDiff to operate with minimal labeled datasets (∼<1% inlines) further emphasizes its potential for practical field deployments. Our work will draw the geophysical deep learning community closer to the goal of creating a unified global seismic texture model for automatic seismic interpretation and cost effective subsurafe characterization.}
+}

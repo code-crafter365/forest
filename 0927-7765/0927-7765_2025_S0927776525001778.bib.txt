@@ -1,0 +1,13 @@
+@article{KONG2025114670,
+title = {Metal-organic frameworks-molecularly imprinted polymers (MOF-MIP): Synthesis, properties, and applications in detection and control of microorganisms},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114670},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114670},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001778},
+author = {Yijie Kong and Yuhan Sun and Zhengrong Tian and Sha Liu and Ning Li},
+keywords = {Molecularly imprinted polymers, Metal-organic frameworks, Microorganism, Detection, Control},
+abstract = {Microbial contamination poses a significant threat to human health, food safety, and the ecological environment. Its rapid spread and potential pathogenicity create an urgent global challenge for efficient detection and control. However, existing methods have several shortcomings such as traditional techniques like culture methods and polymerase chain reaction (PCR) are time-consuming, while nanomaterials and aptamers often lack selectivity, stability, and affordability. Additionally, conventional disinfectants can be inefficient, lead to drug resistance, and harm the environment. To address these challenges, developing new materials and technologies that are efficient, sensitive, and stable is crucial for microbial detection and control. In this context, metal-organic frameworks (MOF) and molecularly imprinted polymers (MIP) have emerged as promising functional materials due to their unique structural advantages. The high porosity of MOF provides ample imprinting sites for MIP, while MIP enhance selective adsorption and inactivation of target microorganisms by MOF. This synergistic combination results in a composite material that offers a novel solution for microbial detection, significantly improving sensitivity, selectivity, antibacterial efficiency, and environmental friendliness. This paper reviews the synthesis strategies of metal-organic frameworks-molecularly imprinted polymers (MOF-MIP), highlighting their structural properties and innovative applications in microbial detection, which aim to inspire researchers in related fields. Looking ahead, future advancements in material science and biotechnology are expected to lead to widespread use of MOF-MIP composites in food safety, environmental monitoring, medical diagnosis, and public health—providing robust support against microbial pollution. By studying the collaborative mechanisms of MOF and MIP while optimizing design processes will enhance precision speed cost-effectiveness in microbial detection technology significantly contributing to human health and environmental safety.}
+}

@@ -1,0 +1,13 @@
+@article{MAO2025118279,
+title = {Decomposition-enhanced parameterized physics-informed neural network for uncertainty-aware interior acoustic analysis},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118279},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118279},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005511},
+author = {Runpeng Mao and Xin Qiang and Chong Wang},
+keywords = {Interior acoustic field prediction, Parameterized modeling, Physics-informed neural networks, Uncertain-but-bounded parameters},
+abstract = {Interior acoustic analysis considering uncertain-but-bounded parameters plays a pivotal role in aircraft and automotive noise reduction design, offering essential insights for robust acoustic optimization. Traditional iteration-based uncertainty propagation methods suffer from the inherent trade-off between accuracy and computational efficiency. To address the limitation, this paper proposes a versatile framework to perform uncertainty propagation analysis at multiple locations effectively with the aid of physics-informed neural network (PINN). For basic problems with regular geometric regions, a parameterized PINN model consisting solely of a single neural network is employed for rapid computation. For complex problem with irregular geometric region, a modified parameterized PINN modeling method integrating parametric interpolation and remainder term neural network is proposed, significantly enhancing the expressive capability and thereby improving prediction accuracy. Eventually, a two-dimensional rectangular mathematical example and a three-dimensional aircraft fuselage engineering application are investigated to validate the effectiveness of the proposed framework.}
+}

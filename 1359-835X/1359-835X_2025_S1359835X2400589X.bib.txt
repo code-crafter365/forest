@@ -1,0 +1,13 @@
+@article{QIN2025108591,
+title = {Phenyl group-based fluorinated polymer dispersed liquid crystal composite films with high contrast ratio and low driving voltage},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108591},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108591},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400589X},
+author = {Jing Qin and Chao Chen and Baohua Yuan and Longxiang He and Xian He and Zuowei Zhang and Luoning Zhang and Cheng Zou and Yanzi Gao and Meina Yu and Huai Yang},
+keywords = {Phenyl acrylate, Fluorinated monomers, Polymer dispersed liquid crystal, Electro-optical properties},
+abstract = {Polymer dispersed liquid crystal (PDLC) is a type of composite materials which is usually obtained by the phase separation during polymerization of liquid crystal/monomer mixtures, and it has shown potential applications in smart windows. In this work, the rigidity and flexibility of phenyl acrylate monomers were regulated by varying the number of benzene rings and their influences on the morphology and electro-optical properties of PDLC were discussed. The results showed that the PDLC films formed by monomers with one benzene ring possessed better performance. In addition, fluorination of monomers with a benzene ring could further enhance overall performance. The contrast ratio was significantly improved from 138 to 175, but the driving voltage is maintained at a lower value (6.9 V). This work provides a choice for optimizing electro-optical properties of PDLC films.}
+}

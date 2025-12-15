@@ -1,0 +1,13 @@
+@article{WANG2025109063,
+title = {Quantitative model for yielding process of particle reinforced aluminum matrix composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109063},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109063},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003574},
+author = {H. Wang and Z.J. Zhang and R. Liu and S.Z. Zhu and D. Wang and J.P. Hou and B.S. Gong and X.H. Zhou and Z.Y. Ma and X.T. Li and Z.F. Zhang},
+keywords = {Aluminum matrix composite, Yielding, Elastic modulus, Finite element simulations, Quantitative model},
+abstract = {This study investigates the yielding behaviors of ceramic particle-reinforced Al matrix composites in comparison to their matrix. The findings reveal that the yielding of composites occurs in a more gradual manner than that of the matrix. By designing loading–unloading-reloading tests and conducting simulations, we systematically excluded various influencing factors, including particle cracking, interface debonding, and stress concentration at the sharp corners of particles. Consequently, the observed yielding phenomenon can be attributed to the redistribution of stress and strain in the Al matrix resulting from the difference in modulus between the Al matrix the ceramic phases. To quantitatively reveal the quantitative relationship between stress and strain during the yielding stage, a gradual yielding (GY) model is further established based on the composite modulus integral model and the exponential strain-hardening model proposed in our previous studies. The experimental results of the Al matrix and three composites with different particle sizes show high consistency with the GY model, verifying the rationality of the current model. This research fills a theoretical gap in understanding the GY behavior of composites and may be beneficial for the design and fabrication of high-performance composite materials in future.}
+}

@@ -1,0 +1,13 @@
+@article{CHEN2025104436,
+title = {UM-Mamba: An efficient U-network with medical visual state space for medical image segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104436},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104436},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001596},
+author = {Hejian Chen and Qing Liu and Zhongming Fu and Li Liu},
+keywords = {Mamba, Medical image segmentation, State space models, U-net},
+abstract = {Designing computationally efficient network architectures remains a persistent necessity in medical image segmentation. Lately, State Space Models (SSMs) are emerging in the field of deep learning and gradually becoming effective basic building layers (or blocks) for constructing deep networks. SSMs not only effectively capture long-distance dependencies but also maintain linear computational complexity relative to input sizes. However, the non-sequential structure of 2D images limits its application in visual tasks. To solve this problem, this paper designs a Medical Visual State Space (MVSS) block with 2D Spiral Selective Scanning (SSS2D) module as the core, and constructs a U-shaped medical image segmentation network called UM-Mamba. The SSS2D module traverses the samples through four spiral scanning paths, which makes up for the deficiency of Mamba architecture in the non-sequential structure of 2D images. We conduct experiments on the Kvasir-SEG and ISIC2018 datasets, and achieve the best results in Dice, IoU and MAE by fine-tuning, which proves that UM-Mamba has the leading level in the experimental datasets.}
+}

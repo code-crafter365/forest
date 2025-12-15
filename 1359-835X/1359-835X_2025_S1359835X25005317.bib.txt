@@ -1,0 +1,13 @@
+@article{JI2025109237,
+title = {Mechanical sintered solid/liquid interpenetrating conductive network for aircraft icing protection and real-time temperature monitoring},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109237},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109237},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005317},
+author = {Zemin Ji and Xiaobin Huang and Xiangzhao Wang and Haoqiang Sheng and Shiyu Xu},
+keywords = {Liquid metal, De-icing, Electrothermal, Temperature monitoring, Electromagnetic interference shielding},
+abstract = {The complex environment of ice formation and electromagnetic interference severely impairs the normal functioning of aircraft components. Conventional aircraft electric heating elements suffer from a lack of real-time temperature monitoring of heating and are prone to electromagnetic interference during operation. Therefore, the development of an aircraft outer protected surface film with both temperature monitoring and electromagnetic shielding functions is of great significance. In this work, a dual-layer solid/liquid interpenetrating conductive network composite film was designed, with local mechanical sintered liquid metal (LM)/silicon carbide as the upper-layer coating and comprehensive mechanical sintered LM/PEDOT/fabric as the conductive substrate. Benefiting from the combined effect of the upper surface coating with a thermal conductivity of 1.48 W/mK and the underlying substrate with an electrical conductivity of 1.1 × 103 S/m, the composite coating exhibits excellent electrothermal de-icing and temperature monitoring performance. The composite film, with its outstanding Joule heating characteristics, reaching 89.4 °C within 60 s at a low voltage of 3 V and has the capability of static and dynamic de-icing in −15 ℃ environments. The composite film, with its electromagnetic shielding capability of 37.9 dB at 8.2–12.4 GHz (X-band) and flexibility, can provide electromagnetic protection for the entire wing. This work pioneers a material-level solution for the design of a new-generation aircraft electric heating system.}
+}

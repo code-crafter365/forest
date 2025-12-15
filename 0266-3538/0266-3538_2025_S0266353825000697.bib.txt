@@ -1,0 +1,13 @@
+@article{AZADI2025111101,
+title = {Bayesian-optimized 1D-CNN for delamination classification in CFRP laminates using raw ultrasonic guided waves},
+journal = {Composites Science and Technology},
+volume = {264},
+pages = {111101},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111101},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000697},
+author = {Shain Azadi and Yoji Okabe and Valter Carvelli},
+keywords = {1D-CNN, Guided waves, Deep learning, Bayesian optimization, CFRP, Delamination},
+abstract = {This study proposes a Bayesian-optimized shallow 1D-Convolutional Neural Network (1D-CNN) for classifying delamination in Carbon Fiber Reinforced Polymer (CFRP) laminates using raw Laser Ultrasonic Guided Wave (LUGW) data. The dataset comprises over 2 million waveforms from ten cross-ply CFRP laminates, including one undamaged and nine with delamination of varying sizes and depths, measured from three directions, totaling 30 distinct classes. A systematic approach combining Monte Carlo Random Sampling, Random Forest Emulator-based sensitivity analysis, and Tree-Structured Parzen Estimator (TPE)-Bayesian Optimization with Hyperband Pruning was employed to fine-tune critical hyperparameters and design a lightweight, efficient architecture. The optimized 1D-CNN exhibited near-perfect performance, as evidenced by Stratified K-Fold Cross-Validation (SKCV) and the proposed Inverse SKCV, with 99.99 % accuracy, precision, recall, F1-Score, and AUC-ROC in multi-class classification. The model's effectiveness in generalizing without the need for signal preprocessing is a result of regularization techniques such as Dropout, Elastic Net, Early Stopping, and a Reduce-On-Plateau learning rate. Furthermore, its lightweight architecture makes it suitable for deployment on consumer-level hardware, with strong potential for future real-time monitoring applications.}
+}

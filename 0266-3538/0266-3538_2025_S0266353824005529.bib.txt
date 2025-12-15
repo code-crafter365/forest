@@ -1,0 +1,13 @@
+@article{LI2025110982,
+title = {Multi-scale numerical calculations for the interphase mechanical properties of carbon fiber reinforced thermoplastic composites},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110982},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110982},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005529},
+author = {Zheng Li and Bo Wang and Peng Hao and Kaifan Du and Zebei Mao and Tong Li},
+keywords = {Carbon fiber-reinforced thermoplastic composites, Interphase, Multi-scale analysis, Molecular dynamics, Finite element, Polyphenylene sulfide},
+abstract = {This study employs a multi-scale numerical calculations method based on molecular dynamics and finite element modeling to investigate the stress transfer mechanisms within the interphase of unidirectional (UD) carbon fiber reinforced thermoplastic polymers (CFRTP) composites, based on which exponential decay model (EDM) was developed to predict the interphase strength and modulus. Revealing that the interphase strength and modulus are approximately 0.5–0.7 times that of the fibre/interphase interface or 1.2 to 1.7 times matrix. The EDM was validated using a coupled experimental-representative volume element modeling method. By calibrating the interphase fracture energy, the mechanical properties predicted by the EDM aligned well with the experimental results of UD CFRTP composites. Finally, the damage evolution and failure modes were analyzed, revealing that the transverse failure of UD CFRTP composites is dominated by the interphase, while longitudinal failure is primarily governed by the fibers, consistent with scanning electron microscope observations. This confirms the accuracy of the EDM, and application this method can be used to quickly and accurately assess the strength and modulus of the interphase in CFRTP composites to significantly reduce the numerical analysis time.}
+}

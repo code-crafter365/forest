@@ -1,0 +1,13 @@
+@article{BIONDIC2025106783,
+title = {A goal-oriented adaptive sampling procedure for projection-based reduced-order models with hyperreduction},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106783},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106783},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002439},
+author = {Calista Biondic and Siva Nadarajah},
+keywords = {Hyperreduction, Proper orthogonal decomposition (POD), Petrov–Galerkin projection, Projection-based model, Reduced-order model (ROM), Adaptive sampling, Error estimation},
+abstract = {Projection-based reduced-order models (PROMs) are an invaluable tool for efficiently generating approximate solutions to high-dimensional, differential equation-based computational models across many applications. In the field of modern aircraft design, they are used to substitute costly computational fluid dynamics (CFD) simulations. This work builds on a previously developed goal-oriented adaptive sampling procedure that uses adjoint-based dual-weighted residual (DWR) error indicators to guide snapshot selection. This ensures the construction of an efficient PROM in addition to providing a way to estimate the expected error introduced in the functional of interest. The key contribution of this work is the integration of hyperreduction into this goal-oriented framework—both in the ROM solution process and in the DWR error estimation. This allows the construction of a hyperreduced-order model (HROM), through the use of the energy-conserving sampling and weighting (ECSW) method, that achieves the same functional error tolerance as a standard ROM, but at a significantly lower computational cost. The approach is demonstrated on a NACA 0012 airfoil with various problem configurations. The results indicate that despite the increased basis size needed to offset the additional error introduced by hyperreduction, the updated procedure enables efficient offline HROM construction and accurate online predictions. The results in this paper are limited to steady-state CFD problems, but the approach can be extended to unsteady CFD problems and other engineering problems of interest.}
+}

@@ -1,0 +1,13 @@
+@article{ZHU2025114511,
+title = {A novel strategy for addressing post-surgical abdominal adhesions: Janus hydrogel},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114511},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114511},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000189},
+author = {Xinhui Zhu and Lipeng Zhang and Yingcheng Qi and Jingyu Zhang and Fuxin Tang and Zhen Zong},
+keywords = {Janus hydrogel, Abdominal adhesions, Mechanism of action, Preparation method, Form of application},
+abstract = {Abdominal adhesions are a frequent complication after abdominal surgery, which can cause significant pain and burden to patients. Despite various treatment options, including surgical intervention and pharmacotherapy, these often fail to consistently and effectively prevent postoperative abdominal adhesions. Janus hydrogel is famous for its asymmetric characteristics, which shows great prospects in the prevention and treatment of abdominal adhesion. This review outlines the preparation methods, mechanisms of action, and key applications of Janus hydrogel in the prevention of postoperative abdominal adhesions. Furthermore, we examine the current limitations of the Janus hydrogel anti-adhesion barrier and explore potential future directions for its development.}
+}

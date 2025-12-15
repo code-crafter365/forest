@@ -1,0 +1,13 @@
+@article{KAHLA2025109153,
+title = {Mechanical performance and reinforcing potential of spun cellulose filaments in bio-based epoxy composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109153},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109153},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004476},
+author = {Hiba Ben Kahla and Luísa Rosenstock Völtz and Dickens Ovino Agumba and Janis Varna and Juha Salmela and Fredrik Forsberg and Henrik Lycksam and Kristiina Oksman},
+keywords = {Biocomposites, Cellulose filaments, X-ray microtomography, Micromechanical modeling},
+abstract = {Cellulose filaments with a unique microtape-like shape (width/thickness ratio ≈ 40) were studied for their potential as reinforcement in bio-epoxy resin with the hypothesis that their gross-sectional geometry would allow for efficient stress transfer and a higher transverse modulus. The microstructure of the spun filaments, orientation of the cellulose fibrils within them, and their mechanical properties were analyzed. Unidirectional (UD) composites with bio-epoxy resin were fabricated using vacuum infusion resulting in filament content of ≈ 23 vol% and low density 1.18 gcm−3. Wide-angle X-ray scattering showed that the cellulose fibrils were relatively well aligned in the filament axis, having an orientation factor of 0.78. The axial filament modulus was measured to 33 GPa, the in-plane transverse modulus to 12 GPa and the axial strength was approx. 380 MPa. The longitudinal E-modulus of the UD composites was measured to 10 GPa and the strength to 120 MPa, both 3 times higher than the used bio-epoxy agreeing well with the estimated values. The transverse elongation at break of the UD composite was higher than typical values reported for glass-fiber epoxy composites, but the effect of filament shape on the transverse modulus was less significant than the predicted 4.5 GPa but still better than estimated for circular fibers. The lower property is likely due to the low filament content and the partially uneven in-plane filament arrangement. Simulations based on shear stress analysis suggest that the transverse properties of the UD composite could be improved by ensuring that the filament planes remain predominantly parallel in-plane during fabrication, and the overall mechanical properties could be improved by increasing the filament content.}
+}

@@ -1,0 +1,11 @@
+@article{YU2025114894,
+title = {Corrigendum to “Hyaluronic acid coating on the surface of curcumin-loaded ZIF-8 nanoparticles for improved breast cancer therapy: An in vitro and in vivo study” [Colloid. Surf. B Biointerfaces 203 (2021) 111759 /COLSUB-D-20–01957]},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114894},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114894},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004011},
+author = {Shaoxuan Yu and Shanyu Wang and Zhike Xie and Shuyan Yu and Ling Li and Haifang Xiao and Yuanda Song}
+}

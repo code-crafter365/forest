@@ -1,0 +1,13 @@
+@article{HAN2025118038,
+title = {Multi-material topology optimization based on finite strain subloading surface nonlocal elastoplasticity},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118038},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118038},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500310X},
+author = {Jike Han and Yuki Yamakawa and Kazuhiro Izui and Shinji Nishiwaki and Kenjiro Terada},
+keywords = {Topology optimization, Multi-material, Plasticity, Finite strain, Subloading surface model},
+abstract = {This study is dedicated to the multi-material topology optimization formulation (MMTO) for finite strain nonlocal elastoplasticity. The subloading surface model is newly incorporated into the primal problem to achieve the gradual change of the deformation process from pure elastic to material-specific plastic hardening. The stress–strain relationship of the model is a smooth continuous function, which is beneficial for elastoplastic topology optimization since the resulting continuous tangent is used in the adjoint problem to determine the sensitivity. Also, the nonlocal plastic modeling is introduced to resolve mesh-dependency issues in the evolution of plastic deformation. In addition, in order to maintain computational stability and to avoid unrealistic plastic deformation occurring in voids (ersatz material), the concept of interpolating energy densities is introduced, by which linearly elastic material is chosen to represent voids. The continuous adjoint method is employed to derive the governing equations and sensitivity of the adjoint problem, and the resulting equations are valid at any position, boundary, or time in the continuum without relying on any discretization. An arbitrary number of design variables can be considered for multiple materials in the optimization problem, and by referring to the derived sensitivity, the multiple reaction–diffusion equations are solved to update the material distribution and configuration. The first numerical example demonstrates the “oscillation of deformation states” caused by the conventional plastic model and shows how the subloading surface model effectively resolves this issue, achieving stable optimization processes. Also, the second example presents the unconventional deformation magnitude-dependent stiffness maximization problems with multiple materials, in which the optimal designs are realized by referring to the same elastic but different plastic material properties.}
+}

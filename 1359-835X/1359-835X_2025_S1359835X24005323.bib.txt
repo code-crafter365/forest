@@ -1,0 +1,13 @@
+@article{WANG2025108534,
+title = {Insert-injection moulding and post-thermal treatment of hybrid continuous and discontinuous glass-fibre-reinforced polyamide composite products},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108534},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108534},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24005323},
+author = {Jian Wang and Hang Li and Fuhai Li and Chunfeng Fan and Tao Liu and Da Wang},
+keywords = {Fibre-reinforced thermoplastics, Direct interfacial bonding, Insert-injection moulding, Post-thermal treatment},
+abstract = {Insert-injection moulding enables direct interfacial bonding of hybrid continuous and discontinuous fibre-reinforced thermoplastic products and simultaneously influences dimension stability and mechanical performance. This study investigates the insert-injection moulding of short-glass-fibre-reinforced polyamide 6 (SGF-PA6) bonded with 8 wt% unidirectional continuous-glass-fibre-reinforced polyamide 6 (CGF-PA6), focusing on the dimensional and mechanical properties of the hybrid CGF-SGF-PA6 products, which are essential for engineering applications. Orthogonal experiments revealed that injection melt temperature and pack pressure significantly impact warping deformation and bending properties. The study found strong correlations between dimensional stability and mechanical strength, with interfacial bonding influencing mechanical strength only. Optimised injection moulding reduced warpage to below 0.1 mm, while increasing bending strength and modulus to 400 MPa and 10 GPa, respectively. Post-thermal treatment further enhanced mechanical properties but led to increased warpage. These findings highlight an integrative control strategy for dimensional and mechanical properties of insert-injection moulded hybrid continuous and discontinuous fibre-reinforced thermoplastic products.}
+}

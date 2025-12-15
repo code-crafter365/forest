@@ -1,0 +1,13 @@
+@article{ZHAN2025108812,
+title = {Optically/thermally dual-responsive shape memory superhydrophobic surfaces with advanced multi-functionalities},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108812},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108812},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500106X},
+author = {Yanlong Zhan and Zhenqian Pang and Gang Tan},
+keywords = {Stimulus response, Superhydrophobic, Dual-responsive, Shape memory, Wettability control},
+abstract = {Intelligent responsive surfaces hold immense potential for cutting-edge technological applications. In this study, we report the fabrication of optically and thermally dual-responsive shape memory superhydrophobic surfaces, achieved through the synergistic integration of 3D printing, magnetron sputtering, and chemical modification techniques. These multifunctional surfaces exhibit exceptional shape memory properties, activated by optical and thermal stimuli, enabling reversible transitions in both surface structure and wettability. Furthermore, they demonstrate superior photothermal conversion efficiency and serve as programmable, rewritable platforms for precise control over liquid directional transport and tunable wetting gradients, ranging from superhydrophobicity to superhydrophilicity. Notably, the surfaces dynamically adjust their structural color via orientation changes in the array, all while maintaining outstanding shape memory stability and durability. The versatile applications of these intelligent surfaces encompass directional fluid transport, wetting gradient manipulation, wettability switching, programmable interfaces, structural coloration, and even extend to aerospace technologies, such as foldable antennas. This work represents a significant advancement in the development of smart responsive surfaces, highlighting their broad applicability and transformative potential across diverse technological domains.}
+}

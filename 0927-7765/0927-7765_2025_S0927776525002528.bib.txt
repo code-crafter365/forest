@@ -1,0 +1,13 @@
+@article{HU2025114745,
+title = {Injectable laponite nanocomposite hydrogel with synergistic antibacterial and odontogenic activity for endodontic regeneration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114745},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114745},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002528},
+author = {Yijie Hu and Yongbin Wang and Yuqing Liu and Jiayun Dai and Juan Wang and Caoyun Ju},
+keywords = {Endodontic regeneration, Laponite-based ternary nanocomposite, Hydrogel, Anti-bacteria, Odontogenic differentiation},
+abstract = {Persistent pulpitis often leads to irreversible dentin defects and pulp necrosis, posing significant challenges for functional dental restoration. To address the critical limitation of insufficient odontogenic differentiation in dental pulp stem cells (DPSCs), we develop an injectable photo-crosslinking methacrylated hyaluronic acid hydrogel (PLSr2+@HAMA) containing laponite-based ternary nanocomposites which self-assemble by laponite, strontium ions (Sr2+), and antibacterial peptide P-113. We demonstrate that PLSr2+@HAMA features three distinctive advantages: (1) Unique injectability enabling minimally invasive delivery and UV-triggered in situ gelation for anatomical adaptation; (2) Sustained co-release of antimicrobial peptide P-113 and bioactive strontium ions through laponite-mediated orchestrated delivery; (3) Multi-ion and P-113 synergistic action achieving simultaneous infection control and dentin regeneration in several in vitro and in vivo models, promoting endodontic regeneration. By integrating antibacterial action with DPSCs modulation in a single minimally invasive platform, this strategy pioneers a new paradigm for comprehensive endodontic regeneration, demonstrating significant translational potential for inflammatory dental pulp therapy.}
+}

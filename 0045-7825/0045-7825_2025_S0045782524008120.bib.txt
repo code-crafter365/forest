@@ -1,0 +1,13 @@
+@article{KRYSL2025117558,
+title = {Use of coherent node clusters as coarse grid in 2-Level Schwarz solver in finite element solid and structural mechanics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {434},
+pages = {117558},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117558},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008120},
+author = {Petr Krysl},
+keywords = {Conjugate gradient, Domain decomposition, Additive Schwarz method, Two-level preconditioner, Almost incompressible elasticity, Shell analysis},
+abstract = {The Coherent Nodal Cluster (CoNC) model-reduction technique is used to construct an algebraic transformation from nodal degrees of freedom to generalized degrees of freedom for compact (coherent) clusters of nodes. The novel idea here is to construct a coarse-grid preconditioner for a conjugate gradient solver based on the CoNC technique, and integrate it into a two-level Schwarz algorithm. The finite element grid is divided into overlapping partitions for the fine-grid part of the preconditioner (level 1). Grouping of the nodes into clusters, independent of the fine-grid partitioning, is employed to develop a global Galerkin approximate solver by setting up a transformation matrix between the original degrees of freedom and generalized degrees of freedom associated with polynomial basis functions within each cluster (level 2). Performance of the proposed methodology in terms of strong and weak scaling is tested on compressible and nearly incompressible elasticity in three dimensions, and general three-dimensional shell problems.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025114606,
+title = {HucMSC-Ex alleviates inflammatory bowel disease by regulating O-GlcNAcylation modification of RACK1 in intestinal epithelial cells},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114606},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114606},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001134},
+author = {Ziyue Liu and Jintao Yuan and Muhammad AzharUd Din and Yiqing Tian and Fei Mao},
+keywords = {IBD, HucMSC-Ex, O-GlcNAc, EMT, RACK1},
+abstract = {Inflammatory Bowel Disease (IBD) is a chronic autoimmune disorder that severely affects the gastrointestinal tract and is difficult to cure. This study explored the mechanism by which human umbilical cord mesenchymal stem cell-derived exosomes (HucMSC-Ex) alleviate IBD through O-GlcNAc glycosylation modification and the expression of related proteins. The study analyzed the effects of HucMSC-Ex on the inhibition of pro-inflammatory factors and promotion of intestinal epithelial cells regeneration in vitro and in vivo, with a focus on the role of the O-GlcNAc glycosylation of the RACK1 protein. The findings indicated that HucMSC-Ex reverses epithelial-mesenchymal transition (EMT) by upregulating O-GlcNAc glycosylation levels and effectively alleviates IBD symptoms and inflammatory responses in mouse intestinal epithelial cells. By modulating O-GlcNAc glycosylation, HucMSC-Ex exhibits significant therapeutic potential in immune regulation and gut microbiota remodeling, offering new perspectives for IBD treatment.}
+}

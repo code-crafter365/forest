@@ -1,0 +1,11 @@
+@article{BRAGHIN2025118909,
+title = {Corrigendum to “Evaluation of a genetic algorithm for constrained multi-objective structural optimization in laminated glass design” [Compos. Struct. 354 (2025) 118773]},
+journal = {Composite Structures},
+volume = {360},
+pages = {118909},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118909},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000741},
+author = {Andrea Braghin and Laura Galuppi and Gianni Royer-Carfagni}
+}

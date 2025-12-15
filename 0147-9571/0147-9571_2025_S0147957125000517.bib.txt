@@ -1,0 +1,13 @@
+@article{SAFAROV2025102343,
+title = {Prevalence, risk factors, and phylogeny of Toxascaris leonina in stray dogs and cats in Tashkent region, Uzbekistan, with a note on co-infection with Toxocara canis and Toxocara cati},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {120},
+pages = {102343},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102343},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125000517},
+author = {Alisher Safarov and Djalaliddin Azimov and Nozima Mukhitdinova and Haqqul Abdukholikov and Firuza Akramova and Abdurakhim Kuchboev and Adolat Mirzaeva and Hanène Belkahia and Mourad {Ben Said}},
+keywords = {,  spp., Domestic carnivores, Prevalence, Phylogeny, Tashkent region, Uzbekistan},
+abstract = {Toxascaris leonina is a significant parasitic agent, affecting domestic carnivores, with implications for public health. This study investigates the prevalence, risk factors, and phylogenetic relationships of T. leonina in stray dogs and cats in Tashkent, Uzbekistan, while also examining co-infection rates with Toxocara canis and Toxocara cati. A cross-sectional study was conducted in the Tashkent Region of Uzbekistan, focusing on stray dogs and cats. From February 2023 to September 2024, 180 dog and 84 cat necropsies were collected for analysis. Parasitological examinations were performed to identify T. leonina, T. canis, and T. cati. Epidemiological data, including species, sex, age group, and collection location, were recorded. Molecular analysis was conducted on selected T. leonina specimens to assess genetic variations, and a phylogenetic analysis was performed. The study revealed a high prevalence of T. leonina in stray dogs (95 %) and cats (63.1 %), with significantly different co-infection patterns identified: 78.89 % of dogs were co-infected with T. canis, while 28.57 % of cats had co-infections with T. cati. Notably, in dogs, the infection rate of T. leonina among different age groups was statistically significant. Genetic analysis revealed 100 % nucleotide identity among local T. leonina isolates. The phylogenetic analysis indicated four distinct clusters within the T. leonina group, with our isolates exclusively forming a cluster, which is genetically close to an isolate infecting a dog from Australia. The findings highlight the urgent need for monitoring and control strategies for T. leonina and its co-infections in stray carnivores in Tashkent, Uzbekistan. Understanding the genetic diversity and risk factors associated with these infections will aid in developing effective public health interventions and inform future research in the region.}
+}

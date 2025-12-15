@@ -1,0 +1,13 @@
+@article{QIN2025114926,
+title = {Artificial optical nociceptors utilizing photoelectric synaptic transistors},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114926},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114926},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004333},
+author = {Gexun Qin and Yanmei Sun and Xinru Meng},
+keywords = {Optoelectronic synaptic transistor, Zinc oxide, Sodium alginate, Optical nociceptors},
+abstract = {As a critical neural component for detecting noxious stimuli, pain receptors are capable of sensing external harmful stimuli and promptly transmitting signals to the brain, thereby enabling the human body to react in a timely manner to avoid potential risks. Consequently, integrating pain receptors into bionic devices can significantly enhance storage density and processing efficiency, as well as improve information transmission, thus markedly boosting the performance of these devices. In this study, the solution method is employed to fabricate optoelectronic synaptic transistor that exhibit bipolar behavior, excellent gate control, and negative photoconductivity. These transistors can emulate the plasticity of biological synapses under various light and electrical stimuli. Based on this device, artificial optical nociceptors that possess biomimetic properties similar to human skin have been developed, mimicking the response of human skin to UV stimulation. Moreover, these artificial photoreceptors can activate a defense mechanism to repair themselves when UV intensity reaches a certain threshold. This innovation offers new insights into the development of photosensitive devices and holds promise for applications in neuromorphic computing, facilitating brain-like computing and intelligent information processing, and advancing artificial intelligence technology.}
+}

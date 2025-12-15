@@ -1,0 +1,13 @@
+@article{AWREJCEWICZ2025118728,
+title = {Stability and bifurcation analysis of simply supported rectangular nanoplate embedded on visco-Pasternak foundation based on first-order shear deformation theory},
+journal = {Composite Structures},
+volume = {354},
+pages = {118728},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118728},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008560},
+author = {Jan Awrejcewicz and Grzegorz Kudra and Olga Mazur},
+keywords = {Nonlinear dynamics, The nonlocal elasticity theory, von Kármán equations, First-order shear deformation theory, Bifurcation study, The Bubnov–Galerkin method, Floquet theory, Poincare sections, Lyapunov exponents},
+abstract = {Vibrations of simply supported nanoplates embedded on visco-Pasternak foundation and stressed by in-plane periodic forces are investigated. The governing size-dependent equations employ the first-order shear deformation theory, nonlinear von Kármán strains, and the nonlocal elasticity theory. Reducing the governing system is carried out by the Bubnov–Galerkin method, which is based on two-mode model, thus the resulting system contains two ordinary differential equations with size- and time-dependent coefficients. Analysing the linearized system, the stability of the nanoplate structure is studied depending on the foundation parameters, force parameters and small-scale parameter. Nonlinear dynamics approaches are employed to determine the nature of vibration after the loss of stability. Time history, Poincare section, Lyapunov exponent are analysed for chosen values of excitation parameters, visco-Pasternak foundation parameters to indicate small-scale effects and nonlinear effects. The novelty of the work consists of the combined application of the nonlocal theory, first-order shear deformation theory, Floquet theory, methods of nonlinear dynamics and obtaining new results by a numerical experiment.}
+}

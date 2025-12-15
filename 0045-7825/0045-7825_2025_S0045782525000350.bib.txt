@@ -1,0 +1,13 @@
+@article{XU2025117763,
+title = {Superconvergent isogeometric collocation with box splines},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117763},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117763},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000350},
+author = {Hailun Xu and Hongmei Kang and Falai Chen and Zhimin Zhang},
+keywords = {Superconvergence, Isogeometric collocation method, Box splines, Collocation points},
+abstract = {We propose a superconvergent isogeometric collocation (IGSC) method based on quartic C2-continuous box splines on triangular partitions. By leveraging the superconvergence characteristics of box splines, we identify several sets of desirable collocation points. Numerical experiments demonstrate that the isogeometric collocation utilizing these collocation points achieves convergence rates comparable to those of isogeometric Galerkin methods in terms of the L2 and H1-norms. The results further reveal that, while face centroids are suboptimal as collocation points for box splines, edge midpoints are effective for IGSC. The proposed approach is tested on Poisson equations and linear elasticity problems, making comparisons with the isogeometric Galerkin method. Additionally, a thorough comparison of the computational costs between the proposed technique and isogeometric Galerkin methods is presented.}
+}

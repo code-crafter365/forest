@@ -1,0 +1,13 @@
+@article{VETTERLI2025109073,
+title = {Mechanical characterisation of GF-PET composite manufactured via in-situ Solid-State Polymerisation route},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109073},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109073},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003677},
+author = {O. Vetterli and R. Krüger and S. Hentzen and G.A. Pappas and P. Ermanni},
+keywords = {Thermoplastic composite, Solid-state polymerisation, Poly (ethylene terephthalate), Mechanical testing},
+abstract = {The work reported in this short communication focusses on the impact of solid-state polymerisation (SSP) of glass fibre-poly(ethylene terephthalate) (GF-PET) composites, on polymer’s, interface’s, and eventually composite’s performance, characterised through transverse tensile testing. Comparison with a state-of-the-art film stacking process revealed that similar, but also improved mechanical performance can be achieved by composites produced via the in-situ (i.e., at composite lamina level) SSP method. When the polymer is reacted at long intervals to achieve high molecular weights in-situ, a robust fibre-matrix interface is apparently formed, yielding fully cohesive failure of the composite (on fully desized fibres), while the improved polymer’s ductility enhances further the transverse performance. Composite’s ultimate transverse tensile strength saturation was found at a PET intrinsic viscosity of 0.82 dL/g, with values of ∼60 MPa, and ultimate strain of ∼0.82%, with the latter to show a slight increase when the intrinsic viscosity reached 0.95 dL/g, through even-longer SSP times. Thus, the prevalent challenges in thermoplastic reinforced composites, namely high processing viscosity and a weak fibre-matrix interface, are effectively addressed by the developed in-situ SSP route.}
+}

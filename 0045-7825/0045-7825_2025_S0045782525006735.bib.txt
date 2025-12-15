@@ -1,0 +1,13 @@
+@article{THIAGARAJAN2025118401,
+title = {Accelerating Hamiltonian Monte Carlo for Bayesian inference in neural networks and neural operators},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118401},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118401},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006735},
+author = {Ponkrshnan Thiagarajan and Tamer A. Zaki and Michael D. Shields},
+keywords = {Bayesian inference, Hamiltonian Monte Carlo, Uncertainty quantification, Sensitivity analysis, Deep operator networks},
+abstract = {Hamiltonian Monte Carlo (HMC) is a powerful and accurate method to sample from the posterior distribution in Bayesian inference. However, HMC techniques are computationally demanding for Bayesian neural networks due to the high dimensionality of the network’s parameter space and the non-convexity of their posterior distributions. Therefore, various approximation techniques, such as variational inference (VI) or stochastic gradient MCMC, are often employed to infer the posterior distribution of the network parameters. Such approximations introduce inaccuracies in the inferred distributions, resulting in unreliable uncertainty estimates. In this work, we propose a hybrid approach that combines inexpensive VI and accurate HMC methods to efficiently and accurately quantify uncertainties in neural networks and neural operators. The proposed approach leverages an initial VI training on the full network. We examine the influence of individual parameters on the prediction uncertainty, which shows that a large proportion of the parameters do not contribute substantially to uncertainty in the network predictions. This information is then used to significantly reduce the dimension of the parameter space, and HMC is performed only for the subset of network parameters that strongly influence prediction uncertainties. This yields a framework for accelerating the full batch HMC for posterior inference in neural networks. We demonstrate the efficiency and accuracy of the proposed framework on deep neural networks and operator networks, showing that inference can be performed for large networks with tens to hundreds of thousands of parameters. We show that this method can effectively learn surrogates for complex physical systems by modeling the operator that maps from upstream conditions to wall-pressure data on a cone in hypersonic flow.}
+}

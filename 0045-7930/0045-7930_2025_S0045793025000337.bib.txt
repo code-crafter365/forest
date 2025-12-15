@@ -1,0 +1,13 @@
+@article{CHEN2025106573,
+title = {Topology optimization for particle flow problems using Eulerian-Eulerian model with a finite difference method},
+journal = {Computers & Fluids},
+volume = {291},
+pages = {106573},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106573},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025000337},
+author = {Chih-Hsiang Chen and Kentaro Yaji},
+keywords = {Topology optimization, Particle flow, Eulerian–Eulerian model, Finite difference method},
+abstract = {Particle flow processing is widely employed across various industrial applications and technologies. Due to the complex interactions between particles and fluids, designing effective devices for particle flow processing is challenging. In this study, we propose a topology optimization method to design flow fields that effectively enhance the resistance encountered by particles. Particle flow is simulated using an Eulerian–Eulerian model based on a finite difference method. Automatic differentiation is implemented to compute sensitivities using a checkpointing algorithm. We formulate the optimization problem as maximizing the variation of drag force on particles while reducing fluid power dissipation. Initially, we validate the finite difference flow solver through numerical examples of particle flow problems and confirm that the corresponding topology optimization produces a result comparable to the benchmark problem. In the optimization cases, we explore both symmetric and asymmetric flow scenarios. For the symmetric flow case, the optimized flow fields indicate that serpentine flow fields can enhance particle drag variation while accounting for power dissipation. Furthermore, we investigate the effects of Reynolds numbers (Re≤100) and Stokes numbers (St<1) on the optimized flow field. The results demonstrate that increasing the Reynolds number results in more bends and greater curvature in the flow field, whereas increasing the Stokes number reduces these features. For the asymmetric flow case, gravity influences particle distribution, leading the serpentine flow paths to adjust their overall orientation to align with these regions of higher particle concentration.}
+}

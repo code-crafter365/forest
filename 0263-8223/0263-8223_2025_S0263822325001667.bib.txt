@@ -1,0 +1,13 @@
+@article{COLATOSTI2025119001,
+title = {Constitutive identification of materials with different symmetry classes through a genetic algorithm},
+journal = {Composite Structures},
+volume = {360},
+pages = {119001},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119001},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001667},
+author = {Marco Colatosti and Greta Ongaro and Marco Pingaro and Patrizia Trovalusci},
+keywords = {Composite materials, Micropolar continua, Identification procedure, Genetic algorithm, Constitutive material properties},
+abstract = {Composite materials play a primary role in many engineering applications. However, their mechanical description proves challenging because, at finer scales, they are characterised by the presence of significant heterogeneities in size and texture, which affect the macroscopic response of the materials. Classical continuum models are not always suitable for describing the macroscopic behaviour of such materials, especially when it is important to consider the microscopic level. To adequately address scale effects, several non-classical/non-local formulations have been proposed in the literature. Among these, the micropolar model, which is a non-local model of “implicit” type, has proven to be effective in representing the mechanical behaviour of anisotropic media, taking into account the arrangement, size, and orientation of particles. Within this context, this work focuses on modelling composites both as continuous and discrete systems, with the latter providing a finer description of the material. The aim of the study is to identify micropolar elastic constants of composite materials represented as rigid blocks and thin elastic interfaces. A heuristic optimisation approach based on the Differential Evolution algorithm is adopted to derive the constitutive micropolar parameters by exploiting the results of static and dynamic analyses performed on the discrete systems. The obtained results, for different material symmetry classes, indicate that the proposed strategies provide satisfactory outcomes, paving the way for experimental validation and potential engineering applications.}
+}

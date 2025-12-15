@@ -1,0 +1,13 @@
+@article{MARTINEZARCOS2025114649,
+title = {Properties and potential uses of a biosurfactant extract obtained from corn steep water by a dialysis process},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114649},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114649},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001560},
+author = {A. Martínez-Arcos and M. Reig and J.M. Cruz and J.L. Cortina and B. Pérez-Cid and A.B. Moldes and X. Vecino},
+keywords = {Corn industry, membrane technology, solubilizing agent, spreading ability, wettability capacity},
+abstract = {There is currently a significant demand for more sustainable and compatible ingredients and additives not only for cosmetic and pharmaceutical formulations but also for applications within the agrifood industry. This demand is emphasized by regulations like the COSMOS-standard, which classifies, for instance, cosmetic formulations based on ingredients that meet stringent criteria for their downstream processes promoting physical separation. In this research, a biosurfactant extract derived from a naturally fermented stream within the corn-wet milling industry was obtained for the first time through physical separation methods based on a dialysis process at lab scale. This was done as an alternative to the use of organic solvents. Subsequently, the extract underwent comprehensive characterization and assessment to ascertain its efficacy as a solubilizer, emulsifier, and spreading and wetting agent. The findings revealed that this biosurfactant extract is composed of glycopeptides and peptides, like the biosurfactant extract produced by lactic acid bacteria, but with lower critical micellar concentration (CMC). Moreover, the biosurfactant extract exhibited non-irritating properties (Mucosal Irritation Score < 0.07) and demonstrated interesting capabilities as a booster in the formulation of Pickering emulsions. Furthermore, it demonstrated a spreading capacity comparable to that of sodium dodecyl sulphate (SDS); but not a good solubilization of chicken broth cubes. However, its most noteworthy characteristic was its remarkable wettability capacity, which holds significant promise for applications in the cosmetic industry as a humectant agent, aligning with the standards set in COSMOS standard.}
+}

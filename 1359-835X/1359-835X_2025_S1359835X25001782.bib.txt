@@ -1,0 +1,13 @@
+@article{ROMERO2025108884,
+title = {Orthotropic elastic constants and tensile strength of extrusion-based additively manufactured carbon/carbon composites after polymer infiltration and pyrolysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108884},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108884},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001782},
+author = {Edwin S. Romero and Bryant Burton and Ashley Hilmas and Eduardo Barocio and Rodney W. Trice},
+keywords = {Additive manufacturing, Carbon/carbon composites, Polymer infiltration and pyrolysis, Elastic constants, Tensile strength},
+abstract = {This study was aimed at obtaining orthotropic elastic constants and tensile strengths of extrusion-based additively manufactured (EDAM) carbon/carbon (C/C) composites. Micro-computed tomography (µCT) data was coupled with impulse excitation data and Mori-Tanaka homogenization- based microstructural modeling to analyze 50 wt% short carbon fiber-loaded polyphenylene sulfide (PPS)-based C/C composites. After five polymer infiltration and pyrolysis cycles, the elastic constants and average tensile strength were found to be E1 = 30.48 GPa, E2 = 17.85 GPa, E3 = 12.34 GPa, G23 = 5.57 GPa, G13 = 6.65 GPa, G12 = 9.19 GPa, ν23 = 0.28, ν13 = 0.25, ν12 = 0.26, and σT = 12.71 MPa, respectively. The results were unique to the fiber orientation induced during 3D printing and pore volume fraction achieved with densification and highlights the Mori-Tanaka- based microstructural modeling as a beneficial tool for capturing the fiber architecture- and process- dependent behavior of C/C composites.}
+}

@@ -1,0 +1,13 @@
+@article{SONG2025119165,
+title = {Multi-scale modelling of 2D woven composites accounting for in-plane shear},
+journal = {Composite Structures},
+volume = {367},
+pages = {119165},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119165},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003307},
+author = {Meng yi Song and Adam J. Thompson and Bassam {El Said} and Stephen R. Hallett},
+keywords = {In-plane shear, 2D woven composites, Multi-scale, Homogenisation, Voxel, RVE, Unit cell},
+abstract = {Components manufactured from 2D textile composites often exhibit spatial variations in properties when formed into 3D shapes, particularly in areas of high double curvature where the textile must shear to conform to the geometry. During in-plane shear, the fibres rotate away from their default orthogonal positions in a non-linear process driven by contacts and friction, consequently altering the material’s anisotropic behaviour. To address this, a novel automated workflow that integrates advanced process modelling with high-fidelity structural analysis has been developed. By employing a multi-scale approach, this workflow enables the effects of tow deformations caused by manufacturing processes to be realised at the component level, improving the accuracy of component structural models. Homogenised material properties are extracted from pre-sheared meso-scale RVE models with realistic deformed geometries for use in macro-scale component-level models, while also accounting for RVE rotation.}
+}

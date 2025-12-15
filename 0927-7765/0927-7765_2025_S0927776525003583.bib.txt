@@ -1,0 +1,13 @@
+@article{KIM2025114851,
+title = {Injectable glycol chitosan thermogel loaded with placental mesenchymal stem cells secretome for enhanced wound healing and tissue regeneration},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114851},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114851},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003583},
+author = {Ryoung Eun Kim and Eun Young Koo and Eun Young Kim and Se Yeon Shin and Seong A Park and Kang Moo Huh and Min Kyu Kim},
+keywords = {Hexanoyl glycol chitosan, Mesenchymal stem cell secretome, Thermogel, Wound healing, Tissue regeneration},
+abstract = {Wound healing is a complex biological process that is essential for restoring tissue integrity and function. This study presents an innovative injectable thermosensitive hydrogel (thermogel) formulation based on hexanoyl glycol chitosan (HGC) loaded with placental mesenchymal stem cell (MSC) secretome to enhance wound healing and tissue regeneration. The GC-based thermogel is designed to promote the delivery of bioactive factors from the MSC secretome, including cytokines and growth factors, which are critical for the healing process. The thermogel exhibits favorable physicochemical properties, including a sol-gel transition at physiological temperatures and excellent structural integrity post-injection. In vitro studies demonstrated that the secretome-loaded HGC thermogel significantly enhanced cell proliferation, migration, and angiogenesis. In vivo experiments further confirmed that the thermogel accelerated wound closure and re-epithelialization in a murine wound model. These findings suggest that the multifunctional properties of this HGC-based thermogel, combined with the bioactivity of MSC secretome, offer a promising therapeutic approach for enhancing wound healing and promoting tissue regeneration.}
+}

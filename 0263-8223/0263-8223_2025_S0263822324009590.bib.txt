@@ -1,0 +1,13 @@
+@article{FENG2025118831,
+title = {Enhanced sound absorption properties of a semi-open underwater periodic acoustic metamaterial},
+journal = {Composite Structures},
+volume = {354},
+pages = {118831},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118831},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009590},
+author = {Zihan Feng and Xiaoliang Xu and Shurui Wen and Zhijing Wu and Fengming Li},
+keywords = {Underwater acoustic metamaterial, Periodic design, Transfer matrix method, Low and wide frequency, Sound absorption enhancement},
+abstract = {In order to enhance the underwater low-frequency sound absorption performance, a semi-open underwater periodic acoustic metamaterial (SUPAM) is proposed combining the slit and the rubber shear deformation mechanisms of the acoustic energy dissipation. According to the slit absorber theory and the complex viscosity model of viscoelastic material, the theoretical model for predicting the sound absorption performance of the SUPAM is established using the transfer matrix method, the correctness of which is validated by the well agreement of its result with that of the finite element method and experiment, respectively. The influence of the sound incidence angle, slit width, air cavity height and rubber thickness on the sound absorption property of the SUPAM is discussed. It is found that the introduction of the slit enables acoustic waves to effectively enter the SUPAM and increases the amount of sound energy dissipated by the shear deformation of the rubber damping layer. A sound absorption coefficient above 0.8 can be achieved almost across an ultra-wide frequency range of 176–5000 Hz for the SUPAM composed of metacells based on the stepped design, which shows its extraordinary low-frequency sound absorption performance.}
+}

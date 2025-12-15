@@ -1,0 +1,13 @@
+@article{LI2025111061,
+title = {Inspired by adipose tissue, mechanically robust and reprocessable LM-based composites for ultra-sensitive flexible pressure sensors},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111061},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111061},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000296},
+author = {Zequan Li and Fangyan Ou and Zhichao Zhang and Chuang Ning and Fuqi Wang and Ting Xie and Wenyu Pan and Zhuan zhang and Qihua Liang and Shuangliang Zhao and Wei Gao},
+keywords = {Self-healing elastomers, Microphase separation, Liquid metal, Pressure sensors, Machine learning},
+abstract = {The self-healing conductive elastomers can self-healing when subjected to external damage, making them popular candidate for flexible electronic device materials. However, their insufficient mechanical and self-healing properties limit practical applications. Therefore, it is urgent to develop self-healing conductive elastomer materials with mechanical stability. In this word, inspired by the two-phase structure of adipose tissue, a self-healing elastomer (SBS-TA-7%) with excellent mechanical properties was prepared by simple grafting modification of styrene-butadiene-styrene block copolymer (SBS). The synergistic effect of hydrogen bonding, imine bonding and π-π stacking enhances the interactions of the polymer network, enabling rapid repair after damage and improving the self-healing ability and mechanical properties of the material. The SBS-TA-7% elastomers exhibit excellent self-healing capabilities, reaching a self-healing efficiency of 97.38 %. Compared to unmodified SBS, the strength and toughness of SBS-TA-7% were increased by 42 times (4.19 MPa) and 13.5 times (20.65 MJ/m3), respectively. On this basis, self-healing conductive elastomers (SBS-TA-7%/LM) with excellent mechanical and conductive properties were further prepared by introducing liquid metal (LM) into SBS-TA-7%. The SBS-TA-7%/LM based self-healing pressure sensors offer high response values (536), fast response/recovery speeds (60/130 ms) and low pressure detection (0.03 kPa).The SBS-TA-7%/LM-based pressure sensing array monitors the pressure distribution of objects and plantar pressure distribution in different postures. The 8 different walking postures were identified by machine learning, and the recognition rate was as high as 98.1 %. This study provides valuable insights into the design of self-healing elastomers and expands the application field of self-healing conductive elastomers in green pressure sensors.}
+}

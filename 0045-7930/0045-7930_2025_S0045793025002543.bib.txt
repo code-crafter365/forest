@@ -1,0 +1,13 @@
+@article{MARZIALE2025106794,
+title = {Grid-agnostic volume of fluid approach with interface sharpening and surface tension for compressible multiphase flows},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106794},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106794},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002543},
+author = {Joseph J. Marziale and Jason Sun and David Salac and James Chen},
+keywords = {Sharp interface, Compressible flow, Grid-agnostic},
+abstract = {The interfacial diffusion associated with finite volume method (FVM) discretizations of multiphase flows creates the need for an interface sharpening mechanism. Such solutions for structured quadrilateral grids are well documented, but various engineering applications require mesh designs specific to the irregular geometry of the physical system it is modeling. Therefore this study casts interface sharpening as an antidiffusive volumetric body force whose calculation procedure is generalizable to an arbitrarily constructed grid. The force magnitude is derived at cell centers as a function of the local compressible flow characteristics and the geometry of the cell neighborhood. The flow model uses an AUSM+up based method for flux evaluation and imposes a stiffened equation of state onto each of the fluids in order to close the linear system and extract auxiliary variables. Validation tests show good agreement with the Young–Laplace condition whereby the interface converges to the analytical solution corresponding to a balance between a pressure jump and interfacial forces. Further results show the recovery of a circle starting from a shape with highly variational curvature through the combined effects of surface tension and interface sharpening. Lastly shear-driven droplet pinchoff results show good agreement with droplet shapes provided by the surrounding literature at various Weber–Ohnesorge number combinations.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025114494,
+title = {Coaxial bioprinting of a three-layer vascular structure exhibiting blood-brain barrier function for neuroprotective drug screening},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114494},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114494},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000013},
+author = {Zhichao Wang and Chuanzhen Huang and Zhenyu Shi and Hanlian Liu and Xu Han and Zhuang Chen and Shuying Li and Zhen Wang and Jun Huang},
+keywords = {Coaxial bioprinting, Blood-brain barrier model, Multilayer vascular structure, Neuroprotective drug screening},
+abstract = {The in vitro blood-brain barrier (BBB) structures can offer advantages for studying cerebrovascular functions and developing neuroprotective drugs. However, currently developed BBB models are overly simplistic and inadequate for replicating the complex three-dimensional architecture of the in vivo BBB. In this study, a method is introduced for fabricating a three-layer vascular structure exhibiting BBB function using a coaxial extrusion bioprinting technique with a two-layer nozzle. Photocurable materials were incorporated into the inner layer of the coaxial nozzle, and photoinitiators from the outer layer diffused into the inner layer. As a result, only the materials in the inner layer at the interface between the inner and outer layers underwent crosslinking upon UV exposure. After removing the uncrosslinked materials, a two-layer vascular structure can be formed. Subsequently, a three-layer structure was established after seeding endothelial cells. The perfusion experiments demonstrated that the vascular structure facilitated the continuous flow of culture medium, thereby providing nutrients and oxygen to the surrounding neural tissue. The drug screening analysis indicated that this vascular structure could possess barrier function, allowing the passage of small molecular drugs while effectively blocking macromolecular drugs. Overall, these results suggest that the three-layer vascular structure exhibits excellent perfusion capacity and barrier function, making it a promising candidate for neuroprotective drug screening.}
+}

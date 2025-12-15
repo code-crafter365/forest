@@ -1,0 +1,13 @@
+@article{KARAMANLI2025118641,
+title = {On the bending, buckling and free vibration analysis of bio-inspired helicoidal laminated composite shear and normal deformable beams},
+journal = {Composite Structures},
+volume = {352},
+pages = {118641},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118641},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007694},
+author = {Armagan Karamanli and Thuc P. Vo and Mohamed-Ouejdi Belarbi and Seunghye Lee},
+keywords = {Bio-inspired helicoidal laminated composite beams, Laminated composite beams, Ritz method, Bending, Buckling, Free vibration},
+abstract = {The mechanical behaviours of bio-inspired helicoidal symmetric laminated composite (BIHLC) beams are investigated via the Ritz method. By exploiting the variational formulation, equations of motion along with element stiffness, geometrical stiffness, and mass matrices are derived. The study conducts a thorough examination, covering bending, buckling stability, and free vibration analyses of BIHLC beams with various lamination schemes. The developed model is verified against existing literature on conventional composite laminated and BIHLC beams. The study also examines the mechanical response of BIHLCs, considering boundary conditions, lamination schemes, orthotropy ratios, and aspect ratios. Notably, deflections, critical buckling loads, and fundamental frequencies demonstrate variations dependent on the specific lamination scheme, boundary condition, and aspect ratio. Novel findings, presented for the first time, offer valuable insights for future studies in this area.}
+}

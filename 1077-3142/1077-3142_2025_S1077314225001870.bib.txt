@@ -1,0 +1,13 @@
+@article{LIU2025104464,
+title = {Context perturbation: A Consistent alignment approach for Domain Adaptive Semantic Segmentation},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104464},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104464},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001870},
+author = {Meiqin Liu and Zilin Wang and Chao Yao and Yao Zhao and Wei Wang and Yunchao Wei},
+keywords = {Domain adaptation, Semantic segmentation, Consistency regularization, Representation learning, Self-training},
+abstract = {Domain Adaptive Semantic Segmentation (DASS) aims to adapt a pre-trained segmentation model from a labeled source domain to an unlabeled target domain. Previous approaches usually address the domain gap by consistency regularization which is implemented based on the augmented data. However, as the augmentations are often performed at the input level with simple linear transformations, the feature representations suffer limited perturbation from these augmented views. As a result, they are not effective for cross-domain consistency learning. In this work, we propose a new augmentation method, namely contextual augmentation, and combine it with contrastive learning approaches from both the pixel and class levels to achieve consistency regularization. We term this methodology as Context Perturbation for DASS (CoPDASeg). Specifically, contextual augmentation first combines domain information by class mix and then randomly crops two patches with an overlapping region. To achieve consistency regularization with the two augmented patches, we focus on both pixel and class perspectives and propose two parallel contrastive learning paradigms (i.e., pixel-level contrastive learning and class-level contrastive learning). The former aligns the pixel-to-pixel feature representations, and later aligns class prototypes across domains. Experimental results on representative benchmarks (i.e., GTA5 →Cityscapes and SYNTHIA → Cityscapes) demonstrate that CoPDASeg improves the segmentation performance over state-of-the-arts by a large margin.}
+}

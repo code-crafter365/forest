@@ -1,0 +1,13 @@
+@article{CAI2025109014,
+title = {Sustainably designed SiO2/polyarylate nanofiber composite aerogels for advanced thermo-acoustic insulation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109014},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109014},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003082},
+author = {Yuhan Cai and Dongjian Ding and Mengting She and Jingxian Wang and Shiwen Yang and Qingquan Tang and Hua Wang and Siwei Xiong},
+keywords = {Composite aerogels, Polyarylate nanofibers, Thermo-acoustic insulation, Recyclable},
+abstract = {Nanofiber aerogels, characterized by their low density, high porosity, and robust mechanical properties, have emerged as promising candidates in thermo-acoustic insulation domain. Nevertheless, these materials frequently encounter challenges related to inadequate insulation synergy, complex production processes, and environmental issues. In this study, we engineered a novel nanofiber composite aerogel (NCA) composed of polyarylate (PAR) nanofibers and silica hollow microspheres (SiO2 HMs), utilizing straightforward freeze-drying and thermal treatment methodology. The PAR nanofibers establish a porous network, while the SiO2 HMs reduce thermal conductivity and enhance sound absorption. Furthermore, the thermoplastic nature of PAR facilitates easy welding and recycling. Optimal performance of the SiO2/PAR NCAs is achieved at a composition of 30 wt% SiO2 HMs, yielding a thermal conductivity of 0.018 W m−1 K−1, which is merely 24 % of that of commercial PU foams. The composite exhibits an average sound absorption coefficient of 0.7048 and a noise reduction coefficient of 0.4276. Under thermal conditions of 100 °C, the surface temperature increases by only 22.5 °C, while at −4.5 °C, it decreases by 6.6 °C, resulting in a noise reduction of 14.3 dB. In contrast, commercial PU foam shows a 47.8 °C increase at 100 °C and an 18.4 °C decrease at −4.5 °C, with only 1.1 dB noise reduction.}
+}

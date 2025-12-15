@@ -1,0 +1,13 @@
+@article{VIEIRA2025117455,
+title = {Peridynamic topology optimization to improve fracture resistance of structures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117455},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117455},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007102},
+author = {Francisco S. Vieira and Aurélio L. Araújo},
+keywords = {Topology Optimization, Peridynamics, Fracture resistance, Path-dependence, Crack propagation, Bilinear softening model},
+abstract = {In this work we propose a novel peridynamic topology optimization formulation to improve fracture resistance. The main strength of peridynamics is based on the straightforwardness in which crack propagation can be predicted, as a natural part of a peridynamic numerical simulation. This property can be leveraged in a topology optimization framework, in order to obtain fracture resistance designs. Hence, we formulate a meshfree density-based nonlocal topology optimization framework using a bond-based peridynamic formulation. As it is demonstrated in this paper, the classical compliance based solutions are far from optimal in terms of fracture resistance and the designs obtained with the proposed formulation can provide fracture resistant solutions while only reducing slightly the structural stiffness. The proposed formulation is presented along with all the details of the sensitivity analysis and additional numerical aspects of the implementation. Moreover, the peridynamic material model used is presented along with its numerical implementation. Numerical examples demonstrate the accuracy of the computed sensitivities and illustrate the impact and effectiveness of the presented formulation. A thorough study of the optimization parameters is presented and various optimization convergence studies are taken in order to obtain a stable optimization process. All the results are compared to classical compliance minimization designs to illustrate the advantages and capabilities of the proposed framework.}
+}

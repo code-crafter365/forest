@@ -1,0 +1,13 @@
+@article{SANI2025115081,
+title = {Phenolic/carboxylic acid-functionalized films: A promising and innovative strategy in next-generation packaging materials},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115081},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115081},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005880},
+author = {Mahmood Alizadeh Sani and Narges Velayati and Tina Alighadri and Amirhossein Abedini and Arezou Khezerlou and Ajahar Khan and Jong-Whan Rhim},
+keywords = {Crosslinking methods, Green packaging, Improved mechanical properties, Sustainable packaging films},
+abstract = {Biopolymer-based food packaging films are emerging as sustainable alternatives to petroleum-based materials, but their physicochemical and functional limitations often require expensive or toxic methods for improvement. This paper focuses on enhancing the properties of biopolymer films for food packaging using biodegradable phenolic and carboxylic acids as natural cross-linkers. It provides an overview of cross-linking technologies and details the classification and description of phenolic and carboxylic acid-based cross-linkers. The effects of these cross-linkers on key film properties, such as mechanical strength, water resistance, thermal stability, and antioxidant/antimicrobial activity, are systematically evaluated. Chemical interactions with biopolymers, including covalent and hydrogen bonding, are highlighted as mechanisms for improving film performance. The applications of these cross-linked biopolymer films in food preservation are discussed, emphasizing their potential to enhance the sustainability of the food industry. The results show that phenolic and carboxylic acids significantly improve mechanical strength, moisture permeability, thermal stability, light shielding, and antioxidant/antimicrobial properties, making them effective for food preservation. Using these acids supports sustainable packaging by reducing reliance on synthetic chemicals. Therefore, this study demonstrates the effectiveness of phenolic and carboxylic acids as eco-friendly cross-linkers and offers a promising strategy for creating high-performance biodegradable packaging materials that meet the demand for sustainable food packaging.}
+}

@@ -1,0 +1,13 @@
+@article{MARECHAL2025111371,
+title = {Composite structures spring back, modeling and sensitivity analysis},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111371},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111371},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003392},
+author = {Quentin Maréchal and Mohamed Ichchou and Bruno Berthel and Michelle Salvia and Pascal Fossat and Olivier Bareille and Mohamed Chabchoub},
+keywords = {Spring back, Sensitivity analysis, Thermosetting laminate, Manufacturing process, Analytical modeling, Finite element modeling, Multiphysics, Cure behavior},
+abstract = {This paper deals with the modeling and sensitivity analysis of spring back for composite made structures. Spring back is a well-known phenomenon connected to the manufacturing of composite parts. It is a multi-physical process involving chemical, thermal, and mechanical issues. The prediction of the spring back is necessary in order to improve the quality of the production while respecting the manufacturing rules and tolerances. This paper specifically addresses a very important question. Indeed when the spring back is connected to a great number of parameters that need to be characterized accordingly, not all of them are of relevance for the prediction. The paper implements a sensitivity analysis process leading to a hierarchy of the needed parameters. Specifically for the composite tested in this paper, it is shown that the cure shrinkage coefficients are the most important parameters that need to be characterized precisely. This conclusion could help make relevant experimental characterization for the final target which is the relevant prediction of the spring back.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025119504,
+title = {A novel composite of Closed-Cell aluminum foam and Phase-Change material for enhanced mechanical safety in EV battery systems},
+journal = {Composite Structures},
+volume = {371},
+pages = {119504},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119504},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006695},
+author = {Peng Zhang and Hui Zhang and Nianqi Chen and Ningzhen Wang and Changping Song and Ruyuan Yang and Xiang Chen},
+keywords = {Aluminum foam, Physical modification, Phase-change composite, Battery housing, Mechanical reinforcement protection},
+abstract = {This study proposes an innovative physical modification-infusion strategy to uniformly infuse phase change material (PCM) into the physically modified closed-cell aluminum foam (PMAF) via vacuum-assisted infusion technology. The resulting aluminum-foam-based phase-change composite material (AFPCM) combines the high energy absorption characteristics of aluminum foam with the thermal energy storage capacity of PCM, forming a three-dimensional interconnected composite structure that enables both mechanical performance enhancement and efficient thermal energy storage. Experimental results showed that, compared with untreated closed-cell aluminum foam (CCAF), the compressive strength of AFPCM increased by 45.2 %, the elastic modulus increased by 14.4 %, and the energy absorption increased by 55.7 %, based on a matrix density of 0.4 g/cm3. CT scans further confirmed the uniform distribution of PCM within the PMAF, ensuring the stability of material properties. In addition, battery system simulations showed that AFPCM exhibits excellent mechanical safety, providing a scalable and structurally integrated solution for the next generation of electric vehicle battery systems. Future research will further explore the dynamic response under impact load, thermal properties of AFPCM, and investigate the structural design and thermal management simulation of battery integration in depth.}
+}

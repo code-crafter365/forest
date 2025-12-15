@@ -1,0 +1,13 @@
+@article{BALLONI2025104454,
+title = {Made-In: An immersive human-in-the-loop analytics platform for enhancing creative processes in fashion},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104454},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104454},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001778},
+author = {Emanuele Balloni and Rocco Pietrini and Michele Sasso and Emanuele Frontoni and Marina Paolanti},
+keywords = {Human-in-the-loop systems, Immersive analytics, Fashion design, Sustainability, Artificial Intelligence},
+abstract = {The fashion industry is undergoing a digital transformation, driven by growing demands for sustainability, personalization and immersive experiences. In this paper, we present Made-In (Multimodal and Collaborative Artificial Intelligence for the Design of Inclusive and Sustainable Fashion): an immersive, human-in-the-loop analytics system designed to support fashion professionals in exploring, comparing and contextualizing product data across digital and social platforms. Unlike generative or simulation-based approaches, Made-In provides creative decision support by aggregating real-world data from luxury brand websites and social media. This enables designers and merchandisers to make informed, context-aware choices. The system comprises three core modules: a 3D configurator for visualizing product assortments; a collection grid interface for the comparative analysis of e-commerce data; and a social media trend detector based on deep learning pipelines for image classification, object detection and color clustering. Two curated datasets, one derived from Instagram and the other from fashion e-tailers, provide the system with analytics. A user study with domain experts confirms the platform’s usability and relevance for trend forecasting, sustainability evaluation and visual merchandising strategy. The results demonstrate that Made-In effectively bridges the gap between data analytics and human creativity in fashion, offering a scalable solution that aligns with EU goals for digital sustainability and inclusivity.}
+}

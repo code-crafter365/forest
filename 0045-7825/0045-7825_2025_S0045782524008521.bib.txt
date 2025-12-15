@@ -1,0 +1,13 @@
+@article{SI2025117598,
+title = {Creep crack propagation using phase-field model within a multi-patch isogeometric framework},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117598},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117598},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008521},
+author = {Zhanfei Si and  Hirshikesh and Tiantang Yu and Weihua Fang and Sundararajan Natarajan},
+keywords = {Creep crack growth, Isogeometric phase-field model, Asymptotic degradation function, Multi-patch modeling, Nitsche’s method, LR NURBS},
+abstract = {This work presents a straightforward and efficient isogeometric phase-field framework for predicting creep crack propagation in elasto-plastic materials. In contrast to conventional models that utilize viscous strain energy as the driving force, the proposed approach introduces an asymptotic degradation function for fracture toughness, effectively quantifying material damage resulting from creep strain. In this work, the geometry of the computational domain is exactly represented using locally refined non-uniform rational B-splines (LR NURBS), which also enable local mesh refinement near cracks to reduce computational time. In addition, multi-patch modeling approach is utilized for complex geometries. To avoid computational errors due to discontinuities in variables at coupling boundaries, the overall governing equations are derived based on Nitsche’s method. The accuracy of this approach is validated through comparisons with experimental and numerical results.}
+}

@@ -1,0 +1,13 @@
+@article{LIU2025119411,
+title = {FRP-RC columns reinforced with novel FRP strip spiral: Axial compression tests and theoretical model},
+journal = {Composite Structures},
+volume = {370},
+pages = {119411},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119411},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005768},
+author = {Yue Liu and Rui-Xin Jia and Jun-Jie Zeng and Kai-Quan Liu and Lik-ho Tam and Yan Zhuge},
+keywords = {GFRP stirrups, Experimental study, Concrete column, Axial compression, Confinement},
+abstract = {Traditional rod-shaped fiber reinforced polymer (FRP) stirrups face challenges such as fiber kinking, strength reduction at bends, and slip failure at lap joints, compromising concrete confinement and ductility. To address these issues, this study proposes a novel glass FRP (GFRP) strip spiral (N-GFRP) fabricated via vacuum-assisted winding. Axial compression tests on 12 circular concrete columns (200 × 600 mm) reinforced with N-GFRP spirals or traditional rod-shaped GFRP stirrups were conducted. Results demonstrate that N-GFRP spirals eliminate lap-slip failure, enhancing confinement efficiency. Columns with N-GFRP spirals exhibited 12.8 % and 20.9 % higher peak axial load capacity compared to those with traditional stirrups for GFRP and steel longitudinal bars, respectively, alongside ductility improvements of 16.3 % and 4.3 %. Finally, the predictions from existing constitutive models of FRP confined concrete are compared with the experimental results, and the effective coefficient of the most accurate model is refined for concrete confined with N-GFRP spiral. Furthermore, a strength design equation for FRP-RC columns reinforced with N-GFRP spiral is proposed and verified. This work highlights the superior performance of N-GFRP spirals, providing a viable solution for durable and high-capacity FRP-reinforced concrete structures.}
+}

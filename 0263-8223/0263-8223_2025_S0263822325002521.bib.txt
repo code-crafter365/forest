@@ -1,0 +1,13 @@
+@article{CHANDA2025119087,
+title = {Dynamic analysis of variable stiffness curved composite beams based on the inverse differential quadrature method},
+journal = {Composite Structures},
+volume = {363},
+pages = {119087},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119087},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002521},
+author = {Aniket Gopa Chanda and Saheed O. Ojo and Vincenzo Oliveri and Paul M. Weaver},
+keywords = {Inverse differential quadrature method, Curved composite beams, Variable stiffness, Dynamic analysis},
+abstract = {Recent advances in composite manufacturing have catalysed the adoption of curved variable stiffness beams, promising enhanced dynamic performance for advanced applications in engineering. Curved variable stiffness beams transcend the limits of conventional composites offering new anisotropic coupling possibilities to tailor beam behaviour. However, the structural complexities introduced by variable stiffness effects in curved beams require computational tools that can capture non-classical responses characterising their behaviour. To address this problem, a numerical approach, rooted in indirect approximation techniques, is used to analyse the dynamic response of curved variable stiffness composite beams. By leveraging the merits of the emerging inverse differential quadrature method (iDQM), the study derives a new structural formulation for enhanced computational dynamic analysis of curved variable stiffness composite beams. The vibrational response of curved variable stiffness beams is governed by the interplay between geometric- and material-induced couplings due to curvature and point-by-point varying material distributions. Such interplay can be employed for design customisation, allowing for strategic adjustments in both geometry and materials to optimise performance. From the computational perspective, iDQM achieves over 90% reduction in degrees of freedom compared to one-dimensional and three-dimensional finite element method. Additionally, the variability in stiffness coefficients of variable stiffness composites introduces additional internal force terms, modifying the equilibrium equations in ways not observed in constant stiffness laminates. This feature creates opportunities to optimise material distribution and geometry by varying the stiffness along the beam’s length through variable fibre angle orientation and adjusting curvature to enhance dynamic performance over traditional constant stiffness beams.}
+}

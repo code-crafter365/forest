@@ -1,0 +1,13 @@
+@article{ZHOU2025118241,
+title = {Semi-implicit hybrid Eulerian-Lagrangian PFEM with volume control for incompressible free surface flows},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118241},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118241},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005134},
+author = {Xi-Wen ZHOU and Yin-Fu JIN and Zhen-Yu YIN and Kai-Yuan HE and Xiangsheng CHEN},
+keywords = {Characteristic-based split, Particle finite element method, Hybrid Eulerian-Lagrangian, Incompressible fluid, Free surface, Stabilized pressure gradient projection},
+abstract = {Recognizing that traditional Particle Finite Element Method (PFEM), although robust in capturing free-surface dynamics, can suffer from high computational costs and frequent remeshing challenges. Thus, this work introduces a novel semi-implicit hybrid Eulerian-Lagrangian PFEM (HEL-PFEM) with nodal-integration framework for simulating incompressible free-surface flow problems with enhanced stability and computational efficiency. The proposed approach partitions the computational domain into non-overlapping subdomains. A refined Lagrangian PFEM with fine mesh resolution is employed in regions dominated by free-surface phenomena; elsewhere, a fixed-grid Eulerian method with a coarser discretization is used. This dual strategy leverages the strengths of both Eulerian and Lagrangian descriptions, thereby overcoming conventional issues in free-surface tracking and mesh distortion typical of ALE methods. To ensure numerical stability, the framework incorporates the Characteristic-Based Split (CBS) method to suppress convective instabilities and the Stabilized Pressure Gradient Projection (SPGP) technique to enhance pressure stabilization under equal-order interpolation. A novel efficient volume control algorithm is integrated to compensate for the volume loss often observed in semi-implicit formulations. The framework’s performance is validated through an array of benchmark tests and a complex two-phase simulation of a submarine landslide. The results underscore its potential for delivering high numerical fidelity with moderate computational expense across a wide range of free-surface and multiphase flow applications.}
+}

@@ -1,0 +1,13 @@
+@article{HAN2025115062,
+title = {Advances in multifunctional medical sutures for wound healing: A review},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115062},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115062},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005697},
+author = {Dongxu Han and Xuchen Wang and Shihao Song and Hongqiang Shen and Ying Lu and Zhaozhu Zheng and Xiaoqin Wang and Zhifen Han and Gang Li},
+keywords = {Multifunctional medical sutures, Drug delivery, Surface modification, Wound healing},
+abstract = {Multifunctional medical sutures (MMSs), constructed through the integration of biomaterials, drug-delivery systems, and advanced surface engineering, hold great promise for addressing surgical site infections (SSIs) and promoting tissue repair. Despite the increasing research interest, the fundamental relationship between MMSs design parameters and clinical performance remains insufficiently elucidated, which has hindered progress toward their clinical translation. This review offers a comprehensive analysis of the critical performance metrics of MMSs and elucidates the underlying correlations between their structural design and functional deployment to inform practical development strategies. First, the material combinations, structural designs, and advanced engineering technologies that determine both the smart functions and drug-delivery performance of MMSs are summarized. Subsequently, the drug-delivery performance of MMSs and its relationship with design parameters and their applications are analyzed. Several typical applications, which mostly depend on the key performance characteristics of MMSs are introduced. Finally, the current challenges facing MMSs and future development directions are briefly discussed. This review has beneficial impact on advanced suture systems, particularly in precise drug delivery, wound healing application and clinical translation.}
+}

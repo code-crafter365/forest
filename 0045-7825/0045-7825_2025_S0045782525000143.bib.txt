@@ -1,0 +1,13 @@
+@article{KARTASHOV2025117742,
+title = {A large language model and denoising diffusion framework for targeted design of microstructures with commands in natural language},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117742},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117742},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000143},
+author = {Nikita Kartashov and Nikolaos N. Vlassis},
+keywords = {Microstructure design, Large language models, Denoising diffusion probabilistic models, Natural language processing},
+abstract = {Microstructure plays a critical role in determining the macroscopic properties of materials, with applications spanning alloy design, MEMS devices, and tissue engineering, among many others. Computational frameworks have been developed to capture the complex relationship between microstructure and material behavior. However, despite these advancements, the steep learning curve associated with domain-specific knowledge and complex algorithms restricts the broader application of these tools. To lower this barrier, we propose a framework that integrates Natural Language Processing (NLP), Large Language Models (LLMs), and Denoising Diffusion Probabilistic Models (DDPMs) to enable microstructure design using intuitive natural language commands. Our framework employs contextual data augmentation, driven by a pretrained LLM, to generate and expand a diverse dataset of microstructure descriptors. A retrained Named Entity Recognition (NER) model extracts relevant microstructure descriptors from user-provided natural language inputs, which are then used by the DDPM to generate microstructures with targeted mechanical properties and topological features. The NLP and DDPM components of the framework are modular, allowing for separate training and validation, which ensures flexibility in adapting the framework to different datasets and use cases. A surrogate model system is employed to rank and filter generated samples based on their alignment with target properties. This work introduces a comprehensive framework that bridges natural language processing and mechanics, addressing key challenges such as the lack of training data, syntax invariance in textual descriptors, and precision in text embeddings. Demonstrated on a database of nonlinear hyperelastic microstructures, this framework serves as a prototype for accessible inverse design of microstructures, starting from intuitive natural language commands.}
+}

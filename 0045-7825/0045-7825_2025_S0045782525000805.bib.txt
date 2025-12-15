@@ -1,0 +1,13 @@
+@article{STOLLBERG2025117808,
+title = {Multiscale topology optimization of functionally graded lattice structures based on physics-augmented neural network material models},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117808},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117808},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000805},
+author = {Jonathan Stollberg and Tarun Gangwar and Oliver Weeger and Dominik Schillinger},
+keywords = {Multiscale topology optimization, Functionally graded lattice structures, Physics-augmented neural networks, Additive manufacturing, Computational homogenization},
+abstract = {We present a new framework for the simultaneous optimization of both the topology as well as the relative density grading of cellular structures and materials, also known as lattices. Due to manufacturing constraints, the optimization problem falls into the class of mixed-integer nonlinear programming problems. Since no algorithm is capable of solving these problems in polynomial time, we obtain a relaxed problem from a multiplicative split of the relative density and a penalization approach. The sensitivities of the objective function are derived such that any gradient-based solver might be applied for the iterative update of the design variables. In a next step, we introduce a material model that is parametric in the design variables of interest and suitable to describe the isotropic deformation behavior of quasi-stochastic lattices. For that, we derive and implement further physical constraints and enhance a physics-augmented neural network from the literature that was formulated initially for rhombic materials. Finally, to illustrate the applicability of the method, we incorporate the material model into our computational framework and exemplary optimize two-and three-dimensional benchmark structures as well as a complex aircraft component.}
+}

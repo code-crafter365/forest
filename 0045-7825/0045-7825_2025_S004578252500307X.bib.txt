@@ -1,0 +1,13 @@
+@article{BONILLA2025118035,
+title = {Physics-based stabilized finite element approximations of the Poisson–Nernst–Planck equations},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118035},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118035},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500307X},
+author = {Jesús Bonilla and Juan Vicente Gutiérrez-Santacreu},
+keywords = {Poisson–Nernst–Planck equations, Stabilized finite-element approximation, Shock detector, Maximum and minimum discrete principles, Entropy},
+abstract = {We present and analyze two stabilized finite element methods for solving numerically the Poisson–Nernst–Planck equations. The stabilization we consider is carried out by using a shock detector and a discrete graph Laplacian operator for the ion equations, whereas the discrete equation for the electric potential need not be stabilized. Discrete solutions stemmed from the first algorithm preserve both maximum and minimum discrete principles. For the second algorithm, its discrete solutions are conceived so that they hold discrete principles and obey an entropy law provided that an acuteness condition is imposed for meshes. Remarkably the latter is found to be unconditionally stable. We validate our methodology through transient numerical experiments that show convergence toward steady-state solutions.}
+}

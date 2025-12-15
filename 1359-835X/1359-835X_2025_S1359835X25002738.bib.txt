@@ -1,0 +1,13 @@
+@article{LI2025108979,
+title = {Piezoelectric spray for rapid fabrication of self-powered sensor based on sustainable textiles},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108979},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108979},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002738},
+author = {Shengping Li and Bilin Zhang and Liangkang Huang and Jiaxin Qin and Jinlong Gao and Pengfei He and Wei Fan and Jianwei Li},
+keywords = {Polyimide, Piezoelectric sensor, Self-power, Intelligent monitoring},
+abstract = {Based on the principle of low-carbon economy, the fabrication and design of flexible sensors with self-power and low manufacturing cost remain challenges in smart wearable electronic systems. In this study, we fabricated a self-powered piezoelectric sensor based on sustainable textiles that can be rapidly manufactured by a functional spray solution made of fluorinated polyimide (FPI) with high solubility in acetone. The as-prepared piezoelectric sensor shows excellent flexibility and enhanced intelligent sensor monitoring capabilities through incorporating barium titanate nanoparticles (BTO), while also achieving the recycling of discarded textiles. The piezoelectric sensor derived from piezoelectric spray with 20 wt% BTO concentration exhibits high piezoelectricity with output voltages reaching up to 80 V for human body detection. Furthermore, the integration of the sensor with an IoT chip-based wireless signal transmission system enables remote monitoring and emergency assistance via mobile devices, facilitating its application in smart electronic systems with great potential for application.}
+}

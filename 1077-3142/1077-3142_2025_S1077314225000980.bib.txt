@@ -1,0 +1,13 @@
+@article{PINTELAS2025104375,
+title = {Convolutional neural network framework for deepfake detection: A diffusion-based approach},
+journal = {Computer Vision and Image Understanding},
+volume = {257},
+pages = {104375},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104375},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000980},
+author = {Emmanuel Pintelas and Ioannis E. Livieris},
+keywords = {Computer Vision, Deep Learning, Convolutional neural networks, Image classification, Deepfake detection},
+abstract = {In the rapidly advancing domain of synthetic media, DeepFakes emerged as a potent tool for misinformation and manipulation. Nevertheless, the engineering challenge lies in detecting such content to ensure information integrity. Recent artificial intelligence contributions in deepfake detection have mainly concentrated around sophisticated convolutional neural network models, which derive insights from facial biometrics, including multi-attentional and multi-view mechanisms, pairwise/siamese, distillation learning technique and facial-geometry approaches. In this work, we consider a new diffusion-based neural network approach, rather than directly analyzing deepfake images for inconsistencies. Motivated by the considerable property of diffusion procedure of unveiling anomalies, we employ diffusion of the inherent structure of deepfake images, seeking for patterns throughout this process. Specifically, the proposed diffusion network, iteratively adds noise to the input image until it almost becomes pure noise. Subsequently, a convolutional neural network extracts features from the final diffused state, as well as from all transient states of the diffusion process. The comprehensive experimental analysis demonstrates the efficacy and adaptability of the proposed model, validating its robustness against a wide range of deepfake detection models, being a promising artificial intelligence tool for DeepFake detection.}
+}

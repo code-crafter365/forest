@@ -1,0 +1,13 @@
+@article{KABACHI2025119396,
+title = {Combined experimental–numerical approach for through-thickness unsaturated permeability characterization of deformable fiber-beds},
+journal = {Composite Structures},
+volume = {371},
+pages = {119396},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119396},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005616},
+author = {M.A. Kabachi and M. Sandberg and P. Ermanni},
+keywords = {Through-thickness permeability, Unsaturated permeability, Experimental-numerical characterization, Flow-induced compaction, Dual-scale flow},
+abstract = {Successful implementation of Liquid Composite Molding processes relies on a thorough knowledge of the flow and fiber-bed behavior, with unsaturated permeability being a key parameter. This paper presents a combined experimental–numerical method for the characterization of unsaturated through-thickness permeability of deformable engineering textiles. The experimental procedure, developed in a previous study, is based on visual tracking, and recording of flow-front advancement and eventual flow-induced fiber-bed deformation. This information, along with material and injection parameters, is fed to a numerical dual-scale flow model implemented using a finite volume scheme. The model considers different aspects of the impregnation, namely macro and micro flows between and inside fiber bundles, capillary flow, and fiber-bed deformation. The macro and micro permeability curves are obtained through an inverse method that considers different experimental parameters. The method is successfully applied on a glass fiber Non-Crimped-Fabric, where permeability results satisfy all the employed processing and material conditions.}
+}

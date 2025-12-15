@@ -1,0 +1,13 @@
+@article{CHEN2025114294,
+title = {Ultrastable hierarchically porous nucleotide-based MOFs and their use for enzyme immobilization and catalysis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114294},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114294},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005538},
+author = {Wenyi Chen and Shuping Lin and Jiawei Zheng and Jie Ling and Nanjing Zhong},
+keywords = {Enzyme immobilization, Guanosine 5′-monophosphate, Glycerolysis and esterification, Hierarchically porous MOFs, Templated emulsification},
+abstract = {Immobilization of free enzymes facilitates their recovery and reuse, while also enhances their enzymatic characteristics. Hierarchically porous metal-organic frameworks (HP-MOFs) are promising candidates for enzyme immobilization. However, fabrication of HP-MOFs with more kinds of components as ligands is still a challenge. Herein, ultrastable crystalline MOFs with micro-, meso- and macroporous structure were constructed using guanosine 5′-monophosphate (GMP) as organic ligand through templated emulsification method. HP-MOFs crystals with the near rhomb-like, rod-like and slab-like morphology were interestingly obtained from Zn2+, Cu2+ and Cd2+ respectively. The HP-MOFs immobilized enzymes exhibited an enhanced enzymatic activity and stability. In addition, the immobilized CALB (Candida antarctica lipase B) showed great glycerolysis and esterification performances for glycerides preparation, with diacylglycerols (DAG) content over 60 wt% and triacylglycerols (TAG) content over 90 wt% obtained respectively from glycerolysis and esterification. Moreover, it retained 82.32 % of its initial glycerolysis activity after six cycles of reuse in glycerolysis. The present study will provide clues and show new horizons to explore new organic ligands for HP-MOFs fabrication, as well as to expand the applications of HP-MOFs and their supported enzymes.}
+}

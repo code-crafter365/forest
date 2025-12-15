@@ -1,0 +1,13 @@
+@article{ZHANG2025117991,
+title = {Mesh free Hamiltonian method for solid dynamics simulation},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117991},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117991},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002634},
+author = {Jie Zhang and Eric P. Fahrenthold},
+keywords = {Fracture, Fragmentation, Solid dynamics, Hamiltonian methods},
+abstract = {A wide range of solid dynamics problems include a central focus on fracture, fragmentation, and thermomechanical failure processes difficult to accommodate in current continuum, particle, or mixed particle-continuum formulations. In recent research the authors have developed a new mesh-free method for solid dynamics simulation which addresses this class of problems. The method uses a nonholonomic Hamiltonian modeling technique to combine a continuum level description of large strain elastic–plastic deformation with a system level model incorporating discontinuous fracture and fragmentation processes. No partial differential equations are used. The method avoids the mesh distortion problems of Lagrangian finite element methods, the mass diffusion problems of Eulerian finite volume methods, and a range of complications associated with various particle based simulation algorithms. Application of the method shows good agreement with exact solutions in one dimensional test problems and good agreement with experimental results in three dimensional shock physics simulations incorporating fracture, fragmentation, and large strain elastic–plastic deformation.}
+}

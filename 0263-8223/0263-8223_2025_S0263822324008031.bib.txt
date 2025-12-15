@@ -1,0 +1,13 @@
+@article{JIANG2025118675,
+title = {Thermoelastic contact of layer-substrate system: Effects of force-like interface and Kapitza thermal resistance models},
+journal = {Composite Structures},
+volume = {352},
+pages = {118675},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118675},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008031},
+author = {Yibin Jiang and Pengyang Zhao and Wenwang Wu},
+keywords = {Force-like interface model, Thermoelastic contact, Temperature, Elastic field},
+abstract = {Heterogenous materials composed of multiple layers with different material properties are commonly used for multi-functional engineering applications. Due to the existences of inevitable interfacial defects, discontinuities in displacement, stress, or thermal transmission often occur across the interfaces. This paper focus on the problem of layer-substrate system under three-dimensional sliding thermoelastic contact, and force-like imperfect interface and Kapitza thermal resistance interface defects are specially treated. By employing Fourier transforms, closed-form analytical expressions for the three-dimensional thermoelastic field of layer-substrate system with imperfect interface within Fourier spectral space are derived. The temperature and stress fields are computed using discrete convolution fast Fourier transform (DC-FFT) and the conjugate gradient method (CGM). Based on this model, the impact of defects on in-plane and out-of-plane stresses, von Mises stress, and the temperature field is investigated, and it is found that the force-like and Kapitza thermal resistance defects will result in discontinuities in stress and temperature field across the interface plane, and parametric analysis is performed for understanding the physical laws and key factors influencing the interface elastic fields discontinuities.}
+}

@@ -1,0 +1,13 @@
+@article{TOWNSELL2025104561,
+title = {STARS: Semantics-Aware Text-guided Aerial Image Refinement and Synthesis},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104561},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104561},
+url = {https://www.sciencedirect.com/science/article/pii/S107731422500284X},
+author = {Douglas Townsell and Lingwei Chen and Mimi Xie and Chen Pan and Wen Zhang},
+keywords = {Aerial image synthesis, Image retrieval, Object retrieval, Diffusion},
+abstract = {Aerial imagery, with its vast applications in environmental monitoring, disaster management, and autonomous navigation, demands advanced data engineering solutions to overcome the scarcity and limited diversity of publicly available datasets. These limitations hinder the development of robust models capable of addressing dynamic, complex aerial scenarios. While recent text-guided generative models have shown promise in synthesizing high-quality images, they fall short in handling the unique challenges of aerial imagery, including densely packed objects, intricate spatial relationships, and the absence of paired text-aerial image datasets. To tackle these limitations, we propose STARS, a groundbreaking framework for Semantic-Aware Text-Guided Aerial Image Refinement and Synthesis. STARS introduces a three-pronged approach: context-aware text generation using chain-of-thought prompting for precise and diverse text annotations, feature-augmented image representation with multi-head attention to preserve small-object details and spatial coherence, and a latent diffusion mechanism conditioned on multi-modal embedding fusion for high-fidelity image synthesis. These innovations enable STARS to generate semantically accurate and visually complex aerial images, even in scenarios with extreme complexity. Our extensive evaluation across multiple benchmarks demonstrates that STARS outperforms state-of-the-art models such as Stable Diffusion and ARLDM, achieving superior FID scores and setting a new standard for aerial image synthesis.}
+}

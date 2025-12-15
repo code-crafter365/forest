@@ -1,0 +1,13 @@
+@article{BADAWI2025105826,
+title = {Neural operator-based proxy for reservoir simulations considering varying well settings, locations, and permeability fields},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105826},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105826},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424003091},
+author = {Daniel Badawi and Eduardo Gildin},
+keywords = {Neural operators, Fourier neural operators, Transport in porous media, Reservoir engineering, Darcy flow, Deep learning},
+abstract = {Simulating Darcy flows in porous media is fundamental to understand the future flow behavior of fluids in hydrocarbon and carbon storage reservoirs. Geological models of reservoirs are often associated with high uncertainly leading to many numerical simulations for history matching and production optimization. Machine learning models trained with simulation data can provide a faster alternative to traditional simulators. In this paper we present a single Fourier Neural Operator (FNO) surrogate that outperforms traditional reservoir simulators by the ability to predict pressures and saturations on varying permeability fields, well locations, well controls, and well count. The mean relative error of pressure and saturation predictions is less than 1%. This is achieved by employing a simple yet very effective data augmentation technique that reduces the simulation training dataset size by 75% and reduces overfitting. Also, constructing the input tensor in a binary fashion enables predictions on unseen well locations, well controls, and well count.}
+}

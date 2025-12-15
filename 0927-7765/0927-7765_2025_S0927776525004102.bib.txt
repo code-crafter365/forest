@@ -1,0 +1,13 @@
+@article{DAZA2025114903,
+title = {Diffusion of tracer particles in early growing biofilms a computer simulation study},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114903},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114903},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004102},
+author = {Fabián A. García Daza and Álvaro Rodríguez-Rivas and Fernando Govantes and Alejandro Cuetos},
+keywords = {Tracer, Diffusion, Biofilm, Microrheology, Computer simulation, IbM model},
+abstract = {The diffusion of particles in complex media has gained significant interest due to its dual relevance: probing the viscoelastic properties of materials via microrheology and assessing the extent of particle displacement over time. In this work, we explore the early-stage diffusion of a tracer particle within a developing bacterial biofilm using implicit-solvent Brownian dynamics simulations. At these initial stages, bacterial colonies form two-dimensional structures that expand through cell growth and division. Employing an agent-based computational model (IbM), we analyze the passive diffusion of a spherical tracer within colonies of varying compaction levels. Our findings reveal that, at very short timescales, tracer diffusion follows a standard diffusive regime, modulated by colony aging. However, at longer times, the dominant factor governing tracer motion is colony growth, which effectively confines the tracer within the expanding structure, except in cases where the microcolony is highly unstructured or the tracer is sufficiently small. Additionally, through MR techniques, we quantify the elastic and viscous moduli of the growing microcolony, offering insight into its evolving viscoelastic behavior.}
+}

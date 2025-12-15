@@ -1,0 +1,13 @@
+@article{YU2025108937,
+title = {Balance working temperature and viewing angle properties in polymer dispersed liquid crystal film via SiO2},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108937},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108937},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002313},
+author = {Tao Yu and Jianjun Xu and Jianjun Chen and Jianxin Liu and Yanzi Gao},
+keywords = {Polymer dispersed liquid crystal, Smart materials, Polymer-matrix composites (PMCs), Electrical properties},
+abstract = {The application of polymer dispersed liquid crystal (PDLC) film has been significantly hindered due to its unsatisfactory contrast ratio (CR) in high-temperature environments, delayed response speed in low-temperature conditions, and suboptimal off-axis viewing angles. To address these issues, nano-particle SiO2 with a similar refractive index to polymer was introduced into the film, and then the electro-optical properties and viewing angle characteristics of PDLC films with different contents of SiO2 at 100 °C and −30 °C were analyzed. When the doping amount of SiO2 is 1.5 wt% of the polymer component, the contrast ratio of PDLC films at 100 °C is increased to 16, which is 60 % higher than that of undoped SiO2 films. At −30 °C, the saturation voltage is 59 V (2.95 V/μm), and the rise time and decay time are 0.35 s and 2.5 s, respectively, slightly higher than the film without doping SiO2. The film also maintained a good viewing angle, with Hon < 15 % at 45° and Ton > 60 % at 60°. Balancing the film’s viewing angle and working temperature is anticipated to enhance its applicability for outdoor smart windows.}
+}

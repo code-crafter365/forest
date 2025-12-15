@@ -1,0 +1,13 @@
+@article{ZHAO2025118998,
+title = {Experimental study of bond performance on carbon fiber fabric-steel joint with mechanical anchors at elevated temperatures},
+journal = {Composite Structures},
+volume = {359},
+pages = {118998},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118998},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001631},
+author = {Zhongwei Zhao and Zeyuan Jin},
+keywords = {CFRP, Bond-slip behavior, Anchor reinforcement, Steel structure strengthening, High-temperature effects},
+abstract = {This paper investigates the effects of anchor reinforcement on the bond-slip behavior of carbon fiber fabric-steel systems under high-temperature conditions. The experiments were conducted with three temperature ranges from 20 °C to 70 °C, including a control group with no anchor reinforcement and two groups with different anchor positions. The results indicated that as the temperature increased from 20 °C to 50 °C, the load capacity of all specimen groups improved to varying extents. Beyond 50 °C, a significant degradation in load capacity was observed for all groups. Furthermore, temperature and anchor position significantly affected the failure modes, including the residual area of carbon fiber fabric on the steel plate surface (RA) and the modes of carbon fiber fabric fracture, as well as the bond-slip behavior. As the temperature rose, but the glass transition temperature (Tg), RA increased, impacting the strain distribution and the maximum shear stress at the bonded interface. The experiments also showed that when the environmental temperature exceeds Tg, anchor reinforcement can enhance the bond reliability of the carbon fiber fabric-steel system. The findings of this study provide insights into the degradation patterns of carbon fiber fabric-steel under high-temperature environments and propose a viable reinforcement method.}
+}

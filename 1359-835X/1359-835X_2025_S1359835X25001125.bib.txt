@@ -1,0 +1,11 @@
+@article{SMERDOVA2025108818,
+title = {Variability in sliding behaviour of carbon fibre tows investigated by Discrete Element Method and experiments},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108818},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108818},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001125},
+author = {Olga Smerdova and Chenghao Chai and Ismail Kolimi and Noël Brunetière}
+}

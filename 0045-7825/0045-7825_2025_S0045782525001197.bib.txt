@@ -1,0 +1,13 @@
+@article{HUANG2025117847,
+title = {The rationality of using dynamic relaxation method for failure simulation in peridynamics},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117847},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117847},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001197},
+author = {Xiaohua Huang and Ting Hu and Yanli Jin and Shuang Li and Dong Yang and Zhi Zheng},
+keywords = {Dynamic relaxation method, Static, Quasi-static, Crack, Joint algorithm, Peridynamics},
+abstract = {In peridynamics, a large amount of research related to material failure has applied the dynamic relaxation (DR) method under static or quasi-static loading conditions. However, as a pseudo-dynamic method that converts static problems into dynamic problems by introducing fictitious inertia and damping terms, the intermediate attenuation process of the DR method is not realistic. Whether it is truly suitable for simulating the irreversible mechanical behavior of material failure, which closely depends on the real process and has significant dynamic effects in the later stage of failure, is still a debatable issue. This article first derives the prerequisite for applying the DR method to solve static or quasi-static problems, which is to ensure that the load and system stiffness remain constant during the solving process. However, material damage will inevitably weaken the stiffness of the system and break this prerequisite. In view of this, using explicit dynamic algorithm for failure simulation is worthy of being reconsidered. Secondly, the DR method is used to simulate the failure of l-shaped concrete specimen, and it is found that selecting different fictitious damping coefficients may lead to different crack propagation paths, resulting in uncertainty in the simulation results. It is also found that due to the use of fictitious damping in the DR method to suppress the acceleration effect in the accelerated failure stage, the dynamic effect of the system is not fully utilized, which leads to distortion of simulation results. At last, a two-stage joint algorithm is proposed suitable for material failure problems under static or quasi-static loading conditions. The DR method is only applied to the continuous deformation stage of materials without any damage, while the explicit dynamic algorithm is applied to the crack initiation and propagation stage after damage occurs. The numerical examples illustrate the effectiveness of the joint algorithm.}
+}

@@ -1,0 +1,13 @@
+@article{CAO2025114385,
+title = {Liquid-liquid phase separation in viral infection: From the occurrence and function to treatment potentials},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114385},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114385},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006441},
+author = {Zhaoxiao Cao and Yanhua Yang and Simeng Zhang and Tiancheng Zhang and Peng Lü and Keping Chen},
+keywords = {Viral infection, Liquid-liquid phase separation, Condensates, Antiviral drugs},
+abstract = {Liquid-liquid phase separation (LLPS) of biomacromolecules, as a widespread cellular functional mechanism, is closely related to life processes, and is also commonly present in the lifecycle of viruses. Viral infection often leads to the recombination and redistribution of intracellular components to form biomacromolecule condensates assembled from viral replication-related proteins and intracellular components, which plays an important role in the process of viral infection. In this review, the key and influencing factors of LLPS are generalized, which mainly depend on various molecular interactions and environmental conditions in solution. Meanwhile, some examples of viruses utilizing LLPS are summarized, which are conducive to further understanding the subtle and complex biological regulatory processes between phase condensation and viruses. Finally, some representative antiviral drugs targeting phase separation that have been discovered are also outlined. In conclusion, in-depth study of the role of LLPS in viral infection is helpful to understand the mechanisms of virus-related diseases from a new perspective, and also provide a new therapeutic strategy for future treatments.}
+}

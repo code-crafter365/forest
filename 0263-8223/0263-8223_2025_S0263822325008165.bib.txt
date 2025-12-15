@@ -1,0 +1,13 @@
+@article{SMEETS2025119651,
+title = {Characterization of impact damage patterns in composite aerospace structures using augmented thermal signal reconstruction},
+journal = {Composite Structures},
+volume = {373},
+pages = {119651},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119651},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008165},
+author = {Mark Smeets and Francesco {Lanza di Scalea} and Margherita Capriotti},
+keywords = {Infrared thermography, Nondestructive testing, Thermal signal reconstruction, Impact damage, Composite Structures},
+abstract = {Barely visible impact damage in composite materials threatens the safety and durability of composite structures. Due to its low visibility and complexity, the quantitative characterization of the damage mechanisms involved is very critical. This is particularly challenging in composite aerospace structures, where multiple components are assembled and concurrent interactive failure mechanisms due to impact involve different structural elements. In this paper, pulsed infrared thermography was applied on a skin-to-stringer carbon fiber reinforced polymer panel, subjected to impacts. New 2nd time derivative features and a time augmented version of the Thermal Signal Reconstruction (TSR) technique are proposed to characterize realistic matrix cracking and delamination damage, leveraging the cooling dynamics of pulsed thermography. Five unique damage patterns, ranging from 20 mm to 100 mm in length and distributed throughout the panel thickness and components, are identified. Type, size, and depth of the damage patterns are quantified and compared to independently mapped damage. Current destructive and non-destructive techniques have limitations in preserving the damage and specimen states and in providing rapid assessment, respectively. The proposed experimental method enables to identify post-mortem and characterize the evolution of impact damage mechanisms non-invasively for the assessment of impact damage progression in large composite assemblies.}
+}

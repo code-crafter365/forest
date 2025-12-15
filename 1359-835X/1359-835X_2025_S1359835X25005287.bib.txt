@@ -1,0 +1,13 @@
+@article{LI2025109234,
+title = {Multi-scale damage modeling and failure mechanisms analysis of 3D woven composites with considering stochastic fiber strength and initial misalignment angle dispersion},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109234},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109234},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005287},
+author = {Kailun Li and Yixing Qian and Shaoran Cheng and Zhenyu Yang and Zixing Lu},
+keywords = {3D woven composites, Stochastic strength distribution, Multi-scale modelling, Progressive damage model, Fiber misalignment},
+abstract = {This study addresses the critical challenge of uncertainty quantification in mechanical performance prediction for three-dimensional woven composites (3DWCs), focusing on two key stochastic factors: the inherent dispersion in carbon fiber tensile strength and the statistical distribution of initial fiber misalignment angles. This paper establishes a multi-scale progressive damage model that connects the mesoscale and microscale via the bridging model and the renormalization group method (RGM), incorporating two uncertainties: fiber strength dispersion and initial fiber misalignment angle dispersion. Experimental validation through uniaxial tension and compression testing of 3DWC specimens demonstrates excellent agreement between numerical predictions and stress–strain responses, particularly in capturing the characteristic nonlinear deformation stages. The model successfully reveals distinct damage progression patterns: fiber cracking dominated failure in tension versus fiber kinking induced collapse in compression. Parametric analysis quantifies the sensitivity of mechanical properties to key variables, revealing that tensile strength is significantly affected by variations in interface strength. Statistical analysis confirms normal distribution characteristics for both tensile and compressive strength. This work provides a physics-based probabilistic modeling paradigm for reliability assessment of woven composites, offering critical insights for damage-tolerant composites structures design.}
+}

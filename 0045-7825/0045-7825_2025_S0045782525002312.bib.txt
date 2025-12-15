@@ -1,0 +1,13 @@
+@article{BAI2025117959,
+title = {Coupling of data-driven and model-driven computing within non-matching meshes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117959},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117959},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002312},
+author = {Xiaowei Bai and Jie Yang and Qun Huang and Wei Huang and Huicui Li and Noureddine Damil and Heng Hu},
+keywords = {Data-driven computing, Non-matching meshes, Coupling},
+abstract = {This work aims to couple distance-minimizing data-driven computing with model-driven computing (standard constitutive model-based simulations), allowing for non-matching interfaces between computational regions meshed with both full and reduced finite elements. Specifically, data-driven (DD) computing is employed for regions where the material constitutive models are difficult to determine, whilst model-driven (MD) computing is applied to the remaining regions to take advantage of its computational efficiency. To connect non-matching interfaces, a penalty-based technique is utilized to ensure the continuity of displacements and the accurate transfer of interaction forces across these interfaces. In this manner, the proposed method becomes more versatile and practical for engineering applications, enabling separate modeling of data-driven and model-driven regions with different mesh refinements or types of elements (e.g., coarse and fine meshes, full and reduced finite elements) based on their specific needs. Several examples are provided to illustrate the effectiveness and robustness of the proposed method.}
+}

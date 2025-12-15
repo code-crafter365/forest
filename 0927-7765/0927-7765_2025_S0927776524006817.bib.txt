@@ -1,0 +1,13 @@
+@article{ACAR2025114422,
+title = {Curious effects of overlooked aspects on urease activity},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114422},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114422},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006817},
+author = {Mert Acar and Duccio Tatini and Valentina Romani and Barry W. Ninham and Federico Rossi and Pierandrea {Lo Nostro}},
+keywords = {Hofmeister series, Kosmotropicity, Chaotropicity, Dissolved gases, Heavy water, Enzymatic activity, Urease},
+abstract = {Intermolecular forces determine complex chemical structures of exquisite intricacy, like proteins. However even the most advanced theories we have so far rely on too drastic approximations to explain them. Some crucial aspects that dictate structure, specific ion and solvent effects are not accommodated. Further the very significant effects of dissolved atmospheric gas are completely ignored and unexplored. Here we examine the effects of cations, dissolved gasses, and heavy water on the pH clock reactions of urease. This enzyme catalyzes the hydrolysis of urea to ammonium and bicarbonate in unbuffered aqueous solutions. In so doing it increases the pH. Circular dichroism and fluorescence experiments are used to assess conformational effects. The results highlight the subtle interplay of different factors that participate in determining the urease activity. The experimental data are correlated with specific ion physicochemical parameters and conformational data. They are explored in the context of specific ion and solvent interactions and hydration.}
+}

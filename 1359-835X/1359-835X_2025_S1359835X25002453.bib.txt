@@ -1,0 +1,13 @@
+@article{CHEN2025108951,
+title = {An experimental investigation into the lightning strike response of Z-pinned composite laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {195},
+pages = {108951},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108951},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002453},
+author = {Mudan Chen and Yu Zhou and Bing Zhang and Giuliano Allegri and Tomohiro Yokozeki and Stephen R. Hallett},
+keywords = {Multifunctional composites, Lightning strike, Z-pin, Laminate},
+abstract = {Despite their outstanding mechanical performance and lightweight characteristics, carbon fibre reinforced polymer (CFRP) composites also have some limitations, notably: poor delamination resistance and vulnerability to lightning strikes. Z-pinning through-thickness reinforcement (TTR) technology addresses the first of these and this research represents the first investigation on the lightning strike damage response of Z-pinned CFRP composites. Two types of specimens were tested: unpinned and 0.1% carbon-fibre Z-pinned. Experimental results reveal that while Z-pinning enhances through-thickness electrical conductivity, it introduces new complexities. During lightning events, the intense current surge causes the carbon-fibre pins and adjacent resin pockets to decompose, resulting in localised damage, larger delamination areas, and reduced residual strength compared to unpinned laminates. Carbon-fibre Z-pinned laminates, however, dissipate heat more rapidly due to the efficient heat transfer facilitated by the pins. This study offers a novel perspective on the potential advantages and challenges associated with the application of Z-pinning in aircraft structures.}
+}

@@ -1,0 +1,13 @@
+@article{DERRICO2025114852,
+title = {Characterization of the surface charge and reactivity of Schizophyllum commune mycelium material},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114852},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114852},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003595},
+author = {Antonio d'Errico and Michaela Schröpfer and Anke Mondschein and Han A.B. Wösten},
+keywords = {Mycelium material, Surface charge, Isoelectric point, Zeta potential, Cross-linking, Fungus},
+abstract = {Mycelium fabrics are an emerging alternative to textiles and leather. Here we studied surface charge and reactivity of water-washed and KOH-treated mycelium and water-extracted and KOH-extracted cell walls from Schizophyllum commune. Zeta potential analysis was used to study the surface charge of the mycelium, while FTIR, amino acid analysis and isoelectric point shift were used to assess functional group accessibility and reactivity of the cross-linker glutaraldehyde. The isoelectric point (pI) of water-washed and KOH-treated mycelium was found at pH 2.75 and pH 3.58, respectively, and at pH 3.55 for KOH-extracted cell walls. No pI was found for water-extracted cell walls in a pH range of 2–9. Treatment of water-washed mycelium and water-extracted cell walls with glutaraldehyde resulted in a pI shift from pH 2.75 to pH 3.07 and from no pI in the range of 2–9 to a pI of 2.72, suggesting binding to acid groups. By contrast, a pI shift to lower pH (from pH 3.58 and 3.55 to pH 2.77 and 3.17, respectively) was observed after treatment of KOH-washed mycelium and KOH-extracted cell walls with glutaraldehyde, indicating binding to basic groups. Indeed, amino acid analysis showed a reduction in lysine after treatment with the cross-linker. Together, results indicate that a higher incidence of cross-linking of glutaraldehyde to polysaccharides is responsible for the pI shift to higher pH in the case of the water-treated mycelium, while a higher incidence of binding to basic amino acids causes the shift to lower pH in the case of KOH-treated mycelium and KOH-extracted cell walls.}
+}

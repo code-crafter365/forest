@@ -1,0 +1,13 @@
+@article{BEETZ2025102587,
+title = {3D cardiac shape analysis with variational point cloud autoencoders for myocardial infarction prediction and virtual heart synthesis},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102587},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102587},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000965},
+author = {Marcel Beetz and Abhirup Banerjee and Lei Li and Julia Camps and Blanca Rodriguez and Vicente Grau},
+keywords = {3D anatomy modeling, Cardiac electrophysiology simulation, Geometric deep learning, Myocardial infarction prediction, Point cloud VAE, Virtual population generation},
+abstract = {Cardiac anatomy and physiology vary considerably across the human population. Understanding and taking into account this variability is crucial for both accurate clinical decision-making and realistic in silico modeling of cardiac function. In this work, we propose multi-class variational point cloud autoencoders (Point VAE) as a novel geometric deep learning approach for 3D cardiac shape and function analysis. Its encoder–decoder architecture enables efficient multi-scale feature learning directly on high resolution point cloud representations of the multi-class 3D cardiac anatomy and can capture complex non-linear 3D shape variability in a low-dimensional and interpretable latent space. We first evaluate the Point VAE’s reconstruction ability on a dataset of over 10,000 subjects and find mean Chamfer distances between input and reconstructed point clouds below the pixel resolution of the underlying image acquisitions. Furthermore, we analyze the Point VAE’s latent space and observe a realistic and disentangled representation of morphological and functional variability. We test the latent space for pathology prediction and find it to outperform clinical benchmarks by 13% and 16% in area under the receiver operating characteristic (AUROC) curves for the tasks of prevalent myocardial infarction (MI) detection and incident MI prediction, respectively, and by 10% in terms of Harrell’s concordance index for MI survival analysis. Finally, we use the generated populations for in silico simulations of cardiac electrophysiology, demonstrating its ability to introduce realistic natural variability.}
+}

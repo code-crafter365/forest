@@ -1,0 +1,13 @@
+@article{SHAO2025117697,
+title = {Concurrent topology optimization of two-scale structures with minimum width control in microscale by using a M-VCUT level set based model of microstructures},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117697},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117697},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009514},
+author = {Minjie Shao and Zhuo Huang and Tielin Shi and Qi Xia},
+keywords = {Concurrent topology optimization, Minimum length scale, M-VCUT, Level set, Homogenization, Radial basis function},
+abstract = {A method is proposed to control the minimum width in microscale for concurrent topology optimization of two-scale structures by using a M-VCUT level set model of microstructures. The key idea is to construct a data-driven model of microstructures that satisfies the requirement of minimum width in an off-line phase. Especially, a topology variable is assigned to each virtual microstructure to eliminate it if it is inefficient. During the on-line phase of concurrent topology optimization, a simple numerical relationship between the design variables and the effective mechanical properties of microstructure is used for efficient finite element analysis in the macroscale. The results of several numerical examples prove that the proposed method is effective.}
+}

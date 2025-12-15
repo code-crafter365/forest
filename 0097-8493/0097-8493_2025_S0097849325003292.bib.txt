@@ -1,0 +1,13 @@
+@article{LIU2025104488,
+title = {MESA-Net: Multi-Scale Enhanced Spatial Attention Network for medical image segmentation},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104488},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104488},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325003292},
+author = {Demin Liu and Zhou Yang and Hua Wang and Huiyu Li and Fan Zhang},
+keywords = {Medical image segmentation, Self-attention mechanism, Extended reality, Local contextual relationships, Multi-scale network, Feature map refinement},
+abstract = {Medical image segmentation plays a critical role in enabling precise visualization and interaction within Extended Reality (XR) environments, which are increasingly used in surgical planning, image-guided interventions, and medical training. Transformer-based architectures have recently become a prominent approach for medical image segmentation due to their ability to capture long-range dependencies through self-attention mechanisms. However, these models often struggle to effectively extract local contextual information that is essential for accurate boundary delineation and fine-grained structure preservation. To address this issue, we propose Multi-Scale Enhanced Spatial Attention Network (MESA-Net), a novel architecture that synergistically combines global attention modeling with localized feature extraction. The network adopts an encoder–decoder structure, where the encoder leverages a pre-trained pyramid vision transformer v2 (PVTv2) to generate rich hierarchical representations. We design a position-aware spatial attention module and a multi-dimensional feature refinement module, which are integrated into the decoder to strengthen local context modeling and refine segmentation outputs. Comprehensive experiments on the Synapse and ACDC datasets demonstrate that MESA-Net achieves state-of-the-art performance, particularly in preserving fine anatomical structures. These improvements in segmentation quality provide a solid foundation for future XR applications, such as real-time interactive visualization and precise 3D reconstruction in clinical scenarios. Our method’s code will be released at: https://github.com/bukeyijuanjuan/MESA-Net.}
+}

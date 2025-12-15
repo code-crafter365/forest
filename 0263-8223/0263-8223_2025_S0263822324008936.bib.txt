@@ -1,0 +1,13 @@
+@article{KRALOVEC2025118765,
+title = {Static strength and fatigue life of pinned hybrid titanium-composite single-lap-shear joints},
+journal = {Composite Structures},
+volume = {354},
+pages = {118765},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118765},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008936},
+author = {Christoph Kralovec and Andreas Dengg and Martin Schagerl and Arne Schiller and Chiara Bisagni and Miriam Loebbecke and Jan Haubrich and Robert Hanelt},
+keywords = {Pinned hybrid titanium-CFRP joint, Static strength, Fatigue strength, Laser powder bed fusion, Digital image correlation},
+abstract = {Modern aircraft structures consist of a multi-material mix, dominated by high-performance composites, but also including metal alloys, e.g., for load introduction parts. This experimental research investigates the static and fatigue strength of pinned hybrid titanium-composite single-lap-shear joints. The Ti6Al4V adherend is manufactured by laser powder bed fusion. The joining is done by co-curing with the carbon fiber reinforced polymer adherend. The static tests focus on damage initiation and ultimate load, and are benchmarked by identical joints without pins. The fatigue tests focus on damage initiation and propagation. Digital image correlation is used for damage monitoring. Results show, (i) a high ratio of static ultimate failure to damage initiation load, (ii) early low-cycle damage initiation but then long high-cycle fatigue life until failure, and (iii) the crack stopping effect of the interlocking pins. Furthermore, visual joint failure analysis reveals a variety of damage modes, suggesting comprehensive testing and proper pin design.}
+}

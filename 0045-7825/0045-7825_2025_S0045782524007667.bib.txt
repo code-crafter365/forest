@@ -1,0 +1,13 @@
+@article{WANG2025117512,
+title = {Peridynamic modelling of time-dependent behaviour and creep damage in hyper-viscoelastic solids with pre-cracks},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {433},
+pages = {117512},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117512},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524007667},
+author = {Luyu Wang and Zhen-Yu Yin},
+keywords = {Progressive damage, Fracture, Creep, Loading path, Inelastic deformation, Peridynamics},
+abstract = {Time-dependent deformation and damage in viscoelastic materials exhibit distinct characteristics compared to purely brittle or ductile materials, especially under large deformations. These behaviours become even more complex in the presence of pre-cracks. To model this process, we propose an improved non-ordinary state-based peridynamics (NOSB-PD) with implicit adaptive time-stepping (IATS). The proposed formulation encompasses several key aspects, including peridynamic governing equations, improvements to the conventional NOSB-PD, incorporation of a hyper-viscoelastic constitutive model, and an implicit discretization method. The highlights of this study include: (1) Proposing an improved NOSB-PD integrated with a stabilised bond-associated (BA) scheme; (2) Incorporating a hyper-viscoelastic constitutive model combined with a damage model into the framework; (3) Developing a novel IATS method for efficient simulation of time-dependent behaviours; and (4) Exploring the effects of crack patterns and material properties on damage evolution, offering key insights into underlying mechanisms. Then, numerical examples are conducted using the proposed IATS BA-NOSB-PD to simulate hyper-viscoelastic deformation and creep damage. Numerical performance is thoroughly evaluated through benchmark tests, demonstrating that the proposed method effectively simulates creep processes under stepwise loading and unloading conditions. The effects of crack patterns, critical energy release rate, and shear modulus on creep damage are explored in-depth. The results reveal that the propagation and coalescence of multiple cracks take longer compared to a single crack. The influence of crack patterns becomes more pronounced when multiple cracks are present.}
+}

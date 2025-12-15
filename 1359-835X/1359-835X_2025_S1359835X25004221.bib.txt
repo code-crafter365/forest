@@ -1,0 +1,13 @@
+@article{SMA2025109128,
+title = {Can laser shock effectively dismantle carbon fibers laminated composite while preserving material integrity for reuse?},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109128},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109128},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004221},
+author = {Ines Sma and Juan Pablo {Marquez Costa} and Emmanuel Richaud and Yann Rouchausse and Essi Sarlin and Fabian Wunderle and Laurent Berthe},
+keywords = {Laser shock processes, Delamination, Dismantling, Carbon fiber reinforced thermoset plastic, Reuse},
+abstract = {This paper presents the development of a controlled process for dismantling laminated carbon fiber composite materials for reuse applications, specifically through laser shock technology. First, the conditions required for dismantling include pressure (GPa) and strain rate (106–107 s−1), which are applied. Second, the recovery rate is considered, defined as the ratio of the shocked surface to the total surface (68%). A symmetric laser configuration is used, which induces delaminations in the middle of the sample to weaken the material interply interface. After the recovery of composite plies (half-laminates), the residual properties of dismantled samples are characterized using various techniques to assess the effects of laser shock application on the dismantling of the composite. Surface integrity, chemical properties, thermal stability, and mechanical properties are evaluated. The findings demonstrate that, even under high Laser Power Density (LPD), laser-shock dismantling has minimal impact on the surface integrity, chemical, and mechanical properties of the material. Optimized laser shock parameters (laser power density, recovery rate) have been identified, leading to a decrease in interlaminar mechanical properties (strength and toughness). The Interlaminar Shear Strength (ILSS) tests reveal a favorable balance between parameters, achieving optimal interface weakening for dismantling with minimal damage to the material. Additionally, Double Cantilever Beam (DCB) tests were conducted on samples treated with optimized laser shock parameters to quantify the weakening of the interface induced by the laser shock through the evaluation of residual toughness (GIC) to delamination.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025102563,
+title = {A deep learning framework for reconstructing Breast Amide Proton Transfer weighted imaging sequences from sparse frequency offsets to dense frequency offsets},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102563},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102563},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000722},
+author = {Qiuhui Yang and Shu Su and Tianyu Zhang and Meng Wang and Weiqiang Dou and Kefeng Li and Ya Ren and Yijia Zheng and Mingwei Wang and Yi Xu and Yue Sun and Zhou Liu and Tao Tan},
+keywords = {Amide proton transfer, Breast cancer, Sparse frequency offsets, Deep learning, Sequence-to-sequence framework},
+abstract = {Amide Proton Transfer (APT) technique is a novel functional MRI technique that enables quantification of protein metabolism, but its wide application is largely limited in clinical settings by its long acquisition time. One way to reduce the scanning time is to obtain fewer frequency offset images during image acquisition. However, sparse frequency offset images are not inadequate to fit the z-spectral, a curve essential to quantifying the APT effect, which might compromise its quantification. In our study, we develop a deep learning-based model that allows for reconstructing dense frequency offsets from sparse ones, potentially reducing scanning time. We propose to leverage time-series convolution to extract both short and long-range spatial and frequency features of the APT imaging sequence. Our proposed model outperforms other seq2seq models, achieving superior reconstruction with a peak signal-to-noise ratio of 45.8 (95% confidence interval (CI): [44.9 46.7]), and a structural similarity index of 0.989 (95% CI:[0.987 0.993]) for the tumor region. We have integrated a weighted layer into our model to evaluate the impact of individual frequency offset on the reconstruction process. The weights assigned to the frequency offset at ±6.5 ppm, 0 ppm, and 3.5 ppm demonstrate higher significance as learned by the model. Experimental results demonstrate that our proposed model effectively reconstructs dense frequency offsets (n = 29, from 7 to -7 with 0.5 ppm as an interval) from data with 21 frequency offsets, reducing scanning time by 25%. This work presents a method for shortening the APT imaging acquisition time, offering potential guidance for parameter settings in APT imaging and serving as a valuable reference for clinicians.}
+}

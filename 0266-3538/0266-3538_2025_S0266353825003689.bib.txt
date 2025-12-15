@@ -1,0 +1,13 @@
+@article{NA2025111400,
+title = {Data-driven engineering and analysis of polymer composites with high thermal conductivity},
+journal = {Composites Science and Technology},
+volume = {272},
+pages = {111400},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111400},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825003689},
+author = {Chaeseong Na and Sangsoo Shin and Donghun Lee and Yeomyung Yoon and Suk-kyun Ahn and Hyosung An and Jaegeun Lee and Chae Bin Kim},
+keywords = {Thermal interface materials (TIMs), Thermal conductivity, Bayesian optimization, Polymer composites, X-ray tomography},
+abstract = {The inherent stochastic nature of the structure–property relationships in polymer composites has long posed a challenge, making accurate prediction and optimization nearly impossible. To address this issue, a data-driven engineering approach is presented for designing polymer composites with exceptionally high thermal conductivities (TCs) using polydimethylsiloxane and spherical alumina particles as the model matrix and filler, respectively. Bayesian optimization is performed to determine the optimal composition of spherical alumina fillers with average diameters of 90, 20, 3, and 0.6 μm. The resulting composite exhibits optimized filler packing and a TC of approximately 6.89 W m−1 K−1, surpassing previously reported values. High-resolution 3D X-ray computed tomography combined with quantitative structural analysis further reveals that microstructural features, such as particle connectivity and interfacial characteristics, critically influence the TC of the composite. These findings highlight the effectiveness of machine learning–driven optimization and advanced imaging techniques in capturing the probabilistic nature of composite behavior, enabling the development of high-performance thermal interface materials with enhanced TC, mechanical strength, and reduced thermal expansion.}
+}

@@ -1,0 +1,13 @@
+@article{SAWANT2025114811,
+title = {Evaluating antibiofilm efficacy of carbon dots against Pseudomonas Aeruginosa based on precursor molecule selection},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114811},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114811},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003182},
+author = {Vikram Sawant and Hammed Faleke and Bikash Bhattarai and Sara Strickland and Dimitri Pappas and Gordon F. Christopher},
+keywords = {Biofilm, Carbon dots, Pseudomonas aeruginosa, Microrheology, Dispersion},
+abstract = {Carbon dots (CDs) represent a new class of potential antimicrobials with improved ability to penetrate biofilms and the ability to customize effects via selection of novel precursor molecules. However, the full range of potential antibiofilm impacts of CDs has not been well cataloged. In this work, the antibiofilm impact of CDs against Pseudomonas Aeruginosa biofilms are examined for a range of traditional metrics: planktonic antibacterial activity, cell viability within the biofilm, and biomass reduction. Additionally, the impact on biofilm viscoelasticity and dispersal are also characterized, which have not previously been reported. These new metrics are used to understand if CDs can be engineered to attack a biofilm's extra polymeric substance. To do this, CDs were made from 2 commonly used precursor molecules, albumin and citric acid. Additionally, one CD was made from cellulase, which in molecular form has enzymatic activity to break down polysaccharides found in the extra polymeric substance. All CDs exhibited some antibiofilm impact and weakened biofilms. However, the cellulase based CDs were most impactful particularly in reducing biomass, weakening biofilms, and causing dispersal. These results indicate that attacking biofilm EPS by using CDs that retain enzymatic activity is a promising avenue of potential treatment.}
+}

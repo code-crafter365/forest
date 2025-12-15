@@ -1,0 +1,13 @@
+@article{MATSUNAGA2025118395,
+title = {High-order time-marching schemes for incompressible flow in particle methods},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118395},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118395},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252500667X},
+author = {Takuya Matsunaga},
+keywords = {Computational fluid dynamics, Meshfree method, Stabilized LSMPS method, Projection method, Runge–Kutta method, Temporal convergence},
+abstract = {This paper presents novel high-order time-marching schemes for simulating incompressible flow in particle methods. The proposed schemes are based on a newly developed formulation that describes the time evolution of computational variables along particle trajectories, resulting in a new form of the pressure Poisson equation. This formulation enables the direct application of existing forward-advancing time integration schemes, such as explicit Runge–Kutta methods, to achieve high-order temporal accuracy. Furthermore, the proposed schemes are generalized for arbitrary particle movement, enabling the efficient incorporation of particle shifting without requiring additional particle movement or variable corrections. By applying Runge–Kutta methods, this study presents four single- or multistage schemes referred to as RK1–RK4, corresponding to the number of stages. The validity of the proposed schemes is rigorously evaluated through numerical investigations involving four test cases and three types of particle movement (Lagrangian, Eulerian, and quasi-Lagrangian). The results reveal that the proposed RK2, RK3, and RK4 schemes achieve second-, third-, and fourth-order temporal convergence, respectively, and exhibit substantially higher accuracy than conventional first-order schemes, leading to improved volume and energy conservation. In addition, the proposed schemes demonstrate high computational efficiency, indicating their practical value for the numerical analysis of incompressible flow.}
+}

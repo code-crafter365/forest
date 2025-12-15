@@ -1,0 +1,13 @@
+@article{LI2025114632,
+title = {Construction of hyaluronic acid/ZnO nanocubes and their pH-responsive stability in drug delivery},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114632},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114632},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001390},
+author = {Xueqing Li and Yulong Yan and Xubo Zhao},
+keywords = {Drug delivery system, Hyaluronic acid, PH-responsiveness, Stability, ZnO},
+abstract = {Hyaluronic acid (HA), a naturally occurring polysaccharide, is extensively utilized in the biomedical field owing to its excellent biocompatibility. However, assembling HA directly into nanomaterials with tunable stability remains challenging, primarily due to its hydrophilic nature. In this study, we introduce a novel method for inducing HA assembly through in-situ formation of ZnO nanoparticles to develop HA-based nanomaterials, specifically HA/ZnO nanocubes (HA/ZnO NCs). Following doxorubicin (DOX) loading, the DOX-loaded HA/ZnO NCs exhibit remarkable structural stability under normal physiological conditions and demonstrate acid-responsive dissociation within the tumor microenvironment. In vitro results confirm that HA/ZnO NCs possess excellent biocompatibility, while the DOX-loaded HA/ZnO NCs effectively inhibit tumor cell viability. Consequently, the integration of HA and ZnO represents a promising strategy for enhancing HA-based drug delivery systems (DDSs).}
+}

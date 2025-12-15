@@ -1,0 +1,13 @@
+@article{LI2025118031,
+title = {Second-order computational homogenization of flexoelectric composites with isogeometric analysis},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118031},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118031},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003032},
+author = {Bin Li and Ranran Zhang and Krzysztof Kamil Żur and Timon Rabczuk and Xiaoying Zhuang},
+keywords = {Flexoelectricity, Second-order homogenization, Isogeometric analysis, Finite cell method, Perturbation analysis},
+abstract = {Flexoelectricity is an electromechanical coupling phenomenon in which electric polarization is generated in response to strain gradients. This effect is size-dependent and becomes increasingly significant at micro- and nanoscale dimensions. While heterogeneous flexoelectric materials demonstrate enhanced electromechanical properties, their effective application in nanotechnology requires robust homogenization methods. In this study, we propose a novel second-order computational homogenization framework for flexoelectricity, which combines isogeometric analysis and the finite cell method. Key innovations include the introduction of high-order periodic boundary conditions and homogenized high-order stresses, which ensure consistent multiscale analysis. Periodic boundary conditions are applied using penalty methods, and perturbation analysis is employed to efficiently compute equivalent material coefficients. The effectiveness of the proposed method is validated through numerical examples, demonstrating its ability to generate piezoelectric effects in flexoelectric microstructured materials.}
+}

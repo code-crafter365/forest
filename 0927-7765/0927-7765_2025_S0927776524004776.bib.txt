@@ -1,0 +1,13 @@
+@article{LIU2025114218,
+title = {Non-releasing poly (ionic liquid) based hydrogel accelerates diabetic wound healing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114218},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114218},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524004776},
+author = {Pan Liu and Xiaojuan Chen and Zhiyong Lei and Kezhuo Chen and Wenwen Jin and Wenboxin Wang and Siyuan Liang and Jiaxin Yu and Mingzhang Ao and Longjiang Yu},
+keywords = {Diabetic wound, Hydrogel, Poly (ionic liquid), Non-releasing material, Antibacterial},
+abstract = {Persistent bacterial colonization, abnormal inflammatory responses, and impaired angiogenesis pose significant challenges to effective wound repair, particularly in diabetic wounds. Employing exogenous bioactive substances in wound dressings is a recognized approach to dynamically respond to the wound microenvironment and accelerate the repair process. However, this strategy can lead to the development of drug resistance and induce further tissue damage. To address these challenges, we are synthesizing a novel hydrogel for diabetic wound treatment using functional poly (ionic liquid) and modified dextran. The hydrogel is characterized by its excellent tissue adhesion, exceptional self-healing capacity, and substantial compressive deformation. It exhibits broad antibacterial activity, reduces the expression of pro-inflammatory cytokines and enhances the healing in diabetic wounds. Its efficacy is superior to that of the positive control group. This innovative non-releasing hydrogel presents as a promising alternative to conventional antibiotics, offering significant potential for the treatment and healing of diabetic chronic wounds.}
+}

@@ -1,0 +1,13 @@
+@article{SILVACAMPOS2025119414,
+title = {Quasi-static failure and stable crushing of mechanically-fastened carbon-fibre thermoplastic composite joints},
+journal = {Composite Structures},
+volume = {371},
+pages = {119414},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119414},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005793},
+author = {P.J. {Silva Campos} and D. Dalli and I.A. {Rodrigues Lopes} and A. Arteiro},
+keywords = {Composite materials, Testing, Mechanically-fastened joints, Energy absorption, Bearing strength},
+abstract = {Mechanically-fastened composite joints are widely used in aeronautical applications. In this work, a uni-directional (UD) carbon fibre-reinforced thermoplastic material system, stacked in a quasi-isotropic (QI) layup, is tested using specimens of the same thickness and different widths (w), loaded with 6 mm-diameter (D) pinned or bolted joints. In addition, the energy absorption capability is assessed using extended bearing tests for the two types of joints. As expected, the fastener type as well as the w/D and e/D ratios are key parameters for the global behaviour of the joint. The failure mode changes from net-tension to shear-out and bearing when the geometry of the specimen changes from 12 mm to 24 mm of width for both types of fastener. A steady-state crushing plateau is attained for all studied geometries when using a pin as a fastener except for the smallest width specimen. For the bolt-bearing tests, steady-state crushing was only possible with the extended bearing geometry. The presented results are at least comparable to those of advanced thermoset composite joints, with a significant delay of the first load drop with respect to the laminate compressive strength, showing that thermoplastic composite joints can be as strong and efficient as their thermoset counterparts.}
+}

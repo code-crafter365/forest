@@ -1,0 +1,13 @@
+@article{POLYZOS2025108850,
+title = {Continuum damage modeling of unidirectional 3D-printed composites under longitudinal tension},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108850},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108850},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001447},
+author = {E. Polyzos and I.A. {Rodrigues Lopes} and P.P. Camanho and D. {Van Hemelrijck} and L. Pyl},
+keywords = {3D-printed composites, Weibull statistics, Continuum damage mechanics, Finite element method},
+abstract = {This work presents a two-scale modeling approach for simulating the progressive damage behavior of unidirectional 3D-printed composites reinforced with continuous fibers. The approach utilizes a semi-analytical method, combining analytical homogenization at the micro-scale and finite element modeling at the macro-scale. At the micro-scale, the analytical model incorporates weakest link theory and Weibull statistics to account for fiber damage. At the macro-scale, a novel method based on continuum damage mechanics (CDM) is developed to consider damage evolution. The two-scale modeling approach is compared to experimental results of tensile and open-hole tests of 3D-printed composites reinforced with continuous carbon fibers. The comparison demonstrates that the two-scale modeling approach captures well the complex mechanical behavior of unidirectional 3D-printed composites.}
+}

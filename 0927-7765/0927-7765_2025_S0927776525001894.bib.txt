@@ -1,0 +1,13 @@
+@article{GAO2025114682,
+title = {Multi-pathway copper metabolisms regulation based on an engineered copper/ferrous nanoplatform for enhanced tumor cuproptosis therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {252},
+pages = {114682},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114682},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525001894},
+author = {Yun Gao and Renlu Han and Zhen Guo and Zekai Zhuang and Jie Fu and Yafei Hou and Jiancheng Yu and Keqi Tang},
+keywords = {Ion interference, Multi-pathway, Elesclomol, Redox homeostasis, Tumor therapy},
+abstract = {Cuproptosis is a currently discovered programmed cell death modality driven by copper (Cu) ions, which shows potential application prospects in overcoming apoptotic resistance in cancer therapy due to its unique mechanism. Nevertheless, the efficiency of cuproptosis is restricted by strict Cu metabolism regulation. Herein, elesclomol (ES) and glucose oxidase (GOx) co-loaded CuFe2O4 (CF) nanoplatform (termed as CFEG) was elaborately engineered to boost cuproptosis through multi-pathway copper metabolisms regulation. After triggered by tumor-overexpressed glutathione (GSH), the released ES continuously chelated and targeted transport Cu ions through a shuttle mechanism to mitochondria where cuproptosis was initiated, which dramatically improved the influx efficiency of Cu. Additionally, GOx-mediated glucose oxidation reaction together with Cu and Fe ions stimulated Fenton reaction simultaneously amplified intracellular oxidative pressure by hydrogen peroxide (H2O2) self-supply and subsequent hydroxyl radical (•OH) generation, which down-regulated Cu exporter ATP7A expression and inhibited Cu ions efflux, thereby exacerbating cuproptosis. Furthermore, the consumption of GSH simultaneously reduced the chelation of GSH with Cu and promote the •OH generation, further potentiating the occurrence of cuproptosis. Collectively, such the multi-pathway copper metabolisms regulation including improved Cu influx, inhibited Cu efflux and GSH depletion significantly boosted cuproptosis, which synergized with photothermal effect of CF to efficiently repressed the growth of tumor in mice without causing systemic toxicity. This work provides a multivariate mode for enhanced tumor cuproptosis therapy, and may also inspire the design of advanced cuproptosis-related nanomedicine system.}
+}

@@ -1,0 +1,13 @@
+@article{GAO2025111235,
+title = {Enhancing the interlaminar behavior and impact damage resistance of CF/PPS composites via interface modification},
+journal = {Composites Science and Technology},
+volume = {269},
+pages = {111235},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111235},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002039},
+author = {Yu Gao and Jian Chang and Yue Li and Yu Zhang and Jianfeng Zhou and Shu Zhu},
+keywords = {CF/PPS thermoplastic laminate, Interface modification, Interlaminar strength, Low-velocity impact},
+abstract = {The mechanical response of reinforced composite structures to impact loads has proven to be challenging due to increased incidents of failures like interlaminar damage, fiber fractures, and matrix cracks. Notwithstanding the impressive impact resistance of thermoplastic composites, their fracture toughness is somewhat impacted by the fiber-matrix interface interaction. In this study, the interface of carbon fiber (CF) reinforced polyphenylene sulfide (PPS) composites (CF/PPS) were built through coating a thin layer of polyether sulfone (PES) on CFs to enhance interactions between fibers and matrix. The combination of hydrogen bonding between fiber and PES as well as the higher modulus of the PES sizing agent significantly improved the miscibility and interfacial interlocking, resulting in a 40.7 % increase in interlaminar shear strength. Under the same impact energy, the modified composites outpaced the non-modified ones in maximum impact load and rebound impact energy. The "pyramid" shape impact destruction seen in CF/PPS composites was absent in modified ones, which also showed a 25 %–33 % higher compression after impact (CAI) value. This underpins the significant increase in impact resistance and enhanced interfacial performance due to interfacial modifications.}
+}

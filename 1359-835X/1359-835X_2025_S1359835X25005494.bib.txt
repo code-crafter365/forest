@@ -1,0 +1,13 @@
+@article{WANG2025109255,
+title = {Synergistic strengthening of laminated Cu/Ti3SiC2/C composites achieved through stepwise gradient grain distribution and multi-level interface design},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109255},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109255},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005494},
+author = {Mu Wang and Xiaosong Jiang and Hongliang Sun and Rui Shu and Min Zou and Yu Jiao and Zixuan Wu and Liu Yang},
+keywords = {Heterostructure, Multi-level interface, Interface reaction, Strengthening mechanism},
+abstract = {The innovative stepwise gradient laminated structure effectively combined the characteristics of gradient structures and laminated structures. This study aimed to optimize the strength-ductility synergy in Cu/Ti3SiC2/C composites through a design featuring a stepwise gradient grain laminated structure, Cu/C multi-level interfacial configuration, and optimized orientation, fabricated via powder metallurgy (PM) and cumulative stacking (CS) method. The meticulously designed composite exhibited a stepwise gradient grain size distribution across layers, and Boltzmann statistics and orientation models showed that the degree of orientation of Cu-plated flake graphite (GFs@Cu) exhibited interlayer differences. Through microstructural analysis combined with theoretical modelling, it was verified that the interface reaction between Cu and Ti3SiC2 was a double-edged sword. The in-situ reaction product TiC caused a performance loss of 9.17 MPa, while the deintercalation and diffusion of Si significantly reduced the stacking fault energy (SFE) of Cu, forming a stacking fault (SF)/twin strengthening network. The strength and plasticity of the composites were optimally matched, mainly due to the synergistic effect of hetero-deformation-induced (HDI) strengthening induced by the gradient laminated structure and the multi-level interface design of Cu/C. Experiments and model calculations confirmed that this novel staircase-type gradient laminated structure design strategy provides a promising approach for the development of heterostructure materials with application potential.}
+}

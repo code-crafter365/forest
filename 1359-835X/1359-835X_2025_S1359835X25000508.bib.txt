@@ -1,0 +1,13 @@
+@article{MA2025108756,
+title = {Photothermal synergistic antifouling and high-toughness hydrogel based on Ti3C2Tx-PEG for marine coatings},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108756},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108756},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000508},
+author = {Miaomiao Ma and Yuhong Qi and Qi’an Chen and Zhanping Zhang},
+keywords = {Antifouling, Coating, MXene, Hydrogel},
+abstract = {Biofouling of underwater equipment caused by marine organisms is a major problem in the marine industry. Although hydrogel exhibits excellent antifouling properties, its mechanical performance greatly limits its practical application. In this work, a suitable marine antifouling hydrogel (PSM) was designed utilizing a polyethylene glycol–modified MXene (Ti3C2Tx-PEG) toughening mechanism and a silica loaded with nitrogen-doped carbon dots (SiO2@N-CDs) reinforcement strategy to enhance the durability of the hydrogel. The PSM hydrogel exhibited a fracture strength of up to 1.62 MPa, elongation of 1734 %, and toughness of 17.7 MJ/m3. Furthermore, the PSM hydrogel exhibited excellent photothermal antibacterial properties, with antibacterial rates against E. coli and S. aureus reaching 100%. After 180 days of immersion in seawater, the PSM hydrogel morphology remained stable. Because of its long-term durability and effective antifouling properties, our PSM hydrogel can be developed for use in marine ship coatings.}
+}

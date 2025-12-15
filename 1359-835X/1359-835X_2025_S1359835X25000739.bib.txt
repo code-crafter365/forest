@@ -1,0 +1,13 @@
+@article{WANG2025108779,
+title = {A review on energy-efficient manufacturing for high-performance fibre-reinforced composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {192},
+pages = {108779},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108779},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000739},
+author = {Yushen Wang and Thomas D.S. Thorn and Yi Liu and Suresh G. Advani and Dimitrios G. Papageorgiou and Emiliano Bilotti and Han Zhang},
+keywords = {Polymer matrix composites, Thermosetting resin, Sustainable manufacturing, Out-of-Oven curing, Out-of-Autoclave curing},
+abstract = {Traditional manufacturing methods for high-performance fibre-reinforced plastics are often energy intensive and therefore unviable in achieving the sustainable development of the field. With advanced composites extensively used in aerospace, automotive, and renewable energy sectors, there is an urgent need to rethink manufacturing processes to meet sustainability targets and reduce energy consumption. Conventional methods such as autoclave curing and resin transfer moulding are often constrained by energy inefficiency, chamber size limitations, and high capital costs, inevitably hindering progress toward clean growth in composites. This paper provides a state-of-the-art review of the energy-efficient curing methods for continuous fibre-reinforced composites, from direct electric heating of carbon fibres and nanocomposites, induction heating, microwave heating, to frontal polymerisations, with a full coverage on curing mechanisms, requirements of materials, and energy efficiency and consumptions of each method. A detailed comparison of these curing methods with a forward looking perspective is also included, providing a guideline for adopting energy-efficient composite manufacturing methods across various applications.}
+}

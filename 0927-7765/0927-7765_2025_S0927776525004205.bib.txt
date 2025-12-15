@@ -1,0 +1,13 @@
+@article{YAN2025114913,
+title = {Multifunctional silver nanoclusters with hyaluronic acid for dual-targeted tumor imaging and ROS-mediated therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114913},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114913},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004205},
+author = {Yu Yan and Jie Lv and Mengqin Wang and Jie Xu and Yongzhi Xia and Ruiqi Wei and Lijuan Hua and Jun Xie and Yan Chen},
+keywords = {Silver nanoclusters, Theranostics, Tumor targeting, Hyaluronic acid, Reactive oxygen species},
+abstract = {Despite their potential in cancer theranostics, silver nanoparticles (Ag NPs) face significant clinical translation challenges, including polydispersity, weak fluorescence emission, and suboptimal biocompatibility. To overcome these challenges, we introduce Ag@PEG2000-HA nanoclusters (NCs), novel silver-based NCs developed through a sequential functionalization process using polyethylene glycol (PEG) and hyaluronic acid (HA). The HA-induced stabilization enlarges nanocluster cores and promotes ligand-metal charge transfer, synergizing with size-dependent aggregation-induced emission (AIE) effect to amplify fluorescence. These developed nanoconstructs showcase enhanced theranostic capabilities, featuring strong near-infrared (NIR) fluorescence for live tumor imaging and reactive oxygen species (ROS)-enabled mitochondrial targeting to induce cancer cell apoptosis selectively. Systematic evaluations, both in vitro and in vivo, confirmed significant tumor growth inhibition, increased survival rates, and a positive biosafety profile. The dual-targeting approach, leveraging the enhanced permeability and retention (EPR) effect alongside HA-mediated CD44 interaction, ensures precise tumor targeting and reduces off-target effects. Additionally, the nanoclusters showed exceptional stability, extended blood circulation, and resistance to macrophage phagocytosis, thereby enhancing their therapeutic effectiveness. Detailed mechanistic studies showed that Ag@PEG2000-HA NCs trigger apoptosis via ROS production and mitochondrial disruption, and concurrently reduce the expression of key tumor-associated proteins (CD31, Ki-67, and MMP9), inhibiting angiogenesis, proliferation, and metastasis. This research establishes a multifunctional nanoplatform bridging diagnostic imaging and therapy, opening new avenues for precision oncology. The findings provide fundamental insights into the design principles of cluster-based theranostic nanomaterials, paving the way for their clinical translation in cancer treatment.}
+}

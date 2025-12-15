@@ -1,0 +1,13 @@
+@article{JIANG2025119603,
+title = {The evolution of hygroscopic internal stress of jute/PLA composites based on X-ray computed tomography},
+journal = {Composite Structures},
+volume = {373},
+pages = {119603},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119603},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007688},
+author = {Ning Jiang and Guangxin Li and Yaomin Li and Shangbin Su and Xiangyu Tian},
+keywords = {X-ray tomography, Short fiber reinforced composites, Water absorption diffusion, Finite element simulation, Internal stress},
+abstract = {The study investigates the water diffusion behavior and the evolution of internal stress in jute/polylactic acid (PLA) composites. X-ray tomography and 3D reconstruction techniques were employed to segregate jute fibers from the PLA matrix and establish a 3D finite element model that accurately represents the true microstructure of the composite. The kinetic parameters of water absorption (coefficient of water diffusion D and saturation water content Mm) and coefficient of water absorption swelling (β) of jute, PLA, and composites were obtained from experimental data and finite element analysis (FEA). Furthermore, the diffusion of water and the swelling behavior induced by water absorption in jute/PLA composites were simulated employing Abaqus software. The timing and location of composite damage, as well as the quantitative relationship between internal stress and time were determined. This study not only offers a novel method for analyzing the evolution of internal stress in short fiber reinforced composites but also provides significant guidance for the targeted design of short fiber reinforced composites.}
+}

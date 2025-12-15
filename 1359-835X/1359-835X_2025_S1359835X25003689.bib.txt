@@ -1,0 +1,13 @@
+@article{CUI2025109074,
+title = {Multifunctional phase change composites enabled by mussel-inspired modification of 3D few-layered BN scaffold for efficient thermal management},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109074},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109074},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003689},
+author = {Yexiang Cui and Yicheng Yang and Fei Xu and Di Bao and Haiyan Li and Fanghua Luo and Yanji Zhu and Huaiyuan Wang},
+keywords = {Thermal conductivity, Phase change material, 3D FBN@PDA network, Interface enhancement},
+abstract = {Construction of a three-dimensional (3D) hexagonal boron nitride (BN) network within polymer matrix has been acknowledged to be an effective strategy to achieve high thermal conductivity at low filler content and prevent the organic phase change materials (PCMs) from liquid leakage. However there still exists large interfacial thermal resistance at filler-polymer interface which severely deteriorates the comprehensive properties of the composites. Herein, a mussel-inspired polydopamine (PDA) modified 3D few-layered BN (FBN) scaffold (3D FBN@PDA) is fabricated via a combination of salt-templated and in situ polymerization methods. A highly thermally conductive and dimensionally stable phase change composite is subsequently constructed by vacuum impregnation of molten polyethylene glycol (PEG) into the 3D scaffold. Benefitting from the continuous thermal conduction pathways provided by the 3D FBN scaffold and enhanced interfacial interactions between 3D FBN scaffold and PEG matrix, the thermal conductivity of 3D FBN@PDA/PEG composites reaches 5.42 W m−1 K−1 at a filler content of 24.56 vol%, which denotes 1648% elevation on neat PEG. The support of 3D FBN@PDA scaffold also confers the resulting thermally conductive phase change composites (TPCs) with excellent electrical insulation, enhanced thermal stability and high mechanical strength and improved photoabsorption capacity. These comprehensive properties suggest the immense potential of the fabricated PEG-based TPC for applications in thermal management and advanced energy technologies.}
+}

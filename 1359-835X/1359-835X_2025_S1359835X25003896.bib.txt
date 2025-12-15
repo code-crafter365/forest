@@ -1,0 +1,13 @@
+@article{ZHAO2025109095,
+title = {Multiscale modeling of elasto-plastic behavior for short fiber composites considering interfaces},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109095},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109095},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003896},
+author = {Runtian Zhao and Haoyu Shi and Ting Wu and Zhihui Wang and Jianglin Liu and Zhanchun Chen and Jianguo Liang},
+keywords = {Short Fiber Reinforced Composites, Orientation averaging, Interface Mechanics, Molecular dynamics},
+abstract = {An accurate predictive model for the nonlinear mechanical response of short fiber reinforced composites (SFRCs) is critical for their broader application. Currently, the Orientation Averaging (OA) method offers a balanced choice in terms of efficiency and accuracy. However, its predictions are systematically overestimated due to the neglect of fiber–matrix interfacial effects. This study proposes a nonlinear predictive model framework that incorporates interfacial influences. Building upon the OA framework, the model integrates Molecular Dynamics (MD) simulations and microdroplet debonding tests to obtain fiber–matrix interfacial properties and introduces a cohesive zone model to account for interfacial mechanics within the OA framework. The proposed model is applied to predict the compressive nonlinear mechanical behavior of Short Carbon Fiber reinforced PA6 (SCF/PA6) composites, with its accuracy validated through experimental comparisons. Additionally, the reliability and applicability of the MD model are discussed and obtain parameters for the interfacial cohesive zone model of this material system. It is believed that this framework will contribute to the service evaluation and optimized design of short fiber composites.}
+}

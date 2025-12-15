@@ -1,0 +1,13 @@
+@article{MIAO2025118924,
+title = {Comparative analysis of the deconsolidation behavior of CF/PEEK laminates and CF/PEEK tapes during laser-assisted automated fiber placement},
+journal = {Composite Structures},
+volume = {357},
+pages = {118924},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118924},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000893},
+author = {Qiuyu Miao and Kaojie Yue and Dongjiang Wu and Xianfeng Wang},
+keywords = {Laser-assisted automated fiber placement, CF/PEEK tape, CF/PEEK laminate, Deconsolidation},
+abstract = {Deconsolidation behavior of thermoplastic composites when subjected to reheating has been considered one of the main causes of interlaminar voids in laminates manufactured by automated fiber placement (AFP), which significantly impairs the mechanical properties. This paper studied the deconsolidation behavior of CF/PEEK laminates (representing the substrate in the AFP) and CF/PEEK tapes during the heating phase of laser-assisted AFP (LAFP). In-situ characterization of out-of-plane displacement and temperature was used to understand the temporal and spatial behavior. It turned out that both CF/PEEK laminates and tapes deconsolidate during the heating phase, but tapes present a more pronounced deconsolidation behavior with intralaminar voids, fibers out of surfaces, severe macro-deformation and residual displacement. The main reason for the deconsolidation is the release of residual stress stored in tapes and laminates. Deconsolidation behavior of laminates can be eliminated by roller consolidation in LAFP process and that of tapes can be inhibited by releasing tape’s initial residual stress before heating phase. This work could provide a novel understanding of the deconsolidation behavior of thermoplastic laminates and tapes during LAFP and furthermore provide guidance to improve the quality of LAFP-manufactured parts.}
+}

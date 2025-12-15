@@ -1,0 +1,13 @@
+@article{HASHIMOTO2025118843,
+title = {Asymmetric stacking patch for debonding suppression in single-sided patch repair of composite structures},
+journal = {Composite Structures},
+volume = {355},
+pages = {118843},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118843},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500008X},
+author = {Kohei Hashimoto and Shigeki Yashiro and Sota Onodera and Kazuki Ryuzono},
+keywords = {Composite patch, Joints/joining, Stacking sequence optimization, Tensile-bending coupling, Debonding},
+abstract = {With the increasing use of composite structures, a simple and effective repair method is needed to enhance operational efficiency. While conventional single-sided patch repairs are straightforward, they are prone to debonding due to secondary bending deformation, leading to low post-repair strength. This study proposes a single-sided patch with an asymmetric lay-up designed to suppress debonding by utilizing coupled tensile-bending deformation. The stacking sequence of the patches was optimized using a genetic algorithm to minimize the adhesive’s expansion strain energy density. The optimal stacking sequence generates bending deformation with curvature opposite to the secondary bending observed under tensile loading in a patch-repaired plate. This discrepancy in bending deformation alleviates the hydrostatic stress in the adhesive at the patch edges and reduces the contribution of Mode I to patch debonding. Tensile tests using optimized patches demonstrated the debonding suppression mechanism, showing that the onset strain for debonding improved due to material failure occurring in the base CFRP laminate.}
+}

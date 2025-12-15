@@ -1,0 +1,13 @@
+@article{ZHOU2025118016,
+title = {A novel improved edge-based smoothed particle finite element method for elastoplastic contact analysis using second order cone programming},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {118016},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118016},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002889},
+author = {Xi-Wen ZHOU and Yin-Fu JIN and Zhen-Yu YIN and Feng-Tao LIU and Xiangsheng CHEN},
+keywords = {Second order cone programming, Interior point method, Contact, Elastoplastic deformations, Smoothed finite element method},
+abstract = {Contact problems are of paramount importance in engineering but present significant challenges for numerical solutions due to their highly nonlinear nature. Recognizing that contact problems can be formulated as optimization problems with inequality constraints has paved the way for advanced techniques such as the Interior Point (IP) method. This study presents an Improved Edge-based Smoothed Particle Finite Element Method (IES-PFEM) with novel contact scheme for elastoplastic analysis involving large deformation using Second-Order Cone Programming (SOCP). Within the proposed framework, classical node-to-surface (NTS) and surface-to-surface (STS) contact discretization schemes in SOCP form are rigorously achieved. The governing equations of elastoplastic boundary value problems are formulated as a min-max problem via the mixed variation principle, and by applying the primal-dual theory of convex optimization, the problem is transformed into a dual formulation with stresses as optimization variables. The Mohr-Coulomb plastic yield criterion and the Coulomb friction law are naturally expressed as second-order cone constraints. A fixed-point iteration scheme is developed to address unphysical normal expansion arising from the natural derivation of an associated friction model within the SOCP formulation. Furthermore, the volumetric locking problem in nearly incompressible materials is alleviated by IES-PFEM formulation without requiring additional stabilization techniques. The proposed method is validated through a series of benchmark examples involving contact and elastoplastic deformations. Numerical results confirm the capability of the proposed approach to handle both contact and elastoplastic nonlinearities effectively, without the need for convergence control, highlighting the superiority of the proposed method.}
+}

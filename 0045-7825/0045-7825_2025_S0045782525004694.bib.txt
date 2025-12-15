@@ -1,0 +1,13 @@
+@article{NEZDYUR2025118197,
+title = {Embedded FEM with strongly-enforced interface conditions for incompressible flow with moving boundaries},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {445},
+pages = {118197},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118197},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525004694},
+author = {Max Nezdyur and John Dolbow and Dennis Onyeka Frank-Ito and Wilkins Aquino},
+keywords = {Embedded finite element method, Interface conditions, Incompressible flow, Moving boundaries, FSI},
+abstract = {We present an embedded finite element method for solving the incompressible Navier–Stokes equations on complex or moving domains while using a fixed structured background mesh. The key component of our approach is a ghost node framework that modifies basis functions in elements intersected by the embedded boundary, enabling the strong imposition of interface conditions without the need for additional unknowns. This strongly enforced interface treatment is supplemented by a volume-fraction-based strategy for the pressure field, ensuring consistent pressure behavior in partially cut elements. Through a series of benchmark tests-including steady and unsteady cylinder flows, manufactured solutions, oscillating boundaries, and fluid–structure interactions-we demonstrate that the proposed approach achieves near-optimal convergence rates, accurately captures transient flow features, and seamlessly handles moving or curved boundaries. The results confirm that this embedded framework offers a flexible and efficient way to simulate complex fluid flow problems in both static and dynamic domains, making it a strong candidate for a broad range of engineering and scientific applications in two dimensions.}
+}

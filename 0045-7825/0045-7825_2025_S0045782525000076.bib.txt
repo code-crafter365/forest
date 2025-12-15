@@ -1,0 +1,13 @@
+@article{FENG2025117735,
+title = {Constructing boundary-identical microstructures via guided diffusion for fast multiscale topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117735},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117735},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000076},
+author = {Jingxuan Feng and Lili Wang and Xiaoya Zhai and Kai Chen and Wenming Wu and Ligang Liu and Xiao-Ming Fu},
+keywords = {Multiscale topology optimization, Boundary-identical microstructures, Large-range datasets, Wide ranges of elastic modulus, Self-conditioning diffusion model, Active learning},
+abstract = {Hierarchical structures exhibit critical features across multiple scales. However, designing multiscale structures demands significant computational resources, and ensuring connectivity between microstructures remains a key challenge. To address these issues, large-range, boundary-identical microstructure datasets are successfully constructed, where the microstructures share the same boundaries and exhibit a wide range of elastic moduli. This approach enables highly efficient multiscale topology optimization. Central to our technique adopts a deep generative model, guided diffusion, to generate microstructures under the two conditions, including the specified boundary and homogenized elastic tensor. We generate the desired datasets using active learning approaches, where microstructures with diverse elastic moduli are iteratively added to the dataset, which is then retrained. After that, sixteen boundary-identical microstructure datasets with wide ranges of elastic modulus are constructed. We demonstrate the effectiveness and practicability of the obtained datasets over various multiscale design examples. Specifically, in the design of a mechanical cloak, we utilize macrostructures with 30 × 30 elements and microstructures filled with 256 × 256 elements. The entire reverse design process is completed within one minute, significantly enhancing the efficiency of the multiscale topology optimization.}
+}

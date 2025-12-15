@@ -1,0 +1,13 @@
+@article{SONG2025118311,
+title = {Advection-reaction-diffusion coupled with viscous flow in a peridynamic framework},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {446},
+pages = {118311},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118311},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525005833},
+author = {Zhaoyang Song and Chenwen Tian and Juan Du and Florin Bobaru and Ziguang Chen},
+keywords = {Peridynamics, Advection-reaction-diffusion, Viscous flow, Weakly compressible flow, Contaminated water flow, Solid dissolution},
+abstract = {This paper introduces a Peridynamic (PD) model for simulating the Advection-Reaction-Diffusion (ARD) processes in a non-uniform flow. The ARD phenomena are influenced by the flow, and the flow is modified by phase-changes (driven by interface reactions) that transform the boundaries of solids in the flow, for example. By coupling the PD governing equations for viscous flow with the PD equations for ARD, the model facilitates the effective simulation of the ARD process in viscous flow within the PD framework. The results demonstrate a high level of agreement with COMSOL simulations for ARD problems in two-dimensional flow, both in the presence and absence of obstacles. Furthermore, the framework demonstrates remarkable versatility in addressing complex scenarios, including ARD processes in heterogeneous media and flow-accelerated solid dissolution dynamics. These capabilities open new avenues for applications in critical areas such as groundwater contaminant transport, karst formation through rock dissolution, targeted drug delivery systems in biological environments, and other types of material degradation through phase-changes under fluid flow conditions, like ice melting and ablation.}
+}

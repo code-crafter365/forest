@@ -1,0 +1,13 @@
+@article{CANZEHNI2025109097,
+title = {Continuous carbon fibre reinforced 3D-printed composites: impact damage and compression after impact (CAI) performance},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109097},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109097},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003914},
+author = {Ozan {Can Zehni} and Jiaqi Xu and Tristan Lowe and Eddie Whitehouse and Akın Ataş},
+keywords = {3D-printed composites, Continuous carbon fibre, Impact damage, CAI behaviour, X-ray radiography},
+abstract = {This study aims to investigate the impact behaviour and Compression After Impact (CAI) performance of 3D-printed continuous carbon fibre-reinforced Onyx matrix composites with unidirectional (UD) and cross-ply (CP) layups. Improving the impact damage resistance and tolerance of these composites requires a comprehensive understanding of the internal damage mechanisms. To address this, X-ray Computed Tomography (CT) is used to gain novel insights of the internal damage following low-velocity impact events. Specimens were printed using Fused Filament Fabrication (FFF) technique using a Markforged® Mark Two desktop printer. Impact testing was performed using an Instron Ceast 9350 drop-weight impact machine. The Boeing CAI fixture was employed for the CAI testing with an anti-buckling guide to prevent buckling and maintain specimen stability. The X-ray CT scanning was conducted using a Nikon Xtek high flux bay. X-ray CT scans identified delamination as the predominant damage mechanism in all configurations, with the cross-ply layups experiencing more extensive damage. The extent of damage in the UD ([Onyx4/0°8/Onyx4]) and CP1 ([Onyx4/90°2/0°4/90°2/Onyx4]) specimens was greater in the lower layers, away from the impacted surface. In the CP2 specimens ([Onyx4/0°2/90°4/0°2/Onyx4]), however, greater delamination was observed closer to the impacted surface. This difference was due to the relatively higher bending stiffness, as the CP2 specimens have 0° layers positioned closer to the top and bottom surfaces. The CAI tests revealed a reduction in strength of impacted specimens compared to non-impacted ones, with decreases of 6 % for UD, 13 % for CP1, and 20 % for CP2, while delamination led to similar CAI strength values between impacted CP1 and CP2 configurations. The findings underscore the significance of stacking sequence in determining the impact performance of 3D-printed composites.}
+}

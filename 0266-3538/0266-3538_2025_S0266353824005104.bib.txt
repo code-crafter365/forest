@@ -1,0 +1,13 @@
+@article{YANG2025110940,
+title = {Open source tool for Micro-CT aided meso-scale modeling and meshing of complex textile composite structures},
+journal = {Composites Science and Technology},
+volume = {259},
+pages = {110940},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110940},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005104},
+author = {Bin Yang and Yuwei Feng and Cédric Béguin and Philippe Causse and Jihui Wang},
+keywords = {Textile reinforcements, Geometry modeling, PolyTex, Digital material twin, Permeability prediction},
+abstract = {Volumetric image-based modeling of textile reinforcements and composites is favored over ideal geometric modeling because of its ability to represent complex structures in sufficient detail. Although several approaches were devised, there is still a scarcity of dedicated tools capable of effectively transferring pertinent information from images to high-fidelity models. This work presents the open source project, PolyTex, a Python-based object-oriented application that establishes a streamlined and reproducible workflow for such tasks. Dual kriging serves as the foundational theory for the parametric approach developed to represent, simplify, and approximate the morphology and topology of fiber tows. The code takes two types of input, either an explicit representation of tow geometry using point clouds or implicit representations, such as image masks representing fiber tows separately with grayscale values. Tailored APIs allow for smooth integration between PolyTex’s modeling capabilities and the simulation environments offered by OpenFOAM and Abaqus. Case studies on virtual testing of textile permeability were presented to demonstrate this capability. The modular and object-oriented design makes PolyTex a highly reusable and extensible tool that allows users to create a customized pipeline.}
+}

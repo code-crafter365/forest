@@ -1,0 +1,10 @@
+@article{2025114427,
+title = {Editorial Board},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114427},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/S0927-7765(24)00686-6},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006866}
+}

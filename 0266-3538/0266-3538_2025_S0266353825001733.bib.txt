@@ -1,0 +1,13 @@
+@article{JIAO2025111205,
+title = {Interlaminar toughness of carbon fiber/epoxy laminates interleaved by nanofibrous veils: from molecular structure to macroscopic properties},
+journal = {Composites Science and Technology},
+volume = {267},
+pages = {111205},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111205},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001733},
+author = {Weiwei Jiao and Guoxiong Niu and Dingding Bai and Yuanpeng Zheng and Haidong Wang and Yaqing Liu},
+keywords = {Continuous fiber-reinforced polymer matrix composites, Nanofibrous veil, Polyamide, Interlaminar toughness, Molecular dynamics simulations},
+abstract = {Nanofibrous veils with nanometer-scale diameters and continuous lengths are considered promising interlayers for enhancing the interlaminar toughness of continuous fiber-reinforced polymer matrix laminates (CFRPs). The molecular structure of nanofibers is a crucial factor influencing their toughening performance, but the underlying trans-dimension structure-activity relationship remain unclear. Here, two types of polyamide-based nanofibrous veils (NF1 and NF2), characterized by distinct molecular structures, were integrated into carbon fiber/epoxy laminates to assess differences in interlaminar fracture toughness. Mode I and Mode II loading tests demonstrated significant yet distinct improvements in interlaminar fracture toughness for the two nanomodified CFRPs, attributed to intrinsic and extrinsic toughening mechanisms. NF1-modified composites exhibited superior toughening properties than NF2-modified composites, with a 186 % enhancement in GIC and a 134 % enhancement in GIIC. This superiority can be attributed to NF1's higher crystallinity, smaller diameter, stronger tensile strength, and greater interaction energy with epoxy resin, all of which are closely related to the molecular structure of the nanofibers. Molecular dynamics (MD) simulations provided theoretical insights into how the molecular structure of nanofibers influences interlaminar toughness. Furthermore, the original laminate static flexural properties, dynamic stiffness, and glass-transition temperature (Tg) are all maintained for NF1-modified composites, suggesting that enhancing interlaminar toughness can compensate for potential declines in mechanical and thermomechanical properties. Consequently, the multi-level structure-activity relationship between polymer molecular structure, nanofiber morphology, interlaminar topology, and composite macroscopic properties was established to pave the way for precise atomic-level construction of interlaminar structures in laminates.}
+}

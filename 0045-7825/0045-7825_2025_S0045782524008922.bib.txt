@@ -1,0 +1,13 @@
+@article{YONG2025117638,
+title = {Learning latent space dynamics with model-form uncertainties: A stochastic reduced-order modeling approach},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117638},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117638},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524008922},
+author = {Jin Yi Yong and Rudy Geelen and Johann Guilleminot},
+keywords = {Model-form uncertainty, Operator inference, Reduced-order modeling, Uncertainty quantification},
+abstract = {This paper presents a probabilistic approach to represent and quantify model-form uncertainties in the reduced-order modeling of complex systems using operator inference techniques. Such uncertainties can arise in the selection of an appropriate state–space representation, in the projection step that underlies many reduced-order modeling methods, or as a byproduct of considerations made during training, to name a few. Following previous works in the literature, the proposed method captures these uncertainties by expanding the approximation space through the randomization of the projection matrix. This is achieved by combining Riemannian projection and retraction operators — acting on a subset of the Stiefel manifold — with an information-theoretic formulation. The efficacy of the approach is assessed on canonical problems in fluid mechanics by identifying and quantifying the impact of model-form uncertainties on the inferred operators.}
+}

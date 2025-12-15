@@ -1,0 +1,13 @@
+@article{DENG2025111081,
+title = {Assembly of PAN/Gr@MWCNTs/CoFe2O4 multilayer composite films for high-efficiency electromagnetic shielding and Joule heating},
+journal = {Composites Science and Technology},
+volume = {262},
+pages = {111081},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111081},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000491},
+author = {Siwen Deng and Mingyao Dai and Bodu Fang and Yanqin Huang and Shulong Zeng and Zhunan Huang and Jiahui Xue and Xiaodong Li and Shaohong Shi and Fangchao Cheng},
+keywords = {Carbon nanotube, Graphene, Cobalt ferrite nanoparticle, Electromagnetic shielding, Joule heating},
+abstract = {Creating novel, high-efficiency and multi-functional electromagnetic interference (EMI) shielding materials with high absorption attenuation is crucially important for integrated electronic devices. Herein, heterogeneous polyacrylonitrile (PAN)/graphene (Gr)@multi-walled carbon nanotubes (MWCNTs)/CoFe2O4 multilayer films featuring electric-magnetic coupling were fabricated through a facile vacuum filtration method. The asymmetric layered architecture was composed of a flexible PAN electrospun nanofiber mat, an electrically conductive hybrid of Gr@MWCNTs, and a layer of insulating CoFe2O4 particles. The nanosized magnetic CoFe2O4 particles with unique magnetic hysteresis loss and natural resonance were synthesized by hydrothermal method and deposited on the conductive layer, to improve the impedance matching and reduce the electromagnetic wave (EMW) reflection. As a consequence, after incorporating the CoFe2O4 layer, the EMW absorption loss (SEA) was improved from 21.7 to 25.7 dB. Furthermore, the hybrid conductive network was regulated by altering the ratio of two-dimensional (2D) Gr to one-dimensional (1D) MWCNTs, to endow the well-designed multilayer films with a high EMI shielding effectiveness (SE) of 40.1 dB and a superior specific shielding effectiveness (SSE) of 326.3 dB/mm. By virtue of the fine-tuned Gr@MWCNTs conductive network, the PAN/Gr@MWCNTs/CoFe2O4 multilayer films exhibited excellent Joule heating performance, with high sensitivity, low driving voltage, rapid response, superior cycling stability and long-term durability. The multilayer films could be controllably heated to 114.1 °C within 5 s under a low input voltage of 3.00 V. This work presents a viable strategy for exploiting functional materials that exhibit excellent EMI shielding and thermal management performance, suitable for applications in electronics operating at extremely low temperatures.}
+}

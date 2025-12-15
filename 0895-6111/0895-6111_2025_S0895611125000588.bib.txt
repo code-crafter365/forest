@@ -1,0 +1,13 @@
+@article{LIN2025102549,
+title = {Causal recurrent intervention for cross-modal cardiac image segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {123},
+pages = {102549},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102549},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000588},
+author = {Qixin Lin and Saidi Guo and Heye Zhang and Zhifan Gao},
+keywords = {Cardiac image segmentation, Cross-modal segmentation, Causal learning},
+abstract = {Cross-modal cardiac image segmentation is essential for cardiac disease analysis. In diagnosis, it enables clinicians to obtain more precise information about cardiac structure or function for potential signs by leveraging specific imaging modalities. For instance, cardiovascular pathologies such as myocardial infarction and congenital heart defects require precise cross-modal characterization to guide clinical decisions. The growing adoption of cross-modal segmentation in clinical research underscores its technical value, yet annotating cardiac images with multiple slices is time-consuming and labor-intensive, making it difficult to meet clinical and deep learning demands. To reduce the need for labels, cross-modal approaches could leverage general knowledge from multiple modalities. However, implementing a cross-modal method remains challenging due to cross-domain confounding. This challenge arises from the intricate effects of modality and view alterations between images, including inconsistent high-dimensional features. The confounding complicates the causality between the observation (image) and the prediction (label), thereby weakening the domain-invariant representation. Existing disentanglement methods face difficulties in addressing the confounding due to the insufficient depiction of the relationship between latent factors. This paper proposes the causal recurrent intervention (CRI) method to overcome the above challenge. It establishes a structural causal model that allows individual domains to maintain causal consistency through interventions. The CRI method integrates diverse high-dimensional variations into a singular causal relationship by embedding image slices into a sequence. This approach further distinguishes stable and dynamic factors from the sequence, subsequently separating the stable factor into modal and view factors and establishing causal connections between them. It then learns the dynamic factor and the view factor from the observation to obtain the label. Experimental results on cross-modal cardiac images of 1697 examples show that the CRI method delivers promising and productive cross-modal cardiac image segmentation performance.}
+}

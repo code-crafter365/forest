@@ -1,0 +1,20 @@
+@article{MARTINNAVARRO2025115057,
+title = {Cannabinoid effective targeting of atherosclerotic plaques in vivo by optimized-PLGA nanoparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115057},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115057},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005648},
+author = {L. Martín-Navarro and M.D. Herrera and J. Álvarez-Fuentes and Carmen Claro-Cala and L. Martín-Banderas},
+keywords = {CB2 cannabinoids, Atherosclerosis, PEG-PLGA nanoparticles, VCAM-1, inflammation, drug delivery, ApoE-/-},
+abstract = {Aim
+While selective CB2 receptor agonists hold significant promise for mitigating inflammation and atherosclerosis, their poor physicochemical properties have hampered clinical translation. To overcome this, we engineered a sophisticated, nanoparticle-based delivery system designed for precise cannabinoid deposition at atheromatous plaque sites. Our approach utilized PEGylated PLGA nanoparticles (NPs), functionalized with a peptide ligand specifically targeting vascular cell adhesion molecule-1 (VCAM-1), a well-established biomarker of atherosclerotic lesions.
+Methods
+PEGylated PLGA NPs were synthesized via nanoprecipitation using a blend of PLGA, PLGA-PEG, and PLGA-PEG-Mal polymers. Peptide conjugation was then achieved through a maleimide-click reaction. The resulting functionalized nanoparticles were characterized for their physicochemical properties and evaluated both in vitro (using human vascular endothelial cells), and in vivo (in apolipoprotein E-deficient, ApoE-/-, mice).
+Results
+Optimal NP functionalization with the VBP peptide was achieved using a 1:1 maleimide-to-ligand molar ratio in 10 mM HEPES / 0.4 mM EDTA buffer after a 2-hour incubation. In vitro assays demonstrated that these functionalized NPs significantly downregulated the expression of adhesion molecules, inflammatory cytokines, and chemokines, while also successfully restoring oxidative balance in human endothelial cells. Importantly, in vivo experiments demonstrated efficient and site-specific delivery of the functionalized NPs to atheroprone regions in ApoE⁻/⁻ mice, resulting in a significant reduction of atherosclerotic plaque formation in the aortic sinus.
+Conclusion
+These findings indicate that this developed nanosystem represents a highly promising strategy for targeted cannabinoid delivery. This breakthrough could significantly contribute to the advancement of novel anti-atherogenic therapies, offering a new avenue for treating atherosclerosis}
+}

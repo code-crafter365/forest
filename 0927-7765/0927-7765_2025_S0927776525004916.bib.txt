@@ -1,0 +1,13 @@
+@article{JIANG2025114984,
+title = {Study on the absorption mechanism of glucocorticoids in the stratum corneum},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {114984},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114984},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004916},
+author = {Zhaoli Jiang and Shasha Liu and Ying Li and Shiling Yuan},
+keywords = {Glucocorticoid, Lipid bilayer, Adsorption mechanism, Stratum corneum, Interaction energy},
+abstract = {Skin diseases typically lead to the disruption of the functional barrier of human skin, and glucocorticoids (GCs) can effectively treat these conditions through topical administration. However, the molecular mechanisms underlying the uptake of GCs by the skin remain inadequately understood. In this study, we employed molecular dynamics (MD) simulations to investigate the uptake of seven GCs by the stratum corneum (SC). The results indicate that hydrocortisone (HC), halobetasol propionate (HP), fluticasone propionate (FP), and mometasone furoate (MS) are more readily absorbed by the SC. The uptake process for HC can be divided into three distinct stages: contact stage, transformation stage, and absorption stage. Furthermore, our analysis of drug nanoparticle release revealed that electrostatic interactions between HP molecules were more significant than van der Waals interactions; additionally, the free energy associated with the release process of HP was greater than that of HC. To further elucidate how interactions between GCs and SCs influence GC uptake processes, we examined the relationship between 17 HC molecules' interactions with SCs and their depth of penetration within the SC. A predictive model was developed using one-way linear regression based on these findings. In conclusion, this work offers valuable insights into GC uptake mechanisms at a molecular level concerning the SC.}
+}

@@ -1,0 +1,13 @@
+@article{GANGHOFFER2025119492,
+title = {Emergence of anomalous hyperbolic heat conduction in homogenized media},
+journal = {Composite Structures},
+volume = {371},
+pages = {119492},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119492},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006579},
+author = {Jean-François Ganghoffer and Xuan Nam Do and Sébastien Fumeron},
+keywords = {Cattaneo-Vernotte heat conduction theory, Hyperbolic models, Homogenization, Numerical solution, 1D periodic composites},
+abstract = {Classical heat conduction, described by Fourier’s law, assumes an infinite thermal signal speed, which is physically unrealistic. Hyperbolic heat conduction models address this by introducing a finite wave speed, as seen in the Cattaneo–Vernotte (CV) equation, which modifies Fourier’s law with a time-delay term, leading to wave-like heat propagation. Extensions like the dual-phase-lag (DPL) and nonlocal theories enhance heat transport modeling in micro- and nanoscale materials, biological tissues, and laser-irradiated surfaces. Despite significant developments since the 1950 s, most hyperbolic heat conduction models remain phenomenological, lacking predictive capability. We develop in this contribution homogenization-based approaches for upscaling the classical parabolic heat model that prevails in acoustically thick media at the microscale of the individual components of periodic heterogeneous materials towards generalized heat theories incorporating additional higher-order variables and parameters, prone to weak or strong nonlocality. Based on a Hill-Mandel energy equivalence principle and localization relations of the micro-fields to their macroscopic counterpart in the postulated effective heat theory, the effective heat properties including relaxation times and internal lengths are formally evaluated in terms of volume averages over an identified unit cell of the microscopic heat properties and localization operators. Those localization operators solve unit cell boundary-value problems with periodicity conditions. Applications to 1D periodic composites illustrate the established methodology to compute the effective heat properties of the emergent hyperbolic heat conduction theory.}
+}

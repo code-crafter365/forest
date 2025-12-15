@@ -1,0 +1,13 @@
+@article{LI2025114273,
+title = {Preparation of multi-colored binary silica supraballs and color fine-tuning based on color mixing},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114273},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114273},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005320},
+author = {Shuangxin Li and Chuncheng Yang and Yan Liu and Guoyong Wang},
+keywords = {Binary supraball, Polychromatic color, Photonic crystal, Crystallinity},
+abstract = {Structural colors are highly valued for their eco-friendliness and long-term color stability, deriving from the interaction of structural units with incident light. However, traditional methods for adjusting structural colors typically involve altering the size of structural units, a labor-intensive process necessitating specific diameters for each desired color. Moreover, colors exhibited by photonic crystal materials are monochromatic colors with a narrow wavelength range, failing to exhibit polychromatic colors. This restricts their practical applications, as they do not accurately represent the actual color of objects themselves. Hence, this study focuses on fabricating binary supraballs can display polychromatic colors. These supraballs consist of two types of structural units with distinct diameter differences. By adjusting the mass ratio between these units within the supraballs, fine color tuning is achievable. Utilizing three different diameters of silica nanospheres, this method enables the fabrication of supraballs with a diverse range of colors spanning nearly the entire visible spectrum. The adjustable colors of these binary supraballs not only enhance their ability to replicate the colors of objects, but also reduce the significant workload involved in preparing the original structural units. The synthesized supraballs are in powder form, directly applicable as coatings, inks, and other materials.}
+}

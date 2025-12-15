@@ -1,0 +1,13 @@
+@article{LIU2025114768,
+title = {Dual-regulation biomimetic composite nerve scaffold with oriented structure and conductive function for skin peripheral nerve injury repair},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114768},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114768},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002759},
+author = {Jinzhi Liu and Zhiyuan Lin and Huanyou Wu and Jianming Zhang and Fujun Wang and Lu Wang and Shuliang Lu and Jing Gao},
+keywords = {Biomimetic composite nerve scaffold, Skin peripheral nerve injury, Oriented nanofiber membrane, Ionic conductive hydrogel},
+abstract = {Skin peripheral nerve injury repair still faces significant clinical challenges. Although nerve tissue engineering scaffolds show potential, issues such as limited functionality and low repair efficiency persist. This study developed a dual-regulation biomimetic composite nerve scaffold with oriented structure and conductive function to promote nerve injury repair. The structural layer was a chitosan (CS)/polycaprolactone (PCL) oriented nanofiber membrane, which could promote cell adhesion and induce directional growth of cells. The functional layer was a CS/sodium alginate (SA) ionic conductive hydrogel, which could enhance endogenous electric fields to promote cell proliferation and differentiation. The two layers were combined through physical crosslinking, avoiding the use of chemical adhesives and preserving the surface morphology of the nanofibrous membrane and the porous structure of the hydrogel. The biomimetic composite nerve scaffold exhibited layered degradability, excellent orientation, conductivity, and biocompatibility. Cell experiments indicated that the scaffold effectively induced directional migration, growth, and differentiation of cells and enhanced cell activity, thereby providing a favorable microenvironment for nerve regeneration. This study not only overcomes the limitation of functional singularity in traditional nerve scaffolds but also aligns with the forefront trend in tissue engineering toward multifunctional and biomimetic materials. It demonstrates great potential for treating complex conditions such as traumatic nerve defects and post-surgical nerve regeneration and has broad application prospects in the field of neural tissue engineering.}
+}

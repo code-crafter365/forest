@@ -1,0 +1,13 @@
+@article{SUN2025118077,
+title = {Integrating discrete-variable anisotropic topology optimization with lamination parameter interpolation-based stiffness tailoring},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {443},
+pages = {118077},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118077},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003494},
+author = {Kai Sun and Gengdong Cheng and Gokhan Serhat},
+keywords = {Variable-stiffness laminates, Topology optimization, Discrete-variable sensitivity, Topological derivative, Stiffness tailoring, Lamination parameters},
+abstract = {This paper introduces a novel computational design framework for topology and fiber path optimization of variable stiffness laminated composites. Based on the finite element discretization of the design domain, the topology and material stiffness are represented using elemental densities and lamination parameters (LPs), respectively. The density distribution is optimized via the discrete-variable topology optimization to obtain a precise structural layout. The recently proposed Topological Derivative-based Sensitivity Analysis is extended to calculate discrete-variable sensitivities for anisotropic materials, where the formulation accuracy is verified by finite difference computations. Elemental stiffness properties are described through the LPs, which are used with discrete-variable topology optimization for the first time. Specifically, the lamination parameter interpolation method (LPIM) is employed to significantly reduce the number of design variables while ensuring smooth variation of fiber angles throughout the laminate. In addition, unlike the previous LPIM-based works involving only master points for LP interpolation, the concept of master lines is introduced to enlarge the design space for stiffness distribution. Elemental densities and LPs are iteratively optimized to avoid solving the mixed integer programming problem directly. The effectiveness of the developed methodology is demonstrated through various case studies where designs providing minimum compliance or maximum directed displacement at specific locations are determined. The results show that the proposed approach can efficiently provide optimal variable stiffness laminate designs with clear density distributions and manufacturable fiber paths.}
+}

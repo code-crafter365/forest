@@ -1,0 +1,13 @@
+@article{GUERRERO2025114451,
+title = {Hydrogel-antimicrobial peptide association: A novel and promising strategy to combat resistant infections},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {247},
+pages = {114451},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114451},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524007100},
+author = {Marcelo Guerrero and David Filho and Nicolás {Ayala A} and Diana Rafael and Fernanda Andrade and Adolfo Marican and Sekar Vijayakumar and Esteban F. Durán-Lara},
+keywords = {Multi-drug resistant bacteria, Antimicrobial peptides, Hydrogels, Multi-functionality, Drug delivery systems},
+abstract = {Infections from multi-drug resistant bacteria (MDRB) have raised a worldwide concern, with projections indicating that fatalities from these infections could surpass those from cancer by 2050. This troubling trend is influenced by several factors, including the scarcity of new antibiotics to tackle challenging infections, the prohibitive costs of last-resort antibiotics, the inappropriate use of antimicrobial agents in agriculture and aquaculture, and the over-prescription of antibiotics in community settings. One promising alternative treatment is the application of antimicrobial peptides (AMPs) against MDRB. Hydrogels can facilitate the delivery of these antimicrobials, enhancing their biocompatibility and bioavailability. The Peptide-Hydrogel Association (PHA) capitalizes on the distinct properties of both peptides and hydrogels, resulting in multifunctional systems suitable for various antibacterial purposes. Multiple strategies can be employed to develop a PHA, including peptide-based hydrogels, hydrogels infused with peptides, and hydrogels modified with peptide functionalities. The research examined in this review showcases the strong effectiveness of these systems against MDRB and underscores their potential in creating multifunctional and multi-responsive solutions for various infection scenarios. The high efficacy of PHAs represents a promising and innovative therapeutic strategy in combating infections caused by MDRB.}
+}

@@ -1,0 +1,13 @@
+@article{LOPEZ2025119537,
+title = {Assessment of foam-filled carbon-fiber reinforced thermoplastic tubes under impact loading for energy absorption structures},
+journal = {Composite Structures},
+volume = {373},
+pages = {119537},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119537},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007020},
+author = {Carmen López and Luis Romera and Jacobo Díaz},
+keywords = {Thermoplastic composite, Impact testing, Finite element analysis, Crashworthiness, Foam-filled},
+abstract = {Structures composed of multiple materials can leverage the advantages of each constituent to enhance the overall performance of energy-absorbing components. This research investigates the axial crushing behavior of foam-filled carbon-fiber reinforced thermoplastic energy absorbers. The studied components consist of thin-walled circular tubes filled with polymeric foam to enhance energy absorption capabilities. A material testing campaign is conducted on the polymeric foam to calibrate the numerical model. Finite element analyses are performed to evaluate the crashworthiness behavior, failure mechanisms, and energy absorption metrics of the full components under dynamic impact conditions. Two components are subjected to axial impact tests to validate the numerical predictions. The experimental results reveal a progressive crushing process, governed by brittle fracture and delamination. The numerical predictions demonstrate good agreement with the experimental findings, capturing both failure mechanisms and crashworthiness metrics. Specific energy absorption values of up to 40 kJ/kg and absorbed energies up to 15 kJ are achieved, indicating adequate structural performance. Furthermore, interaction effects between the foam and the composite tube are analyzed and compared to empty tubes tested in a previous study. The results show that the foam significantly enhances crashworthiness, with foam-filled tubes absorbing approximately 43% more energy than the equivalent empty tubes.}
+}

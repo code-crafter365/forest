@@ -1,0 +1,13 @@
+@article{SONG2025104440,
+title = {A method for absolute pose regression based on cascaded attention modules},
+journal = {Computer Vision and Image Understanding},
+volume = {259},
+pages = {104440},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104440},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001638},
+author = {Xiaogang Song and Junjie Tang and Kaixuan Yang and Weixuan Guo and Xiaofeng Lu and Xinhong Hei},
+keywords = {Absolute pose regression, Attention mechanism, Feature fusion},
+abstract = {The absolute camera pose regression estimates the position and orientation of the camera solely based on captured RGB images. However, current single-image techniques often lack robustness, resulting in significant outliers. To address the issues of pose regressors in repetitive textures and dynamic blur scenarios, this paper proposes an absolute pose regression method based on cascaded attention modules. This network integrates global and local information through cascaded attention modules and then employs a dual-stream attention module to reduce the impact of dynamic objects and lighting changes on localization performance by constructing dual-channel dependencies. Specifically, the cascaded attention modules guide the model to focus on the relationships between global and local features and establish long-range channel dependencies, enabling the network to learn richer multi-scale feature representations. Additionally, a dual-stream attention module is introduced to further enhance feature representation by closely associating spatial and channel dimensions. This method is evaluated and analyzed on various indoor and outdoor datasets, with our method reducing the median position error and orientation error to 0.19 m/7.44° on 7-Scenes and 7.09 m/1.45° on RobotCar, demonstrating that the proposed method can significantly improve localization performance. Ablation studies on multiple categories further verify the effectiveness of the proposed modules.}
+}

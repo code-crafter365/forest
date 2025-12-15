@@ -1,0 +1,13 @@
+@article{KANG2025114717,
+title = {Polydopamine-assisted dual metal ion modification of titanium: Enhancing osseointegration and antibacterial performance},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114717},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114717},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002243},
+author = {Jingyang Kang and Sikun Meng and Chenhui Liu and Huachun Wang and Tianzhen Zhang and Cheng Qi and Mei Li},
+keywords = {Titanium implant, Biomaterials, Polydopamine, Bone regeneration, Antibacterial},
+abstract = {Titanium (Ti) implants are widely used for tooth replacement due to their exceptional mechanical properties and high biocompatibility. However, their inherently inert surface limits osteogenic potential and makes them prone to bacterial colonization, increasing the risk of biofilm formation and implant-related infections. To address these limitations, surface modification of Ti is essential. This study aimed to enhance the surface properties of Ti by coating it with polydopamine (PDA) and further doping it with copper and calcium ions. TPDA was prepared and subsequently used to fabricate TPDA@Cu and TPDA@CuCa samples. Material characterization confirmed that TPDA@CuCa exhibited excellent surface wettability and biocompatibility, with Cu2 + and Ca2+ being continuously and stably released in liquid environments. Additionally, TPDA@CuCa significantly improved protein adsorption, facilitating favorable cellular interactions. In vitro experiments demonstrated that TPDA@CuCa exhibited strong antimicrobial activity against Escherichia coli and Staphylococcus aureus, enhanced osteoblast adhesion, mineralization, and upregulated osteogenic gene expression. This bifunctional surface modification strategy offers a promising approach to enhancing both the osteogenic and antibacterial properties of Ti implants.}
+}

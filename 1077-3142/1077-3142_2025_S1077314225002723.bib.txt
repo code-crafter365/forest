@@ -1,0 +1,13 @@
+@article{WANG2025104549,
+title = {A LLM-guided hybrid Mamba-Transformer architecture for part-to-whole motion synthesis},
+journal = {Computer Vision and Image Understanding},
+volume = {262},
+pages = {104549},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104549},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225002723},
+author = {Fuming Wang and Wenlong Wang and Dahua Gao and Xunliang Huang and Xiaodan Song and Haoyuan Sun and Cheng Peng},
+keywords = {Motion synthesis, Text-to-motion, Hybrid architecture, Generative model},
+abstract = {Recently, methods for synthesizing holistic body motion from parts have advanced significantly. However, the lack of detailed text descriptions limits the alignment between the generated motion and the corresponding text, and transformer-based models are inefficient. Therefore, we propose MotionHMT, a hybrid architecture combining Mamba and Transformer to synthesize part-to-whole body motion. First, we employ multiple part-body VQ-VAEs to project human motion into discrete tokens. Then, we leverage the generative capabilities of large language models (LLMs) to generate part-level motion descriptions, further ensuring alignment between motion and text. Finally, due to Mamba’s computational efficiency and Transformer’s ability to handle long-sequence dependencies, we use multiple hybrid Mamba-Transformer generators, designed to synthesize whole motion from part-level motion descriptions. Extensive experimental results demonstrate that our method achieves state-of-the-art performance and improves alignment between generated motion and textual descriptions.}
+}

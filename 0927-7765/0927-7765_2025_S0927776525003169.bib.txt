@@ -1,0 +1,13 @@
+@article{CHEN2025114809,
+title = {In situ sustained and pH-responsive Gas6-loaded microspheres for alleviating acute gouty arthritis by immunoregulation},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114809},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114809},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003169},
+author = {Fangfang Chen and Yingzi Zhou and Xingchen Du and Sang Lin and Weiguo Wan and Yun Liu and Hejian Zou and Yu Xue},
+keywords = {Gas6, PH-responsive, Hydrogel microspheres, Anti-inflammation, Acute gouty arthritis},
+abstract = {Acute gouty arthritis is characterized by sudden, severe attacks of pain, swelling, redness, and tenderness in joints. Managing acute gout attacks requires timely and effective control of the inflammatory reaction caused by monosodium urate (MSU) crystals. In clinical practice, intra-articular drug injection is a common treatment which partially reduces the side effects of oral administration. However, due to the low retention time and persistence of small-molecule drugs in the joints, the effects are often minimal. Therefore, a sustainable and on-demand drug delivery system is warranted. In the present study, a novel in situ sustained and pH-responsive hydrogel microsphere loaded with Gas6 (CMCS@SAG) was fabricated for acute gouty arthritis treatment, and the therapeutic effect was evaluated in vitro and in vivo. The results showed that CMCS@SAG was a spherical porous structure with a diameter of 100 μm. The loaded Gas6 was slowly released and referred to release under acidic pH conditions. In vitro, it was observed that CMCS@SAG effectively inhibited acute inflammatory response induced by macrophages, and enhanced mitochondrial function. In vivo, the joint swelling level decreased, infiltration of inflammation decreased, and multiple immunofluorescences showed significantly increased M2 polarization and anti-inflammatory effects in CMCS@SAG group. These results indicated that CMCS@SAG may be a promising avenue for alleviating acute gouty arthritis.}
+}

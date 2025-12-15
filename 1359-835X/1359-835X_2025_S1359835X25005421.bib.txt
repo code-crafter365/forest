@@ -1,0 +1,13 @@
+@article{BECKWITH2025109248,
+title = {Rheology guided additive manufacturing of thermosetting syntactic foams: mechanical behavior and failure mechanisms},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109248},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109248},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005421},
+author = {Caleb Beckwith and Juan Fadhel and Andrew Park and Nikhil Gupta},
+keywords = {Additive manufacturing, Digital light processing, Syntactic foam, Hollow particles, Composite material},
+abstract = {Hollow glass microspheres (HGMs) are reinforced in an acrylate-based photopolymer resin to develop a digital light processing based additive manufacturing (AM) method for fabricating composites called syntactic foams. Extrusion based AM methods have been developed for thermoplastic syntactic foams, but inherent challenges have prevented researchers from making progress in developing AM methods for thermosetting resin matrix syntactic foams. Rheological analysis guided the optimal printing temperatures to maintain flow consistency across mixture compositions during manufacturing. Stirring the mixture during printing proved essential for mitigating particle flotation, which is a major issue in syntactic foam manufacturing due to the density difference between particles and the matrix. Mechanical testing revealed that compressive performance benefited significantly from in-situ mixing, with compressive modulus increasing with HGM volume fraction. Micro-computed tomography confirmed particle distribution and porosity trends, while microscopy illustrated the transition from matrix-dominated to particle-dominated fracture behavior with increasing filler content.}
+}

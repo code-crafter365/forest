@@ -1,0 +1,13 @@
+@article{HUO2025109011,
+title = {Microstructure regulatable PbWO4 fillers reinforced B4C/HDPE composites for synergistic radiation shielding of neutron and gamma-ray},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109011},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109011},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003057},
+author = {Zhipeng Huo and Zuoyang Chen and Yidong Lu and Guoqiang Zhong},
+keywords = {Particle-reinforced composite, Microstructure, Synergistic radiation shielding, PbWO},
+abstract = {PbWO4/B4C/HDPE composites doped with synthesized regular-shaped PbWO4 fillers with different microstructures are prepared to shield neutron and gamma-ray. The effect of filler morphology on various properties of the composites is detailed investigated. X-ray Diffraction (XRD) and Scanning Electron Microscope (SEM) reveal that different crystallinity and crystal growth priority of the crystal planes of PbWO4 generate different microstructures. SEM and Brunauer-Emmett-Teller (BET) specific surface area test reveal that the rough micron spherical PbWO4-III fillers exhibit significantly larger specific surface area (SBET = 9.99 m2/g) than others due to its significantly rougher surface containing abundant secondary granular structures. The PbWO4-III/B4C/HDPE composite exhibits the best melting temperatures (Tp = 133.8 °C) and mechanical properties due to its increased thermal restriction sites and interfacial compatibility between fillers and matrix caused by the high SBET and homogeneous particle size of PbWO4-III fillers. The accelerated ultraviolet ageing test reveals that PbWO4 reinforced composites exhibit excellent anti-ultraviolet ageing properties. The PbWO4/B4C/HDPE composites exhibit significant enhancements of radiation shielding performance due to the synergistic shielding effect caused by PbWO4, B4C and HDPE. The superior PbWO4-III/B4C/HDPE composite exhibits the best total neutron cross-section (Σ = 0.224 cm−1) and linear attenuation coefficient (μ = 0.107 cm−1) due to the increased probability of interaction between the composite and radiation particles rendered by the superior SBET and dispersion of PbWO4-III fillers.}
+}

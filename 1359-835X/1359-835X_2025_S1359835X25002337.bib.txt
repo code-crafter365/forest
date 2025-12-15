@@ -1,0 +1,13 @@
+@article{QIN2025108939,
+title = {Construction of a double-crosslinked interphase to optimize the interfacial properties of carbon fiber-reinforced polyether ether ketone composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108939},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108939},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002337},
+author = {Chengzhi Qin and Shengtao Dai and Wei Wang and Jintang Duan and Fei Yan and Liu Liu},
+keywords = {A. Carbon fiber, B. Interface/interphase, B. Fiber/matrix bond},
+abstract = {To address the insufficient interfacial bonding of carbon fiber/polyether ether ketone (CF/PEEK) composites, a strategy combining the diazotization reaction and sizing treatment was meticulously designed to achieve a significant synergistic enhancement. Specifically, cyano groups were grafted onto the CF surface, and self-catalyzed crosslinkable hydroxy-terminated polyaryl ether nitrile ketone (PENK-OH) sizing agent was prepared. The hydroxyl group acts as an end-capping agent for the sizing agent, considerably accelerating the rate of cyano crosslinking and effectively increasing the thermal stability of the sizing agent. Consequently, strong interactions were established between cyano-modified CF and the PENK-OH sizing agent via double crosslinking reactions. Compared to untreated-CF/PEEK composites, the CF-CN-1.0%/PEEK composites exhibited increases of 45.4%, 43.5% and 35.9% in the maximum interfacial shear strength, interlaminar shear strength and flexural strength, respectively. The strong synergistic interfacial interactions promoted by the chemical bonds between the different components provide an effective method for producing high-performance CF/PEEK composites.}
+}

@@ -1,0 +1,13 @@
+@article{KAMIYA2025119184,
+title = {Microstructural shape optimization method for natural vibration design of laminated porous shell structures},
+journal = {Composite Structures},
+volume = {367},
+pages = {119184},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119184},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003496},
+author = {Ayu Kamiya and Masatoshi Shimoda and Musaddiq Al Ali},
+keywords = {Porous structure, Homogenization method, Laser processing, Multiscale structure, Shape optimization, H gradient method},
+abstract = {In this paper, we propose an optimization method for designing the microstructural geometry of a laminated shell structure to maximize its vibration eigenvalue. The material properties of the porous components are determined using the homogenization method, resulting in multiple homogenized elastic tensors and densities, which are applied to the corresponding subdomains of the laminated shell structure. To avoid the issue of repeated eigenvalues, we introduce the KS (Kreisselmeier and Steinhauser) function during the maximization process. We formulate the area-constrained microstructure optimization as a distributed-parameter optimization problem, deriving the shape gradient function theoretically using the Lagrange multiplier method, the adjoint variable method and the material derivative method. The microstructures are then optimized with the H1 gradient method utilizing the derived shape gradient function. The effectiveness of the proposed method is verified through numerical examples. Numerical results demonstrate that the optimized microstructural shapes lead to increased vibration eigenvalues. Also, in order to confirm the validity of the optimization results obtained by numerical calculation, prototypes that combine removal processing using a laser and additive processing using adhesive are fabricated, and experimental evaluations are performed.}
+}

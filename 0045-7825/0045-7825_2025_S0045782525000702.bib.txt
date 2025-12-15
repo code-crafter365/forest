@@ -1,0 +1,13 @@
+@article{GREKAS2025117798,
+title = {Deep Ritz - Finite element methods: Neural network methods trained with finite elements},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117798},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117798},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000702},
+author = {Georgios Grekas and Charalambos G. Makridakis},
+keywords = {Neural networks, Finite elements, PINNS},
+abstract = {While much attention of neural network methods is devoted to high-dimensional PDE problems, in this work we consider methods designed to work for elliptic problems on domains Ω⊂Rd, d=1,2,3 in association with more standard finite elements. We suggest to connect finite elements and neural network approximations through training, i.e., using finite element spaces to compute the integrals appearing in the loss functionals. This approach, retains the simplicity of classical neural network methods for PDEs, uses well established finite element tools (and software) to compute the integrals involved and it gains in efficiency and accuracy. We demonstrate that the proposed methods are stable and furthermore, we establish that the resulting approximations converge to the solutions of the PDE. Numerical results indicating the efficiency and robustness of the proposed algorithms are presented.}
+}

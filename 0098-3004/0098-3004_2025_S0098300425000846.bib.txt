@@ -1,0 +1,13 @@
+@article{WU2025105934,
+title = {PyHawk: An efficient gravity recovery solver for low–low satellite-to-satellite tracking gravity missions},
+journal = {Computers & Geosciences},
+volume = {201},
+pages = {105934},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105934},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000846},
+author = {Yi Wu and Fan Yang and Shuhao Liu and Ehsan Forootan},
+keywords = {GRACE(-FO), Python toolbox, Gravity recovery, Orbit determination, Level-2 gravity solutions, Low–low satellite-to-satellite tracking},
+abstract = {The low–low satellite-to-satellite tracking (LL-SST) gravity missions, such as the Gravity Recovery and Climate Experiment (GRACE) and its Follow-On (GRACE-FO), provide an important space-based Essential Climate Variable (ECV) to measure changes in the Terrestrial Water Storage (TWS). Due to the high-precision Global Navigation Satellite System (GNSS) receiver, accelerometers, and inter-satellite ranging instrument, these LL-SST missions are able to sense extremely tiny perturbations on both the orbit and inter-satellite ranges, which can project into the Earth’s time-variable gravity fields. The measurement systems of these LL-SST missions are highly complex; therefore, a data processing chain is required to exploit the potential of their high-precision measurements, which challenges both general and expert users. In this study, we present an open-source, user-friendly, cross-platform and integrated toolbox “PyHawk”, which is the first Python-based software in relevant field, to address the complete data processing chain of LL-SST missions including GRACE, GRACE-FO and probably the future gravity missions. This toolbox provides non-expert users an easy access to the payload data pre-processing, background force modeling, orbit integration, ranging calibration, as well as the ability for temporal gravity field recovery using LL-SST measurements. In addition, a series of high-standard benchmark tests have been provided to evaluate PyHawk, confirming its performance to be comparable with those used to provide the official Level-2 time-variable gravity field solutions of GRACE. Researchers working with orbit determination and gravity field modeling can benefit from this toolbox.}
+}

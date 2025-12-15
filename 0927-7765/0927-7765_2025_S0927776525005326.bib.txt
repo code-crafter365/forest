@@ -1,0 +1,13 @@
+@article{FU2025115025,
+title = {Recent advances in polysaccharide-protein complex coacervates for food applications},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115025},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115025},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005326},
+author = {Lin Fu and Fuyuan Ding and Xiaowei Huang and Xiaobo Zou},
+keywords = {Coacervates, Phase separation, Polysaccharide, Protein, Bioactive compounds},
+abstract = {Coacervates are typically formed through a combination of electrostatic interactions, hydrogen bonding, and hydrophobic forces between oppositely charged macromolecules. Polysaccharides and proteins are the most commonly used functional biopolymers, which play a crucial role in the food industry. Coacervates formed by the interaction of polysaccharides and proteins have been heavily researched and applied in food fields. This review aims to provide a comprehensive review of the recent 5 years' research on polysaccharide-protein complex coacervates. The factors influencing their formation and stabilization methods have been discussed. Recent advances in the development of polysaccharide-protein complex coacervates for encapsulation of bioactive compounds, emulsions and food packaging are reviewed. The challenges and future directions for their further development in food science are discussed. This review seeks to offer valuable insights for researchers in the field of food science.}
+}

@@ -1,0 +1,13 @@
+@article{WANG2025105854,
+title = {Dual-scattering elastic least-squares reverse time migration},
+journal = {Computers & Geosciences},
+volume = {196},
+pages = {105854},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105854},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300425000044},
+author = {Mingqian Wang and Huixing Zhang and Bingshou He},
+keywords = {Seismic, Reverse time migration, Elastic wave, Algorithms},
+abstract = {Elastic least-squares reverse time migration (ELSRTM) can enhance imaging resolution and interpret multicomponent seismic data. However, traditional ELSRTM only considers primary scattered waves and cannot accommodate secondary scattered waves in the observed records. This limitation leads to inadequate imaging of steeply dipping and complex structures, where secondary scattered waves are present. To address this issue, we propose dual-scattering elastic least-squares reverse time migration (DS-ELSRTM). We construct the objective function of DS-ELSRTM under the second-order Born approximation and derive its gradient, forming a corresponding computational algorithm and implementation steps. Additionally, we introduce improved DS-ELSRTM strategies to address the weak amplitude matching of secondary scattered waves and the non-stationary gradient issue that arises during the nonlinear process of DS-ELSRTM. By comparing the imaging results of DS-ELSRTM and conventional ELSRTM in numerical experiments with the vertical fault model and Marmousi model, it is demonstrated that the DS-ELSRTM method has advantages in imaging steeply dipping structures and complex geological structures. DS-ELSRTM can produce higher-precision images than conventional ELSRTM.}
+}

@@ -1,0 +1,13 @@
+@article{BHUIYAN2025102578,
+title = {Classification of glioma grade and Ki-67 level prediction in MRI data: A SHAP-driven interpretation},
+journal = {Computerized Medical Imaging and Graphics},
+volume = {124},
+pages = {102578},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102578},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125000874},
+author = {E.H. Bhuiyan and M.M. Khan and S.A. Hossain and R. Rahman and Q. Luo and M.F. Hossain and K. Wang and M.S.I. Sumon and S. Khalid and M. Karaman and J. Zhang and M.E.H. Chowdhury and W. Zhu and X.J. Zhou},
+keywords = {Glioma classification, Ki-67 level prediction, Pre-trained deep learning, Machine learning, Dimensionality reduction, Ki-67 biomarkers, Explainable artificial intelligence, Shapley Additive Explanations},
+abstract = {This study focuses on artificial intelligence-driven classification of glioma and Ki-67 leveling using T2w-FLAIR MRI, exploring the association of Ki-67 biomarkers with deep learning (DL) features through explainable artificial intelligence (XAI) and SHapley Additive exPlanations (SHAP). This IRB-approved study included 101 patients with glioma brain tumor acquired MR images with the T2W-FLAIR sequence. We extracted DL bottleneck features using ResNet50 from glioma MR images. Principal component analysis (PCA) was deployed for dimensionality reduction. XAI was used to identify potential features. The XGBosst classified the histologic grades of the glioma and the level of Ki-67. We integrated potential DL features with patient demographics (age and sex) and Ki-67 biomarkers, utilizing SHAP to determine the model’s essential features and interactions. Glioma grade classification and Ki-67 level predictions achieved overall accuracies of 0.94 and 0.91, respectively. It achieved precision scores of 0.92, 0.94, and 0.96 for glioma grades 2, 3, and 4, and 0.88, 0.94, and 0.97 for Ki-67 levels (low: 5%≤Ki−67<10%, moderate: 10%≤Ki−67≤20, and high: Ki−67>20%). Corresponding F1-scores were 0.95, 0.88, and 0.96 for glioma grades and 0.92, 0.93, and 0.87 for Ki-67 levels. SHAP analysis further highlighted a strong association between bottleneck DL features and Ki-67 biomarkers, demonstrating their potential to differentiate glioma grades and Ki-67 levels while offering valuable insights into glioma aggressiveness. This study demonstrates the precise classification of glioma grades and the prediction of Ki-67 levels to underscore the potential of AI-driven MRI analysis to enhance clinical decision-making in glioma management.}
+}

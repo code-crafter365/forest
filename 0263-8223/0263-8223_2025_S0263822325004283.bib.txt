@@ -1,0 +1,13 @@
+@article{LI2025119263,
+title = {Nonlinear numerical simulation of plasticity, thermal and creep in particle-reinforced composites with a new three-dimensional VCFEM},
+journal = {Composite Structures},
+volume = {367},
+pages = {119263},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119263},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004283},
+author = {Chun Li and Ran Guo},
+keywords = {PRCs, 3D VCFEM, Plastic, Thermal, Creep, Numerical simulation},
+abstract = {This paper proposes a new three-dimensional Voronoi-cell finite element method (3D VCFEM), which incorporates plastic, thermal and creep strains, for the numerical simulation of particle-reinforced composites (PRCs). Firstly, the 3D VCFEM stress function, which contains interaction stress terms, is developed by improving the constitutive relation and nonlinear G-matrix of the complementary energy functional in 3D VCFEM, this results in the creation of a new 3D nonlinear complementary energy functional. Secondly, a comparison is conducted between the calculation results obtained from 3D VCFEM and ABAQUS in order to verify the validity and accuracy of the 3D VCFEM. In comparison to the finite element method, the 3D VCFEM exhibits superior capabilities in terms of adaptability and efficiency. Subsequently, the potential of the 3D VCFEM in simulating real materials with randomly distributed tremendous amounts of particles is demonstrated by an example of multi-inclusion PRCs with arbitrary element and integral domains. Finally, the impact of the stress function on the 3D VCFEM stress field is examined.}
+}

@@ -1,0 +1,13 @@
+@article{DIEMAR2025118601,
+title = {X-ray micro-computed tomography for mechanical behaviour analysis of Automated Fiber Placement (AFP) laminates with integrated gaps and overlaps},
+journal = {Composite Structures},
+volume = {351},
+pages = {118601},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118601},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007293},
+author = {Fabian Diemar and John Holmes and Silvano Sommacal and David Aparici-Böhlke and Benno Böckl and Klaus Drechsler and Paul Compston},
+keywords = {Automated Fiber Placement (AFP), Effects of defects, Digital material twin, Mesoscale simulation, Finite element analysis (FEA)},
+abstract = {Automated Fiber Placement (AFP) is a manufacturing technique widely used for the serial production of aerospace parts. A deep understanding of the effect of lay-up defects is crucial for part and lay-up design. Currently, numerical models for structural simulation lack a precise representation of the internal structure of AFP laminates, which is crucial for understanding the impact of defects on mechanical properties. This paper presents a novel approach based on high-resolution micro-computed tomography (micro-CT) scans from specimens manufactured with AFP, which automatically creates a mesoscale numerical model incorporating as-fabricated defect morphologies. The hexahedral mesh, generated from the segmented plies of the micro-CT volume, accounts for ply thickness and out-of-plane fiber orientation. This approach is verified with mechanical testing and digital image correlation (DIC) under tensile loading. The simulation results align closely with experimental testing and accurately illustrate the influence of fiber waviness in various defect configurations, such as gaps and overlaps. The study shows that lay-up defects can lead to knockdown factors of up to 12% in tensile properties, with each defect creating a distinct pattern in the local strain. This model can serve as a benchmark for further numerical simulations and surrogate models of defect configurations under varying loading conditions.}
+}

@@ -1,0 +1,13 @@
+@article{DUIGOU2025119509,
+title = {Variability of damping properties for viscoelastic composite plates of flax fibers},
+journal = {Composite Structures},
+volume = {372},
+pages = {119509},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119509},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325006749},
+author = {Laëtitia Duigou and Yann Guevel and Frédéric Druesne and Jean-Marc Cadou},
+keywords = {Composite structure, Flax fiber, Viscoelasticity, Vibration, Damping, Variability, Homotopy-perturbation, Modal stability procedure},
+abstract = {This paper aims at taking into account uncertainties of material and physical properties of flax/epoxy composite structures and evaluating their impacts onto the variability of free vibration responses. The natural character of the fiber indeed induces a quite important variability to properties of composite structures, leading to a noticeable variability of responses, possibly hindering its use. The variability of elastic moduli and thicknesses for flax/epoxy multi-layer structures is here modeled to investigate their influence on the variability of damping characteristics such as damping frequency and damping. The quantification of input uncertainties comes from an experimental campaign. The non-linear vibration problem of composite structures is solved by a High Order Newton method. The Monte Carlo Simulation method associated to a Modal Stability Procedure is here proposed using homotopy perturbation technique to deal with the frequency-dependent structure. Two viscoelastic constitutive laws are considered, the generalized Maxwell model and the Fractional derivative Zener model. The test case is a cantilever flax/epoxy rectangular plate and three stacking sequences are considered. The propagation of uncertainties is performed in order to determine the output variability level and the most influent parameters regarding damping characteristics of this structure.}
+}

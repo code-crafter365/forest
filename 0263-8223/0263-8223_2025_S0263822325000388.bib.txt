@@ -1,0 +1,13 @@
+@article{CHONG2025118873,
+title = {Design of the reconfigurable rotationally symmetric resonant functional unit and curved metasurface for acoustic wavefront modulation},
+journal = {Composite Structures},
+volume = {356},
+pages = {118873},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118873},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325000388},
+author = {Xuan-Yu Chong and A-Li Chen and Xing-Yue Du and Sheng-Dong Zhao and Yue-Sheng Wang},
+keywords = {Acoustic wave, Wavefront modulation, generalized Snell’s law, Reconfigurability, Curved metasurface},
+abstract = {In this paper, a reconfigurable rotationally symmetric functional unit is proposed based on the Helmholtz resonance. The theoretical model of the functional unit is established through acoustic impedance theory. The transmission/reflection spectrum of the functional unit are analyzed theoretically based on the transfer matrix method. The phase adjustment ability of the functional unit is verified through finite element method, theoretical analysis and experiments; and its mechanical mechanism is analyzed by using the band theory. Then based on the generalized Snell’s law, curved metasurfaces with multiple functionalities such as directional refraction, beam splitting, point focusing, and beam focusing are reconstructed with the reconfigurable functional units; and the self-healing property of the focused beam is also discussed. Flexibly switching between different operating frequencies and functionalities (directional refraction, beam splitting, point focusing, and beam focusing) is realized just by rotating the inner or outer cylinders of the functional units. Full wave field simulations are implemented by finite element method; Experimental verifications are also conducted. The results show that the proposed reconfigurable functional unit can continuously tune the phase shift of the transmitted acoustic wave, which enriches the diversity of tunable units. The curved metasurface can effectively realize multiple functionalities without refabrication, which provides guidance for the design of conformal acoustic devices and takes a step towards practical applications of metasurfaces.}
+}

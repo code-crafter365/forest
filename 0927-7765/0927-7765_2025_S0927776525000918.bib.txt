@@ -1,0 +1,13 @@
+@article{TAVAKOLI2025114584,
+title = {Synergistic effects of paclitaxel and platelet-superparamagnetic iron oxide nanoparticles for targeted chemo-hyperthermia therapy against breast cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114584},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114584},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000918},
+author = {Mohamadreza Tavakoli and Samane Maghsoudian and Amir Rezaei-Aderiani and Maliheh Hajiramezanali and Yousef Fatahi and Mahdiyar Amani and Elham Sharifikolouei and Mohammad Hossein Ghahremani and Mohammad Raoufi and Hamidreza Motasadizadeh and Rassoul Dinarvand},
+keywords = {SPIONs, Platelet membrane, Breast cancer, Hyperthermia, Nanoparticles},
+abstract = {Due to the limited therapeutic efficacy and side effects associated with conventional chemotherapy, researchers have turned their attention to developing targeted drug delivery systems using advanced nanotechnology. Coating nanoparticles (NPs) with cell membranes is a promising strategy because it extends their circulation times and allows them to selectively adhere to damaged vessel sites through the platelet membrane surface, thereby enhancing tumor uptake. Herein, we have developed a biomimetic drug delivery system consisting of superparamagnetic iron oxide nanoparticles (SPIONs) coated by platelet membranes (PM) for carrying Paclitaxel (PTX) to exploit the synergism effect of chemotherapy and magnetic hyperthermia. Controlled-release PTX nanoparticles exhibited consistent behavior over time, indicating no significant difference in release between SPION/PTX and SPION/PTX/PM at pH 7.4. However, at pH 5.5, improved release was observed, specifically a 1.4-fold increase for SPION/PTX/PM. The confocal and flow cytometry results showed an enhancement in the cellular uptake of SPION/PTX/PM nanoparticles, with an average fluorescence intensity of 142 ± 12.5. MTT results showed superior cytotoxic effects for SPION/PTX/PM compared to SPION/PTX and free PTX, showing an IC50 value of 5 μg/mL after 48 h of treatment. Furthermore, the IC50 decreased to 1 μg/mL when an alternating magnetic field was applied. Hence, the in vivo results and histopathological staining showed that the SPION/PTX/PM-AMF treatment group exhibited the highest rate of tumor growth inhibition, reaching nearly 92.14 %. These findings highlight the potential of using platelet membrane-coated nanoparticles for targeted delivery, combining magnetic hyperthermia and chemotherapy to minimize chemotherapy's undesirable effects while maximizing therapeutic outcomes.}
+}

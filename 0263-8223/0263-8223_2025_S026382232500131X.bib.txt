@@ -1,0 +1,13 @@
+@article{DASH2025118966,
+title = {A semi-analytical method for non-linear instability analysis of variable stiffness laminated composite beams under thermo-mechanical loading},
+journal = {Composite Structures},
+volume = {357},
+pages = {118966},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118966},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500131X},
+author = {Satyajeet Dash and Tanish Dey and Ayan Haldar and Rajesh Kumar},
+keywords = {VSLC Beam, Non-linear Analysis, Thermo-Mechanical Loading, Ritz Approach, Post-buckling, Post-buckled vibration},
+abstract = {This investigation explores the non-linear instability phenomena of variable stiffness laminated composite (VSLC) beams subjected to thermo-mechanical loading. A semi-analytical model is developed to determine the post-buckling and post-buckled vibration behavior of VSLC beams based on trigonometric shear deformation theory. Non-linear strain equations are formulated based on von-Karman’s geometric non-linearity assumptions. Constitutive relations are modified for VSLC beam to account for various coupling effects that arise due to varying fiber orientation and Poisson effects that arise due to the development of zero-stress conditions in the width direction of beams. Using Gram-Schmidt orthogonalization process, an orthogonal basis for the displacement field is constructed to enhance accuracy and ease. The model employs a displacement-based Ritz approach to derive the matrix representation of the governing equations. The present model is developed assuming equivalent single-layer theory, and material properties and temperature variations are assumed to be constant across the thickness of the beam. Moreover, arc-length method is employed to obtain the non-linear response curves of VSLC beam. Pre-buckled and post-buckled vibration responses are obtained using a standard eigenvalue approach. A parametric analysis is conducted to investigate the effect of slenderness ratio, boundary conditions, and ply-sequence on post-buckling and post-buckled vibration characteristics of VSLC beam.}
+}

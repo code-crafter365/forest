@@ -1,0 +1,13 @@
+@article{MIRZAEE2025106765,
+title = {A Newton’s solver for high-order wall distance computation on three-dimensional curved, unstructured meshes},
+journal = {Computers & Fluids},
+volume = {301},
+pages = {106765},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106765},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025002257},
+author = {Ehsan Mirzaee and Carl Ollivier-Gooch},
+keywords = {Wall distance, Optimization, Newton’s method, Lagrange interpolation, Unstructured meshes, Higher-order methods},
+abstract = {Accurate wall distance computation is essential in high-order turbulent flow simulations involving complex geometries. This paper presents a new higher-order approach to compute wall distance on three-dimensional, curved, unstructured meshes. The method uses Lagrange interpolation polynomials representing the mesh to formulate an optimization problem whose solution yields the wall distance. The domain is swept from the wall boundaries inward, and the optimization problem is solved for every vertex using Newton’s method. The algorithm is modified for domains with sharp edges, wall corners, or multiple wall boundaries. In problems with non-curved wall boundaries, the method finds the exact wall distance. For curved wall boundaries, when using cubic Lagrange polynomials for the mesh, the method achieves O(h4) accuracy for the wall distance and O(h3) accuracy for the normal-to-wall vector. Increasing the accuracy of the Lagrange functions used to define the mesh further improves the method’s order of accuracy.}
+}

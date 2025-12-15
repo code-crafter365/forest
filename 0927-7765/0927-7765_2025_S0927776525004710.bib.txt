@@ -1,0 +1,13 @@
+@article{MOLLA2025114964,
+title = {Headgroup-driven binding selectivity of alkylphospholipids to anionic lipid bilayers},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114964},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114964},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525004710},
+author = {Abebual Molla and Tun Naw Sut and Bo Kyeong Yoon and Joshua A. Jackman},
+keywords = {Alkylphospholipid, Supported lipid bilayer, Phosphatidylserine, Surfactant, Critical micelle concentration, Quartz crystal microbalance-dissipation},
+abstract = {Alkylphospholipids (APLs) are single-chain lipid amphiphiles that possess clinically useful, membrane-targeting functions, including anticancer activity. Engineered APLs have diverse headgroup chemistries aimed at improving pharmacological properties yet the impact of these structural differences on membrane interactions is scarcely understood. Herein, we investigated how three representative APLs – miltefosine (MIL), edelfosine (EDE), and perifosine (PER) – interact with supported lipid bilayer (SLB) platforms mimicking the high phosphatidylserine (PS) lipid content of cancer cell membranes and related compositions, and elucidated key interaction principles in terms of headgroup sterics, chain length, binding strength and selectivity, and colloidal aggregation state. Using the quartz crystal microbalance-dissipation (QCM-D) technique, we determined that MIL exhibits strong binding to anionic PS-enriched membranes while binding was suppressed by divalent cations. In contrast, MIL had minimal interactions with cationic membranes, indicating electrostatic-mediated membrane targeting that is distinct from the hydrophobic-driven mechanism of classical surfactants. We found that EDE behaved similarly to MIL and that PER exhibited markedly weaker binding to PS-enriched membranes. Although all three APL headgroups have permanently cationic quaternary amines, only the MIL and EDE headgroups display high conformational flexibility that enables strong binding to PS lipids whereas the PER headgroup has a sterically hindered piperidine ring that limits binding. These findings shed light on the functional importance of APL headgroup chemistry that goes beyond the traditional focus on pharmacological optimization and identify key mechanistic factors that enable selective PS lipid binding relevant to cancer cell targeting. In turn, these insights provide a molecular-level framework for rational APL design and colloidal delivery strategies.}
+}

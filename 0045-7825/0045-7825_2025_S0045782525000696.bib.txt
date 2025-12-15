@@ -1,0 +1,13 @@
+@article{ANANDH2025117797,
+title = {Improving hp-variational physics-informed neural networks for steady-state convection-dominated problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117797},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117797},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000696},
+author = {Thivin Anandh and Divij Ghose and Himanshu Jain and Pratham Sunkad and Sashikumaar Ganesan and Volker John},
+keywords = {Steady-state convection–diffusion–reaction problems, FastVPINNs, SUPG stabilization, Hard-constrained Dirichlet boundary conditions, Learning of the indicator function},
+abstract = {This paper proposes and studies two extensions of applying hp-variational physics-informed neural networks, more precisely the FastVPINNs framework, to convection-dominated convection–diffusion–reaction problems. First, a term in the spirit of a SUPG stabilization is included in the loss functional and a network architecture is proposed that predicts spatially varying stabilization parameters. Having observed that the selection of the indicator function in hard-constrained Dirichlet boundary conditions has a big impact on the accuracy of the computed solutions, the second novelty is the proposal of a network architecture that learns good parameters for a class of indicator functions. Numerical studies show that both proposals lead to noticeably more accurate results than approaches that can be found in the literature.}
+}

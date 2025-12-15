@@ -1,0 +1,13 @@
+@article{DONG2025119126,
+title = {Novel insight into relationship between microstructure and ablation behavior of Cu-W alloys prepared by melt infiltration: Experiments and molecular dynamics},
+journal = {Composite Structures},
+volume = {363},
+pages = {119126},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119126},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002910},
+author = {Bowen Dong and Zhaorun Li and Zhenpeng Wu and Ziyue Zhou and Shichao Liu and Weilong Zhao and Chengrong Mao and Lingyu Li and Jiaming Liu and Jinchuan Jie},
+keywords = {Cu-W alloys, Ablation resistance, Molecular dynamics, Microstructure, Melt infiltration method},
+abstract = {This study proposes a novel approach combining MD simulations and experimental methods to investigate the relationship between microstructure and ablation behavior of Cu-W alloys with varying W content, prepared by the melt infiltration method. Cu-W alloys have attracted significant interest due to their unique combination of high thermal and electrical conductivity from Cu and excellent thermal stability and ablation resistance from W, making them suitable for high-temperature applications. However, understanding the influence of microstructure, particularly W content, on their ablation resistance remains challenging, especially under extreme conditions like laser ablation. The experimental results show that increasing W content enhances the ablation resistance, as evidenced by the smallest ablation craters in W90. MD simulations further reveal how heat predominantly diffuses through Cu regions, while W serves as a thermal barrier, thereby enhancing stability during ablation. Additionally, mean squared displacement analysis indicates that atomic mobility decreases with higher W content, suggesting greater structural rigidity in W-rich alloys. This MD-based approach successfully captures the rapid phase transformations and kinetic mechanisms of Cu-W alloys under extreme conditions, providing insights that bridge the scale gap in experimental observations. The results contribute valuable theoretical support for optimizing the design and ablation resistance of Cu-W alloys.}
+}

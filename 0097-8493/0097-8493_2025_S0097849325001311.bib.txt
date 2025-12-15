@@ -1,0 +1,13 @@
+@article{EHLERS2025104290,
+title = {Wiggle! Wiggle! Wiggle! Visualizing uncertainty in node attributes in straight-line node-link diagrams using animated wiggliness},
+journal = {Computers & Graphics},
+volume = {131},
+pages = {104290},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104290},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325001311},
+author = {Henry Ehlers and Daniel Pahr and Sara {di Bartolomeo} and Velitchko Filipov and Hsiang-Yun Wu and Renata G. Raidou},
+keywords = {Network visualization, Uncertainty visualization, Animation, Fuzziness, Enclosure, Saturation},
+abstract = {Uncertainty is common to most types of data, from meteorology to the biomedical sciences. Here, we are interested in the visualization of uncertainty within the context of multivariate graphs, specifically the visualization of uncertainty attached to node attributes. Many visual channels offer themselves up for the visualization of node attributes and their uncertainty. One controversial and relatively under-explored channel, however, is animation, despite its conceptual advantages. In this paper, we investigate node “wiggliness”, i.e. uncertainty-dependent pseudo-random motion of nodes, as a potential new visual channel with which to communicate node attribute uncertainty. To study wiggliness’ effectiveness, we compare it against three other visual channels identified from a thorough review of uncertainty visualization literature—namely node enclosure, node fuzziness, and node color saturation. In a larger-scale, mixed method, Prolific-crowd-sourced, online user study of 160 participants, we quantitatively and qualitatively compare these four uncertainty encodings across eight low-level graph analysis tasks that probe participants’ abilities to parse the presented networks both on an attribute and topological level. We ultimately conclude that all four uncertainty encodings appear comparably useful—as opposed to previous findings. Wiggliness may be a suitable and effective visual channel with which to communicate node attribute uncertainty, at least for the kinds of data and tasks considered in our study.}
+}

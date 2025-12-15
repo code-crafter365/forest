@@ -1,0 +1,13 @@
+@article{HUANG2025109118,
+title = {Investigation of pseudo-ductile behaviour in 3D printed glass/carbon composites using interply and intraply hybridisation},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109118},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109118},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004129},
+author = {Cheng Huang and Michael Norton and Mathew W Joosten},
+keywords = {A. Hybrids, C. Analytical modelling, D. Mechanical testing, E. 3-D Printing},
+abstract = {Fibre-reinforced composites typically lack ductility, which can lead to sudden failure without warning. One promising strategy to address this limitation is hybridising low-elongation (LE) and high-elongation (HE) fibres within a composite laminate. In such hybrids, the LE fibres are embedded within a low strain material (LSM) layer that plays a critical role in initiating controlled fragmentation and promoting a pseudo-ductile response. This study investigates the influence of LSM layer thickness and LE-to-HE material ratio on the onset and development of pseudo-ductility in 3D printed composites. Semi-woven ply architectures were employed in the LSM layers, with configurations including both non-hybrid (carbon-only) and intraply-hybrid (carbon and glass) tow-preg filaments. The hybrid LSM layers provided enhanced LE fibre failure strain through improved mechanical shielding and crack-arrest behaviour from surrounding HE fibres. The pseudo-yield strain was found to depend on three key factors: LSM thickness, LE material ratio (defined as the ratio of the LSM volume to the total volume of the laminate), and the encapsulating effect of the HE material. This study demonstrates that 3D printing enables precise control over fibre placement to produce laminates that exhibit a pseudo ductile response, which mimics the behaviour of ductile metals. Developing new material combinations with alternative fibres will further unlock the potential of 3D printed composites to produce high performance structures with tailored mechanical properties.}
+}

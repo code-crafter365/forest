@@ -1,0 +1,13 @@
+@article{DECKELNICK2025117800,
+title = {On the numerical approximation of hyperbolic mean curvature flows for surfaces},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117800},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117800},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000726},
+author = {Klaus Deckelnick and Robert Nürnberg},
+keywords = {Hyperbolic mean curvature flow, Evolving surfaces, Finite element method, Finite difference method},
+abstract = {The paper addresses the numerical approximation of two variants of hyperbolic mean curvature flow of surfaces in R3. For each evolution law we propose both a finite element method, as well as a finite difference scheme in the case of axially symmetric surfaces. We present a number of numerical simulations, including convergence tests as well as simulations suggesting the onset of singularities.}
+}

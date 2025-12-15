@@ -1,0 +1,13 @@
+@article{XU2025119698,
+title = {Experimental study on fire resistance of fiber-reinforced rubber seals},
+journal = {Composite Structures},
+volume = {373},
+pages = {119698},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119698},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008633},
+author = {Helin Xu and Congwen Wang and Yuxin Tian and Xucan Lian and Yong Huan and Shuaishuai Yang and Yinghao Yang and Chi Xiao},
+keywords = {Fiber reinforced rubber, Seals, Experimental device, Mechanical properties, Fire retardant mechanism},
+abstract = {Fiber-reinforced rubber fire-resistant seals exhibit excellent mechanical properties under both high and low temperature conditions, and are widely applied in aerospace, marine, and energy industries. Their primary function is to maintain structural integrity and ensure effective sealing, thereby preventing the spread of combustion and the penetration of high-temperature flames. However, quantitative evaluation methods for the fire-resistant performance of sealing structures remain limited. This research developed a novel thermo-mechanical loading test apparatus capable of simulating the compression of seals in aircraft door structures. Enabling the application of controlled thermal boundary conditions and real-time measurement of backfire-side temperatures. Through component-level high-temperature tests, the influence of the amount of compression on the fire-resistant performance of seals was investigated. Furthermore, the microstructural evolution of the seals under elevated temperatures was characterized using a combination of microscopic observation, thermogravimetric analysis, and mechanical testing. Finite element simulations were employed to assess the effects of microstructural porosity and material layer configuration on the thermal insulation performance of the seals. Based on these investigations, the fire resistance mechanism of fiber-reinforced rubber seals was elucidated. This work establishes an experimental framework for evaluating the fire-resistant performance of polymer-based composite materials, and the developed thermo-mechanical loading system enables quantitative assessment of the fire-resistance capability of sealing structures. The findings provide scientific guidance for enhancing the fire-resistant performance of fiber-reinforced rubber seals at the structural component level.}
+}

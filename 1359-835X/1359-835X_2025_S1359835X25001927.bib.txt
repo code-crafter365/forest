@@ -1,0 +1,13 @@
+@article{HUO2025108898,
+title = {Low velocity impact response of carbon fiber reinforced thermoplastic composite honeycomb sandwich structure considering mesoscopic damage behavior},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108898},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108898},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001927},
+author = {Yong-Zhang Huo and Jin-Shui Yang and Zhao Suo and Tian Zhao and Wei-Jing Wang and Yao-Hui Tong and Xiang-Wei Wang},
+keywords = {Thermoplastic composites, Low velocity impact, Mesoscopic failure, Finite element analysis},
+abstract = {With the development of carbon fiber reinforced thermoplastic polymer (CFRTP), laminates and core structures made of them are more and more widely used in various field. This paper focuses on analyzing the dynamic response of laminates and sandwich structures made of T700 carbon fiber reinforced Poly Ether-Ether-Ketone (PEEK) thermoplastic composites under a low-velocity impact condition. The honeycomb sandwich structures and laminates were fabricated separately and were subjected to impact loading with different energies. Finite element models were established to explore the failure mechanisms and energy absorption characteristic of the as-manufactured structures. A high-fidelity mesoscopic modelling method was adopted to gain an in-depth insight of the damage behavior of thermoplastic composites. The effects of structural parameters such as panel thickness, core height and core wall thickness on the impact response were systematically studied. Meanwhile, in comparison with thermoset composites, thermoplastic composites showed better impact resistance.}
+}

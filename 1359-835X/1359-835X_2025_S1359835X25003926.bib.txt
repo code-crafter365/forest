@@ -1,0 +1,13 @@
+@article{CUI2025109098,
+title = {Design of programmable interlayer hybrid laminated composite materials with multi-couplings},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109098},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109098},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003926},
+author = {Da Cui and Minghao Zhang and Daokui Li},
+keywords = {Interlayer hybrid fiber laminates, Programmable design, Multiple coupling effects, Coupled deformation, Hygro-thermal deformation},
+abstract = {Hybrid fiber-reinforced composites offer superior advantages over single-fiber systems in enhancing mechanical performance, enabling structural multifunctionality, and reducing manufacturing costs. This study develops an analytical model addressing coupled deformation and hygro-thermal characteristics in interlayer hybrid fiber laminates. Leveraging decoupled geometric factors and material constants, the model enables low-cost, high-performance programmable laminate design. Using extension-twist multi-coupled laminates as exemplars, the Genetic Algorithm-Sequential Quadratic Programming methodology resolves challenging nonlinear equality constraints during optimization. This facilitates efficient hygro-thermally stable stacking sequence design for arbitrary ply counts. Results demonstrate that optimized multi-coupled laminates significantly outperform conventional engineering standard layers, achieving up to more than 100-fold stiffness enhancement alongside substantial material cost reduction while maintaining hygro-thermal stability. Effectiveness of the layering accuracy was verified by robustness analysis; finite element simulations and extension-twist experimental validations have confirmed the model’s accuracy in predicting both mechanical coupling and hygrothermal responses. The methodology’s generality is further demonstrated through extension to ternary even more diverse hybrid systems (e.g., glass/carbon/aluminum architectures), establishing a new paradigm for multifunctional composite design.}
+}

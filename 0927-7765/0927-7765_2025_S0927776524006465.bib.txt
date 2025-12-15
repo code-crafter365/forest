@@ -1,0 +1,13 @@
+@article{GHATTAVI2025114387,
+title = {Innovative CuO-melanin hybrid nanoparticles and polytetrafluoroethylene for enhanced antifouling coatings},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114387},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114387},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006465},
+author = {Saba Ghattavi and Ahmad Homaei and Ehsan Kamrani},
+keywords = {CuO-melanin hybrid nanoparticles, Polytetrafluoroethylene, Antifouling, Coatings, Marine biofouling, Padina sp., Sepia pharaonis},
+abstract = {Based on current research, a highly effective, completely biocompatible, and eco-friendly antifouling method was developed. Sepia pharaonis was used to synthesize melanin nanoparticles from its ink. To improve the anti-biofouling characteristics, CuO nanoparticles were synthesized from Padina sp., and a CuO-melanin hybrid nanoparticle complex was created under reflux. The XRD spectrum of the hybrid nanoparticles revealed several prominent peaks, indicating the crystalline structure of the nanoparticles. An EDS analysis identified copper, carbon, and oxygen in the hybrid nanoparticles. According to FE-SEM analysis, CuO-melanin hybrid nanoparticles displayed spherical morphology, with sizes ranging from 15 nm to 55 nm. DLS analysis showed that the hydrodynamic diameter of CuO-melanin hybrid nanoparticles was 187.5 nm. The biological test showed that CuO-melanin nanoparticles had the highst effect on marine bacteria (Phaeobacter sp. (6.25 μg/mL), Alteromonas sp. (12.5 μg/mL)), and algae (Isochrysis galbana Parke) (99 %) after 48 h. The CuO-melanin (3 wt%) exhibited the lowest pseudo-barnacle adhesion strength at 0.021 MPa and the lowest surface free energy, measuring 14.22 mN/m. The field immersion study in a marine environment showed that among the panels tested, the one containing 3 wt% CuO-melanin hybrid nanoparticles with polytetrafluoroethylene yielded the most favorable and efficient outcome, since it led to the lowest measured weight of biofouling at 26.44 g. The findings of this study show that CuO-melanin hybrid nanoparticles combined with polytetrafluoroethylene exhibit highly promising characteristics, make them appealing for antifouling applications.}
+}

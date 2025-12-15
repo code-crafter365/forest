@@ -1,0 +1,13 @@
+@article{ZHANG2025118942,
+title = {Hierarchical multiscale fracture modeling of carbon-nitride nanosheet reinforced composites by combining cohesive phase-field and molecular dynamics},
+journal = {Composite Structures},
+volume = {358},
+pages = {118942},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118942},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325001072},
+author = {Qinghua Zhang and Navid Valizadeh and Mingpeng Liu and Xiaoying Zhuang and Bohayra Mortazavi},
+keywords = {Hierarchical multiscale modeling, Molecular dynamics, Cohesive phase-field fracture, Scaling effects, Carbon-nitride nanosheet, Atomistic-continuum modeling},
+abstract = {Understanding the fracture mechanisms in composite materials across scales, from nano- to micro-scales, is essential for an indepth understanding of the reinforcement mechanisms and designing the next generation of lightweight, high-strength composites. However, conventional methods struggle to model the complex fracture behavior of nanocomposites, particularly at the fiber–matrix interface. The phase-field regularized cohesive fracture model has proven to be effective in simulating crack initiation, branching, and propagation; however, capturing the cohesive fracture strength at smaller scales remains a significant challenge. This study introduces a novel approach that combines an energy-based star-convex decomposition cohesive phase-field fracture model with molecular dynamic simulations to explore the thickness dependency of nanocomposite mechanical properties. The proposed framework enables hierarchical modeling of the mechanical and fracture behaviors of carbon-nitride nanosheet-reinforced composites. The developed model could reveal complex fracture processes across different scales and highlight critical scaling effects. This methodology provides an efficient solution for uncovering hierarchical fracture mechanisms in reinforced nanocomposites, offering valuable insights into their fracture behavior and strengthening mechanisms.}
+}

@@ -1,0 +1,13 @@
+@article{SHUKLA2025119163,
+title = {Energy harvesting from delaminated variable stiffness piezolaminated plate and shell panels},
+journal = {Composite Structures},
+volume = {364},
+pages = {119163},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119163},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003289},
+author = {Rishabh Shukla and S. Pradyumna},
+keywords = {Energy harvester, Variable stiffness composite laminates, Piezolaminated shell panels, Delamination, Curvilinear fiber},
+abstract = {Energy harvesting from piezolaminated panels has been greatly explored by researchers in past few decades. Delamination is a very common mode of failure in piezolaminated composites and affects the vibration response of the structure. In the present study, the effect of delamination on the Constant and Variable stiffness laminate energy harvester is studied. The energy harvesting characteristics like the voltage, power, and motion frequency response functions are studied. A nine-noded isoparametric element is used with first-order shear deformation theory-based formulation for the analysis of delaminated energy harvester. The continuity of displacement and rotational variables at the delamination fronts is achieved by the point continuity method. The effect of fiber path on the Variable stiffness delaminated harvester is studied and the variations of voltage, power and relative motion FRFs are plotted for different fiber paths. The effect of the location of delamination on different FRFs is also studied. The motion FRFs can be useful in detection of location of delamination FRFs. Parametric study of different geometric and boundary conditions is performed. The current study aims to present a benchmark study on the effect of delamination on different energy harvesting characteristics of the piezolaminated plate and shell constant and variable stiffness panels.}
+}

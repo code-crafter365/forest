@@ -1,0 +1,13 @@
+@article{XU2025117695,
+title = {Finite element-integrated neural network for inverse analysis of elastic and elastoplastic boundary value problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {436},
+pages = {117695},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117695},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782524009496},
+author = {Kunpeng Xu and Ning Zhang and Zhen-Yu Yin and Kaiqi Li},
+keywords = {Finite element-integrated neural network, Inverse analysis, Elasticity, Elastoplasticity},
+abstract = {Inverse analysis of material parameters and load conditions are crucial in boundary value problems, which are always challenging and time-consuming for existing numerical methods such as the finite element method. This paper develops an high-efficiency inverse analysis framework based on the finite element integrated neural network (FEINN) framework proposed by the authors in computational solid mechanics. Compared to physical information neural network (PINN), FEINN discretizes the domain using finite elements instead of collocation points and uses Gaussian integration along with strain-displacement matrix to establish a weak form control equation, significantly accelerating the training process and convergence rate. For inverse problems, FEINN incorporates unknown material parameters or load conditions into the trainable parameters of neural networks. Utilizing the known force and displacement data obtained at the monitoring points as labels, FEINN can directly identify these unknown parameters by iteratively optimization of neural networks. Validated through multiple numerical experiments, FEINN demonstrates excellent performance in estimating elastic and elastoplastic material parameters, as well as external force and displacement loads, with relative errors <1 %. Moreover, this paper also discusses the influence of factors such as mesh size, noise robustness, and FEINN initialization on performance. The results show that FEINN can still maintain outstanding performance with coarse mesh, suggesting the potential for low monitoring costs in practical engineering applications. FEINN also presents high efficiency and robustness when handling noisy data. In addition, applying a forward-computing neural network to initialize the inverse identification saves up to 60 % of the convergence cost, making FEINN more efficient and practical in real-time monitoring. In addition, FEINN demonstrates advantages of high efficiency, high accuracy, and low cost in solving the stress concentration problem, compared to other different PINNs.}
+}

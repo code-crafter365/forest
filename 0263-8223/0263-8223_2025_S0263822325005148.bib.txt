@@ -1,0 +1,13 @@
+@article{KIM2025119349,
+title = {Unlocking the origin of fracture toughness improvement in coated fiber/epoxy composites: phase field fracture simulation study},
+journal = {Composite Structures},
+volume = {370},
+pages = {119349},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119349},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005148},
+author = {Jae Hun Kim and Haolin Wang and Jihun Lee and Gyu Hee Lee and Hyunseong Shin},
+keywords = {Polymer-matrix composites, Fracture toughness, Phase field model, Interphase},
+abstract = {In recent years, the research of fabricating high-toughness coated fiber-reinforced polymer composites (FRPCs) by constructing interphase layers on fiber surfaces has garnered significant attention. However, the toughening mechanism behind the high-toughness of coated FRPCs remain unclear, and the understanding of how interphase properties control fracture toughness is still lacking, thereby limiting their structural optimization and high-toughness design. This study is the first to apply the phase field regularized cohesive zone model (PF-CZM) to fracture toughness analysis of coated FRPCs and proposes design principles for interphase properties (such as mechanical properties and thickness).The results indicate that interphase tensile strength is a key parameter controlling the crack propagation mode, while the interphase critical energy release rate is the decisive factor driving the toughening mechanism from interphase fracture to interphase bridging. By analyzing the contributions of toughening mechanisms, it was revealed that the interphase bridging mechanism triggered by the interphase-dominated crack propagation mode is the core of toughness enhancement, thereby clarifying the origin of the high-toughness in coated FRPCs. Moreover, sensitivity analysis of interphase parameters elucidates the regularity between interphase properties and toughness enhancement. This study clearly elucidates the critical role of the interphase layer in the toughness enhancement of coated FRPCs, providing not only theoretical support for understanding the toughening mechanisms but also valuable guidance for the rational design of high-toughness coated FRPCs.}
+}

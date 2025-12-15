@@ -1,0 +1,13 @@
+@article{LI2025118108,
+title = {Two-scale concurrent topology optimization of multiple lattice materials with non-uniform thickness interfaces},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {444},
+pages = {118108},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118108},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003809},
+author = {Chao Li and Qihan Wang and Minghui Zhang and Wei Gao and Zhen Luo},
+keywords = {Two-scale topology optimization, Multiple lattice materials, Interface thickness design, Designable filtering process},
+abstract = {Structures composed of multiple lattice materials have exceptional mechanical properties due to their rationally designed macrostructures and microstructures, which have enabled diverse engineering applications. However, existing topology optimization approaches for such structures often face challenges in achieving generality and flexibility, particularly in designing the thickness of interfacial regions. Hence, this paper proposes a two-scale concurrent topology optimization method for designing multiple lattice materials with non-uniform thickness interfaces, including solid shell and interface lattice materials. The method improves the existing two-step filtering/projection approach by optimizing the length scale parameter of the Helmholtz-type partial differential equation filter to control interface thickness. Additional variables associated with the filtering process are introduced to optimize the filtering strength spatially, enabling density gradients that vary across different regions. This expands the feasible design space, enhancing the potential for superior optimization outcomes. Interfaces are represented using variables derived from the spatial density gradient and a projection approach, effectively capturing non-uniform thickness characteristics. A material interpolation scheme is incorporated into the two-scale framework to handle multiple lattice materials with solid shell and interface lattice material. Numerical examples are provided to demonstrate the effectiveness and versatility of the proposed method.}
+}

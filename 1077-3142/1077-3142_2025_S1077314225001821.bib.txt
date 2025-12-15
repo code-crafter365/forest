@@ -1,0 +1,13 @@
+@article{LIN2025104459,
+title = {Robust cross-image adversarial watermark with JPEG resistance for defending against Deepfake models},
+journal = {Computer Vision and Image Understanding},
+volume = {260},
+pages = {104459},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104459},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225001821},
+author = {Zhiyu Lin and Hanbin Lin and Liqiang Lin and Shuwu Chen and Xiaolong Liu},
+keywords = {Deepfake, Proactive defense, Adversarial attack, JPEG-resistance, Cross-image},
+abstract = {The widespread convenience of generative models has exacerbated the misuse of attribute-editing-based Deepfake technologies, leading to the proliferation of illegally generated content that severely threatens personal privacy and security. Existing proactive defense strategies mitigate Deepfake attacks by embedding imperceptible adversarial watermarks into the spatial-domain of protected images. However, spatial-domain adversarial watermarks are inherently sensitive to lossy compression operations, which significantly degrades their defense efficacy. To address this limitation, we propose a frequency-domain cross-image adversarial watermark generation scheme to enhance robustness toward JPEG compression. In the proposed method, the adversarial watermark training process is migrated to the frequency domain using a differentiable JPEG module, which explicitly simulates the impact of quantization and compression on perturbation distributions. Furthermore, a fusion module is incorporated to coordinate watermark distributions across images, thereby enhancing the generalization of the defense. Experimental results demonstrate that the generated adversarial watermarks exhibit strong robustness against JPEG compression and effectively disrupt the outputs of Deepfake models. Moreover, the proposed scheme can be directly applied to diverse facial images without retraining, thereby providing reliable protection for real-world image application scenarios.}
+}

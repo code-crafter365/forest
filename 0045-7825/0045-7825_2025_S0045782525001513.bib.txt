@@ -1,0 +1,13 @@
+@article{LI2025117879,
+title = {Implicit stabilized non-ordinary state-based peridynamics for finite deformation and fracture analysis of nearly incompressible materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117879},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117879},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001513},
+author = {Chengxuan Li and Hanbo Zhang and Cunliang Pan and Hongfei Ye and Hongwu Zhang and Yonggang Zheng},
+keywords = {Peridynamic, Implicit, Stabilized mixed formulation, Finite deformation, Fracture behavior, Nearly incompressible hyperelastic materials},
+abstract = {This work presents an implicit stabilized non-ordinary state-based peridynamic method (ImNSPD) to simulate the finite deformation and crack propagation in nearly incompressible hyperelastic materials. Firstly, a mixed displacement-pressure (u-p) formulation of the ImNSPD is derived to mitigate the volumetric locking issues expected in a purely displacement formulation near the incompressibility limit. Additionally, the shape-associated micromodulus and the dilatation-associated micromodulus are introduced as penalty factors in the modified force vector state and the modified hydrostatic pressure scalar state, respectively, to enhance the numerical stabilization. Subsequently, an incremental-iterative solution scheme based on the Newton-Raphson algorithm and the Newmark-beta method is proposed to capture the nonlinear response of hyperelastic materials in the time domain. The stability and robustness of the ImNSPD are assessed by studying several representative numerical examples involving the finite deformation of nearly incompressible hyperelastic material models. Moreover, an equivalent strain function is introduced as a failure criterion for nearly incompressible hyperelastic materials, and the good performance of the ImNSPD in predicting crack propagation is demonstrated through the fracture analysis of the twisting column test.}
+}

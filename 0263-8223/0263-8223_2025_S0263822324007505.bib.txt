@@ -1,0 +1,13 @@
+@article{BAO2025118622,
+title = {Phononic crystal-based acoustic demultiplexer design via bandgap-passband topology optimization},
+journal = {Composite Structures},
+volume = {351},
+pages = {118622},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118622},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007505},
+author = {Yuhao Bao and Zhiyuan Jia and Qiming Tian and Yangjun Luo and Xiaopeng Zhang and Zhan Kang},
+keywords = {Acoustic demultiplexer, Topology optimization, Phononic crystals, Bandgap},
+abstract = {The wave demultiplexer, which selectively transports specific frequencies from incident waves, has garnered considerable interest for its applications across various engineering disciplines. This study introduces a new customizable design method for acoustic demultiplexers based on the topology optimization of phononic crystals (PnCs). To achieve an acoustic demultiplexer capable of filtering multiple frequencies, a topological design model for PnCs that simultaneously considers bandgaps and passbands is proposed. By assembling the optimized PnCs within the structure, the demultiplexer can separate sound waves of different frequencies into distinct output channels. In the optimization model, an objective function based on transmission rates is proposed to determine whether specific frequencies fall within the specified bandgap or passband. To solve this complex topology optimization problem, the Kriging-based material-field series expansion (KG-MFSE) approach is used to describe the material distribution and optimization of PnCs. The designed PnC unit cells can be directly integrated into the demultiplexer without requiring additional space. Based on specified combinations of passbands and bandgaps, different PnCs are designed to realize a programmable acoustic demultiplexer capable of filtering various sound waves. Numerical analyses demonstrate that the constructed acoustic demultiplexer effectively separates the specified frequencies. Finally, experimental validation of the 3D printed acoustic demultiplexer model confirms the effectiveness of the proposed optimization method.}
+}

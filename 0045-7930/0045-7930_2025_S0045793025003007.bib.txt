@@ -1,0 +1,13 @@
+@article{NAYAK2025106840,
+title = {Immersed boundaries in the discontinuous Galerkin spectral element method through hp-adaptivity},
+journal = {Computers & Fluids},
+volume = {302},
+pages = {106840},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106840},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025003007},
+author = {Amit Nayak and Catherine Mavriplis},
+keywords = {Discontinuous Galerkin spectral element method, Immersed boundaries, Volume penalization, hp-adaptive mesh refinement},
+abstract = {The immersed boundary method is a promising numerical technique that allows for modeling of complex geometries without the need for body conforming meshes. However, immersed boundary methods present a significant reduction in accuracy. In this paper, we implement the volume penalty method in an hp-adaptive discontinuous Galerkin spectral method framework to solve the two-dimensional acoustic wave equation with immersed boundaries. We demonstrate that combining low porosity, which represents the immersed boundary, with hp-adaptivity reduces oscillations, localizes error to the vicinity of the immersed boundary and improves the overall accuracy. A variety of test cases are presented to show that the implementation is capable of modeling wave propagation in complex geometries with simple Cartesian grids.}
+}

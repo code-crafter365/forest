@@ -1,0 +1,13 @@
+@article{SCHWARTZ2025106727,
+title = {An Eulerian-based immersed boundary method using direct forcing on piecewise linear constructed interface},
+journal = {Computers & Fluids},
+volume = {299},
+pages = {106727},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106727},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001872},
+author = {Spencer Schwartz and Yue Ling},
+keywords = {Immersed boundary method, Multi-direct forcing, Volume-of-fluid (VOF)},
+abstract = {We present a novel Eulerian-based Immersed Reconstructed Boundary Method (IRBM) for resolving fluid interactions with moving solids. The immersed solid body is represented by a scalar field of solid volume fraction, and the motion of the solid is achieved by advecting the solid volume fraction. The solid–fluid interface is reconstructed using the piecewise linear interface construction (PLIC), and the penalty force is applied at the centroid of the reconstructed interface using an iterative multi-direct forcing approach, to ensure the no-slip boundary condition. This method is implemented in the open-source solver Basilisk, which uses an adaptive quadtree/octree mesh for spatial discretization. The method is validated through simulations of several 2D and 3D test cases, including 2D flow over stationary and oscillating cylinders and 3D flow over a stationary sphere. The simulation results are compared with previous experiments, simulations using body-fitted meshes, and other numerical methods on non-conforming meshes, such as the immersed boundary method and embedded boundary method, showing good agreement in all cases tested.}
+}

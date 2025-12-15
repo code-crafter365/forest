@@ -1,0 +1,13 @@
+@article{KAZEMI2025108714,
+title = {A novel structural fuse concept for controlling failure path in tapered composite laminates},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108714},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108714},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000089},
+author = {Erfan Kazemi and Victor Medeau and Emile Greenhalgh and Soraia Pimenta and James Finlayson and Silvestre T. Pinho},
+keywords = {Tapered composites, Damage control, Engineered crack paths, Carbon fibre-reinforced polymer (CFRP), Structural fuse},
+abstract = {We present a novel methodology for developing structural fuse concepts in tapered carbon fibre-reinforced polymer (CFRP) composite laminates. We demonstrate that the structural fuse concept is successful in reducing the mass required for a CFRP specimen which represents a generic idealised blade, and in reducing the ejected portion of the mass of the specimen during damage inflicted by a foreign object (such as a bird strike). To this end, we designed and developed structural fuses in the form of engineered crack paths containing micro-cut patterns (MCPs, engraved using a laser micro-machining system) to tailor failure mechanisms and to control the load–displacement response at which failure occurs. We used ultra-thin-ply CFRP prepregs for the manufacture of tapered CFRP specimens with reduced resin pockets in the ply drop region. To assess the performance of this novel concept, we developed a test method which represents a simplified idealised bird strike on a blade in the form of an out-of-plane point load. This consists of (i) a non-tapered cantilever specimen that would fail (undesirably) at the root, (ii) a tapered baseline cantilever specimen where extra plies are added to avoid this undesired failure at the root at the cost of extra mass, and (iii) a tapered engineered cantilever specimen containing a structural fuse to achieve failure at the desired location with a reduced mass compared to the second specimen type. The test results show that by changing various parameters of MCPs, different engineered crack paths can be obtained, which can promote different failure mechanisms, such as delamination. Moreover, we achieved successful control of the crack position in the engineered tapered CFRP specimens without a meaningful reduction in the peak load or displacement, and with a reduction of the root thickness of 17%.}
+}

@@ -1,0 +1,13 @@
+@article{TIAN2025110966,
+title = {Designable alignment of reclaimed carbon fiber by soft-lock pressing for remanufacturing multifunctional flexible heater},
+journal = {Composites Science and Technology},
+volume = {260},
+pages = {110966},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.110966},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005360},
+author = {Yu Tian and Shuran Li and Weidong Zhu and Keping Yan and Yinglin Ke},
+keywords = {Reclaimed carbon fiber, Remanufacturing, Thermal properties, Anti-icing/De-icing, Designable alignment},
+abstract = {The utilization of reclaimed carbon fiber (rCF) in remanufacturing processes presents a sustainable solution for reducing carbon footprint and promoting circular economy principles. In this study, we propose a simple and direct universal soft-lock pressing method to achieve the controlled formation and strategic arrangement of highly ordered fiber arrays. Experimental results demonstrate that the aligned rCF array exhibits hydrophobic properties due to its continuous micro-rounded arch morphology on the surface. Combined with rapid and uniform Joule heating, the multifunctional flexible heater remanufactured based on rCF arrays shows promising prospects for preventing ice formation and facilitating rapid de-icing in low-temperature environments. Notably, this method can effectively utilize the directional properties of rCF to construct temperature gradients, enhancing heat distribution and overall performance in heating and de-icing applications. Overall, using soft-lock pressing for the remanufacturing of rCF multifunctional flexible heaters represents a convergence of sustainability, advanced materials, and functional design, and is an important exploration and leadership in closing the recycling loop through various innovative pathways.}
+}

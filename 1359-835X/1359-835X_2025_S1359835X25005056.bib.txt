@@ -1,0 +1,13 @@
+@article{DI2025109211,
+title = {From nano to macro: gradient-architected EM/CNT composites enabled by hierarchical design for multidimensional electromagnetic protection},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {199},
+pages = {109211},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109211},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25005056},
+author = {Xiaochuang Di and Junyu Lu and Mushan Yuan and Mei Liang and Zhong Zeng and Hui Liu and Yang Chen and Huawei Zou},
+keywords = {Electromagnetic wave absorption, Aramid honeycomb, Ultra-broadband absorption, Multifunctional composites},
+abstract = {Lightweight, multifunctional composites with ultra-broadband electromagnetic wave (EMW) absorption, thermal insulation, and mechanical robustness are critical for advanced electromagnetic compatibility. Yet, integrating these properties at subwavelength thicknesses remains challenging. Herein, we propose a multiscale heterostructure design strategy to fabricate a three-dimensional gradient absorber by hybridizing expandable microspheres (EMs), carbon nanotubes (CNTs), and an aramid honeycomb framework. At the nanoscale, CNTs form interconnected conductive networks to enhance electromagnetic dissipation and thermal stability. Micron-sized voids from thermally expanded EMs optimize interfacial polarization and impedance matching, while the macroscale honeycomb architecture ensures mechanical strength and guides spatially graded porosity. This hierarchical synergy yields a record-breaking effective absorption bandwidth (EAB) of 15.4 GHz (1.2–2.6 GHz and 4–18 GHz) at 30 mm thickness, with a minimum reflection loss of −36 dB. Genetic algorithm-guided layer optimization further extends the continuous <−20 dB bandwidth to 14.0 GHz (4.0–18.0 GHz). Simultaneously, the composite achieves lightweight, compression-resistant, and thermally insulating performance via its multiscale architecture. Our work highlights how nano–micro–macro heterostructuring enables precise control over electromagnetic, mechanical, and thermal functionalities, offering a scalable paradigm for next-generation multifunctional materials.}
+}

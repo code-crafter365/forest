@@ -1,0 +1,13 @@
+@article{WANG2025114528,
+title = {Enhanced mRNA delivery via incorporating hydrophobic amines into lipid nanoparticles},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114528},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114528},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000359},
+author = {Longyu Wang and Yichen Li and Pingge Jiang and Hao Bai and Chengfan Wu and Qi Shuai and Yunfeng Yan},
+keywords = {MRNA delivery, Ionizable lipids, Lipid nanoparticle, Hydrophobic interaction},
+abstract = {Lipid nanoparticles (LNPs) have shown promising performance in mRNA delivery. Nevertheless, a thorough understanding of the relationship between mRNA delivery efficacy and the structure of LNPs remains imperative. In this study, we systematically investigated the effects of additional hydrophobic amines on the physicochemical properties of mRNA LNPs and their delivery efficacy. The results indicated that this influence depended on the chemical structure of the additional amines and the structure of the lipid carriers. The appropriate addition of the hydrophobic amine 2C8 to lipid carriers with structural 2C8 or 2C6 tails significantly increased their mRNA delivery efficiency. In contrast, the addition of hydrophobic amine C18 to LNPs resulted in a decrease in mRNA delivery efficiency, while the addition of hydrophobic amines 2C6 and C8, as well as alkanes C12' and C16', had relatively little effect on mRNA delivery. Further investigations demonstrated that the appropriate addition of 2C8 could reduce LNP size, moderate internal hydrophobicity and LNP stability, facilitate mRNA release, enhance cellular uptake, and improve intracellular transportation of LNPs, thereby achieving superior mRNA delivery efficiency. These findings highlight the important role of additional hydrophobic amines in mRNA delivery with LNPs and provide valuable insights for the advancement of mRNA delivery carriers.}
+}

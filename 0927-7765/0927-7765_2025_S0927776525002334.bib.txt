@@ -1,0 +1,13 @@
+@article{CHOI2025114726,
+title = {Fucoidan-chitosan nanocarriers for anticancer therapy through chemodynamic, photothermal, and glucose starvation strategies},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {253},
+pages = {114726},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114726},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525002334},
+author = {Da Yeong Choi and Chang Hyeon Ha and Su Jeong Lee and Se Hwa Cheon and Gi Hun Seong},
+keywords = {Fucoidan, Chitosan, Photothermal therapy, Chemodynamic therapy, Glucose starvation},
+abstract = {The tumour microenvironment (TME) presents a distinctive set of challenges and opportunities in the context of targeted cancer therapies, offering potential avenues for reducing non-specific cell death and side effects on normal cells. By combining chemodynamic therapy, starvation therapy, and photothermal therapy, our approach aims to activate drug release and generate reactive oxygen species within the TME. Specifically, we developed a fucoidan-chitosan (F/CS) nanocarrier loaded with 3,3′,5,5′-tetramethylbenzidine (T), Prussian blue (P), and glucose oxidase (GOx) (F/CS@TPGOx). It has been reported that fucoidan and chitosan target P-selectin and the glucose-rich microenvironment of pathological cancer. Furthermore, F/CS@TPGOx at a concentration of 4 µg/mL was observed to reduce cancer cell viability to less than 20 % following a four-hour incubation period. This indicates that fucoidan, the carrier, exhibits anticancer activity that is more pronounced than that observed in conventional anticancer nanocarriers. The findings demonstrated the efficacy of F/CS@TPGOx in cancer cell death in both in vitro and in vivo settings. This suggests F/CS@TPGOx as a promising material for targeted cancer therapy with the potential to be used in clinical biomedicine as a therapeutic platform with high efficacy and minimal side effects.}
+}

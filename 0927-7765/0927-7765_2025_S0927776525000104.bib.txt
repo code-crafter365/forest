@@ -1,0 +1,13 @@
+@article{SARAVANAN2025114503,
+title = {MoS2 nanoflowers surface decorated with CuS nanorods and carbon dots for fluorescent and ultrasound imaging in cancer therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {249},
+pages = {114503},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114503},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000104},
+author = {Nishakavya Saravanan and Anandhakumar Sundaramurthy and Sukho Park},
+keywords = {Echogenic nanomaterials, Photothermal-chemotherapy, Polyethyleneimine, Fluorescence imaging, Ultrasound imaging},
+abstract = {In recent years, the design of various ultrasound responsive echogenic nanomaterials offers many advantages such as deep tissue penetration, high signal intensity, colloidal stability, biocompatibility and less expensive for ultrasound-based cancer cell imaging while providing the option to monitor the progress of tumor volume during the treatment. Further, the ability of nanomaterials to combine photo-thermal therapy (PTT) and chemotherapy has opened a new avenue in the development of cancer theranostics for synergistic cancer therapy. Herein, we report MoS2 nanoflowers (NFs) surface decorated with CuS nanorods (NRs) and folic acid-derived carbon dots (FACDs) using cystine-polyethyleneimine (PEI) linker for PTT-chemotherapy. The size of NFs was found to be 350 ± 50 nm which increased to 500 ± 50 nm after surface decoration. The morphology of MoS2 NFs before and after surface decoration was investigated using scanning electron microscopy, X-ray diffraction, X-ray photoelectron spectroscopy, Fourier transform infrared spectroscopy, and UV-Vis-NIR spectroscopy. The photo-thermal heat generation was found to be increasing as a function of the concentration of NFs. The encapsulation efficiency of doxorubicin (DOX) and photo-thermal conversion efficiency (PCE) for surface-decorated MoS2 NFs (MoS2@CuS/FACDs NFs) was estimated to be 42 and 44 %, respectively. The surface decoration of CuS NRs and FACDs on MoS2 NFs not only improved the anticancer activity but also increased the signal intensity in ultrasound and fluorescence imaging of cancer cells. The MoS2@CuS/FACDs NFs exhibited excellent cytotoxicity against MDA-MB-231 cancer cells. Hence, the hybrid system demonstrated here showed high potential for use as a combined probe for non-invasive ultrasound imaging and fluorescence imaging for PTT-chemotherapy.}
+}

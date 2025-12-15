@@ -1,0 +1,13 @@
+@article{DU2025118603,
+title = {Automatic modeling and optimization of tapered laminates with ply drops},
+journal = {Composite Structures},
+volume = {351},
+pages = {118603},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118603},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007311},
+author = {Chen Du and Jiajun Chen and Qinghu Wang and Xiongqi Peng},
+keywords = {Ply-drops, Laminates optimization, Automatic modeling, Genetic algorithm},
+abstract = {Ply-drop (PD) is the termination of specific plies for laminated composite structures to obtain continuous thickness changes. It brings flexibility to the design of tapered composite laminates. However, as a structural defect, ply drops could have an impact on performance. Considering the impact of ply drop during stacking sequence design can provide more accurate performance analysis, but this will bring challenges in modeling and optimization. To consider the PD impact and achieve convenience in optimization, this paper proposes a high-fidelity finite element automatic modelling method of tapered laminates and corresponding optimization framework. By parameterizing the PD information and defining the basic elements and nodes of start stacking surface of the structure, the entire finite element model is layer-wisely constructed and controllable. Subsequently, based on the genetic algorithm framework, a repair strategy and its genetic operations are proposed to ensure that the design variables satisfy the ply-drop design guidelines. And a detailed optimization process is provided. Finally, the strength and deflection performance optimization problem of a tapered laminate with PD from 28 layers to 16 layers under three-point bending test is introduced for illustration of the proposed automatic modeling and optimization method. Comparisons between simulation results and experimental data of the obtained optimization solution verify the effectiveness of the proposed modeling and optimization method.}
+}

@@ -1,0 +1,13 @@
+@article{MENG2025111181,
+title = {Aramid nanofibers/polyimide aerogel with multi-dimensional structure for noise reduction and thermal insulation},
+journal = {Composites Science and Technology},
+volume = {266},
+pages = {111181},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111181},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825001496},
+author = {Yuanlong Meng and Jieyu Xue and Weizhen Huang and Liping Liu and Yuanrong Ding and Xuhong Yang and Zhou Chen and Yong Yang},
+keywords = {Aramid nanofiber, Polyimide, Aerogel, Thermal insulation, Noise reduction},
+abstract = {Noise pollution poses a significant impact on both physical and mental health of humans. Traditional acoustic materials often enhance their performance by increasing their weight, which is incompatible with the requirements of lightweight design. In this study, aramid nanofiber (ANF) is synthesized via using electrospinning, and a blend of polyimide (PI) precursor solution and ANFs are utilized to facilitate the self-assembly of ANF/PI aerogel (APA). By adjusting the content of ANFs and PI, porous network structures are achieved without augmenting the overall density, while maintaining a superior sound absorption performance. Notably, APA exhibits a noise reduction coefficient (NRC) of 0.53 and a sound transmission loss (STL) of 14 dB at 6300 Hz. Furthermore, the incorporation of ANFs and PI provides the aerogels with robust mechanical and physical properties, including only 10 % plastic deformation after 300 compression cycles, exceptional hydrophobicity with a water contact angle of 139°, and low thermal conductivity of 0.0343 W m−1 K−1 at room temperature. This research presents a feasible design approach for the creation of lightweight, efficient, and multifunctional ANF/PI aerogels.}
+}

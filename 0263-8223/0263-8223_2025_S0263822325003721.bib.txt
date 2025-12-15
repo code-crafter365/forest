@@ -1,0 +1,13 @@
+@article{KATUNIN2025119207,
+title = {Fatigue response and fracture mechanisms of polymer matrix composites under dominance of the self-heating effect},
+journal = {Composite Structures},
+volume = {365},
+pages = {119207},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119207},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325003721},
+author = {Andrzej Katunin and Tomasz Rogala and Jafar Amraei and Dominik Wachla and Marcin Bilewicz and Łukasz Krzemiński and Paulo N.B. Reis},
+keywords = {Fatigue on composites, Thermomechanical degradation, Self-heating effect, Fatigue limit, Damage mechanisms},
+abstract = {The self-heating effect in polymer matrix composites (PMCs) can be dangerous due to dominance of the fatigue process and its significant acceleration. Therefore, investigation of its influence on structural behavior and thermomechanical response is crucial for safe and reliable operation of PMCs. Due to lack of standardization of criteria of determination of fatigue properties, such as fatigue limit, during various modes of fatigue loading, the investigation of fatigue response attracts special attention. In some loading scenarios when the process is dominated either by mechanical fatigue degradation or self-heating effect, the classical approaches to determine fatigue limit may fail. This implies the need to establish new criteria for fatigue limit determination, also considering stress relaxation. In this study, the authors demonstrated that fatigue behavior is represented by bi-linear S-N curve, which reveals different thermomechanical responses and damage mechanisms under specific loading conditions. Moreover, it was demonstrated the existence of a transition point on the intersection of these S-N curves, where dominance of self-heating effect and mechanical degradation was clearly noticeable. The fatigue process for both mentioned regimes was characterized in terms of self-heating temperature evolution and acoustic emission, which was validated by microscopic analysis and X-ray computed tomography after fatigue failure.}
+}

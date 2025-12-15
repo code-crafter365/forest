@@ -1,0 +1,13 @@
+@article{LIU2025111278,
+title = {Quasi-isotropically thermally conductive, electrically insulated, and recyclable flexible PVA composite film via magnetic field-induced liquid metal alignment},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111278},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111278},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002465},
+author = {Yilin Liu and Ting Gu and Song Yang and Ying Zhang and Fufa Zhang and Fei Liu},
+keywords = {Thermal interface materials, Electrical insulation, Magnetic field, Liquid metal},
+abstract = {Using polymer composites with elastic compliance as thermal interface materials (TIMs) effectively minimizes thermal contact resistance between the heat sink and the heat source, thereby enhancing the heat dissipation rate. Currently, most TIMs are obtained by incorporating high-modulus fillers into a flexible polymer matrix and constructing heat transmission channels oriented in the through-plane direction. However, the addition of excessive rigid fillers can compromise material softness and resilience, posing a significant challenge in preparing TIMs that balance excellent thermal conductivity with good flexibility. In this study, we successfully fabricated a super-flexible composite film with quasi-isotropic thermal conductivity, utilizing magnetic soft liquid metal (LM@Ni) nanodroplet and polyvinyl alcohol (PVA) as the primary components, through a magnetic field-induced technique. The M-PVA/LM@Ni5:2-40 composite film exhibits exceptional through-plane and in-plane thermal conductivities (5.34 and 8.93 W/m·K), attributed to the alignment of dense LM@Ni particles during PVA film formation, induced by external magnetic fields, and the formation of efficient heat conduction networks facilitated by Ni nanoparticles bridging deformable LM droplets. Furthermore, the thermal conductive anisotropy constants of the prepared M-PVA/LM@Ni films lie within a range of 1.77–3.06, demonstrating quasi-isotropic thermal conductivity. More importantly, the M-PVA/LM@Ni composite films also boast remarkable toughness (37.93 MJ/m3), high electrical insulation (3.9 × 109 Ω cm), and recyclability. These admirable features combined with the scalable fabrication process, make M-PVA/LM@Ni films promising for broad application prospects in the thermal management of high-power integrated electronic devices.}
+}

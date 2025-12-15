@@ -1,0 +1,13 @@
+@article{HE2025111012,
+title = {Polytetrafluoroethylene composites for high-frequency microwave applications: Balancing thermal conductivity, adhesion and dielectric properties},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111012},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111012},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005839},
+author = {Lu He and Pengfei Xu and Yongzheng Zhang and Songgang Chai and Zilong Xie and Zhengli Dou and Ziran Guo and Tianhao Yang and Qiang Fu and Kai Wu},
+keywords = {Polytetrafluoroethylene composites, Thermal conductivity, Dielectric constant, Dielectric loss, Adhesive property},
+abstract = {Polytetrafluoroethylene (PTFE) is widely used as a polymer substrate for high-frequency microwave copper cladding due to its low dielectric loss and high stability. However, its inherently low thermal conductivity requires the use of high-content fillers, which complicates efforts to balance thermal conductivity, adhesion strength, and dielectric loss of the composite materials. Herein, we introduce PTFE composites with a hybrid filler network, where the synergistic alignment and interaction of two-dimensional hexagonal boron nitride (h-BN) and granular β-silicon nitride (Si3N4) forms interconnected pathways in the vertical direction. The spatial arrangement of large-sized h-BN can bridge and shorten the thermal conduction path within the Si3N4 network, forming robust vertical thermal pathways, achieving an out-of-plane thermal conductivity of 1.6 W/m K. Additionally, the complementary properties of h-BN and Si3N4 enhance the overall performance. Si3N4 reduces stress concentration, improving adhesion strength, while h-BN's wide bandgap and weak polarity help minimize dielectric loss. This combination results in a peeling strength of 1.3 N/mm with copper foil and a remarkably low dielectric loss (<0.0011) at 10 GHz. The ultimate PTFE composite ensures reliable, stable, and secure signal transmission in high-frequency communication devices, making it a highly promising material for the electronics sector.}
+}

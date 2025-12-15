@@ -1,0 +1,13 @@
+@article{WANG2025109096,
+title = {Achieving high-performance in TiBw/TC4 composites via introducing two types of boron sources-BNNSs and LaB6},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109096},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109096},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003902},
+author = {Yu Wang and Hongmei Zhang and Xingwang Cheng and Xiaonan Mu and Jiaqi Zhang and Xiujun Li},
+keywords = {Titanium matrix composites, Microstructure evolution, Mechanical properties, Strengthening mechanism},
+abstract = {Room-temperature brittleness was still an open issue in powder metallurgy discontinuously reinforced titanium matrix composites (DRTiMCs) which was mainly attributed to the addition of brittle ceramic reinforcements and excessive oxygen (O) content to the titanium matrix. Boron nitride nanosheets (BNNSs) is an idea reinforcement in DRTiMCs due to its two-dimensional structure and excellent mechanical property. The present study employed the LaB6 and 2D-structured BNNSs as hybrid boron sources to address the strength-ductility trade-off in TiBw/TC4 (Ti6Al4V) composites. Field-Assisted sintering technique (FAST) in conjunction with hot rolling (HR) was applied to consolidate the composite. The results showed that TC4-based composite exhibited the yield strength of 1339 MPa with fracture elongation of 17.9 % when adding merely 0.1 wt% BNNSs + 0.1 wt% LaB6 reinforcements, achieving simultaneously enhanced strength (+20 %) and ductility (+38 %) compared with TC4 matrix. In particular, the partial reacted BNNSs provided an obviously crack resistance and damage tolerance capability in composite, while the LaB6 effectively reduced the concentration of O impurity via in-situ formed La2O3 nano-particles. By employing the in-situ SEM experiment, we solve an existing debate, uncovering the synergistic toughening effect from BNNSs and heterogeneous interface which effectively inhibited the micro-cracks propagation. Together they made positive function that account for the high-performance in DRTiMCs. This study paved a pragmatic approach and valuable insights for addressing the strength-ductility synergy in DRTiMCs.}
+}

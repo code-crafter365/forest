@@ -1,0 +1,13 @@
+@article{SHI2025109055,
+title = {High infrared emissivity and “brick-and-mortar” structure integrated interphase significantly enhanced thermal protection, oxidation resistance and mechanical properties of carbon fiber composite},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {197},
+pages = {109055},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109055},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003495},
+author = {Jun-Feng Shi and Jie Li and Feng Zhang and Zhuo-Yang Li and Ding-Xiang Yan and Yue-Yi Wang},
+keywords = {Carbon fiber, High infrared emissivity, Brick-and-mortar structure, Mechanical properties},
+abstract = {Conventional carbon fiber/boron phenolic resin (CF/BPR) composites cannot be further improved to meet their utilization in high-performance applications due to the inability to effectively balance the heat conduction and accumulation on the CF surface. In this work, the interface layer of brick-and-mortar structure with inorganic attapulgite as “brick” and tannic acid and octa-amino polyhedral oligomeric silsesquioxanes as “mortar” was constructed. This interface layer had a high infrared emissivity, which could effectively minimize the internal and the surface thermal damage interface, thereby effectively improving the thermal radiation at the carbon fiber interface. The mass ablation rate of the modified composites reduced by 15.2 % compared to the counterpart. The simulation results also convincingly demonstrated that the high infrared emissivity layer had a unique advantage in improving the ablation resistance. Meanwhile, this special layer with brick-and-mortar structure endowed the composites with excellent interface interaction. The shear strength of modified CF/BPR before and after high temperature treatment increased by 37 % and 7 % than those of virgin CF/BPR. This study not only points out a direction for constructing composites with structure–function integration, but also hopes to apply to the thermal protection and bearing structures of future ultra-high-speed vehicles.}
+}

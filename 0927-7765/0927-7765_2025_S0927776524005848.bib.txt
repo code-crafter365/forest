@@ -1,0 +1,13 @@
+@article{WU2025114325,
+title = {Enhanced therapeutic intervention of curcumin loaded in exosomes derived from milk in alleviating retinal pigment epithelial cells damage},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114325},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114325},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005848},
+author = {Shida Wu and Kuiyou Wang and Qiyan Lv and Mingqian Tan},
+keywords = {Curcumin, Milk-derived exosome, Curcumin@exosome, Retinal pigment epithelial cells, Reactive oxygen species, Inflammatory},
+abstract = {The macula, a small but highly important area in the retina, is crucial for healthy vision. Age-related macular degeneration is responsible for approximately 8.7 % of blindness worldwide, and affected individuals are burgeoning. The age-related macular degeneration is often triggered by oxidative stress and excessive inflammation that damage the retinal pigment epithelial cells in the macula. Curcumin, a potent antioxidant and anti-inflammatory carotenoid, is hampered by low compatibility and stability issues in food science. Innovatively, this study harnessed milk-derived exosomes as a novel delivery method yielding a curcumin-infused system (curcumin@exosome) to increase its biocompatibility and stability. This fusion not only curbed excessive reactive oxygen species but also neutralized H2O2-induced mitochondrial disruption in cellular models. It revitalized retinal pigment epithelial cells, reverting their function near to baseline in vitro. The curcumin@exosome outshined in subduing pro-inflammatory cytokines tumor necrosis factor-α and interleukin-1β induced by sodium iodate. This study illuminates that the curcumin@exosome is promise as a therapeutic intervention for retinal ailments marked by oxidative and inflammatory distress.}
+}

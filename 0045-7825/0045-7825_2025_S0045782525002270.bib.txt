@@ -1,0 +1,13 @@
+@article{VERHELST2025117955,
+title = {A wrinkling model for general hyperelastic materials based on tension field theory},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117955},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117955},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002270},
+author = {H.M. Verhelst and M. Möller and J.H. {Den Besten}},
+keywords = {Isogeometric analysis, Kirchhoff–Love shell, Tension field theory, Dynamic relaxation method, Hyperelasticity},
+abstract = {Wrinkling is the phenomenon of out-of-plane deformation patterns in thin walled structures, as a result of a local compressive (internal) loads in combination with a large membrane stiffness and a small but non-zero bending stiffness. Numerical modelling typically involves thin shell formulations. As the mesh resolution depends on the wrinkle wave lengths, the analysis can become computationally expensive for shorter ones. Implicitly modelling the wrinkles using a modified kinematic or constitutive relationship based on a taut, slack or wrinkled state derived from a so-called tension field, a simplification is introduced in order to reduce computational efforts. However, this model was restricted to linear elastic material models in previous works. Aiming to develop an implicit isogeometric wrinkling model for large strain and hyperelastic material applications, a modified deformation gradient has been assumed, which can be used for any strain energy density formulation. The model is an extension of a previously published model for linear elastic material behaviour and is generalised to other types of discretisation as well. The extension for hyperelastic materials requires the derivative of the material tensor, which can be computed numerically or derived analytically. The presented model relies on a combination of dynamic relaxation and a Newton–Raphson solver, because of divergence in early Newton–Raphson iterations as a result of a changing tension field, which is not included in the stress tensor variation. Using four benchmarks, the model performance is evaluated. Convergence with the expected order for Newton–Raphson iterations has been observed, provided a fixed tension field. The model accurately approximates the mean surface of a wrinkled membrane with a reduced number of degrees of freedom in comparison to a shell solution.}
+}

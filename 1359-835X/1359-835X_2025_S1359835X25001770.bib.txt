@@ -1,0 +1,13 @@
+@article{LI2025108883,
+title = {Biaxial bending failure behavior of laminated composite plates under ring-on-ring loading: Effect of layups and interactive terms in failure criteria},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108883},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108883},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001770},
+author = {Junru Li and Weiyi Kong and Weijie Zhang and Yiding Li and Xuan Zhang and Shibo Yan},
+keywords = {Biaxial bending, Carbon fiber-reinforced laminate, Ring-on-ring test, Layup configuration},
+abstract = {This study investigates the biaxial bending failure behavior of laminated composites, through ring-on-ring loading as described by the ASTM C1499 standard, originally developed for isotropic materials. Cross-ply and quasi-isotropic layups of two thicknesses were tested to assess failure mechanism under layup effect. Thin plates exhibited pronounced nonlinear stiffness across different layups while differences diminished in thick laminates. A numerical model employing the recently formulated Fully Rationalized Tsai-Wu failure criterion and further extending the criterion to identify failure modes to facilitate property degradation is developed for failure prediction under multiaxial stress states, aligning well with experimental results without requiring fitting model parameters. The inclusion of interactive terms in the criterion successfully captured multiaxial failure compared to non-interactive ones. Further stress analysis indicates the ASTM C1499 standard is not entirely applicable to laminates regarding equibiaxial flexural strength but highlights its potential for biaxial tensile testing of unidirectional laminates under non-equal stress ratios.}
+}

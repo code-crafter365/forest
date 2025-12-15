@@ -1,0 +1,13 @@
+@article{ZHANG2025108876,
+title = {Enhancing the heat resistance, dielectric properties, and flame retardancy of self-curing silicon-based phthalonitrile/quartz composites for a rapid hot-melt prepreg process},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108876},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108876},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001708},
+author = {Yabin Zhang and Jiaming Wang and Xuedong Wu and Linyan Zhu and Wenguang Zhang and Lishuai Zong and Jinyan Wang and Xigao Jian},
+keywords = {Silicon-based phthalonitrile resin, Low softening point, High temperature resistance, Dielectric properties},
+abstract = {The robust operation of electromagnetic waves in communication systems with extreme temperatures relies on high-temperature resistant wave-transparent composites, with organic resin matrix being a pivotal constituent. Enhancing the heat resistance of resins while maintaining excellent processability poses a significant challenge. Herein, a novel “rigid-in-flexible” self-curing silicon-basedsilicon-basedphthalonitrile monomer containing phenylacetylene backbone (Si-ALK-PN) was designed. The silazane component disrupts the crystallinity in Si-ALK-PN, resulting in a characteristic of low viscosity (0.3 Pa·s) and extended processing window (>3h). After curing at 450 °C, the resin, namely Si-ALK-PN-450 °C, demonstrated exceptional thermal stability (T5% = 631 °C) and thermo-oxidative stability (T5% = 560 °C). Their quartz fiber-infused composites (Si-ALK-PNs/QF) were manufactured through a straightforward melt processing approach. Upon post-curing at 450 °C, Si-ALK-PN-450 °C/QF exhibited elevated glass transition temperature, flexural strength, and consistent dielectric properties across a wide temperature ranging from 25 °C to 600 °C. Especially, it exhibited excellent flame retardancy as well, stemming from release of eco-friendlyeco-friendly inert gases (NH3) and the high thermal stability of N-enriched all-aromatic PN resin. The design concept of “rigid-in-flexible”, along with the multi-functional group co-curing strategy, offers a promising solution for addressing the trade-off between processing and heat resistance in resins, extending beyond PN resins.}
+}

@@ -1,0 +1,13 @@
+@article{CHU2025106738,
+title = {High-order flux splitting schemes for the Euler equations of gas dynamics},
+journal = {Computers & Fluids},
+volume = {300},
+pages = {106738},
+year = {2025},
+issn = {0045-7930},
+doi = {https://doi.org/10.1016/j.compfluid.2025.106738},
+url = {https://www.sciencedirect.com/science/article/pii/S0045793025001987},
+author = {Shaoshuai Chu and Michael Herty and Eleuterio F. Toro},
+keywords = {Flux splitting schemes, Euler equations of gas dynamics, Advection system, Pressure system, A-WENO schemes},
+abstract = {We develop high-order flux splitting schemes for the one- and two-dimensional Euler equations of gas dynamics. The proposed schemes are high-order extensions of the existing first-order flux splitting schemes introduced in Toro and Vázquez-Cendón (2012) where the Euler equations of gas dynamics are split into two subsystems: the advection and pressure systems. In this paper, we formulate the TV splitting within the semi-discrete framework to extend it to higher orders of accuracy for the first time. The second-order extension is obtained by using piecewise linear interpolant to reconstruct the one-sided point values of the unknowns. The third- and fifth-order schemes are developed using the finite-difference alternative weighted essentially non-oscillatory (A-WENO) framework, which is particularly effective in handling multidimensional problems and provides a more straightforward approach to constructing higher-order WENO schemes. These extensions significantly improve the resolution of discontinuities and the accuracy of numerical solutions, as demonstrated by a series of numerical experiments of both the one- and two-dimensional Euler equations of gas dynamics.}
+}

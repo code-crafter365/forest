@@ -1,0 +1,13 @@
+@article{VU2025104350,
+title = {Few-shot object detection via synthetic features with optimal transport},
+journal = {Computer Vision and Image Understanding},
+volume = {257},
+pages = {104350},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104350},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000736},
+author = {Anh-Khoa Nguyen Vu and Thanh-Toan Do and Vinh-Tiep Nguyen and Tam Le and Minh-Triet Tran and Tam V. Nguyen},
+keywords = {Few-shot object detection, Object detection, Optimal transport, Generated features},
+abstract = {Few-shot object detection aims to simultaneously localize and classify the objects in an image with limited training samples. Most existing few-shot object detection methods focus on extracting the features of a few samples of novel classes, which can lack diversity. Consequently, they may not sufficiently capture the data distribution. To address this limitation, we propose a novel approach that trains a generator to produce synthetic data for novel classes. Still, directly training a generator on the novel class is ineffective due to the scarcity of novel data. To overcome this issue, we leverage the large-scale dataset of base classes by training a generator that captures the data variations of the dataset. Specifically, we train the generator with an optimal transport loss that minimizes the distance between the real and synthetic data distributions, which encourages the generator to capture data variations in base classes. We then transfer the captured variations to novel classes by generating synthetic data with the trained generator. Extensive experiments on benchmark datasets demonstrate that the proposed method outperforms the state of the art.}
+}

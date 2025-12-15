@@ -1,0 +1,13 @@
+@article{NIKNEJADI2025103807,
+title = {Numerical integration on 2D/3D arbitrary domains: Adaptive quadrature/cubature rule for domains with curved boundaries},
+journal = {Computer-Aided Design},
+volume = {178},
+pages = {103807},
+year = {2025},
+issn = {0010-4485},
+doi = {https://doi.org/10.1016/j.cad.2024.103807},
+url = {https://www.sciencedirect.com/science/article/pii/S0010448524001349},
+author = {Nafiseh Niknejadi and Bijan Boroomand},
+keywords = {Numerical integration, Quadrature, Cubature, Curved domain},
+abstract = {This paper introduces an efficient quadrature rule for domains with curved boundaries in 2D/3D. Building upon our previous work focused on polytopes (Comput. Methods Appl. Mech. Engrg. 403 (2023) 115,726), we extend this method to handle volume/boundary integration on domains with general configurations and boundaries. In this method, we approximate a generic function using a finite number of orthogonal polynomials, and we obtain the coefficients of these polynomials through the integration points. The physical domain is enclosed by a fictitious rectangular/cuboidal domain, where a tensor-product of Gauss quadrature points is primarily considered. To locate the integration points that are strictly within the domain under consideration (e.g., the physical 3D domain itself or its mapped boundaries), we form a system of algebraic equations whose dimensions depend solely on the number of polynomials, not the number of quadrature points which may be significantly larger. This allows us to construct a full-rank square coefficient matrix, leading to the uniqueness of the solution, and the system of equations is then solved through a straightforward inverse process. To evaluate the integral of the polynomials, we transform the integration over the domain under consideration into an equivalent integration along the domain's boundaries using the divergence theorem. For 2D cases, we perform the boundary integration using Gauss points along the curved lines. In 3D cases, we provide an efficient algorithm for computing the boundary integrals over curved surfaces. We present several integration problems involving two and three-dimensional curved regions to demonstrate the accuracy and efficiency of the proposed method.}
+}

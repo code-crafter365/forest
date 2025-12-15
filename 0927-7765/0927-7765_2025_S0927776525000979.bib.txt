@@ -1,0 +1,22 @@
+@article{CHAO2025114590,
+title = {Electroacupuncture as a promising therapeutic strategy for doxorubicin-induced heart failure: Insights into the PI3K/AKT/mTOR/ULK1 and AMPK /mTOR /ULK1 pathways},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {251},
+pages = {114590},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114590},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525000979},
+author = {Peng Chao and Xueqin Zhang and Lei Zhang and Zhengyang Han and Runda Jie and Pingxiu Duan and Min Cao and Aiping Yang},
+keywords = {Electroacupuncture, Heart failure, Dilated cardiomyopathy, AMPK/mTOR/ULK1 signaling pathway, PI3k/AKT/mTOR/ULK1 signaling pathway},
+abstract = {Background
+Electroacupuncture (EA), a traditional Chinese medicine therapy, exhibits cardioprotective and therapeutic effects against cardiac injury. However, the precise mechanisms underlying these benefits remain unclear.
+Purpose
+The aim of this study is to examine the impact of EA on Doxorubicin-Induced heart failure and elucidate the mechanisms involved.
+Methods
+C57BL/6 mice were randomly assigned to six experimental groups, including a control group, a DCM group, a DCM group receiving non-acupoint EA (NEA), and a DCM group receiving acupoint EA (EA). The cardiac function, levels of inflammatory factors, and markers of apoptosis were assessed both in vivo and in vitro. The presence of AMPK/mTOR/ULK1(Ser317) and PI3K/AKT/mTOR/ULK1(Ser757) was confirmed.
+Results
+EA stimulation significantly improved cardiac function, as evidenced by increased left ventricular ejection fraction (LVEF), E/A ratio, and fractional shortening (FS%) compared to the DCM group (p < 0.05). After EA stimulation, the phosphorylation levels of PI3K/AKT increase, leading to elevated expression of mTOR/ULK1(Ser757), which ultimately inhibited the expression of apoptosis-related proteins and inflammatory factors. Simultaneously, EA stimulation could inhibit the phosphorylation levels of AMPK, reducing the expression of mTOR/ULK1(Ser317), and thereby also inhibiting the expression of apoptosis-related proteins and inflammatory factors.
+Conclusions
+This study showed that EA stimulation can counteract myocardial damage caused by apoptosis and inflammation, thereby significantly improving cardiac function and prognosis in HF mice. The mechanism may be that EA stimulation activates the PI3K/AKT/mTOR/ULK1(ser757) pathway and inhibits the AMPK/ULK1(ser317) pathway. EA stimulation exerts the same effect by regulating these two pathways in different directions, ultimately reducing myocardial cell apoptosis and cardiac inflammation.}
+}

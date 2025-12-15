@@ -1,0 +1,13 @@
+@article{YU2025111018,
+title = {In-plane compression properties and parameters optimization of a lightweight and high-strength bamboo honeycomb sandwich material},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111018},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111018},
+url = {https://www.sciencedirect.com/science/article/pii/S026635382400589X},
+author = {Minggong Yu and Zhangheng Wang and Xiawang Jiang and Di Wang and Ling Song and Shan Zhao and Jingyi Liu and Delin Sun},
+keywords = {Bamboo, Honeycomb sandwich material, In-plane compression, Finite element method, Parameters optimization},
+abstract = {Bamboo is a green and sustainable structural material. A new bamboo honeycomb sandwich material (BHSM) was designed and prepared with the bamboo integrated material as panel and the hexagonal bamboo honeycomb core (HBHC) as core layer, and its in-plane compression properties is analyzed using analytical approach, finite element method and response surface method and verified experimentally. The results show that better in-plane compression properties are achieved when the ρ∗/ρ of HBHC of BHSM is higher than 0.155. The optimum compressive properties were achieved when the ρ∗/ρ of HBHC was 0.25, the tf/T was 0.24, and the H/L was 0.19. Under this condition, the stress of the BHSM was 12.62 MPa, which was in error with the prediction model of 9.17 %. Furthermore, the in-plane compression properties of BHSM at optimal structural parameters were better than those of some metals and alloys, and it was 2–5 times that of ordinary carbon fiber polymers and their reinforcements. This work shows that BHSM is a promising green, sustainable, lightweight and high-strength structural material. BHSM can be used in areas such as construction materials, packaging materials and furniture products.}
+}

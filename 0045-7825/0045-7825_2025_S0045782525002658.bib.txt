@@ -1,0 +1,13 @@
+@article{VANDERHEIJDEN2025117993,
+title = {Enforcing physics onto PINNs for more accurate inhomogeneous material identification},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {117993},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117993},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002658},
+author = {B. {van der Heijden} and X. Li and G. Lubineau and E. Florentin},
+keywords = {Physics-informed neural networks, Inverse methods, Material identification, Constitutive equation gap method, Differentiable programming},
+abstract = {Physics-Informed Neural Networks (PINNs) are computationally efficient tools for addressing inverse problems in solid mechanics, but often face accuracy limitations when compared to traditional methods. We introduce a refined PINN approach that rigorously enforces certain physics constraints, improving accuracy while retaining the computational benefits of PINNs. Unlike conventional PINNs, which are trained to approximate (differential) equations, this method incorporates classical techniques, such as stress potentials, to satisfy certain physical laws. The result is a physics-enforced PINN that combines the precision of the Constitutive Equation Gap Method (CEGM) with the automatic differentiation and optimization frameworks characteristic of PINNs. Numerical comparisons reveal that the enforced PINN approach indeed achieves near-CEGM accuracy while preserving the efficiency advantages of PINNs. Validation through real experimental data demonstrates the ability of the method to accurately identify material properties and inclusion geometries in inhomogeneous samples.}
+}

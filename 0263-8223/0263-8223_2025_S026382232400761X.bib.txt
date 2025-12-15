@@ -1,0 +1,13 @@
+@article{ZHANG2025118633,
+title = {Investigation on the energy absorption characteristics of novel graded auxetic re-entrant honeycombs},
+journal = {Composite Structures},
+volume = {352},
+pages = {118633},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118633},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232400761X},
+author = {Zhao Zhang and Yiwen Gu and Hengan Wu and Qingpeng Chen},
+keywords = {Energy absorption, Graded, Auxetic re-entrant honeycomb, Dynamic impact},
+abstract = {In this work, innovative graded auxetic re-entrant honeycombs constructed by adjusting the geometric parameters of a core unit cell are proposed, and their deformation modes and energy absorption characteristics with different impact speeds are systematically investigated. The novel graded design utilizes structural hierarchy on the meso-scale and functional gradient on the macro-scale. The numerical simulation models are verified by comparing the experimental results. The results show that compared with the ungraded honeycomb (URH), one of the graded honeycombs (GRHs), named GRH1, can greatly improve the specific energy absorption by 36.4%, 10.8%, and 6.00% for the quasi-static, low, and high-speed impact at a strain of 0.6. At the same time, the initial peak stress of GRH1 is decreased by 43.2% and 27.1% compared with that of URH for low and high-speed impact, respectively. It could be indicated that the GRH1 was an ideal energy-absorbing structure. This work provides a new route for designing graded auxetic honeycombs with enough insight to understand the deformation mechanism of the structures, which could be used in lightweight buffer protective systems.}
+}

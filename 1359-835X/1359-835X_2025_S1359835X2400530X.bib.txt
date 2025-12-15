@@ -1,0 +1,13 @@
+@article{SHEIBANIAN2025108532,
+title = {The effect of the Weibull modulus on the shape of the stress–strain curves of thin-ply pseudo-ductile hybrid composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {188},
+pages = {108532},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108532},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2400530X},
+author = {F. Sheibanian and H. Hosseini-Toudeshky and M. Jalalvand and M.R. Wisnom},
+keywords = {Thin-ply pseudo ductile hybrid composite, Weibull modulus, Cohesive zone modeling, Parametric study},
+abstract = {This paper presents a numerical approach using ABAQUS CAE scripting to simulate the mechanical response of thin-ply pseudo-ductile hybrid composites. A parametric study demonstrates that interface critical fracture energy is essential for accurately modeling damage mechanisms and mechanical behavior. Correct shear strength identification enables the model to capture experimental observations, including fragmentation and the plateau region in the stress–strain curve. The analysis shows that the mechanical behavior of these composites is largely independent of fragmentation location patterns in the low-strain layer. Results emphasize the significant impact of the Weibull modulus on the stress–strain response, with careful selection leading to strong correlation with experimental data. Notable differences in best-fit Weibull moduli were observed for different materials, with higher values for high modulus carbon fibers.}
+}

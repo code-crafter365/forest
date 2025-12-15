@@ -1,0 +1,13 @@
+@article{YIN2025117850,
+title = {A bioinspired multi-layer assembly method for mechanical metamaterials with extreme properties using topology optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {438},
+pages = {117850},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117850},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525001227},
+author = {Peng Yin and Baotong Li and Yue Zhang and Bang Li and Jun Hong and Xiaohu Li and Xiaoming Chen and Jinyou Shao},
+keywords = {Mechanical metamaterials, Bio-inspired layout, Theoretical modeling, Topology optimization, Theoretical limit},
+abstract = {Inspired by the hierarchical distribution pattern of natural bamboo, this study presents a multi-layer assembly strategy for the design of mechanical metamaterials with extreme properties. Firstly, the material spatial layout is constructed by employing a bio-inspired arrangement with two types of cells distributed in a staggered manner. Based on this arrangement, a new theoretical model for evaluating material properties is then developed, which in turn determines the requirements of extreme material properties on cell properties. Finally, to obtain materials with extreme mechanical properties, a topology optimization method is adopted for the generation of cell geometries with the needed properties. The numerical experiment results indicate that compared to the homogeneous material consisting of basic cells, the Young's modulus of assembled metamaterials with similar density is enhanced by more than three orders of magnitude and up to 6273 times. Further, a series of materials with extreme Young's modulus approaching the theoretical limit are identified by geometric parameter optimization for specific topologies. Such metamaterials based on assembly strategies are capable of taking full advantage of geometric variations to enhance mechanical properties, thus having a wide range of applications in various fields such as energy absorption, impact protection, and strain sensing.}
+}

@@ -1,0 +1,13 @@
+@article{YU2025104306,
+title = {Large-scale Riemannian meta-optimization via subspace adaptation},
+journal = {Computer Vision and Image Understanding},
+volume = {253},
+pages = {104306},
+year = {2025},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2025.104306},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314225000293},
+author = {Peilin Yu and Yuwei Wu and Zhi Gao and Xiaomeng Fan and Yunde Jia},
+keywords = {Riemannian meta-optimization, Large-scale optimization, Riemannian manifolds, Subspace adaptation},
+abstract = {Riemannian meta-optimization provides a promising approach to solving non-linear constrained optimization problems, which trains neural networks as optimizers to perform optimization on Riemannian manifolds. However, existing Riemannian meta-optimization methods take up huge memory footprints in large-scale optimization settings, as the learned optimizer can only adapt gradients of a fixed size and thus cannot be shared across different Riemannian parameters. In this paper, we propose an efficient Riemannian meta-optimization method that significantly reduces the memory burden for large-scale optimization via a subspace adaptation scheme. Our method trains neural networks to individually adapt the row and column subspaces of Riemannian gradients, instead of directly adapting the full gradient matrices in existing Riemannian meta-optimization methods. In this case, our learned optimizer can be shared across Riemannian parameters with different sizes. Our method reduces the model memory consumption by six orders of magnitude when optimizing an orthogonal mainstream deep neural network (e.g. ResNet50). Experiments on multiple Riemannian tasks show that our method can not only reduce the memory consumption but also improve the performance of Riemannian meta-optimization.}
+}

@@ -1,0 +1,13 @@
+@article{CASTRO2025108710,
+title = {Mixed-mode pull-out behaviour of pin-reinforced resin-infused metal-composite joints},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {191},
+pages = {108710},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108710},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25000041},
+author = {Breyner Castro and Adrian Cirino Orifici and Akbar Afaghi Khatibi},
+keywords = {Metal-composite joints, Vacuum-assisted resin infusion, 3D printed metal, Through-thickness reinforcement, Pull-out behaviour},
+abstract = {Metallic through-thickness pins can significantly enhance metal-composite joint performance, yet the influence of mixed-mode loading on resin-infused hybrid joints remains unexplored, and no experimental studies to date have examined large pin angles in pull-out. This study investigates load capacity, energy absorbance and damage mechanisms of single-pin pull-off joints under four pin angles (0°, 20°, 45° and 80°), corresponding to a broad range of mixed-mode ratios. Results indicated a near-linear reduction in peak and elastic limit loads with increasing mode mixity. Under shear-dominated loading, pin failure was attributed to plastic bending, with peak load and absorbed energy reducing to approximately 30% of pure pull-out values. Moderate mode mixity enhanced energy absorbance by approximately 36% due to the additional mechanisms of composite crushing, adherend rotation, and pin bending. The findings underscore the potential of resin infusion to produce robust, toughened joints that can incorporate complex geometries, such as highly inclined pin reinforcements.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025118348,
+title = {S-PINN: Stabilized physics-informed neural networks for alleviating barriers between multi-level co-optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {447},
+pages = {118348},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118348},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525006206},
+author = {Tengmao Yang and Zhihao Qian and Nianzhi Hang and Moubin Liu},
+keywords = {Physics informed neural networks, Multi-level co-optimization, Enhanced conservation, Neural networks, Interpretability, Incompressible flows},
+abstract = {Physics-informed neural networks (PINNs) have rapidly evolved since their robust capabilities of integrating physical laws into data-driven models. However, the multi-level co-optimization mechanism hidden in the collocation-type loss function in PINNs leads to conflicts between data and physical equations, as well as conflicts among pointwise residuals, which results in poor stability and conservation. In this paper, a stabilized physics-informed neural network (S-PINN) framework is proposed to alleviate these limitations. First, S-PINN incorporates local domains around collocation points for evaluating residuals of conserved quantities. These domains can be flexibly established by creating a square centered on the collocation point of the original PINN, without constructing any mesh with topological relations. During online training, S-PINN mitigates conflicts in the multi-level co-optimization by minimizing a novel loss function based on the cumulative residuals of conserved quantities in all subdomains, significantly enhancing conservation. Finally, the novel approach is applied to predict the dynamic characteristics of incompressible fluid problems, with benchmarks including the pressure Poisson equation of fluid, Burgers' equation, heat diffusion equation, and the Navier-Stokes equations. Results demonstrate notable advancements in both the conservation and accuracy of the S-PINN. While traditional PINN lays a solid foundation for model interpretability and integration of physical laws, the newly proposed S-PINN exhibits improved performances in multiples aspects compared to PINN. These improvements promote extensive applicability in solving partial differential equations integrated with observational data, which is crucial for the application of complex dynamic systems.}
+}

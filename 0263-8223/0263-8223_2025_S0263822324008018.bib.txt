@@ -1,0 +1,13 @@
+@article{LUO2025118673,
+title = {Fracture properties of carbon/glass fiber composite laminates with surface scratch damage},
+journal = {Composite Structures},
+volume = {352},
+pages = {118673},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118673},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008018},
+author = {Pingping Luo and Wei Shen and Lifeng Chen and Zijia Yao and Qian Li and Lvtao Zhu},
+keywords = {Carbon/glass fiber reinforced polymer composites, A closed form non-LEFM model, Fracture parameter prediction, Quasi-brittle fracture},
+abstract = {Carbon/glass fiber reinforced polymer composite panels may experience minor surface scratches during processing or use. These shallow scratches can expand and potentially lead to dangerous fracture failure as the specimens are continually loaded. This study presents a closed form non-LEFM model for predicting the fracture performance of materials with slight scratches. First, 3-p-b tests and direct tensile tests were conducted on 115 carbon/glass fiber composite laminated panel specimens. A comparison of the two test methods revealed that 3-p-b tests were more suitable for analyzing quasi-brittle fracture in carbon/glass fiber composites. The tensile strength ft and fracture toughness KIC of 3-p-b specimens with and without notched were discussed using the weighted average calculation method to determine the thickness of the “composite” single-layer prepreg as the characteristic composite unit Cch. A normal distribution method was also introduced to analyze the experimental discrete points, covering almost all the experimental scatterers with desired reliability. Furthermore, the same method was applied to specimens with different layup methods, and the data analysis confirmed its effectiveness. As the seam-thickness ratio α increases within a certain range, the tensile strength ft showed an overall increasing trend and the peak load Pmax showed a decreasing trend. Additionally, the laboratory routine dimensions can be utilized to efficiently predict the fracture of large size members with defects at the same thickness, which is significant for the safe design of composite structures.}
+}

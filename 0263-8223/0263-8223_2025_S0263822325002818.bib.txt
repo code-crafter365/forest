@@ -1,0 +1,13 @@
+@article{YE2025119116,
+title = {Macro-Micro structure engineering for reed-derived biochar composites to achieve synergetic dissipation capacities towards wide-band and strong electromagnetic wave absorption},
+journal = {Composite Structures},
+volume = {363},
+pages = {119116},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119116},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002818},
+author = {Yunpeng Ye and Xia Zheng and Chengliang Zhou and Xingong Li},
+keywords = {Porous biochar, Compartmentalized structure, Gradient structure, Electromagnetic wave absorption},
+abstract = {Achieving integration of strong electromagnetic wave (EMW) absorption and wide absorption bandwidth through a single-component carbonaceous absorber is still considered a huge challenge due to the impedance mismatch and limited loss mechanisms. Herein, a reed-derived carbon/epoxy (RC/EP) composite absorber with ultra-wide absorption bandwidth and highly strong EMW absorption was fabricated by simultaneous regulation on the micro-structure of RC and establishment of macro-gradient of RC in EP matrix. The compartmentalized structure and gradient distribution of the optimized RC in the EP matrix boosted the reflection and scattering of the EMW, contributing outstanding impedance matching and synergetic EMW dissipation. Therefore, the RC/EP composite with the thickness of 2.0 mm presented a minimum reflection loss (RLmin) of −54.3 dB and an effective absorption bandwidth (EAB) of 6.12 GHz. Varying the content and distribution of RC, the EAB of the RC/EP can cover 99.7 % of the whole Ku band. In addition, the stealth performance of RC/EP absorbing materials under actual far-field conditions is confirmed using Computer Simulation Technology (CST). This work provides a new way to realize a single-component carbonaceous absorber with both broadband and strong EMW absorbing capability, which can satisfy a wide range of applications in the fields of electronics, medical protection, and architectural invisible materials.}
+}

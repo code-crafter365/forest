@@ -1,0 +1,13 @@
+@article{AVGOULAS2025115048,
+title = {Flow geometry effect on Pseudomonas fluorescens SBW25 biofilm structure},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115048},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115048},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005557},
+author = {Dimitrios I. Avgoulas and Daniela Festa and Maria Petala and Daniele Marra and Xenophon Zabulis and Polykarpos Karamaounas and Miltiadis Giannios and Margaritis Kostoglou and Sergio Caserta and Thodoris D. Karapantsios},
+keywords = {Biofilm, Optical Coherence Tomography, , Flow channel, Flow path geometry, Stainless steel electropolished, Teflon fluoroethylenepropylene},
+abstract = {This study investigated the impact of flow path geometry on Pseudomonas fluorescens SBW25 biofilm structure, on different surface materials. A custom- experimental setup featuring vertically oriented millimeter-scale-flow channels was employed to grow biofilms on test coupons made of stainless steel electropolished (SSEP) and Teflon fluoroethylenepropylene (FEP), at 72 h after flow onset under constant flow conditions. Each flow channel accommodated an upstream and a downstream coupon placed in a row. Two channel types were employed: (i) one with a straight flow path throughout, and (ii) one with an upstream straight section and a downstream square-wave (zig-zag) flow path. Biofilm thickness and structure were quantified using Optical Coherence Tomography (OCT) images analyzed by a novel, in-house Matlab software. Results demonstrated that SSEP consistently supported thicker and more uniform biofilms compared to FEP. In straight channels (type i), biofilms on SSEP reached mean thicknesses of approximately 29 ± 9 μm (upstream) and 46 ± 17 μm (downstream), while FEP showed thinner biofilms (19–20 μm, COV ≈ 47 %). In square-wave channels (type ii), thicker biofilms developed on the upstream surfaces, with thicknesses of 86 ± 14 μm (COV ≈ 17 %) for SSEP and 81 ± 34 μm (COV ≈ 42 %) for FEP, respectively. Furthermore, biofilms on SSEP increased further along the downstream zig-zag path, indicating enhanced accumulation due to flow geometry. This effect was absent on FEP, where detachment occurred in certain zig-zag sections. Overall, the findings emphasize the critical interplay between surface properties and flow dynamics in shaping biofilm structure.}
+}

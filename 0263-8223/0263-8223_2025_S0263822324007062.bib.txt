@@ -1,0 +1,13 @@
+@article{TANG2025118578,
+title = {Elasticity solutions for functionally graded beams with arbitrary distributed loads},
+journal = {Composite Structures},
+volume = {351},
+pages = {118578},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118578},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007062},
+author = {Changwei Tang and Guansuo Dui and Yuyao Fu},
+keywords = {Functionally graded beam, Elasticity, General solution, Exact solution},
+abstract = {This paper derives the exact general elasticity solution for functionally graded rectangular beams subjected to arbitrary normal and tangential loads and with arbitrary end constraints. The general solution consists of bending moments and their integrals and derivatives, along with load-independent function sequences of the longitudinal coordinate. The method for determining function sequences has been established based on the stress function method. General solution formulas for stresses, strains and displacements have been derived and used to solve explicit special solutions for six cases involving concentrated forces, uniformly loads, and quadratically distributed loads with different displacement constraints scenarios. The results obtained are compared with existing exact solutions and those of Euler–Bernoulli and Timoshenko beams, and the errors of the latter two are analysed.}
+}

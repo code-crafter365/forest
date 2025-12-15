@@ -1,0 +1,22 @@
+@article{SU2025114376,
+title = {Dual-ligand-functionalized nanostructured lipid carriers as a novel dehydrocavidine delivery system for liver fibrosis therapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114376},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114376},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006350},
+author = {Xiaodan Su and Huashuai Zhong and Yongzhu Zeng and Yuyan Zhang and Bo Zhang and Wei Guo and Qiujie Huang and Yong Ye},
+keywords = {Drug delivery, Nanostructured lipid carriers, Glycyrrhetinic acid, Galactose-PEG-NH, Liver fibrosis},
+abstract = {Background
+Liver fibrosis is a common stage of various chronic liver diseases, often developing into liver cirrhosis, and even liver cancer. Activated hepatic stellate cells (aHSCs) have been shown to promote the development of liver fibrosis. Therefore, dual-targeted combination therapy for liver may be an effective strategy for the treatment of liver fibrosis.
+Purpose
+In this study, the novel nanostructured lipid carriers (GA&GalNH2-DC-NLCs) were prepared for Dehydrocavidine (DC), glycyrrhetinic acid (GA) and galactose-PEG2000-NH2 (GalNH2) were selected as targeted ligand-modified nanostructured lipid carriers (NLCs), which enables dual-targeting to the liver for the treatment of liver fibrosis.
+Study design
+To study the targeting effect of GA&GalNH2-DC-NLCs on liver and its therapeutic effect on liver fibrosis, we established aHSC-T6 cell model and rat model of liver fibrosis for study.
+Results
+GA&GalNH2-DC-NLCs promoted drug liver targeting efficiency and apoptosis rate by upregulating the expression of Bax. It showed that compared with no and/or GA-modified NLCs and GalNH2-modified NLCs, GA&GalNH2-DC-NLCs exhibited less extracellular matrix (ECM) deposition, induced apoptosis of aHSCs, and stronger anti-fibrosis effects in vivo. This may be due the fact that GA or GalNH2-modifified NLCs simultaneously block HSCs activation and inhibit the IL-6/STAT3 pathway.
+Conclusion
+GA&GalNH2-DC-NLCs is thus a potential strategy for liver fibrosis treatment.}
+}

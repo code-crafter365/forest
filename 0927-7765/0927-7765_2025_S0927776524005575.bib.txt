@@ -1,0 +1,13 @@
+@article{MAO2025114298,
+title = {Advances in stimulus-responsive nanomedicine for treatment and diagnosis of atherosclerosis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114298},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114298},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005575},
+author = {Jingying Mao and Chengxi Wu and Lixin Zheng and Yaoyao Li and Ronghao Yang and Ping Yuan and Jun Jiang and Chunhong Li and Xiangyu Zhou},
+keywords = {Atherosclerosis, Nanomedicines, Treatment and diagnosis strategies, Plaque microenvironment, Stimulus–responsive},
+abstract = {Atherosclerosis (AS), an inflammatory cardiovascular disease driven by lipid deposition, presents global prevalence with high mortality. Effective anti-inflammatory or lipid removal is a promising strategy. However, current conventional drug delivery methods may face challenges in targeting disease sites and are deficient in the treatment of AS because of the nonspecific tissue distribution and uncontrollable release of the drug. In contrast, stimulus-responsive nanodrug delivery systems (NDDSs) can respond to stimulation and achieve controlled drug release rates at specific disease sites owing to the abnormal pathological microenvironment in plaques with low pH, excessive reactive oxygen species (ROS) and enzymes, and high shear stress. As a consequence, the efficacy of treatment is improved, and adverse reactions are reduced. On the other hand, NDDSs can combine exogenous stimulus responses (photothermal, ultrasound, etc.) to precisely control their function in time and space. This review for the first time focuses on the application of stimulus-responsive NDDSs in the treatment and diagnosis of AS in the last five years. In addition, its pivotal challenges and prospects are emphasized, aiming to facilitate its application for AS.}
+}

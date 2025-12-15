@@ -1,0 +1,13 @@
+@article{WANG2025114358,
+title = {Drug-induced self-assembled nanovesicles for chloroquine to sensitize MDR tumors to mitoxantrone hydrochloride},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114358},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114358},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006179},
+author = {Juan Wang and Xinchen Zhao and Liyan Qiu},
+keywords = {Nanovesicles, Multidrug resistance, Polymersomes, Mitoxantrone hydrochloride, Chloroquine},
+abstract = {Multidrug resistance (MDR) is an incidental trouble post-chemotherapy, necessitating innovative therapeutic strategies. This study explores the potential of chloroquine (CQ) as a sensitizer for mitoxantrone hydrochloride (MitH) in drug-resistant tumors and introduces a novel pH-responsive drug-induced self-assembly nanovesicle (DIV) based on an amphiphilic polyphosphonitrile (PPAP) for the co-delivery of MitH and CQ. PPAP cannot self-assemble into nanovesicles alone, but when a certain amount of MitH was added, the multiple non-covalent interactions between PPAP and MitH contributed to the formation of DIV, which exactly improved the co-loading content of MitH and CQ to a large extent. CQ prevents MitH efflux and autophagy to reverse MitH resistance. Given the synergy between MitH and CQ at a 1:2 mass ratio with a combination index of 0.40 in K562/ADR cells, MitH and CQ co-loaded DIV (MC-DIV) is constructed and demonstrates a sensitivity index of 7.1 on cytotoxicity compared to free MitH. Furthermore, MC-DIV achieves extended circulation time, synchronous dual-drug delivery, and improved tumor targeting following systemic administration, resulting in exceptional antitumor efficacy in K562/ADR xenograft models with a tumor inhibition rate of 83.0 %. Overall, MC-DIV provides a viable method to maximize the loading capacity of nanocarriers, and potentially serves as a promising formulation for various MitH-resistant tumors.}
+}

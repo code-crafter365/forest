@@ -1,0 +1,13 @@
+@article{YANG2025119388,
+title = {Influence of fibre undulation on the biaxial behaviour of filament-wound FRP tubes in concrete-filled FRP tubes},
+journal = {Composite Structures},
+volume = {370},
+pages = {119388},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119388},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005537},
+author = {Jia-Qi Yang and Xinyu Li and Zhiyuan Li and Peng Feng and Lili Wu},
+keywords = {Filament winding, Fibre-reinforced polymer, RVE, Confined concrete, Analysis-oriented model, Concrete-filled FRP tube},
+abstract = {Filament-wound FRP tubes are extensively utilized in various FRP-concrete composite structures, such as concrete-filled FRP tubes (CFFT). In CFFTs, the FRP tubes are subjected to axial compression and hoop tension. This biaxial stress state diminishes the confining effect. Owing to the winding procedure, the fibre bundles in the tube wall fluctuate, and the meso-scale fibre architecture can further impact the mechanical properties of the composites, rendering the classical lamination theory (CLT) insufficient in predicting the biaxial tube behaviour. This study presents a meso-scale finite element (FE) analysis on the repeated unit cells (RUCs) of the tube wall. With the RUC results, the parameters of CLT analysis are modified. The accuracy of the analysis-oriented model for FRP-confined concrete is improved by the modified CLT parameters. Based on the refined analysis-oriented model, a series of factors for modifying the hoop tensile test results are put forward for engineering design.}
+}

@@ -1,0 +1,13 @@
+@article{ZHANG2025111036,
+title = {Image-based finite element modelling of fibre dynamics in polyester staple spun yarns},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111036},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111036},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825000041},
+author = {Haoqi Zhang and Abdul Jabbar and Aonan Li and Xinxin Wang and Dongmin Yang and Muhammad Tausif},
+keywords = {Finite element method, Image-based modelling, X-ray microcomputed tomography (μCT), Staple spun yarn, Microplastics},
+abstract = {This paper introduces an innovative finite element (FE) modelling approach for fibre dynamics in a staple spun yarn based on the geometrical model derived from X-ray microcomputed tomography (μCT) images. The FE model retains crucial in situ information on fibre anisotropy, length, and continuity while employing advanced stitched scanning technique to reconstruct a 15 mm yarn length containing individual fibres with ∼10 μm diameter. The research focuses on 100 % polyethylene terephthalate (PET) staple ring-spun yarn as a case study, conducting both single fibre and yarn tensile tests to characterise material properties and validate the FE model, respectively. Beyond examining the mechanical response at the yarn level, the model facilitates the investigation of individual fibre's tensile stress, frictional forces, and extent of migration, thereby enhancing the understanding of fibre interactions during yarn tensile loading. Furthermore, the model enables parametric studies through manipulation of inter-fibre friction coefficients allowing assessment of their impact on overall mechanical behaviour. This innovative modelling approach demonstrates significant potential for exploring the constitutive and failure mechanisms for formation of microplastics from textiles and textile materials in general as well as fibre-reinforced composites. It addresses the critical research gaps in simulating anisotropic behaviours of materials containing textile fibres, paving the way for advanced material design and analysis.}
+}

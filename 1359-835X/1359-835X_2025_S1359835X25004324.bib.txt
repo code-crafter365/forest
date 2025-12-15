@@ -1,0 +1,13 @@
+@article{HOU2025109138,
+title = {Thermoelastic mechanism of matrix cracking behavior of cross-ply melt-infiltrated SiC ceramic matrix composites with varied free silicon},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109138},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109138},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004324},
+author = {Haozhang Hou and Zexu Sun and Yi Ru and Chunling Zhao and Yuan Liu and Guangying Lin and Lianyi Wang and Shusuo Li and Shengkai Gong},
+keywords = {Ceramic matrix composites, Matrix cracking, Free silicon, Residual stress},
+abstract = {The free silicon content in silicon melt infiltrated ceramic matrix composites (CMC) causes the GPa-range residual microstress in silicon and SiC phases and the MPa-range average residual matrix stress in the Si-SiC matrix. These residual stresses are naturally linked to the matrix cracking stress. The complex effect of free silicon on the matrix cracking behavior in SiC fiber reinforced cross-ply laminate CMCs has been investigated by experiment and thermoelastic analysis. The CMC with the lowest silicon exhibits the highest onset cracking stress. A proposed thermoelastic model, which includes silicon crystallization expansion, reveals that the Si-SiC matrix fracture energy in the low-silicon CMC is nearly doubled due to suppressed elastic potential energy associated with the GPa-range microstresses. This improved fracture energy overturns the effect of matrix residual stress and becomes the dominant factor in determining cracking stress. These results offer an energy-based guideline for improving onset cracking stress.}
+}

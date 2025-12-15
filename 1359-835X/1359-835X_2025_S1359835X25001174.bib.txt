@@ -1,0 +1,13 @@
+@article{MAHAPATRA2025108823,
+title = {Evaluation of tensile properties of 3D-printed lattice composites: Experimental and machine learning-based predictive modelling},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108823},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108823},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001174},
+author = {Itkankhya Mahapatra and Niranjan Chikkanna and Kumar Shanmugam and Jayaganthan Rengaswamy and Velmurugan Ramachandran},
+keywords = {Tensile Properties, Lattice structures, Multi-layered multi-materials, Additive manufacturing, Machine learning},
+abstract = {Triply periodic minimal surface (TPMS)lattices, known for their high surface area density, significantly influence mechanical properties but have not been fully explored under tensile loads. Evaluating different material and lattice design combinations through computational or experimental methods can be time-intensive. This study introduces a framework for quickly estimating key tensile properties in 3D-printed gyroid and diamond lattices based on structure weight, cell size, and relative density. Specimens were 3D-printed using acrylonitrile butadiene styrene (ABS) and short Kevlar fiber-reinforced ABS through a filament-based extrusion process, showing improved mechanical performance with dual-material combinations. A detailed comparison of homogeneous and composite sandwich specimens along with failure analysis of different geometries revealed notable enhancements in tensile properties. Furthermore, a random forest machine learning model was trained on experimental data, providing a simple yet accurate tool for predicting mechanical properties. This model supports the expansion of machine learning-driven approaches in the design of lattice-structures.}
+}

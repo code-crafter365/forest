@@ -1,0 +1,12 @@
+@article{LIU2025102684,
+title = {FAUDA-Net: Frequency-aware unsupervised domain adaptation network for multimodal medical image segmentation},
+journal = {Computerized Medical Imaging and Graphics},
+pages = {102684},
+year = {2025},
+issn = {0895-6111},
+doi = {https://doi.org/10.1016/j.compmedimag.2025.102684},
+url = {https://www.sciencedirect.com/science/article/pii/S0895611125001934},
+author = {Yan Liu and Yan Yang and Yongquan Jiang and Xiaole Zhao and Zhuyang Xie},
+keywords = {Unsupervised domain adaptation, Medical image segmentation, Frequency-aware contrastive learning, Distribution disruption},
+abstract = {Unsupervised domain adaptation (UDA) has achieved notable advances in medical image segmentation. However, the significant domain shifts between source and target data continue to pose fundamental challenges, driving an urgent demand for more robust cross-domain solutions. Current UDA methods often rely on static spatial alignment strategies that ignore the dynamic evolution of feature distributions during training, often resulting in blurred boundary delineation and loss of structural details. To address these issues, we propose a frequency-aware unsupervised domain adaptation network (FAUDA-Net), which dynamically adapts to feature distribution shifts and enhances boundary delineation in the target domain. Specifically, FAUDA-Net introduces dual-domain distribution disruption to encourage domain-invariant representations, along with frequency constraints, that leverage both phase and amplitude components to guide cross-domain adaptation. Furthermore, a frequency-aware contrastive learning mechanism aligns source and target features through channel self-attention matrices, enabling a shared pixel-wise decoder to achieve robust segmentation performance. Extensive experiments on three representative medical image datasets, MMWHS17, BraTS21, and PROMISE12, demonstrate that FAUDA-Net outperforms eight state-of-the-art methods in both overall segmentation accuracy (Dice) and boundary extraction precision (ASD), providing a reliable and effective solution for multi-modal and multi-center medical image segmentation.}
+}

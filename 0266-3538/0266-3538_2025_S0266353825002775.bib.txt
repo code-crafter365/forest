@@ -1,0 +1,13 @@
+@article{YAO2025111309,
+title = {Model for mode I fatigue delamination with significant fiber bridging retardation},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111309},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111309},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002775},
+author = {Liaojun Yao and Mingyue Chuai and Zixian He and Stepan V. Lomov and Valter Carvelli and Sergei B. Sapozhnikov},
+keywords = {Fatigue delamination, Bridging retardation, Numerical simulation model, Composite laminates},
+abstract = {Composite laminates are highly vulnerable to fatigue delamination growth (FDG). Fiber bridging has been demonstrated to exert significant retardation on the FDG. The fatigue delamination model, presented in this paper, describes these retardation effects, based on two specific damage mechanisms associated with the bridging-affected delamination: the damage around the crack front and the damage associated with the bridging fibers. The crack-front-related failure was represented using a traditional fatigue cohesive law, while a new fatigue bridging law was proposed for characterizing fiber-bridging-related failure. This new law related the damage variable to the ratio of the crack opening displacement (COD) to the bridging-resistant-free COD via a power function. The parameters of this fatigue bridging law are identified for a given composite material via an optimization algorithm. This algorithm uses the maximum force evolution recorded during fatigue experiments. Crack closure is taken into account for FDG with low stress ratio (i.e. R < 0.3) in the optimization algorithm. The damage propagation in fiber-bridged FDG is simulated by superposing these two fatigue laws, thus contributing to a new fatigue delamination model. The validation of the fatigue model for mode I FDG was conducted by varying the amounts of fiber bridging at different stress ratios. The proposed fatigue delamination model effectively captures the effects of bridging retardation and exhibits good accuracy in the determination of FDG.}
+}

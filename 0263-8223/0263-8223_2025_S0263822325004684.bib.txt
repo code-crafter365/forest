@@ -1,0 +1,13 @@
+@article{WANG2025119303,
+title = {Designing multi-level buckling-resistant lattice truss structures based on space group P23 of crystal lattices},
+journal = {Composite Structures},
+volume = {368},
+pages = {119303},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119303},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325004684},
+author = {Yongjun Wang and Changliang Lai and Wenyi Bao and Ruiyi Jiang and Xiaofei Li and Hualin Fan},
+keywords = {Space group 23, Hierarchical lattice truss material, Multi-level buckling resistance},
+abstract = {This paper presents a method from the space group symmetry theory of crystal lattices to design lattice truss materials. Utilizing this method, a new hierarchical anti-buckling lattice structure was designed based on the P23 space group symmetry operation. With thermoplastic polyurethane elastomer as the matrix material, relevant specimens were manufactured. Quasi-static mechanical responses of this metamaterial were examined through experimental and numerical approaches. A systematic analysis was conducted on the effects of microstructural parameters on the deformation mechanism, including arrangement and number of unit cells, wall thickness ratio, and relative density. The results indicate that the designed structure exhibits a deformation mode with significant negative Poisson’s ratio effect and multi-level buckling resistance. Moreover, the design method based on the space group symmetry theory of crystal lattices proposed in this paper can facilitate the development of more innovative lattice truss metamaterials.}
+}

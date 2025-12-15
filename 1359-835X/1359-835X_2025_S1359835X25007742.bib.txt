@@ -1,0 +1,12 @@
+@article{EZZAHRAOUI2025109479,
+title = {Mechanical properties prediction of polypropylene composites reinforced with fly ash and/or phosphate sludge using a modified Halpin-Tsai model coupled with a self-consistent approach},
+journal = {Composites Part A: Applied Science and Manufacturing},
+pages = {109479},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109479},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25007742},
+author = {Siham Ez-Zahraoui and Abou El {Kacem Qaiss} and Rachid Bouhfid and Mounir El Achaby and Fatima-Zahra Semlali},
+keywords = {Fly ash, Phosphate sludge, Micromechanical modeling, Halpin-Tsai, Self-consistent approach},
+abstract = {This study investigates the mechanical behavior of polypropylene (PP) composites reinforced with fly ash (FA) and phosphate sludge (PS) through experimental analysis and micromechanical modeling. A novel approach is proposed to predict the Young’s modulus of single-reinforced composites (PP/Vf R; Vf: 5–15 vol% | R: FA or PS) and hybrid composites (PP/Vf FA/(10-Vf) PS, where the FA and PS fractions correspond to Vf and 10-Vf, respectively, yielding Vf /(10-Vf) ratios of 2.5/7.5, 5/5, and 7.5/2.5 vol%), by modifying the Halpin-Tsai model through a self-consistent method. The model integrates morpho-geometric parameters of reinforcements by refining the shape factor “ξ” based on particle size distribution and introducing an adjustment factor “β” for morphology. The intrinsic modulus of the reinforcements, determined via the Tsai-Pagano model, serves as input for predictions. The proposed model shows improved correlation with experimental results compared to Tsai-Pagano and Hirsch models, enabling accurate predictions and sustainable composite design.}
+}

@@ -1,0 +1,13 @@
+@article{YAN2025119422,
+title = {Efficient RVE modeling for ellipsoidal particle- and short fiber-hybrid reinforced composites: Novel algorithms for overlap detection and geometric periodicity},
+journal = {Composite Structures},
+volume = {370},
+pages = {119422},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119422},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325005872},
+author = {Xingwei Yan and Yang Hu and Yong Xie and Qin-Zhi Fang},
+keywords = {Ellipsoidal particle, Short fiber, Representative volume element, Geometric periodic, Acceleration algorithms},
+abstract = {Particle- and fiber-reinforced composites are widely used in aerospace, automotive, and biomedical engineering. Finite element (FE) homogenization, based on the representative volume element (RVE), is an effective method for evaluating properties. This paper presents a novel method for constructing RVEs of the composites containing ellipsoidal particles and fibers (collectively referred to as fillers). A modified Random Sequential Absorption (RSA) algorithm is proposed, featuring a novel overlap detection algorithm for ellipsoid particles and fibers, a geometric periodicity algorithm, and several acceleration strategies (e.g., boundary sphere, envelope fiber, enhanced fiber overlap detection, and pre-overlap algorithms). These innovations significantly improve modeling efficiency and filler volume fraction while ensuring accuracy. The periodic boundary condition (PBC) and ABAQUS-integrated GUI plugin further enhance efficiency. PBC-based predictions validate the accuracy of the constructed RVEs for evaluating the mechanical properties of hybrid composites.}
+}

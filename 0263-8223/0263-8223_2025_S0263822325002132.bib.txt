@@ -1,0 +1,13 @@
+@article{BAI2025119048,
+title = {Mechanical behavior and load-sharing mechanism of plain-weave CFRP/Al bonded-bolted joint at −50 °C, 23 °C and +120 °C},
+journal = {Composite Structures},
+volume = {360},
+pages = {119048},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119048},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325002132},
+author = {Jiang-Bo Bai and Hao Xu and Yun-Tao Zhu and Nicholas Fantuzzi and Si-Yuan Tian and Peng-Cheng Cao},
+keywords = {Hybrid bonded-bolted joint, Composite-metal joint, Temperature effects, Mechanical behavior},
+abstract = {This paper investigates the load-sharing mechanism of plain-weave carbon fiber reinforced polymer composite (PWCFRP) and aluminum alloy (Al) hybrid bonded-bolted joints under varying temperature conditions. Quasi-static tension and tension–tension fatigue tests were conducted on PWCFRP/Al bonded, bolted, and hybrid bonded-bolted joints at −50 °C, 23 °C, and 120 °C. Based on the experimental results, the influences of temperature and loading type on the mechanical behavior and failure mechanism of the joints were analyzed. Then, a load-sharing model was proposed for hybrid joints based on the test data. It is found that: i) at all three temperatures, the failure process in hybrid joints involves three characteristic stages. In Stage I, the adhesive solely bears the load. In Stage II, the adhesive and the bolt bear the load together. In Stage III, the bolt bears the load independently. ii) The lower damage initiation load of the hybrid joint than the bonded joint is mainly due to the thread embedment induced adhesive failure; iii) With increasing temperature, joint performance of the three types of joints declines, accompanied by changing in failure modes; iv) As the loading cycles accumulate, the nominal residual displacement of the joint increased monotonically at three temperatures, while nominal residual joint stiffness first increases then gradually decreases; v) The proposed model accurately forecasts the Stage II at −50 °C and 23 °C, with a maximum error of 6 % in the prediction of the peak load.}
+}

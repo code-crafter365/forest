@@ -1,0 +1,13 @@
+@article{GU2025109150,
+title = {High-temperature experiments and simulation methods for oxidation behavior research of thermostructural materials},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109150},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109150},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25004440},
+author = {Yongsheng Gu and Yanfei Chen and Shengping Shen and Daining Fang},
+keywords = {Thermostructural materials, Thermo-mechanical-chemical coupling, Experimental investigation, Simulation methods},
+abstract = {High-performance thermostructural materials play a critical role in enabling applications under extreme environments, necessitating a thorough understanding of their classification, oxidation mechanisms, and failure behaviors. This review systematically classifies these materials based on their types and oxidation mechanisms, providing a detailed analysis of their unique attributes. Experimental methodologies for characterizing oxidation behavior and mechanical properties under extreme conditions are comprehensively summarized, with emphasis on advanced oxidation characterization techniques and mechanical testing strategies. This review presents a comprehensive analysis of oxidation-induced failure mechanisms, providing new insights into the fundamental degradation processes. Furthermore, it examines computational models for high-temperature oxidation multiple scales, ranging from atomic-level molecular dynamics simulations to mesoscale phase-field and peridynamic methods, and macroscale oxidation-diffusion modeling. The integration of emerging tools such as machine learning in thermo-mechanical-chemical coupling is also explored, highlighting their potential to advance material design and performance prediction. By synthesizing current progress and identifying key challenges, this work establishes a cohesive framework that bridges experimental, theoretical, and computational approaches. It aims to facilitate the rational design and analysis of thermostructural materials, paving the way for their deployment in next-generation high-performance systems operating in extreme environments.}
+}

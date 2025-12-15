@@ -1,0 +1,13 @@
+@article{LI2025109020,
+title = {Influence of the Ni transition layer on the SiCp/Fe-Cu sandwich structure: Promoting interfacial bonding and synergistically enhancing strength and ductility},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {109020},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109020},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003148},
+author = {Wen-quan Li and Zheng-yu Zhong and Ying Guo and Shuo Yin and Chao Zhang},
+keywords = {Fe-Cu Sandwich structure, Ni Transition layer, Interfacial bonding, Uncoordinated plastic deformation},
+abstract = {To obtain the material with excellent comprehensive properties, SiCp-reinforced iron-copper (SiCp/Fe-Cu) sandwich-structured composites were fabricated by spark plasma sintering. A Ni transition layer was added into the sandwich structure to enhance interfacial bonding. The results indicated that the Ni transition layer formed an amorphous interfacial product with Fe layer, resulting in tighter interfacial bonding. The introduced Cu layer significantly improved material’s thermal conductivity, with the sintered SiCp/Fe-Cu sandwich structure achieving 211.20% of the thermal conductivity of SiCp/Fe, and the SiCp/Fe-Ni-Cu sandwich structure reaching 232.32% of SiCp/Fe. The Ni transition layer brought the SiCp/Fe-Ni-Cu structure exceptional ductility, surpassing the SiCp/Fe-Cu structure by 180%. In both sandwich structures, phenomena of non-coordinated plastic deformation were observed; while the Cu layer exhibited through-cracks, the SiCp/Fe layer experienced local cracking. Each layer in the sandwich structures displayed different failure mechanisms: the Cu layer underwent shear fracture, while the SiCp/Fe layer experienced tensile fracture.}
+}

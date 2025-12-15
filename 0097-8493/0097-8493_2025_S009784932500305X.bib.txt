@@ -1,0 +1,13 @@
+@article{GAO2025104464,
+title = {InstantHuman: Single-image to high-fidelity 3D human in under one second},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104464},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104464},
+url = {https://www.sciencedirect.com/science/article/pii/S009784932500305X},
+author = {Tianze Gao and Bowei Yin and Hangtao Feng and Zhangjin Huang},
+keywords = {Human reconstruction, 3D Gaussian, Neural network},
+abstract = {We present InstantHuman, a novel method for high-fidelity 3D human reconstruction from a single RGB image with fast inference. Existing approaches either regress directly from 2D images to 3D models, which often struggle to capture fine details due to structural misalignment between modalities, or adopt per-pixel Gaussian representations that lack explicit human priors. To overcome these limitations, we propose a novel framework that integrates a projection-aware feature sampler which effectively bridges the structural gap between 2D pixels and 3D vertices, with a dual-embedding strategy that enriches vertex-level features through learnable identifiers and pose-specific embeddings. Given the monocular setting, reasoning about occlusion is essential. We introduce a visibility-aware mechanism to distinguish and handle visible and occluded vertices. Furthermore, to enhance face reconstruction quality, we apply additional supervisory losses in the face region by leveraging off-axis projection, which significantly enhances geometric fidelity in face areas. Comprehensive experiments on public datasets demonstrate that InstantHuman outperforms state-of-the-art methods in reconstruction accuracy and face detail preservation, particularly under novel views. Notably, InstantHuman achieves fast inference, producing complete 3D human reconstructions in under one second.}
+}

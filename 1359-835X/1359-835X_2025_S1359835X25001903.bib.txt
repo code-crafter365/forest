@@ -1,0 +1,13 @@
+@article{RUAN2025108896,
+title = {Rotatory additive manufacturing of grid-stiffened continuous fiber-reinforced polymer tubular structures},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {194},
+pages = {108896},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108896},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001903},
+author = {Kaicheng Ruan and Yilin Peng and Yiwei Weng and Limin Zhou and Yi Xiong},
+keywords = {Finite element analysis (FEA), Mechanical testing, Carbon fibers, 3-D printing},
+abstract = {Continuous Fiber Reinforced Polymer (CFRP) tubular structures are widely used due to their lightweight and superior mechanical performance. However, rapid and cost-effective methods for fabricating small-to-medium sized CFRP tubular structures remain scarce. This study presents a novel Rotary Additive Manufacturing (RAM) system that utilizes a coextrusion process and a 4-axis motion system to fabricate grid-stiffened CFRP tubular structures with complex stiffener designs. Compression performance was evaluated through experimental tests and high-fidelity simulations, examining the effects of grid-stiffening, stiffener pattern, and thickness. The results validate the effectiveness of CFRP stiffeners, as evidenced by significantly improved peak force and specific energy absorption(SEA). Additionally, the ability to tune the mechanical performance of these structures by optimizing the stiffener design was demonstrated. The proposed design and fabrication process enables the creation of high-performance and innovative grid-stiffened CFRP tubular structures for applications such as aircraft fuselages, prosthetic sockets, and beyond.}
+}

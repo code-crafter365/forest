@@ -1,0 +1,13 @@
+@article{REN2025118015,
+title = {Physics-Informed Extreme Learning Machine (PIELM) for Stefan problems},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {441},
+pages = {118015},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118015},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525002877},
+author = {Fei Ren and Pei-Zhi Zhuang and Xiaohui Chen and Hai-Sui Yu and He Yang},
+keywords = {Stefan problem, Extreme learning machine, Physics-informed neural networks, Moving boundary, Free boundary, Phase change},
+abstract = {Stefan problems describe heat transfer through a material undergoing phase change, and solving these problems poses a real challenge due to the existence of a time-dependent moving boundary at the phase change interface. We propose an efficient and reliable physics-informed extreme learning machine (PIELM) framework for solving Stefan problems, which is achieved by replacing deep neural networks in the widely used physics-informed neural network (PINN) with extreme learning machines (ELM). We use a dual-network structure to approximate the latent solution and the moving boundary by two separate ELM networks, and in each ELM we incorporate physical laws of governing equations as well as initial and boundary conditions. Then, determining ELM layer weights is transformed from minimising loss into solving a system of equations. These equations are nonlinear because of the moving boundary, and we tackle them using an iterative least-squares procedure. The feasibility and validity of the proposed PIELM framework are demonstrated by carrying out six numerical case studies. Compared to conventional PINN frameworks, it shows that our PIELM framework can significantly improve the accuracy and efficiency for solving Stefan problems, reducing relative L2 errors from the orders of 10–3∼10–5 to 10–6∼ 10–8.}
+}

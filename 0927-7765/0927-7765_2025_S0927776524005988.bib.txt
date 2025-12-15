@@ -1,0 +1,13 @@
+@article{SUL2025114339,
+title = {Tangerine peel-derived nitrogen-doped carbon dots incorporated chitosan/pullulan-based active packaging film for bread packaging},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {245},
+pages = {114339},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114339},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524005988},
+author = {Yoonjung Sul and Ajahar Khan and Jun Tae Kim and Jong-Whan Rhim},
+keywords = {Nitrogen-doping, Carbon dots, Tangerine peel, Active packaging, Antimicrobial, Antioxidant},
+abstract = {Citrus peel waste carbon dots based on nitrogen-doped (N-TanCD) were developed by a hydrothermal strategy to deliver active packaging fillers and characterized by transmission electron microscopy, photoluminescence, and Fourier transform infrared analyses. The addition of N-TanCD into chitosan-pululan (CS/Pul@N-TanCD) polymer blend amplified the tensile strength of the composite film by 22.8 %, whereas the antioxidant activities against DPPH and ABTS reached 62.7 % and 91.6 %, respectively. The proposed film showed blocked 98.8 % of UV-A and 100 % of UV-B without affecting the film’s transparency. The CS/Pul@N-TanCD film lowered the contamination of L. monocytogenes and E. coli by more than 4 and 5 log CFU/mL, respectively. Sliced bread was packaged using CS/Pul-based films and stored for 12 days at 50 % relative humidity and 25 °C to investigate changes in the quality of the bread. It was found that bread packaged with CS/Pul film integrated with N-TanCD maintained excellent bread quality relating to appearance, moisture content, hardness, weight loss, and total viable bacterial count.}
+}

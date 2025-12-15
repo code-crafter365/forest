@@ -1,0 +1,13 @@
+@article{NOREEN2025114805,
+title = {Novel thiol-functionalized hyaluronic acid-based pH-responsive hydrogel: A promising mucoadhesive drug delivery approach toward the treatment of colorectal cancer},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {254},
+pages = {114805},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114805},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003121},
+author = {Sobia Noreen and Fahad Pervaiz and Muhammad Ijaz and Muhammad Farhan Hanif and Hina Shoukat and Irsah Maqbool and Muhammad Azeem Ashraf and Hassan Mahmood},
+keywords = {Mucoadhesive, Colon targeting, 5-fluorouracil, Thiolated hyaluronic acid, PH-sensitive drug delivery, Targeted therapy},
+abstract = {The synthesis of thiolated polymer-based smart hydrogels with desired pH responsiveness is essential for numerous biological and pharmaceutical applications. This study aims to develop chemically crosslinked interpenetrating network (IPN) pH-sensitive thiolated hydrogels for the targeted delivery of 5-fluorouracil (5-FU) to colorectal cancer (CRC) and to evaluate their mucoadhesive properties by measuring mucosal residence time on rabbit colonic mucosa. Thiolated hyaluronic acid (HA-SH) was synthesized by oxidation and reductive amination using cysteamine conjugation. Hydrogels were examined regarding textural properties, swelling behavior, mucoadhesive properties, surface morphology, and drug release characteristics. The physical interaction and biocompatibility of HA-SH hydrogels were assessed by FT-IR spectroscopy, hemolysis tests, cytocompatibility, and histopathology analyses. The configuration of HA-SH was validated using IR and 1HNMR spectroscopy. Thiolation resulted in a 2.4-fold viscosity improvement (viscosity of the mucus-HA-SH mixture) compared to the native HA-SH mixture. Swelling and drug release were diminished in simulated gastric fluid (SGF), whereas a sustained release pattern was noted in simulated colonic fluid (SCF), demonstrating significant pH sensitivity. In vitro anticancer assays showed a ∼3.0-fold greater cellular uptake of HA-SH versus native HA as determined on the HT29 cancer cell line using flow cytometry, leading to slightly reduced cell viability. In vivo, organ distribution experiments and histopathological analysis showed a high concentration of 5-FU in the colon. By these results, HA-SH-based hydrogels are potential agents for sustained and localized delivery of 5-FU.}
+}

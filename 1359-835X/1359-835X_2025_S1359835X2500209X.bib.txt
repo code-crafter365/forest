@@ -1,0 +1,13 @@
+@article{GRIMMSTRELE2025108915,
+title = {SMC process simulation validated by image analysis},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108915},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108915},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X2500209X},
+author = {Hannes Grimm-Strele and Fernando {Burguera Albizuri} and Miguel Irasarri and Alex Keilmann and Raquel {Ledo Bañobre} and Dariusz Niedziela and Katja Schladitz and Konrad Steiner and Augustin {de la Vauvre} and Vanessa {Ventosinos Louzao} and Heiko Andrä},
+keywords = {Material modeling, Temperature-dependent curing, Temperature-dependent viscosity, Computed tomography, Fiber orientation, Anisotropic Gaussian filters, Maximal response},
+abstract = {A new process simulation tool has been developed which predicts the fiber bundle orientation in sheet molding compounds depending on part geometry and production process. The method simulates the three-dimensional flow and movement of resin and fiber bundles respectively allowing for different velocities of these two components. The work describes how to derive the effective permeabilities of the fiber bundles using microscale simulations. Measurements of the viscosity are required only for the resin and not the full suspension. The predicted fiber orientations are validated via comparisons to computed tomography scans. In addition, the flow front and filling behavior of a realistic automotive panel geometry at the component scale is predicted. The new process simulation method yields improved input data for subsequent structural simulations of sheet molding compound components and allows the consideration of fiber bundle orientation in the structural analysis of SMC components.}
+}

@@ -1,0 +1,13 @@
+@article{WU2025117748,
+title = {Learning the physics-consistent material behavior from measurable data via PDE-constrained optimization},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {437},
+pages = {117748},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.117748},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525000209},
+author = {Xinxin Wu and Yin Zhang and Sheng Mao},
+keywords = {Constitutive models, Neural network, Nonlinear elasticity, PDE-constrained optimization},
+abstract = {Constitutive models play a crucial role in materials science as they describe the behavior of the materials in mathematical forms. Over the last few decades, the rapid development of manufacturing technologies has led to the discovery of many advanced materials with complex and novel behavior, which in the meantime, has also posed great challenges for constructing accurate and reliable constitutive models of these materials. In this work, we propose a data-driven approach to construct physics-consistent constitutive models for hyperelastic materials from measurable data, with the help of PDE-constrained optimization methods. Specifically, our constitutive models are based on the physically augmented neural networks (PANNs), which has been shown to ensure that the models are both physically consistent but also mathematically well-posed by construction. Specimens with deliberately introduced inhomogeneity are used to generate the data, i.e., the full-field displacement data and the total external load, for training the model. Using such approach, a considerably diverse pairs of stress–strain states can be explored with a limited number of simple tests, such as uniaxial tension. A loss function is defined to measure the difference between the data and the model prediction, which is obtained by numerically solving the governing PDEs under the same geometry and loading conditions. With the help of adjoint method, we can iteratively optimize the parameters of our NN-based constitutive models through gradient descent. We test our method for a wide range of hyperelastic materials and in all cases, our methods are able to capture the constitutive model efficiently and accurately. The trained models are also tested against unseen geometry and unseen loading conditions, exhibiting good interpolation and extrapolation capabilities.}
+}

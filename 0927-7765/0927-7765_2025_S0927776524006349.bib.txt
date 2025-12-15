@@ -1,0 +1,13 @@
+@article{LI2025114375,
+title = {Recent progress of natural materials-based hydrogel for postoperative chemotherapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {246},
+pages = {114375},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2024.114375},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776524006349},
+author = {Chang Li and Xiaocong Li and Xinping Liu and Li Yuan and Xiao Duan and Wei Guo},
+keywords = {Hydrogel, Responsiveness, Postoperative chemotherapy},
+abstract = {Hydrogels have been widely used for in situ postoperative chemotherapy due to fewer side effects and longer duration of drug action compared to systemic chemotherapy. This paper reviews the application of natural materials-based hydrogels after tumor resection to explore them as an option for postoperative chemotherapy. Different material-based hydrogels, different response-based hydrogels, and the clinical applications of implantable, injectable, and sprayed hydrogels were investigated and summarized. Based on the main content, we report the possible clinical application prospects and typical functions of hydrogel-based local drug delivery systems.}
+}

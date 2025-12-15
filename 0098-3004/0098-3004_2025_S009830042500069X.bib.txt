@@ -1,0 +1,13 @@
+@article{HE2025105919,
+title = {A spatiotemporal mixed-enhanced generative adversarial network for radar-based precipitation nowcasting},
+journal = {Computers & Geosciences},
+volume = {200},
+pages = {105919},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2025.105919},
+url = {https://www.sciencedirect.com/science/article/pii/S009830042500069X},
+author = {Long He and Kun Zheng and Huihua Ruan and Shuo Yang and Jinbiao Zhang and Cong Luo and Siyu Tang and Yunlei Yi and Yugang Tian and Jianmei Cheng},
+keywords = {Precipitation nowcasting, Spatiotemporal mixed enhancement, Generative adversarial networks, Self-attention},
+abstract = {Skillful precipitation nowcasting with high resolution and detailed information holds promise for providing reliable alerts about severe weather events to society. Radar echo extrapolation is an essential method for precipitation nowcasting, but traditional methods struggle to capture rapidly changing regions. Deep learning (DL)-based methods exhibit superior performance. However, existing DL-based methods face challenges such as low accuracy, particularly in producing clear forecasts over longer lead times and accurately forecasting moderate to heavy rainfall events. To address these challenges, we developed a novel radar-based precipitation nowcasting model, STMixGAN, which can be described as a nonlinear proximity forecasting model. This model effectively aggregates global-to-local information and imposes constraints to represent the complex evolution of rainfall efficiently. Consequently, STMixGAN produces realistic and spatiotemporally consistent predictions. Using radar observations from South China, STMixGAN successfully forecasted radar maps for the next 1 h using 24 min of input data. Two traditional methods (Persistence and Optical flow) and five DL-based methods (ConvLSTM, Rainformer, IAM4VP, REMNet, and GAN-argcPredNet) were employed as benchmarks to validate STMixGAN’s forecasting capabilities. The experimental results demonstrate STMixGAN’s superior performance and provide valuable insights for enhancing heavy rainfall forecasting.}
+}

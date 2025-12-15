@@ -1,0 +1,13 @@
+@article{JIANG2025115052,
+title = {Complementary-synergistic Fe-Ce bimetallic nanozyme enhances antimicrobial efficacy through intermodule cycling catalysis},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {256},
+pages = {115052},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.115052},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525005594},
+author = {Suyu Jiang and Xuemei Sun and Rong-Mei Kong and Weiheng Kong and Yan Zhao},
+keywords = {Bimetallic Catalysts, Redox Modulation, Hydroxyl Radicals, Antimicrobial Synergy},
+abstract = {In contemporary antimicrobial research, the ability to comprehensively modulate bacterial redox metabolism stands at the forefront of improving therapeutic efficacy and mitigating antibiotic resistance. Single metal ions often exhibit limited capacity for redox modulation, which may accelerate resistance emergence. Bimetallic catalysts, by contrast, confer synergistic benefits in antimicrobial applications. Here, we present a bimetallic Fe/Ce system, constructed as a dual-enzyme-mimetic catalytic module (Fe/Ce-BTC), that harnesses the complementary advantages of both metals to enhance catalytic activity and stability. Iron initiates the Fenton reaction to produce hydroxyl radicals (•OH), while cerium sustains robust redox conversion between Ce3 + and Ce4+. This integrated system disrupts bacterial metabolic networks on multiple levels, effectively overcoming bacterial compensatory mechanisms and exhibiting potent inhibitory effects against various pathogens. Collectively, these findings highlight the robust potential of bimetallic catalysts such as Fe/Ce-BTC to expand the scope of antimicrobial interventions, offering transformative strategies to address antibiotic resistance and improve clinical outcomes.}
+}

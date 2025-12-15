@@ -1,0 +1,13 @@
+@article{DILLEN2025119646,
+title = {Efficient post-buckling analysis of laminated plates with bending–twisting coupling using a novel algorithmic implementation},
+journal = {Composite Structures},
+volume = {373},
+pages = {119646},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119646},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325008116},
+author = {Sebastian D. Dillen and Christian Mittelstedt},
+keywords = {Post-buckling, Composites, Bending–twisting coupling, Ritz method},
+abstract = {Thin-walled composite structures offer significant weight reduction benefits; however, they are susceptible to stability-related failure mechanisms such as buckling. While local buckling does not necessarily result in catastrophic failure, it is crucial to understand post-buckling behaviour in order to maximise structural efficiency. This study introduces an efficient non-dimensional Ritz-based method for analysing the buckling and post-buckling behaviour of symmetrical, balanced, simply supported rectangular plates with bending–twisting coupling. The dimensionless formulation provides results that are generic and therefore universally valid. It enables the generic evaluation of the influence of the bending–twisting coupling on the buckling behaviour. The proposed approach employs orthogonal polynomial shape functions to accurately capture complex coupling effects while optimising computational effort and convergence. The methodology extends previous research by incorporating an novel advanced integral computation technique and algorithm to enhance post-buckling analysis. The findings demonstrate an enhancement in the accuracy and efficiency of predicting buckling behaviour, particularly in highly anisotropic laminates, where traditional approaches encounter limitations. This study contributes to the development of more robust analytical tools for composite structural analysis, facilitating more effective lightweight design applications.}
+}

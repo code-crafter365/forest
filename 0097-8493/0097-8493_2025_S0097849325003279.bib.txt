@@ -1,0 +1,13 @@
+@article{CHEN2025104486,
+title = {SmartPoints: Enhanced local feature extraction and neighborhood diffusion network for 3D point cloud semantic segmentation},
+journal = {Computers & Graphics},
+volume = {133},
+pages = {104486},
+year = {2025},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2025.104486},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849325003279},
+author = {Ye Chen and Jian Lu and Jie Zhao and Xiaogai Chen and Kaibing Zhang},
+keywords = {3D point cloud, Semantic segmentation, Dual local topological structure perception, Neighborhood diffusion, Edge aware},
+abstract = {In recent years, transformer-based models have demonstrated strong performance in global information extraction. However, in 3D point cloud segmentation, such models still fall short when it comes to capturing local features and accurately identifying geometric and topological relationships. To address the resulting insufficiency in local feature extraction, we propose an enhanced local feature extraction and neighborhood diffusion network for 3D point cloud semantic segmentation (SmartPoints). First, our method aggregates local features from the input point set using a hierarchical feature fusion module (HFF), which enhances information interaction and dependency between different local regions. Next, the dual local topological structure perception module (DLTP) constructs two local topologies using positional and semantic information, respectively. An adaptive dynamic kernel is then designed to capture the mapping between the two local topologies, enhancing local feature representation. To address the challenge of unclear local neighborhood edge distinctions, which often lead to segmentation errors, we design a local neighborhood diffusion module (LND). This module achieves precise edge segmentation by enhancing target region features and suppressing non-target region features. Extensive experiments on benchmark datasets such as S3DIS, ScanNetV2 and SemanticKITTI demonstrate the superior segmentation performance of the proposed SmartPoints.}
+}

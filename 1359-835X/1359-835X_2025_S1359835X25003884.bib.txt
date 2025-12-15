@@ -1,0 +1,13 @@
+@article{RUIZIGLESIAS2025109094,
+title = {Estimating the coefficients of thermal expansion of carbon fibre composite materials using infrared thermography},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {198},
+pages = {109094},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.109094},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25003884},
+author = {R. Ruiz-Iglesias and R. Cappello and O.T. Thomsen and J.M. Dulieu-Barton},
+keywords = {Coefficient of Thermal Expansion (CTE), Thermoelastic Stress Analysis (TSA), Digital Image Correlation (DIC), Carbon Fibre Reinforced Polymer (CFRP)},
+abstract = {A new methodology for estimating the Coefficients of Thermal Expansion (CTEs) of orthotropic carbon fibre reinforced polymer (CFRP) composite materials is presented. The approach utilises the well-known infra-red (IR) image processing technique of Thermoelastic Stress Analysis (TSA) in combination with Digital Image Correlation (DIC). The technique requires multidirectional laminated CFRP specimens, with the well-characterised IM7/8552 CFRP material system used for demonstration purposes. The stress induced temperature change generated in a material subject to cyclic loading is different for each ply in a multidirectional laminate, causing heat transfer through the thickness of the specimen and subsequent deviation from the adiabatic conditions required for TSA. A 1D analytical model of the heat transfer is fitted to the temperature change extracted from the IR image series captured over a range of loading frequencies. By minimising the difference between experimental data and the model it is possible to identify the two in-plane CTEs for the composite lamina. The model requires a knowledge of the applied strain, which is obtained using the DIC. The new approach is compared to conventional techniques for obtaining the CTEs, i.e. Thermomechanical Analysis (TMA) and laser interferometry. It is shown that more consistent and repeatable values for the CTEs can be obtained efficiently using the temperature change resulting from non-adiabatic conditions.}
+}

@@ -1,0 +1,13 @@
+@article{YANG2025108844,
+title = {Development of Eco-Friendly synergistic intumescent flame retardants for enhanced thermal stability and fire resistance of biomass TPU composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {193},
+pages = {108844},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108844},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25001381},
+author = {Chane-Yuan Yang and Ting-Yu Liang and Chin-Lung Chiang and Hsu-Chiang Kuan and Chen-Feng Kuan},
+keywords = {Intumescent flame retardant, Biomass-based thermoplastic polyurethane, Biomass-based chitosan, Thermal stability enhancement, Sustainable flame retardant, Circular economy},
+abstract = {This study presents the development of a novel synergistic intumescent flame retardant (IFR) composed of tetraethoxysilane (TEOS) and bio-based chitosan (CS) as the carbon source, ammonium polyphosphate (APP) as the acid source, and melamine cyanurate (MCA) as the gas source. The novel TEOS/CS/APP/MCA (TCAM) IFR, which exhibited both reactive and coupling compatibility, was incorporated into biomass thermoplastic polyurethane (TPU) at varying loadings to fabricate TPU/TCAM composites. Comprehensive analysis and characterization demonstrated that the TPU composite with 20% TCAM loading exhibited superior flame retardancy and thermal stability. Vertical combustion tests (UL-94) revealed that TCAM incorporation eliminated melt dripping and enabled the TPU/TCAM 20% composite to achieve the highest V-0 rating, while the limiting oxygen index (LOI) increased significantly from 22% for neat TPU to 28%. Cone calorimetry test results indicated substantial reductions in the peak heat release rate, total heat release, and peak smoke production rate. Thermogravimetric analysis (TGA) revealed a remarkable increase in char residue from 0.52 wt% for pure TPU to 17.78 wt% for TPU/TCAM 20%, highlighting the formation of an expanded char layer that effectively served as a barrier in the condensed phase. Furthermore, TCAM demonstrated free radical quenching in the gaseous phase and synergistic flame retardancy, as confirmed by FTIR, TG-IR, SEM, XPS, and Raman spectroscopy analyses. This work verified the effectiveness of bio-based chitosan in enhancing the flame retardancy of biomass TPU, offering a high-performance and sustainable solution aligned with the principles of the circular economy.}
+}

@@ -1,0 +1,13 @@
+@article{JING2025105775,
+title = {Multimodal feature integration network for lithology identification from point cloud data},
+journal = {Computers & Geosciences},
+volume = {194},
+pages = {105775},
+year = {2025},
+issn = {0098-3004},
+doi = {https://doi.org/10.1016/j.cageo.2024.105775},
+url = {https://www.sciencedirect.com/science/article/pii/S0098300424002589},
+author = {Ran Jing and Yanlin Shao and Qihong Zeng and Yuangang Liu and Wei Wei and Binqing Gan and Xiaolei Duan},
+keywords = {Point cloud, Digital outcrop, Lithology identification, Deep learning},
+abstract = {Accurate lithology identification from outcrop surfaces is crucial for interpreting geological 3D data. However, challenges arise due to factors such as severe weathering and vegetation coverage, which hinder achieving ideal identification results with both accuracy and efficiency. The integration of 3D point cloud technology and deep learning methodologies presents a promising solution to address these challenges. In this study, we propose a novel multimodal feature integration network designed to distinguish various rock types from point clouds. Our network incorporates a multimodal feature integration block equipped with multiple attention mechanisms to extract representative deep features, along with a hierarchical feature separation block to leverage these features for precise segmentation of points corresponding to different lithologies. Furthermore, we introduce a specialized loss function tailored for rock type identification to enhance network training. Through experiments involving point cloud sampling strategies and loss function evaluation, we identify the optimal network configuration. Comparative analyses against baseline methods demonstrate the superiority of our proposed network across diverse study areas reconstructed from UAV images and laser scanner data, exhibiting improved visual appearance and metric values (Accuracy = 0.978, mean Accuracy = 0.895, mean IoU = 0.857). These findings underscore the efficacy of the multimodal feature integration network as a promising approach for lithology identification tasks in various digital outcrop models derived from heterogeneous data sources.}
+}

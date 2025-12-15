@@ -1,0 +1,13 @@
+@article{LUO2025118701,
+title = {An ultrasonic Lamb wave-based non-linear exponential RAPID method for delamination detection in composites},
+journal = {Composite Structures},
+volume = {352},
+pages = {118701},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118701},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324008298},
+author = {Kai Luo and Liang Chen and Yuan Chen and Lin Ye and Sunquan Yu},
+keywords = {Carbon-fiber reinforced polymer (CFRP), Baseline-free, Delamination detection, Composite plates, Lamb wave, Probabilistic inspection},
+abstract = {Accurate detection of defects, particularly delamination, in carbon-fiber reinforced polymer (CFRP) composites is crucial but challenging. This study proposes a baseline-free Lamb wave damage imaging framework that incorporates an adaptive time-reversal technique and a nonlinear exponential reconstruction algorithm for probabilistic inspection of defects (NE-RAPID) in composites. The framework combines two image fusion strategies: full-summation and full-multiplication. NE-RAPID enhances the traditional RAPID algorithm by replacing linear weights with faster-decaying exponential weights, which improves the localization of delamination and other defect regions with higher resolution. A nonlinear exponential weighting function is introduced to address uneven probability distributions caused by the non-uniform density of the sensor network, thereby improving the accuracy and reliability of defect detection, including delamination. Experimental validation on CFRP composite plates demonstrates that NE-RAPID significantly outperforms RAPID. NE-RAPID achieves a maximum detection error of only 5.1 mm across different frequencies, whereas RAPID shows a much higher error of 34.41 mm. Furthermore, NE-RAPID generates sharper damage images with fewer artifacts, significantly reducing the risk of false positives and improving the overall detection reliability. These findings indicate that NE-RAPID is a highly promising method for precise and reliable delamination detection in composite materials.}
+}

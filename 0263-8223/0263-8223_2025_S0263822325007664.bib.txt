@@ -1,0 +1,13 @@
+@article{LI2025119601,
+title = {Dielectric-loaded waveguide probe for microwave non-destructive evaluation of glass fibre-reinforced polymer composites},
+journal = {Composite Structures},
+volume = {372},
+pages = {119601},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.119601},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822325007664},
+author = {Zhen Li and Fei Fei and Zhaozong Meng},
+keywords = {Dielectric-loaded waveguide, Non-destructive detection, Microwave technique, Composite materials, Subsurface defects, Impact damage},
+abstract = {Glass fibre-reinforced polymer (GFRP) composites have been widely used in aerospace, wind energy, marine and various other industries for their high stiffness and strength. However, the structural integrity can be significantly compromised by defects introduced during manufacturing and field use. This work presents a novel microwave-based non-destructive detection approach using an open-ended rectangular waveguide loaded with a thin dielectric slab. With this configuration, the electromagnetic field is concentrated compared with an empty waveguide, leading to improved spatial resolution. The theoretical analysis and design strategy for the slab are presented in detail. A new signal processing method is proposed for the optimal selection of inspection frequency. In the test, a 1 mm thick dielectric slab with a dielectric constant of 16 was centred in a Ka-band (26.5–40 GHz) rectangular waveguide. Subsurface grooves (1 and 2 mm wide), flat-bottom holes (2 mm in diameter with depths ranging from 1 mm to 9 mm) and 10 J barely visible impact damage were successfully detected. The effectiveness of two other imaging methods, namely time-domain reflectometry and synthetic aperture focusing, is well demonstrated. The defects can also be readily identified in the B-scan, C-scan and 3D time-domain images produced. The synthetic aperture focusing technique significantly enhances the signal contrast.}
+}

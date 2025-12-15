@@ -1,0 +1,13 @@
+@article{ABDOUSSALAM2025111015,
+title = {Simulation of thermal degradation in a composite material using phase field method},
+journal = {Composites Science and Technology},
+volume = {261},
+pages = {111015},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2024.111015},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353824005864},
+author = {M. Abdoussalam and A. Nait-Ali and B. Batiot and M. Calvat and D. Halm},
+keywords = {Composite materials, Microstructure, Pyrolysis, Thermal degradation, Interface, Coupling, Gradient-based model, Phase field},
+abstract = {Carbon fibers/epoxy resin composite laminates decompose by pyrolysis when submitted to high heat fluxes under inert atmosphere. A rigorous thermodynamic approach with internal variables has been adopted to better capture the phenomenon under study. In the literature, the models used to describe this degradation generally do not take into account the influence of microstructural heterogeneity on the decomposition rate, on the degradation kinetics and, consequently, on the propagation of the thermal front decomposition. To consider the variability of the composite microstructure, simulations at the microscale were conducted, involving a strong coupling between the evolution of the thermal degradation rate (which follows an Arrhenius law) and the temperature evolution using the phase-field method. An experimental approach with cone calorimeter has been undertaken to achieve two major objectives: first, to calibrate model parameters, and then to compare the numerical results with experimental data for the purpose of model validation. This comparison will focus on the analysis of degradation kinetics as well as the evolution of mass loss.}
+}

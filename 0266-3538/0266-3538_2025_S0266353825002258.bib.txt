@@ -1,0 +1,13 @@
+@article{LIN2025111257,
+title = {High-performance boron nitride epoxy composites via dendritic amino surface modification for advanced packaging applications},
+journal = {Composites Science and Technology},
+volume = {270},
+pages = {111257},
+year = {2025},
+issn = {0266-3538},
+doi = {https://doi.org/10.1016/j.compscitech.2025.111257},
+url = {https://www.sciencedirect.com/science/article/pii/S0266353825002258},
+author = {Zihao Lin and Alexandar King and Ju Won Lim and Kaushik Godbole and Kyoung-Sik Moon and Wen-Hsi Lee and Ching-Ping Wong},
+keywords = {Thermal management, BN surface functionalization, Dendritic growth, Epoxy composite, Advanced packaging},
+abstract = {In this study, a rapid and scalable surface functionalization strategy is developed to enhance the interfacial thermal transport between hexagonal boron nitride (h-BN) fillers and epoxy matrices for high-performance thermal interface materials (TIMs). The modification process was employed: initial grafting of glycine onto BN surfaces, followed by Aza-Michael addition reactions to generate a hyperbranched polyacrylate/polyamine network. The optimized BN@G21-PA filler, when incorporated into an epoxy matrix at 30 wt%, achieved a thermal conductivity of 1.05 W/m·K, representing a 452.6 % increase over neat epoxy. Compared to unmodified BN, the interfacial thermal resistance was reduced by over 50 %, as estimated via effective medium theory. The composites also exhibited largely enhanced thermomechanical properties, including lower coefficient of thermal expansion (CTE), higher storage modulus, improved glass transition temperature, and superior rheological characteristics. Both experimentation and simulation further validated the superior cooling performance and system-level thermal management capability of BN@G21-PA composites in the performance tests on the TIMs. This work demonstrates an effective route toward next-generation polymer composites for advanced electronic packaging applications.}
+}

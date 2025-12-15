@@ -1,0 +1,13 @@
+@article{BELOUETTAR2025118980,
+title = {DeeMa-Hub: Cloud-enabled semantic platform for data-driven multiscale co-design and co-simulation of composite materials and structures},
+journal = {Composite Structures},
+volume = {360},
+pages = {118980},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2025.118980},
+url = {https://www.sciencedirect.com/science/article/pii/S026382232500145X},
+author = {Salim Belouettar and Mahdi Ben Amor and Bořek Patzák and Heng Hu},
+keywords = {Computational hub, Interoperability framework, Co-simulation, Collaboration, Ontology, Composite materials and structures, Decision making, BPMN, Co-simulation platform, Innovation hub},
+abstract = {This paper presents DeeMa-Hub, a cloud-based microservices ecosystem designed to support collaborative research and decision making in composite materials design and manufacturing. DeeMa-Hub integrates data management, modeling, co-simulation, and decision-making functionalities into a cohesive collaborative platform. The architecture is organized into three main layers: the Data Layer, the Modeling and Simulation Layer, and the Collaborative Interface Layer, enabling efficient data handling, complex computational workflows, and team-driven processes. The platform’s cloud infrastructure, leveraging Microsoft Azure services, provides scalability, accessibility, and robust data security, accommodating the demands of high-performance composite materials simulations and data analysis. Central to the platform’s operation is the Modeling and Simulation Layer, managed by MuPIF (Multi-Physics Interoperability Framework), which supports interoperable, multi-scale adn multi-physical simulation workflows. This layer uses standardized APIs to handle diverse simulation models and data structures, ensuring integration with various simulation platforms and enabling workflow automation. The Collaborative Layer utilizes Business Process Model and Notation (BPMN) and Decision Model and Notation (DMN) frameworks to facilitate process management and decision logic, allowing users to collaboratively design and control workflows and decisions in real time. DeeMa-Hub’s cloud-deployed structure supports dynamic scaling, automated resource allocation, and high availability through Azure’s autoscaling and load balancing. The platform is equipped with Azure DevOps for continuous integration and deployment, enabling rapid updates. Through its structured, scalable design, DeeMa-Hub provides a secure, flexible environment for composite materials research, promoting collaborative, data-driven innovation.}
+}

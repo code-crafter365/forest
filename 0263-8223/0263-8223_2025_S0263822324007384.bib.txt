@@ -1,0 +1,13 @@
+@article{PATHAK2025118610,
+title = {Examining infrared thermography based approaches to rapid fatigue characterization of additively manufactured compression molded short fiber thermoplastic composites},
+journal = {Composite Structures},
+volume = {351},
+pages = {118610},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118610},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324007384},
+author = {P. Pathak and S. Gururaja and V. Kumar and D. Nuttall and A. Mahmoudi and M.M. Khonsari and U. Vaidya},
+keywords = {SFTs, AM-CM, Infrared thermography, Fatigue, Self-heating},
+abstract = {A novel additive manufacturing (AM) methodology combined with a compression molding (CM) process has been previously developed to optimize the microstructure of short fiber thermoplastic (SFTs) composites with higher fiber alignment and lower porosity, yielding superior stiffness, strength, and structural integrity. The current work examines the efficacy of the ‘passive’ infrared thermography (IRT) techniques for rapid fatigue characterization of SFTs that use the surface temperature evolution during cyclic loading due to self-heating as a fatigue indicator. A comparison of fatigue limits obtained from traditional stress-life (SN) (≈53.1%σuts) and IRT (≈54.1%σuts) shows a close match. However, the SN curve required 18 specimens and two weeks of continuous cyclic testing, while IRT used three specimens with 5 h of testing. Thus, the IRT approach provides an accelerated testing framework for rapidly estimating the fatigue limit. Additionally, existing phenomenological approaches to IRT fatigue characterization have been examined.}
+}

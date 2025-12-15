@@ -1,0 +1,18 @@
+@article{ZHONG2025114888,
+title = {Cuproptosis-based nanoparticles for cascade reaction to boost radioimmunotherapy},
+journal = {Colloids and Surfaces B: Biointerfaces},
+volume = {255},
+pages = {114888},
+year = {2025},
+issn = {0927-7765},
+doi = {https://doi.org/10.1016/j.colsurfb.2025.114888},
+url = {https://www.sciencedirect.com/science/article/pii/S0927776525003959},
+author = {Yang Zhong and Yang Zhang and Wei Peng and Nan Wei and Xiaopeng Li and Hua Wang and Zhanggui Wang and Zhi Chen},
+keywords = {Radiotherapy, Cuproptosis, Tumor microenvironment, Fenton-like activity, Immune response},
+abstract = {Background
+Radiation resistance significantly limits the effectiveness of radiotherapy, presenting substantial challenges in breast cancer treatment.
+Methods
+This work developed a novel cuproptosis-based nanoparticle system, ZnO2@Cu, composed of a ZnO2 core and a Cu-doped polydopamine shell. The nanoparticles were characterized using transmission electron microscopy (TEM) for morphology, X-ray photoelectron spectroscopy (XPS) for elemental analysis, and dynamic light scattering (DLS) for stability assessment. In the mild acidic tumor microenvironment, ZnO2@Cu decomposed, releasing copper ions and ZnO2, which generated significant amounts of H2O2. The released copper ions triggered cuproptosis and depleted glutathione (GSH), while also converting H2O2 into toxic reactive oxygen species (ROS) through Fenton-like activity. Upon X-ray irradiation, the radiotherapy-induced tumor cell death synergized with copper ion-induced cuproptosis and the Fenton-like activity promoted by ZnO2@Cu.
+Conclusion
+In vivo experiments demonstrated that ZnO2@Cu mediated a cascade reaction that generated abundant ROS, induced cuproptosis by disrupting copper metabolism, and effectively killed tumor cells under X-ray irradiation. This process promoted immunogenic cell death (ICD), activated systemic immune responses, and alleviated radioresistance through ROS generation and cuproptosis, leading to enhanced tumor suppression.}
+}

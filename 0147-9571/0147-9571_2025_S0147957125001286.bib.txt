@@ -1,0 +1,13 @@
+@article{SALCEDOJIMENEZ2025102420,
+title = {Modeling and field-derived insights into canine leptospirosis in feral and domestic dogs of Texcoco, Mexico: A One Health approach},
+journal = {Comparative Immunology, Microbiology and Infectious Diseases},
+volume = {124},
+pages = {102420},
+year = {2025},
+issn = {0147-9571},
+doi = {https://doi.org/10.1016/j.cimid.2025.102420},
+url = {https://www.sciencedirect.com/science/article/pii/S0147957125001286},
+author = {José Salcedo-Jiménez and Yazmín Alcala-Canto and Ernestina Valadez-Moctezuma and Juan José Pérez-Rivero},
+keywords = {Public health, Feral dogs, Domestic dogs,  spp, MAT, Epidemiological modeling},
+abstract = {Leptospirosis, a globally important zoonosis, poses a significant health risk to both human and animal populations. This study aimed to determine the seroprevalence of Leptospira spp. in feral and domestic dogs in Texcoco, Mexico, and to model the disease's transmission dynamics. We tested 349 asymptomatic dogs using the Microscopic Agglutination Test (MAT) for antibodies against multiple serovars. To simulate disease spread, we developed a Susceptible–Exposed–Infectious–Chronic–Recovered–Deceased (S-E-I-C-R-D) compartmental model, simulating transmission over 365 days. Overall seropositivity was 51 % (178/349), with a higher prevalence in feral dogs (55.3 %) and in non-vaccinated animals. The most frequent serovars were L. canicola (79.7 %) and L. bratislava (45.6 %). The model projected sustained transmission within the feral dog population, with prevalence peaking and stabilizing at a high level. This finding, with a simulated prevalence that approached 98 %, suggests that chronic carriers and constant environmental exposure could drive high pathogen circulation. Domestic dogs, while showing a lower simulated prevalence, likely contribute to the pathogen's persistent circulation. The combination of high field seroprevalence and model-based findings underscores that leptospirosis remains a significant public health concern in Texcoco, highlighting the urgent need for integrated control strategies that include vaccination, rodent management, and community education, aligned with a One Health approach that links animal, human, and environmental health.}
+}

@@ -1,0 +1,13 @@
+@article{MASTENDAVIES2025108956,
+title = {Investigating the welding and healing of epoxy anhydride vitrimer carbon fibre composites},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {196},
+pages = {108956},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2025.108956},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X25002507},
+author = {Jeffrey Masten-Davies and Le Quan {Ngoc Tran} and Juan Zhang and Russell J. Varley},
+keywords = {Epoxy anhydride vitrimers, Interleaving, Welding, Healing},
+abstract = {In this work, epoxy anhydride vitrimer carbon fibre composites utilising glutaric and methyl nadic anhydride as hardeners are manufactured according to different fibre architectures and interleaves to explore their weldability and healing efficiency. The interleaves consisted of a traditional uncured epoxy anhydride prepreg and a film of poly(ethylene-co-methacrylic acid) (EMAA) thermoplastic. The durability of the individually cured vitrimer plies is demonstrated by their exposure to elevated temperature and water immersion, where the thermal properties were only marginally affected and did not impact the fabrication of the subsequent composite. The welding of the vitrimer only and interleaved vitrimer composites via compression moulding displayed very good consolidation and few voids are observed, indicating excellent fibre matrix adhesion and dynamic behaviour during manufacture. In relation to healing after failure, over 100% property restoration is observed for the glutaric anhydride-based composite after two healing events, although the nadic methyl anhydride-containing composite displays comparatively poor recovery. Good healing behaviour for the interleaved systems, the non-vitrimer prepreg and the EMAA, highlighted the robust nature of dynamic covalent networks. This study shows that epoxy anhydride polymer networks with varying mechanical and thermal properties can indeed display excellent weldability and healing, offering the potential for a more resource-efficient composite industry.}
+}

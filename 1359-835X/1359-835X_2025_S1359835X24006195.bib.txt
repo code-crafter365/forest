@@ -1,0 +1,13 @@
+@article{LI2025108621,
+title = {Bioactive glass empowered growable composite resin enabling a seamless dental caries filling},
+journal = {Composites Part A: Applied Science and Manufacturing},
+volume = {189},
+pages = {108621},
+year = {2025},
+issn = {1359-835X},
+doi = {https://doi.org/10.1016/j.compositesa.2024.108621},
+url = {https://www.sciencedirect.com/science/article/pii/S1359835X24006195},
+author = {Baokui Li and Jilin Wu and Yanmei Dong and Dong Qiu},
+keywords = {Microgap, Dental caries, Growable composite resin, Bioactive glass},
+abstract = {Direct composite resin restoration is the primary treatment for dental caries. However, the polymerization contraction of resin usually results in microgap formation at the resin/dentin interface, which inevitably accommodates cariogenic bacteria and their biofilm, thus eventually leading to secondary caries, one of the most important causes accounting for the failure of dental restoration. Inhibiting cariogenic bacteria adhesion and promoting dentin remineralization are common approaches to prevent secondary caries. However, the former is prone to cause unexpected side-effects and the latter can only temporarily slow down, but not completely prevent the development of secondary caries. Therefore, strategies to avoid these microgaps, thus preventing secondary caries are highly demanding. Here, we developed a growable dental composite resin, which is characterized by its fast formation of large quantity of hydroxyapatite upon reacting with physiological medium, for example, saliva or body fluid, empowered by bioactive glass fillers. The newly formed hydroxyapatite provides a perfect sealing of resin/dentin microgaps, successfully achieving a seamless dental caries filling. The moderate hydrophobic modification on the surface of bioactive glass enables the composite resin to possess excellent mechanical properties, thereby overcoming the contradiction between their mineralization capability and interfacial compatibility. This work provides an innovative and facile approach to tackle the challenge of secondary dental caries, thus may have immediate clinical significance.}
+}

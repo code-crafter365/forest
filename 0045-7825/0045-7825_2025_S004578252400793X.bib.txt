@@ -1,0 +1,13 @@
+@article{VENGHAUS2025117539,
+title = {Embedded technology for enhanced modeling of Friction Stir Welding processes},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {435},
+pages = {117539},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2024.117539},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252400793X},
+author = {H. Venghaus and M. Chiumenti and J. Baiges and D. Juhre and N. Dialami},
+keywords = {Friction Stir Welding, Finite element method, Embedded domain method, Cut finite elements, Experimental validation},
+abstract = {Friction Stir Welding (FSW) is a solid-state joining process that has several benefits over conventional welding techniques. A major challenge is its high sensitivity to process parameters such as advancing and rotational speed. Simulations are a key tool for understanding the material flow and temperature evolution and help to find the best processing parameters for a given FSW task. This work proposes using the Embedded Domain Method (EDM) for the simulation of FSW to overcome the limitations of (purely) Lagrangian, Eulerian, or Arbitrary Lagrangian Eulerian (ALE) approaches. In the proposed approach, a CAD geometry of the rotating pin tool is embedded at runtime into the computational domain, which represents the to-be-welded workpieces. Resulting interface elements are integrated using a boundary conforming subintegration approach, and various stabilization techniques are employed to stabilize the thermo-mechanical problem and potential cut element instabilities. The predicted reaction forces and temperature evolution curves are in excellent agreement with experimental reference data and the sensitivity analysis of process parameters shows that the model can be used to make targeted adjustments of said parameters to gain greater control over the process.}
+}

@@ -1,0 +1,13 @@
+@article{JIMENEZ2025118033,
+title = {Plastic-Damage model for cyclic loading. Use of the Rule of Mixtures in homogeneous materials},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {442},
+pages = {118033},
+year = {2025},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2025.118033},
+url = {https://www.sciencedirect.com/science/article/pii/S0045782525003056},
+author = {S. Jiménez and L.G. Barbu and A. Cornejo and S. Oller},
+keywords = {Fracture mechanics, Plasticity, Damage, Cyclic loading, Constitutive modelling, Concrete},
+abstract = {A novel plastic-damage model is presented for the study of materials exhibiting combined plastic strain accumulation and stiffness degradation. This constitutive law is based on a phenomenological pseudo-composite theory, the Rule of Mixture (RoM), in which each constitutive behaviour, damage and plasticity, act as a virtual material component of the whole physical entity. In this way, each nonlinearity is approached individually and a problem that generally involves sophisticated and complex models is here addressed in a simple and easily adaptable format. In this research, the described base model, which combines an isotropic damage model and an isotropic hardening plasticity model defining a constant participation ratio, is enhanced to allow adapting the material response throughout its life. This is achieved by transforming the participation variable into a function of the degradation state measured in terms of the level of damage. This allowing behaviours in the material that fluctuate from pure damage to pure plasticity as required. The consistency of the resulting model and the irreversibility condition of the inelastic processes are verified and afterwards the capabilities of the proposed model are demonstrated through several numerical examples, in which various frictional materials are exposed to cyclic loading. The outputs are compared against experimental and numerical benchmark results from the literature, proving the potential of the model.}
+}

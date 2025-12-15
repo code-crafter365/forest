@@ -1,0 +1,13 @@
+@article{FU2025118807,
+title = {Elastic-plastic responses of honeycomb beams under large deformation three-point bending},
+journal = {Composite Structures},
+volume = {354},
+pages = {118807},
+year = {2025},
+issn = {0263-8223},
+doi = {https://doi.org/10.1016/j.compstruct.2024.118807},
+url = {https://www.sciencedirect.com/science/article/pii/S0263822324009358},
+author = {Xinrong Fu and Xiong Zhang},
+keywords = {Large deformation bending, Theoretical analysis, Energy absorption, Bending moment distribution, Honeycomb beams},
+abstract = {The force responses of thin-walled beams under three-point bending can be divided into an elastic–plastic stage and a subsequent buckling stage. An accurate theoretical analysis of the elastic–plastic responses of the beams is the first step to predict their bending responses and help design the beams with better performances. However, the linear small deformation theory is still widely applied in the analysis of beams under three-point bending, leading to significant errors in the elastic–plastic force or bending moment responses of the beams. In this work, the elastic–plastic responses of honeycomb beams are analyzed theoretically with the consideration of the influence of large deformation. A theoretical solution for the bending moment distribution along beams is first derived based on a large deformation bending model. The elastic–plastic responses of the beam are obtained based on the bending moment distribution. Some problems on the large deformation bending theory are then discussed. Finally, the accuracy of the proposed theory is demonstrated. The newly proposed large deformation bending theory predicts the elastic–plastic responses of honeycomb beams with much better accuracy than the small deformation bending theory. The maximum difference in the average bending moment between the theory and simulation drops from 11.2 % to 4.5 %.}
+}
